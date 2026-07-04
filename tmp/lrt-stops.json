@@ -1,0 +1,342 @@
+[
+  {
+    "code": "AFF",
+    "tc": "澤豐",
+    "en": "Affluence"
+  },
+  {
+    "code": "BUT",
+    "tc": "蝴蝶",
+    "en": "Butterfly"
+  },
+  {
+    "code": "CHC",
+    "tc": "青松",
+    "en": "Ching Chung"
+  },
+  {
+    "code": "CHE",
+    "tc": "翠湖",
+    "en": "Chestwood"
+  },
+  {
+    "code": "CHF",
+    "tc": "頌富",
+    "en": "Chung Fu"
+  },
+  {
+    "code": "CUT",
+    "tc": "鍾屋村",
+    "en": "Chung Uk Tsuen"
+  },
+  {
+    "code": "CYB",
+    "tc": "蔡意橋",
+    "en": "Choy Yee Bridge"
+  },
+  {
+    "code": "FEP",
+    "tc": "屯門碼頭",
+    "en": "Tuen Mun Ferry Pier"
+  },
+  {
+    "code": "FNR",
+    "tc": "豐年路",
+    "en": "Fung Nin Road"
+  },
+  {
+    "code": "FUT",
+    "tc": "鳳地",
+    "en": "Fung Tei"
+  },
+  {
+    "code": "GIN",
+    "tc": "銀座",
+    "en": "Ginza"
+  },
+  {
+    "code": "GOG",
+    "tc": "豐景園",
+    "en": "Goodview Garden"
+  },
+  {
+    "code": "HFT",
+    "tc": "何福堂",
+    "en": "Hoh Fuk Tong"
+  },
+  {
+    "code": "HLR",
+    "tc": "康樂路",
+    "en": "Hong Lok Road"
+  },
+  {
+    "code": "HMT",
+    "tc": "坑尾村",
+    "en": "Hang Mei Tsuen"
+  },
+  {
+    "code": "HOT",
+    "tc": "河田",
+    "en": "Ho Tin"
+  },
+  {
+    "code": "HSK",
+    "tc": "洪水橋",
+    "en": "Hung Shui Kiu"
+  },
+  {
+    "code": "KEL",
+    "tc": "麒麟",
+    "en": "Kei Lun"
+  },
+  {
+    "code": "KIO",
+    "tc": "建安",
+    "en": "Kin On"
+  },
+  {
+    "code": "KIS",
+    "tc": "建生",
+    "en": "Kin Sang"
+  },
+  {
+    "code": "LEK",
+    "tc": "良景",
+    "en": "Leung King"
+  },
+  {
+    "code": "LOC",
+    "tc": "樂湖",
+    "en": "Locwood"
+  },
+  {
+    "code": "LRD",
+    "tc": "輕鐵車廠",
+    "en": "Light Rail Depot"
+  },
+  {
+    "code": "LTE",
+    "tc": "藍地",
+    "en": "Lam Tei"
+  },
+  {
+    "code": "LUM",
+    "tc": "龍門",
+    "en": "Lung Mun"
+  },
+  {
+    "code": "MEG",
+    "tc": "美樂",
+    "en": "Melody Garden"
+  },
+  {
+    "code": "MIK",
+    "tc": "鳴琴",
+    "en": "Ming Kum"
+  },
+  {
+    "code": "NAW",
+    "tc": "泥圍",
+    "en": "Nai Wai"
+  },
+  {
+    "code": "NGW",
+    "tc": "銀圍",
+    "en": "Ngan Wai"
+  },
+  {
+    "code": "ONT",
+    "tc": "安定",
+    "en": "On Ting"
+  },
+  {
+    "code": "PIS",
+    "tc": "屏山",
+    "en": "Ping Shan"
+  },
+  {
+    "code": "PRV",
+    "tc": "景峰",
+    "en": "Prime View"
+  },
+  {
+    "code": "PUT",
+    "tc": "杯渡",
+    "en": "Pui To"
+  },
+  {
+    "code": "SAH",
+    "tc": "新墟",
+    "en": "San Hui"
+  },
+  {
+    "code": "SAS",
+    "tc": "三聖",
+    "en": "Sam Shing"
+  },
+  {
+    "code": "SAW",
+    "tc": "新圍",
+    "en": "San Wai"
+  },
+  {
+    "code": "SHE",
+    "tc": "兆禧",
+    "en": "Siu Hei"
+  },
+  {
+    "code": "SHL",
+    "tc": "兆康",
+    "en": "Siu Hong"
+  },
+  {
+    "code": "SHP",
+    "tc": "石排",
+    "en": "Shek Pai"
+  },
+  {
+    "code": "SIL",
+    "tc": "兆麟",
+    "en": "Siu Lun"
+  },
+  {
+    "code": "SKN",
+    "tc": "山景(北)",
+    "en": "Shan King (North)"
+  },
+  {
+    "code": "SKS",
+    "tc": "山景(南)",
+    "en": "Shan King (South)"
+  },
+  {
+    "code": "SPW",
+    "tc": "水邊圍",
+    "en": "Shui Pin Wai"
+  },
+  {
+    "code": "TFU",
+    "tc": "天富",
+    "en": "Tin Fu"
+  },
+  {
+    "code": "THE",
+    "tc": "天恒",
+    "en": "Tin Heng"
+  },
+  {
+    "code": "THN",
+    "tc": "大興(北)",
+    "en": "Tai Hing (North)"
+  },
+  {
+    "code": "THS",
+    "tc": "大興(南)",
+    "en": "Tai Hing (South)"
+  },
+  {
+    "code": "TIT",
+    "tc": "天慈",
+    "en": "Tin Tsz"
+  },
+  {
+    "code": "TIY",
+    "tc": "天耀",
+    "en": "Tin Yiu"
+  },
+  {
+    "code": "TMH",
+    "tc": "屯門醫院",
+    "en": "Tuen Mun Hospital"
+  },
+  {
+    "code": "TML",
+    "tc": "屯門",
+    "en": "Tuen Mun"
+  },
+  {
+    "code": "TNK",
+    "tc": "田景",
+    "en": "Tin King"
+  },
+  {
+    "code": "TOC",
+    "tc": "市中心",
+    "en": "Town Centre"
+  },
+  {
+    "code": "TOF",
+    "tc": "塘坊村",
+    "en": "Tong Fong Tsuen"
+  },
+  {
+    "code": "TSA",
+    "tc": "天秀",
+    "en": "Tin Sau"
+  },
+  {
+    "code": "TSL",
+    "tc": "天水圍",
+    "en": "Tin Shui Wai"
+  },
+  {
+    "code": "TSP",
+    "tc": "屯門泳池",
+    "en": "Tuen Mun Swimming Pool"
+  },
+  {
+    "code": "TSS",
+    "tc": "青山村",
+    "en": "Tsing Shan Tsuen"
+  },
+  {
+    "code": "TSU",
+    "tc": "天瑞",
+    "en": "Tin Shui"
+  },
+  {
+    "code": "TTR",
+    "tc": "大棠路",
+    "en": "Tai Tong Road"
+  },
+  {
+    "code": "TWI",
+    "tc": "天榮",
+    "en": "Tin Wing"
+  },
+  {
+    "code": "TWN",
+    "tc": "青雲",
+    "en": "Tsing Wun"
+  },
+  {
+    "code": "TWU",
+    "tc": "天湖",
+    "en": "Tin Wu"
+  },
+  {
+    "code": "TYA",
+    "tc": "天逸",
+    "en": "Tin Yat"
+  },
+  {
+    "code": "TYU",
+    "tc": "天悅",
+    "en": "Tin Yuet"
+  },
+  {
+    "code": "WEP",
+    "tc": "濕地公園",
+    "en": "Wetland Park"
+  },
+  {
+    "code": "YAO",
+    "tc": "友愛",
+    "en": "Yau Oi"
+  },
+  {
+    "code": "YLL",
+    "tc": "元朗",
+    "en": "Yuen Long"
+  }
+]
