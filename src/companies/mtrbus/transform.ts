@@ -1,40 +1,15 @@
-import { Bound, Company, type Localized } from "../../types.js";
+import {
+  Bound,
+  Company,
+  compositeId,
+  type Localized,
+  type RouteOutput,
+  type RouteStopsOutput,
+  type StopOutput,
+} from "../../types.js";
 import type { MtrbDir, MtrbRoute, MtrbStop } from "./api.js";
 
-export type RouteOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: string;
-  bound: Bound;
-  serviceType: string;
-  origin: Localized;
-  destination: Localized;
-};
-
-export type StopOutput = {
-  seq: number;
-  stopId: string;
-  name: Localized;
-  lat: number;
-  long: number;
-};
-
-export type RouteStopsOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: string;
-  bound: Bound;
-  serviceType: string;
-  stops: StopOutput[];
-};
-
 const SERVICE_TYPE = "1";
-
-function compositeId(company: Company, routeId: string, bound: Bound, serviceType: string): string {
-  return `${company}-${routeId}-${bound}-${serviceType}`;
-}
 
 function dirToBound(d: MtrbDir): Bound {
   return d === "O" ? Bound.Outbound : Bound.Inbound;
@@ -118,7 +93,7 @@ export function transformRoutes(routes: MtrbRoute[], stops: MtrbStop[]): RouteOu
         route_id: r.REFERENCE_ID,
         route: r.ROUTE_ID,
         bound,
-        serviceType: SERVICE_TYPE,
+        service_type: SERVICE_TYPE,
         origin,
         destination,
       });
@@ -149,7 +124,7 @@ export function transformRouteStops(
       const bound = dirToBound(dir);
       const stopOutputs: StopOutput[] = list.map((s) => ({
         seq: Number(s.STATION_SEQNO),
-        stopId: s.STATION_ID,
+        stop_id: s.STATION_ID,
         name: { en: s.STATION_NAME_ENG, tc: s.STATION_NAME_CHI, sc: s.STATION_NAME_CHI },
         lat: Number(s.STATION_LATITUDE),
         long: Number(s.STATION_LONGITUDE),
@@ -161,7 +136,7 @@ export function transformRouteStops(
         route_id: refId,
         route: route.ROUTE_ID,
         bound,
-        serviceType: SERVICE_TYPE,
+        service_type: SERVICE_TYPE,
         stops: stopOutputs,
       });
     }

@@ -1,38 +1,11 @@
-import { Bound, Company, type Localized } from "../../types.js";
+import {
+  Bound,
+  Company,
+  compositeId,
+  type RouteOutput,
+  type RouteStopsOutput,
+} from "../../types.js";
 import type { KmbBound, KmbRoute, KmbRouteStop, KmbStop } from "./api.js";
-
-export type RouteOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: string;
-  bound: Bound;
-  serviceType: string;
-  origin: Localized;
-  destination: Localized;
-};
-
-export type StopOutput = {
-  seq: number;
-  stopId: string;
-  name: Localized;
-  lat: number;
-  long: number;
-};
-
-export type RouteStopsOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: string;
-  bound: Bound;
-  serviceType: string;
-  stops: StopOutput[];
-};
-
-function compositeId(company: Company, route: string, bound: Bound, serviceType: string): string {
-  return `${company}-${route}-${bound}-${serviceType}`;
-}
 
 function toBound(b: KmbBound): Bound {
   return b === "O" ? Bound.Outbound : Bound.Inbound;
@@ -77,7 +50,7 @@ export function transformRoutes(routes: KmbRoute[]): RouteOutput[] {
       route_id: r.route,
       route: r.route,
       bound,
-      serviceType: r.service_type,
+      service_type: r.service_type,
       origin: { en: r.orig_en, tc: r.orig_tc, sc: r.orig_sc },
       destination: { en: r.dest_en, tc: r.dest_tc, sc: r.dest_sc },
     });
@@ -109,7 +82,7 @@ export function transformRouteStops(
         route_id: rs.route,
         route: rs.route,
         bound,
-        serviceType: rs.service_type,
+        service_type: rs.service_type,
         stops: [],
       };
       groups.set(id, group);
@@ -118,7 +91,7 @@ export function transformRouteStops(
     const stop = stopById.get(rs.stop);
     group.stops.push({
       seq: Number(rs.seq),
-      stopId: rs.stop,
+      stop_id: rs.stop,
       name: stop
         ? { en: stop.name_en, tc: stop.name_tc, sc: stop.name_sc }
         : { en: "", tc: "", sc: "" },

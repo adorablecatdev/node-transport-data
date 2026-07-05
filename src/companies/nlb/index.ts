@@ -1,9 +1,9 @@
 import { removeIfExists, writeJson } from "../../lib/io.js";
-import { fetchAllRouteStops, fetchRoutes, fetchStopsById } from "./api.js";
+import { fetchAllRouteStops, fetchRoutes } from "./api.js";
 import type { RouteOutput, RouteStopsOutput } from "../../types.js";
-import { collectStopIds, transformRouteStops, transformRoutes } from "./transform.js";
+import { transformRouteStops, transformRoutes } from "./transform.js";
 
-const BASE_OUT_DIR = "out/citybus";
+const BASE_OUT_DIR = "out/nlb";
 const TEST_ROUTE_LIMIT = 2;
 
 function keyByRecordId<T extends { record_id: string }>(items: T[]): Record<string, T> {
@@ -17,42 +17,36 @@ export async function run(options: { resume?: boolean; test?: boolean } = {}): P
   const outDir = test ? `${BASE_OUT_DIR}/test` : BASE_OUT_DIR;
   const cacheDir = `${outDir}/.cache`;
   const routeStopsCache = `${cacheDir}/route-stops.json`;
-  const stopsCache = `${cacheDir}/stops.json`;
 
-  if (resume) console.log("[ctb] resume flag set — will reuse cached partial fetches");
+  if (resume) console.log("[nlb] resume flag set — will reuse cached partial fetches");
   if (test)
     console.log(
-      `[ctb] test flag set — limiting to first ${TEST_ROUTE_LIMIT} routes, writing to ${outDir}/`,
+      `[nlb] test flag set — limiting to first ${TEST_ROUTE_LIMIT} routes, writing to ${outDir}/`,
     );
 
-  console.log("[ctb] fetching routes");
+  console.log("[nlb] fetching routes");
   const allRoutes = await fetchRoutes();
   const routes = test ? allRoutes.slice(0, TEST_ROUTE_LIMIT) : allRoutes;
 
-  console.log(`[ctb] fetching route-stops for ${routes.length} routes x 2 directions`);
+  console.log(`[nlb] fetching route-stops for ${routes.length} routes`);
   const routeStopGroups = await fetchAllRouteStops(routes, {
     cachePath: routeStopsCache,
     resume,
   });
 
-  const stopIds = collectStopIds(routeStopGroups);
-  console.log(`[ctb] fetching ${stopIds.length} unique stops`);
-  const stopsById = await fetchStopsById(stopIds, { cachePath: stopsCache, resume });
-
   const routesOut: Record<string, RouteOutput> = keyByRecordId(
     transformRoutes(routes, routeStopGroups),
   );
   const routeStopsOut: Record<string, RouteStopsOutput> = keyByRecordId(
-    transformRouteStops(routeStopGroups, stopsById),
+    transformRouteStops(routes, routeStopGroups),
   );
 
   await writeJson(`${outDir}/routes.json`, routesOut);
   await writeJson(`${outDir}/route-stops.json`, routeStopsOut);
 
   await removeIfExists(routeStopsCache);
-  await removeIfExists(stopsCache);
 
   console.log(
-    `[ctb] wrote ${Object.keys(routesOut).length} routes and ${Object.keys(routeStopsOut).length} route-stop groups to ${outDir}/`,
+    `[nlb] wrote ${Object.keys(routesOut).length} routes and ${Object.keys(routeStopsOut).length} route-stop groups to ${outDir}/`,
   );
 }

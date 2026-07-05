@@ -1,35 +1,14 @@
-import { Bound, Company, type Localized } from "../../types.js";
+import {
+  Bound,
+  Company,
+  compositeId,
+  type Localized,
+  type RouteOutput,
+  type RouteStopsOutput,
+  type StopOutput,
+} from "../../types.js";
 import type { LrtDirection, LrtRouteStop } from "./api.js";
 import { STOP_LOCATION } from "./static.js";
-
-export type RouteOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: string;
-  bound: Bound;
-  serviceType: string;
-  origin: Localized;
-  destination: Localized;
-};
-
-export type StopOutput = {
-  seq: number;
-  stopId: string;
-  name: Localized;
-  lat: number;
-  long: number;
-};
-
-export type RouteStopsOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: string;
-  bound: Bound;
-  serviceType: string;
-  stops: StopOutput[];
-};
 
 const SERVICE_TYPE = "1";
 
@@ -37,10 +16,6 @@ function stopCoords(stopCode: string): { lat: number; long: number } {
   const loc = STOP_LOCATION[stopCode];
   if (!loc) return { lat: NaN, long: NaN };
   return { lat: Number(loc.lat), long: Number(loc.long) };
-}
-
-function compositeId(company: Company, routeId: string, bound: Bound, serviceType: string): string {
-  return `${company}-${routeId}-${bound}-${serviceType}`;
 }
 
 function isBlank(v: unknown): boolean {
@@ -115,7 +90,7 @@ export function transformRoutes(rows: LrtRouteStop[]): RouteOutput[] {
       route_id: g.routeId,
       route: g.routeId,
       bound: g.bound,
-      serviceType: SERVICE_TYPE,
+      service_type: SERVICE_TYPE,
       origin,
       destination,
     });
@@ -131,7 +106,7 @@ export function transformRouteStops(rows: LrtRouteStop[]): RouteStopsOutput[] {
       const { lat, long } = stopCoords(r.STOP_CODE);
       return {
         seq: Number(r.SEQUENCE),
-        stopId: r.STOP_CODE,
+        stop_id: r.STOP_CODE,
         name: {
           en: r.STOP_NAME_ENG,
           tc: r.STOP_NAME_CHI,
@@ -147,7 +122,7 @@ export function transformRouteStops(rows: LrtRouteStop[]): RouteStopsOutput[] {
       route_id: g.routeId,
       route: g.routeId,
       bound: g.bound,
-      serviceType: SERVICE_TYPE,
+      service_type: SERVICE_TYPE,
       stops,
     });
   }
