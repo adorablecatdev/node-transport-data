@@ -1,35 +1,17 @@
-import { Bound, Company, type Localized } from "../../types.js";
+import {
+  Bound,
+  Company,
+  compositeId,
+  type Localized,
+  type RouteOutput as SharedRouteOutput,
+  type RouteStopsOutput as SharedRouteStopsOutput,
+  type StopOutput,
+} from "../../types.js";
 import type { MtrDirection, MtrLineStation } from "./api.js";
 import { ROUTE_NAME_EN, ROUTE_NAME_TC, STATION_LOCATION } from "./static.js";
 
-export type RouteOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: Localized;
-  bound: Bound;
-  serviceType: string;
-  origin: Localized;
-  destination: Localized;
-};
-
-export type StopOutput = {
-  seq: number;
-  stopId: string;
-  name: Localized;
-  lat: number;
-  long: number;
-};
-
-export type RouteStopsOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: Localized;
-  bound: Bound;
-  serviceType: string;
-  stops: StopOutput[];
-};
+type RouteOutput = SharedRouteOutput<Localized>;
+type RouteStopsOutput = SharedRouteStopsOutput<Localized>;
 
 function routeName(routeId: string): Localized {
   const en = ROUTE_NAME_EN[routeId] ?? routeId;
@@ -44,10 +26,6 @@ function stationCoords(stationCode: string): { lat: number; long: number } {
 }
 
 const SERVICE_TYPE = "1";
-
-function compositeId(company: Company, routeId: string, bound: Bound, serviceType: string): string {
-  return `${company}-${routeId}-${bound}-${serviceType}`;
-}
 
 function isBlank(v: unknown): boolean {
   return v === null || v === undefined || v === "";
@@ -129,7 +107,7 @@ export function transformRoutes(rows: MtrLineStation[]): RouteOutput[] {
       route_id: g.routeId,
       route: routeName(g.routeId),
       bound: g.bound,
-      serviceType: SERVICE_TYPE,
+      service_type: SERVICE_TYPE,
       origin,
       destination,
     });
@@ -145,7 +123,7 @@ export function transformRouteStops(rows: MtrLineStation[]): RouteStopsOutput[] 
       const { lat, long } = stationCoords(r.STATION_CODE);
       return {
         seq: Number(r.SEQUENCE),
-        stopId: r.STATION_CODE,
+        stop_id: r.STATION_CODE,
         name: {
           en: r.STATION_NAME_ENG,
           tc: r.STATION_NAME_CHI,
@@ -161,7 +139,7 @@ export function transformRouteStops(rows: MtrLineStation[]): RouteStopsOutput[] 
       route_id: g.routeId,
       route: routeName(g.routeId),
       bound: g.bound,
-      serviceType: SERVICE_TYPE,
+      service_type: SERVICE_TYPE,
       stops,
     });
   }

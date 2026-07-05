@@ -1,40 +1,14 @@
-import { Bound, Company, type Localized } from "../../types.js";
+import {
+  Bound,
+  Company,
+  compositeId,
+  type RouteOutput,
+  type RouteStopsOutput,
+  type StopOutput,
+} from "../../types.js";
 import type { CtbDir, CtbRoute, CtbRouteStop, CtbStop, CtbDirection } from "./api.js";
 
-export type RouteOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: string;
-  bound: Bound;
-  serviceType: string;
-  origin: Localized;
-  destination: Localized;
-};
-
-export type StopOutput = {
-  seq: number;
-  stopId: string;
-  name: Localized;
-  lat: number;
-  long: number;
-};
-
-export type RouteStopsOutput = {
-  record_id: string;
-  company: Company;
-  route_id: string;
-  route: string;
-  bound: Bound;
-  serviceType: string;
-  stops: StopOutput[];
-};
-
 const SERVICE_TYPE = "1";
-
-function compositeId(company: Company, route: string, bound: Bound, serviceType: string): string {
-  return `${company}-${route}-${bound}-${serviceType}`;
-}
 
 function dirToBound(d: CtbDir | CtbDirection): Bound {
   return d === "O" || d === "outbound" ? Bound.Outbound : Bound.Inbound;
@@ -87,7 +61,7 @@ export function transformRoutes(
         route_id: r.route,
         route: r.route,
         bound,
-        serviceType: SERVICE_TYPE,
+        service_type: SERVICE_TYPE,
         origin: { en: r.orig_en, tc: r.orig_tc, sc: r.orig_sc },
         destination: { en: r.dest_en, tc: r.dest_tc, sc: r.dest_sc },
       });
@@ -131,7 +105,7 @@ export function transformRouteStops(
       const stop = stopsById.get(rs.stop);
       stops.push({
         seq: Number(rs.seq),
-        stopId: rs.stop,
+        stop_id: rs.stop,
         name: stop
           ? { en: stop.name_en, tc: stop.name_tc, sc: stop.name_sc }
           : { en: "", tc: "", sc: "" },
@@ -147,7 +121,7 @@ export function transformRouteStops(
       route_id: g.route,
       route: g.route,
       bound,
-      serviceType: SERVICE_TYPE,
+      service_type: SERVICE_TYPE,
       stops,
     });
   }

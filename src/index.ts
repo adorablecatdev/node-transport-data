@@ -1,10 +1,12 @@
 import { run as runCitybus } from "./companies/citybus/index.js";
+import { runHKI as runGmbHKI, runKLN as runGmbKLN, runNT as runGmbNT } from "./companies/gmb/index.js";
 import { run as runKmb } from "./companies/kmb/index.js";
 import { run as runLightrail } from "./companies/lightrail/index.js";
 import { run as runMtr } from "./companies/mtr/index.js";
 import { run as runMtrbus } from "./companies/mtrbus/index.js";
+import { run as runNlb } from "./companies/nlb/index.js";
 
-type RunOptions = { resume?: boolean };
+type RunOptions = { resume?: boolean; test?: boolean };
 
 const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   kmb: () => runKmb(),
@@ -12,20 +14,32 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   mtrbus: () => runMtrbus(),
   mtr: () => runMtr(),
   lightrail: () => runLightrail(),
+  gmbhki: (options) => runGmbHKI(options),
+  gmbkln: (options) => runGmbKLN(options),
+  gmbnt: (options) => runGmbNT(options),
+  nlb: (options) => runNlb(options),
 };
+
+const KNOWN_FLAGS = new Set(["--resume", "--test"]);
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
   const resume = args.includes("--resume");
-  const positional = args.filter((a: string) => !a.startsWith("--"));
-  const targets = positional.length > 0 ? positional : Object.keys(companies);
+  const test = args.includes("--test");
 
-  for (const name of targets) {
+  const targets: string[] = [];
+  for (const a of args) {
+    if (KNOWN_FLAGS.has(a)) continue;
+    targets.push(a.startsWith("--") ? a.slice(2) : a);
+  }
+  const finalTargets = targets.length > 0 ? targets : Object.keys(companies);
+
+  for (const name of finalTargets) {
     const runner = companies[name];
     if (!runner) {
       throw new Error(`Unknown company: ${name}. Available: ${Object.keys(companies).join(", ")}`);
     }
-    await runner({ resume });
+    await runner({ resume, test });
   }
 }
 
