@@ -1,0 +1,3620 @@
+{
+  "GMBHKI-1-inbound-1": {
+    "record_id": "GMBHKI-1-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006408",
+    "route": "1",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    },
+    "destination": {
+      "en": "The Peak (Public Transport Terminus)",
+      "tc": "山頂(公共交通總站)",
+      "sc": "山顶(公共交通总站)"
+    }
+  },
+  "GMBHKI-1-outbound-1": {
+    "record_id": "GMBHKI-1-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006408",
+    "route": "1",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "The Peak (Public Transport Terminus)",
+      "tc": "山頂(公共交通總站)",
+      "sc": "山顶(公共交通总站)"
+    },
+    "destination": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    }
+  },
+  "GMBHKI-10-inbound-1": {
+    "record_id": "GMBHKI-10-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006706",
+    "route": "10",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Cyberport Bus Terminus",
+      "tc": "數碼港巴士總站",
+      "sc": "数码港巴士总站"
+    },
+    "destination": {
+      "en": "JAFFE ROAD, near Siu On Plaza",
+      "tc": "謝斐道, 近兆安廣場",
+      "sc": "谢斐道, 近兆安广场"
+    }
+  },
+  "GMBHKI-10-outbound-1": {
+    "record_id": "GMBHKI-10-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006706",
+    "route": "10",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    },
+    "destination": {
+      "en": "Cyberport Public Transport Interchange",
+      "tc": "數碼港公共運輸交匯處",
+      "sc": "数码港公共运输交汇处"
+    }
+  },
+  "GMBHKI-10P-inbound-1": {
+    "record_id": "GMBHKI-10P-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006739",
+    "route": "10P",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Cyberport Bus Terminus",
+      "tc": "數碼港巴士總站",
+      "sc": "数码港巴士总站"
+    },
+    "destination": {
+      "en": "JAFFE ROAD, near Siu On Plaza",
+      "tc": "謝斐道, 近兆安廣場",
+      "sc": "谢斐道, 近兆安广场"
+    }
+  },
+  "GMBHKI-10P-outbound-1": {
+    "record_id": "GMBHKI-10P-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006739",
+    "route": "10P",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "JAFFE ROAD, near Siu On Plaza",
+      "tc": "謝斐道, 近兆安廣場",
+      "sc": "谢斐道, 近兆安广场"
+    },
+    "destination": {
+      "en": "Cyberport Bus Terminus",
+      "tc": "數碼港巴士總站",
+      "sc": "数码港巴士总站"
+    }
+  },
+  "GMBHKI-12-outbound-1": {
+    "record_id": "GMBHKI-12-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002285",
+    "route": "12",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kwun Lung Lau",
+      "tc": "觀龍樓",
+      "sc": "观龙楼"
+    },
+    "destination": {
+      "en": "Sai Ying Pun (Circular)",
+      "tc": "西營盤(循環線)",
+      "sc": "西营盘(循环线)"
+    }
+  },
+  "GMBHKI-13-outbound-1": {
+    "record_id": "GMBHKI-13-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002286",
+    "route": "13",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Sai Wan Estate",
+      "tc": "西環邨",
+      "sc": "西环邨"
+    },
+    "destination": {
+      "en": "Sai Ying Pun (Circular)",
+      "tc": "西營盤(循環線)",
+      "sc": "西营盘(循环线)"
+    }
+  },
+  "GMBHKI-14M-outbound-1": {
+    "record_id": "GMBHKI-14M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000970",
+    "route": "14M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay Lan Fong Road ",
+      "tc": "蘭芳道",
+      "sc": "兰芳道"
+    },
+    "destination": {
+      "en": "Moorsom Road",
+      "tc": "睦誠道",
+      "sc": "睦诚道"
+    }
+  },
+  "GMBHKI-14M-outbound-2": {
+    "record_id": "GMBHKI-14M-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2000971",
+    "route": "14M",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": " Lan Fong Road",
+      "tc": "蘭芳道",
+      "sc": "兰芳道"
+    },
+    "destination": {
+      "en": "Moorsom Road",
+      "tc": "睦誠道",
+      "sc": "睦诚道"
+    }
+  },
+  "GMBHKI-14M-outbound-3": {
+    "record_id": "GMBHKI-14M-outbound-3",
+    "company": "GMBHKI",
+    "route_id": "2000972",
+    "route": "14M",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Lee Garden Road",
+      "tc": "利園山道",
+      "sc": "利園山道"
+    },
+    "destination": {
+      "en": "Villa Lotto",
+      "tc": "樂陶苑",
+      "sc": "乐陶苑"
+    }
+  },
+  "GMBHKI-14M-outbound-4": {
+    "record_id": "GMBHKI-14M-outbound-4",
+    "company": "GMBHKI",
+    "route_id": "2000973",
+    "route": "14M",
+    "bound": "outbound",
+    "service_type": "4",
+    "origin": {
+      "en": "Lee Garden Road",
+      "tc": "利園山道",
+      "sc": "利園山道"
+    },
+    "destination": {
+      "en": "Villa Rocha",
+      "tc": "樂翠台",
+      "sc": "乐翠台"
+    }
+  },
+  "GMBHKI-16A-inbound-1": {
+    "record_id": "GMBHKI-16A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002287",
+    "route": "16A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chung Hom Kok(Cheshire Home)",
+      "tc": "舂坎角(慈氏護養院)",
+      "sc": "舂坎角(慈氏护养院)"
+    },
+    "destination": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    }
+  },
+  "GMBHKI-16A-outbound-1": {
+    "record_id": "GMBHKI-16A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002287",
+    "route": "16A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Chung Hom Kok(Cheshire Home)",
+      "tc": "舂坎角(慈氏護養院)",
+      "sc": "舂坎角(慈氏护养院)"
+    }
+  },
+  "GMBHKI-16M-inbound-1": {
+    "record_id": "GMBHKI-16M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002289",
+    "route": "16M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chung Hom Kok",
+      "tc": "舂坎角",
+      "sc": "舂坎角"
+    },
+    "destination": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    }
+  },
+  "GMBHKI-16M-outbound-1": {
+    "record_id": "GMBHKI-16M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002289",
+    "route": "16M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Chung Hom Kok",
+      "tc": "舂坎角",
+      "sc": "舂坎角"
+    }
+  },
+  "GMBHKI-16X-inbound-1": {
+    "record_id": "GMBHKI-16X-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002291",
+    "route": "16X",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Stanley Beach Road",
+      "tc": "赤柱灘道",
+      "sc": "赤柱滩道"
+    },
+    "destination": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    }
+  },
+  "GMBHKI-16X-outbound-1": {
+    "record_id": "GMBHKI-16X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002291",
+    "route": "16X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Stanley Beach Road",
+      "tc": "赤柱灘道",
+      "sc": "赤柱滩道"
+    }
+  },
+  "GMBHKI-18M-inbound-1": {
+    "record_id": "GMBHKI-18M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002317",
+    "route": "18M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Cape Collinson (Correctional Institution)",
+      "tc": "歌連臣角(懲教所)",
+      "sc": "歌连臣角(惩教所)"
+    },
+    "destination": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    }
+  },
+  "GMBHKI-18M-outbound-1": {
+    "record_id": "GMBHKI-18M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002317",
+    "route": "18M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Cape Collinson (Correctional Institution)",
+      "tc": "歌連臣角(懲教所)",
+      "sc": "歌连臣角(惩教所)"
+    }
+  },
+  "GMBHKI-1A-outbound-1": {
+    "record_id": "GMBHKI-1A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006441",
+    "route": "1A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    },
+    "destination": {
+      "en": "MacDonnell Road (Circular)",
+      "tc": "麥當奴道(循環線)",
+      "sc": "麦当奴道(循环线)"
+    }
+  },
+  "GMBHKI-2-outbound-1": {
+    "record_id": "GMBHKI-2-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006474",
+    "route": "2",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Hong Kong Station)",
+      "tc": "中環(香港站)",
+      "sc": "中环(香港站)"
+    },
+    "destination": {
+      "en": "Old Peak Road (Circular)",
+      "tc": "舊山頂道(循環線)",
+      "sc": "旧山顶道(循环线)"
+    }
+  },
+  "GMBHKI-2-outbound-2": {
+    "record_id": "GMBHKI-2-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2006475",
+    "route": "2",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Central (Hong Kong Station)",
+      "tc": "中環(香港站)",
+      "sc": "中环(香港站)"
+    },
+    "destination": {
+      "en": "Old Peak Road (Circular)",
+      "tc": "舊山頂道(循環線)",
+      "sc": "旧山顶道(循环线)"
+    }
+  },
+  "GMBHKI-20-outbound-1": {
+    "record_id": "GMBHKI-20-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002319",
+    "route": "20",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Sai Wan Ho (Grand Promenade) Public Transport Terminus",
+      "tc": "西灣河(嘉亨灣)公共交通總站",
+      "sc": "西湾河(嘉亨湾)公共交通总站"
+    },
+    "destination": {
+      "en": "Chai Wan Industrial City(Circular)",
+      "tc": "柴灣工業城(循環線)",
+      "sc": "柴湾工业城(循环线)"
+    }
+  },
+  "GMBHKI-20-outbound-2": {
+    "record_id": "GMBHKI-20-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2002320",
+    "route": "20",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Sai Wan Ho (Grand Promenade) Public Transport Terminus",
+      "tc": "西灣河(嘉亨灣)公共交通總站",
+      "sc": "西湾河（嘉亨湾）公共交通总站"
+    },
+    "destination": {
+      "en": "Chai Wan (Fung Yip Street)(Circular)",
+      "tc": "柴灣 (豐業街)(循環線)",
+      "sc": "柴湾 (丰业街)(循环线)"
+    }
+  },
+  "GMBHKI-20M-outbound-1": {
+    "record_id": "GMBHKI-20M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002415",
+    "route": "20M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Hing Man Estate",
+      "tc": "興民邨",
+      "sc": "兴民邨"
+    },
+    "destination": {
+      "en": "Chai Wan Industrial City(Circular)",
+      "tc": "柴灣工業城(循環線)",
+      "sc": "柴湾工业城(循环线)"
+    }
+  },
+  "GMBHKI-20M-outbound-2": {
+    "record_id": "GMBHKI-20M-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2002448",
+    "route": "20M",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Hing Man Estate",
+      "tc": "興民邨",
+      "sc": "兴民邨"
+    },
+    "destination": {
+      "en": "Chai Wan (Fung Yip Street)(Circular)",
+      "tc": "柴灣 (豐業街)(循環線)",
+      "sc": "柴湾 (丰业街)(循环线)"
+    }
+  },
+  "GMBHKI-21A-outbound-1": {
+    "record_id": "GMBHKI-21A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000967",
+    "route": "21A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Lan Fong Road)",
+      "tc": "銅鑼灣（蘭芳道）",
+      "sc": "铜锣湾（兰芳道）"
+    },
+    "destination": {
+      "en": "Lai Tak Tsuen (Circular)",
+      "tc": "勵德邨 (循環線)",
+      "sc": "励德邨 (循環線)"
+    }
+  },
+  "GMBHKI-21M-outbound-1": {
+    "record_id": "GMBHKI-21M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000968",
+    "route": "21M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Lan Fong Road)",
+      "tc": "銅鑼灣（蘭芳道）",
+      "sc": "铜锣湾（兰芳道）"
+    },
+    "destination": {
+      "en": "Tai Hang Drive (Circular)",
+      "tc": "大坑徑 (循環線)",
+      "sc": "大坑径 (循環線)"
+    }
+  },
+  "GMBHKI-22-inbound-1": {
+    "record_id": "GMBHKI-22-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000997",
+    "route": "22",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    },
+    "destination": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    }
+  },
+  "GMBHKI-22-inbound-2": {
+    "record_id": "GMBHKI-22-inbound-2",
+    "company": "GMBHKI",
+    "route_id": "2003045",
+    "route": "22",
+    "bound": "inbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    },
+    "destination": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    }
+  },
+  "GMBHKI-22-outbound-1": {
+    "record_id": "GMBHKI-22-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000997",
+    "route": "22",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    }
+  },
+  "GMBHKI-22-outbound-2": {
+    "record_id": "GMBHKI-22-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2003045",
+    "route": "22",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    }
+  },
+  "GMBHKI-22S-inbound-1": {
+    "record_id": "GMBHKI-22S-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000999",
+    "route": "22S",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Central Ferry Piers)",
+      "tc": "中環(中環碼頭)",
+      "sc": "中环(中环码头)"
+    },
+    "destination": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    }
+  },
+  "GMBHKI-22S-outbound-1": {
+    "record_id": "GMBHKI-22S-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000999",
+    "route": "22S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    },
+    "destination": {
+      "en": "Central (Central Ferry Piers)",
+      "tc": "中環(中環碼頭)",
+      "sc": "中环(中环码头)"
+    }
+  },
+  "GMBHKI-22S-outbound-2": {
+    "record_id": "GMBHKI-22S-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2001004",
+    "route": "22S",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Central (Central Ferry Piers)",
+      "tc": "中環(中環碼頭)",
+      "sc": "中环(中环码头)"
+    },
+    "destination": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    }
+  },
+  "GMBHKI-22S-outbound-3": {
+    "record_id": "GMBHKI-22S-outbound-3",
+    "company": "GMBHKI",
+    "route_id": "2003050",
+    "route": "22S",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    },
+    "destination": {
+      "en": "Central (Central Ferry Piers)",
+      "tc": "中環(中環碼頭)",
+      "sc": "中环(中环码头)"
+    }
+  },
+  "GMBHKI-22S-outbound-4": {
+    "record_id": "GMBHKI-22S-outbound-4",
+    "company": "GMBHKI",
+    "route_id": "2003051",
+    "route": "22S",
+    "bound": "outbound",
+    "service_type": "4",
+    "origin": {
+      "en": "Central (Central Ferry Piers)",
+      "tc": "中環(中環碼頭)",
+      "sc": "中环(中环码头)"
+    },
+    "destination": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    }
+  },
+  "GMBHKI-22X-inbound-1": {
+    "record_id": "GMBHKI-22X-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003048",
+    "route": "22X",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Central Ferry Piers)",
+      "tc": "中環(中環碼頭)",
+      "sc": "中环(中环码头)"
+    },
+    "destination": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    }
+  },
+  "GMBHKI-22X-outbound-1": {
+    "record_id": "GMBHKI-22X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003048",
+    "route": "22X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    },
+    "destination": {
+      "en": "Central (Central Ferry Piers)",
+      "tc": "中環(中環碼頭)",
+      "sc": "中环(中环码头)"
+    }
+  },
+  "GMBHKI-22X-outbound-2": {
+    "record_id": "GMBHKI-22X-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2003075",
+    "route": "22X",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Pok Fu Lam Gardens",
+      "tc": "薄扶林花園",
+      "sc": "薄扶林花园"
+    },
+    "destination": {
+      "en": "Central (Central Ferry Piers)",
+      "tc": "中環(中環碼頭)",
+      "sc": "中环(中环码头)"
+    }
+  },
+  "GMBHKI-23-outbound-1": {
+    "record_id": "GMBHKI-23-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003042",
+    "route": "23",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Pok Fu Lam (Circular)",
+      "tc": "薄扶林(循環線)",
+      "sc": "薄扶林(循环线)"
+    }
+  },
+  "GMBHKI-23M-inbound-1": {
+    "record_id": "GMBHKI-23M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003043",
+    "route": "23M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chi Fu Fa Yuen",
+      "tc": "置富花園",
+      "sc": "置富花园"
+    },
+    "destination": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    }
+  },
+  "GMBHKI-23M-outbound-1": {
+    "record_id": "GMBHKI-23M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003043",
+    "route": "23M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Chi Fu Fa Yuen",
+      "tc": "置富花園",
+      "sc": "置富花园"
+    }
+  },
+  "GMBHKI-24A-outbound-1": {
+    "record_id": "GMBHKI-24A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002021",
+    "route": "24A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Admiralty Station (Drake Street)",
+      "tc": "金鐘站(德立街)",
+      "sc": "金钟站(德立街)"
+    },
+    "destination": {
+      "en": "Shiu Fai Terrace (Circular)",
+      "tc": "肇輝台(循環線)",
+      "sc": "肇辉台(循环线)"
+    }
+  },
+  "GMBHKI-24M-inbound-1": {
+    "record_id": "GMBHKI-24M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002052",
+    "route": "24M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Admiralty Station (Drake Street)",
+      "tc": "金鐘站(德立街)",
+      "sc": "金钟站(德立街)"
+    },
+    "destination": {
+      "en": "Mount Butler ",
+      "tc": "畢拉山",
+      "sc": "毕拉山"
+    }
+  },
+  "GMBHKI-24M-inbound-2": {
+    "record_id": "GMBHKI-24M-inbound-2",
+    "company": "GMBHKI",
+    "route_id": "2002053",
+    "route": "24M",
+    "bound": "inbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Admiralty Station (Drake Street)",
+      "tc": "金鐘站(德立街)",
+      "sc": "金钟站(德立街)"
+    },
+    "destination": {
+      "en": "Mount Butler",
+      "tc": "畢拉山",
+      "sc": "毕拉山"
+    }
+  },
+  "GMBHKI-24M-outbound-1": {
+    "record_id": "GMBHKI-24M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002052",
+    "route": "24M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mount Butler",
+      "tc": "畢拉山",
+      "sc": "毕拉山"
+    },
+    "destination": {
+      "en": "Admiralty Station (Drake Street)",
+      "tc": "金鐘站(德立街)",
+      "sc": "金钟站(德立街)"
+    }
+  },
+  "GMBHKI-24M-outbound-2": {
+    "record_id": "GMBHKI-24M-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2002053",
+    "route": "24M",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Mount Butler",
+      "tc": "畢拉山",
+      "sc": "毕拉山"
+    },
+    "destination": {
+      "en": "Admiralty Station (Drake Street)",
+      "tc": "金鐘站(德立街)",
+      "sc": "金钟站(德立街)"
+    }
+  },
+  "GMBHKI-25-outbound-1": {
+    "record_id": "GMBHKI-25-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002020",
+    "route": "25",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Upper Braemar Hill",
+      "tc": "上寶馬山",
+      "sc": "上宝马山"
+    },
+    "destination": {
+      "en": "Causeway Bay (Circular)",
+      "tc": "銅鑼灣(循環線)",
+      "sc": "铜锣湾(循环线)"
+    }
+  },
+  "GMBHKI-26-outbound-1": {
+    "record_id": "GMBHKI-26-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004527",
+    "route": "26",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Lee Garden Road, outside Phoenix Apartments",
+      "tc": "利園山道, 鳳鳴大廈外",
+      "sc": "利园山道, 凤鸣大厦外"
+    },
+    "destination": {
+      "en": "Hong Kong Adventist Hospital (CIRCULAR)",
+      "tc": "香港港安醫院 (循環線)",
+      "sc": "香港港安医院 (循环线)"
+    }
+  },
+  "GMBHKI-27-inbound-1": {
+    "record_id": "GMBHKI-27-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2007498",
+    "route": "27",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Sai On Street)",
+      "tc": "香港仔 (西安街)",
+      "sc": "香港仔 (西安街)"
+    },
+    "destination": {
+      "en": "Ap Lei Chau (Wai Fung Street)",
+      "tc": "鴨脷洲 (惠風街)",
+      "sc": "鸭脷洲 (惠风街)"
+    }
+  },
+  "GMBHKI-27-outbound-1": {
+    "record_id": "GMBHKI-27-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2007498",
+    "route": "27",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ap Lei Chau (Wai Fung Street)",
+      "tc": "鴨脷洲 (惠風街)",
+      "sc": "鸭脷洲 (惠风街)"
+    },
+    "destination": {
+      "en": "Aberdeen (Sai On Street)",
+      "tc": "香港仔 (西安街)",
+      "sc": "香港仔 (西安街)"
+    }
+  },
+  "GMBHKI-27A-outbound-1": {
+    "record_id": "GMBHKI-27A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2007501",
+    "route": "27A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Sai On Street)",
+      "tc": "香港仔 (西安街)",
+      "sc": "香港仔 (西安街)"
+    },
+    "destination": {
+      "en": "Ap Lei Chau (Circular)",
+      "tc": "鴨脷洲 (循環線)",
+      "sc": "鸭脷洲 (循环线)"
+    }
+  },
+  "GMBHKI-28-inbound-1": {
+    "record_id": "GMBHKI-28-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006476",
+    "route": "28",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Sun Wui Road)",
+      "tc": "銅鑼灣(新會道)",
+      "sc": "铜锣湾(新会道)"
+    },
+    "destination": {
+      "en": "Baguio Villa (upper)",
+      "tc": "碧瑤灣(上)",
+      "sc": "碧瑶湾(上)"
+    }
+  },
+  "GMBHKI-28-outbound-1": {
+    "record_id": "GMBHKI-28-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006476",
+    "route": "28",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Baguio Villa (upper)",
+      "tc": "碧瑤灣(上)",
+      "sc": "碧瑶湾(上)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Sun Wui Road)",
+      "tc": "銅鑼灣(新會道)",
+      "sc": "铜锣湾(新会道)"
+    }
+  },
+  "GMBHKI-28-outbound-2": {
+    "record_id": "GMBHKI-28-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2006507",
+    "route": "28",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Baguio Villa (upper)",
+      "tc": "碧瑤灣(上)",
+      "sc": "碧瑶湾(上)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Sun Wui Road)",
+      "tc": "銅鑼灣(新會道)",
+      "sc": "铜锣湾(新会道)"
+    }
+  },
+  "GMBHKI-28M-outbound-1": {
+    "record_id": "GMBHKI-28M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006509",
+    "route": "28M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Baguio Villa (upper)",
+      "tc": "碧瑤灣(上)",
+      "sc": "碧瑶湾(上)"
+    },
+    "destination": {
+      "en": "HKU Station (Circular)",
+      "tc": "香港大學站(循環線)",
+      "sc": "香港大学站(循环线)"
+    }
+  },
+  "GMBHKI-28S-outbound-1": {
+    "record_id": "GMBHKI-28S-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006508",
+    "route": "28S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Baguio Villa (upper)",
+      "tc": "碧瑤灣(上)",
+      "sc": "碧瑶湾(上)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Sun Wui Road)",
+      "tc": "銅鑼灣(新會道)",
+      "sc": "铜锣湾(新会道)"
+    }
+  },
+  "GMBHKI-29-outbound-1": {
+    "record_id": "GMBHKI-29-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2007499",
+    "route": "29",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ap Lei Chau Estate",
+      "tc": "鴨脷洲邨",
+      "sc": "鸭脷洲邨"
+    },
+    "destination": {
+      "en": "Shum Wan Road Public Transport Terminus (Circular)",
+      "tc": "深灣道公共交通總站(循環線)",
+      "sc": "深湾道公共交通总站(循环线)"
+    }
+  },
+  "GMBHKI-29A-inbound-1": {
+    "record_id": "GMBHKI-29A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2007530",
+    "route": "29A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ocean Park (Water World)",
+      "tc": "海洋公園 (水上樂園)",
+      "sc": "海洋公园 (水上乐园)"
+    },
+    "destination": {
+      "en": "Ap Lei Chau Estate",
+      "tc": "鴨脷洲邨",
+      "sc": "鸭脷洲邨"
+    }
+  },
+  "GMBHKI-29A-outbound-1": {
+    "record_id": "GMBHKI-29A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2007530",
+    "route": "29A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ap Lei Chau Estate",
+      "tc": "鴨脷洲邨",
+      "sc": "鸭脷洲邨"
+    },
+    "destination": {
+      "en": "Ocean Park (Water World)",
+      "tc": "海洋公園 (水上樂園)",
+      "sc": "海洋公园 (水上乐园)"
+    }
+  },
+  "GMBHKI-3-inbound-1": {
+    "record_id": "GMBHKI-3-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006510",
+    "route": "3",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Po Shan Road",
+      "tc": "寶珊道",
+      "sc": "宝珊道"
+    },
+    "destination": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    }
+  },
+  "GMBHKI-3-outbound-1": {
+    "record_id": "GMBHKI-3-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006510",
+    "route": "3",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    },
+    "destination": {
+      "en": "Po Shan Road",
+      "tc": "寶珊道",
+      "sc": "宝珊道"
+    }
+  },
+  "GMBHKI-3-outbound-2": {
+    "record_id": "GMBHKI-3-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2006511",
+    "route": "3",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    },
+    "destination": {
+      "en": "Po Shan Road",
+      "tc": "寶珊道",
+      "sc": "宝珊道"
+    }
+  },
+  "GMBHKI-30-inbound-1": {
+    "record_id": "GMBHKI-30-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003472",
+    "route": "30",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Happy Valley (Holly Road)",
+      "tc": "跑馬地(冬青道)",
+      "sc": "跑马地(冬青道)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Lan Fong Road)",
+      "tc": "銅鑼灣(蘭芳道)",
+      "sc": "铜锣湾(兰芳道)"
+    }
+  },
+  "GMBHKI-30-outbound-1": {
+    "record_id": "GMBHKI-30-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003472",
+    "route": "30",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Lan Fong Road)",
+      "tc": "銅鑼灣(蘭芳道)",
+      "sc": "铜锣湾(兰芳道)"
+    },
+    "destination": {
+      "en": "Happy Valley (Holly Road)",
+      "tc": "跑馬地(冬青道)",
+      "sc": "跑马地(冬青道)"
+    }
+  },
+  "GMBHKI-31-inbound-1": {
+    "record_id": "GMBHKI-31-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006738",
+    "route": "31",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    },
+    "destination": {
+      "en": "Tin Wan Estate",
+      "tc": "田灣邨",
+      "sc": "田湾邨"
+    }
+  },
+  "GMBHKI-31-outbound-1": {
+    "record_id": "GMBHKI-31-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006738",
+    "route": "31",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Wan Estate",
+      "tc": "田灣邨",
+      "sc": "田灣邨"
+    },
+    "destination": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    }
+  },
+  "GMBHKI-31X-outbound-1": {
+    "record_id": "GMBHKI-31X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2009741",
+    "route": "31X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Wan Estate",
+      "tc": "田灣邨",
+      "sc": "田灣邨"
+    },
+    "destination": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    }
+  },
+  "GMBHKI-32-inbound-1": {
+    "record_id": "GMBHKI-32-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005689",
+    "route": "32",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shau Kei Wan Station",
+      "tc": "筲箕灣站",
+      "sc": "筲箕湾站"
+    },
+    "destination": {
+      "en": "Kornhill",
+      "tc": "康山",
+      "sc": "康山"
+    }
+  },
+  "GMBHKI-32-outbound-1": {
+    "record_id": "GMBHKI-32-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005689",
+    "route": "32",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kornhill",
+      "tc": "康山",
+      "sc": "康山"
+    },
+    "destination": {
+      "en": "Shau Kei Wan Station",
+      "tc": "筲箕灣站",
+      "sc": "筲箕湾站"
+    }
+  },
+  "GMBHKI-32A-outbound-1": {
+    "record_id": "GMBHKI-32A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005688",
+    "route": "32A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mount Parker Lodge",
+      "tc": "康景花園",
+      "sc": "康景花园"
+    },
+    "destination": {
+      "en": "Kings Road (City Plaza) (Circular)",
+      "tc": "英皇道(太古城中心)(循環線)",
+      "sc": "英皇道(太古城中心)(循环线)"
+    }
+  },
+  "GMBHKI-33-inbound-1": {
+    "record_id": "GMBHKI-33-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005685",
+    "route": "33",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "North Point (Marble Road)",
+      "tc": "北角(馬寶道)",
+      "sc": "北角(马宝道)"
+    },
+    "destination": {
+      "en": "Kornhill",
+      "tc": "康山",
+      "sc": "康山"
+    }
+  },
+  "GMBHKI-33-outbound-1": {
+    "record_id": "GMBHKI-33-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005685",
+    "route": "33",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kornhill",
+      "tc": "康山",
+      "sc": "康山"
+    },
+    "destination": {
+      "en": "North Point (Marble Road)",
+      "tc": "北角(馬寶道)",
+      "sc": "北角(马宝道)"
+    }
+  },
+  "GMBHKI-33M-outbound-1": {
+    "record_id": "GMBHKI-33M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005684",
+    "route": "33M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kornhill",
+      "tc": "康山",
+      "sc": "康山"
+    },
+    "destination": {
+      "en": "Tai Koo Station (Circular)",
+      "tc": "太古站(循環線)",
+      "sc": "太古站(循环线)"
+    }
+  },
+  "GMBHKI-35M-inbound-1": {
+    "record_id": "GMBHKI-35M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004092",
+    "route": "35M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Wan Chai (Johnston Road)",
+      "tc": "灣仔(莊士敦道)",
+      "sc": "湾仔(庄士敦道)"
+    },
+    "destination": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排湾)",
+      "sc": "石排湾公共运输交汇处"
+    }
+  },
+  "GMBHKI-35M-outbound-1": {
+    "record_id": "GMBHKI-35M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004092",
+    "route": "35M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Wan Chai (Johnston Road)",
+      "tc": "灣仔(莊士敦道)",
+      "sc": "湾仔(庄士敦道)"
+    }
+  },
+  "GMBHKI-36X-inbound-1": {
+    "record_id": "GMBHKI-36X-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005290",
+    "route": "36X",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Jardine's Bazaar )",
+      "tc": "銅鑼灣 (渣甸街)",
+      "sc": "铜锣湾 (渣甸街)"
+    },
+    "destination": {
+      "en": "Ap Lei Chau (Ping Lan Street)",
+      "tc": "鴨脷洲 (平瀾街)",
+      "sc": "鸭脷洲 (平澜街)"
+    }
+  },
+  "GMBHKI-36X-outbound-1": {
+    "record_id": "GMBHKI-36X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005290",
+    "route": "36X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ap Lei Chau (Ping Lan Street)",
+      "tc": "鴨脷洲 (平瀾街)",
+      "sc": "鸭脷洲 (平澜街)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Jardine's Bazaar )",
+      "tc": "銅鑼灣 (渣甸街)",
+      "sc": "铜锣湾 (渣甸街)"
+    }
+  },
+  "GMBHKI-37-outbound-1": {
+    "record_id": "GMBHKI-37-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005289",
+    "route": "37",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ap Lei Chau (Ping Lan Street)",
+      "tc": "鴨脷洲 (平瀾街)",
+      "sc": "鸭脷洲 (平澜街)"
+    },
+    "destination": {
+      "en": "Lei Tung Estate (Circular)",
+      "tc": "利東邨(循環線)",
+      "sc": "利东邨(循环线)"
+    }
+  },
+  "GMBHKI-39C-outbound-1": {
+    "record_id": "GMBHKI-39C-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001260",
+    "route": "39C",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yue On Court (Ap Lei Chau)",
+      "tc": "鴨脷洲漁安苑",
+      "sc": "鸭脷洲渔安苑 "
+    },
+    "destination": {
+      "en": "Aberdeen (Circular)",
+      "tc": "香港仔(循環線) ",
+      "sc": "香港仔(循环线) "
+    }
+  },
+  "GMBHKI-39M-inbound-1": {
+    "record_id": "GMBHKI-39M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001261",
+    "route": "39M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Hau Station",
+      "tc": "天后公共運輸交匯處",
+      "sc": "天后公共运输交汇处"
+    },
+    "destination": {
+      "en": "Yue On Court (Ap Lei Chau)",
+      "tc": "鴨脷洲漁安苑",
+      "sc": "鸭脷洲渔安苑"
+    }
+  },
+  "GMBHKI-39M-outbound-1": {
+    "record_id": "GMBHKI-39M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001261",
+    "route": "39M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "YUE ON COURT (AP LEI CHAU) ",
+      "tc": "鴨脷洲漁安苑",
+      "sc": "鸭脷洲渔安苑 "
+    },
+    "destination": {
+      "en": "TIN HAU STATION",
+      "tc": "天后公共運輸交匯處",
+      "sc": "天后公共运输交汇处"
+    }
+  },
+  "GMBHKI-3A-inbound-1": {
+    "record_id": "GMBHKI-3A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006540",
+    "route": "3A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Conduit Road",
+      "tc": "干德道",
+      "sc": "干德道"
+    },
+    "destination": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    }
+  },
+  "GMBHKI-3A-outbound-1": {
+    "record_id": "GMBHKI-3A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006540",
+    "route": "3A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    },
+    "destination": {
+      "en": "Conduit Road",
+      "tc": "干德道",
+      "sc": "干德道"
+    }
+  },
+  "GMBHKI-3A-outbound-2": {
+    "record_id": "GMBHKI-3A-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2006541",
+    "route": "3A",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    },
+    "destination": {
+      "en": "Conduit Road",
+      "tc": "干德道",
+      "sc": "干德道"
+    }
+  },
+  "GMBHKI-40-inbound-1": {
+    "record_id": "GMBHKI-40-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001262",
+    "route": "40",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Jardine's Bazaar",
+      "tc": "渣甸街",
+      "sc": "渣甸街"
+    },
+    "destination": {
+      "en": "Stanley Village",
+      "tc": "赤柱村",
+      "sc": "赤柱村"
+    }
+  },
+  "GMBHKI-40-outbound-1": {
+    "record_id": "GMBHKI-40-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001262",
+    "route": "40",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Stanley Village",
+      "tc": "赤柱村",
+      "sc": "赤柱村"
+    },
+    "destination": {
+      "en": "Jardine's Bazaar",
+      "tc": "渣甸街",
+      "sc": "渣甸街"
+    }
+  },
+  "GMBHKI-40-outbound-2": {
+    "record_id": "GMBHKI-40-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2001263",
+    "route": "40",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Ma Hang Estate",
+      "tc": "馬坑邨 ",
+      "sc": "马坑村 "
+    },
+    "destination": {
+      "en": "Jardine's Bazaar",
+      "tc": "渣甸街",
+      "sc": "渣甸街"
+    }
+  },
+  "GMBHKI-40X-inbound-1": {
+    "record_id": "GMBHKI-40X-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001265",
+    "route": "40X",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Jardine's Bazaar",
+      "tc": "渣甸街",
+      "sc": "渣甸街"
+    },
+    "destination": {
+      "en": "Stanley Prison",
+      "tc": "赤柱監獄",
+      "sc": "赤柱監獄"
+    }
+  },
+  "GMBHKI-40X-outbound-1": {
+    "record_id": "GMBHKI-40X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001265",
+    "route": "40X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Stanley Prison",
+      "tc": "赤柱監獄",
+      "sc": "赤柱監獄"
+    },
+    "destination": {
+      "en": "Jardine's Bazaar",
+      "tc": "渣甸街",
+      "sc": "渣甸街"
+    }
+  },
+  "GMBHKI-43M-outbound-1": {
+    "record_id": "GMBHKI-43M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002250",
+    "route": "43M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Fung Wah Estate",
+      "tc": "峰華邨",
+      "sc": "峰华邨"
+    },
+    "destination": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站(循環線)",
+      "sc": "柴湾站(循环线) "
+    }
+  },
+  "GMBHKI-44M-outbound-1": {
+    "record_id": "GMBHKI-44M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002217",
+    "route": "44M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Siu Sai Wan Estate (Circular)",
+      "tc": "小西灣邨(循環線)",
+      "sc": "小西湾邨(循环线)"
+    }
+  },
+  "GMBHKI-45A-outbound-1": {
+    "record_id": "GMBHKI-45A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005291",
+    "route": "45A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Western District (First Street)",
+      "tc": "西區(第一街)",
+      "sc": "西区(第一街)"
+    },
+    "destination": {
+      "en": "Conduit Road (Circular)",
+      "tc": "干德道 (循環線)",
+      "sc": "干德道 (循环线)"
+    }
+  },
+  "GMBHKI-45S-outbound-1": {
+    "record_id": "GMBHKI-45S-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005292",
+    "route": "45S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Western District (First Street)",
+      "tc": "西區(第一街)",
+      "sc": "西区(第一街)"
+    },
+    "destination": {
+      "en": "Conduit Road (Circular)",
+      "tc": "干德道(循環線)",
+      "sc": "干德道(循环线)"
+    }
+  },
+  "GMBHKI-47E-outbound-1": {
+    "record_id": "GMBHKI-47E-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004076",
+    "route": "47E",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Pamela Youde Nethersole Eastern Hospital",
+      "tc": "東區尤德夫人那打素醫院",
+      "sc": "东区尤德夫人那打素医院"
+    },
+    "destination": {
+      "en": "Siu Sai Wan Estate",
+      "tc": "小西灣邨",
+      "sc": "小西湾邨"
+    }
+  },
+  "GMBHKI-47E-outbound-2": {
+    "record_id": "GMBHKI-47E-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2004088",
+    "route": "47E",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Siu Sai Wan Phase III",
+      "tc": "小西灣第三期",
+      "sc": "小西湾第三期"
+    },
+    "destination": {
+      "en": "Pamela Youde Nethersole Eastern Hospital (Circular)",
+      "tc": "東區尤德夫人那打素醫院(循環線)",
+      "sc": "东区尤德夫人那打素医院(循环线)"
+    }
+  },
+  "GMBHKI-47M-outbound-1": {
+    "record_id": "GMBHKI-47M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004068",
+    "route": "47M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Siu Sai Wan Phase III (Circular)",
+      "tc": "小西灣第三期(循環線)",
+      "sc": "小西湾第三期(循环线)"
+    }
+  },
+  "GMBHKI-47M-outbound-2": {
+    "record_id": "GMBHKI-47M-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2004071",
+    "route": "47M",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Chai Wan (Hiu Tsui Street) (Circular)",
+      "tc": "柴灣(曉翠街)(循環線)",
+      "sc": "柴湾(晓翠街)(循环线)"
+    }
+  },
+  "GMBHKI-47M-outbound-3": {
+    "record_id": "GMBHKI-47M-outbound-3",
+    "company": "GMBHKI",
+    "route_id": "2004072",
+    "route": "47M",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Chai Wan (Wing Ping Street) (Circular)",
+      "tc": "柴灣(永平街)(循環線)",
+      "sc": "柴湾(永平街)(循环线)"
+    }
+  },
+  "GMBHKI-47S-outbound-1": {
+    "record_id": "GMBHKI-47S-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004074",
+    "route": "47S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan Station",
+      "tc": "柴灣站",
+      "sc": "柴湾站"
+    },
+    "destination": {
+      "en": "Harmony Garden (Circular)",
+      "tc": "富欣花園(循環線)",
+      "sc": "富欣花园(循环线)"
+    }
+  },
+  "GMBHKI-48M-inbound-1": {
+    "record_id": "GMBHKI-48M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003902",
+    "route": "48M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Pamela Youde Nethersole Eastern Hospital",
+      "tc": "東區尤德夫人那打素醫院",
+      "sc": "东区尤德夫人那打素医院"
+    },
+    "destination": {
+      "en": "Chai Wan Station (Lee Chung Street)",
+      "tc": "柴灣站(利眾街)",
+      "sc": "柴湾站(利众街)"
+    }
+  },
+  "GMBHKI-48M-outbound-1": {
+    "record_id": "GMBHKI-48M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003902",
+    "route": "48M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan Station (Lee Chung Street)",
+      "tc": "柴灣站(利眾街)",
+      "sc": "柴湾站(利众街)"
+    },
+    "destination": {
+      "en": "Pamela Youde Nethersole Eastern Hospital",
+      "tc": "東區尤德夫人那打素醫院",
+      "sc": "东区尤德夫人那打素医院"
+    }
+  },
+  "GMBHKI-49M-outbound-1": {
+    "record_id": "GMBHKI-49M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000988",
+    "route": "49M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Hau Station",
+      "tc": "天后站",
+      "sc": "港铁天后站巴士总站"
+    },
+    "destination": {
+      "en": "Breamer Hill (Circular)",
+      "tc": "寶馬山 (循環線)",
+      "sc": "宝马山 (循环线)"
+    }
+  },
+  "GMBHKI-49M-outbound-2": {
+    "record_id": "GMBHKI-49M-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2000989",
+    "route": "49M",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Tin Hau Station",
+      "tc": "天后站",
+      "sc": "天后站"
+    },
+    "destination": {
+      "en": "Breamer Hill (Circular)",
+      "tc": "寶馬山 (循環線)",
+      "sc": "宝马山 (循环线)"
+    }
+  },
+  "GMBHKI-4A-inbound-1": {
+    "record_id": "GMBHKI-4A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004095",
+    "route": "4A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Cannon Street)",
+      "tc": "銅鑼灣(景隆街)",
+      "sc": "铜锣湾(景隆街)"
+    },
+    "destination": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    }
+  },
+  "GMBHKI-4A-outbound-1": {
+    "record_id": "GMBHKI-4A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004095",
+    "route": "4A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Cannon Street)",
+      "tc": "銅鑼灣(景隆街)",
+      "sc": "铜锣湾(景隆街)"
+    }
+  },
+  "GMBHKI-4B-outbound-1": {
+    "record_id": "GMBHKI-4B-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004096",
+    "route": "4B",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Wan Chai (Circular)",
+      "tc": "灣仔(循環線)",
+      "sc": "湾仔(循环线)"
+    }
+  },
+  "GMBHKI-4C-inbound-1": {
+    "record_id": "GMBHKI-4C-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004097",
+    "route": "4C",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Cannon Street)",
+      "tc": "銅鑼灣(景隆街)",
+      "sc": "铜锣湾(景隆街)"
+    },
+    "destination": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    }
+  },
+  "GMBHKI-4C-outbound-1": {
+    "record_id": "GMBHKI-4C-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004097",
+    "route": "4C",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Cannon Street)",
+      "tc": "銅鑼灣(景隆街)",
+      "sc": "铜锣湾(景隆街)"
+    }
+  },
+  "GMBHKI-4M-inbound-1": {
+    "record_id": "GMBHKI-4M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004098",
+    "route": "4M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    },
+    "destination": {
+      "en": "ABERDEEN (SHEK PAI WAN)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    }
+  },
+  "GMBHKI-4M-inbound-2": {
+    "record_id": "GMBHKI-4M-inbound-2",
+    "company": "GMBHKI",
+    "route_id": "2004100",
+    "route": "4M",
+    "bound": "inbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    },
+    "destination": {
+      "en": "ABERDEEN (NAM NING STREET)",
+      "tc": "香港仔(南寧街)",
+      "sc": "香港仔(南宁街)"
+    }
+  },
+  "GMBHKI-4M-outbound-1": {
+    "record_id": "GMBHKI-4M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004098",
+    "route": "4M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ABERDEEN (SHEK PAI WAN)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    }
+  },
+  "GMBHKI-4M-outbound-2": {
+    "record_id": "GMBHKI-4M-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2004100",
+    "route": "4M",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "ABERDEEN (NAM NING STREET)",
+      "tc": "香港仔(南寧街)",
+      "sc": "香港仔(南宁街)"
+    },
+    "destination": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    }
+  },
+  "GMBHKI-4M-outbound-3": {
+    "record_id": "GMBHKI-4M-outbound-3",
+    "company": "GMBHKI",
+    "route_id": "2004131",
+    "route": "4M",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "ABERDEEN (SHEK PAI WAN)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    }
+  },
+  "GMBHKI-4S-outbound-1": {
+    "record_id": "GMBHKI-4S-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004099",
+    "route": "4S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shek Pai Wan",
+      "tc": "石排灣",
+      "sc": "石排湾"
+    },
+    "destination": {
+      "en": "Aberdeen (Circular)",
+      "tc": "香港仔(循環線)",
+      "sc": "香港仔(循环线)"
+    }
+  },
+  "GMBHKI-5-inbound-1": {
+    "record_id": "GMBHKI-5-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004081",
+    "route": "5",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    },
+    "destination": {
+      "en": "Aberdeen (Nam Ning Street)",
+      "tc": "香港仔(南寧街)",
+      "sc": "香港仔(南宁街)"
+    }
+  },
+  "GMBHKI-5-outbound-1": {
+    "record_id": "GMBHKI-5-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004081",
+    "route": "5",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Nam Ning Street)",
+      "tc": "香港仔(南寧街)",
+      "sc": "香港仔(南宁街)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    }
+  },
+  "GMBHKI-50-outbound-1": {
+    "record_id": "GMBHKI-50-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000990",
+    "route": "50",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yiu Tung Estate",
+      "tc": "耀東邨",
+      "sc": "耀东邨"
+    },
+    "destination": {
+      "en": "Sai Wan Ho (Circular)",
+      "tc": "西灣河 (循環線)",
+      "sc": "西湾河 (循环线)"
+    }
+  },
+  "GMBHKI-51-outbound-1": {
+    "record_id": "GMBHKI-51-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002813",
+    "route": "51",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Wan Estate",
+      "tc": "田灣邨",
+      "sc": "田湾邨"
+    },
+    "destination": {
+      "en": "Aberdeen (Circular)",
+      "tc": "香港仔(循環線)",
+      "sc": "香港仔(循环线)"
+    }
+  },
+  "GMBHKI-51A-outbound-1": {
+    "record_id": "GMBHKI-51A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002812",
+    "route": "51A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Wah Kwai Estate",
+      "tc": "華貴邨",
+      "sc": "华贵邨"
+    },
+    "destination": {
+      "en": "Tin Wan Estate (Circular)",
+      "tc": "田灣邨(循環線)",
+      "sc": "田湾邨(循环线)"
+    }
+  },
+  "GMBHKI-51S-outbound-1": {
+    "record_id": "GMBHKI-51S-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002811",
+    "route": "51S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Wah Kwai Estate",
+      "tc": "華貴邨",
+      "sc": "华贵邨"
+    },
+    "destination": {
+      "en": "Aberdeen (Circular)",
+      "tc": "香港仔(循環線)",
+      "sc": "香港仔(循环线)"
+    }
+  },
+  "GMBHKI-52-inbound-1": {
+    "record_id": "GMBHKI-52-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005220",
+    "route": "52",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "STANLEY PRISON",
+      "tc": "赤柱監獄",
+      "sc": "赤柱监狱 "
+    },
+    "destination": {
+      "en": "ABERDEEN (YUE FAI ROAD) ",
+      "tc": "香港仔(漁暉道)",
+      "sc": "香港仔(渔晖道) "
+    }
+  },
+  "GMBHKI-52-outbound-1": {
+    "record_id": "GMBHKI-52-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005220",
+    "route": "52",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ABERDEEN (YUE FAI ROAD) ",
+      "tc": "香港仔(漁暉道)",
+      "sc": "香港仔(渔晖道) "
+    },
+    "destination": {
+      "en": "STANLEY PRISON",
+      "tc": "赤柱監獄",
+      "sc": "赤柱监狱 "
+    }
+  },
+  "GMBHKI-52-outbound-2": {
+    "record_id": "GMBHKI-52-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2005286",
+    "route": "52",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "STANLEY PRISON ",
+      "tc": "赤柱監獄",
+      "sc": "赤柱监狱 "
+    },
+    "destination": {
+      "en": "ABERDEEN (YUE FAI ROAD)",
+      "tc": "香港仔(漁暉道)",
+      "sc": "香港仔(渔晖道) "
+    }
+  },
+  "GMBHKI-52-outbound-3": {
+    "record_id": "GMBHKI-52-outbound-3",
+    "company": "GMBHKI",
+    "route_id": "2005287",
+    "route": "52",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Stanley",
+      "tc": "赤柱",
+      "sc": "赤柱"
+    },
+    "destination": {
+      "en": "ABERDEEN (YUE FAI ROAD)",
+      "tc": "香港仔(漁暉道)",
+      "sc": "香港仔(渔晖道) "
+    }
+  },
+  "GMBHKI-52-outbound-4": {
+    "record_id": "GMBHKI-52-outbound-4",
+    "company": "GMBHKI",
+    "route_id": "2005288",
+    "route": "52",
+    "bound": "outbound",
+    "service_type": "4",
+    "origin": {
+      "en": "Stanley Plaza",
+      "tc": "赤柱廣場",
+      "sc": "赤柱广场 "
+    },
+    "destination": {
+      "en": "ABERDEEN (YUE FAI ROAD)",
+      "tc": "香港仔(漁暉道)",
+      "sc": "香港仔(渔晖道) "
+    }
+  },
+  "GMBHKI-54-outbound-1": {
+    "record_id": "GMBHKI-54-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003636",
+    "route": "54",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Ferry Piers)",
+      "tc": "中環(碼頭)",
+      "sc": "中环(码头)"
+    },
+    "destination": {
+      "en": "Queen Mary Hospital (Circular)",
+      "tc": "瑪麗醫院(循環線)",
+      "sc": "玛丽医院(循环线)"
+    }
+  },
+  "GMBHKI-54-outbound-2": {
+    "record_id": "GMBHKI-54-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2003637",
+    "route": "54",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Central (Ferry Piers)",
+      "tc": "中環(碼頭)",
+      "sc": "中环(码头)"
+    },
+    "destination": {
+      "en": "Queen Mary Hospital (Circular)",
+      "tc": "瑪麗醫院(循環線)",
+      "sc": "玛丽医院(循环线)"
+    }
+  },
+  "GMBHKI-54-outbound-3": {
+    "record_id": "GMBHKI-54-outbound-3",
+    "company": "GMBHKI",
+    "route_id": "2009840",
+    "route": "54",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Queen Mary Hospital",
+      "tc": "瑪麗醫院",
+      "sc": "玛丽医院"
+    },
+    "destination": {
+      "en": "Central (Ferry Piers)",
+      "tc": "中環(碼頭)",
+      "sc": "中环(码头)"
+    }
+  },
+  "GMBHKI-54-outbound-4": {
+    "record_id": "GMBHKI-54-outbound-4",
+    "company": "GMBHKI",
+    "route_id": "2009842",
+    "route": "54",
+    "bound": "outbound",
+    "service_type": "4",
+    "origin": {
+      "en": "Central (Ferry Piers)",
+      "tc": "中環(碼頭)",
+      "sc": "中环(码头)"
+    },
+    "destination": {
+      "en": "Queen Mary Hospital",
+      "tc": "瑪麗醫院",
+      "sc": "玛丽医院"
+    }
+  },
+  "GMBHKI-54M-inbound-1": {
+    "record_id": "GMBHKI-54M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003685",
+    "route": "54M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Queen Mary Hospital",
+      "tc": "瑪麗醫院",
+      "sc": "玛丽医院"
+    },
+    "destination": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    }
+  },
+  "GMBHKI-54M-outbound-1": {
+    "record_id": "GMBHKI-54M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003685",
+    "route": "54M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Queen Mary Hospital",
+      "tc": "瑪麗醫院",
+      "sc": "玛丽医院"
+    }
+  },
+  "GMBHKI-54S-outbound-1": {
+    "record_id": "GMBHKI-54S-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003735",
+    "route": "54S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mt. Davis Road opposite Greenery Garden",
+      "tc": "摩星嶺道, 怡林閣對面",
+      "sc": "摩星岭道, 怡林阁对面"
+    },
+    "destination": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    }
+  },
+  "GMBHKI-54S-outbound-2": {
+    "record_id": "GMBHKI-54S-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2003768",
+    "route": "54S",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Queen Mary Hospital",
+      "tc": "瑪麗醫院",
+      "sc": "玛丽医院"
+    }
+  },
+  "GMBHKI-55-outbound-1": {
+    "record_id": "GMBHKI-55-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003771",
+    "route": "55",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Queen Mary Hospital",
+      "tc": "瑪麗醫院",
+      "sc": "玛丽医院"
+    },
+    "destination": {
+      "en": "Central Station (Connaught Road Central)(Circular)",
+      "tc": "中環站(干諾道中)(循環線)",
+      "sc": "中环站(干诺道中)(循环线)"
+    }
+  },
+  "GMBHKI-56-inbound-1": {
+    "record_id": "GMBHKI-56-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001129",
+    "route": "56",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "North Point (Marble Road)",
+      "tc": "馬寶道",
+      "sc": "马宝道"
+    },
+    "destination": {
+      "en": "Mid-levels (Ronbinson Road)",
+      "tc": "羅便臣道",
+      "sc": "罗便臣道"
+    }
+  },
+  "GMBHKI-56-outbound-1": {
+    "record_id": "GMBHKI-56-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001129",
+    "route": "56",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mid-Levels (Robinson Road)",
+      "tc": "羅便臣道",
+      "sc": "罗便臣道"
+    },
+    "destination": {
+      "en": "North Point (Marble Road)",
+      "tc": "馬寶道",
+      "sc": "马宝道"
+    }
+  },
+  "GMBHKI-56A-inbound-1": {
+    "record_id": "GMBHKI-56A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001130",
+    "route": "56A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Hau Station",
+      "tc": "天后站",
+      "sc": "天后站"
+    },
+    "destination": {
+      "en": "Mid-Levels (Robinson Road)",
+      "tc": "羅便臣道",
+      "sc": "罗便臣道"
+    }
+  },
+  "GMBHKI-56A-outbound-1": {
+    "record_id": "GMBHKI-56A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001130",
+    "route": "56A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mid-Levels (Robinson Road)",
+      "tc": "羅便臣道",
+      "sc": "罗便臣道"
+    },
+    "destination": {
+      "en": "Tin Hau Station",
+      "tc": "天后站",
+      "sc": "天后站"
+    }
+  },
+  "GMBHKI-56A-outbound-2": {
+    "record_id": "GMBHKI-56A-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2001131",
+    "route": "56A",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Mid-Levels Robinson Road",
+      "tc": "羅便臣道",
+      "sc": "罗便臣道"
+    },
+    "destination": {
+      "en": "Causeway Bay Pennington Street ",
+      "tc": "邊寧頓街",
+      "sc": "边宁顿街"
+    }
+  },
+  "GMBHKI-56A-outbound-3": {
+    "record_id": "GMBHKI-56A-outbound-3",
+    "company": "GMBHKI",
+    "route_id": "2001133",
+    "route": "56A",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Mid-Levels (Robinson Road) ",
+      "tc": "羅便臣道",
+      "sc": "罗便臣道"
+    },
+    "destination": {
+      "en": "Wan Chai",
+      "tc": "灣仔",
+      "sc": "灣仔"
+    }
+  },
+  "GMBHKI-56B-outbound-1": {
+    "record_id": "GMBHKI-56B-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2011523",
+    "route": "56B",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mid-Levels Robinson Road",
+      "tc": "羅便臣道",
+      "sc": "罗便臣道"
+    },
+    "destination": {
+      "en": "Tin Hau Station",
+      "tc": "天后公共運輸交匯處",
+      "sc": "天后公共运输交汇处"
+    }
+  },
+  "GMBHKI-58-inbound-1": {
+    "record_id": "GMBHKI-58-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002580",
+    "route": "58",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Aberdeen (Wu Nam Street)",
+      "tc": "香港仔(湖南街)",
+      "sc": "香港仔(湖南街)"
+    }
+  },
+  "GMBHKI-58-outbound-1": {
+    "record_id": "GMBHKI-58-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002580",
+    "route": "58",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Wu Nam Street)",
+      "tc": "香港仔(湖南街)",
+      "sc": "香港仔(湖南街)"
+    },
+    "destination": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    }
+  },
+  "GMBHKI-58-outbound-2": {
+    "record_id": "GMBHKI-58-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2002646",
+    "route": "58",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": " Sha Wan Drive ",
+      "tc": "沙灣徑",
+      "sc": "沙湾径"
+    },
+    "destination": {
+      "en": " Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    }
+  },
+  "GMBHKI-58-outbound-3": {
+    "record_id": "GMBHKI-58-outbound-3",
+    "company": "GMBHKI",
+    "route_id": "2002679",
+    "route": "58",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Sandy Bay Road",
+      "tc": "大口環道",
+      "sc": "大口环道"
+    },
+    "destination": {
+      "en": "Aberdeen ",
+      "tc": "香港仔",
+      "sc": "香港仔"
+    }
+  },
+  "GMBHKI-58A-inbound-1": {
+    "record_id": "GMBHKI-58A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002582",
+    "route": "58A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Aberdeen (Wu Nam Street)",
+      "tc": "香港仔(湖南街)",
+      "sc": "香港仔(湖南街)"
+    }
+  },
+  "GMBHKI-58A-outbound-1": {
+    "record_id": "GMBHKI-58A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002582",
+    "route": "58A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Wu Nam Street)",
+      "tc": "香港仔(湖南街)",
+      "sc": "香港仔(湖南街)"
+    },
+    "destination": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    }
+  },
+  "GMBHKI-58M-inbound-1": {
+    "record_id": "GMBHKI-58M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002614",
+    "route": "58M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Bel-Air on the Peak",
+      "tc": "貝沙灣",
+      "sc": "贝沙湾"
+    }
+  },
+  "GMBHKI-58M-outbound-1": {
+    "record_id": "GMBHKI-58M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002614",
+    "route": "58M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Bel-Air on the Peak",
+      "tc": "貝沙灣",
+      "sc": "贝沙湾"
+    },
+    "destination": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    }
+  },
+  "GMBHKI-59-inbound-1": {
+    "record_id": "GMBHKI-59-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002712",
+    "route": "59",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shum Wan Road Public Transport Terminus",
+      "tc": "深灣道公共交通總站",
+      "sc": "深湾道公共交通总站"
+    },
+    "destination": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    }
+  },
+  "GMBHKI-59-outbound-1": {
+    "record_id": "GMBHKI-59-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002712",
+    "route": "59",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Shum Wan Road Public Transport Terminus",
+      "tc": "深灣道公共交通總站",
+      "sc": "深湾道公共交通总站"
+    }
+  },
+  "GMBHKI-59A-inbound-1": {
+    "record_id": "GMBHKI-59A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002746",
+    "route": "59A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shum Wan Road Public Transport Terminus",
+      "tc": "深灣道公共交通總站",
+      "sc": "深湾道公共交通总站"
+    },
+    "destination": {
+      "en": "Aberdeen (Tung Sing Road)",
+      "tc": "香港仔(東勝道)",
+      "sc": "香港仔(东胜道)"
+    }
+  },
+  "GMBHKI-59A-inbound-2": {
+    "record_id": "GMBHKI-59A-inbound-2",
+    "company": "GMBHKI",
+    "route_id": "2002748",
+    "route": "59A",
+    "bound": "inbound",
+    "service_type": "2",
+    "origin": {
+      "en": "South Wave Court",
+      "tc": "南濤閣",
+      "sc": "南涛阁"
+    },
+    "destination": {
+      "en": "Aberdeen (Tung Sing Road)",
+      "tc": "香港仔(東勝道)",
+      "sc": "香港仔(东胜道)"
+    }
+  },
+  "GMBHKI-59A-outbound-1": {
+    "record_id": "GMBHKI-59A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002746",
+    "route": "59A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Tung Sing Road)",
+      "tc": "香港仔(東勝道)",
+      "sc": "香港仔(东胜道)"
+    },
+    "destination": {
+      "en": "Shum Wan Road Public Transport Terminus",
+      "tc": "深灣道公共交通總站",
+      "sc": "深湾道公共交通总站"
+    }
+  },
+  "GMBHKI-59A-outbound-2": {
+    "record_id": "GMBHKI-59A-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2002748",
+    "route": "59A",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Aberdeen (Tung Sing Road)",
+      "tc": "香港仔(東勝道)",
+      "sc": "香港仔(东胜道)"
+    },
+    "destination": {
+      "en": "South Wave Court",
+      "tc": "南濤閣",
+      "sc": "南涛阁"
+    }
+  },
+  "GMBHKI-59B-outbound-1": {
+    "record_id": "GMBHKI-59B-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002714",
+    "route": "59B",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Tung Sing Road)",
+      "tc": "香港仔(東勝道)",
+      "sc": "香港仔(东胜道)"
+    },
+    "destination": {
+      "en": "Shum Wan Road Public Transport Terminus (via Grantham Hospital) (Circular)",
+      "tc": "深灣道公共交通總站(經葛量洪醫院)(循環線)",
+      "sc": "深湾道公共交通总站(经葛量洪医院)(循环线)"
+    }
+  },
+  "GMBHKI-59X-outbound-1": {
+    "record_id": "GMBHKI-59X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002745",
+    "route": "59X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Kennedy Town Station",
+      "tc": "堅尼地城站",
+      "sc": "坚尼地城站"
+    },
+    "destination": {
+      "en": "Grantham Hospital",
+      "tc": "葛量洪醫院",
+      "sc": "葛量洪医院"
+    }
+  },
+  "GMBHKI-5M-inbound-1": {
+    "record_id": "GMBHKI-5M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004077",
+    "route": "5M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Grantham Hospital",
+      "tc": "葛量洪醫院",
+      "sc": "葛量洪医院"
+    },
+    "destination": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黄竹坑站",
+      "sc": "黃竹坑站"
+    }
+  },
+  "GMBHKI-5M-outbound-1": {
+    "record_id": "GMBHKI-5M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004077",
+    "route": "5M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    },
+    "destination": {
+      "en": "Grantham Hospital",
+      "tc": "葛量洪醫院",
+      "sc": "葛量洪医院"
+    }
+  },
+  "GMBHKI-61-inbound-1": {
+    "record_id": "GMBHKI-61-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004084",
+    "route": "61",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mong Kok (Fife Street)",
+      "tc": "旺角 (快富街)",
+      "sc": "旺角 (快富街)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    }
+  },
+  "GMBHKI-61-outbound-1": {
+    "record_id": "GMBHKI-61-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004084",
+    "route": "61",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    },
+    "destination": {
+      "en": "Mong Kok (Fife Street)",
+      "tc": "旺角 (快富街)",
+      "sc": "旺角 (快富街)"
+    }
+  },
+  "GMBHKI-62-outbound-1": {
+    "record_id": "GMBHKI-62-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004090",
+    "route": "62",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Heng Fa Chuen Public Transport Interchange",
+      "tc": "杏花邨公共交通交匯處",
+      "sc": "杏花邨公共交通交汇处"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Cheerful Garden) (Circular)",
+      "tc": "小西灣(富怡花園)(循環線)",
+      "sc": "小西湾(富怡花园)(循环线)"
+    }
+  },
+  "GMBHKI-62A-inbound-1": {
+    "record_id": "GMBHKI-62A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004091",
+    "route": "62A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Heng Fa Chuen Public Transport Interchange",
+      "tc": "杏花邨公共交通交匯處",
+      "sc": "杏花邨公共交通交汇处"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort) Public Transport Interchange",
+      "tc": "小西灣(藍灣半島)公共運輸交匯處",
+      "sc": "小西湾(蓝湾半岛)公共运输交汇处"
+    }
+  },
+  "GMBHKI-62A-outbound-1": {
+    "record_id": "GMBHKI-62A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004091",
+    "route": "62A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Siu Sai Wan (Island Resort) Public Transport Interchange",
+      "tc": "小西灣(藍灣半島)公共運輸交匯處",
+      "sc": "小西湾(蓝湾半岛)公共运输交汇处"
+    },
+    "destination": {
+      "en": "Heng Fa Chuen Public Transport Interchange",
+      "tc": "杏花邨公共交通交匯處",
+      "sc": "杏花邨公共交通交汇处"
+    }
+  },
+  "GMBHKI-63-inbound-1": {
+    "record_id": "GMBHKI-63-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003405",
+    "route": "63",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Queen Mary Hospital",
+      "tc": "瑪麗醫院",
+      "sc": "玛丽医院"
+    },
+    "destination": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
+    }
+  },
+  "GMBHKI-63-outbound-1": {
+    "record_id": "GMBHKI-63-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003405",
+    "route": "63",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
+    },
+    "destination": {
+      "en": "Queen Mary Hospital",
+      "tc": "瑪麗醫院",
+      "sc": "玛丽医院"
+    }
+  },
+  "GMBHKI-63A-outbound-1": {
+    "record_id": "GMBHKI-63A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2003408",
+    "route": "63A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Nam Ning Street)",
+      "tc": "香港仔(南寧街)",
+      "sc": "香港仔(南宁街)"
+    },
+    "destination": {
+      "en": "Wah Fu Estate (Circular)",
+      "tc": "華富邨(循環線)",
+      "sc": "华富邨(循环线)"
+    }
+  },
+  "GMBHKI-65-inbound-1": {
+    "record_id": "GMBHKI-65-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2008025",
+    "route": "65",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "North Point (Fort Street)",
+      "tc": "北角(堡壘街)",
+      "sc": "北角(堡垒街)"
+    },
+    "destination": {
+      "en": "Pamela Youde Nethersole Eastern Hospital",
+      "tc": "東區尤德夫人那打素醫院",
+      "sc": "东区尤德夫人那打素医院"
+    }
+  },
+  "GMBHKI-65-outbound-1": {
+    "record_id": "GMBHKI-65-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2008025",
+    "route": "65",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Pamela Youde Nethersole Eastern Hospital",
+      "tc": "東區尤德夫人那打素醫院",
+      "sc": "东区尤德夫人那打素医院"
+    },
+    "destination": {
+      "en": "North Point (Fort Street)",
+      "tc": "北角(堡壘街)",
+      "sc": "北角(堡垒街)"
+    }
+  },
+  "GMBHKI-65A-outbound-1": {
+    "record_id": "GMBHKI-65A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2008060",
+    "route": "65A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Chai Wan (Hong Man Street)",
+      "tc": "柴灣(康民街)",
+      "sc": "柴湾(康民街)"
+    },
+    "destination": {
+      "en": "Quarry Bay (via Pamela Youde Nethersole Eastern Hospital)(Circular)",
+      "tc": "鰂魚涌(途經東區尤德夫人那打素醫院)(循環線)",
+      "sc": "鰂魚涌(途经东区尤德夫人那打素医院)(循环线)"
+    }
+  },
+  "GMBHKI-65X-inbound-1": {
+    "record_id": "GMBHKI-65X-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2008092",
+    "route": "65X",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "North Point Ferry Pier Public Transport Interchange",
+      "tc": "北角渡輪碼頭公共運輸交匯處",
+      "sc": "北角渡轮码头公共运输交汇处"
+    },
+    "destination": {
+      "en": "Pamela Youde Nethersole Eastern Hospital",
+      "tc": "東區尤德夫人那打素醫院",
+      "sc": "东区尤德夫人那打素医院"
+    }
+  },
+  "GMBHKI-65X-outbound-1": {
+    "record_id": "GMBHKI-65X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2008092",
+    "route": "65X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Pamela Youde Nethersole Eastern Hospital",
+      "tc": "東區尤德夫人那打素醫院",
+      "sc": "东区尤德夫人那打素医院"
+    },
+    "destination": {
+      "en": "North Point Ferry Pier Public Transport Interchange",
+      "tc": "北角渡輪碼頭公共運輸交匯處",
+      "sc": "北角渡轮码头公共运输交汇处"
+    }
+  },
+  "GMBHKI-66-outbound-1": {
+    "record_id": "GMBHKI-66-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005293",
+    "route": "66",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aldrich Bay",
+      "tc": "愛秩序灣",
+      "sc": "爱秩序湾"
+    },
+    "destination": {
+      "en": "Chai Wan (Wan Tsui Road)",
+      "tc": "柴灣(環翠道)",
+      "sc": "柴湾(环翠道) "
+    }
+  },
+  "GMBHKI-66A-outbound-1": {
+    "record_id": "GMBHKI-66A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005294",
+    "route": "66A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aldrich Bay",
+      "tc": "愛秩序灣",
+      "sc": "爱秩序湾"
+    },
+    "destination": {
+      "en": "Pamela Youde Nethesole Eastern Hospital",
+      "tc": "東區尤德夫人那打素醫院",
+      "sc": "东区尤德夫人那打素医院"
+    }
+  },
+  "GMBHKI-68-outbound-1": {
+    "record_id": "GMBHKI-68-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2005295",
+    "route": "68",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aldrich Bay",
+      "tc": "愛秩序灣",
+      "sc": "爱秩序湾"
+    },
+    "destination": {
+      "en": "Quarry Bay (Hoi Wan Street)",
+      "tc": "鰂魚涌(海灣街)",
+      "sc": "鲗鱼涌(海湾街)"
+    }
+  },
+  "GMBHKI-69-outbound-1": {
+    "record_id": "GMBHKI-69-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000410",
+    "route": "69",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
+    },
+    "destination": {
+      "en": "Quarry Bay (Shipyard Lane) (Circular)",
+      "tc": "鰂魚涌(船塢里)(循環線)",
+      "sc": "鲗鱼涌(船坞里)(循环线)"
+    }
+  },
+  "GMBHKI-69A-inbound-1": {
+    "record_id": "GMBHKI-69A-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000819",
+    "route": "69A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    },
+    "destination": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
+    }
+  },
+  "GMBHKI-69A-outbound-1": {
+    "record_id": "GMBHKI-69A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000819",
+    "route": "69A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
+    },
+    "destination": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    }
+  },
+  "GMBHKI-69X-inbound-1": {
+    "record_id": "GMBHKI-69X-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000511",
+    "route": "69X",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Lockhart Road)",
+      "tc": "銅鑼灣(駱克道)",
+      "sc": "铜锣湾(骆克道)"
+    },
+    "destination": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
+    }
+  },
+  "GMBHKI-69X-inbound-2": {
+    "record_id": "GMBHKI-69X-inbound-2",
+    "company": "GMBHKI",
+    "route_id": "2000961",
+    "route": "69X",
+    "bound": "inbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Causeway Bay (Lockhart Road)",
+      "tc": "銅鑼灣(駱克道)",
+      "sc": "铜锣湾(骆克道)"
+    },
+    "destination": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
+    }
+  },
+  "GMBHKI-69X-outbound-1": {
+    "record_id": "GMBHKI-69X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2000511",
+    "route": "69X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
+    },
+    "destination": {
+      "en": "Causeway Bay (Lockhart Road)",
+      "tc": "銅鑼灣(駱克道)",
+      "sc": "铜锣湾(骆克道)"
+    }
+  },
+  "GMBHKI-69X-outbound-2": {
+    "record_id": "GMBHKI-69X-outbound-2",
+    "company": "GMBHKI",
+    "route_id": "2000961",
+    "route": "69X",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
+    },
+    "destination": {
+      "en": "Causeway Bay (Lockhart Road)",
+      "tc": "銅鑼灣(駱克道)",
+      "sc": "铜锣湾(骆克道)"
+    }
+  },
+  "GMBHKI-8-outbound-1": {
+    "record_id": "GMBHKI-8-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004085",
+    "route": "8",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Baguio Villas (Lower)",
+      "tc": "碧瑤灣(下)",
+      "sc": "碧瑶湾(下)"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    }
+  },
+  "GMBHKI-8X-inbound-1": {
+    "record_id": "GMBHKI-8X-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004087",
+    "route": "8X",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    },
+    "destination": {
+      "en": "Baguio Villas (Lower)",
+      "tc": "碧瑤灣(下)",
+      "sc": "碧瑶湾(下)"
+    }
+  },
+  "GMBHKI-8X-outbound-1": {
+    "record_id": "GMBHKI-8X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004087",
+    "route": "8X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Baguio Villas (Lower)",
+      "tc": "碧瑤灣(下)",
+      "sc": "碧瑶湾(下)"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    }
+  },
+  "GMBHKI-9-outbound-1": {
+    "record_id": "GMBHKI-9-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002283",
+    "route": "9",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    },
+    "destination": {
+      "en": "Bowen Road (Circular)",
+      "tc": "寶雲道(循環線)",
+      "sc": "宝云道(循环线)"
+    }
+  },
+  "GMBHKI-N27-outbound-1": {
+    "record_id": "GMBHKI-N27-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2007502",
+    "route": "N27",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Sai On Street)",
+      "tc": "香港仔 (西安街)",
+      "sc": "香港仔 (西安街)"
+    },
+    "destination": {
+      "en": "Ap Lei Chau (Circular)",
+      "tc": "鴨脷洲 (循環線)",
+      "sc": "鸭脷洲 (循环线)"
+    }
+  },
+  "GMBHKI-N31-inbound-1": {
+    "record_id": "GMBHKI-N31-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006772",
+    "route": "N31",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    },
+    "destination": {
+      "en": "Tin Wan Estate",
+      "tc": "田灣邨",
+      "sc": "田湾邨"
+    }
+  },
+  "GMBHKI-N31-outbound-1": {
+    "record_id": "GMBHKI-N31-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006772",
+    "route": "N31",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Wan Estate",
+      "tc": "田灣邨",
+      "sc": "田灣邨"
+    },
+    "destination": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    }
+  },
+  "GMBHKI-N40-inbound-1": {
+    "record_id": "GMBHKI-N40-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001264",
+    "route": "N40",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Jardine's Bazaar",
+      "tc": "渣甸街",
+      "sc": "渣甸街"
+    },
+    "destination": {
+      "en": "Stanley Village",
+      "tc": "赤柱村",
+      "sc": "赤柱村"
+    }
+  },
+  "GMBHKI-N40-outbound-1": {
+    "record_id": "GMBHKI-N40-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2001264",
+    "route": "N40",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Stanley Village",
+      "tc": "赤柱村",
+      "sc": "赤柱村"
+    },
+    "destination": {
+      "en": "Jardine's Bazaar",
+      "tc": "渣甸街",
+      "sc": "渣甸街"
+    }
+  },
+  "GMBHKI-N4A-outbound-1": {
+    "record_id": "GMBHKI-N4A-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004086",
+    "route": "N4A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Cannon Street)",
+      "tc": "銅鑼灣(景隆街)",
+      "sc": "铜锣湾(景隆街)"
+    }
+  },
+  "GMBHKI-N4C-inbound-1": {
+    "record_id": "GMBHKI-N4C-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004089",
+    "route": "N4C",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Cannon Street)",
+      "tc": "銅鑼灣(景隆街)",
+      "sc": "铜锣湾(景隆街)"
+    },
+    "destination": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    }
+  },
+  "GMBHKI-N4C-outbound-1": {
+    "record_id": "GMBHKI-N4C-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004089",
+    "route": "N4C",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Causeway Bay (Cannon Street)",
+      "tc": "銅鑼灣(景隆街)",
+      "sc": "铜锣湾(景隆街)"
+    }
+  },
+  "GMBHKI-N4M-inbound-1": {
+    "record_id": "GMBHKI-N4M-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2010995",
+    "route": "N4M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    },
+    "destination": {
+      "en": "ABERDEEN (SHEK PAI WAN)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    }
+  },
+  "GMBHKI-N4M-outbound-1": {
+    "record_id": "GMBHKI-N4M-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2010995",
+    "route": "N4M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ABERDEEN (SHEK PAI WAN)",
+      "tc": "香港仔(石排灣)",
+      "sc": "香港仔(石排湾)"
+    },
+    "destination": {
+      "en": "Wong Chuk Hang Station",
+      "tc": "黃竹坑站",
+      "sc": "黄竹坑站"
+    }
+  },
+  "GMBHKI-N4X-outbound-1": {
+    "record_id": "GMBHKI-N4X-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2004093",
+    "route": "N4X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Causeway Bay (Cannon Street)",
+      "tc": "銅鑼灣(景隆街)",
+      "sc": "铜锣湾(景隆街)"
+    },
+    "destination": {
+      "en": "Shum Wan Road Public Transport Terminus (Circular)",
+      "tc": "深灣道公共交通總站(循環線)",
+      "sc": "深湾道公共交通总站 (循环线)"
+    }
+  },
+  "GMBHKI-N51S-outbound-1": {
+    "record_id": "GMBHKI-N51S-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2002814",
+    "route": "N51S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Wah Kwai Estate",
+      "tc": "華貴邨",
+      "sc": "华贵邨"
+    },
+    "destination": {
+      "en": "Aberdeen (Circular)",
+      "tc": "香港仔(循環線)",
+      "sc": "香港仔(循环线)"
+    }
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "MTR-AEL-inbound-1": {
+    "record_id": "MTR-AEL-inbound-1",
+    "company": "MTR",
+    "route_id": "AEL",
+    "route": {
+      "en": "Airport Express",
+      "tc": "機場快線",
+      "sc": "機場快線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Hong Kong",
+      "tc": "香港",
+      "sc": "香港"
+    },
+    "destination": {
+      "en": "AsiaWorld-Expo",
+      "tc": "博覽館",
+      "sc": "博覽館"
+    }
+  },
+  "MTR-AEL-outbound-1": {
+    "record_id": "MTR-AEL-outbound-1",
+    "company": "MTR",
+    "route_id": "AEL",
+    "route": {
+      "en": "Airport Express",
+      "tc": "機場快線",
+      "sc": "機場快線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "AsiaWorld-Expo",
+      "tc": "博覽館",
+      "sc": "博覽館"
+    },
+    "destination": {
+      "en": "Hong Kong",
+      "tc": "香港",
+      "sc": "香港"
+    }
+  },
+  "MTR-DRL-inbound-1": {
+    "record_id": "MTR-DRL-inbound-1",
+    "company": "MTR",
+    "route_id": "DRL",
+    "route": {
+      "en": "Disneyland Resort Line",
+      "tc": "迪士尼線",
+      "sc": "迪士尼線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Disneyland Resort",
+      "tc": "迪士尼",
+      "sc": "迪士尼"
+    },
+    "destination": {
+      "en": "Sunny Bay",
+      "tc": "欣澳",
+      "sc": "欣澳"
+    }
+  },
+  "MTR-DRL-outbound-1": {
+    "record_id": "MTR-DRL-outbound-1",
+    "company": "MTR",
+    "route_id": "DRL",
+    "route": {
+      "en": "Disneyland Resort Line",
+      "tc": "迪士尼線",
+      "sc": "迪士尼線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Sunny Bay",
+      "tc": "欣澳",
+      "sc": "欣澳"
+    },
+    "destination": {
+      "en": "Disneyland Resort",
+      "tc": "迪士尼",
+      "sc": "迪士尼"
+    }
+  },
+  "MTR-EAL-inbound-1": {
+    "record_id": "MTR-EAL-inbound-1",
+    "company": "MTR",
+    "route_id": "EAL",
+    "route": {
+      "en": "East Rail Line",
+      "tc": "東鐵線",
+      "sc": "東鐵線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
+    },
+    "destination": {
+      "en": "Lo Wu",
+      "tc": "羅湖",
+      "sc": "羅湖"
+    }
+  },
+  "MTR-EAL-LMC-inbound-1": {
+    "record_id": "MTR-EAL-LMC-inbound-1",
+    "company": "MTR",
+    "route_id": "EAL-LMC",
+    "route": {
+      "en": "East Rail Line Lok Ma Chau",
+      "tc": "東鐵線 落馬洲",
+      "sc": "東鐵線 落馬洲"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
+    },
+    "destination": {
+      "en": "Lok Ma Chau",
+      "tc": "落馬洲",
+      "sc": "落馬洲"
+    }
+  },
+  "MTR-EAL-LMC-outbound-1": {
+    "record_id": "MTR-EAL-LMC-outbound-1",
+    "company": "MTR",
+    "route_id": "EAL-LMC",
+    "route": {
+      "en": "East Rail Line Lok Ma Chau",
+      "tc": "東鐵線 落馬洲",
+      "sc": "東鐵線 落馬洲"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Lok Ma Chau",
+      "tc": "落馬洲",
+      "sc": "落馬洲"
+    },
+    "destination": {
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
+    }
+  },
+  "MTR-EAL-outbound-1": {
+    "record_id": "MTR-EAL-outbound-1",
+    "company": "MTR",
+    "route_id": "EAL",
+    "route": {
+      "en": "East Rail Line",
+      "tc": "東鐵線",
+      "sc": "東鐵線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Lo Wu",
+      "tc": "羅湖",
+      "sc": "羅湖"
+    },
+    "destination": {
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
+    }
+  },
+  "MTR-ISL-inbound-1": {
+    "record_id": "MTR-ISL-inbound-1",
+    "company": "MTR",
+    "route_id": "ISL",
+    "route": {
+      "en": "Island Line",
+      "tc": "港島線",
+      "sc": "港島線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Kennedy Town",
+      "tc": "堅尼地城",
+      "sc": "堅尼地城"
+    },
+    "destination": {
+      "en": "Chai Wan",
+      "tc": "柴灣",
+      "sc": "柴灣"
+    }
+  },
+  "MTR-ISL-outbound-1": {
+    "record_id": "MTR-ISL-outbound-1",
+    "company": "MTR",
+    "route_id": "ISL",
+    "route": {
+      "en": "Island Line",
+      "tc": "港島線",
+      "sc": "港島線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Chai Wan",
+      "tc": "柴灣",
+      "sc": "柴灣"
+    },
+    "destination": {
+      "en": "Kennedy Town",
+      "tc": "堅尼地城",
+      "sc": "堅尼地城"
+    }
+  },
+  "MTR-KTL-inbound-1": {
+    "record_id": "MTR-KTL-inbound-1",
+    "company": "MTR",
+    "route_id": "KTL",
+    "route": {
+      "en": "Kwun Tong Line",
+      "tc": "觀塘線",
+      "sc": "觀塘線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Whampoa",
+      "tc": "黃埔",
+      "sc": "黃埔"
+    },
+    "destination": {
+      "en": "Tiu Keng Leng",
+      "tc": "調景嶺",
+      "sc": "調景嶺"
+    }
+  },
+  "MTR-KTL-outbound-1": {
+    "record_id": "MTR-KTL-outbound-1",
+    "company": "MTR",
+    "route_id": "KTL",
+    "route": {
+      "en": "Kwun Tong Line",
+      "tc": "觀塘線",
+      "sc": "觀塘線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tiu Keng Leng",
+      "tc": "調景嶺",
+      "sc": "調景嶺"
+    },
+    "destination": {
+      "en": "Whampoa",
+      "tc": "黃埔",
+      "sc": "黃埔"
+    }
+  },
+  "MTR-SIL-inbound-1": {
+    "record_id": "MTR-SIL-inbound-1",
+    "company": "MTR",
+    "route_id": "SIL",
+    "route": {
+      "en": "South Island Line",
+      "tc": "南港島線",
+      "sc": "南港島線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
+    },
+    "destination": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半島"
+    }
+  },
+  "MTR-SIL-outbound-1": {
+    "record_id": "MTR-SIL-outbound-1",
+    "company": "MTR",
+    "route_id": "SIL",
+    "route": {
+      "en": "South Island Line",
+      "tc": "南港島線",
+      "sc": "南港島線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半島"
+    },
+    "destination": {
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
+    }
+  },
+  "MTR-TCL-inbound-1": {
+    "record_id": "MTR-TCL-inbound-1",
+    "company": "MTR",
+    "route_id": "TCL",
+    "route": {
+      "en": "Tung Chung Line",
+      "tc": "東涌線",
+      "sc": "東涌線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Hong Kong",
+      "tc": "香港",
+      "sc": "香港"
+    },
+    "destination": {
+      "en": "Tung Chung",
+      "tc": "東涌",
+      "sc": "東涌"
+    }
+  },
+  "MTR-TCL-outbound-1": {
+    "record_id": "MTR-TCL-outbound-1",
+    "company": "MTR",
+    "route_id": "TCL",
+    "route": {
+      "en": "Tung Chung Line",
+      "tc": "東涌線",
+      "sc": "東涌線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tung Chung",
+      "tc": "東涌",
+      "sc": "東涌"
+    },
+    "destination": {
+      "en": "Hong Kong",
+      "tc": "香港",
+      "sc": "香港"
+    }
+  },
+  "MTR-TKL-inbound-1": {
+    "record_id": "MTR-TKL-inbound-1",
+    "company": "MTR",
+    "route_id": "TKL",
+    "route": {
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "North Point",
+      "tc": "北角",
+      "sc": "北角"
+    },
+    "destination": {
+      "en": "Po Lam",
+      "tc": "寶琳",
+      "sc": "寶琳"
+    }
+  },
+  "MTR-TKL-outbound-1": {
+    "record_id": "MTR-TKL-outbound-1",
+    "company": "MTR",
+    "route_id": "TKL",
+    "route": {
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Po Lam",
+      "tc": "寶琳",
+      "sc": "寶琳"
+    },
+    "destination": {
+      "en": "North Point",
+      "tc": "北角",
+      "sc": "北角"
+    }
+  },
+  "MTR-TKL-TKS-inbound-1": {
+    "record_id": "MTR-TKL-TKS-inbound-1",
+    "company": "MTR",
+    "route_id": "TKL-TKS",
+    "route": {
+      "en": "Tseung Kwan O Line LOHAS Park",
+      "tc": "將軍澳線 康城",
+      "sc": "將軍澳線 康城"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tiu Keng Leng",
+      "tc": "調景嶺",
+      "sc": "調景嶺"
+    },
+    "destination": {
+      "en": "LOHAS Park",
+      "tc": "康城",
+      "sc": "康城"
+    }
+  },
+  "MTR-TKL-TKS-outbound-1": {
+    "record_id": "MTR-TKL-TKS-outbound-1",
+    "company": "MTR",
+    "route_id": "TKL-TKS",
+    "route": {
+      "en": "Tseung Kwan O Line LOHAS Park",
+      "tc": "將軍澳線 康城",
+      "sc": "將軍澳線 康城"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "LOHAS Park",
+      "tc": "康城",
+      "sc": "康城"
+    },
+    "destination": {
+      "en": "Tiu Keng Leng",
+      "tc": "調景嶺",
+      "sc": "調景嶺"
+    }
+  },
+  "MTR-TML-inbound-1": {
+    "record_id": "MTR-TML-inbound-1",
+    "company": "MTR",
+    "route_id": "TML",
+    "route": {
+      "en": "Tuen Ma Line",
+      "tc": "屯馬線",
+      "sc": "屯馬線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Wu Kai Sha",
+      "tc": "烏溪沙",
+      "sc": "烏溪沙"
+    },
+    "destination": {
+      "en": "Tuen Mun",
+      "tc": "屯門",
+      "sc": "屯門"
+    }
+  },
+  "MTR-TML-outbound-1": {
+    "record_id": "MTR-TML-outbound-1",
+    "company": "MTR",
+    "route_id": "TML",
+    "route": {
+      "en": "Tuen Ma Line",
+      "tc": "屯馬線",
+      "sc": "屯馬線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tuen Mun",
+      "tc": "屯門",
+      "sc": "屯門"
+    },
+    "destination": {
+      "en": "Wu Kai Sha",
+      "tc": "烏溪沙",
+      "sc": "烏溪沙"
+    }
+  },
+  "MTR-TWL-inbound-1": {
+    "record_id": "MTR-TWL-inbound-1",
+    "company": "MTR",
+    "route_id": "TWL",
+    "route": {
+      "en": "Tsuen Wan Line",
+      "tc": "荃灣線",
+      "sc": "荃灣線"
+    },
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Central",
+      "tc": "中環",
+      "sc": "中環"
+    },
+    "destination": {
+      "en": "Tsuen Wan",
+      "tc": "荃灣",
+      "sc": "荃灣"
+    }
+  },
+  "MTR-TWL-outbound-1": {
+    "record_id": "MTR-TWL-outbound-1",
+    "company": "MTR",
+    "route_id": "TWL",
+    "route": {
+      "en": "Tsuen Wan Line",
+      "tc": "荃灣線",
+      "sc": "荃灣線"
+    },
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tsuen Wan",
+      "tc": "荃灣",
+      "sc": "荃灣"
+    },
+    "destination": {
+      "en": "Central",
+      "tc": "中環",
+      "sc": "中環"
+    }
+  }
+}

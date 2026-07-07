@@ -1,0 +1,1028 @@
+{
+  "MTRB-506-1-outbound-1": {
+    "record_id": "MTRB-506-1-outbound-1",
+    "company": "MTRB",
+    "route_id": "506-1",
+    "route": "506",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Glorious Garden",
+      "tc": "富健花園",
+      "sc": "富健花園"
+    },
+    "destination": {
+      "en": "Tuen Mun Station",
+      "tc": "屯門站",
+      "sc": "屯門站"
+    }
+  },
+  "MTRB-506-inbound-1": {
+    "record_id": "MTRB-506-inbound-1",
+    "company": "MTRB",
+    "route_id": "506",
+    "route": "506",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
+    },
+    "destination": {
+      "en": "Siu Lun",
+      "tc": "兆麟",
+      "sc": "兆麟"
+    }
+  },
+  "MTRB-506-outbound-1": {
+    "record_id": "MTRB-506-outbound-1",
+    "company": "MTRB",
+    "route_id": "506",
+    "route": "506",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
+    },
+    "destination": {
+      "en": "Siu Lun",
+      "tc": "兆麟",
+      "sc": "兆麟"
+    }
+  },
+  "MTRB-K12-inbound-1": {
+    "record_id": "MTRB-K12-inbound-1",
+    "company": "MTRB",
+    "route_id": "K12",
+    "route": "K12",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "Eightland Garden",
+      "tc": "八號花園",
+      "sc": "八號花園"
+    }
+  },
+  "MTRB-K12-outbound-1": {
+    "record_id": "MTRB-K12-outbound-1",
+    "company": "MTRB",
+    "route_id": "K12",
+    "route": "K12",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "Eightland Garden",
+      "tc": "八號花園",
+      "sc": "八號花園"
+    }
+  },
+  "MTRB-K14-outbound-1": {
+    "record_id": "MTRB-K14-outbound-1",
+    "company": "MTRB",
+    "route_id": "K14",
+    "route": "K14",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Po Mega Mall",
+      "tc": "大埔超級城",
+      "sc": "大埔超級城"
+    },
+    "destination": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    }
+  },
+  "MTRB-K17-inbound-1": {
+    "record_id": "MTRB-K17-inbound-1",
+    "company": "MTRB",
+    "route_id": "K17",
+    "route": "K17",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "Fu Shin",
+      "tc": "富善",
+      "sc": "富善"
+    }
+  },
+  "MTRB-K17-outbound-1": {
+    "record_id": "MTRB-K17-outbound-1",
+    "company": "MTRB",
+    "route_id": "K17",
+    "route": "K17",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "Fu Shin",
+      "tc": "富善",
+      "sc": "富善"
+    }
+  },
+  "MTRB-K18-inbound-1": {
+    "record_id": "MTRB-K18-inbound-1",
+    "company": "MTRB",
+    "route_id": "K18",
+    "route": "K18",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "Kwong Fuk",
+      "tc": "廣福",
+      "sc": "廣福"
+    }
+  },
+  "MTRB-K18-outbound-1": {
+    "record_id": "MTRB-K18-outbound-1",
+    "company": "MTRB",
+    "route_id": "K18",
+    "route": "K18",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "Kwong Fuk",
+      "tc": "廣福",
+      "sc": "廣福"
+    }
+  },
+  "MTRB-K51-1-outbound-1": {
+    "record_id": "MTRB-K51-1-outbound-1",
+    "company": "MTRB",
+    "route_id": "K51-1",
+    "route": "K51",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "Siu Hong Station",
+      "tc": "兆康站",
+      "sc": "兆康站"
+    }
+  },
+  "MTRB-K51-2-outbound-1": {
+    "record_id": "MTRB-K51-2-outbound-1",
+    "company": "MTRB",
+    "route_id": "K51-2",
+    "route": "K51",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Siu Hong Station",
+      "tc": "兆康站",
+      "sc": "兆康站"
+    },
+    "destination": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    }
+  },
+  "MTRB-K51-inbound-1": {
+    "record_id": "MTRB-K51-inbound-1",
+    "company": "MTRB",
+    "route_id": "K51",
+    "route": "K51",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "Tai Lam",
+      "tc": "大欖",
+      "sc": "大欖"
+    }
+  },
+  "MTRB-K51-outbound-1": {
+    "record_id": "MTRB-K51-outbound-1",
+    "company": "MTRB",
+    "route_id": "K51",
+    "route": "K51",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "Tai Lam",
+      "tc": "大欖",
+      "sc": "大欖"
+    }
+  },
+  "MTRB-K51A-inbound-1": {
+    "record_id": "MTRB-K51A-inbound-1",
+    "company": "MTRB",
+    "route_id": "K51A",
+    "route": "K51A",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "So Kwun Wat",
+      "tc": "掃管笏",
+      "sc": "掃管笏"
+    }
+  },
+  "MTRB-K51A-outbound-1": {
+    "record_id": "MTRB-K51A-outbound-1",
+    "company": "MTRB",
+    "route_id": "K51A",
+    "route": "K51A",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "So Kwun Wat",
+      "tc": "掃管笏",
+      "sc": "掃管笏"
+    }
+  },
+  "MTRB-K52-1-outbound-1": {
+    "record_id": "MTRB-K52-1-outbound-1",
+    "company": "MTRB",
+    "route_id": "K52-1",
+    "route": "K52",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "LR Tuen Mun Stop",
+      "tc": "輕鐵屯門站",
+      "sc": "輕鐵屯門站"
+    },
+    "destination": {
+      "en": "Lung Kwu Tan",
+      "tc": "龍鼓灘",
+      "sc": "龍鼓灘"
+    }
+  },
+  "MTRB-K52-inbound-1": {
+    "record_id": "MTRB-K52-inbound-1",
+    "company": "MTRB",
+    "route_id": "K52",
+    "route": "K52",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Yuet Wu Villa",
+      "tc": "悅湖山莊",
+      "sc": "悅湖山莊"
+    },
+    "destination": {
+      "en": "Lung Kwu Tan",
+      "tc": "龍鼓灘",
+      "sc": "龍鼓灘"
+    }
+  },
+  "MTRB-K52-outbound-1": {
+    "record_id": "MTRB-K52-outbound-1",
+    "company": "MTRB",
+    "route_id": "K52",
+    "route": "K52",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Yuet Wu Villa",
+      "tc": "悅湖山莊",
+      "sc": "悅湖山莊"
+    },
+    "destination": {
+      "en": "Lung Kwu Tan",
+      "tc": "龍鼓灘",
+      "sc": "龍鼓灘"
+    }
+  },
+  "MTRB-K52A-inbound-1": {
+    "record_id": "MTRB-K52A-inbound-1",
+    "company": "MTRB",
+    "route_id": "K52A",
+    "route": "K52A",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tuen Mun Station",
+      "tc": "屯門站",
+      "sc": "屯門站"
+    },
+    "destination": {
+      "en": "Tsang Tsui",
+      "tc": "曾咀",
+      "sc": "曾咀"
+    }
+  },
+  "MTRB-K52A-outbound-1": {
+    "record_id": "MTRB-K52A-outbound-1",
+    "company": "MTRB",
+    "route_id": "K52A",
+    "route": "K52A",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tuen Mun Station",
+      "tc": "屯門站",
+      "sc": "屯門站"
+    },
+    "destination": {
+      "en": "Tsang Tsui",
+      "tc": "曾咀",
+      "sc": "曾咀"
+    }
+  },
+  "MTRB-K52P-outbound-1": {
+    "record_id": "MTRB-K52P-outbound-1",
+    "company": "MTRB",
+    "route_id": "K52P",
+    "route": "K52P",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Lung Kwu Tan",
+      "tc": "龍鼓灘",
+      "sc": "龍鼓灘"
+    },
+    "destination": {
+      "en": "Tuen Mun Station",
+      "tc": "屯門站",
+      "sc": "屯門站"
+    }
+  },
+  "MTRB-K53-outbound-1": {
+    "record_id": "MTRB-K53-outbound-1",
+    "company": "MTRB",
+    "route_id": "K53",
+    "route": "K53",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tuen Mun Station",
+      "tc": "屯門站",
+      "sc": "屯門站"
+    },
+    "destination": {
+      "en": "So Kwun Wat (Circular)",
+      "tc": "掃管笏 (循環線)",
+      "sc": "掃管笏 (循環線)"
+    }
+  },
+  "MTRB-K53S-outbound-1": {
+    "record_id": "MTRB-K53S-outbound-1",
+    "company": "MTRB",
+    "route_id": "K53S",
+    "route": "K53S",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tuen Mun Station",
+      "tc": "屯門站",
+      "sc": "屯門站"
+    },
+    "destination": {
+      "en": "Yip Wong Estate (Circular)",
+      "tc": "業旺邨 (循環線)",
+      "sc": "業旺邨 (循環線)"
+    }
+  },
+  "MTRB-K54-outbound-1": {
+    "record_id": "MTRB-K54-outbound-1",
+    "company": "MTRB",
+    "route_id": "K54",
+    "route": "K54",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Wo Tin Estate",
+      "tc": "和田邨",
+      "sc": "和田邨"
+    },
+    "destination": {
+      "en": "Tuen Mun Town Centre (Circular)",
+      "tc": "屯門市中心(循環線)",
+      "sc": "屯門市中心(循環線)"
+    }
+  },
+  "MTRB-K54A-inbound-1": {
+    "record_id": "MTRB-K54A-inbound-1",
+    "company": "MTRB",
+    "route_id": "K54A",
+    "route": "K54A",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Wo Tin Estate",
+      "tc": "和田邨",
+      "sc": "和田邨"
+    },
+    "destination": {
+      "en": "Siu Hong Station",
+      "tc": "兆康站",
+      "sc": "兆康站"
+    }
+  },
+  "MTRB-K54A-outbound-1": {
+    "record_id": "MTRB-K54A-outbound-1",
+    "company": "MTRB",
+    "route_id": "K54A",
+    "route": "K54A",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Wo Tin Estate",
+      "tc": "和田邨",
+      "sc": "和田邨"
+    },
+    "destination": {
+      "en": "Siu Hong Station",
+      "tc": "兆康站",
+      "sc": "兆康站"
+    }
+  },
+  "MTRB-K58-inbound-1": {
+    "record_id": "MTRB-K58-inbound-1",
+    "company": "MTRB",
+    "route_id": "K58",
+    "route": "K58",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "So Kwun Wat",
+      "tc": "掃管笏",
+      "sc": "掃管笏"
+    }
+  },
+  "MTRB-K58-outbound-1": {
+    "record_id": "MTRB-K58-outbound-1",
+    "company": "MTRB",
+    "route_id": "K58",
+    "route": "K58",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "So Kwun Wat",
+      "tc": "掃管笏",
+      "sc": "掃管笏"
+    }
+  },
+  "MTRB-K65-inbound-1": {
+    "record_id": "MTRB-K65-inbound-1",
+    "company": "MTRB",
+    "route_id": "K65",
+    "route": "K65",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Yuen Long Station",
+      "tc": "元朗站",
+      "sc": "元朗站"
+    },
+    "destination": {
+      "en": "Lau Fau Shan",
+      "tc": "流浮山",
+      "sc": "流浮山"
+    }
+  },
+  "MTRB-K65-outbound-1": {
+    "record_id": "MTRB-K65-outbound-1",
+    "company": "MTRB",
+    "route_id": "K65",
+    "route": "K65",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Yuen Long Station",
+      "tc": "元朗站",
+      "sc": "元朗站"
+    },
+    "destination": {
+      "en": "Lau Fau Shan",
+      "tc": "流浮山",
+      "sc": "流浮山"
+    }
+  },
+  "MTRB-K65A-inbound-1": {
+    "record_id": "MTRB-K65A-inbound-1",
+    "company": "MTRB",
+    "route_id": "K65A",
+    "route": "K65A",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
+    },
+    "destination": {
+      "en": "Lau Fau Shan",
+      "tc": "流浮山",
+      "sc": "流浮山"
+    }
+  },
+  "MTRB-K65A-outbound-1": {
+    "record_id": "MTRB-K65A-outbound-1",
+    "company": "MTRB",
+    "route_id": "K65A",
+    "route": "K65A",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
+    },
+    "destination": {
+      "en": "Lau Fau Shan",
+      "tc": "流浮山",
+      "sc": "流浮山"
+    }
+  },
+  "MTRB-K66-1-outbound-1": {
+    "record_id": "MTRB-K66-1-outbound-1",
+    "company": "MTRB",
+    "route_id": "K66-1",
+    "route": "K66",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Tong Wong Nai Tun Tsuen",
+      "tc": "大棠黃泥墩村",
+      "sc": "大棠黃泥墩村"
+    },
+    "destination": {
+      "en": "Yuet Ping House, Long Ping Estate",
+      "tc": "朗屏邨悅屏樓",
+      "sc": "朗屏邨悅屏樓"
+    }
+  },
+  "MTRB-K66-2-outbound-1": {
+    "record_id": "MTRB-K66-2-outbound-1",
+    "company": "MTRB",
+    "route_id": "K66-2",
+    "route": "K66",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Tong Wong Nai Tun Tsuen",
+      "tc": "大棠黃泥墩村",
+      "sc": "大棠黃泥墩村"
+    },
+    "destination": {
+      "en": "On Hong Road",
+      "tc": "安康路",
+      "sc": "安康路"
+    }
+  },
+  "MTRB-K66-3-outbound-1": {
+    "record_id": "MTRB-K66-3-outbound-1",
+    "company": "MTRB",
+    "route_id": "K66-3",
+    "route": "K66",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Nam Hang Pai",
+      "tc": "南坑排",
+      "sc": "南坑排"
+    },
+    "destination": {
+      "en": "Long Ping",
+      "tc": "朗屏",
+      "sc": "朗屏"
+    }
+  },
+  "MTRB-K66-inbound-1": {
+    "record_id": "MTRB-K66-inbound-1",
+    "company": "MTRB",
+    "route_id": "K66",
+    "route": "K66",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Long Ping",
+      "tc": "朗屏",
+      "sc": "朗屏"
+    },
+    "destination": {
+      "en": "Tai Tong Wong Nai Tun Tsuen",
+      "tc": "大棠黃泥墩村",
+      "sc": "大棠黃泥墩村"
+    }
+  },
+  "MTRB-K66-outbound-1": {
+    "record_id": "MTRB-K66-outbound-1",
+    "company": "MTRB",
+    "route_id": "K66",
+    "route": "K66",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Long Ping",
+      "tc": "朗屏",
+      "sc": "朗屏"
+    },
+    "destination": {
+      "en": "Tai Tong Wong Nai Tun Tsuen",
+      "tc": "大棠黃泥墩村",
+      "sc": "大棠黃泥墩村"
+    }
+  },
+  "MTRB-K68-1-outbound-1": {
+    "record_id": "MTRB-K68-1-outbound-1",
+    "company": "MTRB",
+    "route_id": "K68-1",
+    "route": "K68",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Silver Field Garden",
+      "tc": "銀田花園",
+      "sc": "銀田花園"
+    },
+    "destination": {
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
+    }
+  },
+  "MTRB-K68-2-outbound-1": {
+    "record_id": "MTRB-K68-2-outbound-1",
+    "company": "MTRB",
+    "route_id": "K68-2",
+    "route": "K68",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Yuen Long Plaza",
+      "tc": "元朗廣場",
+      "sc": "元朗廣場"
+    },
+    "destination": {
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
+    }
+  },
+  "MTRB-K68-3-outbound-1": {
+    "record_id": "MTRB-K68-3-outbound-1",
+    "company": "MTRB",
+    "route_id": "K68-3",
+    "route": "K68",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tai Kiu Tsuen",
+      "tc": "大橋村",
+      "sc": "大橋村"
+    },
+    "destination": {
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
+    }
+  },
+  "MTRB-K68-4-outbound-1": {
+    "record_id": "MTRB-K68-4-outbound-1",
+    "company": "MTRB",
+    "route_id": "K68-4",
+    "route": "K68",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
+    },
+    "destination": {
+      "en": "Tai Kiu Tsuen",
+      "tc": "大橋村",
+      "sc": "大橋村"
+    }
+  },
+  "MTRB-K68-outbound-1": {
+    "record_id": "MTRB-K68-outbound-1",
+    "company": "MTRB",
+    "route_id": "K68",
+    "route": "K68",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
+    },
+    "destination": {
+      "en": "Yuen Long Park (Circular)",
+      "tc": "元朗公園 (循環線)",
+      "sc": "元朗公園 (循環線)"
+    }
+  },
+  "MTRB-K73-1-outbound-1": {
+    "record_id": "MTRB-K73-1-outbound-1",
+    "company": "MTRB",
+    "route_id": "K73-1",
+    "route": "K73",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Yan",
+      "tc": "天恩",
+      "sc": "天恩"
+    },
+    "destination": {
+      "en": "Yuen Long West",
+      "tc": "元朗西",
+      "sc": "元朗西"
+    }
+  },
+  "MTRB-K73-2-outbound-1": {
+    "record_id": "MTRB-K73-2-outbound-1",
+    "company": "MTRB",
+    "route_id": "K73-2",
+    "route": "K73",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "HKFYG Lee Shau Kee College",
+      "tc": "香港青年協會李兆基書院",
+      "sc": "香港青年協會李兆基書院"
+    },
+    "destination": {
+      "en": "Yuen Long West",
+      "tc": "元朗西",
+      "sc": "元朗西"
+    }
+  },
+  "MTRB-K73-inbound-1": {
+    "record_id": "MTRB-K73-inbound-1",
+    "company": "MTRB",
+    "route_id": "K73",
+    "route": "K73",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Heng",
+      "tc": "天恆",
+      "sc": "天恆"
+    },
+    "destination": {
+      "en": "Yuen Long West",
+      "tc": "元朗西",
+      "sc": "元朗西"
+    }
+  },
+  "MTRB-K73-outbound-1": {
+    "record_id": "MTRB-K73-outbound-1",
+    "company": "MTRB",
+    "route_id": "K73",
+    "route": "K73",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Heng",
+      "tc": "天恆",
+      "sc": "天恆"
+    },
+    "destination": {
+      "en": "Yuen Long West",
+      "tc": "元朗西",
+      "sc": "元朗西"
+    }
+  },
+  "MTRB-K74-outbound-1": {
+    "record_id": "MTRB-K74-outbound-1",
+    "company": "MTRB",
+    "route_id": "K74",
+    "route": "K74",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Shui Wai Town Centre",
+      "tc": "天水圍市中心",
+      "sc": "天水圍市中心"
+    },
+    "destination": {
+      "en": "Au Tau (Circular)",
+      "tc": "凹頭 (循環線)",
+      "sc": "凹頭 (循環線)"
+    }
+  },
+  "MTRB-K75A-outbound-1": {
+    "record_id": "MTRB-K75A-outbound-1",
+    "company": "MTRB",
+    "route_id": "K75A",
+    "route": "K75A",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
+    },
+    "destination": {
+      "en": "Hung Shui Kiu (Circular)",
+      "tc": "洪水橋 (循環線)",
+      "sc": "洪水橋 (循環線)"
+    }
+  },
+  "MTRB-K75P-outbound-1": {
+    "record_id": "MTRB-K75P-outbound-1",
+    "company": "MTRB",
+    "route_id": "K75P",
+    "route": "K75P",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Shui",
+      "tc": "天瑞",
+      "sc": "天瑞"
+    },
+    "destination": {
+      "en": "Hung Shui Kiu (Circular)",
+      "tc": "洪水橋 (循環線)",
+      "sc": "洪水橋 (循環線)"
+    }
+  },
+  "MTRB-K75P1-outbound-1": {
+    "record_id": "MTRB-K75P1-outbound-1",
+    "company": "MTRB",
+    "route_id": "K75P1",
+    "route": "K75P",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Hung Shui Kiu Bus Depot",
+      "tc": "洪水橋巴士廠",
+      "sc": "洪水橋巴士廠"
+    },
+    "destination": {
+      "en": "Tin Shui",
+      "tc": "天瑞",
+      "sc": "天瑞"
+    }
+  },
+  "MTRB-K75S-outbound-1": {
+    "record_id": "MTRB-K75S-outbound-1",
+    "company": "MTRB",
+    "route_id": "K75S",
+    "route": "K75S",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
+    },
+    "destination": {
+      "en": "Hung Fuk Estate (Circular)",
+      "tc": "洪福邨 (循環線)",
+      "sc": "洪福邨 (循環線)"
+    }
+  },
+  "MTRB-K75S1-outbound-1": {
+    "record_id": "MTRB-K75S1-outbound-1",
+    "company": "MTRB",
+    "route_id": "K75S1",
+    "route": "K75S",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Hung Shui Kiu Bus Depot",
+      "tc": "洪水橋巴士廠",
+      "sc": "洪水橋巴士廠"
+    },
+    "destination": {
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
+    }
+  },
+  "MTRB-K76-inbound-1": {
+    "record_id": "MTRB-K76-inbound-1",
+    "company": "MTRB",
+    "route_id": "K76",
+    "route": "K76",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Heng",
+      "tc": "天恆",
+      "sc": "天恆"
+    },
+    "destination": {
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
+    }
+  },
+  "MTRB-K76-outbound-1": {
+    "record_id": "MTRB-K76-outbound-1",
+    "company": "MTRB",
+    "route_id": "K76",
+    "route": "K76",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Tin Heng",
+      "tc": "天恆",
+      "sc": "天恆"
+    },
+    "destination": {
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
+    }
+  },
+  "MTRB-K76S-inbound-1": {
+    "record_id": "MTRB-K76S-inbound-1",
+    "company": "MTRB",
+    "route_id": "K76S",
+    "route": "K76S",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Wetland Park Road (near Tin Kwai Road)",
+      "tc": "濕地公園路(近天葵路)",
+      "sc": "濕地公園路(近天葵路)"
+    },
+    "destination": {
+      "en": "Tin Shing Court /MTR Tin Shui Wai Station",
+      "tc": "天盛苑/港鐵天水圍站",
+      "sc": "天盛苑/港鐵天水圍站"
+    }
+  },
+  "MTRB-K76S-outbound-1": {
+    "record_id": "MTRB-K76S-outbound-1",
+    "company": "MTRB",
+    "route_id": "K76S",
+    "route": "K76S",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Wetland Park Road (near Tin Kwai Road)",
+      "tc": "濕地公園路(近天葵路)",
+      "sc": "濕地公園路(近天葵路)"
+    },
+    "destination": {
+      "en": "Tin Shing Court /MTR Tin Shui Wai Station",
+      "tc": "天盛苑/港鐵天水圍站",
+      "sc": "天盛苑/港鐵天水圍站"
+    }
+  }
+}

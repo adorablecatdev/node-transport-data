@@ -1,0 +1,74 @@
+{
+  "GMBHKI-1-inbound-1": {
+    "record_id": "GMBHKI-1-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006408",
+    "route": "1",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    },
+    "destination": {
+      "en": "The Peak (Public Transport Terminus)",
+      "tc": "山頂(公共交通總站)",
+      "sc": "山顶(公共交通总站)"
+    }
+  },
+  "GMBHKI-1-outbound-1": {
+    "record_id": "GMBHKI-1-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006408",
+    "route": "1",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "The Peak (Public Transport Terminus)",
+      "tc": "山頂(公共交通總站)",
+      "sc": "山顶(公共交通总站)"
+    },
+    "destination": {
+      "en": "Central (Hong Kong Station Public Transport Interchange)",
+      "tc": "中環(香港站公共運輸交匯處)",
+      "sc": "中环(香港站公共运输交汇处)"
+    }
+  },
+  "GMBHKI-10-inbound-1": {
+    "record_id": "GMBHKI-10-inbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006706",
+    "route": "10",
+    "bound": "inbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Cyberport Bus Terminus",
+      "tc": "數碼港巴士總站",
+      "sc": "数码港巴士总站"
+    },
+    "destination": {
+      "en": "JAFFE ROAD, near Siu On Plaza",
+      "tc": "謝斐道, 近兆安廣場",
+      "sc": "谢斐道, 近兆安广场"
+    }
+  },
+  "GMBHKI-10-outbound-1": {
+    "record_id": "GMBHKI-10-outbound-1",
+    "company": "GMBHKI",
+    "route_id": "2006706",
+    "route": "10",
+    "bound": "outbound",
+    "serviceType": "1",
+    "origin": {
+      "en": "Causeway Bay (Jaffe Road)",
+      "tc": "銅鑼灣(謝斐道)",
+      "sc": "铜锣湾(谢斐道)"
+    },
+    "destination": {
+      "en": "Cyberport Public Transport Interchange",
+      "tc": "數碼港公共運輸交匯處",
+      "sc": "数码港公共运输交汇处"
+    }
+  }
+}

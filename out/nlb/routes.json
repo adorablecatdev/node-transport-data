@@ -1,0 +1,1154 @@
+{
+  "NLB-1-inbound-1": {
+    "record_id": "NLB-1-inbound-1",
+    "company": "NLB",
+    "route_id": "2",
+    "route": "1",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-1-outbound-1": {
+    "record_id": "NLB-1-outbound-1",
+    "company": "NLB",
+    "route_id": "1",
+    "route": "1",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    }
+  },
+  "NLB-11-inbound-1": {
+    "record_id": "NLB-11-inbound-1",
+    "company": "NLB",
+    "route_id": "14",
+    "route": "11",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    }
+  },
+  "NLB-11-outbound-1": {
+    "record_id": "NLB-11-outbound-1",
+    "company": "NLB",
+    "route_id": "13",
+    "route": "11",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "destination": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    }
+  },
+  "NLB-11-outbound-2": {
+    "record_id": "NLB-11-outbound-2",
+    "company": "NLB",
+    "route_id": "17",
+    "route": "11",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Tai O (from Sha Tsui)",
+      "tc": "大澳 (沙咀開)",
+      "sc": "大澳 (沙咀开)"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    }
+  },
+  "NLB-11-outbound-3": {
+    "record_id": "NLB-11-outbound-3",
+    "company": "NLB",
+    "route_id": "18",
+    "route": "11",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Tai O (from Shui Hau)",
+      "tc": "大澳 (水口開)",
+      "sc": "大澳 (水口开)"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    }
+  },
+  "NLB-11A-inbound-1": {
+    "record_id": "NLB-11A-inbound-1",
+    "company": "NLB",
+    "route_id": "16",
+    "route": "11A",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shek Pik",
+      "tc": "石壁",
+      "sc": "石壁"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    }
+  },
+  "NLB-11A-outbound-1": {
+    "record_id": "NLB-11A-outbound-1",
+    "company": "NLB",
+    "route_id": "15",
+    "route": "11A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "destination": {
+      "en": "Shek Pik",
+      "tc": "石壁",
+      "sc": "石壁"
+    }
+  },
+  "NLB-1R-outbound-1": {
+    "record_id": "NLB-1R-outbound-1",
+    "company": "NLB",
+    "route_id": "3",
+    "route": "1R",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Hung Hom (Hung Luen Road)",
+      "tc": "紅磡 (紅鸞道)",
+      "sc": "红磡 (红鸾道)"
+    },
+    "destination": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    }
+  },
+  "NLB-2-inbound-1": {
+    "record_id": "NLB-2-inbound-1",
+    "company": "NLB",
+    "route_id": "5",
+    "route": "2",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-2-outbound-1": {
+    "record_id": "NLB-2-outbound-1",
+    "company": "NLB",
+    "route_id": "4",
+    "route": "2",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    }
+  },
+  "NLB-21-inbound-1": {
+    "record_id": "NLB-21-inbound-1",
+    "company": "NLB",
+    "route_id": "20",
+    "route": "21",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "destination": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    }
+  },
+  "NLB-21-outbound-1": {
+    "record_id": "NLB-21-outbound-1",
+    "company": "NLB",
+    "route_id": "19",
+    "route": "21",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    },
+    "destination": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    }
+  },
+  "NLB-23-inbound-1": {
+    "record_id": "NLB-23-inbound-1",
+    "company": "NLB",
+    "route_id": "22",
+    "route": "23",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    },
+    "destination": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    }
+  },
+  "NLB-23-outbound-1": {
+    "record_id": "NLB-23-outbound-1",
+    "company": "NLB",
+    "route_id": "21",
+    "route": "23",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    },
+    "destination": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    }
+  },
+  "NLB-34-inbound-1": {
+    "record_id": "NLB-34-inbound-1",
+    "company": "NLB",
+    "route_id": "24",
+    "route": "34",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shek Mun Kap",
+      "tc": "石門甲",
+      "sc": "石门甲"
+    },
+    "destination": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    }
+  },
+  "NLB-34-outbound-1": {
+    "record_id": "NLB-34-outbound-1",
+    "company": "NLB",
+    "route_id": "23",
+    "route": "34",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    },
+    "destination": {
+      "en": "Shek Mun Kap",
+      "tc": "石門甲",
+      "sc": "石门甲"
+    }
+  },
+  "NLB-34S-outbound-1": {
+    "record_id": "NLB-34S-outbound-1",
+    "company": "NLB",
+    "route_id": "71",
+    "route": "34S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    },
+    "destination": {
+      "en": "Cemetery Area No. 18 (Circular)",
+      "tc": "十八區墳場 (循環線)",
+      "sc": "十八区坟场 (循环线)"
+    }
+  },
+  "NLB-36-inbound-1": {
+    "record_id": "NLB-36-inbound-1",
+    "company": "NLB",
+    "route_id": "102",
+    "route": "36",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Disneyland",
+      "tc": "迪士尼樂園",
+      "sc": "迪士尼乐园"
+    },
+    "destination": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    }
+  },
+  "NLB-36-outbound-1": {
+    "record_id": "NLB-36-outbound-1",
+    "company": "NLB",
+    "route_id": "101",
+    "route": "36",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    },
+    "destination": {
+      "en": "Disneyland",
+      "tc": "迪士尼樂園",
+      "sc": "迪士尼乐园"
+    }
+  },
+  "NLB-36M-outbound-1": {
+    "record_id": "NLB-36M-outbound-1",
+    "company": "NLB",
+    "route_id": "115",
+    "route": "36M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Cheung Tung Estate",
+      "tc": "翔東邨",
+      "sc": "翔东邨"
+    },
+    "destination": {
+      "en": "Sunny Bay Station",
+      "tc": "欣澳站",
+      "sc": "欣澳站"
+    }
+  },
+  "NLB-36X-outbound-1": {
+    "record_id": "NLB-36X-outbound-1",
+    "company": "NLB",
+    "route_id": "100",
+    "route": "36X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mun Tung Estate",
+      "tc": "滿東邨",
+      "sc": "满东邨"
+    },
+    "destination": {
+      "en": "Disneyland",
+      "tc": "迪士尼樂園",
+      "sc": "迪士尼乐园"
+    }
+  },
+  "NLB-37-inbound-1": {
+    "record_id": "NLB-37-inbound-1",
+    "company": "NLB",
+    "route_id": "80",
+    "route": "37",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ying Tung Estate",
+      "tc": "迎東邨",
+      "sc": "迎东邨"
+    },
+    "destination": {
+      "en": "Yat Tung Estate",
+      "tc": "逸東邨",
+      "sc": "逸东邨"
+    }
+  },
+  "NLB-37-outbound-1": {
+    "record_id": "NLB-37-outbound-1",
+    "company": "NLB",
+    "route_id": "78",
+    "route": "37",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yat Tung Estate",
+      "tc": "逸東邨",
+      "sc": "逸东邨"
+    },
+    "destination": {
+      "en": "Ying Tung Estate",
+      "tc": "迎東邨",
+      "sc": "迎东邨"
+    }
+  },
+  "NLB-37A-outbound-1": {
+    "record_id": "NLB-37A-outbound-1",
+    "company": "NLB",
+    "route_id": "116",
+    "route": "37A",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Cheung Tung Estate",
+      "tc": "翔東邨",
+      "sc": "翔东邨"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus (Circular)",
+      "tc": "東涌站巴士總站 (循環線)",
+      "sc": "东涌站巴士总站 (循环线)"
+    }
+  },
+  "NLB-37H-outbound-1": {
+    "record_id": "NLB-37H-outbound-1",
+    "company": "NLB",
+    "route_id": "96",
+    "route": "37H",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ying Tung Estate",
+      "tc": "迎東邨",
+      "sc": "迎东邨"
+    },
+    "destination": {
+      "en": "North Lantau Hospital (Circular)",
+      "tc": "北大嶼山醫院 (循環線)",
+      "sc": "北大屿山医院 (循环线)"
+    }
+  },
+  "NLB-37M-outbound-1": {
+    "record_id": "NLB-37M-outbound-1",
+    "company": "NLB",
+    "route_id": "82",
+    "route": "37M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ying Tung Estate",
+      "tc": "迎東邨",
+      "sc": "迎东邨"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus (Circular)",
+      "tc": "東涌站巴士總站 (循環線)",
+      "sc": "东涌站巴士总站 (循环线)"
+    }
+  },
+  "NLB-37P-outbound-1": {
+    "record_id": "NLB-37P-outbound-1",
+    "company": "NLB",
+    "route_id": "63",
+    "route": "37P",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yung Yat House (Yu Tung Road)",
+      "tc": "逸東邨 (裕東路)",
+      "sc": "逸东邨 (裕东路)"
+    },
+    "destination": {
+      "en": "Caribbean Coast",
+      "tc": "映灣園",
+      "sc": "映湾园"
+    }
+  },
+  "NLB-37S-outbound-1": {
+    "record_id": "NLB-37S-outbound-1",
+    "company": "NLB",
+    "route_id": "75",
+    "route": "37S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Development Ferry Pier",
+      "tc": "東涌發展碼頭",
+      "sc": "东涌发展码头"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    }
+  },
+  "NLB-38-outbound-1": {
+    "record_id": "NLB-38-outbound-1",
+    "company": "NLB",
+    "route_id": "30",
+    "route": "38",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yat Tung Estate",
+      "tc": "逸東邨",
+      "sc": "逸东邨"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus (Circular)",
+      "tc": "東涌站巴士總站 (循環線)",
+      "sc": "东涌站巴士总站 (循环线)"
+    }
+  },
+  "NLB-38X-outbound-1": {
+    "record_id": "NLB-38X-outbound-1",
+    "company": "NLB",
+    "route_id": "29",
+    "route": "38X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yat Tung Estate (Yu Tung Road)",
+      "tc": "逸東邨 (裕東路)",
+      "sc": "逸东邨 (裕东路)"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus (Circular)",
+      "tc": "東涌站巴士總站 (循環線)",
+      "sc": "东涌站巴士总站 (循环线)"
+    }
+  },
+  "NLB-39M-outbound-1": {
+    "record_id": "NLB-39M-outbound-1",
+    "company": "NLB",
+    "route_id": "95",
+    "route": "39M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "destination": {
+      "en": "Mun Tung Estate  (Circular Route)",
+      "tc": "滿東邨 (循環線)",
+      "sc": "满东邨 (循环线)"
+    }
+  },
+  "NLB-3M-inbound-1": {
+    "record_id": "NLB-3M-inbound-1",
+    "company": "NLB",
+    "route_id": "7",
+    "route": "3M",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    }
+  },
+  "NLB-3M-outbound-1": {
+    "record_id": "NLB-3M-outbound-1",
+    "company": "NLB",
+    "route_id": "6",
+    "route": "3M",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-3M-outbound-2": {
+    "record_id": "NLB-3M-outbound-2",
+    "company": "NLB",
+    "route_id": "8",
+    "route": "3M",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Mui Wo (from Pui O)",
+      "tc": "梅窩 (貝澳開)",
+      "sc": "梅窝 (贝澳开)"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    }
+  },
+  "NLB-4-inbound-1": {
+    "record_id": "NLB-4-inbound-1",
+    "company": "NLB",
+    "route_id": "10",
+    "route": "4",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tong Fuk",
+      "tc": "塘福",
+      "sc": "塘福"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-4-outbound-1": {
+    "record_id": "NLB-4-outbound-1",
+    "company": "NLB",
+    "route_id": "9",
+    "route": "4",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Tong Fuk",
+      "tc": "塘福",
+      "sc": "塘福"
+    }
+  },
+  "NLB-4-outbound-2": {
+    "record_id": "NLB-4-outbound-2",
+    "company": "NLB",
+    "route_id": "11",
+    "route": "4",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Tong Fuk (from Shui Hau)",
+      "tc": "塘福 (水口開)",
+      "sc": "塘福 (水口开)"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-4-outbound-3": {
+    "record_id": "NLB-4-outbound-3",
+    "company": "NLB",
+    "route_id": "12",
+    "route": "4",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Tong Fuk (to Shui Hau)",
+      "tc": "塘福 (至水口)",
+      "sc": "塘福 (至水口)"
+    }
+  },
+  "NLB-7S-inbound-1": {
+    "record_id": "NLB-7S-inbound-1",
+    "company": "NLB",
+    "route_id": "72",
+    "route": "7S",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Lai Chi Yuen Cemetery",
+      "tc": "禮智園墳場",
+      "sc": "礼智园坟场"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-7S-outbound-1": {
+    "record_id": "NLB-7S-outbound-1",
+    "company": "NLB",
+    "route_id": "70",
+    "route": "7S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Lai Chi Yuen Cemetery",
+      "tc": "禮智園墳場",
+      "sc": "礼智园坟场"
+    }
+  },
+  "NLB-A35-inbound-1": {
+    "record_id": "NLB-A35-inbound-1",
+    "company": "NLB",
+    "route_id": "91",
+    "route": "A35",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-A35-outbound-1": {
+    "record_id": "NLB-A35-outbound-1",
+    "company": "NLB",
+    "route_id": "90",
+    "route": "A35",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    }
+  },
+  "NLB-B2-inbound-1": {
+    "record_id": "NLB-B2-inbound-1",
+    "company": "NLB",
+    "route_id": "38",
+    "route": "B2",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Yuen Long MTR Station",
+      "tc": "元朗港鐵站",
+      "sc": "元朗港铁站"
+    }
+  },
+  "NLB-B2-outbound-1": {
+    "record_id": "NLB-B2-outbound-1",
+    "company": "NLB",
+    "route_id": "37",
+    "route": "B2",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yuen Long MTR Station",
+      "tc": "元朗港鐵站",
+      "sc": "元朗港铁站"
+    },
+    "destination": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    }
+  },
+  "NLB-B2P-inbound-1": {
+    "record_id": "NLB-B2P-inbound-1",
+    "company": "NLB",
+    "route_id": "34",
+    "route": "B2P",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Tin Shui Wai (Tin Tsz Estate)",
+      "tc": "天水圍 (天慈邨)",
+      "sc": "天水围 (天慈邨)"
+    }
+  },
+  "NLB-B2P-outbound-1": {
+    "record_id": "NLB-B2P-outbound-1",
+    "company": "NLB",
+    "route_id": "33",
+    "route": "B2P",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Shui Wai (Tin Tsz Estate)",
+      "tc": "天水圍 (天慈邨)",
+      "sc": "天水围 (天慈邨)"
+    },
+    "destination": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    }
+  },
+  "NLB-B2X-inbound-1": {
+    "record_id": "NLB-B2X-inbound-1",
+    "company": "NLB",
+    "route_id": "36",
+    "route": "B2X",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Tin Shui Wai (Tin Yiu Estate)",
+      "tc": "天水圍 (天耀邨)",
+      "sc": "天水围 (天耀邨)"
+    }
+  },
+  "NLB-B2X-outbound-1": {
+    "record_id": "NLB-B2X-outbound-1",
+    "company": "NLB",
+    "route_id": "35",
+    "route": "B2X",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Shui Wai (Tin Yiu Estate)",
+      "tc": "天水圍 (天耀邨)",
+      "sc": "天水围 (天耀邨)"
+    },
+    "destination": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    }
+  },
+  "NLB-B4-outbound-1": {
+    "record_id": "NLB-B4-outbound-1",
+    "company": "NLB",
+    "route_id": "87",
+    "route": "B4",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    },
+    "destination": {
+      "en": "Airport (Passenger Terminal Building) (Circular)",
+      "tc": "機場 (客運大樓) (循環線)",
+      "sc": "机场 (客运大楼) (循环线)"
+    }
+  },
+  "NLB-B6-inbound-1": {
+    "record_id": "NLB-B6-inbound-1",
+    "company": "NLB",
+    "route_id": "89",
+    "route": "B6",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mun Tung Estate",
+      "tc": "滿東邨",
+      "sc": "满东邨"
+    },
+    "destination": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    }
+  },
+  "NLB-B6-outbound-1": {
+    "record_id": "NLB-B6-outbound-1",
+    "company": "NLB",
+    "route_id": "88",
+    "route": "B6",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    },
+    "destination": {
+      "en": "Mun Tung Estate",
+      "tc": "滿東邨",
+      "sc": "满东邨"
+    }
+  },
+  "NLB-B6S-outbound-1": {
+    "record_id": "NLB-B6S-outbound-1",
+    "company": "NLB",
+    "route_id": "111",
+    "route": "B6S",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mun Tung Estate",
+      "tc": "滿東邨",
+      "sc": "满东邨"
+    },
+    "destination": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    }
+  },
+  "NLB-N1-outbound-1": {
+    "record_id": "NLB-N1-outbound-1",
+    "company": "NLB",
+    "route_id": "40",
+    "route": "N1",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    }
+  },
+  "NLB-N35-inbound-1": {
+    "record_id": "NLB-N35-inbound-1",
+    "company": "NLB",
+    "route_id": "93",
+    "route": "N35",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-N35-outbound-1": {
+    "record_id": "NLB-N35-outbound-1",
+    "company": "NLB",
+    "route_id": "92",
+    "route": "N35",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    }
+  },
+  "NLB-N37-outbound-1": {
+    "record_id": "NLB-N37-outbound-1",
+    "company": "NLB",
+    "route_id": "86",
+    "route": "N37",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Ying Tung Estate",
+      "tc": "迎東邨",
+      "sc": "迎东邨"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus (Circular)",
+      "tc": "東涌站巴士總站 (循環線)",
+      "sc": "东涌站巴士总站 (循环线)"
+    }
+  },
+  "NLB-N38-inbound-1": {
+    "record_id": "NLB-N38-inbound-1",
+    "company": "NLB",
+    "route_id": "45",
+    "route": "N38",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "destination": {
+      "en": "Yat Tung Estate",
+      "tc": "逸東邨",
+      "sc": "逸东邨"
+    }
+  },
+  "NLB-N38-outbound-1": {
+    "record_id": "NLB-N38-outbound-1",
+    "company": "NLB",
+    "route_id": "44",
+    "route": "N38",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yat Tung Estate",
+      "tc": "逸東邨",
+      "sc": "逸东邨"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    }
+  },
+  "NLB-NB2-outbound-1": {
+    "record_id": "NLB-NB2-outbound-1",
+    "company": "NLB",
+    "route_id": "110",
+    "route": "NB2",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Yuen Long MTR Station (Circular)",
+      "tc": "元朗港鐵站 (循環線)",
+      "sc": "元朗港铁站 (循环线)"
+    }
+  },
+  "NLB-X11R-inbound-1": {
+    "record_id": "NLB-X11R-inbound-1",
+    "company": "NLB",
+    "route_id": "109",
+    "route": "X11R",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "destination": {
+      "en": "Sheraton Hong Kong Tung Chung Hotel",
+      "tc": "東涌世茂喜來登酒店",
+      "sc": "东涌世茂喜来登酒店"
+    }
+  },
+  "NLB-X11R-outbound-1": {
+    "record_id": "NLB-X11R-outbound-1",
+    "company": "NLB",
+    "route_id": "108",
+    "route": "X11R",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Sheraton Hong Kong Tung Chung Hotel",
+      "tc": "東涌世茂喜來登酒店",
+      "sc": "东涌世茂喜来登酒店"
+    },
+    "destination": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    }
+  },
+  "NLB-XB2-outbound-1": {
+    "record_id": "NLB-XB2-outbound-1",
+    "company": "NLB",
+    "route_id": "113",
+    "route": "XB2",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yuen Long MTR Station",
+      "tc": "元朗港鐵站",
+      "sc": "元朗港铁站"
+    },
+    "destination": {
+      "en": "Shenzhen Bay Port(Express)",
+      "tc": "深圳灣口岸(特快)",
+      "sc": "深圳湾口岸(特快)"
+    }
+  },
+  "NLB-XB2-outbound-2": {
+    "record_id": "NLB-XB2-outbound-2",
+    "company": "NLB",
+    "route_id": "114",
+    "route": "XB2",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Yuen Long MTR Station(Express)",
+      "tc": "元朗港鐵站(特快)",
+      "sc": "元朗港铁站(特快)"
+    }
+  }
+}
