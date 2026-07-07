@@ -1,0 +1,38 @@
+{
+  "NLB-1-inbound-1": {
+    "record_id": "NLB-1-inbound-1",
+    "company": "NLB",
+    "route_id": "2",
+    "route": "1",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    }
+  },
+  "NLB-1-outbound-1": {
+    "record_id": "NLB-1-outbound-1",
+    "company": "NLB",
+    "route_id": "1",
+    "route": "1",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    }
+  }
+}
