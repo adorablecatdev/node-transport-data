@@ -52,9 +52,12 @@ export function transformRoutes(
       skipped++;
       continue;
     }
+    const origin = { en: r.orig_en, tc: r.orig_tc, sc: r.orig_sc };
+    const destination = { en: r.dest_en, tc: r.dest_tc, sc: r.dest_sc };
     for (const direction of ["inbound", "outbound"] as const) {
       if (!nonEmpty.has(`${r.route}|${direction}`)) continue;
       const bound = dirToBound(direction);
+      const isOutbound = bound === Bound.Outbound;
       out.push({
         record_id: compositeId(Company.CTB, r.route, bound, SERVICE_TYPE),
         company: Company.CTB,
@@ -62,8 +65,8 @@ export function transformRoutes(
         route: r.route,
         bound,
         service_type: SERVICE_TYPE,
-        origin: { en: r.orig_en, tc: r.orig_tc, sc: r.orig_sc },
-        destination: { en: r.dest_en, tc: r.dest_tc, sc: r.dest_sc },
+        origin: isOutbound ? origin : destination,
+        destination: isOutbound ? destination : origin,
       });
     }
   }
