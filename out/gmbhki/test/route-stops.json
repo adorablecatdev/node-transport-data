@@ -5,11 +5,11 @@
     "route_id": "2006408",
     "route": "1",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "20014492",
+        "stop_id": "20014492",
         "name": {
           "en": "Hong Kong Station Minibus Terminus",
           "tc": "香港站小巴總站",
@@ -20,7 +20,7 @@
       },
       {
         "seq": 2,
-        "stopId": "20004107",
+        "stop_id": "20004107",
         "name": {
           "en": "Man Cheung Street, near Two International Finance Centre Shopping Mall",
           "tc": "民祥街, 近國際金融中心二期",
@@ -31,7 +31,7 @@
       },
       {
         "seq": 3,
-        "stopId": "20006958",
+        "stop_id": "20006958",
         "name": {
           "en": "Connaught Road Central outside City Hall ",
           "tc": "干諾道中, 近大會堂",
@@ -42,7 +42,7 @@
       },
       {
         "seq": 4,
-        "stopId": "20000026",
+        "stop_id": "20000026",
         "name": {
           "en": "Cotton Tree Drive, outside Hong Kong Squash Centre",
           "tc": "紅棉路, 香港壁球中心外",
@@ -53,7 +53,7 @@
       },
       {
         "seq": 5,
-        "stopId": "20014493",
+        "stop_id": "20014493",
         "name": {
           "en": "PEAK ROAD, near Sky Court Block 7",
           "tc": "山頂道, 近摘星閣第７座",
@@ -64,7 +64,7 @@
       },
       {
         "seq": 6,
-        "stopId": "20014494",
+        "stop_id": "20014494",
         "name": {
           "en": "MOUNT KELLETT ROAD, near Matilda International Hospital Sharp House",
           "tc": "加列山道, 近明德國際醫院",
@@ -75,7 +75,7 @@
       },
       {
         "seq": 7,
-        "stopId": "20014489",
+        "stop_id": "20014489",
         "name": {
           "en": "The Peak Galleria (Bus Terminus under)",
           "tc": "山頂廣場（下層巴士總站）",
@@ -92,11 +92,11 @@
     "route_id": "2006408",
     "route": "1",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "20014489",
+        "stop_id": "20014489",
         "name": {
           "en": "The Peak Galleria (Bus Terminus under)",
           "tc": "山頂廣場（下層巴士總站）",
@@ -107,7 +107,7 @@
       },
       {
         "seq": 2,
-        "stopId": "20014490",
+        "stop_id": "20014490",
         "name": {
           "en": "PEAK ROAD, near 56 Peak Road B",
           "tc": "山頂道, 近山頂道五十六號Ｂ",
@@ -118,7 +118,7 @@
       },
       {
         "seq": 3,
-        "stopId": "20014491",
+        "stop_id": "20014491",
         "name": {
           "en": "ICE HOUSE STREET, near Printing House",
           "tc": "雪廠街, 近印刷行",
@@ -129,7 +129,7 @@
       },
       {
         "seq": 4,
-        "stopId": "20000024",
+        "stop_id": "20000024",
         "name": {
           "en": "Pedder Street, near Central Station Exit D1",
           "tc": "畢打街, 近中環站 D1 出口",
@@ -140,7 +140,7 @@
       },
       {
         "seq": 5,
-        "stopId": "20000295",
+        "stop_id": "20000295",
         "name": {
           "en": "Connaught Place, outside Exchange Square",
           "tc": "康樂廣場, 交易廣場外",
@@ -151,7 +151,7 @@
       },
       {
         "seq": 6,
-        "stopId": "20014492",
+        "stop_id": "20014492",
         "name": {
           "en": "Hong Kong Station Minibus Terminus",
           "tc": "香港站小巴總站",
@@ -168,11 +168,11 @@
     "route_id": "2006706",
     "route": "10",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "20014874",
+        "stop_id": "20014874",
         "name": {
           "en": "Cyberport Bus Terminus",
           "tc": "數碼港巴士總站",
@@ -183,7 +183,7 @@
       },
       {
         "seq": 2,
-        "stopId": "20014875",
+        "stop_id": "20014875",
         "name": {
           "en": "SHA WAN DRIVE, near UNIVERSITY OF HONG KONG STANLEY HO SPORTS CENTRE",
           "tc": "沙灣徑, 近香港大學何鴻燊體育中心",
@@ -194,7 +194,7 @@
       },
       {
         "seq": 3,
-        "stopId": "20000331",
+        "stop_id": "20000331",
         "name": {
           "en": "Sha Wan Drive, opposite Maclehose Medical Rehabilitation Centre",
           "tc": "沙灣徑, 麥理浩復康院對面",
@@ -205,7 +205,7 @@
       },
       {
         "seq": 4,
-        "stopId": "20000011",
+        "stop_id": "20000011",
         "name": {
           "en": "Sandy Bay Road",
           "tc": "大口環道",
@@ -216,7 +216,7 @@
       },
       {
         "seq": 5,
-        "stopId": "20014876",
+        "stop_id": "20014876",
         "name": {
           "en": "CONSORT RISE, near Consort Villas House A",
           "tc": "金粟街, 近碧勵苑Ａ座",
@@ -227,7 +227,7 @@
       },
       {
         "seq": 6,
-        "stopId": "20002403",
+        "stop_id": "20002403",
         "name": {
           "en": "Mount Davis Road, Pok Fu Lam Road",
           "tc": "薄扶林道, 摩星嶺道",
@@ -238,7 +238,7 @@
       },
       {
         "seq": 7,
-        "stopId": "20000174",
+        "stop_id": "20000174",
         "name": {
           "en": "Pok Fu Lam Road, Pok Field Road",
           "tc": "薄扶林道, 蒲飛路",
@@ -249,7 +249,7 @@
       },
       {
         "seq": 8,
-        "stopId": "20014877",
+        "stop_id": "20014877",
         "name": {
           "en": "POK FU LAM ROAD, near Lady Ho Tung Hall, THE UNIVERSITY OF HONG KONG JOCKEY CLUB STUDENT VILLAGE 1",
           "tc": "薄扶林道, 近香港大學賽馬會第一舍堂村　何東夫人紀念堂",
@@ -260,7 +260,7 @@
       },
       {
         "seq": 9,
-        "stopId": "20014878",
+        "stop_id": "20014878",
         "name": {
           "en": "POK FU LAM ROAD, near The Belcher's Tower 3",
           "tc": "薄扶林道, 近寶翠園第三座",
@@ -271,7 +271,7 @@
       },
       {
         "seq": 10,
-        "stopId": "20014879",
+        "stop_id": "20014879",
         "name": {
           "en": "BONHAM ROAD, near Saint Stephen's Church & Kindergarten",
           "tc": "般咸道, 近聖士提反堂及幼稚園",
@@ -282,7 +282,7 @@
       },
       {
         "seq": 11,
-        "stopId": "20014880",
+        "stop_id": "20014880",
         "name": {
           "en": "BONHAM ROAD, near ST PAUL'S COLLEGE",
           "tc": "般咸道, 近聖保羅書院",
@@ -293,7 +293,7 @@
       },
       {
         "seq": 12,
-        "stopId": "20000015",
+        "stop_id": "20000015",
         "name": {
           "en": "Bonham Road, house no. 53",
           "tc": "般咸道53號",
@@ -304,7 +304,7 @@
       },
       {
         "seq": 13,
-        "stopId": "20014527",
+        "stop_id": "20014527",
         "name": {
           "en": "BONHAM ROAD, near Park Height",
           "tc": "般咸道, 近栢苑",
@@ -315,7 +315,7 @@
       },
       {
         "seq": 14,
-        "stopId": "20014881",
+        "stop_id": "20014881",
         "name": {
           "en": "Bonham Road, Parkway Court",
           "tc": "般咸道, 寶威閣",
@@ -326,7 +326,7 @@
       },
       {
         "seq": 15,
-        "stopId": "20014537",
+        "stop_id": "20014537",
         "name": {
           "en": "Bonham Road, Hospital Road",
           "tc": "般咸道, 醫院道",
@@ -337,7 +337,7 @@
       },
       {
         "seq": 16,
-        "stopId": "20000017",
+        "stop_id": "20000017",
         "name": {
           "en": "Caine Road, Ladder Street",
           "tc": "堅道, 樓梯街",
@@ -348,7 +348,7 @@
       },
       {
         "seq": 17,
-        "stopId": "20000018",
+        "stop_id": "20000018",
         "name": {
           "en": "Caine Road, Shing Wong Street",
           "tc": "堅道, 城皇街",
@@ -359,7 +359,7 @@
       },
       {
         "seq": 18,
-        "stopId": "20000019",
+        "stop_id": "20000019",
         "name": {
           "en": "Caine Road, Peel Street",
           "tc": "堅道, 卑利街",
@@ -370,7 +370,7 @@
       },
       {
         "seq": 19,
-        "stopId": "20000020",
+        "stop_id": "20000020",
         "name": {
           "en": "Queensway, outside Golden Bell Gallery",
           "tc": "金鐘道, 金鐘廊外",
@@ -381,7 +381,7 @@
       },
       {
         "seq": 20,
-        "stopId": "20014882",
+        "stop_id": "20014882",
         "name": {
           "en": "HENNESSY ROAD, near One Hennessy",
           "tc": "軒尼詩道, 近One Hennessy",
@@ -392,7 +392,7 @@
       },
       {
         "seq": 21,
-        "stopId": "20014883",
+        "stop_id": "20014883",
         "name": {
           "en": "HENNESSY ROAD, near Friendship Mansion",
           "tc": "軒尼詩道, 近友誼大廈",
@@ -403,7 +403,7 @@
       },
       {
         "seq": 22,
-        "stopId": "20014884",
+        "stop_id": "20014884",
         "name": {
           "en": "LOCKHART ROAD, near Causeway Bay Plaza 2",
           "tc": "駱克道, 近銅鑼灣廣場二期",
@@ -414,7 +414,7 @@
       },
       {
         "seq": 23,
-        "stopId": "20014859",
+        "stop_id": "20014859",
         "name": {
           "en": "JAFFE ROAD, near Siu On Plaza",
           "tc": "謝斐道, 近兆安廣場",
@@ -431,11 +431,11 @@
     "route_id": "2006706",
     "route": "10",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "20014859",
+        "stop_id": "20014859",
         "name": {
           "en": "JAFFE ROAD, near Siu On Plaza",
           "tc": "謝斐道, 近兆安廣場",
@@ -446,7 +446,7 @@
       },
       {
         "seq": 2,
-        "stopId": "20014860",
+        "stop_id": "20014860",
         "name": {
           "en": "LOCKHART ROAD, near COMO COMO",
           "tc": "駱克道, 近COMO COMO",
@@ -457,7 +457,7 @@
       },
       {
         "seq": 3,
-        "stopId": "20014865",
+        "stop_id": "20014865",
         "name": {
           "en": "Lockhart Road, house no. 338",
           "tc": "駱克道, 338號",
@@ -468,7 +468,7 @@
       },
       {
         "seq": 4,
-        "stopId": "20014866",
+        "stop_id": "20014866",
         "name": {
           "en": "HENNESSY ROAD, near The Hennessy",
           "tc": "軒尼詩道, 近The Hennessy",
@@ -479,7 +479,7 @@
       },
       {
         "seq": 5,
-        "stopId": "20014867",
+        "stop_id": "20014867",
         "name": {
           "en": "HENNESSY ROAD, near Wing Cheong Building",
           "tc": "軒尼詩道, 近永昌大廈",
@@ -490,7 +490,7 @@
       },
       {
         "seq": 6,
-        "stopId": "20000324",
+        "stop_id": "20000324",
         "name": {
           "en": "Queensway, outside Pacific Place",
           "tc": "金鐘道, 太古廣場外",
@@ -501,7 +501,7 @@
       },
       {
         "seq": 7,
-        "stopId": "20004545",
+        "stop_id": "20004545",
         "name": {
           "en": "Caritas Centre, Caine Road",
           "tc": "堅道, 明愛中心",
@@ -512,7 +512,7 @@
       },
       {
         "seq": 8,
-        "stopId": "20004544",
+        "stop_id": "20004544",
         "name": {
           "en": "Caine Road, Shelly Street",
           "tc": "堅道, 些利街",
@@ -523,7 +523,7 @@
       },
       {
         "seq": 9,
-        "stopId": "20004106",
+        "stop_id": "20004106",
         "name": {
           "en": "CAINE ROAD, near On Fung Building",
           "tc": "堅道, 近安峰大廈",
@@ -534,7 +534,7 @@
       },
       {
         "seq": 10,
-        "stopId": "20004542",
+        "stop_id": "20004542",
         "name": {
           "en": "Euston Court, Bonham Road",
           "tc": "般咸道, 豫苑",
@@ -545,7 +545,7 @@
       },
       {
         "seq": 11,
-        "stopId": "20004541",
+        "stop_id": "20004541",
         "name": {
           "en": "Bonham Road, Eastern Street",
           "tc": "般咸道, 東邊街",
@@ -556,7 +556,7 @@
       },
       {
         "seq": 12,
-        "stopId": "20014868",
+        "stop_id": "20014868",
         "name": {
           "en": "BONHAM ROAD, near Golden Phoenix Court",
           "tc": "般咸道, 近金鳳閣",
@@ -567,7 +567,7 @@
       },
       {
         "seq": 13,
-        "stopId": "20014869",
+        "stop_id": "20014869",
         "name": {
           "en": "Bonham Road, East Gate of The University of Hong Kong",
           "tc": "般咸道, 香港大學東閘",
@@ -578,7 +578,7 @@
       },
       {
         "seq": 14,
-        "stopId": "20000008",
+        "stop_id": "20000008",
         "name": {
           "en": "Pok Fu Lam Road, West Gate of The University of Hong Kong",
           "tc": "薄扶林道, 香港大學西閘",
@@ -589,7 +589,7 @@
       },
       {
         "seq": 15,
-        "stopId": "20000009",
+        "stop_id": "20000009",
         "name": {
           "en": "Pok Fu Lam Road, opposite The Belcher's",
           "tc": "薄扶林道, 寶翠園對面",
@@ -600,7 +600,7 @@
       },
       {
         "seq": 16,
-        "stopId": "20014870",
+        "stop_id": "20014870",
         "name": {
           "en": "Pokfulam Road near Pokfield Road",
           "tc": "薄扶林道, 近蒲飛路",
@@ -611,7 +611,7 @@
       },
       {
         "seq": 17,
-        "stopId": "20014871",
+        "stop_id": "20014871",
         "name": {
           "en": "Pokfulam Road near Mount Davis Road",
           "tc": "薄扶林道, 近摩星嶺道",
@@ -622,7 +622,7 @@
       },
       {
         "seq": 18,
-        "stopId": "20004547",
+        "stop_id": "20004547",
         "name": {
           "en": "Queen Mary Hospital, Pok Fu Lam Road",
           "tc": "薄扶林道, 瑪麗醫院",
@@ -633,7 +633,7 @@
       },
       {
         "seq": 19,
-        "stopId": "20014872",
+        "stop_id": "20014872",
         "name": {
           "en": "BISNEY ROAD, near Bisney Cove",
           "tc": "碧荔道, 近Bisney Cove",
@@ -644,7 +644,7 @@
       },
       {
         "seq": 20,
-        "stopId": "20000348",
+        "stop_id": "20000348",
         "name": {
           "en": "Sandy Bay Road, The Duchess of Kent Children’s Hospital",
           "tc": "大口環道, 大口環根德公爵夫人兒童醫院",
@@ -655,7 +655,7 @@
       },
       {
         "seq": 21,
-        "stopId": "20004594",
+        "stop_id": "20004594",
         "name": {
           "en": "Sha Wan Drive, outside Maclehose Medical Rehabilitation Centre",
           "tc": "沙灣徑, 麥理浩復康院外",
@@ -666,7 +666,7 @@
       },
       {
         "seq": 22,
-        "stopId": "20014873",
+        "stop_id": "20014873",
         "name": {
           "en": "SHA WAN DRIVE, near Tam Gardens Block 5",
           "tc": "沙灣徑, 近譚亦衡樓第５座",
@@ -677,7 +677,7 @@
       },
       {
         "seq": 23,
-        "stopId": "20014874",
+        "stop_id": "20014874",
         "name": {
           "en": "Cyberport Bus Terminus",
           "tc": "數碼港巴士總站",

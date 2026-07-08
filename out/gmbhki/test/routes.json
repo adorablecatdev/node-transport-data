@@ -5,7 +5,7 @@
     "route_id": "2006408",
     "route": "1",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Hong Kong Station Public Transport Interchange)",
       "tc": "中環(香港站公共運輸交匯處)",
@@ -23,7 +23,7 @@
     "route_id": "2006408",
     "route": "1",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "The Peak (Public Transport Terminus)",
       "tc": "山頂(公共交通總站)",
@@ -41,7 +41,7 @@
     "route_id": "2006706",
     "route": "10",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport Bus Terminus",
       "tc": "數碼港巴士總站",
@@ -59,7 +59,7 @@
     "route_id": "2006706",
     "route": "10",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Causeway Bay (Jaffe Road)",
       "tc": "銅鑼灣(謝斐道)",

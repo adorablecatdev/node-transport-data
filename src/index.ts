@@ -5,6 +5,7 @@ import { run as runLightrail } from "./companies/lightrail/index.js";
 import { run as runMtr } from "./companies/mtr/index.js";
 import { run as runMtrbus } from "./companies/mtrbus/index.js";
 import { run as runNlb } from "./companies/nlb/index.js";
+import { parseAll } from "./parse.js";
 
 type RunOptions = { resume?: boolean; test?: boolean };
 
@@ -20,26 +21,34 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   nlb: (options) => runNlb(options),
 };
 
-const KNOWN_FLAGS = new Set(["--resume", "--test"]);
+const KNOWN_FLAGS = new Set(["--resume", "--test", "--parse-only", "--no-parse"]);
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
   const resume = args.includes("--resume");
   const test = args.includes("--test");
+  const parseOnly = args.includes("--parse-only");
+  const noParse = args.includes("--no-parse");
 
   const targets: string[] = [];
   for (const a of args) {
     if (KNOWN_FLAGS.has(a)) continue;
     targets.push(a.startsWith("--") ? a.slice(2) : a);
   }
-  const finalTargets = targets.length > 0 ? targets : Object.keys(companies);
 
-  for (const name of finalTargets) {
-    const runner = companies[name];
-    if (!runner) {
-      throw new Error(`Unknown company: ${name}. Available: ${Object.keys(companies).join(", ")}`);
+  if (!parseOnly) {
+    const finalTargets = targets.length > 0 ? targets : Object.keys(companies);
+    for (const name of finalTargets) {
+      const runner = companies[name];
+      if (!runner) {
+        throw new Error(`Unknown company: ${name}. Available: ${Object.keys(companies).join(", ")}`);
+      }
+      await runner({ resume, test });
     }
-    await runner({ resume, test });
+  }
+
+  if (!noParse) {
+    await parseAll();
   }
 }
 

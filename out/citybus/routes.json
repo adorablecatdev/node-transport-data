@@ -5,7 +5,7 @@
     "route_id": "1",
     "route": "1",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -23,7 +23,7 @@
     "route_id": "1",
     "route": "1",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -41,7 +41,7 @@
     "route_id": "10",
     "route": "10",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -59,7 +59,7 @@
     "route_id": "10",
     "route": "10",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -77,7 +77,7 @@
     "route_id": "101",
     "route": "101",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -95,7 +95,7 @@
     "route_id": "101",
     "route": "101",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -113,7 +113,7 @@
     "route_id": "101R",
     "route": "101R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Happy Valley Racecourse",
       "tc": "跑馬地馬場",
@@ -131,7 +131,7 @@
     "route_id": "101X",
     "route": "101X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -149,7 +149,7 @@
     "route_id": "101X",
     "route": "101X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -167,7 +167,7 @@
     "route_id": "102",
     "route": "102",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -185,7 +185,7 @@
     "route_id": "102",
     "route": "102",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -203,7 +203,7 @@
     "route_id": "102P",
     "route": "102P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -221,7 +221,7 @@
     "route_id": "102P",
     "route": "102P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -239,7 +239,7 @@
     "route_id": "102R",
     "route": "102R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Happy Valley Racecourse",
       "tc": "跑馬地馬場",
@@ -257,7 +257,7 @@
     "route_id": "103",
     "route": "103",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Pokfield Road",
       "tc": "蒲飛路",
@@ -275,7 +275,7 @@
     "route_id": "103",
     "route": "103",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Pokfield Road",
       "tc": "蒲飛路",
@@ -293,7 +293,7 @@
     "route_id": "104",
     "route": "104",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -311,7 +311,7 @@
     "route_id": "104",
     "route": "104",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -329,7 +329,7 @@
     "route_id": "104R",
     "route": "104R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Ferry Piers)",
       "tc": "中環碼頭",
@@ -347,7 +347,7 @@
     "route_id": "106",
     "route": "106",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -365,7 +365,7 @@
     "route_id": "106",
     "route": "106",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -383,7 +383,7 @@
     "route_id": "106A",
     "route": "106A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Tai Sin",
       "tc": "黃大仙",
@@ -401,7 +401,7 @@
     "route_id": "106P",
     "route": "106P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -419,7 +419,7 @@
     "route_id": "106P",
     "route": "106P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -437,7 +437,7 @@
     "route_id": "107",
     "route": "107",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai Estate",
       "tc": "華貴邨",
@@ -455,7 +455,7 @@
     "route_id": "107",
     "route": "107",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai Estate",
       "tc": "華貴邨",
@@ -473,7 +473,7 @@
     "route_id": "107P",
     "route": "107P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hung Hom (Laguna Verde)",
       "tc": "紅磡 (海逸豪園)",
@@ -491,7 +491,7 @@
     "route_id": "107P",
     "route": "107P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hung Hom (Laguna Verde)",
       "tc": "紅磡 (海逸豪園)",
@@ -509,7 +509,7 @@
     "route_id": "109",
     "route": "109",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -527,7 +527,7 @@
     "route_id": "109",
     "route": "109",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -545,7 +545,7 @@
     "route_id": "11",
     "route": "11",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Ferry Piers)",
       "tc": "中環碼頭",
@@ -563,7 +563,7 @@
     "route_id": "11",
     "route": "11",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Ferry Piers)",
       "tc": "中環碼頭",
@@ -581,7 +581,7 @@
     "route_id": "110",
     "route": "110",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -599,7 +599,7 @@
     "route_id": "110",
     "route": "110",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -617,7 +617,7 @@
     "route_id": "111",
     "route": "111",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -635,7 +635,7 @@
     "route_id": "111",
     "route": "111",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -653,7 +653,7 @@
     "route_id": "111P",
     "route": "111P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Choi Fook Estate",
       "tc": "彩福邨",
@@ -671,7 +671,7 @@
     "route_id": "111P",
     "route": "111P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Choi Fook Estate",
       "tc": "彩福邨",
@@ -689,7 +689,7 @@
     "route_id": "112",
     "route": "112",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point (Pak Fuk Road)",
       "tc": "北角 (百福道)",
@@ -707,7 +707,7 @@
     "route_id": "112",
     "route": "112",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point (Pak Fuk Road)",
       "tc": "北角 (百福道)",
@@ -725,7 +725,7 @@
     "route_id": "113",
     "route": "113",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town (Belcher Bay)",
       "tc": "堅尼地城 (卑路乍灣)",
@@ -743,7 +743,7 @@
     "route_id": "113",
     "route": "113",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town (Belcher Bay)",
       "tc": "堅尼地城 (卑路乍灣)",
@@ -761,7 +761,7 @@
     "route_id": "115",
     "route": "115",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -779,7 +779,7 @@
     "route_id": "115",
     "route": "115",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -797,7 +797,7 @@
     "route_id": "115P",
     "route": "115P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Laguna Verde",
       "tc": "海逸豪園",
@@ -815,7 +815,7 @@
     "route_id": "116",
     "route": "116",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Quarry Bay (Yau Man Street)",
       "tc": "鰂魚涌 (祐民街)",
@@ -833,7 +833,7 @@
     "route_id": "116",
     "route": "116",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Quarry Bay (Yau Man Street)",
       "tc": "鰂魚涌 (祐民街)",
@@ -851,7 +851,7 @@
     "route_id": "117",
     "route": "117",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Happy Valley (Lower)",
       "tc": "跑馬地 (下)",
@@ -869,7 +869,7 @@
     "route_id": "117",
     "route": "117",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Happy Valley (Lower)",
       "tc": "跑馬地 (下)",
@@ -887,7 +887,7 @@
     "route_id": "118",
     "route": "118",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -905,7 +905,7 @@
     "route_id": "118",
     "route": "118",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -923,7 +923,7 @@
     "route_id": "118P",
     "route": "118P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -941,7 +941,7 @@
     "route_id": "118P",
     "route": "118P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -959,7 +959,7 @@
     "route_id": "118R",
     "route": "118R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan Sports Ground",
       "tc": "小西灣運動場",
@@ -977,7 +977,7 @@
     "route_id": "12",
     "route": "12",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central Pier 3",
       "tc": "中環3號碼頭",
@@ -995,7 +995,7 @@
     "route_id": "12",
     "route": "12",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central Pier 3",
       "tc": "中環3號碼頭",
@@ -1013,7 +1013,7 @@
     "route_id": "12A",
     "route": "12A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (Tamar Street)",
       "tc": "金鐘 (添馬街)",
@@ -1031,7 +1031,7 @@
     "route_id": "12M",
     "route": "12M",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (Tamar Street)",
       "tc": "金鐘 (添馬街)",
@@ -1049,7 +1049,7 @@
     "route_id": "13",
     "route": "13",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (Tamar Street)",
       "tc": "金鐘 (添馬街)",
@@ -1067,7 +1067,7 @@
     "route_id": "13",
     "route": "13",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (Tamar Street)",
       "tc": "金鐘 (添馬街)",
@@ -1085,7 +1085,7 @@
     "route_id": "14",
     "route": "14",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -1103,7 +1103,7 @@
     "route_id": "14",
     "route": "14",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -1121,7 +1121,7 @@
     "route_id": "15",
     "route": "15",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central",
       "tc": "中環",
@@ -1139,7 +1139,7 @@
     "route_id": "15",
     "route": "15",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central",
       "tc": "中環",
@@ -1157,7 +1157,7 @@
     "route_id": "15B",
     "route": "15B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wan Chai (HKCEC Extension)",
       "tc": "灣仔 (會展新翼)",
@@ -1175,7 +1175,7 @@
     "route_id": "15C",
     "route": "15C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Hong Kong Observation Wheel)",
       "tc": "中環 (香港摩天輪)",
@@ -1193,7 +1193,7 @@
     "route_id": "15C",
     "route": "15C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Hong Kong Observation Wheel)",
       "tc": "中環 (香港摩天輪)",
@@ -1211,7 +1211,7 @@
     "route_id": "170",
     "route": "170",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (Central)",
       "tc": "華富 (中)",
@@ -1229,7 +1229,7 @@
     "route_id": "170",
     "route": "170",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (Central)",
       "tc": "華富 (中)",
@@ -1247,7 +1247,7 @@
     "route_id": "171",
     "route": "171",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -1265,7 +1265,7 @@
     "route_id": "171",
     "route": "171",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -1283,7 +1283,7 @@
     "route_id": "171A",
     "route": "171A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lei Tung Estate",
       "tc": "利東邨",
@@ -1301,7 +1301,7 @@
     "route_id": "171P",
     "route": "171P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -1319,7 +1319,7 @@
     "route_id": "18",
     "route": "18",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point (Healthy Street Central)",
       "tc": "北角 (健康中街)",
@@ -1337,7 +1337,7 @@
     "route_id": "18",
     "route": "18",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point (Healthy Street Central)",
       "tc": "北角 (健康中街)",
@@ -1355,7 +1355,7 @@
     "route_id": "182",
     "route": "182",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -1373,7 +1373,7 @@
     "route_id": "182",
     "route": "182",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -1391,7 +1391,7 @@
     "route_id": "182X",
     "route": "182X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -1409,7 +1409,7 @@
     "route_id": "18P",
     "route": "18P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town (Belcher Bay)",
       "tc": "堅尼地城 (卑路乍灣)",
@@ -1427,7 +1427,7 @@
     "route_id": "18P",
     "route": "18P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town (Belcher Bay)",
       "tc": "堅尼地城 (卑路乍灣)",
@@ -1445,7 +1445,7 @@
     "route_id": "18X",
     "route": "18X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -1463,7 +1463,7 @@
     "route_id": "18X",
     "route": "18X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -1481,7 +1481,7 @@
     "route_id": "19P",
     "route": "19P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -1499,7 +1499,7 @@
     "route_id": "1M",
     "route": "1M",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
@@ -1517,7 +1517,7 @@
     "route_id": "1M",
     "route": "1M",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
@@ -1535,7 +1535,7 @@
     "route_id": "1P",
     "route": "1P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Nai Chung Road (Broadwood Road)",
       "tc": "黃泥涌道 (樂活道)",
@@ -1553,7 +1553,7 @@
     "route_id": "2",
     "route": "2",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -1571,7 +1571,7 @@
     "route_id": "2",
     "route": "2",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -1589,7 +1589,7 @@
     "route_id": "20",
     "route": "20",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak (Muk On Street)",
       "tc": "啟德 (沐安街)",
@@ -1607,7 +1607,7 @@
     "route_id": "20",
     "route": "20",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak (Muk On Street)",
       "tc": "啟德 (沐安街)",
@@ -1625,7 +1625,7 @@
     "route_id": "20A",
     "route": "20A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal (via: Mong Kok)",
       "tc": "啟德郵輪碼頭 (經:旺角)",
@@ -1643,7 +1643,7 @@
     "route_id": "20A",
     "route": "20A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal (via: Mong Kok)",
       "tc": "啟德郵輪碼頭 (經:旺角)",
@@ -1661,7 +1661,7 @@
     "route_id": "20R",
     "route": "20R",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal",
       "tc": "啟德郵輪碼頭",
@@ -1679,7 +1679,7 @@
     "route_id": "20R",
     "route": "20R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal",
       "tc": "啟德郵輪碼頭",
@@ -1697,7 +1697,7 @@
     "route_id": "22",
     "route": "22",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal",
       "tc": "啟德郵輪碼頭",
@@ -1715,7 +1715,7 @@
     "route_id": "22",
     "route": "22",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal",
       "tc": "啟德郵輪碼頭",
@@ -1733,7 +1733,7 @@
     "route_id": "22D",
     "route": "22D",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Station",
       "tc": "啟德站",
@@ -1751,7 +1751,7 @@
     "route_id": "22D",
     "route": "22D",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Station",
       "tc": "啟德站",
@@ -1769,7 +1769,7 @@
     "route_id": "22M",
     "route": "22M",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal",
       "tc": "啟德郵輪碼頭",
@@ -1787,7 +1787,7 @@
     "route_id": "22M",
     "route": "22M",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal",
       "tc": "啟德郵輪碼頭",
@@ -1805,7 +1805,7 @@
     "route_id": "22R",
     "route": "22R",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Station",
       "tc": "啟德站",
@@ -1823,7 +1823,7 @@
     "route_id": "22R",
     "route": "22R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Station",
       "tc": "啟德站",
@@ -1841,7 +1841,7 @@
     "route_id": "22X",
     "route": "22X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "One Victoria",
       "tc": "維港1號",
@@ -1859,7 +1859,7 @@
     "route_id": "22X",
     "route": "22X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "One Victoria",
       "tc": "維港1號",
@@ -1877,7 +1877,7 @@
     "route_id": "23",
     "route": "23",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -1895,7 +1895,7 @@
     "route_id": "23",
     "route": "23",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -1913,7 +1913,7 @@
     "route_id": "23B",
     "route": "23B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Braemar Hill",
       "tc": "寶馬山",
@@ -1931,7 +1931,7 @@
     "route_id": "23B",
     "route": "23B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Braemar Hill",
       "tc": "寶馬山",
@@ -1949,7 +1949,7 @@
     "route_id": "23X",
     "route": "23X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Pokfield Road",
       "tc": "蒲飛路",
@@ -1967,7 +1967,7 @@
     "route_id": "25",
     "route": "25",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Pier 3/5)",
       "tc": "中環 (3 / 5 號碼頭)",
@@ -1985,7 +1985,7 @@
     "route_id": "25",
     "route": "25",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Pier 3/5)",
       "tc": "中環 (3 / 5 號碼頭)",
@@ -2003,7 +2003,7 @@
     "route_id": "25A",
     "route": "25A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
@@ -2021,7 +2021,7 @@
     "route_id": "25A",
     "route": "25A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
@@ -2039,7 +2039,7 @@
     "route_id": "26",
     "route": "26",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lai Tak Tsuen",
       "tc": "勵德邨",
@@ -2057,7 +2057,7 @@
     "route_id": "26",
     "route": "26",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lai Tak Tsuen",
       "tc": "勵德邨",
@@ -2075,7 +2075,7 @@
     "route_id": "260",
     "route": "260",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -2093,7 +2093,7 @@
     "route_id": "260",
     "route": "260",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -2111,7 +2111,7 @@
     "route_id": "27",
     "route": "27",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -2129,7 +2129,7 @@
     "route_id": "27",
     "route": "27",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -2147,7 +2147,7 @@
     "route_id": "2A",
     "route": "2A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yiu Tung Estate",
       "tc": "耀東邨",
@@ -2165,7 +2165,7 @@
     "route_id": "2A",
     "route": "2A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yiu Tung Estate",
       "tc": "耀東邨",
@@ -2183,7 +2183,7 @@
     "route_id": "2X",
     "route": "2X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -2201,7 +2201,7 @@
     "route_id": "2X",
     "route": "2X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -2219,7 +2219,7 @@
     "route_id": "302",
     "route": "302",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (North)",
       "tc": "慈雲山 (北)",
@@ -2237,7 +2237,7 @@
     "route_id": "302A",
     "route": "302A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (North)",
       "tc": "慈雲山 (北)",
@@ -2255,7 +2255,7 @@
     "route_id": "307",
     "route": "307",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Po Centre",
       "tc": "大埔中心",
@@ -2273,7 +2273,7 @@
     "route_id": "307",
     "route": "307",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Po Centre",
       "tc": "大埔中心",
@@ -2291,7 +2291,7 @@
     "route_id": "307A",
     "route": "307A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Po Tau",
       "tc": "大埔頭",
@@ -2309,7 +2309,7 @@
     "route_id": "307P",
     "route": "307P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -2327,7 +2327,7 @@
     "route_id": "307P",
     "route": "307P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -2345,7 +2345,7 @@
     "route_id": "30X",
     "route": "30X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -2363,7 +2363,7 @@
     "route_id": "30X",
     "route": "30X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -2381,7 +2381,7 @@
     "route_id": "314",
     "route": "314",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -2399,7 +2399,7 @@
     "route_id": "314",
     "route": "314",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -2417,7 +2417,7 @@
     "route_id": "33X",
     "route": "33X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -2435,7 +2435,7 @@
     "route_id": "33X",
     "route": "33X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -2453,7 +2453,7 @@
     "route_id": "37A",
     "route": "37A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chi Fu Fa Yuen",
       "tc": "置富花園",
@@ -2471,7 +2471,7 @@
     "route_id": "37B",
     "route": "37B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chi Fu Fa Yuen",
       "tc": "置富花園",
@@ -2489,7 +2489,7 @@
     "route_id": "37X",
     "route": "37X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chi Fu Fa Yuen",
       "tc": "置富花園",
@@ -2507,7 +2507,7 @@
     "route_id": "38",
     "route": "38",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chi Fu Fa Yuen",
       "tc": "置富花園",
@@ -2525,7 +2525,7 @@
     "route_id": "38",
     "route": "38",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chi Fu Fa Yuen",
       "tc": "置富花園",
@@ -2543,7 +2543,7 @@
     "route_id": "382",
     "route": "382",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chai Wan (East)",
       "tc": "柴灣 (東)",
@@ -2561,7 +2561,7 @@
     "route_id": "382",
     "route": "382",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chai Wan (East)",
       "tc": "柴灣 (東)",
@@ -2579,7 +2579,7 @@
     "route_id": "388",
     "route": "388",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chai Wan Station",
       "tc": "柴灣站",
@@ -2597,7 +2597,7 @@
     "route_id": "389",
     "route": "389",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -2615,7 +2615,7 @@
     "route_id": "38S",
     "route": "38S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chi Fu Fa Yuen",
       "tc": "置富花園",
@@ -2633,7 +2633,7 @@
     "route_id": "3A",
     "route": "3A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Star Ferry)",
       "tc": "中環 (天星碼頭)",
@@ -2651,7 +2651,7 @@
     "route_id": "3A",
     "route": "3A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Star Ferry)",
       "tc": "中環 (天星碼頭)",
@@ -2669,7 +2669,7 @@
     "route_id": "4",
     "route": "4",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Chuk Hang / Wah Fu (South)",
       "tc": "黃竹坑／華富 (南)",
@@ -2687,7 +2687,7 @@
     "route_id": "4",
     "route": "4",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Chuk Hang / Wah Fu (South)",
       "tc": "黃竹坑／華富 (南)",
@@ -2705,7 +2705,7 @@
     "route_id": "40",
     "route": "40",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (North)",
       "tc": "華富 (北)",
@@ -2723,7 +2723,7 @@
     "route_id": "40",
     "route": "40",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (North)",
       "tc": "華富 (北)",
@@ -2741,7 +2741,7 @@
     "route_id": "40M",
     "route": "40M",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (North)",
       "tc": "華富 (北)",
@@ -2759,7 +2759,7 @@
     "route_id": "40P",
     "route": "40P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (North)",
       "tc": "華富 (北)",
@@ -2777,7 +2777,7 @@
     "route_id": "41A",
     "route": "41A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (Central)",
       "tc": "華富 (中)",
@@ -2795,7 +2795,7 @@
     "route_id": "41A",
     "route": "41A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (Central)",
       "tc": "華富 (中)",
@@ -2813,7 +2813,7 @@
     "route_id": "42",
     "route": "42",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (South)",
       "tc": "華富 (南)",
@@ -2831,7 +2831,7 @@
     "route_id": "42",
     "route": "42",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (South)",
       "tc": "華富 (南)",
@@ -2849,7 +2849,7 @@
     "route_id": "42C",
     "route": "42C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -2867,7 +2867,7 @@
     "route_id": "42C",
     "route": "42C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -2885,7 +2885,7 @@
     "route_id": "47P",
     "route": "47P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -2903,7 +2903,7 @@
     "route_id": "48",
     "route": "48",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan / Ocean Park",
       "tc": "深灣／海洋公園",
@@ -2921,7 +2921,7 @@
     "route_id": "48",
     "route": "48",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan / Ocean Park",
       "tc": "深灣／海洋公園",
@@ -2939,7 +2939,7 @@
     "route_id": "49X",
     "route": "49X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -2957,7 +2957,7 @@
     "route_id": "4X",
     "route": "4X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (South)",
       "tc": "華富 (南)",
@@ -2975,7 +2975,7 @@
     "route_id": "4X",
     "route": "4X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (South)",
       "tc": "華富 (南)",
@@ -2993,7 +2993,7 @@
     "route_id": "50",
     "route": "50",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -3011,7 +3011,7 @@
     "route_id": "50",
     "route": "50",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -3029,7 +3029,7 @@
     "route_id": "50M",
     "route": "50M",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wo Tin Estate",
       "tc": "和田邨",
@@ -3047,7 +3047,7 @@
     "route_id": "50M",
     "route": "50M",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wo Tin Estate",
       "tc": "和田邨",
@@ -3065,7 +3065,7 @@
     "route_id": "50R",
     "route": "50R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hong Kong Coliseum",
       "tc": "香港體育館",
@@ -3083,7 +3083,7 @@
     "route_id": "511",
     "route": "511",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Hang Drive",
       "tc": "大坑徑",
@@ -3101,7 +3101,7 @@
     "route_id": "55",
     "route": "55",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -3119,7 +3119,7 @@
     "route_id": "55",
     "route": "55",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -3137,7 +3137,7 @@
     "route_id": "56",
     "route": "56",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Wo Tin and Ching Tin)",
       "tc": "屯門 (和田及菁田)",
@@ -3155,7 +3155,7 @@
     "route_id": "56",
     "route": "56",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Wo Tin and Ching Tin)",
       "tc": "屯門 (和田及菁田)",
@@ -3173,7 +3173,7 @@
     "route_id": "56A",
     "route": "56A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Wo Tin and Ching Tin)",
       "tc": "屯門 (和田及菁田)",
@@ -3191,7 +3191,7 @@
     "route_id": "56A",
     "route": "56A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Wo Tin and Ching Tin)",
       "tc": "屯門 (和田及菁田)",
@@ -3209,7 +3209,7 @@
     "route_id": "580",
     "route": "580",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences",
       "tc": "西沙灣",
@@ -3227,7 +3227,7 @@
     "route_id": "580",
     "route": "580",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences",
       "tc": "西沙灣",
@@ -3245,7 +3245,7 @@
     "route_id": "581",
     "route": "581",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences",
       "tc": "西沙灣",
@@ -3263,7 +3263,7 @@
     "route_id": "581",
     "route": "581",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences",
       "tc": "西沙灣",
@@ -3281,7 +3281,7 @@
     "route_id": "582",
     "route": "582",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Pak Shek Kok (Via University Station)",
       "tc": "白石角 (經大學站)",
@@ -3299,7 +3299,7 @@
     "route_id": "582",
     "route": "582",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Pak Shek Kok (Via University Station)",
       "tc": "白石角 (經大學站)",
@@ -3317,7 +3317,7 @@
     "route_id": "586",
     "route": "586",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences (via: Tai Wai)",
       "tc": "西沙灣  (經:大圍)",
@@ -3335,7 +3335,7 @@
     "route_id": "586",
     "route": "586",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences (via: Tai Wai)",
       "tc": "西沙灣  (經:大圍)",
@@ -3353,7 +3353,7 @@
     "route_id": "587",
     "route": "587",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences (via: Tai Wai)",
       "tc": "西沙灣(經:大圍)",
@@ -3371,7 +3371,7 @@
     "route_id": "587",
     "route": "587",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences (via: Tai Wai)",
       "tc": "西沙灣(經:大圍)",
@@ -3389,7 +3389,7 @@
     "route_id": "589",
     "route": "589",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences",
       "tc": "西沙灣",
@@ -3407,7 +3407,7 @@
     "route_id": "589",
     "route": "589",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Sha Residences",
       "tc": "西沙灣",
@@ -3425,7 +3425,7 @@
     "route_id": "592",
     "route": "592",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -3443,7 +3443,7 @@
     "route_id": "592",
     "route": "592",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -3461,7 +3461,7 @@
     "route_id": "595",
     "route": "595",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -3479,7 +3479,7 @@
     "route_id": "595",
     "route": "595",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -3497,7 +3497,7 @@
     "route_id": "5B",
     "route": "5B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Felix Villas / Kennedy Town",
       "tc": "摩星嶺／堅尼地城",
@@ -3515,7 +3515,7 @@
     "route_id": "5B",
     "route": "5B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Felix Villas / Kennedy Town",
       "tc": "摩星嶺／堅尼地城",
@@ -3533,7 +3533,7 @@
     "route_id": "5X",
     "route": "5X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -3551,7 +3551,7 @@
     "route_id": "5X",
     "route": "5X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -3569,7 +3569,7 @@
     "route_id": "6",
     "route": "6",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -3587,7 +3587,7 @@
     "route_id": "6",
     "route": "6",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -3605,7 +3605,7 @@
     "route_id": "601",
     "route": "601",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (East)",
       "tc": "金鐘 (東)",
@@ -3623,7 +3623,7 @@
     "route_id": "601",
     "route": "601",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (East)",
       "tc": "金鐘 (東)",
@@ -3641,7 +3641,7 @@
     "route_id": "601P",
     "route": "601P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Po Tat Estate",
       "tc": "寶達邨",
@@ -3659,7 +3659,7 @@
     "route_id": "601P",
     "route": "601P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Po Tat Estate",
       "tc": "寶達邨",
@@ -3677,7 +3677,7 @@
     "route_id": "606",
     "route": "606",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -3695,7 +3695,7 @@
     "route_id": "606",
     "route": "606",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -3713,7 +3713,7 @@
     "route_id": "606A",
     "route": "606A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Choi Wan (Fung Shing Street)",
       "tc": "彩雲 (豐盛街)",
@@ -3731,7 +3731,7 @@
     "route_id": "606A",
     "route": "606A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Choi Wan (Fung Shing Street)",
       "tc": "彩雲 (豐盛街)",
@@ -3749,7 +3749,7 @@
     "route_id": "606X",
     "route": "606X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -3767,7 +3767,7 @@
     "route_id": "606X",
     "route": "606X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -3785,7 +3785,7 @@
     "route_id": "608",
     "route": "608",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma Tau Wai Estate",
       "tc": "馬頭圍邨",
@@ -3803,7 +3803,7 @@
     "route_id": "608",
     "route": "608",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma Tau Wai Estate",
       "tc": "馬頭圍邨",
@@ -3821,7 +3821,7 @@
     "route_id": "608P",
     "route": "608P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -3839,7 +3839,7 @@
     "route_id": "608P",
     "route": "608P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -3857,7 +3857,7 @@
     "route_id": "619",
     "route": "619",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -3875,7 +3875,7 @@
     "route_id": "619",
     "route": "619",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -3893,7 +3893,7 @@
     "route_id": "619P",
     "route": "619P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shun Lee Estate",
       "tc": "順利邨",
@@ -3911,7 +3911,7 @@
     "route_id": "619X",
     "route": "619X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shun Lee Estate",
       "tc": "順利邨",
@@ -3929,7 +3929,7 @@
     "route_id": "619X",
     "route": "619X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shun Lee Estate",
       "tc": "順利邨",
@@ -3947,7 +3947,7 @@
     "route_id": "61R",
     "route": "61R",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "City One Shatin",
       "tc": "沙田第一城",
@@ -3965,7 +3965,7 @@
     "route_id": "61R",
     "route": "61R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "City One Shatin",
       "tc": "沙田第一城",
@@ -3983,7 +3983,7 @@
     "route_id": "621",
     "route": "621",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Laguna City",
       "tc": "麗港城",
@@ -4001,7 +4001,7 @@
     "route_id": "621",
     "route": "621",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Laguna City",
       "tc": "麗港城",
@@ -4019,7 +4019,7 @@
     "route_id": "629",
     "route": "629",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Star Ferry)",
       "tc": "中環 (天星碼頭)",
@@ -4037,7 +4037,7 @@
     "route_id": "629",
     "route": "629",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Star Ferry)",
       "tc": "中環 (天星碼頭)",
@@ -4055,7 +4055,7 @@
     "route_id": "629M",
     "route": "629M",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ocean Park (Water World)",
       "tc": "海洋公園 (水上樂園)",
@@ -4073,7 +4073,7 @@
     "route_id": "63",
     "route": "63",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -4091,7 +4091,7 @@
     "route_id": "63",
     "route": "63",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -4109,7 +4109,7 @@
     "route_id": "641",
     "route": "641",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -4127,7 +4127,7 @@
     "route_id": "641",
     "route": "641",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -4145,7 +4145,7 @@
     "route_id": "65",
     "route": "65",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -4163,7 +4163,7 @@
     "route_id": "65",
     "route": "65",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -4181,7 +4181,7 @@
     "route_id": "66",
     "route": "66",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4199,7 +4199,7 @@
     "route_id": "66",
     "route": "66",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4217,7 +4217,7 @@
     "route_id": "671",
     "route": "671",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau (Lee Lok Street)",
       "tc": "鴨脷洲 (利樂街)",
@@ -4235,7 +4235,7 @@
     "route_id": "671",
     "route": "671",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau (Lee Lok Street)",
       "tc": "鴨脷洲 (利樂街)",
@@ -4253,7 +4253,7 @@
     "route_id": "671X",
     "route": "671X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau (Lee Lok Street)",
       "tc": "鴨脷洲 (利樂街)",
@@ -4271,7 +4271,7 @@
     "route_id": "678",
     "route": "678",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sheung Shui",
       "tc": "上水",
@@ -4289,7 +4289,7 @@
     "route_id": "678",
     "route": "678",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sheung Shui",
       "tc": "上水",
@@ -4307,7 +4307,7 @@
     "route_id": "679",
     "route": "679",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -4325,7 +4325,7 @@
     "route_id": "680",
     "route": "680",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (East)",
       "tc": "金鐘 (東)",
@@ -4343,7 +4343,7 @@
     "route_id": "680",
     "route": "680",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (East)",
       "tc": "金鐘 (東)",
@@ -4361,7 +4361,7 @@
     "route_id": "680B",
     "route": "680B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan (Chevalier Garden)",
       "tc": "馬鞍山 (富安花園)",
@@ -4379,7 +4379,7 @@
     "route_id": "680P",
     "route": "680P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan (Wu Kai Sha Station)",
       "tc": "馬鞍山 (烏溪沙站)",
@@ -4397,7 +4397,7 @@
     "route_id": "680X",
     "route": "680X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -4415,7 +4415,7 @@
     "route_id": "680X",
     "route": "680X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -4433,7 +4433,7 @@
     "route_id": "681",
     "route": "681",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Hong Kong Station)",
       "tc": "中環 (香港站)",
@@ -4451,7 +4451,7 @@
     "route_id": "681",
     "route": "681",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Hong Kong Station)",
       "tc": "中環 (香港站)",
@@ -4469,7 +4469,7 @@
     "route_id": "681P",
     "route": "681P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan (Yiu On Estate)",
       "tc": "馬鞍山 (耀安邨)",
@@ -4487,7 +4487,7 @@
     "route_id": "681P",
     "route": "681P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan (Yiu On Estate)",
       "tc": "馬鞍山 (耀安邨)",
@@ -4505,7 +4505,7 @@
     "route_id": "682",
     "route": "682",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chai Wan (East)",
       "tc": "柴灣 (東)",
@@ -4523,7 +4523,7 @@
     "route_id": "682",
     "route": "682",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chai Wan (East)",
       "tc": "柴灣 (東)",
@@ -4541,7 +4541,7 @@
     "route_id": "682A",
     "route": "682A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan Town Centre",
       "tc": "馬鞍山市中心",
@@ -4559,7 +4559,7 @@
     "route_id": "682A",
     "route": "682A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan Town Centre",
       "tc": "馬鞍山市中心",
@@ -4577,7 +4577,7 @@
     "route_id": "682B",
     "route": "682B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shui Chuen O Estate",
       "tc": "水泉澳邨",
@@ -4595,7 +4595,7 @@
     "route_id": "682B",
     "route": "682B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shui Chuen O Estate",
       "tc": "水泉澳邨",
@@ -4613,7 +4613,7 @@
     "route_id": "682P",
     "route": "682P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wu Kai Sha Station",
       "tc": "烏溪沙站",
@@ -4631,7 +4631,7 @@
     "route_id": "690",
     "route": "690",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4649,7 +4649,7 @@
     "route_id": "690",
     "route": "690",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4667,7 +4667,7 @@
     "route_id": "690P",
     "route": "690P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Hong Sing Garden)",
       "tc": "將軍澳 (康盛花園)",
@@ -4685,7 +4685,7 @@
     "route_id": "690S",
     "route": "690S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4703,7 +4703,7 @@
     "route_id": "690S",
     "route": "690S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4721,7 +4721,7 @@
     "route_id": "694",
     "route": "694",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan Estate",
       "tc": "小西灣邨",
@@ -4739,7 +4739,7 @@
     "route_id": "694",
     "route": "694",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan Estate",
       "tc": "小西灣邨",
@@ -4757,7 +4757,7 @@
     "route_id": "694S",
     "route": "694S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan Estate",
       "tc": "小西灣邨",
@@ -4775,7 +4775,7 @@
     "route_id": "694S",
     "route": "694S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan Estate",
       "tc": "小西灣邨",
@@ -4793,7 +4793,7 @@
     "route_id": "6A",
     "route": "6A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4811,7 +4811,7 @@
     "route_id": "6X",
     "route": "6X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4829,7 +4829,7 @@
     "route_id": "6X",
     "route": "6X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
@@ -4847,7 +4847,7 @@
     "route_id": "7",
     "route": "7",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shek Pai Wan",
       "tc": "石排灣",
@@ -4865,7 +4865,7 @@
     "route_id": "7",
     "route": "7",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shek Pai Wan",
       "tc": "石排灣",
@@ -4883,7 +4883,7 @@
     "route_id": "70",
     "route": "70",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai (via: Aberdeen)",
       "tc": "華貴 (經:香港仔)",
@@ -4901,7 +4901,7 @@
     "route_id": "70",
     "route": "70",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai (via: Aberdeen)",
       "tc": "華貴 (經:香港仔)",
@@ -4919,7 +4919,7 @@
     "route_id": "701",
     "route": "701",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Lai Estate / Nam Cheong Station",
       "tc": "海麗邨／南昌站",
@@ -4937,7 +4937,7 @@
     "route_id": "701",
     "route": "701",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Lai Estate / Nam Cheong Station",
       "tc": "海麗邨／南昌站",
@@ -4955,7 +4955,7 @@
     "route_id": "701A",
     "route": "701A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Ying Estate",
       "tc": "海盈邨",
@@ -4973,7 +4973,7 @@
     "route_id": "701A",
     "route": "701A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Ying Estate",
       "tc": "海盈邨",
@@ -4991,7 +4991,7 @@
     "route_id": "701S",
     "route": "701S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Lai Estate / Nam Cheong Station",
       "tc": "海麗邨／南昌站",
@@ -5009,7 +5009,7 @@
     "route_id": "701S",
     "route": "701S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Lai Estate / Nam Cheong Station",
       "tc": "海麗邨／南昌站",
@@ -5027,7 +5027,7 @@
     "route_id": "702",
     "route": "702",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Lai Estate / Nam Cheong Station",
       "tc": "海麗邨／南昌站",
@@ -5045,7 +5045,7 @@
     "route_id": "702",
     "route": "702",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Lai Estate / Nam Cheong Station",
       "tc": "海麗邨／南昌站",
@@ -5063,7 +5063,7 @@
     "route_id": "702A",
     "route": "702A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Ying Estate",
       "tc": "海盈邨",
@@ -5081,7 +5081,7 @@
     "route_id": "702A",
     "route": "702A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Ying Estate",
       "tc": "海盈邨",
@@ -5099,7 +5099,7 @@
     "route_id": "702B",
     "route": "702B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Pak Tin (North)",
       "tc": "白田 (北)",
@@ -5117,7 +5117,7 @@
     "route_id": "702B",
     "route": "702B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Pak Tin (North)",
       "tc": "白田 (北)",
@@ -5135,7 +5135,7 @@
     "route_id": "702S",
     "route": "702S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "So Uk Estate",
       "tc": "蘇屋邨",
@@ -5153,7 +5153,7 @@
     "route_id": "702S",
     "route": "702S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "So Uk Estate",
       "tc": "蘇屋邨",
@@ -5171,7 +5171,7 @@
     "route_id": "70P",
     "route": "70P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shek Pai Wan (via: Aberdeen)",
       "tc": "石排灣 (經:香港仔)",
@@ -5189,7 +5189,7 @@
     "route_id": "70P",
     "route": "70P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shek Pai Wan (via: Aberdeen)",
       "tc": "石排灣 (經:香港仔)",
@@ -5207,7 +5207,7 @@
     "route_id": "71",
     "route": "71",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Chuk Hang",
       "tc": "黃竹坑",
@@ -5225,7 +5225,7 @@
     "route_id": "71",
     "route": "71",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Chuk Hang",
       "tc": "黃竹坑",
@@ -5243,7 +5243,7 @@
     "route_id": "71P",
     "route": "71P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan",
       "tc": "深灣",
@@ -5261,7 +5261,7 @@
     "route_id": "72",
     "route": "72",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai Estate",
       "tc": "華貴邨",
@@ -5279,7 +5279,7 @@
     "route_id": "72",
     "route": "72",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai Estate",
       "tc": "華貴邨",
@@ -5297,7 +5297,7 @@
     "route_id": "720",
     "route": "720",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -5315,7 +5315,7 @@
     "route_id": "720",
     "route": "720",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -5333,7 +5333,7 @@
     "route_id": "720A",
     "route": "720A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -5351,7 +5351,7 @@
     "route_id": "720P",
     "route": "720P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Taikoo Shing",
       "tc": "太古城",
@@ -5369,7 +5369,7 @@
     "route_id": "720P",
     "route": "720P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Taikoo Shing",
       "tc": "太古城",
@@ -5387,7 +5387,7 @@
     "route_id": "720X",
     "route": "720X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Grand Promenade",
       "tc": "嘉亨灣",
@@ -5405,7 +5405,7 @@
     "route_id": "722",
     "route": "722",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yiu Tung Estate",
       "tc": "耀東邨",
@@ -5423,7 +5423,7 @@
     "route_id": "722",
     "route": "722",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yiu Tung Estate",
       "tc": "耀東邨",
@@ -5441,7 +5441,7 @@
     "route_id": "72A",
     "route": "72A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan",
       "tc": "深灣",
@@ -5459,7 +5459,7 @@
     "route_id": "72A",
     "route": "72A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan",
       "tc": "深灣",
@@ -5477,7 +5477,7 @@
     "route_id": "73",
     "route": "73",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport / Wah Fu (North)",
       "tc": "數碼港／華富 (北)",
@@ -5495,7 +5495,7 @@
     "route_id": "73",
     "route": "73",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport / Wah Fu (North)",
       "tc": "數碼港／華富 (北)",
@@ -5513,7 +5513,7 @@
     "route_id": "73P",
     "route": "73P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan",
       "tc": "深灣",
@@ -5531,7 +5531,7 @@
     "route_id": "73S",
     "route": "73S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Stanley Market",
       "tc": "赤柱市場",
@@ -5549,7 +5549,7 @@
     "route_id": "73X",
     "route": "73X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -5567,7 +5567,7 @@
     "route_id": "73X",
     "route": "73X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -5585,7 +5585,7 @@
     "route_id": "75",
     "route": "75",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan",
       "tc": "深灣",
@@ -5603,7 +5603,7 @@
     "route_id": "75",
     "route": "75",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan",
       "tc": "深灣",
@@ -5621,7 +5621,7 @@
     "route_id": "76",
     "route": "76",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Chuk Hang Station / Shek Pai Wan",
       "tc": "黃竹坑站／石排灣",
@@ -5639,7 +5639,7 @@
     "route_id": "76",
     "route": "76",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Chuk Hang Station / Shek Pai Wan",
       "tc": "黃竹坑站／石排灣",
@@ -5657,7 +5657,7 @@
     "route_id": "77",
     "route": "77",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Wan",
       "tc": "田灣",
@@ -5675,7 +5675,7 @@
     "route_id": "77",
     "route": "77",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Wan",
       "tc": "田灣",
@@ -5693,7 +5693,7 @@
     "route_id": "77A",
     "route": "77A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -5711,7 +5711,7 @@
     "route_id": "77X",
     "route": "77X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai Estate",
       "tc": "華貴邨",
@@ -5729,7 +5729,7 @@
     "route_id": "78",
     "route": "78",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Chuk Hang",
       "tc": "黃竹坑",
@@ -5747,7 +5747,7 @@
     "route_id": "78",
     "route": "78",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wong Chuk Hang",
       "tc": "黃竹坑",
@@ -5765,7 +5765,7 @@
     "route_id": "780",
     "route": "780",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chai Wan (East)",
       "tc": "柴灣 (東)",
@@ -5783,7 +5783,7 @@
     "route_id": "780",
     "route": "780",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chai Wan (East)",
       "tc": "柴灣 (東)",
@@ -5801,7 +5801,7 @@
     "route_id": "780P",
     "route": "780P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hing Wah (via Causeway Bay)",
       "tc": "興華 (經銅鑼灣)",
@@ -5819,7 +5819,7 @@
     "route_id": "788",
     "route": "788",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -5837,7 +5837,7 @@
     "route_id": "788",
     "route": "788",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -5855,7 +5855,7 @@
     "route_id": "789",
     "route": "789",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -5873,7 +5873,7 @@
     "route_id": "789",
     "route": "789",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -5891,7 +5891,7 @@
     "route_id": "78C",
     "route": "78C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -5909,7 +5909,7 @@
     "route_id": "78C",
     "route": "78C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -5927,7 +5927,7 @@
     "route_id": "78P",
     "route": "78P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -5945,7 +5945,7 @@
     "route_id": "78X",
     "route": "78X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -5963,7 +5963,7 @@
     "route_id": "79",
     "route": "79",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling (via: Tai Po)",
       "tc": "粉嶺皇后山 (經:大埔)",
@@ -5981,7 +5981,7 @@
     "route_id": "79",
     "route": "79",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling (via: Tai Po)",
       "tc": "粉嶺皇后山 (經:大埔)",
@@ -5999,7 +5999,7 @@
     "route_id": "790",
     "route": "790",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Oscar By The Sea (via: LOHAS Park)",
       "tc": "清水灣半島 (經:日出康城)",
@@ -6017,7 +6017,7 @@
     "route_id": "790",
     "route": "790",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Oscar By The Sea (via: LOHAS Park)",
       "tc": "清水灣半島 (經:日出康城)",
@@ -6035,7 +6035,7 @@
     "route_id": "792M",
     "route": "792M",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Station",
       "tc": "將軍澳站",
@@ -6053,7 +6053,7 @@
     "route_id": "792M",
     "route": "792M",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Station",
       "tc": "將軍澳站",
@@ -6071,7 +6071,7 @@
     "route_id": "793",
     "route": "793",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate",
       "tc": "將軍澳工業邨",
@@ -6089,7 +6089,7 @@
     "route_id": "793",
     "route": "793",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate",
       "tc": "將軍澳工業邨",
@@ -6107,7 +6107,7 @@
     "route_id": "795",
     "route": "795",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate (via: LOHAS Park)",
       "tc": "將軍澳工業邨 (經:日出康城)",
@@ -6125,7 +6125,7 @@
     "route_id": "795",
     "route": "795",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate (via: LOHAS Park)",
       "tc": "將軍澳工業邨 (經:日出康城)",
@@ -6143,7 +6143,7 @@
     "route_id": "795X",
     "route": "795X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Oscar by the Sea (via: Sheung Tak)",
       "tc": "清水灣半島 (經:尚德)",
@@ -6161,7 +6161,7 @@
     "route_id": "795X",
     "route": "795X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Oscar by the Sea (via: Sheung Tak)",
       "tc": "清水灣半島 (經:尚德)",
@@ -6179,7 +6179,7 @@
     "route_id": "796P",
     "route": "796P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Station",
       "tc": "將軍澳站",
@@ -6197,7 +6197,7 @@
     "route_id": "796P",
     "route": "796P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Station",
       "tc": "將軍澳站",
@@ -6215,7 +6215,7 @@
     "route_id": "796R",
     "route": "796R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hong Kong Coliseum",
       "tc": "香港體育館",
@@ -6233,7 +6233,7 @@
     "route_id": "796S",
     "route": "796S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Station",
       "tc": "將軍澳站",
@@ -6251,7 +6251,7 @@
     "route_id": "796S",
     "route": "796S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Station",
       "tc": "將軍澳站",
@@ -6269,7 +6269,7 @@
     "route_id": "796X",
     "route": "796X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
       "tc": "將軍澳工業邨／將軍澳站",
@@ -6287,7 +6287,7 @@
     "route_id": "796X",
     "route": "796X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
       "tc": "將軍澳工業邨／將軍澳站",
@@ -6305,7 +6305,7 @@
     "route_id": "797",
     "route": "797",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "LOHAS Park / Tseung Kwan O Industrial Estate",
       "tc": "日出康城／將軍澳工業邨",
@@ -6323,7 +6323,7 @@
     "route_id": "797",
     "route": "797",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "LOHAS Park / Tseung Kwan O Industrial Estate",
       "tc": "日出康城／將軍澳工業邨",
@@ -6341,7 +6341,7 @@
     "route_id": "798",
     "route": "798",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tiu Keng Leng Station",
       "tc": "調景嶺站",
@@ -6359,7 +6359,7 @@
     "route_id": "798",
     "route": "798",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tiu Keng Leng Station",
       "tc": "調景嶺站",
@@ -6377,7 +6377,7 @@
     "route_id": "798A",
     "route": "798A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Hong Sing Garden)",
       "tc": "將軍澳 (康盛花園)",
@@ -6395,7 +6395,7 @@
     "route_id": "798A",
     "route": "798A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Hong Sing Garden)",
       "tc": "將軍澳 (康盛花園)",
@@ -6413,7 +6413,7 @@
     "route_id": "798P",
     "route": "798P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate",
       "tc": "將軍澳工業邨",
@@ -6431,7 +6431,7 @@
     "route_id": "798P",
     "route": "798P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate",
       "tc": "將軍澳工業邨",
@@ -6449,7 +6449,7 @@
     "route_id": "798X",
     "route": "798X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate",
       "tc": "將軍澳工業邨",
@@ -6467,7 +6467,7 @@
     "route_id": "798X",
     "route": "798X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Industrial Estate",
       "tc": "將軍澳工業邨",
@@ -6485,7 +6485,7 @@
     "route_id": "79P",
     "route": "79P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -6503,7 +6503,7 @@
     "route_id": "79P",
     "route": "79P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -6521,7 +6521,7 @@
     "route_id": "79X",
     "route": "79X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -6539,7 +6539,7 @@
     "route_id": "79X",
     "route": "79X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -6557,7 +6557,7 @@
     "route_id": "8",
     "route": "8",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Heng Fa Chuen",
       "tc": "杏花邨",
@@ -6575,7 +6575,7 @@
     "route_id": "8",
     "route": "8",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Heng Fa Chuen",
       "tc": "杏花邨",
@@ -6593,7 +6593,7 @@
     "route_id": "81",
     "route": "81",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hing Wah Estate",
       "tc": "興華邨",
@@ -6611,7 +6611,7 @@
     "route_id": "81",
     "route": "81",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hing Wah Estate",
       "tc": "興華邨",
@@ -6629,7 +6629,7 @@
     "route_id": "81A",
     "route": "81A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hing Wah Estate",
       "tc": "興華邨",
@@ -6647,7 +6647,7 @@
     "route_id": "81A",
     "route": "81A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hing Wah Estate",
       "tc": "興華邨",
@@ -6665,7 +6665,7 @@
     "route_id": "82",
     "route": "82",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6683,7 +6683,7 @@
     "route_id": "82",
     "route": "82",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6701,7 +6701,7 @@
     "route_id": "82S",
     "route": "82S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6719,7 +6719,7 @@
     "route_id": "82S",
     "route": "82S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6737,7 +6737,7 @@
     "route_id": "82X",
     "route": "82X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6755,7 +6755,7 @@
     "route_id": "82X",
     "route": "82X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6773,7 +6773,7 @@
     "route_id": "85",
     "route": "85",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6791,7 +6791,7 @@
     "route_id": "85",
     "route": "85",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6809,7 +6809,7 @@
     "route_id": "85A",
     "route": "85A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -6827,7 +6827,7 @@
     "route_id": "85A",
     "route": "85A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -6845,7 +6845,7 @@
     "route_id": "85P",
     "route": "85P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6863,7 +6863,7 @@
     "route_id": "85P",
     "route": "85P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6881,7 +6881,7 @@
     "route_id": "88R",
     "route": "88R",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "City One Shatin",
       "tc": "沙田第一城",
@@ -6899,7 +6899,7 @@
     "route_id": "88R",
     "route": "88R",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "City One Shatin",
       "tc": "沙田第一城",
@@ -6917,7 +6917,7 @@
     "route_id": "88X",
     "route": "88X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6935,7 +6935,7 @@
     "route_id": "88X",
     "route": "88X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6953,7 +6953,7 @@
     "route_id": "8H",
     "route": "8H",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6971,7 +6971,7 @@
     "route_id": "8H",
     "route": "8H",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -6989,7 +6989,7 @@
     "route_id": "8P",
     "route": "8P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -7007,7 +7007,7 @@
     "route_id": "8P",
     "route": "8P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -7025,7 +7025,7 @@
     "route_id": "8X",
     "route": "8X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -7043,7 +7043,7 @@
     "route_id": "8X",
     "route": "8X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -7061,7 +7061,7 @@
     "route_id": "9",
     "route": "9",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -7079,7 +7079,7 @@
     "route_id": "9",
     "route": "9",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -7097,7 +7097,7 @@
     "route_id": "90",
     "route": "90",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate",
       "tc": "鴨脷洲邨",
@@ -7115,7 +7115,7 @@
     "route_id": "90",
     "route": "90",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate",
       "tc": "鴨脷洲邨",
@@ -7133,7 +7133,7 @@
     "route_id": "904",
     "route": "904",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town (Belcher Bay)",
       "tc": "堅尼地城 (卑路乍灣)",
@@ -7151,7 +7151,7 @@
     "route_id": "904",
     "route": "904",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town (Belcher Bay)",
       "tc": "堅尼地城 (卑路乍灣)",
@@ -7169,7 +7169,7 @@
     "route_id": "905",
     "route": "905",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
@@ -7187,7 +7187,7 @@
     "route_id": "905",
     "route": "905",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
@@ -7205,7 +7205,7 @@
     "route_id": "905A",
     "route": "905A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
@@ -7223,7 +7223,7 @@
     "route_id": "905P",
     "route": "905P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lai Chi Kok",
       "tc": "荔枝角",
@@ -7241,7 +7241,7 @@
     "route_id": "907C",
     "route": "907C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Po (Fu Tip)",
       "tc": "大埔 (富蝶)",
@@ -7259,7 +7259,7 @@
     "route_id": "907C",
     "route": "907C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Po (Fu Tip)",
       "tc": "大埔 (富蝶)",
@@ -7277,7 +7277,7 @@
     "route_id": "907D",
     "route": "907D",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Po (Ting Tai Road)",
       "tc": "大埔 (汀太路)",
@@ -7295,7 +7295,7 @@
     "route_id": "907D",
     "route": "907D",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Po (Ting Tai Road)",
       "tc": "大埔 (汀太路)",
@@ -7313,7 +7313,7 @@
     "route_id": "90B",
     "route": "90B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -7331,7 +7331,7 @@
     "route_id": "90B",
     "route": "90B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -7349,7 +7349,7 @@
     "route_id": "90C",
     "route": "90C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Main Street Ap Lei Chau",
       "tc": "鴨脷洲大街",
@@ -7367,7 +7367,7 @@
     "route_id": "91",
     "route": "91",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate",
       "tc": "鴨脷洲邨",
@@ -7385,7 +7385,7 @@
     "route_id": "91",
     "route": "91",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate",
       "tc": "鴨脷洲邨",
@@ -7403,7 +7403,7 @@
     "route_id": "914",
     "route": "914",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -7421,7 +7421,7 @@
     "route_id": "914",
     "route": "914",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -7439,7 +7439,7 @@
     "route_id": "914P",
     "route": "914P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Lai Estate",
       "tc": "海麗邨",
@@ -7457,7 +7457,7 @@
     "route_id": "914X",
     "route": "914X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hoi Lai Estate",
       "tc": "海麗邨",
@@ -7475,7 +7475,7 @@
     "route_id": "91A",
     "route": "91A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate",
       "tc": "鴨脷洲邨",
@@ -7493,7 +7493,7 @@
     "route_id": "91A",
     "route": "91A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate",
       "tc": "鴨脷洲邨",
@@ -7511,7 +7511,7 @@
     "route_id": "93",
     "route": "93",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons / Ap Lei Chau Estate",
       "tc": "海怡半島／鴨脷洲邨",
@@ -7529,7 +7529,7 @@
     "route_id": "930",
     "route": "930",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan (Discovery Park / Tsuen Wan West Station)",
       "tc": "荃灣 (愉景新城／荃灣西站)",
@@ -7547,7 +7547,7 @@
     "route_id": "930",
     "route": "930",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan (Discovery Park / Tsuen Wan West Station)",
       "tc": "荃灣 (愉景新城／荃灣西站)",
@@ -7565,7 +7565,7 @@
     "route_id": "930A",
     "route": "930A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan West Station",
       "tc": "荃灣西站",
@@ -7583,7 +7583,7 @@
     "route_id": "930A",
     "route": "930A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan West Station",
       "tc": "荃灣西站",
@@ -7601,7 +7601,7 @@
     "route_id": "930B",
     "route": "930B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kwai Shing (East)",
       "tc": "葵盛 (東)",
@@ -7619,7 +7619,7 @@
     "route_id": "930X",
     "route": "930X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan (Discovery Park)",
       "tc": "荃灣 (愉景新城)",
@@ -7637,7 +7637,7 @@
     "route_id": "930X",
     "route": "930X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan (Discovery Park)",
       "tc": "荃灣 (愉景新城)",
@@ -7655,7 +7655,7 @@
     "route_id": "933",
     "route": "933",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan West Station",
       "tc": "荃灣西站",
@@ -7673,7 +7673,7 @@
     "route_id": "933",
     "route": "933",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan West Station",
       "tc": "荃灣西站",
@@ -7691,7 +7691,7 @@
     "route_id": "93A",
     "route": "93A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lei Tung Estate",
       "tc": "利東邨",
@@ -7709,7 +7709,7 @@
     "route_id": "93C",
     "route": "93C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Main Street Ap Lei Chau / Tin Wan",
       "tc": "鴨脷洲大街／田灣",
@@ -7727,7 +7727,7 @@
     "route_id": "948",
     "route": "948",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsing Yi (Cheung On Estate)",
       "tc": "青衣 (長安邨)",
@@ -7745,7 +7745,7 @@
     "route_id": "948",
     "route": "948",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsing Yi (Cheung On Estate)",
       "tc": "青衣 (長安邨)",
@@ -7763,7 +7763,7 @@
     "route_id": "948A",
     "route": "948A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cheung On Estate",
       "tc": "長安邨",
@@ -7781,7 +7781,7 @@
     "route_id": "948B",
     "route": "948B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsing Yi (Greenfield Garden)",
       "tc": "青衣 (翠怡花園)",
@@ -7799,7 +7799,7 @@
     "route_id": "948E",
     "route": "948E",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsing Yi Station",
       "tc": "青衣站",
@@ -7817,7 +7817,7 @@
     "route_id": "948E",
     "route": "948E",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsing Yi Station",
       "tc": "青衣站",
@@ -7835,7 +7835,7 @@
     "route_id": "948P",
     "route": "948P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cheung On Estate",
       "tc": "長安邨",
@@ -7853,7 +7853,7 @@
     "route_id": "948X",
     "route": "948X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cheung Wang Estate",
       "tc": "長宏邨",
@@ -7871,7 +7871,7 @@
     "route_id": "94A",
     "route": "94A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (Central)",
       "tc": "華富 (中)",
@@ -7889,7 +7889,7 @@
     "route_id": "94A",
     "route": "94A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (Central)",
       "tc": "華富 (中)",
@@ -7907,7 +7907,7 @@
     "route_id": "950",
     "route": "950",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -7925,7 +7925,7 @@
     "route_id": "950",
     "route": "950",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -7943,7 +7943,7 @@
     "route_id": "952",
     "route": "952",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Chi Lok Fa Yuen)",
       "tc": "屯門 (置樂花園)",
@@ -7961,7 +7961,7 @@
     "route_id": "952",
     "route": "952",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Chi Lok Fa Yuen)",
       "tc": "屯門 (置樂花園)",
@@ -7979,7 +7979,7 @@
     "route_id": "952C",
     "route": "952C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "So Kwun Wat",
       "tc": "掃管笏",
@@ -7997,7 +7997,7 @@
     "route_id": "952C",
     "route": "952C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "So Kwun Wat",
       "tc": "掃管笏",
@@ -8015,7 +8015,7 @@
     "route_id": "952P",
     "route": "952P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Chi Lok Fa Yuen)",
       "tc": "屯門 (置樂花園)",
@@ -8033,7 +8033,7 @@
     "route_id": "955",
     "route": "955",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -8051,7 +8051,7 @@
     "route_id": "955",
     "route": "955",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -8069,7 +8069,7 @@
     "route_id": "95C",
     "route": "95C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate / Lee Nam Industrial Area",
       "tc": "鴨脷洲邨 / 利南工業區",
@@ -8087,7 +8087,7 @@
     "route_id": "95C",
     "route": "95C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate / Lee Nam Industrial Area",
       "tc": "鴨脷洲邨 / 利南工業區",
@@ -8105,7 +8105,7 @@
     "route_id": "95P",
     "route": "95P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Wan",
       "tc": "田灣",
@@ -8123,7 +8123,7 @@
     "route_id": "962",
     "route": "962",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -8141,7 +8141,7 @@
     "route_id": "962",
     "route": "962",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -8159,7 +8159,7 @@
     "route_id": "962A",
     "route": "962A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Yuet Wu Villa)",
       "tc": "屯門 (悅湖山莊)",
@@ -8177,7 +8177,7 @@
     "route_id": "962C",
     "route": "962C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -8195,7 +8195,7 @@
     "route_id": "962C",
     "route": "962C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -8213,7 +8213,7 @@
     "route_id": "962G",
     "route": "962G",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Causeway Bay (Moreton Terrance)",
       "tc": "銅鑼灣 (摩頓台)",
@@ -8231,7 +8231,7 @@
     "route_id": "962P",
     "route": "962P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -8249,7 +8249,7 @@
     "route_id": "962X",
     "route": "962X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -8267,7 +8267,7 @@
     "route_id": "962X",
     "route": "962X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -8285,7 +8285,7 @@
     "route_id": "967",
     "route": "967",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai (Tin Yan Estate)",
       "tc": "天水圍 (天恩邨)",
@@ -8303,7 +8303,7 @@
     "route_id": "967",
     "route": "967",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai (Tin Yan Estate)",
       "tc": "天水圍 (天恩邨)",
@@ -8321,7 +8321,7 @@
     "route_id": "967X",
     "route": "967X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai (Tin Yan Estate)",
       "tc": "天水圍 (天恩邨)",
@@ -8339,7 +8339,7 @@
     "route_id": "967X",
     "route": "967X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai (Tin Yan Estate)",
       "tc": "天水圍 (天恩邨)",
@@ -8357,7 +8357,7 @@
     "route_id": "969",
     "route": "969",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -8375,7 +8375,7 @@
     "route_id": "969",
     "route": "969",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -8393,7 +8393,7 @@
     "route_id": "969B",
     "route": "969B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -8411,7 +8411,7 @@
     "route_id": "969B",
     "route": "969B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -8429,7 +8429,7 @@
     "route_id": "969C",
     "route": "969C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai (Tin Shui Estate)",
       "tc": "天水圍 (天瑞邨)",
@@ -8447,7 +8447,7 @@
     "route_id": "969C",
     "route": "969C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai (Tin Shui Estate)",
       "tc": "天水圍 (天瑞邨)",
@@ -8465,7 +8465,7 @@
     "route_id": "969N",
     "route": "969N",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -8483,7 +8483,7 @@
     "route_id": "969P",
     "route": "969P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -8501,7 +8501,7 @@
     "route_id": "969X",
     "route": "969X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -8519,7 +8519,7 @@
     "route_id": "97",
     "route": "97",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lei Tung Estate",
       "tc": "利東邨",
@@ -8537,7 +8537,7 @@
     "route_id": "97",
     "route": "97",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lei Tung Estate",
       "tc": "利東邨",
@@ -8555,7 +8555,7 @@
     "route_id": "970",
     "route": "970",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -8573,7 +8573,7 @@
     "route_id": "970",
     "route": "970",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Cyberport",
       "tc": "數碼港",
@@ -8591,7 +8591,7 @@
     "route_id": "970X",
     "route": "970X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Aberdeen",
       "tc": "香港仔",
@@ -8609,7 +8609,7 @@
     "route_id": "970X",
     "route": "970X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Aberdeen",
       "tc": "香港仔",
@@ -8627,7 +8627,7 @@
     "route_id": "971",
     "route": "971",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Aberdeen (Shek Pai Wan)",
       "tc": "香港仔 (石排灣)",
@@ -8645,7 +8645,7 @@
     "route_id": "971",
     "route": "971",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Aberdeen (Shek Pai Wan)",
       "tc": "香港仔 (石排灣)",
@@ -8663,7 +8663,7 @@
     "route_id": "973",
     "route": "973",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsim Sha Tsui (Mody Road)",
       "tc": "尖沙咀 (麼地道)",
@@ -8681,7 +8681,7 @@
     "route_id": "973",
     "route": "973",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsim Sha Tsui (Mody Road)",
       "tc": "尖沙咀 (麼地道)",
@@ -8699,7 +8699,7 @@
     "route_id": "976",
     "route": "976",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lok Ma Chau (San Tin)",
       "tc": "落馬洲 (新田)",
@@ -8717,7 +8717,7 @@
     "route_id": "976",
     "route": "976",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lok Ma Chau (San Tin)",
       "tc": "落馬洲 (新田)",
@@ -8735,7 +8735,7 @@
     "route_id": "976A",
     "route": "976A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lok Ma Chau (San Tin)",
       "tc": "落馬洲 (新田)",
@@ -8753,7 +8753,7 @@
     "route_id": "976A",
     "route": "976A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lok Ma Chau (San Tin)",
       "tc": "落馬洲 (新田)",
@@ -8771,7 +8771,7 @@
     "route_id": "979",
     "route": "979",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -8789,7 +8789,7 @@
     "route_id": "979",
     "route": "979",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Queen's Hill Fanling",
       "tc": "粉嶺皇后山",
@@ -8807,7 +8807,7 @@
     "route_id": "98",
     "route": "98",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lei Tung Estate",
       "tc": "利東邨",
@@ -8825,7 +8825,7 @@
     "route_id": "98",
     "route": "98",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lei Tung Estate",
       "tc": "利東邨",
@@ -8843,7 +8843,7 @@
     "route_id": "980A",
     "route": "980A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shek Mun Estate",
       "tc": "碩門邨",
@@ -8861,7 +8861,7 @@
     "route_id": "980X",
     "route": "980X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan (Wu Kai Sha Station) / Sai Sha Residences",
       "tc": "馬鞍山 (烏溪沙站)／西沙灣",
@@ -8879,7 +8879,7 @@
     "route_id": "980X",
     "route": "980X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan (Wu Kai Sha Station) / Sai Sha Residences",
       "tc": "馬鞍山 (烏溪沙站)／西沙灣",
@@ -8897,7 +8897,7 @@
     "route_id": "981P",
     "route": "981P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan (Yiu On Estate)",
       "tc": "馬鞍山 (耀安邨)",
@@ -8915,7 +8915,7 @@
     "route_id": "981P",
     "route": "981P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ma On Shan (Yiu On Estate)",
       "tc": "馬鞍山 (耀安邨)",
@@ -8933,7 +8933,7 @@
     "route_id": "982C",
     "route": "982C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shek Mun Estate",
       "tc": "碩門邨",
@@ -8951,7 +8951,7 @@
     "route_id": "982X",
     "route": "982X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sha Tin (Yu Chui Court)",
       "tc": "沙田 (愉翠苑)",
@@ -8969,7 +8969,7 @@
     "route_id": "982X",
     "route": "982X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sha Tin (Yu Chui Court)",
       "tc": "沙田 (愉翠苑)",
@@ -8987,7 +8987,7 @@
     "route_id": "985",
     "route": "985",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shatin (Mei Tin Estate)",
       "tc": "沙田 (美田邨)",
@@ -9005,7 +9005,7 @@
     "route_id": "985",
     "route": "985",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shatin (Mei Tin Estate)",
       "tc": "沙田 (美田邨)",
@@ -9023,7 +9023,7 @@
     "route_id": "985A",
     "route": "985A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shatin (Mei Tin Estate)",
       "tc": "沙田 (美田邨)",
@@ -9041,7 +9041,7 @@
     "route_id": "985B",
     "route": "985B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Sam Village",
       "tc": "田心村",
@@ -9059,7 +9059,7 @@
     "route_id": "986",
     "route": "986",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sha Tin Wai",
       "tc": "沙田圍",
@@ -9077,7 +9077,7 @@
     "route_id": "987",
     "route": "987",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sai Wan Ho",
       "tc": "西灣河",
@@ -9095,7 +9095,7 @@
     "route_id": "989",
     "route": "989",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Fo Tan (Chun Yeung Estate)",
       "tc": "火炭 (駿洋邨)",
@@ -9113,7 +9113,7 @@
     "route_id": "99",
     "route": "99",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -9131,7 +9131,7 @@
     "route_id": "99",
     "route": "99",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -9149,7 +9149,7 @@
     "route_id": "99X",
     "route": "99X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -9167,7 +9167,7 @@
     "route_id": "A10",
     "route": "A10",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau (Lee Lok Street)",
       "tc": "鴨脷洲 (利樂街)",
@@ -9185,7 +9185,7 @@
     "route_id": "A10",
     "route": "A10",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau (Lee Lok Street)",
       "tc": "鴨脷洲 (利樂街)",
@@ -9203,7 +9203,7 @@
     "route_id": "A11",
     "route": "A11",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -9221,7 +9221,7 @@
     "route_id": "A11",
     "route": "A11",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -9239,7 +9239,7 @@
     "route_id": "A12",
     "route": "A12",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -9257,7 +9257,7 @@
     "route_id": "A12",
     "route": "A12",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -9275,7 +9275,7 @@
     "route_id": "A17",
     "route": "A17",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan (via Ocean Park)",
       "tc": "深灣 (經海洋公園)",
@@ -9293,7 +9293,7 @@
     "route_id": "A17",
     "route": "A17",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sham Wan (via Ocean Park)",
       "tc": "深灣 (經海洋公園)",
@@ -9311,7 +9311,7 @@
     "route_id": "A20",
     "route": "A20",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hung Hom Station",
       "tc": "紅磡站",
@@ -9329,7 +9329,7 @@
     "route_id": "A20",
     "route": "A20",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hung Hom Station",
       "tc": "紅磡站",
@@ -9347,7 +9347,7 @@
     "route_id": "A21",
     "route": "A21",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hung Hom Station",
       "tc": "紅磡站",
@@ -9365,7 +9365,7 @@
     "route_id": "A21",
     "route": "A21",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hung Hom Station",
       "tc": "紅磡站",
@@ -9383,7 +9383,7 @@
     "route_id": "A22",
     "route": "A22",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lam Tin Station",
       "tc": "藍田站",
@@ -9401,7 +9401,7 @@
     "route_id": "A22",
     "route": "A22",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lam Tin Station",
       "tc": "藍田站",
@@ -9419,7 +9419,7 @@
     "route_id": "A23",
     "route": "A23",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (North)",
       "tc": "慈雲山 (北)",
@@ -9437,7 +9437,7 @@
     "route_id": "A23",
     "route": "A23",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (North)",
       "tc": "慈雲山 (北)",
@@ -9455,7 +9455,7 @@
     "route_id": "A25",
     "route": "A25",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak (via Tsim Sha Tsui)",
       "tc": "啟德 (經尖沙咀)",
@@ -9473,7 +9473,7 @@
     "route_id": "A25",
     "route": "A25",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak (via Tsim Sha Tsui)",
       "tc": "啟德 (經尖沙咀)",
@@ -9491,7 +9491,7 @@
     "route_id": "A25S",
     "route": "A25S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Sports Park",
       "tc": "啟德體育園",
@@ -9509,7 +9509,7 @@
     "route_id": "A26",
     "route": "A26",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yau Tong",
       "tc": "油塘",
@@ -9527,7 +9527,7 @@
     "route_id": "A26",
     "route": "A26",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yau Tong",
       "tc": "油塘",
@@ -9545,7 +9545,7 @@
     "route_id": "A28",
     "route": "A28",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "LOHAS Park",
       "tc": "日出康城",
@@ -9563,7 +9563,7 @@
     "route_id": "A28",
     "route": "A28",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "LOHAS Park",
       "tc": "日出康城",
@@ -9581,7 +9581,7 @@
     "route_id": "A28X",
     "route": "A28X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O Station",
       "tc": "將軍澳站",
@@ -9599,7 +9599,7 @@
     "route_id": "A29",
     "route": "A29",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Po Lam)",
       "tc": "將軍澳 (寶琳)",
@@ -9617,7 +9617,7 @@
     "route_id": "A29",
     "route": "A29",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Po Lam)",
       "tc": "將軍澳 (寶琳)",
@@ -9635,7 +9635,7 @@
     "route_id": "B3",
     "route": "B3",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -9653,7 +9653,7 @@
     "route_id": "B3",
     "route": "B3",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -9671,7 +9671,7 @@
     "route_id": "B3A",
     "route": "B3A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shan King Estate",
       "tc": "山景邨",
@@ -9689,7 +9689,7 @@
     "route_id": "B3A",
     "route": "B3A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shan King Estate",
       "tc": "山景邨",
@@ -9707,7 +9707,7 @@
     "route_id": "B3M",
     "route": "B3M",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",
@@ -9725,7 +9725,7 @@
     "route_id": "B3X",
     "route": "B3X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun Town Centre",
       "tc": "屯門市中心",
@@ -9743,7 +9743,7 @@
     "route_id": "B3X",
     "route": "B3X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun Town Centre",
       "tc": "屯門市中心",
@@ -9761,7 +9761,7 @@
     "route_id": "B5",
     "route": "B5",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port",
       "tc": "港珠澳大橋香港口岸",
@@ -9779,7 +9779,7 @@
     "route_id": "B5",
     "route": "B5",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port",
       "tc": "港珠澳大橋香港口岸",
@@ -9797,7 +9797,7 @@
     "route_id": "B7",
     "route": "B7",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sheung Shui (Po Wan Road) (via Fanling Station)",
       "tc": "上水 (寶運路) (經粉嶺站)",
@@ -9815,7 +9815,7 @@
     "route_id": "B7",
     "route": "B7",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sheung Shui (Po Wan Road) (via Fanling Station)",
       "tc": "上水 (寶運路) (經粉嶺站)",
@@ -9833,7 +9833,7 @@
     "route_id": "B8",
     "route": "B8",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Wai Station (via Tai Po)",
       "tc": "大圍站 (經大埔)",
@@ -9851,7 +9851,7 @@
     "route_id": "B8",
     "route": "B8",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Wai Station (via Tai Po)",
       "tc": "大圍站 (經大埔)",
@@ -9869,7 +9869,7 @@
     "route_id": "E11",
     "route": "E11",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -9887,7 +9887,7 @@
     "route_id": "E11",
     "route": "E11",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -9905,7 +9905,7 @@
     "route_id": "E11A",
     "route": "E11A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -9923,7 +9923,7 @@
     "route_id": "E11A",
     "route": "E11A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -9941,7 +9941,7 @@
     "route_id": "E11B",
     "route": "E11B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -9959,7 +9959,7 @@
     "route_id": "E11B",
     "route": "E11B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Hau Station",
       "tc": "天后站",
@@ -9977,7 +9977,7 @@
     "route_id": "E11S",
     "route": "E11S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Mun Tung Estate)",
       "tc": "東涌 (滿東邨)",
@@ -9995,7 +9995,7 @@
     "route_id": "E18",
     "route": "E18",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Cheung Tung Estate)",
       "tc": "東涌 (翔東邨)",
@@ -10013,7 +10013,7 @@
     "route_id": "E21",
     "route": "E21",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Kok Tsui (Island Harbourview)",
       "tc": "大角咀 (維港灣)",
@@ -10031,7 +10031,7 @@
     "route_id": "E21",
     "route": "E21",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Kok Tsui (Island Harbourview)",
       "tc": "大角咀 (維港灣)",
@@ -10049,7 +10049,7 @@
     "route_id": "E21A",
     "route": "E21A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ho Man Tin (Oi Man Estate)",
       "tc": "何文田 (愛民邨)",
@@ -10067,7 +10067,7 @@
     "route_id": "E21A",
     "route": "E21A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ho Man Tin (Oi Man Estate)",
       "tc": "何文田 (愛民邨)",
@@ -10085,7 +10085,7 @@
     "route_id": "E21B",
     "route": "E21B",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ho Man Tin (Oi Man Estate)",
       "tc": "何文田 (愛民邨)",
@@ -10103,7 +10103,7 @@
     "route_id": "E21B",
     "route": "E21B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ho Man Tin (Oi Man Estate)",
       "tc": "何文田 (愛民邨)",
@@ -10121,7 +10121,7 @@
     "route_id": "E21C",
     "route": "E21C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Kok Tsui (Island Harbourview)",
       "tc": "大角咀 (維港灣)",
@@ -10139,7 +10139,7 @@
     "route_id": "E21C",
     "route": "E21C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Kok Tsui (Island Harbourview)",
       "tc": "大角咀 (維港灣)",
@@ -10157,7 +10157,7 @@
     "route_id": "E21D",
     "route": "E21D",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Kok Tsui (Island Harbourview)",
       "tc": "大角咀 (維港灣)",
@@ -10175,7 +10175,7 @@
     "route_id": "E21D",
     "route": "E21D",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Kok Tsui (Island Harbourview)",
       "tc": "大角咀 (維港灣)",
@@ -10193,7 +10193,7 @@
     "route_id": "E21X",
     "route": "E21X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Mun Tung Estate)",
       "tc": "東涌 (滿東邨)",
@@ -10211,7 +10211,7 @@
     "route_id": "E22",
     "route": "E22",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lam Tin (North)",
       "tc": "藍田 (北)",
@@ -10229,7 +10229,7 @@
     "route_id": "E22",
     "route": "E22",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lam Tin (North)",
       "tc": "藍田 (北)",
@@ -10247,7 +10247,7 @@
     "route_id": "E22A",
     "route": "E22A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Hong Sing Garden)",
       "tc": "將軍澳 (康盛花園)",
@@ -10265,7 +10265,7 @@
     "route_id": "E22A",
     "route": "E22A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Hong Sing Garden)",
       "tc": "將軍澳 (康盛花園)",
@@ -10283,7 +10283,7 @@
     "route_id": "E22C",
     "route": "E22C",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tiu Keng Leng Station",
       "tc": "調景嶺站",
@@ -10301,7 +10301,7 @@
     "route_id": "E22C",
     "route": "E22C",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tiu Keng Leng Station",
       "tc": "調景嶺站",
@@ -10319,7 +10319,7 @@
     "route_id": "E22P",
     "route": "E22P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yau Tong",
       "tc": "油塘",
@@ -10337,7 +10337,7 @@
     "route_id": "E22P",
     "route": "E22P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yau Tong",
       "tc": "油塘",
@@ -10355,7 +10355,7 @@
     "route_id": "E22S",
     "route": "E22S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Mun Tung Estate)",
       "tc": "東涌 (滿東邨)",
@@ -10373,7 +10373,7 @@
     "route_id": "E22S",
     "route": "E22S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Mun Tung Estate)",
       "tc": "東涌 (滿東邨)",
@@ -10391,7 +10391,7 @@
     "route_id": "E22X",
     "route": "E22X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yau Tong",
       "tc": "油塘",
@@ -10409,7 +10409,7 @@
     "route_id": "E22X",
     "route": "E22X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yau Tong",
       "tc": "油塘",
@@ -10427,7 +10427,7 @@
     "route_id": "E23",
     "route": "E23",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (South)",
       "tc": "慈雲山 (南)",
@@ -10445,7 +10445,7 @@
     "route_id": "E23",
     "route": "E23",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (South)",
       "tc": "慈雲山 (南)",
@@ -10463,7 +10463,7 @@
     "route_id": "E23A",
     "route": "E23A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (South)",
       "tc": "慈雲山 (南)",
@@ -10481,7 +10481,7 @@
     "route_id": "E23A",
     "route": "E23A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (South)",
       "tc": "慈雲山 (南)",
@@ -10499,7 +10499,7 @@
     "route_id": "E28",
     "route": "E28",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Cheung Tung Estate)",
       "tc": "東涌 (翔東邨)",
@@ -10517,7 +10517,7 @@
     "route_id": "H1",
     "route": "H1",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central Ferry - Star Ferry",
       "tc": "中環碼頭-天星小輪",
@@ -10535,7 +10535,7 @@
     "route_id": "H2",
     "route": "H2",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central Ferry - Star Ferry",
       "tc": "中環碼頭-天星小輪 ．落日飛車",
@@ -10553,7 +10553,7 @@
     "route_id": "H20",
     "route": "H20",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Cruise Terminal",
       "tc": "啟德郵輪碼頭",
@@ -10571,7 +10571,7 @@
     "route_id": "H2K",
     "route": "H2K",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central Ferry - Star Ferry",
       "tc": "中環碼頭-天星小輪 ．落日飛車",
@@ -10589,7 +10589,7 @@
     "route_id": "H2K",
     "route": "H2K",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central Ferry - Star Ferry",
       "tc": "中環碼頭-天星小輪 ．落日飛車",
@@ -10607,7 +10607,7 @@
     "route_id": "H3",
     "route": "H3",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central Ferry - Hong Kong Observation Wheel",
       "tc": "中環碼頭 -香港摩天輪",
@@ -10625,7 +10625,7 @@
     "route_id": "H4",
     "route": "H4",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Stanley Village / Stanley Market",
       "tc": "赤柱村／赤柱市集",
@@ -10643,7 +10643,7 @@
     "route_id": "N11",
     "route": "N11",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -10661,7 +10661,7 @@
     "route_id": "N11",
     "route": "N11",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -10679,7 +10679,7 @@
     "route_id": "N118",
     "route": "N118",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -10697,7 +10697,7 @@
     "route_id": "N118",
     "route": "N118",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -10715,7 +10715,7 @@
     "route_id": "N121",
     "route": "N121",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -10733,7 +10733,7 @@
     "route_id": "N121",
     "route": "N121",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -10751,7 +10751,7 @@
     "route_id": "N122",
     "route": "N122",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -10769,7 +10769,7 @@
     "route_id": "N122",
     "route": "N122",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
@@ -10787,7 +10787,7 @@
     "route_id": "N170",
     "route": "N170",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (Central)",
       "tc": "華富 (中)",
@@ -10805,7 +10805,7 @@
     "route_id": "N170",
     "route": "N170",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Fu (Central)",
       "tc": "華富 (中)",
@@ -10823,7 +10823,7 @@
     "route_id": "N171",
     "route": "N171",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate",
       "tc": "鴨脷洲邨",
@@ -10841,7 +10841,7 @@
     "route_id": "N171",
     "route": "N171",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau Estate",
       "tc": "鴨脷洲邨",
@@ -10859,7 +10859,7 @@
     "route_id": "N182",
     "route": "N182",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -10877,7 +10877,7 @@
     "route_id": "N182",
     "route": "N182",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -10895,7 +10895,7 @@
     "route_id": "N20",
     "route": "N20",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tai Kok Tsui (Island Harbourview)",
       "tc": "大角咀 (維港灣)",
@@ -10913,7 +10913,7 @@
     "route_id": "N21",
     "route": "N21",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsim Sha Tsui (Star Ferry)",
       "tc": "尖沙咀 (天星碼頭)",
@@ -10931,7 +10931,7 @@
     "route_id": "N21",
     "route": "N21",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsim Sha Tsui (Star Ferry)",
       "tc": "尖沙咀 (天星碼頭)",
@@ -10949,7 +10949,7 @@
     "route_id": "N21A",
     "route": "N21A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsim Sha Tsui (Star Ferry)",
       "tc": "尖沙咀 (天星碼頭)",
@@ -10967,7 +10967,7 @@
     "route_id": "N21A",
     "route": "N21A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsim Sha Tsui (Star Ferry)",
       "tc": "尖沙咀 (天星碼頭)",
@@ -10985,7 +10985,7 @@
     "route_id": "N23",
     "route": "N23",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (North)",
       "tc": "慈雲山 (北)",
@@ -11003,7 +11003,7 @@
     "route_id": "N23",
     "route": "N23",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsz Wan Shan (North)",
       "tc": "慈雲山 (北)",
@@ -11021,7 +11021,7 @@
     "route_id": "N26",
     "route": "N26",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yau Tong",
       "tc": "油塘",
@@ -11039,7 +11039,7 @@
     "route_id": "N26",
     "route": "N26",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yau Tong",
       "tc": "油塘",
@@ -11057,7 +11057,7 @@
     "route_id": "N29",
     "route": "N29",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Hong Sing Garden)",
       "tc": "將軍澳 (康盛花園)",
@@ -11075,7 +11075,7 @@
     "route_id": "N29",
     "route": "N29",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Hong Sing Garden)",
       "tc": "將軍澳 (康盛花園)",
@@ -11093,7 +11093,7 @@
     "route_id": "N307",
     "route": "N307",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sheung Wan",
       "tc": "上環",
@@ -11111,7 +11111,7 @@
     "route_id": "N307",
     "route": "N307",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sheung Wan",
       "tc": "上環",
@@ -11129,7 +11129,7 @@
     "route_id": "N50",
     "route": "N50",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -11147,7 +11147,7 @@
     "route_id": "N50",
     "route": "N50",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Ching Tin and Wo Tin)",
       "tc": "屯門 (菁田及和田)",
@@ -11165,7 +11165,7 @@
     "route_id": "N619",
     "route": "N619",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -11183,7 +11183,7 @@
     "route_id": "N619",
     "route": "N619",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -11201,7 +11201,7 @@
     "route_id": "N680",
     "route": "N680",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -11219,7 +11219,7 @@
     "route_id": "N680",
     "route": "N680",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -11237,7 +11237,7 @@
     "route_id": "N691",
     "route": "N691",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -11255,7 +11255,7 @@
     "route_id": "N691",
     "route": "N691",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
@@ -11273,7 +11273,7 @@
     "route_id": "N72",
     "route": "N72",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai Estate",
       "tc": "華貴邨",
@@ -11291,7 +11291,7 @@
     "route_id": "N72",
     "route": "N72",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wah Kwai Estate",
       "tc": "華貴邨",
@@ -11309,7 +11309,7 @@
     "route_id": "N796",
     "route": "N796",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "LOHAS Park",
       "tc": "日出康城",
@@ -11327,7 +11327,7 @@
     "route_id": "N796",
     "route": "N796",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "LOHAS Park",
       "tc": "日出康城",
@@ -11345,7 +11345,7 @@
     "route_id": "N8",
     "route": "N8",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Heng Fa Chuen (Citybus Chong Fu Road Garage)",
       "tc": "杏花邨 (城巴創富道車廠)",
@@ -11363,7 +11363,7 @@
     "route_id": "N8",
     "route": "N8",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Heng Fa Chuen (Citybus Chong Fu Road Garage)",
       "tc": "杏花邨 (城巴創富道車廠)",
@@ -11381,7 +11381,7 @@
     "route_id": "N8P",
     "route": "N8P",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -11399,7 +11399,7 @@
     "route_id": "N8P",
     "route": "N8P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -11417,7 +11417,7 @@
     "route_id": "N8X",
     "route": "N8X",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -11435,7 +11435,7 @@
     "route_id": "N8X",
     "route": "N8X",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
@@ -11453,7 +11453,7 @@
     "route_id": "N90",
     "route": "N90",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -11471,7 +11471,7 @@
     "route_id": "N90",
     "route": "N90",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -11489,7 +11489,7 @@
     "route_id": "N930",
     "route": "N930",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan (Discovery Park)",
       "tc": "荃灣 (愉景新城)",
@@ -11507,7 +11507,7 @@
     "route_id": "N930",
     "route": "N930",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan (Discovery Park)",
       "tc": "荃灣 (愉景新城)",
@@ -11525,7 +11525,7 @@
     "route_id": "N952",
     "route": "N952",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Chi Lok Fa Yuen)",
       "tc": "屯門 (置樂花園)",
@@ -11543,7 +11543,7 @@
     "route_id": "N952",
     "route": "N952",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Chi Lok Fa Yuen)",
       "tc": "屯門 (置樂花園)",
@@ -11561,7 +11561,7 @@
     "route_id": "N962",
     "route": "N962",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -11579,7 +11579,7 @@
     "route_id": "N962",
     "route": "N962",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun (Lung Mun Oasis)",
       "tc": "屯門 (龍門居)",
@@ -11597,7 +11597,7 @@
     "route_id": "N969",
     "route": "N969",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -11615,7 +11615,7 @@
     "route_id": "N969",
     "route": "N969",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -11633,7 +11633,7 @@
     "route_id": "NA10",
     "route": "NA10",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau (Lee Lok Street)",
       "tc": "鴨脷洲 (利樂街)",
@@ -11651,7 +11651,7 @@
     "route_id": "NA10",
     "route": "NA10",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Ap Lei Chau (Lee Lok Street)",
       "tc": "鴨脷洲 (利樂街)",
@@ -11669,7 +11669,7 @@
     "route_id": "NA11",
     "route": "NA11",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -11687,7 +11687,7 @@
     "route_id": "NA11",
     "route": "NA11",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
@@ -11705,7 +11705,7 @@
     "route_id": "NA12",
     "route": "NA12",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Heng Fa Chuen",
       "tc": "杏花邨",
@@ -11723,7 +11723,7 @@
     "route_id": "NA12",
     "route": "NA12",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Heng Fa Chuen",
       "tc": "杏花邨",
@@ -11741,7 +11741,7 @@
     "route_id": "NA20",
     "route": "NA20",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Whampoa Garden",
       "tc": "黃埔花園",
@@ -11759,7 +11759,7 @@
     "route_id": "NA20",
     "route": "NA20",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Whampoa Garden",
       "tc": "黃埔花園",
@@ -11777,7 +11777,7 @@
     "route_id": "NA21",
     "route": "NA21",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Airport / HZMB Hong Kong Port",
       "tc": "機場 / 港珠澳大橋香港口岸",
@@ -11795,7 +11795,7 @@
     "route_id": "NA21",
     "route": "NA21",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Airport / HZMB Hong Kong Port",
       "tc": "機場 / 港珠澳大橋香港口岸",
@@ -11813,7 +11813,7 @@
     "route_id": "NA29",
     "route": "NA29",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Po Lam)",
       "tc": "將軍澳 (寶琳)",
@@ -11831,7 +11831,7 @@
     "route_id": "NA29",
     "route": "NA29",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tseung Kwan O (Po Lam)",
       "tc": "將軍澳 (寶琳)",
@@ -11849,7 +11849,7 @@
     "route_id": "NB3",
     "route": "NB3",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun Pier Head",
       "tc": "屯門碼頭",
@@ -11867,7 +11867,7 @@
     "route_id": "NB3",
     "route": "NB3",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun Pier Head",
       "tc": "屯門碼頭",
@@ -11885,7 +11885,7 @@
     "route_id": "R11",
     "route": "R11",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Disneyland",
       "tc": "迪士尼樂園",
@@ -11903,7 +11903,7 @@
     "route_id": "R22",
     "route": "R22",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Disneyland",
       "tc": "迪士尼樂園",
@@ -11921,7 +11921,7 @@
     "route_id": "R8",
     "route": "R8",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Disneyland",
       "tc": "迪士尼樂園",
@@ -11939,7 +11939,7 @@
     "route_id": "S1",
     "route": "S1",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung Station",
       "tc": "東涌站",
@@ -11957,7 +11957,7 @@
     "route_id": "S52",
     "route": "S52",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Yat Tung Estate)",
       "tc": "東涌 (逸東邨)",
@@ -11975,7 +11975,7 @@
     "route_id": "S52",
     "route": "S52",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Yat Tung Estate)",
       "tc": "東涌 (逸東邨)",
@@ -11993,7 +11993,7 @@
     "route_id": "S52A",
     "route": "S52A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yu Nga Court",
       "tc": "裕雅苑",
@@ -12011,7 +12011,7 @@
     "route_id": "S52A",
     "route": "S52A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Yu Nga Court",
       "tc": "裕雅苑",
@@ -12029,7 +12029,7 @@
     "route_id": "S52P",
     "route": "S52P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung (Yat Tung Estate)",
       "tc": "東涌 (逸東邨)",
@@ -12047,7 +12047,7 @@
     "route_id": "S56",
     "route": "S56",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung Station",
       "tc": "東涌站",
@@ -12065,7 +12065,7 @@
     "route_id": "SP10",
     "route": "SP10",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Sports Park",
       "tc": "啟德體育園",
@@ -12083,7 +12083,7 @@
     "route_id": "SP11",
     "route": "SP11",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Sports Park",
       "tc": "啟德體育園",
@@ -12101,7 +12101,7 @@
     "route_id": "SP12",
     "route": "SP12",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Sports Park",
       "tc": "啟德體育園",
@@ -12119,7 +12119,7 @@
     "route_id": "SP2",
     "route": "SP2",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Sports Park",
       "tc": "啟德體育園",
@@ -12137,7 +12137,7 @@
     "route_id": "SP2A",
     "route": "SP2A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Sports Park",
       "tc": "啟德體育園",
@@ -12155,7 +12155,7 @@
     "route_id": "SP5B",
     "route": "SP5B",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Sports Park",
       "tc": "啟德體育園",
@@ -12173,7 +12173,7 @@
     "route_id": "SP9",
     "route": "SP9",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kai Tak Sports Park",
       "tc": "啟德體育園",
@@ -12191,7 +12191,7 @@
     "route_id": "X1",
     "route": "X1",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung Station",
       "tc": "東涌站",
@@ -12209,7 +12209,7 @@
     "route_id": "X1",
     "route": "X1",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung Station",
       "tc": "東涌站",
@@ -12227,7 +12227,7 @@
     "route_id": "X15",
     "route": "X15",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Star Ferry)",
       "tc": "中環 (天星碼頭)",
@@ -12245,7 +12245,7 @@
     "route_id": "X15",
     "route": "X15",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Star Ferry)",
       "tc": "中環 (天星碼頭)",
@@ -12263,7 +12263,7 @@
     "route_id": "X797",
     "route": "X797",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tiu Keng Leng Station",
       "tc": "調景嶺站",
@@ -12281,7 +12281,7 @@
     "route_id": "X797",
     "route": "X797",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tiu Keng Leng Station",
       "tc": "調景嶺站",
@@ -12299,7 +12299,7 @@
     "route_id": "X8",
     "route": "X8",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Happy Valley (Upper)",
       "tc": "跑馬地 (上)",
@@ -12317,7 +12317,7 @@
     "route_id": "X9",
     "route": "X9",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central (Star Ferry)",
       "tc": "中環 (天星碼頭)",
@@ -12335,7 +12335,7 @@
     "route_id": "X962",
     "route": "X962",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty (West)",
       "tc": "金鐘 (西)",
@@ -12353,7 +12353,7 @@
     "route_id": "X970",
     "route": "X970",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
