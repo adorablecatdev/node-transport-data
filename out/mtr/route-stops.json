@@ -9,11 +9,11 @@
       "sc": "機場快線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "HOK",
+        "stop_id": "HOK",
         "name": {
           "en": "Hong Kong",
           "tc": "香港",
@@ -24,7 +24,7 @@
       },
       {
         "seq": 2,
-        "stopId": "KOW",
+        "stop_id": "KOW",
         "name": {
           "en": "Kowloon",
           "tc": "九龍",
@@ -35,7 +35,7 @@
       },
       {
         "seq": 3,
-        "stopId": "TSY",
+        "stop_id": "TSY",
         "name": {
           "en": "Tsing Yi",
           "tc": "青衣",
@@ -46,7 +46,7 @@
       },
       {
         "seq": 4,
-        "stopId": "AIR",
+        "stop_id": "AIR",
         "name": {
           "en": "Airport",
           "tc": "機場",
@@ -57,7 +57,7 @@
       },
       {
         "seq": 5,
-        "stopId": "AWE",
+        "stop_id": "AWE",
         "name": {
           "en": "AsiaWorld-Expo",
           "tc": "博覽館",
@@ -78,11 +78,11 @@
       "sc": "機場快線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "AWE",
+        "stop_id": "AWE",
         "name": {
           "en": "AsiaWorld-Expo",
           "tc": "博覽館",
@@ -93,7 +93,7 @@
       },
       {
         "seq": 2,
-        "stopId": "AIR",
+        "stop_id": "AIR",
         "name": {
           "en": "Airport",
           "tc": "機場",
@@ -104,7 +104,7 @@
       },
       {
         "seq": 3,
-        "stopId": "TSY",
+        "stop_id": "TSY",
         "name": {
           "en": "Tsing Yi",
           "tc": "青衣",
@@ -115,7 +115,7 @@
       },
       {
         "seq": 4,
-        "stopId": "KOW",
+        "stop_id": "KOW",
         "name": {
           "en": "Kowloon",
           "tc": "九龍",
@@ -126,7 +126,7 @@
       },
       {
         "seq": 5,
-        "stopId": "HOK",
+        "stop_id": "HOK",
         "name": {
           "en": "Hong Kong",
           "tc": "香港",
@@ -147,11 +147,11 @@
       "sc": "迪士尼線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "DIS",
+        "stop_id": "DIS",
         "name": {
           "en": "Disneyland Resort",
           "tc": "迪士尼",
@@ -162,7 +162,7 @@
       },
       {
         "seq": 2,
-        "stopId": "SUN",
+        "stop_id": "SUN",
         "name": {
           "en": "Sunny Bay",
           "tc": "欣澳",
@@ -183,11 +183,11 @@
       "sc": "迪士尼線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "SUN",
+        "stop_id": "SUN",
         "name": {
           "en": "Sunny Bay",
           "tc": "欣澳",
@@ -198,7 +198,7 @@
       },
       {
         "seq": 2,
-        "stopId": "DIS",
+        "stop_id": "DIS",
         "name": {
           "en": "Disneyland Resort",
           "tc": "迪士尼",
@@ -219,11 +219,11 @@
       "sc": "東鐵線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -234,7 +234,7 @@
       },
       {
         "seq": 2,
-        "stopId": "EXC",
+        "stop_id": "EXC",
         "name": {
           "en": "Exhibition Centre",
           "tc": "會展",
@@ -245,7 +245,7 @@
       },
       {
         "seq": 3,
-        "stopId": "HUH",
+        "stop_id": "HUH",
         "name": {
           "en": "Hung Hom",
           "tc": "紅磡",
@@ -256,7 +256,7 @@
       },
       {
         "seq": 4,
-        "stopId": "MKK",
+        "stop_id": "MKK",
         "name": {
           "en": "Mong Kok East",
           "tc": "旺角東",
@@ -267,7 +267,7 @@
       },
       {
         "seq": 5,
-        "stopId": "KOT",
+        "stop_id": "KOT",
         "name": {
           "en": "Kowloon Tong",
           "tc": "九龍塘",
@@ -278,7 +278,7 @@
       },
       {
         "seq": 6,
-        "stopId": "TAW",
+        "stop_id": "TAW",
         "name": {
           "en": "Tai Wai",
           "tc": "大圍",
@@ -289,7 +289,7 @@
       },
       {
         "seq": 7,
-        "stopId": "SHT",
+        "stop_id": "SHT",
         "name": {
           "en": "Sha Tin",
           "tc": "沙田",
@@ -300,7 +300,7 @@
       },
       {
         "seq": 8,
-        "stopId": "FOT",
+        "stop_id": "FOT",
         "name": {
           "en": "Fo Tan",
           "tc": "火炭",
@@ -311,7 +311,7 @@
       },
       {
         "seq": 9,
-        "stopId": "UNI",
+        "stop_id": "UNI",
         "name": {
           "en": "University",
           "tc": "大學",
@@ -322,7 +322,7 @@
       },
       {
         "seq": 10,
-        "stopId": "TAP",
+        "stop_id": "TAP",
         "name": {
           "en": "Tai Po Market",
           "tc": "大埔墟",
@@ -333,7 +333,7 @@
       },
       {
         "seq": 11,
-        "stopId": "TWO",
+        "stop_id": "TWO",
         "name": {
           "en": "Tai Wo",
           "tc": "太和",
@@ -344,7 +344,7 @@
       },
       {
         "seq": 12,
-        "stopId": "FAN",
+        "stop_id": "FAN",
         "name": {
           "en": "Fanling",
           "tc": "粉嶺",
@@ -355,7 +355,7 @@
       },
       {
         "seq": 13,
-        "stopId": "SHS",
+        "stop_id": "SHS",
         "name": {
           "en": "Sheung Shui",
           "tc": "上水",
@@ -366,7 +366,7 @@
       },
       {
         "seq": 14,
-        "stopId": "LOW",
+        "stop_id": "LOW",
         "name": {
           "en": "Lo Wu",
           "tc": "羅湖",
@@ -387,11 +387,11 @@
       "sc": "東鐵線 落馬洲"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -402,7 +402,7 @@
       },
       {
         "seq": 2,
-        "stopId": "EXC",
+        "stop_id": "EXC",
         "name": {
           "en": "Exhibition Centre",
           "tc": "會展",
@@ -413,7 +413,7 @@
       },
       {
         "seq": 3,
-        "stopId": "HUH",
+        "stop_id": "HUH",
         "name": {
           "en": "Hung Hom",
           "tc": "紅磡",
@@ -424,7 +424,7 @@
       },
       {
         "seq": 4,
-        "stopId": "MKK",
+        "stop_id": "MKK",
         "name": {
           "en": "Mong Kok East",
           "tc": "旺角東",
@@ -435,7 +435,7 @@
       },
       {
         "seq": 5,
-        "stopId": "KOT",
+        "stop_id": "KOT",
         "name": {
           "en": "Kowloon Tong",
           "tc": "九龍塘",
@@ -446,7 +446,7 @@
       },
       {
         "seq": 6,
-        "stopId": "TAW",
+        "stop_id": "TAW",
         "name": {
           "en": "Tai Wai",
           "tc": "大圍",
@@ -457,7 +457,7 @@
       },
       {
         "seq": 7,
-        "stopId": "SHT",
+        "stop_id": "SHT",
         "name": {
           "en": "Sha Tin",
           "tc": "沙田",
@@ -468,7 +468,7 @@
       },
       {
         "seq": 8,
-        "stopId": "FOT",
+        "stop_id": "FOT",
         "name": {
           "en": "Fo Tan",
           "tc": "火炭",
@@ -479,7 +479,7 @@
       },
       {
         "seq": 9,
-        "stopId": "UNI",
+        "stop_id": "UNI",
         "name": {
           "en": "University",
           "tc": "大學",
@@ -490,7 +490,7 @@
       },
       {
         "seq": 10,
-        "stopId": "TAP",
+        "stop_id": "TAP",
         "name": {
           "en": "Tai Po Market",
           "tc": "大埔墟",
@@ -501,7 +501,7 @@
       },
       {
         "seq": 11,
-        "stopId": "TWO",
+        "stop_id": "TWO",
         "name": {
           "en": "Tai Wo",
           "tc": "太和",
@@ -512,7 +512,7 @@
       },
       {
         "seq": 12,
-        "stopId": "FAN",
+        "stop_id": "FAN",
         "name": {
           "en": "Fanling",
           "tc": "粉嶺",
@@ -523,7 +523,7 @@
       },
       {
         "seq": 13,
-        "stopId": "SHS",
+        "stop_id": "SHS",
         "name": {
           "en": "Sheung Shui",
           "tc": "上水",
@@ -534,7 +534,7 @@
       },
       {
         "seq": 14,
-        "stopId": "LMC",
+        "stop_id": "LMC",
         "name": {
           "en": "Lok Ma Chau",
           "tc": "落馬洲",
@@ -555,11 +555,11 @@
       "sc": "東鐵線 落馬洲"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "LMC",
+        "stop_id": "LMC",
         "name": {
           "en": "Lok Ma Chau",
           "tc": "落馬洲",
@@ -570,7 +570,7 @@
       },
       {
         "seq": 2,
-        "stopId": "SHS",
+        "stop_id": "SHS",
         "name": {
           "en": "Sheung Shui",
           "tc": "上水",
@@ -581,7 +581,7 @@
       },
       {
         "seq": 3,
-        "stopId": "FAN",
+        "stop_id": "FAN",
         "name": {
           "en": "Fanling",
           "tc": "粉嶺",
@@ -592,7 +592,7 @@
       },
       {
         "seq": 4,
-        "stopId": "TWO",
+        "stop_id": "TWO",
         "name": {
           "en": "Tai Wo",
           "tc": "太和",
@@ -603,7 +603,7 @@
       },
       {
         "seq": 5,
-        "stopId": "TAP",
+        "stop_id": "TAP",
         "name": {
           "en": "Tai Po Market",
           "tc": "大埔墟",
@@ -614,7 +614,7 @@
       },
       {
         "seq": 6,
-        "stopId": "UNI",
+        "stop_id": "UNI",
         "name": {
           "en": "University",
           "tc": "大學",
@@ -625,7 +625,7 @@
       },
       {
         "seq": 7,
-        "stopId": "FOT",
+        "stop_id": "FOT",
         "name": {
           "en": "Fo Tan",
           "tc": "火炭",
@@ -636,7 +636,7 @@
       },
       {
         "seq": 8,
-        "stopId": "SHT",
+        "stop_id": "SHT",
         "name": {
           "en": "Sha Tin",
           "tc": "沙田",
@@ -647,7 +647,7 @@
       },
       {
         "seq": 9,
-        "stopId": "TAW",
+        "stop_id": "TAW",
         "name": {
           "en": "Tai Wai",
           "tc": "大圍",
@@ -658,7 +658,7 @@
       },
       {
         "seq": 10,
-        "stopId": "KOT",
+        "stop_id": "KOT",
         "name": {
           "en": "Kowloon Tong",
           "tc": "九龍塘",
@@ -669,7 +669,7 @@
       },
       {
         "seq": 11,
-        "stopId": "MKK",
+        "stop_id": "MKK",
         "name": {
           "en": "Mong Kok East",
           "tc": "旺角東",
@@ -680,7 +680,7 @@
       },
       {
         "seq": 12,
-        "stopId": "HUH",
+        "stop_id": "HUH",
         "name": {
           "en": "Hung Hom",
           "tc": "紅磡",
@@ -691,7 +691,7 @@
       },
       {
         "seq": 13,
-        "stopId": "EXC",
+        "stop_id": "EXC",
         "name": {
           "en": "Exhibition Centre",
           "tc": "會展",
@@ -702,7 +702,7 @@
       },
       {
         "seq": 14,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -723,11 +723,11 @@
       "sc": "東鐵線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "LOW",
+        "stop_id": "LOW",
         "name": {
           "en": "Lo Wu",
           "tc": "羅湖",
@@ -738,7 +738,7 @@
       },
       {
         "seq": 2,
-        "stopId": "SHS",
+        "stop_id": "SHS",
         "name": {
           "en": "Sheung Shui",
           "tc": "上水",
@@ -749,7 +749,7 @@
       },
       {
         "seq": 3,
-        "stopId": "FAN",
+        "stop_id": "FAN",
         "name": {
           "en": "Fanling",
           "tc": "粉嶺",
@@ -760,7 +760,7 @@
       },
       {
         "seq": 4,
-        "stopId": "TWO",
+        "stop_id": "TWO",
         "name": {
           "en": "Tai Wo",
           "tc": "太和",
@@ -771,7 +771,7 @@
       },
       {
         "seq": 5,
-        "stopId": "TAP",
+        "stop_id": "TAP",
         "name": {
           "en": "Tai Po Market",
           "tc": "大埔墟",
@@ -782,7 +782,7 @@
       },
       {
         "seq": 6,
-        "stopId": "UNI",
+        "stop_id": "UNI",
         "name": {
           "en": "University",
           "tc": "大學",
@@ -793,7 +793,7 @@
       },
       {
         "seq": 7,
-        "stopId": "FOT",
+        "stop_id": "FOT",
         "name": {
           "en": "Fo Tan",
           "tc": "火炭",
@@ -804,7 +804,7 @@
       },
       {
         "seq": 8,
-        "stopId": "SHT",
+        "stop_id": "SHT",
         "name": {
           "en": "Sha Tin",
           "tc": "沙田",
@@ -815,7 +815,7 @@
       },
       {
         "seq": 9,
-        "stopId": "TAW",
+        "stop_id": "TAW",
         "name": {
           "en": "Tai Wai",
           "tc": "大圍",
@@ -826,7 +826,7 @@
       },
       {
         "seq": 10,
-        "stopId": "KOT",
+        "stop_id": "KOT",
         "name": {
           "en": "Kowloon Tong",
           "tc": "九龍塘",
@@ -837,7 +837,7 @@
       },
       {
         "seq": 11,
-        "stopId": "MKK",
+        "stop_id": "MKK",
         "name": {
           "en": "Mong Kok East",
           "tc": "旺角東",
@@ -848,7 +848,7 @@
       },
       {
         "seq": 12,
-        "stopId": "HUH",
+        "stop_id": "HUH",
         "name": {
           "en": "Hung Hom",
           "tc": "紅磡",
@@ -859,7 +859,7 @@
       },
       {
         "seq": 13,
-        "stopId": "EXC",
+        "stop_id": "EXC",
         "name": {
           "en": "Exhibition Centre",
           "tc": "會展",
@@ -870,7 +870,7 @@
       },
       {
         "seq": 14,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -891,11 +891,11 @@
       "sc": "港島線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "KET",
+        "stop_id": "KET",
         "name": {
           "en": "Kennedy Town",
           "tc": "堅尼地城",
@@ -906,7 +906,7 @@
       },
       {
         "seq": 2,
-        "stopId": "HKU",
+        "stop_id": "HKU",
         "name": {
           "en": "HKU",
           "tc": "香港大學",
@@ -917,7 +917,7 @@
       },
       {
         "seq": 3,
-        "stopId": "SYP",
+        "stop_id": "SYP",
         "name": {
           "en": "Sai Ying Pun",
           "tc": "西營盤",
@@ -928,7 +928,7 @@
       },
       {
         "seq": 4,
-        "stopId": "SHW",
+        "stop_id": "SHW",
         "name": {
           "en": "Sheung Wan",
           "tc": "上環",
@@ -939,7 +939,7 @@
       },
       {
         "seq": 5,
-        "stopId": "CEN",
+        "stop_id": "CEN",
         "name": {
           "en": "Central",
           "tc": "中環",
@@ -950,7 +950,7 @@
       },
       {
         "seq": 6,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -961,7 +961,7 @@
       },
       {
         "seq": 7,
-        "stopId": "WAC",
+        "stop_id": "WAC",
         "name": {
           "en": "Wan Chai",
           "tc": "灣仔",
@@ -972,7 +972,7 @@
       },
       {
         "seq": 8,
-        "stopId": "CAB",
+        "stop_id": "CAB",
         "name": {
           "en": "Causeway Bay",
           "tc": "銅鑼灣",
@@ -983,7 +983,7 @@
       },
       {
         "seq": 9,
-        "stopId": "TIH",
+        "stop_id": "TIH",
         "name": {
           "en": "Tin Hau",
           "tc": "天后",
@@ -994,7 +994,7 @@
       },
       {
         "seq": 10,
-        "stopId": "FOH",
+        "stop_id": "FOH",
         "name": {
           "en": "Fortress Hill",
           "tc": "炮台山",
@@ -1005,7 +1005,7 @@
       },
       {
         "seq": 11,
-        "stopId": "NOP",
+        "stop_id": "NOP",
         "name": {
           "en": "North Point",
           "tc": "北角",
@@ -1016,7 +1016,7 @@
       },
       {
         "seq": 12,
-        "stopId": "QUB",
+        "stop_id": "QUB",
         "name": {
           "en": "Quarry Bay",
           "tc": "鰂魚涌",
@@ -1027,7 +1027,7 @@
       },
       {
         "seq": 13,
-        "stopId": "TAK",
+        "stop_id": "TAK",
         "name": {
           "en": "Tai Koo",
           "tc": "太古",
@@ -1038,7 +1038,7 @@
       },
       {
         "seq": 14,
-        "stopId": "SWH",
+        "stop_id": "SWH",
         "name": {
           "en": "Sai Wan Ho",
           "tc": "西灣河",
@@ -1049,7 +1049,7 @@
       },
       {
         "seq": 15,
-        "stopId": "SKW",
+        "stop_id": "SKW",
         "name": {
           "en": "Shau Kei Wan",
           "tc": "筲箕灣",
@@ -1060,7 +1060,7 @@
       },
       {
         "seq": 16,
-        "stopId": "HFC",
+        "stop_id": "HFC",
         "name": {
           "en": "Heng Fa Chuen",
           "tc": "杏花邨",
@@ -1071,7 +1071,7 @@
       },
       {
         "seq": 17,
-        "stopId": "CHW",
+        "stop_id": "CHW",
         "name": {
           "en": "Chai Wan",
           "tc": "柴灣",
@@ -1092,11 +1092,11 @@
       "sc": "港島線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "CHW",
+        "stop_id": "CHW",
         "name": {
           "en": "Chai Wan",
           "tc": "柴灣",
@@ -1107,7 +1107,7 @@
       },
       {
         "seq": 2,
-        "stopId": "HFC",
+        "stop_id": "HFC",
         "name": {
           "en": "Heng Fa Chuen",
           "tc": "杏花邨",
@@ -1118,7 +1118,7 @@
       },
       {
         "seq": 3,
-        "stopId": "SKW",
+        "stop_id": "SKW",
         "name": {
           "en": "Shau Kei Wan",
           "tc": "筲箕灣",
@@ -1129,7 +1129,7 @@
       },
       {
         "seq": 4,
-        "stopId": "SWH",
+        "stop_id": "SWH",
         "name": {
           "en": "Sai Wan Ho",
           "tc": "西灣河",
@@ -1140,7 +1140,7 @@
       },
       {
         "seq": 5,
-        "stopId": "TAK",
+        "stop_id": "TAK",
         "name": {
           "en": "Tai Koo",
           "tc": "太古",
@@ -1151,7 +1151,7 @@
       },
       {
         "seq": 6,
-        "stopId": "QUB",
+        "stop_id": "QUB",
         "name": {
           "en": "Quarry Bay",
           "tc": "鰂魚涌",
@@ -1162,7 +1162,7 @@
       },
       {
         "seq": 7,
-        "stopId": "NOP",
+        "stop_id": "NOP",
         "name": {
           "en": "North Point",
           "tc": "北角",
@@ -1173,7 +1173,7 @@
       },
       {
         "seq": 8,
-        "stopId": "FOH",
+        "stop_id": "FOH",
         "name": {
           "en": "Fortress Hill",
           "tc": "炮台山",
@@ -1184,7 +1184,7 @@
       },
       {
         "seq": 9,
-        "stopId": "TIH",
+        "stop_id": "TIH",
         "name": {
           "en": "Tin Hau",
           "tc": "天后",
@@ -1195,7 +1195,7 @@
       },
       {
         "seq": 10,
-        "stopId": "CAB",
+        "stop_id": "CAB",
         "name": {
           "en": "Causeway Bay",
           "tc": "銅鑼灣",
@@ -1206,7 +1206,7 @@
       },
       {
         "seq": 11,
-        "stopId": "WAC",
+        "stop_id": "WAC",
         "name": {
           "en": "Wan Chai",
           "tc": "灣仔",
@@ -1217,7 +1217,7 @@
       },
       {
         "seq": 12,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -1228,7 +1228,7 @@
       },
       {
         "seq": 13,
-        "stopId": "CEN",
+        "stop_id": "CEN",
         "name": {
           "en": "Central",
           "tc": "中環",
@@ -1239,7 +1239,7 @@
       },
       {
         "seq": 14,
-        "stopId": "SHW",
+        "stop_id": "SHW",
         "name": {
           "en": "Sheung Wan",
           "tc": "上環",
@@ -1250,7 +1250,7 @@
       },
       {
         "seq": 15,
-        "stopId": "SYP",
+        "stop_id": "SYP",
         "name": {
           "en": "Sai Ying Pun",
           "tc": "西營盤",
@@ -1261,7 +1261,7 @@
       },
       {
         "seq": 16,
-        "stopId": "HKU",
+        "stop_id": "HKU",
         "name": {
           "en": "HKU",
           "tc": "香港大學",
@@ -1272,7 +1272,7 @@
       },
       {
         "seq": 17,
-        "stopId": "KET",
+        "stop_id": "KET",
         "name": {
           "en": "Kennedy Town",
           "tc": "堅尼地城",
@@ -1293,11 +1293,11 @@
       "sc": "觀塘線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "WHA",
+        "stop_id": "WHA",
         "name": {
           "en": "Whampoa",
           "tc": "黃埔",
@@ -1308,7 +1308,7 @@
       },
       {
         "seq": 2,
-        "stopId": "HOM",
+        "stop_id": "HOM",
         "name": {
           "en": "Ho Man Tin",
           "tc": "何文田",
@@ -1319,7 +1319,7 @@
       },
       {
         "seq": 3,
-        "stopId": "YMT",
+        "stop_id": "YMT",
         "name": {
           "en": "Yau Ma Tei",
           "tc": "油麻地",
@@ -1330,7 +1330,7 @@
       },
       {
         "seq": 4,
-        "stopId": "MOK",
+        "stop_id": "MOK",
         "name": {
           "en": "Mong Kok",
           "tc": "旺角",
@@ -1341,7 +1341,7 @@
       },
       {
         "seq": 5,
-        "stopId": "PRE",
+        "stop_id": "PRE",
         "name": {
           "en": "Prince Edward",
           "tc": "太子",
@@ -1352,7 +1352,7 @@
       },
       {
         "seq": 6,
-        "stopId": "SKM",
+        "stop_id": "SKM",
         "name": {
           "en": "Shek Kip Mei",
           "tc": "石硤尾",
@@ -1363,7 +1363,7 @@
       },
       {
         "seq": 7,
-        "stopId": "KOT",
+        "stop_id": "KOT",
         "name": {
           "en": "Kowloon Tong",
           "tc": "九龍塘",
@@ -1374,7 +1374,7 @@
       },
       {
         "seq": 8,
-        "stopId": "LOF",
+        "stop_id": "LOF",
         "name": {
           "en": "Lok Fu",
           "tc": "樂富",
@@ -1385,7 +1385,7 @@
       },
       {
         "seq": 9,
-        "stopId": "WTS",
+        "stop_id": "WTS",
         "name": {
           "en": "Wong Tai Sin",
           "tc": "黃大仙",
@@ -1396,7 +1396,7 @@
       },
       {
         "seq": 10,
-        "stopId": "DIH",
+        "stop_id": "DIH",
         "name": {
           "en": "Diamond Hill",
           "tc": "鑽石山",
@@ -1407,7 +1407,7 @@
       },
       {
         "seq": 11,
-        "stopId": "CHH",
+        "stop_id": "CHH",
         "name": {
           "en": "Choi Hung",
           "tc": "彩虹",
@@ -1418,7 +1418,7 @@
       },
       {
         "seq": 12,
-        "stopId": "KOB",
+        "stop_id": "KOB",
         "name": {
           "en": "Kowloon Bay",
           "tc": "九龍灣",
@@ -1429,7 +1429,7 @@
       },
       {
         "seq": 13,
-        "stopId": "NTK",
+        "stop_id": "NTK",
         "name": {
           "en": "Ngau Tau Kok",
           "tc": "牛頭角",
@@ -1440,7 +1440,7 @@
       },
       {
         "seq": 14,
-        "stopId": "KWT",
+        "stop_id": "KWT",
         "name": {
           "en": "Kwun Tong",
           "tc": "觀塘",
@@ -1451,7 +1451,7 @@
       },
       {
         "seq": 15,
-        "stopId": "LAT",
+        "stop_id": "LAT",
         "name": {
           "en": "Lam Tin",
           "tc": "藍田",
@@ -1462,7 +1462,7 @@
       },
       {
         "seq": 16,
-        "stopId": "YAT",
+        "stop_id": "YAT",
         "name": {
           "en": "Yau Tong",
           "tc": "油塘",
@@ -1473,7 +1473,7 @@
       },
       {
         "seq": 17,
-        "stopId": "TIK",
+        "stop_id": "TIK",
         "name": {
           "en": "Tiu Keng Leng",
           "tc": "調景嶺",
@@ -1494,11 +1494,11 @@
       "sc": "觀塘線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "TIK",
+        "stop_id": "TIK",
         "name": {
           "en": "Tiu Keng Leng",
           "tc": "調景嶺",
@@ -1509,7 +1509,7 @@
       },
       {
         "seq": 2,
-        "stopId": "YAT",
+        "stop_id": "YAT",
         "name": {
           "en": "Yau Tong",
           "tc": "油塘",
@@ -1520,7 +1520,7 @@
       },
       {
         "seq": 3,
-        "stopId": "LAT",
+        "stop_id": "LAT",
         "name": {
           "en": "Lam Tin",
           "tc": "藍田",
@@ -1531,7 +1531,7 @@
       },
       {
         "seq": 4,
-        "stopId": "KWT",
+        "stop_id": "KWT",
         "name": {
           "en": "Kwun Tong",
           "tc": "觀塘",
@@ -1542,7 +1542,7 @@
       },
       {
         "seq": 5,
-        "stopId": "NTK",
+        "stop_id": "NTK",
         "name": {
           "en": "Ngau Tau Kok",
           "tc": "牛頭角",
@@ -1553,7 +1553,7 @@
       },
       {
         "seq": 6,
-        "stopId": "KOB",
+        "stop_id": "KOB",
         "name": {
           "en": "Kowloon Bay",
           "tc": "九龍灣",
@@ -1564,7 +1564,7 @@
       },
       {
         "seq": 7,
-        "stopId": "CHH",
+        "stop_id": "CHH",
         "name": {
           "en": "Choi Hung",
           "tc": "彩虹",
@@ -1575,7 +1575,7 @@
       },
       {
         "seq": 8,
-        "stopId": "DIH",
+        "stop_id": "DIH",
         "name": {
           "en": "Diamond Hill",
           "tc": "鑽石山",
@@ -1586,7 +1586,7 @@
       },
       {
         "seq": 9,
-        "stopId": "WTS",
+        "stop_id": "WTS",
         "name": {
           "en": "Wong Tai Sin",
           "tc": "黃大仙",
@@ -1597,7 +1597,7 @@
       },
       {
         "seq": 10,
-        "stopId": "LOF",
+        "stop_id": "LOF",
         "name": {
           "en": "Lok Fu",
           "tc": "樂富",
@@ -1608,7 +1608,7 @@
       },
       {
         "seq": 11,
-        "stopId": "KOT",
+        "stop_id": "KOT",
         "name": {
           "en": "Kowloon Tong",
           "tc": "九龍塘",
@@ -1619,7 +1619,7 @@
       },
       {
         "seq": 12,
-        "stopId": "SKM",
+        "stop_id": "SKM",
         "name": {
           "en": "Shek Kip Mei",
           "tc": "石硤尾",
@@ -1630,7 +1630,7 @@
       },
       {
         "seq": 13,
-        "stopId": "PRE",
+        "stop_id": "PRE",
         "name": {
           "en": "Prince Edward",
           "tc": "太子",
@@ -1641,7 +1641,7 @@
       },
       {
         "seq": 14,
-        "stopId": "MOK",
+        "stop_id": "MOK",
         "name": {
           "en": "Mong Kok",
           "tc": "旺角",
@@ -1652,7 +1652,7 @@
       },
       {
         "seq": 15,
-        "stopId": "YMT",
+        "stop_id": "YMT",
         "name": {
           "en": "Yau Ma Tei",
           "tc": "油麻地",
@@ -1663,7 +1663,7 @@
       },
       {
         "seq": 16,
-        "stopId": "HOM",
+        "stop_id": "HOM",
         "name": {
           "en": "Ho Man Tin",
           "tc": "何文田",
@@ -1674,7 +1674,7 @@
       },
       {
         "seq": 17,
-        "stopId": "WHA",
+        "stop_id": "WHA",
         "name": {
           "en": "Whampoa",
           "tc": "黃埔",
@@ -1695,11 +1695,11 @@
       "sc": "南港島線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -1710,7 +1710,7 @@
       },
       {
         "seq": 2,
-        "stopId": "OCP",
+        "stop_id": "OCP",
         "name": {
           "en": "Ocean Park",
           "tc": "海洋公園",
@@ -1721,7 +1721,7 @@
       },
       {
         "seq": 3,
-        "stopId": "WCH",
+        "stop_id": "WCH",
         "name": {
           "en": "Wong Chuk Hang",
           "tc": "黃竹坑",
@@ -1732,7 +1732,7 @@
       },
       {
         "seq": 4,
-        "stopId": "LET",
+        "stop_id": "LET",
         "name": {
           "en": "Lei Tung",
           "tc": "利東",
@@ -1743,7 +1743,7 @@
       },
       {
         "seq": 5,
-        "stopId": "SOH",
+        "stop_id": "SOH",
         "name": {
           "en": "South Horizons",
           "tc": "海怡半島",
@@ -1764,11 +1764,11 @@
       "sc": "南港島線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "SOH",
+        "stop_id": "SOH",
         "name": {
           "en": "South Horizons",
           "tc": "海怡半島",
@@ -1779,7 +1779,7 @@
       },
       {
         "seq": 2,
-        "stopId": "LET",
+        "stop_id": "LET",
         "name": {
           "en": "Lei Tung",
           "tc": "利東",
@@ -1790,7 +1790,7 @@
       },
       {
         "seq": 3,
-        "stopId": "WCH",
+        "stop_id": "WCH",
         "name": {
           "en": "Wong Chuk Hang",
           "tc": "黃竹坑",
@@ -1801,7 +1801,7 @@
       },
       {
         "seq": 4,
-        "stopId": "OCP",
+        "stop_id": "OCP",
         "name": {
           "en": "Ocean Park",
           "tc": "海洋公園",
@@ -1812,7 +1812,7 @@
       },
       {
         "seq": 5,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -1833,11 +1833,11 @@
       "sc": "東涌線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "HOK",
+        "stop_id": "HOK",
         "name": {
           "en": "Hong Kong",
           "tc": "香港",
@@ -1848,7 +1848,7 @@
       },
       {
         "seq": 2,
-        "stopId": "KOW",
+        "stop_id": "KOW",
         "name": {
           "en": "Kowloon",
           "tc": "九龍",
@@ -1859,7 +1859,7 @@
       },
       {
         "seq": 3,
-        "stopId": "OLY",
+        "stop_id": "OLY",
         "name": {
           "en": "Olympic",
           "tc": "奧運",
@@ -1870,7 +1870,7 @@
       },
       {
         "seq": 4,
-        "stopId": "NAC",
+        "stop_id": "NAC",
         "name": {
           "en": "Nam Cheong",
           "tc": "南昌",
@@ -1881,7 +1881,7 @@
       },
       {
         "seq": 5,
-        "stopId": "LAK",
+        "stop_id": "LAK",
         "name": {
           "en": "Lai King",
           "tc": "茘景",
@@ -1892,7 +1892,7 @@
       },
       {
         "seq": 6,
-        "stopId": "TSY",
+        "stop_id": "TSY",
         "name": {
           "en": "Tsing Yi",
           "tc": "青衣",
@@ -1903,7 +1903,7 @@
       },
       {
         "seq": 7,
-        "stopId": "SUN",
+        "stop_id": "SUN",
         "name": {
           "en": "Sunny Bay",
           "tc": "欣澳",
@@ -1914,7 +1914,7 @@
       },
       {
         "seq": 8,
-        "stopId": "TUC",
+        "stop_id": "TUC",
         "name": {
           "en": "Tung Chung",
           "tc": "東涌",
@@ -1935,11 +1935,11 @@
       "sc": "東涌線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "TUC",
+        "stop_id": "TUC",
         "name": {
           "en": "Tung Chung",
           "tc": "東涌",
@@ -1950,7 +1950,7 @@
       },
       {
         "seq": 2,
-        "stopId": "SUN",
+        "stop_id": "SUN",
         "name": {
           "en": "Sunny Bay",
           "tc": "欣澳",
@@ -1961,7 +1961,7 @@
       },
       {
         "seq": 3,
-        "stopId": "TSY",
+        "stop_id": "TSY",
         "name": {
           "en": "Tsing Yi",
           "tc": "青衣",
@@ -1972,7 +1972,7 @@
       },
       {
         "seq": 4,
-        "stopId": "LAK",
+        "stop_id": "LAK",
         "name": {
           "en": "Lai King",
           "tc": "茘景",
@@ -1983,7 +1983,7 @@
       },
       {
         "seq": 5,
-        "stopId": "NAC",
+        "stop_id": "NAC",
         "name": {
           "en": "Nam Cheong",
           "tc": "南昌",
@@ -1994,7 +1994,7 @@
       },
       {
         "seq": 6,
-        "stopId": "OLY",
+        "stop_id": "OLY",
         "name": {
           "en": "Olympic",
           "tc": "奧運",
@@ -2005,7 +2005,7 @@
       },
       {
         "seq": 7,
-        "stopId": "KOW",
+        "stop_id": "KOW",
         "name": {
           "en": "Kowloon",
           "tc": "九龍",
@@ -2016,7 +2016,7 @@
       },
       {
         "seq": 8,
-        "stopId": "HOK",
+        "stop_id": "HOK",
         "name": {
           "en": "Hong Kong",
           "tc": "香港",
@@ -2037,11 +2037,11 @@
       "sc": "將軍澳線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "NOP",
+        "stop_id": "NOP",
         "name": {
           "en": "North Point",
           "tc": "北角",
@@ -2052,7 +2052,7 @@
       },
       {
         "seq": 2,
-        "stopId": "QUB",
+        "stop_id": "QUB",
         "name": {
           "en": "Quarry Bay",
           "tc": "鰂魚涌",
@@ -2063,7 +2063,7 @@
       },
       {
         "seq": 3,
-        "stopId": "YAT",
+        "stop_id": "YAT",
         "name": {
           "en": "Yau Tong",
           "tc": "油塘",
@@ -2074,7 +2074,7 @@
       },
       {
         "seq": 4,
-        "stopId": "TIK",
+        "stop_id": "TIK",
         "name": {
           "en": "Tiu Keng Leng",
           "tc": "調景嶺",
@@ -2085,7 +2085,7 @@
       },
       {
         "seq": 5,
-        "stopId": "TKO",
+        "stop_id": "TKO",
         "name": {
           "en": "Tseung Kwan O",
           "tc": "將軍澳",
@@ -2096,7 +2096,7 @@
       },
       {
         "seq": 6,
-        "stopId": "HAH",
+        "stop_id": "HAH",
         "name": {
           "en": "Hang Hau",
           "tc": "坑口",
@@ -2107,7 +2107,7 @@
       },
       {
         "seq": 7,
-        "stopId": "POA",
+        "stop_id": "POA",
         "name": {
           "en": "Po Lam",
           "tc": "寶琳",
@@ -2128,11 +2128,11 @@
       "sc": "將軍澳線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "POA",
+        "stop_id": "POA",
         "name": {
           "en": "Po Lam",
           "tc": "寶琳",
@@ -2143,7 +2143,7 @@
       },
       {
         "seq": 2,
-        "stopId": "HAH",
+        "stop_id": "HAH",
         "name": {
           "en": "Hang Hau",
           "tc": "坑口",
@@ -2154,7 +2154,7 @@
       },
       {
         "seq": 3,
-        "stopId": "TKO",
+        "stop_id": "TKO",
         "name": {
           "en": "Tseung Kwan O",
           "tc": "將軍澳",
@@ -2165,7 +2165,7 @@
       },
       {
         "seq": 4,
-        "stopId": "TIK",
+        "stop_id": "TIK",
         "name": {
           "en": "Tiu Keng Leng",
           "tc": "調景嶺",
@@ -2176,7 +2176,7 @@
       },
       {
         "seq": 5,
-        "stopId": "YAT",
+        "stop_id": "YAT",
         "name": {
           "en": "Yau Tong",
           "tc": "油塘",
@@ -2187,7 +2187,7 @@
       },
       {
         "seq": 6,
-        "stopId": "QUB",
+        "stop_id": "QUB",
         "name": {
           "en": "Quarry Bay",
           "tc": "鰂魚涌",
@@ -2198,7 +2198,7 @@
       },
       {
         "seq": 7,
-        "stopId": "NOP",
+        "stop_id": "NOP",
         "name": {
           "en": "North Point",
           "tc": "北角",
@@ -2219,11 +2219,11 @@
       "sc": "將軍澳線 康城"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "TIK",
+        "stop_id": "TIK",
         "name": {
           "en": "Tiu Keng Leng",
           "tc": "調景嶺",
@@ -2234,7 +2234,7 @@
       },
       {
         "seq": 2,
-        "stopId": "TKO",
+        "stop_id": "TKO",
         "name": {
           "en": "Tseung Kwan O",
           "tc": "將軍澳",
@@ -2245,7 +2245,7 @@
       },
       {
         "seq": 3,
-        "stopId": "LHP",
+        "stop_id": "LHP",
         "name": {
           "en": "LOHAS Park",
           "tc": "康城",
@@ -2266,11 +2266,11 @@
       "sc": "將軍澳線 康城"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "LHP",
+        "stop_id": "LHP",
         "name": {
           "en": "LOHAS Park",
           "tc": "康城",
@@ -2281,7 +2281,7 @@
       },
       {
         "seq": 2,
-        "stopId": "TKO",
+        "stop_id": "TKO",
         "name": {
           "en": "Tseung Kwan O",
           "tc": "將軍澳",
@@ -2292,7 +2292,7 @@
       },
       {
         "seq": 3,
-        "stopId": "TIK",
+        "stop_id": "TIK",
         "name": {
           "en": "Tiu Keng Leng",
           "tc": "調景嶺",
@@ -2313,11 +2313,11 @@
       "sc": "屯馬線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "WKS",
+        "stop_id": "WKS",
         "name": {
           "en": "Wu Kai Sha",
           "tc": "烏溪沙",
@@ -2328,7 +2328,7 @@
       },
       {
         "seq": 2,
-        "stopId": "MOS",
+        "stop_id": "MOS",
         "name": {
           "en": "Ma On Shan",
           "tc": "馬鞍山",
@@ -2339,7 +2339,7 @@
       },
       {
         "seq": 3,
-        "stopId": "HEO",
+        "stop_id": "HEO",
         "name": {
           "en": "Heng On",
           "tc": "恆安",
@@ -2350,7 +2350,7 @@
       },
       {
         "seq": 4,
-        "stopId": "TSH",
+        "stop_id": "TSH",
         "name": {
           "en": "Tai Shui Hang",
           "tc": "大水坑",
@@ -2361,7 +2361,7 @@
       },
       {
         "seq": 5,
-        "stopId": "SHM",
+        "stop_id": "SHM",
         "name": {
           "en": "Shek Mun",
           "tc": "石門",
@@ -2372,7 +2372,7 @@
       },
       {
         "seq": 6,
-        "stopId": "CIO",
+        "stop_id": "CIO",
         "name": {
           "en": "City One",
           "tc": "第一城",
@@ -2383,7 +2383,7 @@
       },
       {
         "seq": 7,
-        "stopId": "STW",
+        "stop_id": "STW",
         "name": {
           "en": "Sha Tin Wai",
           "tc": "沙田圍",
@@ -2394,7 +2394,7 @@
       },
       {
         "seq": 8,
-        "stopId": "CKT",
+        "stop_id": "CKT",
         "name": {
           "en": "Che Kung Temple",
           "tc": "車公廟",
@@ -2405,7 +2405,7 @@
       },
       {
         "seq": 9,
-        "stopId": "TAW",
+        "stop_id": "TAW",
         "name": {
           "en": "Tai Wai",
           "tc": "大圍",
@@ -2416,7 +2416,7 @@
       },
       {
         "seq": 10,
-        "stopId": "HIK",
+        "stop_id": "HIK",
         "name": {
           "en": "Hin Keng",
           "tc": "顯徑",
@@ -2427,7 +2427,7 @@
       },
       {
         "seq": 11,
-        "stopId": "DIH",
+        "stop_id": "DIH",
         "name": {
           "en": "Diamond Hill",
           "tc": "鑽石山",
@@ -2438,7 +2438,7 @@
       },
       {
         "seq": 12,
-        "stopId": "KAT",
+        "stop_id": "KAT",
         "name": {
           "en": "Kai Tak",
           "tc": "啟德",
@@ -2449,7 +2449,7 @@
       },
       {
         "seq": 13,
-        "stopId": "SUW",
+        "stop_id": "SUW",
         "name": {
           "en": "Sung Wong Toi",
           "tc": "宋皇臺",
@@ -2460,7 +2460,7 @@
       },
       {
         "seq": 14,
-        "stopId": "TKW",
+        "stop_id": "TKW",
         "name": {
           "en": "To Kwa Wan",
           "tc": "土瓜灣",
@@ -2471,7 +2471,7 @@
       },
       {
         "seq": 15,
-        "stopId": "HOM",
+        "stop_id": "HOM",
         "name": {
           "en": "Ho Man Tin",
           "tc": "何文田",
@@ -2482,7 +2482,7 @@
       },
       {
         "seq": 16,
-        "stopId": "HUH",
+        "stop_id": "HUH",
         "name": {
           "en": "Hung Hom",
           "tc": "紅磡",
@@ -2493,7 +2493,7 @@
       },
       {
         "seq": 17,
-        "stopId": "ETS",
+        "stop_id": "ETS",
         "name": {
           "en": "East Tsim Sha Tsui",
           "tc": "尖東",
@@ -2504,7 +2504,7 @@
       },
       {
         "seq": 18,
-        "stopId": "AUS",
+        "stop_id": "AUS",
         "name": {
           "en": "Austin",
           "tc": "柯士甸",
@@ -2515,7 +2515,7 @@
       },
       {
         "seq": 19,
-        "stopId": "NAC",
+        "stop_id": "NAC",
         "name": {
           "en": "Nam Cheong",
           "tc": "南昌",
@@ -2526,7 +2526,7 @@
       },
       {
         "seq": 20,
-        "stopId": "MEF",
+        "stop_id": "MEF",
         "name": {
           "en": "Mei Foo",
           "tc": "美孚",
@@ -2537,7 +2537,7 @@
       },
       {
         "seq": 21,
-        "stopId": "TWW",
+        "stop_id": "TWW",
         "name": {
           "en": "Tsuen Wan West",
           "tc": "荃灣西",
@@ -2548,7 +2548,7 @@
       },
       {
         "seq": 22,
-        "stopId": "KSR",
+        "stop_id": "KSR",
         "name": {
           "en": "Kam Sheung Road",
           "tc": "錦上路",
@@ -2559,7 +2559,7 @@
       },
       {
         "seq": 23,
-        "stopId": "YUL",
+        "stop_id": "YUL",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -2570,7 +2570,7 @@
       },
       {
         "seq": 24,
-        "stopId": "LOP",
+        "stop_id": "LOP",
         "name": {
           "en": "Long Ping",
           "tc": "朗屏",
@@ -2581,7 +2581,7 @@
       },
       {
         "seq": 25,
-        "stopId": "TIS",
+        "stop_id": "TIS",
         "name": {
           "en": "Tin Shui Wai",
           "tc": "天水圍",
@@ -2592,7 +2592,7 @@
       },
       {
         "seq": 26,
-        "stopId": "SIH",
+        "stop_id": "SIH",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -2603,7 +2603,7 @@
       },
       {
         "seq": 27,
-        "stopId": "TUM",
+        "stop_id": "TUM",
         "name": {
           "en": "Tuen Mun",
           "tc": "屯門",
@@ -2624,11 +2624,11 @@
       "sc": "屯馬線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "TUM",
+        "stop_id": "TUM",
         "name": {
           "en": "Tuen Mun",
           "tc": "屯門",
@@ -2639,7 +2639,7 @@
       },
       {
         "seq": 2,
-        "stopId": "SIH",
+        "stop_id": "SIH",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -2650,7 +2650,7 @@
       },
       {
         "seq": 3,
-        "stopId": "TIS",
+        "stop_id": "TIS",
         "name": {
           "en": "Tin Shui Wai",
           "tc": "天水圍",
@@ -2661,7 +2661,7 @@
       },
       {
         "seq": 4,
-        "stopId": "LOP",
+        "stop_id": "LOP",
         "name": {
           "en": "Long Ping",
           "tc": "朗屏",
@@ -2672,7 +2672,7 @@
       },
       {
         "seq": 5,
-        "stopId": "YUL",
+        "stop_id": "YUL",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -2683,7 +2683,7 @@
       },
       {
         "seq": 6,
-        "stopId": "KSR",
+        "stop_id": "KSR",
         "name": {
           "en": "Kam Sheung Road",
           "tc": "錦上路",
@@ -2694,7 +2694,7 @@
       },
       {
         "seq": 7,
-        "stopId": "TWW",
+        "stop_id": "TWW",
         "name": {
           "en": "Tsuen Wan West",
           "tc": "荃灣西",
@@ -2705,7 +2705,7 @@
       },
       {
         "seq": 8,
-        "stopId": "MEF",
+        "stop_id": "MEF",
         "name": {
           "en": "Mei Foo",
           "tc": "美孚",
@@ -2716,7 +2716,7 @@
       },
       {
         "seq": 9,
-        "stopId": "NAC",
+        "stop_id": "NAC",
         "name": {
           "en": "Nam Cheong",
           "tc": "南昌",
@@ -2727,7 +2727,7 @@
       },
       {
         "seq": 10,
-        "stopId": "AUS",
+        "stop_id": "AUS",
         "name": {
           "en": "Austin",
           "tc": "柯士甸",
@@ -2738,7 +2738,7 @@
       },
       {
         "seq": 11,
-        "stopId": "ETS",
+        "stop_id": "ETS",
         "name": {
           "en": "East Tsim Sha Tsui",
           "tc": "尖東",
@@ -2749,7 +2749,7 @@
       },
       {
         "seq": 12,
-        "stopId": "HUH",
+        "stop_id": "HUH",
         "name": {
           "en": "Hung Hom",
           "tc": "紅磡",
@@ -2760,7 +2760,7 @@
       },
       {
         "seq": 13,
-        "stopId": "HOM",
+        "stop_id": "HOM",
         "name": {
           "en": "Ho Man Tin",
           "tc": "何文田",
@@ -2771,7 +2771,7 @@
       },
       {
         "seq": 14,
-        "stopId": "TKW",
+        "stop_id": "TKW",
         "name": {
           "en": "To Kwa Wan",
           "tc": "土瓜灣",
@@ -2782,7 +2782,7 @@
       },
       {
         "seq": 15,
-        "stopId": "SUW",
+        "stop_id": "SUW",
         "name": {
           "en": "Sung Wong Toi",
           "tc": "宋皇臺",
@@ -2793,7 +2793,7 @@
       },
       {
         "seq": 16,
-        "stopId": "KAT",
+        "stop_id": "KAT",
         "name": {
           "en": "Kai Tak",
           "tc": "啟德",
@@ -2804,7 +2804,7 @@
       },
       {
         "seq": 17,
-        "stopId": "DIH",
+        "stop_id": "DIH",
         "name": {
           "en": "Diamond Hill",
           "tc": "鑽石山",
@@ -2815,7 +2815,7 @@
       },
       {
         "seq": 18,
-        "stopId": "HIK",
+        "stop_id": "HIK",
         "name": {
           "en": "Hin Keng",
           "tc": "顯徑",
@@ -2826,7 +2826,7 @@
       },
       {
         "seq": 19,
-        "stopId": "TAW",
+        "stop_id": "TAW",
         "name": {
           "en": "Tai Wai",
           "tc": "大圍",
@@ -2837,7 +2837,7 @@
       },
       {
         "seq": 20,
-        "stopId": "CKT",
+        "stop_id": "CKT",
         "name": {
           "en": "Che Kung Temple",
           "tc": "車公廟",
@@ -2848,7 +2848,7 @@
       },
       {
         "seq": 21,
-        "stopId": "STW",
+        "stop_id": "STW",
         "name": {
           "en": "Sha Tin Wai",
           "tc": "沙田圍",
@@ -2859,7 +2859,7 @@
       },
       {
         "seq": 22,
-        "stopId": "CIO",
+        "stop_id": "CIO",
         "name": {
           "en": "City One",
           "tc": "第一城",
@@ -2870,7 +2870,7 @@
       },
       {
         "seq": 23,
-        "stopId": "SHM",
+        "stop_id": "SHM",
         "name": {
           "en": "Shek Mun",
           "tc": "石門",
@@ -2881,7 +2881,7 @@
       },
       {
         "seq": 24,
-        "stopId": "TSH",
+        "stop_id": "TSH",
         "name": {
           "en": "Tai Shui Hang",
           "tc": "大水坑",
@@ -2892,7 +2892,7 @@
       },
       {
         "seq": 25,
-        "stopId": "HEO",
+        "stop_id": "HEO",
         "name": {
           "en": "Heng On",
           "tc": "恆安",
@@ -2903,7 +2903,7 @@
       },
       {
         "seq": 26,
-        "stopId": "MOS",
+        "stop_id": "MOS",
         "name": {
           "en": "Ma On Shan",
           "tc": "馬鞍山",
@@ -2914,7 +2914,7 @@
       },
       {
         "seq": 27,
-        "stopId": "WKS",
+        "stop_id": "WKS",
         "name": {
           "en": "Wu Kai Sha",
           "tc": "烏溪沙",
@@ -2935,11 +2935,11 @@
       "sc": "荃灣線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "CEN",
+        "stop_id": "CEN",
         "name": {
           "en": "Central",
           "tc": "中環",
@@ -2950,7 +2950,7 @@
       },
       {
         "seq": 2,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -2961,7 +2961,7 @@
       },
       {
         "seq": 3,
-        "stopId": "TST",
+        "stop_id": "TST",
         "name": {
           "en": "Tsim Sha Tsui",
           "tc": "尖沙咀",
@@ -2972,7 +2972,7 @@
       },
       {
         "seq": 4,
-        "stopId": "JOR",
+        "stop_id": "JOR",
         "name": {
           "en": "Jordan",
           "tc": "佐敦",
@@ -2983,7 +2983,7 @@
       },
       {
         "seq": 5,
-        "stopId": "YMT",
+        "stop_id": "YMT",
         "name": {
           "en": "Yau Ma Tei",
           "tc": "油麻地",
@@ -2994,7 +2994,7 @@
       },
       {
         "seq": 6,
-        "stopId": "MOK",
+        "stop_id": "MOK",
         "name": {
           "en": "Mong Kok",
           "tc": "旺角",
@@ -3005,7 +3005,7 @@
       },
       {
         "seq": 7,
-        "stopId": "PRE",
+        "stop_id": "PRE",
         "name": {
           "en": "Prince Edward",
           "tc": "太子",
@@ -3016,7 +3016,7 @@
       },
       {
         "seq": 8,
-        "stopId": "SSP",
+        "stop_id": "SSP",
         "name": {
           "en": "Sham Shui Po",
           "tc": "深水埗",
@@ -3027,7 +3027,7 @@
       },
       {
         "seq": 9,
-        "stopId": "CSW",
+        "stop_id": "CSW",
         "name": {
           "en": "Cheung Sha Wan",
           "tc": "長沙灣",
@@ -3038,7 +3038,7 @@
       },
       {
         "seq": 10,
-        "stopId": "LCK",
+        "stop_id": "LCK",
         "name": {
           "en": "Lai Chi Kok",
           "tc": "茘枝角",
@@ -3049,7 +3049,7 @@
       },
       {
         "seq": 11,
-        "stopId": "MEF",
+        "stop_id": "MEF",
         "name": {
           "en": "Mei Foo",
           "tc": "美孚",
@@ -3060,7 +3060,7 @@
       },
       {
         "seq": 12,
-        "stopId": "LAK",
+        "stop_id": "LAK",
         "name": {
           "en": "Lai King",
           "tc": "茘景",
@@ -3071,7 +3071,7 @@
       },
       {
         "seq": 13,
-        "stopId": "KWF",
+        "stop_id": "KWF",
         "name": {
           "en": "Kwai Fong",
           "tc": "葵芳",
@@ -3082,7 +3082,7 @@
       },
       {
         "seq": 14,
-        "stopId": "KWH",
+        "stop_id": "KWH",
         "name": {
           "en": "Kwai Hing",
           "tc": "葵興",
@@ -3093,7 +3093,7 @@
       },
       {
         "seq": 15,
-        "stopId": "TWH",
+        "stop_id": "TWH",
         "name": {
           "en": "Tai Wo Hau",
           "tc": "大窩口",
@@ -3104,7 +3104,7 @@
       },
       {
         "seq": 16,
-        "stopId": "TSW",
+        "stop_id": "TSW",
         "name": {
           "en": "Tsuen Wan",
           "tc": "荃灣",
@@ -3125,11 +3125,11 @@
       "sc": "荃灣線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "TSW",
+        "stop_id": "TSW",
         "name": {
           "en": "Tsuen Wan",
           "tc": "荃灣",
@@ -3140,7 +3140,7 @@
       },
       {
         "seq": 2,
-        "stopId": "TWH",
+        "stop_id": "TWH",
         "name": {
           "en": "Tai Wo Hau",
           "tc": "大窩口",
@@ -3151,7 +3151,7 @@
       },
       {
         "seq": 3,
-        "stopId": "KWH",
+        "stop_id": "KWH",
         "name": {
           "en": "Kwai Hing",
           "tc": "葵興",
@@ -3162,7 +3162,7 @@
       },
       {
         "seq": 4,
-        "stopId": "KWF",
+        "stop_id": "KWF",
         "name": {
           "en": "Kwai Fong",
           "tc": "葵芳",
@@ -3173,7 +3173,7 @@
       },
       {
         "seq": 5,
-        "stopId": "LAK",
+        "stop_id": "LAK",
         "name": {
           "en": "Lai King",
           "tc": "茘景",
@@ -3184,7 +3184,7 @@
       },
       {
         "seq": 6,
-        "stopId": "MEF",
+        "stop_id": "MEF",
         "name": {
           "en": "Mei Foo",
           "tc": "美孚",
@@ -3195,7 +3195,7 @@
       },
       {
         "seq": 7,
-        "stopId": "LCK",
+        "stop_id": "LCK",
         "name": {
           "en": "Lai Chi Kok",
           "tc": "茘枝角",
@@ -3206,7 +3206,7 @@
       },
       {
         "seq": 8,
-        "stopId": "CSW",
+        "stop_id": "CSW",
         "name": {
           "en": "Cheung Sha Wan",
           "tc": "長沙灣",
@@ -3217,7 +3217,7 @@
       },
       {
         "seq": 9,
-        "stopId": "SSP",
+        "stop_id": "SSP",
         "name": {
           "en": "Sham Shui Po",
           "tc": "深水埗",
@@ -3228,7 +3228,7 @@
       },
       {
         "seq": 10,
-        "stopId": "PRE",
+        "stop_id": "PRE",
         "name": {
           "en": "Prince Edward",
           "tc": "太子",
@@ -3239,7 +3239,7 @@
       },
       {
         "seq": 11,
-        "stopId": "MOK",
+        "stop_id": "MOK",
         "name": {
           "en": "Mong Kok",
           "tc": "旺角",
@@ -3250,7 +3250,7 @@
       },
       {
         "seq": 12,
-        "stopId": "YMT",
+        "stop_id": "YMT",
         "name": {
           "en": "Yau Ma Tei",
           "tc": "油麻地",
@@ -3261,7 +3261,7 @@
       },
       {
         "seq": 13,
-        "stopId": "JOR",
+        "stop_id": "JOR",
         "name": {
           "en": "Jordan",
           "tc": "佐敦",
@@ -3272,7 +3272,7 @@
       },
       {
         "seq": 14,
-        "stopId": "TST",
+        "stop_id": "TST",
         "name": {
           "en": "Tsim Sha Tsui",
           "tc": "尖沙咀",
@@ -3283,7 +3283,7 @@
       },
       {
         "seq": 15,
-        "stopId": "ADM",
+        "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
           "tc": "金鐘",
@@ -3294,7 +3294,7 @@
       },
       {
         "seq": 16,
-        "stopId": "CEN",
+        "stop_id": "CEN",
         "name": {
           "en": "Central",
           "tc": "中環",

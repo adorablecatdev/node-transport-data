@@ -9,7 +9,7 @@
       "sc": "機場快線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hong Kong",
       "tc": "香港",
@@ -31,7 +31,7 @@
       "sc": "機場快線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "AsiaWorld-Expo",
       "tc": "博覽館",
@@ -53,7 +53,7 @@
       "sc": "迪士尼線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Disneyland Resort",
       "tc": "迪士尼",
@@ -75,7 +75,7 @@
       "sc": "迪士尼線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Sunny Bay",
       "tc": "欣澳",
@@ -97,7 +97,7 @@
       "sc": "東鐵線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty",
       "tc": "金鐘",
@@ -119,7 +119,7 @@
       "sc": "東鐵線 落馬洲"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty",
       "tc": "金鐘",
@@ -141,7 +141,7 @@
       "sc": "東鐵線 落馬洲"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lok Ma Chau",
       "tc": "落馬洲",
@@ -163,7 +163,7 @@
       "sc": "東鐵線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Lo Wu",
       "tc": "羅湖",
@@ -185,7 +185,7 @@
       "sc": "港島線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
@@ -207,7 +207,7 @@
       "sc": "港島線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Chai Wan",
       "tc": "柴灣",
@@ -229,7 +229,7 @@
       "sc": "觀塘線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Whampoa",
       "tc": "黃埔",
@@ -251,7 +251,7 @@
       "sc": "觀塘線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tiu Keng Leng",
       "tc": "調景嶺",
@@ -273,7 +273,7 @@
       "sc": "南港島線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Admiralty",
       "tc": "金鐘",
@@ -295,7 +295,7 @@
       "sc": "南港島線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -317,7 +317,7 @@
       "sc": "東涌線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Hong Kong",
       "tc": "香港",
@@ -339,7 +339,7 @@
       "sc": "東涌線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tung Chung",
       "tc": "東涌",
@@ -361,7 +361,7 @@
       "sc": "將軍澳線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "North Point",
       "tc": "北角",
@@ -383,7 +383,7 @@
       "sc": "將軍澳線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Po Lam",
       "tc": "寶琳",
@@ -405,7 +405,7 @@
       "sc": "將軍澳線 康城"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tiu Keng Leng",
       "tc": "調景嶺",
@@ -427,7 +427,7 @@
       "sc": "將軍澳線 康城"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "LOHAS Park",
       "tc": "康城",
@@ -449,7 +449,7 @@
       "sc": "屯馬線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Wu Kai Sha",
       "tc": "烏溪沙",
@@ -471,7 +471,7 @@
       "sc": "屯馬線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tuen Mun",
       "tc": "屯門",
@@ -493,7 +493,7 @@
       "sc": "荃灣線"
     },
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Central",
       "tc": "中環",
@@ -515,7 +515,7 @@
       "sc": "荃灣線"
     },
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "origin": {
       "en": "Tsuen Wan",
       "tc": "荃灣",

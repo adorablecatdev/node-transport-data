@@ -5,11 +5,11 @@
     "route_id": "506-1",
     "route": "506",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "506-U045",
+        "stop_id": "506-U045",
         "name": {
           "en": "Glorious Garden",
           "tc": "富健花園",
@@ -20,7 +20,7 @@
       },
       {
         "seq": 2,
-        "stopId": "506-U050",
+        "stop_id": "506-U050",
         "name": {
           "en": "LR Lung Mun Stop",
           "tc": "輕鐵龍門站",
@@ -31,7 +31,7 @@
       },
       {
         "seq": 3,
-        "stopId": "506-U060",
+        "stop_id": "506-U060",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -42,7 +42,7 @@
       },
       {
         "seq": 4,
-        "stopId": "506-U070",
+        "stop_id": "506-U070",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -53,7 +53,7 @@
       },
       {
         "seq": 5,
-        "stopId": "506-U075",
+        "stop_id": "506-U075",
         "name": {
           "en": "Tuen Mun Station ",
           "tc": "屯門站 ",
@@ -70,11 +70,11 @@
     "route_id": "506",
     "route": "506",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "506-D010",
+        "stop_id": "506-D010",
         "name": {
           "en": "Siu Lun",
           "tc": "兆麟",
@@ -85,7 +85,7 @@
       },
       {
         "seq": 2,
-        "stopId": "506-D020",
+        "stop_id": "506-D020",
         "name": {
           "en": "Yau Oi Estate",
           "tc": "友愛邨",
@@ -96,7 +96,7 @@
       },
       {
         "seq": 3,
-        "stopId": "506-D030",
+        "stop_id": "506-D030",
         "name": {
           "en": "LR Town Centre Stop",
           "tc": "輕鐵市中心站",
@@ -107,7 +107,7 @@
       },
       {
         "seq": 4,
-        "stopId": "506-D040",
+        "stop_id": "506-D040",
         "name": {
           "en": "LR Tuen Mun Stop",
           "tc": "輕鐵屯門站",
@@ -118,7 +118,7 @@
       },
       {
         "seq": 5,
-        "stopId": "506-D050",
+        "stop_id": "506-D050",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -129,7 +129,7 @@
       },
       {
         "seq": 6,
-        "stopId": "506-D060",
+        "stop_id": "506-D060",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -140,7 +140,7 @@
       },
       {
         "seq": 7,
-        "stopId": "506-D070",
+        "stop_id": "506-D070",
         "name": {
           "en": "SKH St. Peter's Church",
           "tc": "聖彼得堂",
@@ -151,7 +151,7 @@
       },
       {
         "seq": 8,
-        "stopId": "506-D080",
+        "stop_id": "506-D080",
         "name": {
           "en": "Glorious Garden",
           "tc": "富健花園",
@@ -162,7 +162,7 @@
       },
       {
         "seq": 9,
-        "stopId": "506-D090",
+        "stop_id": "506-D090",
         "name": {
           "en": "Sun Tuen Mun Centre",
           "tc": "新屯門中心",
@@ -173,7 +173,7 @@
       },
       {
         "seq": 10,
-        "stopId": "506-D100",
+        "stop_id": "506-D100",
         "name": {
           "en": "LR Butterfly Stop",
           "tc": "輕鐵蝴蝶站",
@@ -184,7 +184,7 @@
       },
       {
         "seq": 11,
-        "stopId": "506-D110",
+        "stop_id": "506-D110",
         "name": {
           "en": "Tip Sum House, Butterfly Estate",
           "tc": "蝴蝶邨蝶心樓",
@@ -195,7 +195,7 @@
       },
       {
         "seq": 12,
-        "stopId": "506-D120",
+        "stop_id": "506-D120",
         "name": {
           "en": "Wu Pik House, Wu King Estate",
           "tc": "湖景邨湖碧樓",
@@ -206,7 +206,7 @@
       },
       {
         "seq": 13,
-        "stopId": "506-D130",
+        "stop_id": "506-D130",
         "name": {
           "en": "Pierhead Garden",
           "tc": "海翠花園",
@@ -217,7 +217,7 @@
       },
       {
         "seq": 14,
-        "stopId": "506-D140",
+        "stop_id": "506-D140",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
@@ -234,11 +234,11 @@
     "route_id": "506",
     "route": "506",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "506-U010",
+        "stop_id": "506-U010",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
@@ -249,7 +249,7 @@
       },
       {
         "seq": 2,
-        "stopId": "506-U020",
+        "stop_id": "506-U020",
         "name": {
           "en": "Melody Garden",
           "tc": "美樂花園",
@@ -260,7 +260,7 @@
       },
       {
         "seq": 3,
-        "stopId": "506-U030",
+        "stop_id": "506-U030",
         "name": {
           "en": "LR Butterfly Stop",
           "tc": "輕鐵蝴蝶站",
@@ -271,7 +271,7 @@
       },
       {
         "seq": 4,
-        "stopId": "506-U040",
+        "stop_id": "506-U040",
         "name": {
           "en": "Light Rail Depot Stop",
           "tc": "輕鐵車廠站",
@@ -282,7 +282,7 @@
       },
       {
         "seq": 5,
-        "stopId": "506-U050",
+        "stop_id": "506-U050",
         "name": {
           "en": "LR Lung Mun Stop",
           "tc": "輕鐵龍門站",
@@ -293,7 +293,7 @@
       },
       {
         "seq": 6,
-        "stopId": "506-U060",
+        "stop_id": "506-U060",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -304,7 +304,7 @@
       },
       {
         "seq": 7,
-        "stopId": "506-U070",
+        "stop_id": "506-U070",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -315,7 +315,7 @@
       },
       {
         "seq": 8,
-        "stopId": "506-U080",
+        "stop_id": "506-U080",
         "name": {
           "en": "MTR Tuen Mun Station",
           "tc": "港鐵屯門站",
@@ -326,7 +326,7 @@
       },
       {
         "seq": 9,
-        "stopId": "506-U090",
+        "stop_id": "506-U090",
         "name": {
           "en": "Tuen Mun Town Centre",
           "tc": "屯門市中心",
@@ -337,7 +337,7 @@
       },
       {
         "seq": 10,
-        "stopId": "506-U100",
+        "stop_id": "506-U100",
         "name": {
           "en": "On Ting Estate",
           "tc": "安定邨",
@@ -348,7 +348,7 @@
       },
       {
         "seq": 11,
-        "stopId": "506-U110",
+        "stop_id": "506-U110",
         "name": {
           "en": "LR Sam Shing Stop",
           "tc": "輕鐵三聖站",
@@ -359,7 +359,7 @@
       },
       {
         "seq": 12,
-        "stopId": "506-U120",
+        "stop_id": "506-U120",
         "name": {
           "en": "Siu Lun",
           "tc": "兆麟",
@@ -376,11 +376,11 @@
     "route_id": "K12",
     "route": "K12",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K12-D010",
+        "stop_id": "K12-D010",
         "name": {
           "en": "Eightland Garden",
           "tc": "八號花園",
@@ -391,7 +391,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K12-D020",
+        "stop_id": "K12-D020",
         "name": {
           "en": "Tai Po Mega Mall",
           "tc": "大埔超級城",
@@ -402,7 +402,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K12-D030",
+        "stop_id": "K12-D030",
         "name": {
           "en": "Uptown Plaza",
           "tc": "新達廣場",
@@ -413,7 +413,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K12-D040",
+        "stop_id": "K12-D040",
         "name": {
           "en": "Tai Po Market Station",
           "tc": "大埔墟站",
@@ -430,11 +430,11 @@
     "route_id": "K12",
     "route": "K12",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K12-U010",
+        "stop_id": "K12-U010",
         "name": {
           "en": "Tai Po Market Station",
           "tc": "大埔墟站",
@@ -445,7 +445,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K12-U020",
+        "stop_id": "K12-U020",
         "name": {
           "en": "Tai Po Mega Mall",
           "tc": "大埔超級城",
@@ -456,7 +456,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K12-U030",
+        "stop_id": "K12-U030",
         "name": {
           "en": "Eightland Garden",
           "tc": "八號花園",
@@ -473,11 +473,11 @@
     "route_id": "K14",
     "route": "K14",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K14-D010",
+        "stop_id": "K14-D010",
         "name": {
           "en": "Tai Po Mega Mall",
           "tc": "大埔超級城",
@@ -488,7 +488,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K14-D020",
+        "stop_id": "K14-D020",
         "name": {
           "en": "Uptown Plaza",
           "tc": "新達廣場",
@@ -499,7 +499,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K14-D030",
+        "stop_id": "K14-D030",
         "name": {
           "en": "Tai Po Market Station",
           "tc": "大埔墟站",
@@ -516,11 +516,11 @@
     "route_id": "K17",
     "route": "K17",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K17-D010",
+        "stop_id": "K17-D010",
         "name": {
           "en": "Fu Shin",
           "tc": "富善",
@@ -531,7 +531,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K17-D020",
+        "stop_id": "K17-D020",
         "name": {
           "en": "Uptown Plaza",
           "tc": "新達廣場",
@@ -542,7 +542,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K17-D030",
+        "stop_id": "K17-D030",
         "name": {
           "en": "Tai Po Market Station",
           "tc": "大埔墟站",
@@ -559,11 +559,11 @@
     "route_id": "K17",
     "route": "K17",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K17-U010",
+        "stop_id": "K17-U010",
         "name": {
           "en": "Tai Po Market Station",
           "tc": "大埔墟站",
@@ -574,7 +574,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K17-U020",
+        "stop_id": "K17-U020",
         "name": {
           "en": "Tai Po Centre Phase 5",
           "tc": "大埔中心第五期",
@@ -585,7 +585,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K17-U030",
+        "stop_id": "K17-U030",
         "name": {
           "en": "Yee Nga Court",
           "tc": "怡雅苑",
@@ -596,7 +596,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K17-U040",
+        "stop_id": "K17-U040",
         "name": {
           "en": "Fu Shin",
           "tc": "富善",
@@ -613,11 +613,11 @@
     "route_id": "K18",
     "route": "K18",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K18-D010",
+        "stop_id": "K18-D010",
         "name": {
           "en": "Kwong Fuk",
           "tc": "廣福",
@@ -628,7 +628,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K18-D020",
+        "stop_id": "K18-D020",
         "name": {
           "en": "Uptown Plaza",
           "tc": "新達廣場",
@@ -639,7 +639,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K18-D030",
+        "stop_id": "K18-D030",
         "name": {
           "en": "Tai Po Market Station",
           "tc": "大埔墟站",
@@ -656,11 +656,11 @@
     "route_id": "K18",
     "route": "K18",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K18-U010",
+        "stop_id": "K18-U010",
         "name": {
           "en": "Tai Po Market Station",
           "tc": "大埔墟站",
@@ -671,7 +671,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K18-U020",
+        "stop_id": "K18-U020",
         "name": {
           "en": "Wang Fuk Court",
           "tc": "宏福苑",
@@ -682,7 +682,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K18-U030",
+        "stop_id": "K18-U030",
         "name": {
           "en": "Kwong Fuk",
           "tc": "廣福",
@@ -699,11 +699,11 @@
     "route_id": "K51-1",
     "route": "K51",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K51-U010",
+        "stop_id": "K51-U010",
         "name": {
           "en": "Fu Tai",
           "tc": "富泰",
@@ -714,7 +714,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K51-U020",
+        "stop_id": "K51-U020",
         "name": {
           "en": "Beneville",
           "tc": "聚康山莊",
@@ -725,7 +725,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K51-U030",
+        "stop_id": "K51-U030",
         "name": {
           "en": "Lingnan University",
           "tc": "嶺南大學",
@@ -736,7 +736,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K51-U040",
+        "stop_id": "K51-U040",
         "name": {
           "en": "Brilliant Garden",
           "tc": "彩暉花園",
@@ -747,7 +747,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K51-U050",
+        "stop_id": "K51-U050",
         "name": {
           "en": "MTR Siu Hong Station (South)",
           "tc": "港鐵兆康站 (南)",
@@ -764,11 +764,11 @@
     "route_id": "K51-2",
     "route": "K51",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K51-D250",
+        "stop_id": "K51-D250",
         "name": {
           "en": "MTR Siu Hong Station (South) ",
           "tc": "港鐵兆康站 (南) ",
@@ -779,7 +779,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K51-D260",
+        "stop_id": "K51-D260",
         "name": {
           "en": "Brilliant Garden",
           "tc": "彩暉花園",
@@ -790,7 +790,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K51-D270",
+        "stop_id": "K51-D270",
         "name": {
           "en": "Lingnan University",
           "tc": "嶺南大學",
@@ -801,7 +801,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K51-D280",
+        "stop_id": "K51-D280",
         "name": {
           "en": "South Hillcrest",
           "tc": "倚嶺南庭",
@@ -812,7 +812,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K51-D290",
+        "stop_id": "K51-D290",
         "name": {
           "en": "Fu Tai",
           "tc": "富泰",
@@ -829,11 +829,11 @@
     "route_id": "K51",
     "route": "K51",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K51-D010",
+        "stop_id": "K51-D010",
         "name": {
           "en": "Tai Lam",
           "tc": "大欖",
@@ -844,7 +844,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K51-D020",
+        "stop_id": "K51-D020",
         "name": {
           "en": "Siu Lam",
           "tc": "小欖",
@@ -855,7 +855,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K51-D030",
+        "stop_id": "K51-D030",
         "name": {
           "en": "Ching Lai Road Siu Lam",
           "tc": "小欖澄麗路",
@@ -866,7 +866,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K51-D040",
+        "stop_id": "K51-D040",
         "name": {
           "en": "Siu Lam Tsuen",
           "tc": "小欖村",
@@ -877,7 +877,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K51-D050",
+        "stop_id": "K51-D050",
         "name": {
           "en": "Siu Lam San Tsuen",
           "tc": "小欖新村",
@@ -888,7 +888,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K51-D060",
+        "stop_id": "K51-D060",
         "name": {
           "en": "The Aegean",
           "tc": "愛琴灣",
@@ -899,7 +899,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K51-D070",
+        "stop_id": "K51-D070",
         "name": {
           "en": "Siu Sau Sheung Tsuen",
           "tc": "小秀上村",
@@ -910,7 +910,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K51-D080",
+        "stop_id": "K51-D080",
         "name": {
           "en": "Pearl Island",
           "tc": "龍珠島",
@@ -921,7 +921,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K51-D090",
+        "stop_id": "K51-D090",
         "name": {
           "en": "Hong Kong Gold Coast",
           "tc": "香港黃金海岸",
@@ -932,7 +932,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K51-D100",
+        "stop_id": "K51-D100",
         "name": {
           "en": "Golden Beach",
           "tc": "黃金泳灘",
@@ -943,7 +943,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K51-D110",
+        "stop_id": "K51-D110",
         "name": {
           "en": "Cafeteria Beach",
           "tc": "咖啡灣",
@@ -954,7 +954,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K51-D120",
+        "stop_id": "K51-D120",
         "name": {
           "en": "Bayview Terrace",
           "tc": "碧翠花園",
@@ -965,7 +965,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K51-D130",
+        "stop_id": "K51-D130",
         "name": {
           "en": "Castle Peak Bay Pier",
           "tc": "青山灣碼頭",
@@ -976,7 +976,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K51-D140",
+        "stop_id": "K51-D140",
         "name": {
           "en": "Sam Shing Estate",
           "tc": "三聖邨",
@@ -987,7 +987,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K51-D150",
+        "stop_id": "K51-D150",
         "name": {
           "en": "Hanford Garden (LR Sam Shing Stop)",
           "tc": "恆福花園 (輕鐵三聖站)",
@@ -998,7 +998,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K51-D160",
+        "stop_id": "K51-D160",
         "name": {
           "en": "Mrs Aw Boon Haw Secondary School",
           "tc": "胡陳金枝中學",
@@ -1009,7 +1009,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K51-D170",
+        "stop_id": "K51-D170",
         "name": {
           "en": "Tsing Sin Playground",
           "tc": "青善遊樂場",
@@ -1020,7 +1020,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K51-D180",
+        "stop_id": "K51-D180",
         "name": {
           "en": "Chi Lok Fa Yuen",
           "tc": "置樂花園",
@@ -1031,7 +1031,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K51-D190",
+        "stop_id": "K51-D190",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -1042,7 +1042,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K51-D200",
+        "stop_id": "K51-D200",
         "name": {
           "en": "LR Town Centre Stop",
           "tc": "輕鐵市中心站",
@@ -1053,7 +1053,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K51-D210",
+        "stop_id": "K51-D210",
         "name": {
           "en": "MTR Tuen Mun Station (LR Tuen Mun Stop)",
           "tc": "港鐵屯門站 (輕鐵屯門站)",
@@ -1064,7 +1064,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K51-D220",
+        "stop_id": "K51-D220",
         "name": {
           "en": "SKH St. Simon's Lui Ming Choi Secondary School",
           "tc": "聖公會聖西門呂明才中學",
@@ -1075,7 +1075,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K51-D230",
+        "stop_id": "K51-D230",
         "name": {
           "en": "Prime View Garden",
           "tc": "景峰花園",
@@ -1086,7 +1086,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K51-D240",
+        "stop_id": "K51-D240",
         "name": {
           "en": "LR Fung Tei Stop",
           "tc": "輕鐵鳳地站",
@@ -1097,7 +1097,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K51-D250",
+        "stop_id": "K51-D250",
         "name": {
           "en": "MTR Siu Hong Station (South) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (南) (輕鐵兆康站)",
@@ -1108,7 +1108,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K51-D260",
+        "stop_id": "K51-D260",
         "name": {
           "en": "Brilliant Garden",
           "tc": "彩暉花園",
@@ -1119,7 +1119,7 @@
       },
       {
         "seq": 27,
-        "stopId": "K51-D270",
+        "stop_id": "K51-D270",
         "name": {
           "en": "Lingnan University",
           "tc": "嶺南大學",
@@ -1130,7 +1130,7 @@
       },
       {
         "seq": 28,
-        "stopId": "K51-D280",
+        "stop_id": "K51-D280",
         "name": {
           "en": "South Hillcrest",
           "tc": "倚嶺南庭",
@@ -1141,7 +1141,7 @@
       },
       {
         "seq": 29,
-        "stopId": "K51-D290",
+        "stop_id": "K51-D290",
         "name": {
           "en": "Fu Tai",
           "tc": "富泰",
@@ -1158,11 +1158,11 @@
     "route_id": "K51",
     "route": "K51",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K51-U010",
+        "stop_id": "K51-U010",
         "name": {
           "en": "Fu Tai",
           "tc": "富泰",
@@ -1173,7 +1173,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K51-U020",
+        "stop_id": "K51-U020",
         "name": {
           "en": "Beneville",
           "tc": "聚康山莊",
@@ -1184,7 +1184,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K51-U030",
+        "stop_id": "K51-U030",
         "name": {
           "en": "Lingnan University",
           "tc": "嶺南大學",
@@ -1195,7 +1195,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K51-U040",
+        "stop_id": "K51-U040",
         "name": {
           "en": "Brilliant Garden",
           "tc": "彩暉花園",
@@ -1206,7 +1206,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K51-U050",
+        "stop_id": "K51-U050",
         "name": {
           "en": "MTR Siu Hong Station (South) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (南) (輕鐵兆康站)",
@@ -1217,7 +1217,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K51-U060",
+        "stop_id": "K51-U060",
         "name": {
           "en": "Tseng Choi Street",
           "tc": "井財街",
@@ -1228,7 +1228,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K51-U070",
+        "stop_id": "K51-U070",
         "name": {
           "en": "ACME Shopping Arcade",
           "tc": "雅都商場",
@@ -1239,7 +1239,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K51-U080",
+        "stop_id": "K51-U080",
         "name": {
           "en": "Tak Ching Court (MTR Tuen Mun Station)",
           "tc": "德政圍 (港鐵屯門站)",
@@ -1250,7 +1250,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K51-U090",
+        "stop_id": "K51-U090",
         "name": {
           "en": "Tuen Mun Town Centre (LR Town Centre Stop)",
           "tc": "屯門市中心 (輕鐵市中心站)",
@@ -1261,7 +1261,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K51-U100",
+        "stop_id": "K51-U100",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -1272,7 +1272,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K51-U110",
+        "stop_id": "K51-U110",
         "name": {
           "en": "Handsome Court",
           "tc": "恒順園",
@@ -1283,7 +1283,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K51-U120",
+        "stop_id": "K51-U120",
         "name": {
           "en": "Harvest Garden",
           "tc": "恒豐園",
@@ -1294,7 +1294,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K51-U130",
+        "stop_id": "K51-U130",
         "name": {
           "en": "Sam Shing Estate",
           "tc": "三聖邨",
@@ -1305,7 +1305,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K51-U140",
+        "stop_id": "K51-U140",
         "name": {
           "en": "Castle Peak Beach",
           "tc": "青山灣",
@@ -1316,7 +1316,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K51-U150",
+        "stop_id": "K51-U150",
         "name": {
           "en": "Seaview Garden",
           "tc": "海景花園",
@@ -1327,7 +1327,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K51-U160",
+        "stop_id": "K51-U160",
         "name": {
           "en": "Cafeteria Beach",
           "tc": "咖啡灣",
@@ -1338,7 +1338,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K51-U170",
+        "stop_id": "K51-U170",
         "name": {
           "en": "Golden Beach",
           "tc": "黃金泳灘",
@@ -1349,7 +1349,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K51-U180",
+        "stop_id": "K51-U180",
         "name": {
           "en": "Hong Kong Gold Coast",
           "tc": "香港黃金海岸",
@@ -1360,7 +1360,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K51-U190",
+        "stop_id": "K51-U190",
         "name": {
           "en": "Kar Wo Lei Tsuen",
           "tc": "嘉禾里村",
@@ -1371,7 +1371,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K51-U200",
+        "stop_id": "K51-U200",
         "name": {
           "en": "Siu Sau Tsuen",
           "tc": "小秀村",
@@ -1382,7 +1382,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K51-U210",
+        "stop_id": "K51-U210",
         "name": {
           "en": "The Aegean",
           "tc": "愛琴灣",
@@ -1393,7 +1393,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K51-U220",
+        "stop_id": "K51-U220",
         "name": {
           "en": "Siu Lam San Tsuen",
           "tc": "小欖新村",
@@ -1404,7 +1404,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K51-U230",
+        "stop_id": "K51-U230",
         "name": {
           "en": "Siu Lam Tsuen",
           "tc": "小欖村",
@@ -1415,7 +1415,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K51-U240",
+        "stop_id": "K51-U240",
         "name": {
           "en": "Ching Lai Road Siu Lam",
           "tc": "小欖澄麗路",
@@ -1426,7 +1426,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K51-U250",
+        "stop_id": "K51-U250",
         "name": {
           "en": "Tai Lam",
           "tc": "大欖",
@@ -1443,11 +1443,11 @@
     "route_id": "K51A",
     "route": "K51A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K51A-D010",
+        "stop_id": "K51A-D010",
         "name": {
           "en": "So Kwun Wat Tsuen",
           "tc": "掃管笏村",
@@ -1458,7 +1458,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K51A-D020",
+        "stop_id": "K51A-D020",
         "name": {
           "en": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)",
           "tc": "掃管笏 (鄭任安夫人千禧小學)",
@@ -1469,7 +1469,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K51A-D030",
+        "stop_id": "K51A-D030",
         "name": {
           "en": "So Kwun Wat Road",
           "tc": "掃管笏路",
@@ -1480,7 +1480,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K51A-D040",
+        "stop_id": "K51A-D040",
         "name": {
           "en": "8 Kwun Chui Road",
           "tc": "管翠路8號",
@@ -1491,7 +1491,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K51A-D050",
+        "stop_id": "K51A-D050",
         "name": {
           "en": "Kwun Chui Road",
           "tc": "管翠路",
@@ -1502,7 +1502,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K51A-D060",
+        "stop_id": "K51A-D060",
         "name": {
           "en": "Aegean Coast",
           "tc": "愛琴海岸",
@@ -1513,7 +1513,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K51A-D070",
+        "stop_id": "K51A-D070",
         "name": {
           "en": "Hong Kong Gold Coast",
           "tc": "香港黃金海岸",
@@ -1524,7 +1524,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K51A-D080",
+        "stop_id": "K51A-D080",
         "name": {
           "en": "Golden Beach",
           "tc": "黃金泳灘",
@@ -1535,7 +1535,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K51A-D090",
+        "stop_id": "K51A-D090",
         "name": {
           "en": "Cafeteria Beach",
           "tc": "咖啡灣",
@@ -1546,7 +1546,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K51A-D100",
+        "stop_id": "K51A-D100",
         "name": {
           "en": "Bayview Terrace",
           "tc": "碧翠花園",
@@ -1557,7 +1557,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K51A-D110",
+        "stop_id": "K51A-D110",
         "name": {
           "en": "Castle Peak Bay Pier",
           "tc": "青山灣碼頭",
@@ -1568,7 +1568,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K51A-D120",
+        "stop_id": "K51A-D120",
         "name": {
           "en": "Sam Shing Estate",
           "tc": "三聖邨",
@@ -1579,7 +1579,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K51A-D140",
+        "stop_id": "K51A-D140",
         "name": {
           "en": "Mrs Aw Boon Haw Secondary School",
           "tc": "胡陳金枝中學",
@@ -1590,7 +1590,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K51A-D150",
+        "stop_id": "K51A-D150",
         "name": {
           "en": "Tsing Sin Playground",
           "tc": "青善遊樂場",
@@ -1601,7 +1601,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K51A-D160",
+        "stop_id": "K51A-D160",
         "name": {
           "en": "Chi Lok Fa Yuen",
           "tc": "置樂花園",
@@ -1612,7 +1612,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K51A-D170",
+        "stop_id": "K51A-D170",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -1623,7 +1623,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K51A-D180",
+        "stop_id": "K51A-D180",
         "name": {
           "en": "LR Town Centre Stop",
           "tc": "輕鐵市中心站",
@@ -1634,7 +1634,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K51A-D190",
+        "stop_id": "K51A-D190",
         "name": {
           "en": "MTR Tuen Mun Station (LR Tuen Mun Stop)",
           "tc": "港鐵屯門站 (輕鐵屯門站)",
@@ -1645,7 +1645,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K51A-D200",
+        "stop_id": "K51A-D200",
         "name": {
           "en": "SKH St. Simon's Lui Ming Choi Secondary School",
           "tc": "聖公會聖西門呂明才中學",
@@ -1656,7 +1656,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K51A-D210",
+        "stop_id": "K51A-D210",
         "name": {
           "en": "Prime View Garden",
           "tc": "景峰花園",
@@ -1667,7 +1667,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K51A-D220",
+        "stop_id": "K51A-D220",
         "name": {
           "en": "LR Fung Tei Stop",
           "tc": "輕鐵鳳地站",
@@ -1678,7 +1678,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K51A-D230",
+        "stop_id": "K51A-D230",
         "name": {
           "en": "MTR Siu Hong Station (South) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (南) (輕鐵兆康站)",
@@ -1689,7 +1689,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K51A-D240",
+        "stop_id": "K51A-D240",
         "name": {
           "en": "Brilliant Garden",
           "tc": "彩暉花園",
@@ -1700,7 +1700,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K51A-D250",
+        "stop_id": "K51A-D250",
         "name": {
           "en": "Lingnan University",
           "tc": "嶺南大學",
@@ -1711,7 +1711,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K51A-D260",
+        "stop_id": "K51A-D260",
         "name": {
           "en": "South Hillcrest",
           "tc": "倚嶺南庭",
@@ -1722,7 +1722,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K51A-D270",
+        "stop_id": "K51A-D270",
         "name": {
           "en": "Fu Tai",
           "tc": "富泰",
@@ -1739,11 +1739,11 @@
     "route_id": "K51A",
     "route": "K51A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K51A-U010",
+        "stop_id": "K51A-U010",
         "name": {
           "en": "Fu Tai",
           "tc": "富泰",
@@ -1754,7 +1754,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K51A-U020",
+        "stop_id": "K51A-U020",
         "name": {
           "en": "Beneville",
           "tc": "聚康山莊",
@@ -1765,7 +1765,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K51A-U030",
+        "stop_id": "K51A-U030",
         "name": {
           "en": "Lingnan University",
           "tc": "嶺南大學",
@@ -1776,7 +1776,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K51A-U040",
+        "stop_id": "K51A-U040",
         "name": {
           "en": "Brilliant Garden",
           "tc": "彩暉花園",
@@ -1787,7 +1787,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K51A-U050",
+        "stop_id": "K51A-U050",
         "name": {
           "en": "MTR Siu Hong Station (South) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (南) (輕鐵兆康站)",
@@ -1798,7 +1798,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K51A-U060",
+        "stop_id": "K51A-U060",
         "name": {
           "en": "Tseng Choi Street",
           "tc": "井財街",
@@ -1809,7 +1809,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K51A-U070",
+        "stop_id": "K51A-U070",
         "name": {
           "en": "ACME Shopping Arcade",
           "tc": "雅都商場",
@@ -1820,7 +1820,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K51A-U080",
+        "stop_id": "K51A-U080",
         "name": {
           "en": "Tak Ching Court (MTR Tuen Mun Station)",
           "tc": "德政圍 (港鐵屯門站)",
@@ -1831,7 +1831,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K51A-U090",
+        "stop_id": "K51A-U090",
         "name": {
           "en": "Tuen Mun Town Centre (LR Town Centre Stop)",
           "tc": "屯門市中心 (輕鐵市中心站)",
@@ -1842,7 +1842,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K51A-U100",
+        "stop_id": "K51A-U100",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -1853,7 +1853,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K51A-U110",
+        "stop_id": "K51A-U110",
         "name": {
           "en": "Handsome Court",
           "tc": "恒順園",
@@ -1864,7 +1864,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K51A-U120",
+        "stop_id": "K51A-U120",
         "name": {
           "en": "Harvest Garden",
           "tc": "恒豐園",
@@ -1875,7 +1875,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K51A-U130",
+        "stop_id": "K51A-U130",
         "name": {
           "en": "Sam Shing Estate",
           "tc": "三聖邨",
@@ -1886,7 +1886,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K51A-U140",
+        "stop_id": "K51A-U140",
         "name": {
           "en": "Castle Peak Beach",
           "tc": "青山灣",
@@ -1897,7 +1897,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K51A-U150",
+        "stop_id": "K51A-U150",
         "name": {
           "en": "Seaview Garden",
           "tc": "海景花園",
@@ -1908,7 +1908,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K51A-U160",
+        "stop_id": "K51A-U160",
         "name": {
           "en": "Cafeteria Beach",
           "tc": "咖啡灣",
@@ -1919,7 +1919,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K51A-U170",
+        "stop_id": "K51A-U170",
         "name": {
           "en": "Golden Beach",
           "tc": "黃金泳灘",
@@ -1930,7 +1930,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K51A-U180",
+        "stop_id": "K51A-U180",
         "name": {
           "en": "Hong Kong Gold Coast",
           "tc": "香港黃金海岸",
@@ -1941,7 +1941,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K51A-U190",
+        "stop_id": "K51A-U190",
         "name": {
           "en": "Aegean Coast",
           "tc": "愛琴海岸",
@@ -1952,7 +1952,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K51A-U200",
+        "stop_id": "K51A-U200",
         "name": {
           "en": "So Kwun Wat Sub-station",
           "tc": "掃管笏變電站",
@@ -1963,7 +1963,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K51A-U210",
+        "stop_id": "K51A-U210",
         "name": {
           "en": "So Kwun Wat Tsuen",
           "tc": "掃管笏村",
@@ -1974,7 +1974,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K51A-U220",
+        "stop_id": "K51A-U220",
         "name": {
           "en": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)",
           "tc": "掃管笏 (鄭任安夫人千禧小學)",
@@ -1985,7 +1985,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K51A-U230",
+        "stop_id": "K51A-U230",
         "name": {
           "en": "So Kwun Wat Road",
           "tc": "掃管笏路",
@@ -1996,7 +1996,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K51A-U240",
+        "stop_id": "K51A-U240",
         "name": {
           "en": "8 Kwun Chui Road",
           "tc": "管翠路8號",
@@ -2007,7 +2007,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K51A-U250",
+        "stop_id": "K51A-U250",
         "name": {
           "en": "So Kwun Wat Tsuen",
           "tc": "掃管笏村",
@@ -2024,11 +2024,11 @@
     "route_id": "K52-1",
     "route": "K52",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K52-nU140",
+        "stop_id": "K52-nU140",
         "name": {
           "en": "LR Tuen Mun Stop",
           "tc": "輕鐵屯門站",
@@ -2039,7 +2039,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K52-nU150",
+        "stop_id": "K52-nU150",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -2050,7 +2050,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K52-nU160",
+        "stop_id": "K52-nU160",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -2061,7 +2061,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K52-nU170",
+        "stop_id": "K52-nU170",
         "name": {
           "en": "SKH St. Peter's Church",
           "tc": "聖彼得堂",
@@ -2072,7 +2072,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K52-nU180",
+        "stop_id": "K52-nU180",
         "name": {
           "en": "Glorious Garden",
           "tc": "富健花園",
@@ -2083,7 +2083,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K52-nU190",
+        "stop_id": "K52-nU190",
         "name": {
           "en": "Sun Tuen Mun Centre",
           "tc": "新屯門中心",
@@ -2094,7 +2094,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K52-nU200",
+        "stop_id": "K52-nU200",
         "name": {
           "en": "LR Butterfly Stop",
           "tc": "輕鐵蝴蝶站",
@@ -2105,7 +2105,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K52-nU210",
+        "stop_id": "K52-nU210",
         "name": {
           "en": "Tuen Mun Public Riding School",
           "tc": "屯門公眾騎術學校",
@@ -2116,7 +2116,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K52-nU220",
+        "stop_id": "K52-nU220",
         "name": {
           "en": "Butterfly Beach Park",
           "tc": "蝴蝶灣公園",
@@ -2127,7 +2127,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K52-nU230",
+        "stop_id": "K52-nU230",
         "name": {
           "en": "Pillar Point",
           "tc": "望后石",
@@ -2138,7 +2138,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K52-nU240",
+        "stop_id": "K52-nU240",
         "name": {
           "en": "Government Depot",
           "tc": "政府車場",
@@ -2149,7 +2149,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K52-nU250",
+        "stop_id": "K52-nU250",
         "name": {
           "en": "River Trade Terminal",
           "tc": "內河碼頭",
@@ -2160,7 +2160,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K52-nU260",
+        "stop_id": "K52-nU260",
         "name": {
           "en": "EcoPark",
           "tc": "環保園",
@@ -2171,7 +2171,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K52-nU270",
+        "stop_id": "K52-nU270",
         "name": {
           "en": "Shiu Wing Steel Mill",
           "tc": "紹榮鋼鐵",
@@ -2182,7 +2182,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K52-nU280",
+        "stop_id": "K52-nU280",
         "name": {
           "en": "No.312 Sha Po Kong",
           "tc": "沙埔崗312號",
@@ -2193,7 +2193,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K52-nU290",
+        "stop_id": "K52-nU290",
         "name": {
           "en": "No.177 Sha Po Kong",
           "tc": "沙埔崗177號",
@@ -2204,7 +2204,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K52-nU300",
+        "stop_id": "K52-nU300",
         "name": {
           "en": "No.127 Sha Po Kong",
           "tc": "沙埔崗127號",
@@ -2215,7 +2215,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K52-nU310",
+        "stop_id": "K52-nU310",
         "name": {
           "en": "Lung Kwu Tan",
           "tc": "龍鼓灘",
@@ -2232,11 +2232,11 @@
     "route_id": "K52",
     "route": "K52",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K52-nD010",
+        "stop_id": "K52-nD010",
         "name": {
           "en": "Lung Kwu Tan",
           "tc": "龍鼓灘",
@@ -2247,7 +2247,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K52-nD020",
+        "stop_id": "K52-nD020",
         "name": {
           "en": "No.127 Sha Po Kong",
           "tc": "沙埔崗127號",
@@ -2258,7 +2258,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K52-nD030",
+        "stop_id": "K52-nD030",
         "name": {
           "en": "No.177 Sha Po Kong",
           "tc": "沙埔崗177號",
@@ -2269,7 +2269,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K52-nD040",
+        "stop_id": "K52-nD040",
         "name": {
           "en": "No.288 Sha Po Kong",
           "tc": "沙埔崗288號",
@@ -2280,7 +2280,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K52-nD050",
+        "stop_id": "K52-nD050",
         "name": {
           "en": "No.351 Sha Po Kong",
           "tc": "沙埔崗351號",
@@ -2291,7 +2291,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K52-nD060",
+        "stop_id": "K52-nD060",
         "name": {
           "en": "CLP (Plant A)",
           "tc": "中電 A廠",
@@ -2302,7 +2302,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K52-nD070",
+        "stop_id": "K52-nD070",
         "name": {
           "en": "Shiu Wing Steel Mill",
           "tc": "紹榮鋼鐵",
@@ -2313,7 +2313,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K52-nD080",
+        "stop_id": "K52-nD080",
         "name": {
           "en": "EcoPark",
           "tc": "環保園",
@@ -2324,7 +2324,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K52-nD090",
+        "stop_id": "K52-nD090",
         "name": {
           "en": "River Trade Terminal",
           "tc": "內河碼頭",
@@ -2335,7 +2335,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K52-nD100",
+        "stop_id": "K52-nD100",
         "name": {
           "en": "Government Depot",
           "tc": "政府車場",
@@ -2346,7 +2346,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K52-nD110",
+        "stop_id": "K52-nD110",
         "name": {
           "en": "Pillar Point",
           "tc": "望后石",
@@ -2357,7 +2357,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K52-nD120",
+        "stop_id": "K52-nD120",
         "name": {
           "en": "Butterfly Beach Park",
           "tc": "蝴蝶灣公園",
@@ -2368,7 +2368,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K52-nD130",
+        "stop_id": "K52-nD130",
         "name": {
           "en": "Tuen Mun Public Riding School",
           "tc": "屯門公眾騎術學校",
@@ -2379,7 +2379,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K52-nD140",
+        "stop_id": "K52-nD140",
         "name": {
           "en": "LR Butterfly Stop",
           "tc": "輕鐵蝴蝶站",
@@ -2390,7 +2390,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K52-nD150",
+        "stop_id": "K52-nD150",
         "name": {
           "en": "Light Rail Depot Stop",
           "tc": "輕鐵車廠站",
@@ -2401,7 +2401,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K52-nD160",
+        "stop_id": "K52-nD160",
         "name": {
           "en": "LR Lung Mun Stop",
           "tc": "輕鐵龍門站",
@@ -2412,7 +2412,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K52-nD170",
+        "stop_id": "K52-nD170",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -2423,7 +2423,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K52-nD180",
+        "stop_id": "K52-nD180",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -2434,7 +2434,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K52-nD190",
+        "stop_id": "K52-nD190",
         "name": {
           "en": "Tuen Mun Station",
           "tc": "屯門站",
@@ -2445,7 +2445,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K52-nD200",
+        "stop_id": "K52-nD200",
         "name": {
           "en": "Tuen Mun Town Centre",
           "tc": "屯門市中心",
@@ -2456,7 +2456,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K52-nD210",
+        "stop_id": "K52-nD210",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -2467,7 +2467,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K52-nD220",
+        "stop_id": "K52-nD220",
         "name": {
           "en": "Handsome Court",
           "tc": "恒順園",
@@ -2478,7 +2478,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K52-nD230",
+        "stop_id": "K52-nD230",
         "name": {
           "en": "Harvest Garden",
           "tc": "恒豐園",
@@ -2489,7 +2489,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K52-nD240",
+        "stop_id": "K52-nD240",
         "name": {
           "en": "LR Sam Shing Stop",
           "tc": "輕鐵三聖站",
@@ -2500,7 +2500,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K52-nD250",
+        "stop_id": "K52-nD250",
         "name": {
           "en": "Tuen Mun Central Square",
           "tc": "屯門中央廣場",
@@ -2511,7 +2511,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K52-nD260",
+        "stop_id": "K52-nD260",
         "name": {
           "en": "Wu Tsui House, Wu King Estate",
           "tc": "湖景邨湖翠樓",
@@ -2522,7 +2522,7 @@
       },
       {
         "seq": 27,
-        "stopId": "K52-nD270",
+        "stop_id": "K52-nD270",
         "name": {
           "en": "Siu Hei Court",
           "tc": "兆禧苑",
@@ -2533,7 +2533,7 @@
       },
       {
         "seq": 28,
-        "stopId": "K52-nD280",
+        "stop_id": "K52-nD280",
         "name": {
           "en": "Pierhead Garden",
           "tc": "海翠花園",
@@ -2544,7 +2544,7 @@
       },
       {
         "seq": 29,
-        "stopId": "K52-nD290",
+        "stop_id": "K52-nD290",
         "name": {
           "en": "Miami Beach Towers",
           "tc": "邁亞美海灣",
@@ -2555,7 +2555,7 @@
       },
       {
         "seq": 30,
-        "stopId": "K52-nD300",
+        "stop_id": "K52-nD300",
         "name": {
           "en": "Yuet Wu Villa",
           "tc": "悅湖山莊",
@@ -2572,11 +2572,11 @@
     "route_id": "K52",
     "route": "K52",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K52-nU010",
+        "stop_id": "K52-nU010",
         "name": {
           "en": "Yuet Wu Villa",
           "tc": "悅湖山莊",
@@ -2587,7 +2587,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K52-nU020",
+        "stop_id": "K52-nU020",
         "name": {
           "en": "Miami Beach Towers",
           "tc": "邁亞美海灣",
@@ -2598,7 +2598,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K52-nU030",
+        "stop_id": "K52-nU030",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
@@ -2609,7 +2609,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K52-nU040",
+        "stop_id": "K52-nU040",
         "name": {
           "en": "Wu Boon House, Wu King Estate",
           "tc": "湖景邨湖畔樓",
@@ -2620,7 +2620,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K52-nU050",
+        "stop_id": "K52-nU050",
         "name": {
           "en": "Wu Tsui House, Wu King Estate",
           "tc": "湖景邨湖翠樓",
@@ -2631,7 +2631,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K52-nU060",
+        "stop_id": "K52-nU060",
         "name": {
           "en": "Tuen Mun Central Square",
           "tc": "屯門中央廣場",
@@ -2642,7 +2642,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K52-nU070",
+        "stop_id": "K52-nU070",
         "name": {
           "en": "LR Sam Shing Stop",
           "tc": "輕鐵三聖站",
@@ -2653,7 +2653,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K52-nU080",
+        "stop_id": "K52-nU080",
         "name": {
           "en": "Mrs Aw Boon Haw Secondary School",
           "tc": "胡陳金枝中學",
@@ -2664,7 +2664,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K52-nU090",
+        "stop_id": "K52-nU090",
         "name": {
           "en": "Tsing Sin Playground",
           "tc": "青善遊樂場",
@@ -2675,7 +2675,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K52-nU100",
+        "stop_id": "K52-nU100",
         "name": {
           "en": "Chi Lok Fa Yuen",
           "tc": "置樂花園",
@@ -2686,7 +2686,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K52-nU110",
+        "stop_id": "K52-nU110",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -2697,7 +2697,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K52-nU120",
+        "stop_id": "K52-nU120",
         "name": {
           "en": "LR Town Centre Stop",
           "tc": "輕鐵市中心站",
@@ -2708,7 +2708,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K52-nU140",
+        "stop_id": "K52-nU140",
         "name": {
           "en": "LR Tuen Mun Stop (MTR Tuen Mun Station)",
           "tc": "輕鐵屯門站 (港鐵屯門站)",
@@ -2719,7 +2719,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K52-nU150",
+        "stop_id": "K52-nU150",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -2730,7 +2730,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K52-nU160",
+        "stop_id": "K52-nU160",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -2741,7 +2741,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K52-nU170",
+        "stop_id": "K52-nU170",
         "name": {
           "en": "SKH St. Peter's Church",
           "tc": "聖彼得堂",
@@ -2752,7 +2752,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K52-nU180",
+        "stop_id": "K52-nU180",
         "name": {
           "en": "Glorious Garden",
           "tc": "富健花園",
@@ -2763,7 +2763,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K52-nU190",
+        "stop_id": "K52-nU190",
         "name": {
           "en": "Sun Tuen Mun Centre",
           "tc": "新屯門中心",
@@ -2774,7 +2774,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K52-nU200",
+        "stop_id": "K52-nU200",
         "name": {
           "en": "LR Butterfly Stop",
           "tc": "輕鐵蝴蝶站",
@@ -2785,7 +2785,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K52-nU210",
+        "stop_id": "K52-nU210",
         "name": {
           "en": "Tuen Mun Public Riding School",
           "tc": "屯門公眾騎術學校",
@@ -2796,7 +2796,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K52-nU220",
+        "stop_id": "K52-nU220",
         "name": {
           "en": "Butterfly Beach Park",
           "tc": "蝴蝶灣公園",
@@ -2807,7 +2807,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K52-nU230",
+        "stop_id": "K52-nU230",
         "name": {
           "en": "Pillar Point",
           "tc": "望后石",
@@ -2818,7 +2818,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K52-nU240",
+        "stop_id": "K52-nU240",
         "name": {
           "en": "Government Depot",
           "tc": "政府車場",
@@ -2829,7 +2829,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K52-nU250",
+        "stop_id": "K52-nU250",
         "name": {
           "en": "River Trade Terminal",
           "tc": "內河碼頭",
@@ -2840,7 +2840,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K52-nU260",
+        "stop_id": "K52-nU260",
         "name": {
           "en": "EcoPark",
           "tc": "環保園",
@@ -2851,7 +2851,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K52-nU270",
+        "stop_id": "K52-nU270",
         "name": {
           "en": "Shiu Wing Steel Mill",
           "tc": "紹榮鋼鐵",
@@ -2862,7 +2862,7 @@
       },
       {
         "seq": 27,
-        "stopId": "K52-nU280",
+        "stop_id": "K52-nU280",
         "name": {
           "en": "No.312 Sha Po Kong",
           "tc": "沙埔崗312號",
@@ -2873,7 +2873,7 @@
       },
       {
         "seq": 28,
-        "stopId": "K52-nU290",
+        "stop_id": "K52-nU290",
         "name": {
           "en": "No.177 Sha Po Kong",
           "tc": "沙埔崗177號",
@@ -2884,7 +2884,7 @@
       },
       {
         "seq": 29,
-        "stopId": "K52-nU300",
+        "stop_id": "K52-nU300",
         "name": {
           "en": "No.127 Sha Po Kong",
           "tc": "沙埔崗127號",
@@ -2895,7 +2895,7 @@
       },
       {
         "seq": 30,
-        "stopId": "K52-nU310",
+        "stop_id": "K52-nU310",
         "name": {
           "en": "Lung Kwu Tan",
           "tc": "龍鼓灘",
@@ -2912,11 +2912,11 @@
     "route_id": "K52A",
     "route": "K52A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K52A-D010",
+        "stop_id": "K52A-D010",
         "name": {
           "en": "Tsang Tsui (Tsang Tsui Columbarium)",
           "tc": "曾咀 (曾咀靈灰安置所)",
@@ -2927,7 +2927,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K52A-D020",
+        "stop_id": "K52A-D020",
         "name": {
           "en": "No.127 Sha Po Kong",
           "tc": "沙埔崗127號",
@@ -2938,7 +2938,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K52A-D030",
+        "stop_id": "K52A-D030",
         "name": {
           "en": "No.177 Sha Po Kong",
           "tc": "沙埔崗177號",
@@ -2949,7 +2949,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K52A-D040",
+        "stop_id": "K52A-D040",
         "name": {
           "en": "No.288 Sha Po Kong",
           "tc": "沙埔崗288號",
@@ -2960,7 +2960,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K52A-D050",
+        "stop_id": "K52A-D050",
         "name": {
           "en": "No.351 Sha Po Kong",
           "tc": "沙埔崗351號",
@@ -2971,7 +2971,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K52A-D060",
+        "stop_id": "K52A-D060",
         "name": {
           "en": "CLP (Plant A)",
           "tc": "中電 A廠",
@@ -2982,7 +2982,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K52A-D070",
+        "stop_id": "K52A-D070",
         "name": {
           "en": "Shiu Wing Steel Mill",
           "tc": "紹榮鋼鐵",
@@ -2993,7 +2993,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K52A-D080",
+        "stop_id": "K52A-D080",
         "name": {
           "en": "EcoPark",
           "tc": "環保園",
@@ -3004,7 +3004,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K52A-D090",
+        "stop_id": "K52A-D090",
         "name": {
           "en": "River Trade Terminal",
           "tc": "內河碼頭",
@@ -3015,7 +3015,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K52A-D100",
+        "stop_id": "K52A-D100",
         "name": {
           "en": "Government Depot",
           "tc": "政府車場",
@@ -3026,7 +3026,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K52A-D110",
+        "stop_id": "K52A-D110",
         "name": {
           "en": "Pillar Point",
           "tc": "望后石",
@@ -3037,7 +3037,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K52A-D120",
+        "stop_id": "K52A-D120",
         "name": {
           "en": "Butterfly Beach Park",
           "tc": "蝴蝶灣公園",
@@ -3048,7 +3048,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K52A-D130",
+        "stop_id": "K52A-D130",
         "name": {
           "en": "Tuen Mun Public Riding School",
           "tc": "屯門公眾騎術學校",
@@ -3059,7 +3059,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K52A-D140",
+        "stop_id": "K52A-D140",
         "name": {
           "en": "LR Butterfly Stop",
           "tc": "輕鐵蝴蝶站",
@@ -3070,7 +3070,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K52A-D150",
+        "stop_id": "K52A-D150",
         "name": {
           "en": "Light Rail Depot Stop",
           "tc": "輕鐵車廠站",
@@ -3081,7 +3081,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K52A-D160",
+        "stop_id": "K52A-D160",
         "name": {
           "en": "LR Lung Mun Stop",
           "tc": "輕鐵龍門站",
@@ -3092,7 +3092,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K52A-D170",
+        "stop_id": "K52A-D170",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -3103,7 +3103,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K52A-D180",
+        "stop_id": "K52A-D180",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -3114,7 +3114,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K52A-D190",
+        "stop_id": "K52A-D190",
         "name": {
           "en": "Tuen Mun Station (LR Tuen Mun Stop)",
           "tc": "屯門站 (輕鐵屯門站)",
@@ -3131,11 +3131,11 @@
     "route_id": "K52A",
     "route": "K52A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K52A-U010",
+        "stop_id": "K52A-U010",
         "name": {
           "en": "Tuen Mun Station (LR Tuen Mun Stop)",
           "tc": "屯門站 (輕鐵屯門站)",
@@ -3146,7 +3146,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K52A-U015",
+        "stop_id": "K52A-U015",
         "name": {
           "en": "LR Tuen Mun Stop (Please refer to Service Time)*",
           "tc": "輕鐵屯門站 (請留意服務時間)*",
@@ -3157,7 +3157,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K52A-U020",
+        "stop_id": "K52A-U020",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -3168,7 +3168,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K52A-U030",
+        "stop_id": "K52A-U030",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -3179,7 +3179,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K52A-U040",
+        "stop_id": "K52A-U040",
         "name": {
           "en": "SKH St. Peter's Church",
           "tc": "聖彼得堂",
@@ -3190,7 +3190,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K52A-U050",
+        "stop_id": "K52A-U050",
         "name": {
           "en": "Glorious Garden",
           "tc": "富健花園",
@@ -3201,7 +3201,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K52A-U060",
+        "stop_id": "K52A-U060",
         "name": {
           "en": "Sun Tuen Mun Centre",
           "tc": "新屯門中心",
@@ -3212,7 +3212,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K52A-U070",
+        "stop_id": "K52A-U070",
         "name": {
           "en": "LR Butterfly Stop",
           "tc": "輕鐵蝴蝶站",
@@ -3223,7 +3223,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K52A-U080",
+        "stop_id": "K52A-U080",
         "name": {
           "en": "Tuen Mun Public Riding School",
           "tc": "屯門公眾騎術學校",
@@ -3234,7 +3234,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K52A-U090",
+        "stop_id": "K52A-U090",
         "name": {
           "en": "Butterfly Beach Park",
           "tc": "蝴蝶灣公園",
@@ -3245,7 +3245,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K52A-U100",
+        "stop_id": "K52A-U100",
         "name": {
           "en": "Pillar Point",
           "tc": "望后石",
@@ -3256,7 +3256,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K52A-U110",
+        "stop_id": "K52A-U110",
         "name": {
           "en": "Government Depot",
           "tc": "政府車場",
@@ -3267,7 +3267,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K52A-U120",
+        "stop_id": "K52A-U120",
         "name": {
           "en": "River Trade Terminal",
           "tc": "內河碼頭",
@@ -3278,7 +3278,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K52A-U130",
+        "stop_id": "K52A-U130",
         "name": {
           "en": "EcoPark",
           "tc": "環保園",
@@ -3289,7 +3289,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K52A-U140",
+        "stop_id": "K52A-U140",
         "name": {
           "en": "Shiu Wing Steel Mill",
           "tc": "紹榮鋼鐵",
@@ -3300,7 +3300,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K52A-U150",
+        "stop_id": "K52A-U150",
         "name": {
           "en": "No.312 Sha Po Kong",
           "tc": "沙埔崗312號",
@@ -3311,7 +3311,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K52A-U160",
+        "stop_id": "K52A-U160",
         "name": {
           "en": "No.177 Sha Po Kong",
           "tc": "沙埔崗177號",
@@ -3322,7 +3322,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K52A-U170",
+        "stop_id": "K52A-U170",
         "name": {
           "en": "No.127 Sha Po Kong",
           "tc": "沙埔崗127號",
@@ -3333,7 +3333,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K52A-U180",
+        "stop_id": "K52A-U180",
         "name": {
           "en": "Tsang Tsui (Tsang Tsui Columbarium)",
           "tc": "曾咀 (曾咀靈灰安置所)",
@@ -3350,11 +3350,11 @@
     "route_id": "K52P",
     "route": "K52P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K52P-D010",
+        "stop_id": "K52P-D010",
         "name": {
           "en": "Lung Kwu Tan",
           "tc": "龍鼓灘",
@@ -3365,7 +3365,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K52P-D020",
+        "stop_id": "K52P-D020",
         "name": {
           "en": "No.127 Sha Po Kong",
           "tc": "沙埔崗127號",
@@ -3376,7 +3376,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K52P-D030",
+        "stop_id": "K52P-D030",
         "name": {
           "en": "No.177 Sha Po Kong",
           "tc": "沙埔崗177號",
@@ -3387,7 +3387,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K52P-D040",
+        "stop_id": "K52P-D040",
         "name": {
           "en": "No.288 Sha Po Kong",
           "tc": "沙埔崗288號",
@@ -3398,7 +3398,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K52P-D050",
+        "stop_id": "K52P-D050",
         "name": {
           "en": "No.351 Sha Po Kong",
           "tc": "沙埔崗351號",
@@ -3409,7 +3409,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K52P-D060",
+        "stop_id": "K52P-D060",
         "name": {
           "en": "CLP (Plant A)",
           "tc": "中電 A廠",
@@ -3420,7 +3420,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K52P-D070",
+        "stop_id": "K52P-D070",
         "name": {
           "en": "Shiu Wing Steel Mill",
           "tc": "紹榮鋼鐵",
@@ -3431,7 +3431,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K52P-D080",
+        "stop_id": "K52P-D080",
         "name": {
           "en": "EcoPark",
           "tc": "環保園",
@@ -3442,7 +3442,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K52P-D090",
+        "stop_id": "K52P-D090",
         "name": {
           "en": "River Trade Terminal",
           "tc": "內河碼頭",
@@ -3453,7 +3453,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K52P-D100",
+        "stop_id": "K52P-D100",
         "name": {
           "en": "Government Depot",
           "tc": "政府車場",
@@ -3464,7 +3464,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K52P-D110",
+        "stop_id": "K52P-D110",
         "name": {
           "en": "Pillar Point",
           "tc": "望后石",
@@ -3475,7 +3475,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K52P-D120",
+        "stop_id": "K52P-D120",
         "name": {
           "en": "Butterfly Beach Park",
           "tc": "蝴蝶灣公園",
@@ -3486,7 +3486,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K52P-D130",
+        "stop_id": "K52P-D130",
         "name": {
           "en": "Tuen Mun Public Riding School",
           "tc": "屯門公眾騎術學校",
@@ -3497,7 +3497,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K52P-D140",
+        "stop_id": "K52P-D140",
         "name": {
           "en": "LR Butterfly Stop",
           "tc": "輕鐵蝴蝶站",
@@ -3508,7 +3508,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K52P-D150",
+        "stop_id": "K52P-D150",
         "name": {
           "en": "Yuet Wu Villa",
           "tc": "悅湖山莊",
@@ -3519,7 +3519,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K52P-D160",
+        "stop_id": "K52P-D160",
         "name": {
           "en": "Miami Beach Towers",
           "tc": "邁亞美海灣",
@@ -3530,7 +3530,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K52P-D170",
+        "stop_id": "K52P-D170",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
@@ -3541,7 +3541,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K52P-D180",
+        "stop_id": "K52P-D180",
         "name": {
           "en": "Wu Boon House, Wu King Estate",
           "tc": "湖景邨湖畔樓",
@@ -3552,7 +3552,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K52P-D190",
+        "stop_id": "K52P-D190",
         "name": {
           "en": "Wu Tsui House, Wu King Estate",
           "tc": "湖景邨湖翠樓",
@@ -3563,7 +3563,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K52P-D200",
+        "stop_id": "K52P-D200",
         "name": {
           "en": "Siu Shan Court",
           "tc": "兆山苑",
@@ -3574,7 +3574,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K52P-D210",
+        "stop_id": "K52P-D210",
         "name": {
           "en": "Light Rail Depot Stop",
           "tc": "輕鐵車廠站",
@@ -3585,7 +3585,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K52P-D220",
+        "stop_id": "K52P-D220",
         "name": {
           "en": "LR Lung Mun Stop",
           "tc": "輕鐵龍門站",
@@ -3596,7 +3596,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K52P-D230",
+        "stop_id": "K52P-D230",
         "name": {
           "en": "LR Tsing Wun Stop",
           "tc": "輕鐵青雲站",
@@ -3607,7 +3607,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K52P-D240",
+        "stop_id": "K52P-D240",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -3618,7 +3618,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K52P-D250",
+        "stop_id": "K52P-D250",
         "name": {
           "en": "Tuen Mun Station ",
           "tc": "屯門站 ",
@@ -3635,11 +3635,11 @@
     "route_id": "K53",
     "route": "K53",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K53-U010",
+        "stop_id": "K53-U010",
         "name": {
           "en": "Tuen Mun Station (LR Tuen Mun Stop)",
           "tc": "屯門站 (輕鐵屯門站)",
@@ -3650,7 +3650,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K53-U020",
+        "stop_id": "K53-U020",
         "name": {
           "en": "Tuen Mun Town Centre",
           "tc": "屯門市中心",
@@ -3661,7 +3661,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K53-U030",
+        "stop_id": "K53-U030",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -3672,7 +3672,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K53-U040",
+        "stop_id": "K53-U040",
         "name": {
           "en": "Handsome Court",
           "tc": "恒順園",
@@ -3683,7 +3683,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K53-U050",
+        "stop_id": "K53-U050",
         "name": {
           "en": "Harvest Garden",
           "tc": "恒豐園",
@@ -3694,7 +3694,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K53-U060",
+        "stop_id": "K53-U060",
         "name": {
           "en": "Sam Shing Estate",
           "tc": "三聖邨",
@@ -3705,7 +3705,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K53-U070",
+        "stop_id": "K53-U070",
         "name": {
           "en": "Castle Peak Beach",
           "tc": "青山灣",
@@ -3716,7 +3716,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K53-U080",
+        "stop_id": "K53-U080",
         "name": {
           "en": "Seaview Garden",
           "tc": "海景花園",
@@ -3727,7 +3727,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K53-U090",
+        "stop_id": "K53-U090",
         "name": {
           "en": "Cafeteria Beach",
           "tc": "咖啡灣",
@@ -3738,7 +3738,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K53-U100",
+        "stop_id": "K53-U100",
         "name": {
           "en": "Golden Beach",
           "tc": "黃金泳灘",
@@ -3749,7 +3749,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K53-U110",
+        "stop_id": "K53-U110",
         "name": {
           "en": "Hong Kong Gold Coast",
           "tc": "香港黃金海岸",
@@ -3760,7 +3760,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K53-U120",
+        "stop_id": "K53-U120",
         "name": {
           "en": "Aegean Coast",
           "tc": "愛琴海岸",
@@ -3771,7 +3771,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K53-U130",
+        "stop_id": "K53-U130",
         "name": {
           "en": "So Kwun Wat Sub-station",
           "tc": "掃管笏變電站",
@@ -3782,7 +3782,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K53-U140",
+        "stop_id": "K53-U140",
         "name": {
           "en": "So Kwun Wat Tsuen",
           "tc": "掃管笏村",
@@ -3793,7 +3793,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K53-D010",
+        "stop_id": "K53-D010",
         "name": {
           "en": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)",
           "tc": "掃管笏 (鄭任安夫人千禧小學)",
@@ -3804,7 +3804,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K53-D015",
+        "stop_id": "K53-D015",
         "name": {
           "en": "So Kwun Wat Road",
           "tc": "掃管笏路",
@@ -3815,7 +3815,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K53-D020",
+        "stop_id": "K53-D020",
         "name": {
           "en": "8 Kwun Chui Road",
           "tc": "管翠路8號",
@@ -3826,7 +3826,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K53-D030",
+        "stop_id": "K53-D030",
         "name": {
           "en": "Kwun Chui Road",
           "tc": "管翠路",
@@ -3837,7 +3837,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K53-D040",
+        "stop_id": "K53-D040",
         "name": {
           "en": "Aegean Coast",
           "tc": "愛琴海岸",
@@ -3848,7 +3848,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K53-D050",
+        "stop_id": "K53-D050",
         "name": {
           "en": "Hong Kong Gold Coast",
           "tc": "香港黃金海岸",
@@ -3859,7 +3859,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K53-D060",
+        "stop_id": "K53-D060",
         "name": {
           "en": "Golden Beach",
           "tc": "黃金泳灘",
@@ -3870,7 +3870,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K53-D070",
+        "stop_id": "K53-D070",
         "name": {
           "en": "Cafeteria Beach",
           "tc": "咖啡灣",
@@ -3881,7 +3881,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K53-D080",
+        "stop_id": "K53-D080",
         "name": {
           "en": "Bayview Terrace",
           "tc": "碧翠花園",
@@ -3892,7 +3892,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K53-D090",
+        "stop_id": "K53-D090",
         "name": {
           "en": "Castle Peak Bay Pier",
           "tc": "青山灣碼頭",
@@ -3903,7 +3903,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K53-D100",
+        "stop_id": "K53-D100",
         "name": {
           "en": "Sam Shing Estate",
           "tc": "三聖邨",
@@ -3914,7 +3914,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K53-D110",
+        "stop_id": "K53-D110",
         "name": {
           "en": "Hanford Garden (LR Sam Shing Stop)",
           "tc": "恆福花園 (輕鐵三聖站)",
@@ -3925,7 +3925,7 @@
       },
       {
         "seq": 27,
-        "stopId": "K53-D120",
+        "stop_id": "K53-D120",
         "name": {
           "en": "Mrs Aw Boon Haw Secondary School",
           "tc": "胡陳金枝中學",
@@ -3936,7 +3936,7 @@
       },
       {
         "seq": 28,
-        "stopId": "K53-D130",
+        "stop_id": "K53-D130",
         "name": {
           "en": "Tsing Sin Playground",
           "tc": "青善遊樂場",
@@ -3947,7 +3947,7 @@
       },
       {
         "seq": 29,
-        "stopId": "K53-D140",
+        "stop_id": "K53-D140",
         "name": {
           "en": "Chi Lok Fa Yuen",
           "tc": "置樂花園",
@@ -3958,7 +3958,7 @@
       },
       {
         "seq": 30,
-        "stopId": "K53-D150",
+        "stop_id": "K53-D150",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -3969,7 +3969,7 @@
       },
       {
         "seq": 31,
-        "stopId": "K53-D160",
+        "stop_id": "K53-D160",
         "name": {
           "en": "LR Town Centre Stop",
           "tc": "輕鐵市中心站",
@@ -3980,7 +3980,7 @@
       },
       {
         "seq": 32,
-        "stopId": "K53-U011",
+        "stop_id": "K53-U011",
         "name": {
           "en": "Tuen Mun Station (LR Tuen Mun Stop)",
           "tc": "屯門站 (輕鐵屯門站)",
@@ -3997,11 +3997,11 @@
     "route_id": "K53S",
     "route": "K53S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K53S-U010",
+        "stop_id": "K53S-U010",
         "name": {
           "en": "Tuen Mun Station",
           "tc": "屯門站 ",
@@ -4012,7 +4012,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K53S-U020",
+        "stop_id": "K53S-U020",
         "name": {
           "en": "Tin Hau Road",
           "tc": "天后路",
@@ -4023,7 +4023,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K53S-U030",
+        "stop_id": "K53S-U030",
         "name": {
           "en": "Yip Wong Estate",
           "tc": "業旺邨",
@@ -4034,7 +4034,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K53S-U040",
+        "stop_id": "K53S-U040",
         "name": {
           "en": "Tuen Mun Station",
           "tc": "屯門站 ",
@@ -4051,11 +4051,11 @@
     "route_id": "K54",
     "route": "K54",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K54-U010",
+        "stop_id": "K54-U010",
         "name": {
           "en": "Wo Tin Estate",
           "tc": "和田邨",
@@ -4066,7 +4066,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K54-U020",
+        "stop_id": "K54-U020",
         "name": {
           "en": "Ching Tin Estate",
           "tc": "菁田邨",
@@ -4077,7 +4077,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K54-U030",
+        "stop_id": "K54-U030",
         "name": {
           "en": "Tsz Tin Tsuen",
           "tc": "紫田村",
@@ -4088,7 +4088,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K54-U040",
+        "stop_id": "K54-U040",
         "name": {
           "en": "Yan Tin Estate",
           "tc": "欣田邨",
@@ -4099,7 +4099,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K54-U050",
+        "stop_id": "K54-U050",
         "name": {
           "en": "MTR Siu Hong Station (North) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (北) (輕鐵兆康站)",
@@ -4110,7 +4110,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K54-U060",
+        "stop_id": "K54-U060",
         "name": {
           "en": "Hung Kiu",
           "tc": "紅橋",
@@ -4121,7 +4121,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K54-U070",
+        "stop_id": "K54-U070",
         "name": {
           "en": "Tuen Mun Town Centre",
           "tc": "屯門市中心",
@@ -4132,7 +4132,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K54-D010",
+        "stop_id": "K54-D010",
         "name": {
           "en": "Tuen Mun Town Plaza",
           "tc": "屯門市廣場",
@@ -4143,7 +4143,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K54-D020",
+        "stop_id": "K54-D020",
         "name": {
           "en": "San Hui Market",
           "tc": "新墟街市",
@@ -4154,7 +4154,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K54-D030",
+        "stop_id": "K54-D030",
         "name": {
           "en": "MTR Siu Hong Station (North) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (北) (輕鐵兆康站)",
@@ -4165,7 +4165,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K54-D040",
+        "stop_id": "K54-D040",
         "name": {
           "en": "Siu Hong Court",
           "tc": "兆康苑",
@@ -4176,7 +4176,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K54-D050",
+        "stop_id": "K54-D050",
         "name": {
           "en": "Yan Po Road Public Transport Interchange",
           "tc": "欣寶路公共運輸交匯處",
@@ -4187,7 +4187,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K54-D060",
+        "stop_id": "K54-D060",
         "name": {
           "en": "Ching Tin Estate",
           "tc": "菁田邨",
@@ -4198,7 +4198,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K54-D070",
+        "stop_id": "K54-D070",
         "name": {
           "en": "Wo Tin Estate",
           "tc": "和田邨",
@@ -4215,11 +4215,11 @@
     "route_id": "K54A",
     "route": "K54A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K54A-D010",
+        "stop_id": "K54A-D010",
         "name": {
           "en": "MTR Siu Hong Station (North) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (北) (輕鐵兆康站)",
@@ -4230,7 +4230,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K54A-D020",
+        "stop_id": "K54A-D020",
         "name": {
           "en": "Siu Hong Court",
           "tc": "兆康苑",
@@ -4241,7 +4241,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K54A-D030",
+        "stop_id": "K54A-D030",
         "name": {
           "en": "Yan Po Road Public Transport Interchange",
           "tc": "欣寶路公共運輸交匯處",
@@ -4252,7 +4252,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K54A-D040",
+        "stop_id": "K54A-D040",
         "name": {
           "en": "Ching Tin Estate",
           "tc": "菁田邨",
@@ -4263,7 +4263,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K54A-D050",
+        "stop_id": "K54A-D050",
         "name": {
           "en": "Wo Tin Estate",
           "tc": "和田邨",
@@ -4280,11 +4280,11 @@
     "route_id": "K54A",
     "route": "K54A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K54A-U010",
+        "stop_id": "K54A-U010",
         "name": {
           "en": "Wo Tin Estate",
           "tc": "和田邨",
@@ -4295,7 +4295,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K54A-U020",
+        "stop_id": "K54A-U020",
         "name": {
           "en": "Ching Tin Estate",
           "tc": "菁田邨",
@@ -4306,7 +4306,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K54A-U030",
+        "stop_id": "K54A-U030",
         "name": {
           "en": "Tsz Tin Tsuen",
           "tc": "紫田村",
@@ -4317,7 +4317,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K54A-U040",
+        "stop_id": "K54A-U040",
         "name": {
           "en": "Yan Tin Estate",
           "tc": "欣田邨",
@@ -4328,7 +4328,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K54A-U050",
+        "stop_id": "K54A-U050",
         "name": {
           "en": "MTR Siu Hong Station (North) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (北) (輕鐵兆康站)",
@@ -4345,11 +4345,11 @@
     "route_id": "K58",
     "route": "K58",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K58-D001",
+        "stop_id": "K58-D001",
         "name": {
           "en": "So Kwun Wat Tsuen",
           "tc": "掃管笏村",
@@ -4360,7 +4360,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K58-D002",
+        "stop_id": "K58-D002",
         "name": {
           "en": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)",
           "tc": "掃管笏  (鄭任安夫人千禧小學)",
@@ -4371,7 +4371,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K58-D003",
+        "stop_id": "K58-D003",
         "name": {
           "en": "So Kwun Wat Road",
           "tc": "掃管笏路",
@@ -4382,7 +4382,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K58-D004",
+        "stop_id": "K58-D004",
         "name": {
           "en": "8 Kwun Chui Road",
           "tc": "管翠路8號",
@@ -4393,7 +4393,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K58-D005",
+        "stop_id": "K58-D005",
         "name": {
           "en": "Kwun Chui Road",
           "tc": "管翠路",
@@ -4404,7 +4404,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K58-D006",
+        "stop_id": "K58-D006",
         "name": {
           "en": "Aegean Coast",
           "tc": "愛琴海岸",
@@ -4415,7 +4415,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K58-D007",
+        "stop_id": "K58-D007",
         "name": {
           "en": "Hong Kong Gold Coast",
           "tc": "香港黃金海岸",
@@ -4426,7 +4426,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K58-D008",
+        "stop_id": "K58-D008",
         "name": {
           "en": "Golden Beach",
           "tc": "黃金泳灘",
@@ -4437,7 +4437,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K58-D009",
+        "stop_id": "K58-D009",
         "name": {
           "en": "Cafeteria Beach",
           "tc": "咖啡灣",
@@ -4448,7 +4448,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K58-D011",
+        "stop_id": "K58-D011",
         "name": {
           "en": "Bayview Terrace",
           "tc": "碧翠花園",
@@ -4459,7 +4459,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K58-D012",
+        "stop_id": "K58-D012",
         "name": {
           "en": "Castle Peak Bay Pier",
           "tc": "青山灣碼頭",
@@ -4470,7 +4470,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K58-D020",
+        "stop_id": "K58-D020",
         "name": {
           "en": "Sam Shing Estate",
           "tc": "三聖邨",
@@ -4481,7 +4481,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K58-D030",
+        "stop_id": "K58-D030",
         "name": {
           "en": "Mrs Aw Boon Haw Secondary School",
           "tc": "胡陳金枝中學",
@@ -4492,7 +4492,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K58-D040",
+        "stop_id": "K58-D040",
         "name": {
           "en": "Tsing Sin Playground",
           "tc": "青善遊樂場",
@@ -4503,7 +4503,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K58-D050",
+        "stop_id": "K58-D050",
         "name": {
           "en": "Chi Lok Fa Yuen",
           "tc": "置樂花園",
@@ -4514,7 +4514,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K58-D060",
+        "stop_id": "K58-D060",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -4525,7 +4525,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K58-D070",
+        "stop_id": "K58-D070",
         "name": {
           "en": "LR Town Centre Stop",
           "tc": "輕鐵市中心站",
@@ -4536,7 +4536,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K58-D080",
+        "stop_id": "K58-D080",
         "name": {
           "en": "LR Tuen Mun Stop (MTR Tuen Mun Station)",
           "tc": "輕鐵屯門站 (港鐵屯門站)",
@@ -4547,7 +4547,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K58-D090",
+        "stop_id": "K58-D090",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -4558,7 +4558,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K58-D100",
+        "stop_id": "K58-D100",
         "name": {
           "en": "LR Ming Kum Stop",
           "tc": "輕鐵鳴琴站",
@@ -4569,7 +4569,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K58-D110",
+        "stop_id": "K58-D110",
         "name": {
           "en": "LR Shek Pai Stop",
           "tc": "輕鐵石排站",
@@ -4580,7 +4580,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K58-D120",
+        "stop_id": "K58-D120",
         "name": {
           "en": "LR San Wai Stop",
           "tc": "輕鐵新圍站",
@@ -4591,7 +4591,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K58-D130",
+        "stop_id": "K58-D130",
         "name": {
           "en": "LR Tin King Stop",
           "tc": "輕鐵田景站",
@@ -4602,7 +4602,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K58-D140",
+        "stop_id": "K58-D140",
         "name": {
           "en": "Tsing Tin Playground",
           "tc": "青田遊樂場",
@@ -4613,7 +4613,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K58-D150",
+        "stop_id": "K58-D150",
         "name": {
           "en": "Lok Sang House, Kin Sang Estate",
           "tc": "建生邨樂生樓",
@@ -4624,7 +4624,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K58-D160",
+        "stop_id": "K58-D160",
         "name": {
           "en": "Tai Sang House, Kin Sang Estate",
           "tc": "建生邨泰生樓",
@@ -4635,7 +4635,7 @@
       },
       {
         "seq": 27,
-        "stopId": "K58-D170",
+        "stop_id": "K58-D170",
         "name": {
           "en": "LR Kei Lun Stop",
           "tc": "輕鐵麒麟站",
@@ -4646,7 +4646,7 @@
       },
       {
         "seq": 28,
-        "stopId": "K58-D180",
+        "stop_id": "K58-D180",
         "name": {
           "en": "Yan Tin Estate",
           "tc": "欣田邨",
@@ -4657,7 +4657,7 @@
       },
       {
         "seq": 29,
-        "stopId": "K58-D190",
+        "stop_id": "K58-D190",
         "name": {
           "en": "MTR Siu Hong Station (South) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (南) (輕鐵兆康站)",
@@ -4668,7 +4668,7 @@
       },
       {
         "seq": 30,
-        "stopId": "K58-D193",
+        "stop_id": "K58-D193",
         "name": {
           "en": "Brilliant Garden",
           "tc": "彩暉花園",
@@ -4679,7 +4679,7 @@
       },
       {
         "seq": 31,
-        "stopId": "K58-D196",
+        "stop_id": "K58-D196",
         "name": {
           "en": "Lingnan University",
           "tc": "嶺南大學",
@@ -4690,7 +4690,7 @@
       },
       {
         "seq": 32,
-        "stopId": "K58-D200",
+        "stop_id": "K58-D200",
         "name": {
           "en": "South Hillcrest",
           "tc": "倚嶺南庭",
@@ -4701,7 +4701,7 @@
       },
       {
         "seq": 33,
-        "stopId": "K58-D210",
+        "stop_id": "K58-D210",
         "name": {
           "en": "Fu Tai",
           "tc": "富泰",
@@ -4718,11 +4718,11 @@
     "route_id": "K58",
     "route": "K58",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K58-U010",
+        "stop_id": "K58-U010",
         "name": {
           "en": "Fu Tai",
           "tc": "富泰",
@@ -4733,7 +4733,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K58-U020",
+        "stop_id": "K58-U020",
         "name": {
           "en": "Beneville",
           "tc": "聚康山莊",
@@ -4744,7 +4744,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K58-U023",
+        "stop_id": "K58-U023",
         "name": {
           "en": "Lingnan University",
           "tc": "嶺南大學",
@@ -4755,7 +4755,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K58-U026",
+        "stop_id": "K58-U026",
         "name": {
           "en": "Brilliant Garden",
           "tc": "彩暉花園",
@@ -4766,7 +4766,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K58-U030",
+        "stop_id": "K58-U030",
         "name": {
           "en": "MTR Siu Hong Station (South) (LR Siu Hong Stop)",
           "tc": "港鐵兆康站 (南) (輕鐵兆康站)",
@@ -4777,7 +4777,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K58-U040",
+        "stop_id": "K58-U040",
         "name": {
           "en": "Siu Hong Court",
           "tc": "兆康苑",
@@ -4788,7 +4788,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K58-U050",
+        "stop_id": "K58-U050",
         "name": {
           "en": "LR Kei Lun Stop",
           "tc": "輕鐵麒麟站",
@@ -4799,7 +4799,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K58-U060",
+        "stop_id": "K58-U060",
         "name": {
           "en": "Tuen Mun Hospital",
           "tc": "屯門醫院",
@@ -4810,7 +4810,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K58-U070",
+        "stop_id": "K58-U070",
         "name": {
           "en": "Tsing Chung Koon",
           "tc": "青松觀",
@@ -4821,7 +4821,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K58-U080",
+        "stop_id": "K58-U080",
         "name": {
           "en": "PLK Vicwood K.T. Chong No.2 Primary School",
           "tc": "保良局莊啟程第二小學",
@@ -4832,7 +4832,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K58-U090",
+        "stop_id": "K58-U090",
         "name": {
           "en": "Ho Sau Kei Primary School",
           "tc": "何壽基小學",
@@ -4843,7 +4843,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K58-U100",
+        "stop_id": "K58-U100",
         "name": {
           "en": "Leung King Estate",
           "tc": "良景邨",
@@ -4854,7 +4854,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K58-U110",
+        "stop_id": "K58-U110",
         "name": {
           "en": "LR San Wai Stop",
           "tc": "輕鐵新圍站",
@@ -4865,7 +4865,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K58-U120",
+        "stop_id": "K58-U120",
         "name": {
           "en": "LR Shek Pai Stop",
           "tc": "輕鐵石排站",
@@ -4876,7 +4876,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K58-U130",
+        "stop_id": "K58-U130",
         "name": {
           "en": "LR Ming Kum Stop",
           "tc": "輕鐵鳴琴站",
@@ -4887,7 +4887,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K58-U140",
+        "stop_id": "K58-U140",
         "name": {
           "en": "LR Kin On Stop",
           "tc": "輕鐵建安站",
@@ -4898,7 +4898,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K58-U150",
+        "stop_id": "K58-U150",
         "name": {
           "en": "MTR Tuen Mun Station",
           "tc": "港鐵屯門站",
@@ -4909,7 +4909,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K58-U160",
+        "stop_id": "K58-U160",
         "name": {
           "en": "Tuen Mun Town Centre",
           "tc": "屯門市中心",
@@ -4920,7 +4920,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K58-U170",
+        "stop_id": "K58-U170",
         "name": {
           "en": "Tuen Mun Government Secondary School",
           "tc": "屯門官立中學",
@@ -4931,7 +4931,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K58-U180",
+        "stop_id": "K58-U180",
         "name": {
           "en": "Handsome Court",
           "tc": "恒順園",
@@ -4942,7 +4942,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K58-U190",
+        "stop_id": "K58-U190",
         "name": {
           "en": "Harvest Garden",
           "tc": "恒豐園",
@@ -4953,7 +4953,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K58-U200",
+        "stop_id": "K58-U200",
         "name": {
           "en": "Sam Shing Estate",
           "tc": "三聖邨",
@@ -4964,7 +4964,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K58-U215",
+        "stop_id": "K58-U215",
         "name": {
           "en": "Castle Peak Beach",
           "tc": "青山灣",
@@ -4975,7 +4975,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K58-U220",
+        "stop_id": "K58-U220",
         "name": {
           "en": "Seaview Garden",
           "tc": "海景花園",
@@ -4986,7 +4986,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K58-U230",
+        "stop_id": "K58-U230",
         "name": {
           "en": "Cafeteria Beach",
           "tc": "咖啡灣",
@@ -4997,7 +4997,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K58-U240",
+        "stop_id": "K58-U240",
         "name": {
           "en": "Golden Beach",
           "tc": "黃金泳灘",
@@ -5008,7 +5008,7 @@
       },
       {
         "seq": 27,
-        "stopId": "K58-U250",
+        "stop_id": "K58-U250",
         "name": {
           "en": "Hong Kong Gold Coast",
           "tc": "香港黃金海岸",
@@ -5019,7 +5019,7 @@
       },
       {
         "seq": 28,
-        "stopId": "K58-U260",
+        "stop_id": "K58-U260",
         "name": {
           "en": "Aegean Coast",
           "tc": "愛琴海岸",
@@ -5030,7 +5030,7 @@
       },
       {
         "seq": 29,
-        "stopId": "K58-U270",
+        "stop_id": "K58-U270",
         "name": {
           "en": "So Kwun Wat Sub-station",
           "tc": "掃管笏變電站",
@@ -5041,7 +5041,7 @@
       },
       {
         "seq": 30,
-        "stopId": "K58-U280",
+        "stop_id": "K58-U280",
         "name": {
           "en": "So Kwun Wat Tsuen",
           "tc": "掃管笏村",
@@ -5052,7 +5052,7 @@
       },
       {
         "seq": 31,
-        "stopId": "K58-U290",
+        "stop_id": "K58-U290",
         "name": {
           "en": "So Kwun Wat (Mrs. Cheng Yam On Millennium School)",
           "tc": "掃管笏 (鄭任安夫人千禧小學)",
@@ -5063,7 +5063,7 @@
       },
       {
         "seq": 32,
-        "stopId": "K58-U300",
+        "stop_id": "K58-U300",
         "name": {
           "en": "So Kwun Wat Road",
           "tc": "掃管笏路",
@@ -5074,7 +5074,7 @@
       },
       {
         "seq": 33,
-        "stopId": "K58-U310",
+        "stop_id": "K58-U310",
         "name": {
           "en": "8 Kwun Chui Road",
           "tc": "管翠路8號",
@@ -5085,7 +5085,7 @@
       },
       {
         "seq": 34,
-        "stopId": "K58-U320",
+        "stop_id": "K58-U320",
         "name": {
           "en": "Kwun Chui Road",
           "tc": "管翠路",
@@ -5102,11 +5102,11 @@
     "route_id": "K65",
     "route": "K65",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K65-D010",
+        "stop_id": "K65-D010",
         "name": {
           "en": "Lau Fau Shan",
           "tc": "流浮山",
@@ -5117,7 +5117,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K65-D020",
+        "stop_id": "K65-D020",
         "name": {
           "en": "San Hing Tsuen",
           "tc": "新慶村",
@@ -5128,7 +5128,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K65-D030",
+        "stop_id": "K65-D030",
         "name": {
           "en": "Sha Kong Wai",
           "tc": "沙江圍",
@@ -5139,7 +5139,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K65-D040",
+        "stop_id": "K65-D040",
         "name": {
           "en": "Fung Kong Tsuen",
           "tc": "鳳降村",
@@ -5150,7 +5150,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K65-D050",
+        "stop_id": "K65-D050",
         "name": {
           "en": "Tung Tau Tsuen",
           "tc": "東頭村",
@@ -5161,7 +5161,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K65-D060",
+        "stop_id": "K65-D060",
         "name": {
           "en": "Lo Uk Tsuen",
           "tc": "羅屋村",
@@ -5172,7 +5172,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K65-D070",
+        "stop_id": "K65-D070",
         "name": {
           "en": "Shek Kong Wai",
           "tc": "錫降圍",
@@ -5183,7 +5183,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K65-D080",
+        "stop_id": "K65-D080",
         "name": {
           "en": "Ha Tsuen",
           "tc": "廈村",
@@ -5194,7 +5194,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K65-D090",
+        "stop_id": "K65-D090",
         "name": {
           "en": "Sha Chau Lei Tsuen",
           "tc": "沙洲里村",
@@ -5205,7 +5205,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K65-D100",
+        "stop_id": "K65-D100",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -5216,7 +5216,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K65-D110",
+        "stop_id": "K65-D110",
         "name": {
           "en": "LR Hang Mei Tsuen Stop",
           "tc": "輕鐵坑尾村站",
@@ -5227,7 +5227,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K65-D120",
+        "stop_id": "K65-D120",
         "name": {
           "en": "Hang Mei Tsuen",
           "tc": "坑尾村",
@@ -5238,7 +5238,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K65-D130",
+        "stop_id": "K65-D130",
         "name": {
           "en": "Ping Hing Lane, Ping Shan",
           "tc": "屏山屏興里",
@@ -5249,7 +5249,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K65-D140",
+        "stop_id": "K65-D140",
         "name": {
           "en": "LR Ping Shan Stop",
           "tc": "輕鐵屏山站",
@@ -5260,7 +5260,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K65-D150",
+        "stop_id": "K65-D150",
         "name": {
           "en": "LR Shui Pin Wai Stop",
           "tc": "輕鐵水邊圍站",
@@ -5271,7 +5271,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K65-D160",
+        "stop_id": "K65-D160",
         "name": {
           "en": "Yuen Long Plaza",
           "tc": "元朗廣場",
@@ -5282,7 +5282,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K65-D170",
+        "stop_id": "K65-D170",
         "name": {
           "en": "Yuen Long Landmark",
           "tc": "開心廣場",
@@ -5293,7 +5293,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K65-D180",
+        "stop_id": "K65-D180",
         "name": {
           "en": "Kuk Ting Street",
           "tc": "谷亭街",
@@ -5304,7 +5304,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K65-D190",
+        "stop_id": "K65-D190",
         "name": {
           "en": "Yuen Long Station (LR Yuen Long Stop, MTR Yuen Long Station)",
           "tc": "元朗站 (輕鐵元朗站, 港鐵元朗站)",
@@ -5321,11 +5321,11 @@
     "route_id": "K65",
     "route": "K65",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K65-U010",
+        "stop_id": "K65-U010",
         "name": {
           "en": "Yuen Long Station (LR Yuen Long Stop) (MTR Yuen Long Station)",
           "tc": "元朗站 (輕鐵元朗站) (港鐵元朗站)",
@@ -5336,7 +5336,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K65-U020",
+        "stop_id": "K65-U020",
         "name": {
           "en": "Yau San Street",
           "tc": "又新街",
@@ -5347,7 +5347,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K65-U030",
+        "stop_id": "K65-U030",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -5358,7 +5358,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K65-U040",
+        "stop_id": "K65-U040",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -5369,7 +5369,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K65-U050",
+        "stop_id": "K65-U050",
         "name": {
           "en": "Yuen Long Police Station",
           "tc": "元朗警署",
@@ -5380,7 +5380,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K65-U060",
+        "stop_id": "K65-U060",
         "name": {
           "en": "LR Shui Pin Wai Stop",
           "tc": "輕鐵水邊圍站",
@@ -5391,7 +5391,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K65-U070",
+        "stop_id": "K65-U070",
         "name": {
           "en": "Yuen Long Park",
           "tc": "元朗公園",
@@ -5402,7 +5402,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K65-U080",
+        "stop_id": "K65-U080",
         "name": {
           "en": "Long Bin",
           "tc": "朗邊",
@@ -5413,7 +5413,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K65-U090",
+        "stop_id": "K65-U090",
         "name": {
           "en": "Ping Hing Lane, Ping Shan",
           "tc": "屏山屏興里",
@@ -5424,7 +5424,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K65-U100",
+        "stop_id": "K65-U100",
         "name": {
           "en": "Hang Mei Tsuen",
           "tc": "坑尾村",
@@ -5435,7 +5435,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K65-U110",
+        "stop_id": "K65-U110",
         "name": {
           "en": "LR Hang Mei Tsuen Stop",
           "tc": "輕鐵坑尾村站",
@@ -5446,7 +5446,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K65-U120",
+        "stop_id": "K65-U120",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -5457,7 +5457,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K65-U130",
+        "stop_id": "K65-U130",
         "name": {
           "en": "Shek Po Road",
           "tc": "石埗路",
@@ -5468,7 +5468,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K65-U140",
+        "stop_id": "K65-U140",
         "name": {
           "en": "Sha Chau Lei Tsuen",
           "tc": "沙洲里村",
@@ -5479,7 +5479,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K65-U150",
+        "stop_id": "K65-U150",
         "name": {
           "en": "Ha Tsuen",
           "tc": "廈村",
@@ -5490,7 +5490,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K65-U160",
+        "stop_id": "K65-U160",
         "name": {
           "en": "Shek Kong Wai",
           "tc": "錫降圍",
@@ -5501,7 +5501,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K65-U170",
+        "stop_id": "K65-U170",
         "name": {
           "en": "Lo Uk Tsuen",
           "tc": "羅屋村",
@@ -5512,7 +5512,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K65-U180",
+        "stop_id": "K65-U180",
         "name": {
           "en": "Tung Tau Tsuen (South)",
           "tc": "東頭村 (南)",
@@ -5523,7 +5523,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K65-U190",
+        "stop_id": "K65-U190",
         "name": {
           "en": "Tung Tau Tsuen (North)",
           "tc": "東頭村 (北)",
@@ -5534,7 +5534,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K65-U200",
+        "stop_id": "K65-U200",
         "name": {
           "en": "Fung Kong Tsuen",
           "tc": "鳳降村",
@@ -5545,7 +5545,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K65-U210",
+        "stop_id": "K65-U210",
         "name": {
           "en": "Sha Kong Wai",
           "tc": "沙江圍",
@@ -5556,7 +5556,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K65-U220",
+        "stop_id": "K65-U220",
         "name": {
           "en": "San Hing Tsuen",
           "tc": "新慶村",
@@ -5567,7 +5567,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K65-U230",
+        "stop_id": "K65-U230",
         "name": {
           "en": "Lau Fau Shan",
           "tc": "流浮山",
@@ -5584,11 +5584,11 @@
     "route_id": "K65A",
     "route": "K65A",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K65A-D010",
+        "stop_id": "K65A-D010",
         "name": {
           "en": "Lau Fau Shan",
           "tc": "流浮山",
@@ -5599,7 +5599,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K65A-D020",
+        "stop_id": "K65A-D020",
         "name": {
           "en": "San Hing Tsuen",
           "tc": "新慶村",
@@ -5610,7 +5610,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K65A-D030",
+        "stop_id": "K65A-D030",
         "name": {
           "en": "Sha Kong Wai",
           "tc": "沙江圍",
@@ -5621,7 +5621,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K65A-D040",
+        "stop_id": "K65A-D040",
         "name": {
           "en": "Fung Kong Tsuen",
           "tc": "鳳降村",
@@ -5632,7 +5632,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K65A-D050",
+        "stop_id": "K65A-D050",
         "name": {
           "en": "Tung Tau Tsuen",
           "tc": "東頭村",
@@ -5643,7 +5643,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K65A-D060",
+        "stop_id": "K65A-D060",
         "name": {
           "en": "Lo Uk Tsuen",
           "tc": "羅屋村",
@@ -5654,7 +5654,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K65A-D070",
+        "stop_id": "K65A-D070",
         "name": {
           "en": "Shek Kong Wai",
           "tc": "錫降圍",
@@ -5665,7 +5665,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K65A-D080",
+        "stop_id": "K65A-D080",
         "name": {
           "en": "Ha Tsuen",
           "tc": "廈村",
@@ -5676,7 +5676,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K65A-D090",
+        "stop_id": "K65A-D090",
         "name": {
           "en": "Sha Chau Lei Tsuen",
           "tc": "沙洲里村",
@@ -5687,7 +5687,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K65A-D100",
+        "stop_id": "K65A-D100",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -5698,7 +5698,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K65A-D110",
+        "stop_id": "K65A-D110",
         "name": {
           "en": "Tin Shui Wai Station (LR Tin Shui Wai Stop)",
           "tc": "天水圍站 (輕鐵天水圍站)",
@@ -5715,11 +5715,11 @@
     "route_id": "K65A",
     "route": "K65A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K65A-U010",
+        "stop_id": "K65A-U010",
         "name": {
           "en": "Tin Shui Wai Station (LR Tin Shui Wai Stop)",
           "tc": "天水圍站 (輕鐵天水圍站)",
@@ -5730,7 +5730,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K65A-U020",
+        "stop_id": "K65A-U020",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -5741,7 +5741,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K65A-U030",
+        "stop_id": "K65A-U030",
         "name": {
           "en": "Shek Po Road",
           "tc": "石埗路",
@@ -5752,7 +5752,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K65A-U040",
+        "stop_id": "K65A-U040",
         "name": {
           "en": "Sha Chau Lei Tsuen",
           "tc": "沙洲里村",
@@ -5763,7 +5763,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K65A-U050",
+        "stop_id": "K65A-U050",
         "name": {
           "en": "Ha Tsuen",
           "tc": "廈村",
@@ -5774,7 +5774,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K65A-U060",
+        "stop_id": "K65A-U060",
         "name": {
           "en": "Shek Kong Wai",
           "tc": "錫降圍",
@@ -5785,7 +5785,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K65A-U070",
+        "stop_id": "K65A-U070",
         "name": {
           "en": "Lo Uk Tsuen",
           "tc": "羅屋村",
@@ -5796,7 +5796,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K65A-U080",
+        "stop_id": "K65A-U080",
         "name": {
           "en": "Tung Tau Tsuen (South)",
           "tc": "東頭村 (南)",
@@ -5807,7 +5807,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K65A-U090",
+        "stop_id": "K65A-U090",
         "name": {
           "en": "Tung Tau Tsuen (North)",
           "tc": "東頭村 (北)",
@@ -5818,7 +5818,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K65A-U100",
+        "stop_id": "K65A-U100",
         "name": {
           "en": "Fung Kong Tsuen",
           "tc": "鳳降村",
@@ -5829,7 +5829,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K65A-U110",
+        "stop_id": "K65A-U110",
         "name": {
           "en": "Sha Kong Wai",
           "tc": "沙江圍",
@@ -5840,7 +5840,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K65A-U120",
+        "stop_id": "K65A-U120",
         "name": {
           "en": "San Hing Tsuen",
           "tc": "新慶村",
@@ -5851,7 +5851,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K65A-U130",
+        "stop_id": "K65A-U130",
         "name": {
           "en": "Lau Fau Shan",
           "tc": "流浮山",
@@ -5868,11 +5868,11 @@
     "route_id": "K66-1",
     "route": "K66",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K66-D010",
+        "stop_id": "K66-D010",
         "name": {
           "en": "Tai Tong Wong Nai Tun Tsuen",
           "tc": "大棠黃泥墩村",
@@ -5883,7 +5883,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K66-D020",
+        "stop_id": "K66-D020",
         "name": {
           "en": "Tai Tong Shan Road",
           "tc": "大棠山路",
@@ -5894,7 +5894,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K66-D030",
+        "stop_id": "K66-D030",
         "name": {
           "en": "Tai Tong Roundabout",
           "tc": "大棠迴旋處",
@@ -5905,7 +5905,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K66-D040",
+        "stop_id": "K66-D040",
         "name": {
           "en": "Wah Yuen",
           "tc": "華苑",
@@ -5916,7 +5916,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K66-D050",
+        "stop_id": "K66-D050",
         "name": {
           "en": "Shui Chiu San Tsuen",
           "tc": "水蕉新村",
@@ -5927,7 +5927,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K66-D060",
+        "stop_id": "K66-D060",
         "name": {
           "en": "Nam Hang Pai",
           "tc": "南坑排",
@@ -5938,7 +5938,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K66-D070",
+        "stop_id": "K66-D070",
         "name": {
           "en": "Nam Hang Tsuen",
           "tc": "南坑村",
@@ -5949,7 +5949,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K66-D080",
+        "stop_id": "K66-D080",
         "name": {
           "en": "Hung Tso Tin Tsuen",
           "tc": "紅棗田村",
@@ -5960,7 +5960,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K66-D090",
+        "stop_id": "K66-D090",
         "name": {
           "en": "Po Shing Wai",
           "tc": "普盛圍",
@@ -5971,7 +5971,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K66-D100",
+        "stop_id": "K66-D100",
         "name": {
           "en": "Shung Ching School",
           "tc": "崇正公立學校",
@@ -5982,7 +5982,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K66-D110",
+        "stop_id": "K66-D110",
         "name": {
           "en": "Law Ka Yuen",
           "tc": "羅家園",
@@ -5993,7 +5993,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K66-D120",
+        "stop_id": "K66-D120",
         "name": {
           "en": "Sham Chung Tsuen",
           "tc": "深涌村",
@@ -6004,7 +6004,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K66-D130",
+        "stop_id": "K66-D130",
         "name": {
           "en": "Fraser Village",
           "tc": "禮修村",
@@ -6015,7 +6015,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K66-D140",
+        "stop_id": "K66-D140",
         "name": {
           "en": "Sereno Verde",
           "tc": "蝶翠峰",
@@ -6026,7 +6026,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K66-D150",
+        "stop_id": "K66-D150",
         "name": {
           "en": "Hang Heung Cake Shop",
           "tc": "恆香製餅廠",
@@ -6037,7 +6037,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K66-D160",
+        "stop_id": "K66-D160",
         "name": {
           "en": "Manhattan Plaza",
           "tc": "富達廣場",
@@ -6048,7 +6048,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K66-D170",
+        "stop_id": "K66-D170",
         "name": {
           "en": "Citi Mall",
           "tc": "千色廣場",
@@ -6059,7 +6059,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K66-D180",
+        "stop_id": "K66-D180",
         "name": {
           "en": "On Hong Road",
           "tc": "安康路",
@@ -6070,7 +6070,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K66-D190",
+        "stop_id": "K66-D190",
         "name": {
           "en": "Yuen Long Town Hall ",
           "tc": "元朗大會堂 ",
@@ -6081,7 +6081,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K66-D200",
+        "stop_id": "K66-D200",
         "name": {
           "en": "Hong Shui House, Shui Pin Wai Estate",
           "tc": "水邊圍邨康水樓",
@@ -6092,7 +6092,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K66-D210",
+        "stop_id": "K66-D210",
         "name": {
           "en": "Yuet Ping House, Long Ping Estate ",
           "tc": "朗屏邨悅屏樓 ",
@@ -6109,11 +6109,11 @@
     "route_id": "K66-2",
     "route": "K66",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K66-D010",
+        "stop_id": "K66-D010",
         "name": {
           "en": "Tai Tong Wong Nai Tun Tsuen",
           "tc": "大棠黃泥墩村",
@@ -6124,7 +6124,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K66-D020",
+        "stop_id": "K66-D020",
         "name": {
           "en": "Tai Tong Shan Road",
           "tc": "大棠山路",
@@ -6135,7 +6135,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K66-D030",
+        "stop_id": "K66-D030",
         "name": {
           "en": "Tai Tong Roundabout",
           "tc": "大棠迴旋處",
@@ -6146,7 +6146,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K66-D040",
+        "stop_id": "K66-D040",
         "name": {
           "en": "Wah Yuen",
           "tc": "華苑",
@@ -6157,7 +6157,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K66-D050",
+        "stop_id": "K66-D050",
         "name": {
           "en": "Shui Chiu San Tsuen",
           "tc": "水蕉新村",
@@ -6168,7 +6168,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K66-D060",
+        "stop_id": "K66-D060",
         "name": {
           "en": "Nam Hang Pai",
           "tc": "南坑排",
@@ -6179,7 +6179,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K66-D070",
+        "stop_id": "K66-D070",
         "name": {
           "en": "Nam Hang Tsuen",
           "tc": "南坑村",
@@ -6190,7 +6190,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K66-D080",
+        "stop_id": "K66-D080",
         "name": {
           "en": "Hung Tso Tin Tsuen",
           "tc": "紅棗田村",
@@ -6201,7 +6201,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K66-D090",
+        "stop_id": "K66-D090",
         "name": {
           "en": "Po Shing Wai",
           "tc": "普盛圍",
@@ -6212,7 +6212,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K66-D100",
+        "stop_id": "K66-D100",
         "name": {
           "en": "Shung Ching School",
           "tc": "崇正公立學校",
@@ -6223,7 +6223,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K66-D110",
+        "stop_id": "K66-D110",
         "name": {
           "en": "Law Ka Yuen",
           "tc": "羅家園",
@@ -6234,7 +6234,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K66-D120",
+        "stop_id": "K66-D120",
         "name": {
           "en": "Sham Chung Tsuen",
           "tc": "深涌村",
@@ -6245,7 +6245,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K66-D130",
+        "stop_id": "K66-D130",
         "name": {
           "en": "Fraser Village",
           "tc": "禮修村",
@@ -6256,7 +6256,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K66-D140",
+        "stop_id": "K66-D140",
         "name": {
           "en": "Sereno Verde",
           "tc": "蝶翠峰",
@@ -6267,7 +6267,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K66-D150",
+        "stop_id": "K66-D150",
         "name": {
           "en": "Hang Heung Cake Shop",
           "tc": "恆香製餅廠",
@@ -6278,7 +6278,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K66-D160",
+        "stop_id": "K66-D160",
         "name": {
           "en": "Manhattan Plaza",
           "tc": "富達廣場",
@@ -6289,7 +6289,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K66-D170",
+        "stop_id": "K66-D170",
         "name": {
           "en": "Citi Mall",
           "tc": "千色廣場",
@@ -6300,7 +6300,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K66-D180",
+        "stop_id": "K66-D180",
         "name": {
           "en": "On Hong Road",
           "tc": "安康路",
@@ -6317,11 +6317,11 @@
     "route_id": "K66-3",
     "route": "K66",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K66-D060",
+        "stop_id": "K66-D060",
         "name": {
           "en": "Nam Hang Pai",
           "tc": "南坑排",
@@ -6332,7 +6332,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K66-D070",
+        "stop_id": "K66-D070",
         "name": {
           "en": "Nam Hang Tsuen",
           "tc": "南坑村",
@@ -6343,7 +6343,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K66-D080",
+        "stop_id": "K66-D080",
         "name": {
           "en": "Hung Tso Tin Tsuen",
           "tc": "紅棗田村",
@@ -6354,7 +6354,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K66-D090",
+        "stop_id": "K66-D090",
         "name": {
           "en": "Po Shing Wai",
           "tc": "普盛圍",
@@ -6365,7 +6365,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K66-D100",
+        "stop_id": "K66-D100",
         "name": {
           "en": "Shung Ching School",
           "tc": "崇正公立學校",
@@ -6376,7 +6376,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K66-D110",
+        "stop_id": "K66-D110",
         "name": {
           "en": "Law Ka Yuen",
           "tc": "羅家園",
@@ -6387,7 +6387,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K66-D120",
+        "stop_id": "K66-D120",
         "name": {
           "en": "Sham Chung Tsuen",
           "tc": "深涌村",
@@ -6398,7 +6398,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K66-D130",
+        "stop_id": "K66-D130",
         "name": {
           "en": "Fraser Village",
           "tc": "禮修村",
@@ -6409,7 +6409,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K66-D140",
+        "stop_id": "K66-D140",
         "name": {
           "en": "Sereno Verde",
           "tc": "蝶翠峰",
@@ -6420,7 +6420,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K66-D150",
+        "stop_id": "K66-D150",
         "name": {
           "en": "Hang Heung Cake Shop",
           "tc": "恆香製餅廠",
@@ -6431,7 +6431,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K66-D160",
+        "stop_id": "K66-D160",
         "name": {
           "en": "Manhattan Plaza",
           "tc": "富達廣場",
@@ -6442,7 +6442,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K66-D170",
+        "stop_id": "K66-D170",
         "name": {
           "en": "Citi Mall",
           "tc": "千色廣場",
@@ -6453,7 +6453,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K66-D180",
+        "stop_id": "K66-D180",
         "name": {
           "en": "On Hong Road",
           "tc": "安康路",
@@ -6464,7 +6464,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K66-D190",
+        "stop_id": "K66-D190",
         "name": {
           "en": "Yuen Long Town Hall ",
           "tc": "元朗大會堂 ",
@@ -6475,7 +6475,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K66-D200",
+        "stop_id": "K66-D200",
         "name": {
           "en": "Hong Shui House, Shui Pin Wai Estate",
           "tc": "水邊圍邨康水樓",
@@ -6486,7 +6486,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K66-D210",
+        "stop_id": "K66-D210",
         "name": {
           "en": "Yuet Ping House, Long Ping Estate ",
           "tc": "朗屏邨悅屏樓 ",
@@ -6497,7 +6497,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K66-D220",
+        "stop_id": "K66-D220",
         "name": {
           "en": "Wai Chow School",
           "tc": "惠州學校",
@@ -6508,7 +6508,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K66-D230",
+        "stop_id": "K66-D230",
         "name": {
           "en": "Chu Ping House, Long Ping Estate",
           "tc": "朗屏邨珠屏樓",
@@ -6519,7 +6519,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K66-D240",
+        "stop_id": "K66-D240",
         "name": {
           "en": "Long Ping",
           "tc": "朗屏",
@@ -6536,11 +6536,11 @@
     "route_id": "K66",
     "route": "K66",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K66-D010",
+        "stop_id": "K66-D010",
         "name": {
           "en": "Tai Tong Wong Nai Tun Tsuen",
           "tc": "大棠黃泥墩村",
@@ -6551,7 +6551,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K66-D020",
+        "stop_id": "K66-D020",
         "name": {
           "en": "Tai Tong Shan Road",
           "tc": "大棠山路",
@@ -6562,7 +6562,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K66-D030",
+        "stop_id": "K66-D030",
         "name": {
           "en": "Tai Tong Roundabout",
           "tc": "大棠迴旋處",
@@ -6573,7 +6573,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K66-D040",
+        "stop_id": "K66-D040",
         "name": {
           "en": "Wah Yuen",
           "tc": "華苑",
@@ -6584,7 +6584,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K66-D050",
+        "stop_id": "K66-D050",
         "name": {
           "en": "Shui Chiu San Tsuen",
           "tc": "水蕉新村",
@@ -6595,7 +6595,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K66-D060",
+        "stop_id": "K66-D060",
         "name": {
           "en": "Nam Hang Pai",
           "tc": "南坑排",
@@ -6606,7 +6606,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K66-D070",
+        "stop_id": "K66-D070",
         "name": {
           "en": "Nam Hang Tsuen",
           "tc": "南坑村",
@@ -6617,7 +6617,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K66-D080",
+        "stop_id": "K66-D080",
         "name": {
           "en": "Hung Tso Tin Tsuen",
           "tc": "紅棗田村",
@@ -6628,7 +6628,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K66-D090",
+        "stop_id": "K66-D090",
         "name": {
           "en": "Po Shing Wai",
           "tc": "普盛圍",
@@ -6639,7 +6639,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K66-D100",
+        "stop_id": "K66-D100",
         "name": {
           "en": "Shung Ching School",
           "tc": "崇正公立學校",
@@ -6650,7 +6650,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K66-D110",
+        "stop_id": "K66-D110",
         "name": {
           "en": "Law Ka Yuen",
           "tc": "羅家園",
@@ -6661,7 +6661,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K66-D120",
+        "stop_id": "K66-D120",
         "name": {
           "en": "Sham Chung Tsuen",
           "tc": "深涌村",
@@ -6672,7 +6672,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K66-D130",
+        "stop_id": "K66-D130",
         "name": {
           "en": "Fraser Village",
           "tc": "禮修村",
@@ -6683,7 +6683,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K66-D140",
+        "stop_id": "K66-D140",
         "name": {
           "en": "Sereno Verde",
           "tc": "蝶翠峰",
@@ -6694,7 +6694,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K66-D150",
+        "stop_id": "K66-D150",
         "name": {
           "en": "Hang Heung Cake Shop",
           "tc": "恆香製餅廠",
@@ -6705,7 +6705,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K66-D160",
+        "stop_id": "K66-D160",
         "name": {
           "en": "Manhattan Plaza",
           "tc": "富達廣場",
@@ -6716,7 +6716,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K66-D170",
+        "stop_id": "K66-D170",
         "name": {
           "en": "Citi Mall",
           "tc": "千色廣場",
@@ -6727,7 +6727,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K66-D180",
+        "stop_id": "K66-D180",
         "name": {
           "en": "On Hong Road",
           "tc": "安康路",
@@ -6738,7 +6738,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K66-D190",
+        "stop_id": "K66-D190",
         "name": {
           "en": "Yuen Long Town Hall (LR Fung Nin Road Stop)",
           "tc": "元朗大會堂 (輕鐵豐年路站)",
@@ -6749,7 +6749,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K66-D200",
+        "stop_id": "K66-D200",
         "name": {
           "en": "Hong Shui House, Shui Pin Wai Estate",
           "tc": "水邊圍邨康水樓",
@@ -6760,7 +6760,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K66-D210",
+        "stop_id": "K66-D210",
         "name": {
           "en": "Yuet Ping House, Long Ping Estate (MTR Long Ping Station)",
           "tc": "朗屏邨悅屏樓 (港鐵朗屏站)",
@@ -6771,7 +6771,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K66-D220",
+        "stop_id": "K66-D220",
         "name": {
           "en": "Wai Chow School",
           "tc": "惠州學校",
@@ -6782,7 +6782,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K66-D230",
+        "stop_id": "K66-D230",
         "name": {
           "en": "Chu Ping House, Long Ping Estate",
           "tc": "朗屏邨珠屏樓",
@@ -6793,7 +6793,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K66-D240",
+        "stop_id": "K66-D240",
         "name": {
           "en": "Long Ping",
           "tc": "朗屏",
@@ -6810,11 +6810,11 @@
     "route_id": "K66",
     "route": "K66",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K66-U010",
+        "stop_id": "K66-U010",
         "name": {
           "en": "Long Ping",
           "tc": "朗屏",
@@ -6825,7 +6825,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K66-U020",
+        "stop_id": "K66-U020",
         "name": {
           "en": "Yeung Uk Tsuen",
           "tc": "楊屋村",
@@ -6836,7 +6836,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K66-U030",
+        "stop_id": "K66-U030",
         "name": {
           "en": "Ping Cheong Path (MTR Long Ping Station)",
           "tc": "屏昌徑 (港鐵朗屏站)",
@@ -6847,7 +6847,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K66-U040",
+        "stop_id": "K66-U040",
         "name": {
           "en": "Yuen Long Home for the Aged Blind",
           "tc": "元朗盲人安老院",
@@ -6858,7 +6858,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K66-U050",
+        "stop_id": "K66-U050",
         "name": {
           "en": "Yuen Long Town Hall (LR Fung Nin Road Stop)",
           "tc": "元朗大會堂 (輕鐵豐年路站)",
@@ -6869,7 +6869,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K66-U060",
+        "stop_id": "K66-U060",
         "name": {
           "en": "On Hong Road",
           "tc": "安康路",
@@ -6880,7 +6880,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K66-U070",
+        "stop_id": "K66-U070",
         "name": {
           "en": "Yuen Long Commercial Centre",
           "tc": "元朗商業中心",
@@ -6891,7 +6891,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K66-U080",
+        "stop_id": "K66-U080",
         "name": {
           "en": "Manhattan Plaza",
           "tc": "富達廣場",
@@ -6902,7 +6902,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K66-U090",
+        "stop_id": "K66-U090",
         "name": {
           "en": "Sereno Verde",
           "tc": "蝶翠峰",
@@ -6913,7 +6913,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K66-U100",
+        "stop_id": "K66-U100",
         "name": {
           "en": "Fraser Village",
           "tc": "禮修村",
@@ -6924,7 +6924,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K66-U110",
+        "stop_id": "K66-U110",
         "name": {
           "en": "Sham Chung Tsuen",
           "tc": "深涌村",
@@ -6935,7 +6935,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K66-U120",
+        "stop_id": "K66-U120",
         "name": {
           "en": "Law Ka Yuen",
           "tc": "羅家園",
@@ -6946,7 +6946,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K66-U130",
+        "stop_id": "K66-U130",
         "name": {
           "en": "Shung Ching School",
           "tc": "崇正公立學校",
@@ -6957,7 +6957,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K66-U140",
+        "stop_id": "K66-U140",
         "name": {
           "en": "Shung Ching Vegetable Market",
           "tc": "崇正菜站",
@@ -6968,7 +6968,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K66-U150",
+        "stop_id": "K66-U150",
         "name": {
           "en": "Lo Wai",
           "tc": "老圍",
@@ -6979,7 +6979,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K66-U160",
+        "stop_id": "K66-U160",
         "name": {
           "en": "Chun Wah Villas",
           "tc": "振華花園",
@@ -6990,7 +6990,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K66-U170",
+        "stop_id": "K66-U170",
         "name": {
           "en": "Nam Hang Pai",
           "tc": "南坑排",
@@ -7001,7 +7001,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K66-U180",
+        "stop_id": "K66-U180",
         "name": {
           "en": "Shui Chiu San Tsuen",
           "tc": "水蕉新村",
@@ -7012,7 +7012,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K66-U190",
+        "stop_id": "K66-U190",
         "name": {
           "en": "Wah Yuen",
           "tc": "華苑",
@@ -7023,7 +7023,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K66-U200",
+        "stop_id": "K66-U200",
         "name": {
           "en": "Tai Tong Roundabout",
           "tc": "大棠迴旋處",
@@ -7034,7 +7034,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K66-U210",
+        "stop_id": "K66-U210",
         "name": {
           "en": "Tai Tong Shan Road",
           "tc": "大棠山路",
@@ -7045,7 +7045,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K66-U220",
+        "stop_id": "K66-U220",
         "name": {
           "en": "Tai Tong Wong Nai Tun Tsuen",
           "tc": "大棠黃泥墩村",
@@ -7062,11 +7062,11 @@
     "route_id": "K68-1",
     "route": "K68",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K68-U160",
+        "stop_id": "K68-U160",
         "name": {
           "en": "Silver Field Garden",
           "tc": "銀田花園",
@@ -7077,7 +7077,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K68-U170",
+        "stop_id": "K68-U170",
         "name": {
           "en": "South Yuen Long Government Primary School",
           "tc": "南元朗官立小學",
@@ -7088,7 +7088,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K68-D010",
+        "stop_id": "K68-D010",
         "name": {
           "en": "Yuen Long Park",
           "tc": "元朗公園",
@@ -7099,7 +7099,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K68-D020",
+        "stop_id": "K68-D020",
         "name": {
           "en": "Park Royale",
           "tc": "御豪山莊",
@@ -7110,7 +7110,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K68-D030",
+        "stop_id": "K68-D030",
         "name": {
           "en": "Villa Art Deco",
           "tc": "藝典居",
@@ -7121,7 +7121,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K68-D040",
+        "stop_id": "K68-D040",
         "name": {
           "en": "Springdale Villas",
           "tc": "御庭居",
@@ -7132,7 +7132,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K68-D050",
+        "stop_id": "K68-D050",
         "name": {
           "en": "Yuen Long Swimming Pool",
           "tc": "元朗游泳池",
@@ -7143,7 +7143,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K68-D060",
+        "stop_id": "K68-D060",
         "name": {
           "en": "Yuen Long Town Hall",
           "tc": "元朗大會堂",
@@ -7154,7 +7154,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K68-D070",
+        "stop_id": "K68-D070",
         "name": {
           "en": "Yuen Long Plaza ",
           "tc": "元朗廣場 ",
@@ -7165,7 +7165,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K68-D080",
+        "stop_id": "K68-D080",
         "name": {
           "en": "Yuen Long On Ning Road",
           "tc": "元朗安寧路",
@@ -7176,7 +7176,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K68-D090",
+        "stop_id": "K68-D090",
         "name": {
           "en": "Tai Kiu Tsuen ",
           "tc": "大橋村 ",
@@ -7187,7 +7187,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K68-D100",
+        "stop_id": "K68-D100",
         "name": {
           "en": "Wai Chow School",
           "tc": "惠州學校",
@@ -7198,7 +7198,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K68-D110",
+        "stop_id": "K68-D110",
         "name": {
           "en": "Chu Ping House, Long Ping Estate",
           "tc": "朗屏邨珠屏樓",
@@ -7209,7 +7209,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K68-D120",
+        "stop_id": "K68-D120",
         "name": {
           "en": "Long Ping ",
           "tc": "朗屏 ",
@@ -7220,7 +7220,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K68-D130",
+        "stop_id": "K68-D130",
         "name": {
           "en": "Wang Chau Fuk Hing Tsuen",
           "tc": "橫洲福慶村",
@@ -7231,7 +7231,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K68-D140",
+        "stop_id": "K68-D140",
         "name": {
           "en": "Yuen Long Textile Co Ltd",
           "tc": "元朗紡織品",
@@ -7242,7 +7242,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K68-D150",
+        "stop_id": "K68-D150",
         "name": {
           "en": "DCH Food Processing & Logistics Centre",
           "tc": "大昌行食品加工及物流中心",
@@ -7253,7 +7253,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K68-D160",
+        "stop_id": "K68-D160",
         "name": {
           "en": "Yau Sang Galvanizers (Hot-Dip) Co Ltd",
           "tc": "有生鉛水(熱浸鋅)",
@@ -7264,7 +7264,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K68-D170",
+        "stop_id": "K68-D170",
         "name": {
           "en": "Eu Yan Sang Centre",
           "tc": "余仁生中心",
@@ -7275,7 +7275,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K68-D180",
+        "stop_id": "K68-D180",
         "name": {
           "en": "Yuen Long Sewage Treatment Works",
           "tc": "元朗污水處理廠",
@@ -7286,7 +7286,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K68-D190",
+        "stop_id": "K68-D190",
         "name": {
           "en": "Nestle (HK) Ltd",
           "tc": "雀巢",
@@ -7297,7 +7297,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K68-D200",
+        "stop_id": "K68-D200",
         "name": {
           "en": "Ushio HK Ltd",
           "tc": "牛尾香港",
@@ -7308,7 +7308,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K68-U011",
+        "stop_id": "K68-U011",
         "name": {
           "en": "Yuen Long Industrial Estate",
           "tc": "元朗工業邨",
@@ -7325,11 +7325,11 @@
     "route_id": "K68-2",
     "route": "K68",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K68-D070",
+        "stop_id": "K68-D070",
         "name": {
           "en": "Yuen Long Plaza ",
           "tc": "元朗廣場 ",
@@ -7340,7 +7340,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K68-D080",
+        "stop_id": "K68-D080",
         "name": {
           "en": "Yuen Long On Ning Road",
           "tc": "元朗安寧路",
@@ -7351,7 +7351,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K68-D090",
+        "stop_id": "K68-D090",
         "name": {
           "en": "Tai Kiu Tsuen ",
           "tc": "大橋村 ",
@@ -7362,7 +7362,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K68-D100",
+        "stop_id": "K68-D100",
         "name": {
           "en": "Wai Chow School",
           "tc": "惠州學校",
@@ -7373,7 +7373,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K68-D110",
+        "stop_id": "K68-D110",
         "name": {
           "en": "Chu Ping House, Long Ping Estate",
           "tc": "朗屏邨珠屏樓",
@@ -7384,7 +7384,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K68-D120",
+        "stop_id": "K68-D120",
         "name": {
           "en": "Long Ping ",
           "tc": "朗屏 ",
@@ -7395,7 +7395,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K68-D130",
+        "stop_id": "K68-D130",
         "name": {
           "en": "Wang Chau Fuk Hing Tsuen",
           "tc": "橫洲福慶村",
@@ -7406,7 +7406,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K68-D140",
+        "stop_id": "K68-D140",
         "name": {
           "en": "Yuen Long Textile Co Ltd",
           "tc": "元朗紡織品",
@@ -7417,7 +7417,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K68-D150",
+        "stop_id": "K68-D150",
         "name": {
           "en": "DCH Food Processing & Logistics Centre",
           "tc": "大昌行食品加工及物流中心",
@@ -7428,7 +7428,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K68-D160",
+        "stop_id": "K68-D160",
         "name": {
           "en": "Yau Sang Galvanizers (Hot-Dip) Co Ltd",
           "tc": "有生鉛水(熱浸鋅)",
@@ -7439,7 +7439,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K68-D170",
+        "stop_id": "K68-D170",
         "name": {
           "en": "Eu Yan Sang Centre",
           "tc": "余仁生中心",
@@ -7450,7 +7450,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K68-D180",
+        "stop_id": "K68-D180",
         "name": {
           "en": "Yuen Long Sewage Treatment Works",
           "tc": "元朗污水處理廠",
@@ -7461,7 +7461,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K68-D190",
+        "stop_id": "K68-D190",
         "name": {
           "en": "Nestle (HK) Ltd",
           "tc": "雀巢",
@@ -7472,7 +7472,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K68-D200",
+        "stop_id": "K68-D200",
         "name": {
           "en": "Ushio HK Ltd",
           "tc": "牛尾香港",
@@ -7483,7 +7483,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K68-U011",
+        "stop_id": "K68-U011",
         "name": {
           "en": "Yuen Long Industrial Estate",
           "tc": "元朗工業邨",
@@ -7500,11 +7500,11 @@
     "route_id": "K68-3",
     "route": "K68",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K68-D090",
+        "stop_id": "K68-D090",
         "name": {
           "en": "Tai Kiu Tsuen ",
           "tc": "大橋村 ",
@@ -7515,7 +7515,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K68-D100",
+        "stop_id": "K68-D100",
         "name": {
           "en": "Wai Chow School",
           "tc": "惠州學校",
@@ -7526,7 +7526,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K68-D110",
+        "stop_id": "K68-D110",
         "name": {
           "en": "Chu Ping House, Long Ping Estate",
           "tc": "朗屏邨珠屏樓",
@@ -7537,7 +7537,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K68-D120",
+        "stop_id": "K68-D120",
         "name": {
           "en": "Long Ping ",
           "tc": "朗屏 ",
@@ -7548,7 +7548,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K68-D130",
+        "stop_id": "K68-D130",
         "name": {
           "en": "Wang Chau Fuk Hing Tsuen",
           "tc": "橫洲福慶村",
@@ -7559,7 +7559,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K68-D140",
+        "stop_id": "K68-D140",
         "name": {
           "en": "Yuen Long Textile Co Ltd",
           "tc": "元朗紡織品",
@@ -7570,7 +7570,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K68-D150",
+        "stop_id": "K68-D150",
         "name": {
           "en": "DCH Food Processing & Logistics Centre",
           "tc": "大昌行食品加工及物流中心",
@@ -7581,7 +7581,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K68-D160",
+        "stop_id": "K68-D160",
         "name": {
           "en": "Yau Sang Galvanizers (Hot-Dip) Co Ltd",
           "tc": "有生鉛水(熱浸鋅)",
@@ -7592,7 +7592,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K68-D170",
+        "stop_id": "K68-D170",
         "name": {
           "en": "Eu Yan Sang Centre",
           "tc": "余仁生中心",
@@ -7603,7 +7603,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K68-D180",
+        "stop_id": "K68-D180",
         "name": {
           "en": "Yuen Long Sewage Treatment Works",
           "tc": "元朗污水處理廠",
@@ -7614,7 +7614,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K68-D190",
+        "stop_id": "K68-D190",
         "name": {
           "en": "Nestle (HK) Ltd",
           "tc": "雀巢",
@@ -7625,7 +7625,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K68-D200",
+        "stop_id": "K68-D200",
         "name": {
           "en": "Ushio HK Ltd",
           "tc": "牛尾香港",
@@ -7636,7 +7636,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K68-U011",
+        "stop_id": "K68-U011",
         "name": {
           "en": "Yuen Long Industrial Estate",
           "tc": "元朗工業邨",
@@ -7653,11 +7653,11 @@
     "route_id": "K68-4",
     "route": "K68",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K68-U010",
+        "stop_id": "K68-U010",
         "name": {
           "en": "Yuen Long Industrial Estate",
           "tc": "元朗工業邨",
@@ -7668,7 +7668,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K68-U020",
+        "stop_id": "K68-U020",
         "name": {
           "en": "Toppan Forms Card Tech Ltd",
           "tc": "凸版資訊卡",
@@ -7679,7 +7679,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K68-U030",
+        "stop_id": "K68-U030",
         "name": {
           "en": "Nestle (HK) Ltd",
           "tc": "雀巢",
@@ -7690,7 +7690,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K68-U040",
+        "stop_id": "K68-U040",
         "name": {
           "en": "Yuen Long Sewage Treatment Works",
           "tc": "元朗污水處理廠",
@@ -7701,7 +7701,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K68-U050",
+        "stop_id": "K68-U050",
         "name": {
           "en": "Wai Yuen Tong Medicine Building",
           "tc": "位元堂藥業大廈",
@@ -7712,7 +7712,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K68-U060",
+        "stop_id": "K68-U060",
         "name": {
           "en": "TDK Manufacturing (HK) Co Ltd",
           "tc": "東電化電子零件",
@@ -7723,7 +7723,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K68-U070",
+        "stop_id": "K68-U070",
         "name": {
           "en": "Toppan Printing Co (HK) Ltd",
           "tc": "凸版印刷",
@@ -7734,7 +7734,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K68-U080",
+        "stop_id": "K68-U080",
         "name": {
           "en": "Telford International Industries Ltd",
           "tc": "匯泉國際實業",
@@ -7745,7 +7745,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K68-U090",
+        "stop_id": "K68-U090",
         "name": {
           "en": "Wang Chau Fuk Hing Tsuen",
           "tc": "橫洲福慶村",
@@ -7756,7 +7756,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K68-U100",
+        "stop_id": "K68-U100",
         "name": {
           "en": "Long Ping ",
           "tc": "朗屏 ",
@@ -7767,7 +7767,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K68-U110",
+        "stop_id": "K68-U110",
         "name": {
           "en": "Yeung Uk Tsuen",
           "tc": "楊屋村",
@@ -7778,7 +7778,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K68-D090",
+        "stop_id": "K68-D090",
         "name": {
           "en": "Tai Kiu Tsuen ",
           "tc": "大橋村 ",
@@ -7795,11 +7795,11 @@
     "route_id": "K68",
     "route": "K68",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K68-U010",
+        "stop_id": "K68-U010",
         "name": {
           "en": "Yuen Long Industrial Estate",
           "tc": "元朗工業邨",
@@ -7810,7 +7810,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K68-U020",
+        "stop_id": "K68-U020",
         "name": {
           "en": "Toppan Forms Card Tech Ltd",
           "tc": "凸版資訊卡",
@@ -7821,7 +7821,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K68-U030",
+        "stop_id": "K68-U030",
         "name": {
           "en": "Nestle (HK) Ltd",
           "tc": "雀巢",
@@ -7832,7 +7832,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K68-U040",
+        "stop_id": "K68-U040",
         "name": {
           "en": "Yuen Long Sewage Treatment Works",
           "tc": "元朗污水處理廠",
@@ -7843,7 +7843,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K68-U050",
+        "stop_id": "K68-U050",
         "name": {
           "en": "Wai Yuen Tong Medicine Building",
           "tc": "位元堂藥業大廈",
@@ -7854,7 +7854,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K68-U060",
+        "stop_id": "K68-U060",
         "name": {
           "en": "TDK Manufacturing (HK) Co Ltd",
           "tc": "東電化電子零件",
@@ -7865,7 +7865,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K68-U070",
+        "stop_id": "K68-U070",
         "name": {
           "en": "Toppan Printing Co (HK) Ltd",
           "tc": "凸版印刷",
@@ -7876,7 +7876,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K68-U080",
+        "stop_id": "K68-U080",
         "name": {
           "en": "Telford International Industries Ltd",
           "tc": "匯泉國際實業",
@@ -7887,7 +7887,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K68-U090",
+        "stop_id": "K68-U090",
         "name": {
           "en": "Wang Chau Fuk Hing Tsuen",
           "tc": "橫洲福慶村",
@@ -7898,7 +7898,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K68-U100",
+        "stop_id": "K68-U100",
         "name": {
           "en": "Long Ping (Bus Terminus)",
           "tc": "朗屏 (巴士總站)",
@@ -7909,7 +7909,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K68-U110",
+        "stop_id": "K68-U110",
         "name": {
           "en": "Yeung Uk Tsuen",
           "tc": "楊屋村",
@@ -7920,7 +7920,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K68-U120",
+        "stop_id": "K68-U120",
         "name": {
           "en": "Ping Cheong Path (MTR Long Ping Station)",
           "tc": "屏昌徑 (港鐵朗屏站)",
@@ -7931,7 +7931,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K68-U130",
+        "stop_id": "K68-U130",
         "name": {
           "en": "Yuen Long Home for the Aged Blind",
           "tc": "元朗盲人安老院",
@@ -7942,7 +7942,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K68-U140",
+        "stop_id": "K68-U140",
         "name": {
           "en": "Lut Sau Hall (LR Fung Nin Road Stop)",
           "tc": "聿修堂 (輕鐵豐年路站)",
@@ -7953,7 +7953,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K68-U150",
+        "stop_id": "K68-U150",
         "name": {
           "en": "Yuen Long Theatre",
           "tc": "元朗劇院",
@@ -7964,7 +7964,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K68-U160",
+        "stop_id": "K68-U160",
         "name": {
           "en": "Silver Field Garden",
           "tc": "銀田花園",
@@ -7975,7 +7975,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K68-U170",
+        "stop_id": "K68-U170",
         "name": {
           "en": "South Yuen Long Government Primary School",
           "tc": "南元朗官立小學",
@@ -7986,7 +7986,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K68-D010",
+        "stop_id": "K68-D010",
         "name": {
           "en": "Yuen Long Park",
           "tc": "元朗公園",
@@ -7997,7 +7997,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K68-D020",
+        "stop_id": "K68-D020",
         "name": {
           "en": "Park Royale",
           "tc": "御豪山莊",
@@ -8008,7 +8008,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K68-D030",
+        "stop_id": "K68-D030",
         "name": {
           "en": "Villa Art Deco",
           "tc": "藝典居",
@@ -8019,7 +8019,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K68-D040",
+        "stop_id": "K68-D040",
         "name": {
           "en": "Springdale Villas",
           "tc": "御庭居",
@@ -8030,7 +8030,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K68-D050",
+        "stop_id": "K68-D050",
         "name": {
           "en": "Yuen Long Swimming Pool",
           "tc": "元朗游泳池",
@@ -8041,7 +8041,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K68-D060",
+        "stop_id": "K68-D060",
         "name": {
           "en": "Yuen Long Town Hall",
           "tc": "元朗大會堂",
@@ -8052,7 +8052,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K68-D070",
+        "stop_id": "K68-D070",
         "name": {
           "en": "Yuen Long Plaza (LR Fung Nin Road Stop)",
           "tc": "元朗廣場 (輕鐵豐年路站)",
@@ -8063,7 +8063,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K68-D080",
+        "stop_id": "K68-D080",
         "name": {
           "en": "Yuen Long On Ning Road",
           "tc": "元朗安寧路",
@@ -8074,7 +8074,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K68-D090",
+        "stop_id": "K68-D090",
         "name": {
           "en": "Tai Kiu Tsuen (MTR Long Ping Station)",
           "tc": "大橋村 (港鐵朗屏站)",
@@ -8085,7 +8085,7 @@
       },
       {
         "seq": 27,
-        "stopId": "K68-D100",
+        "stop_id": "K68-D100",
         "name": {
           "en": "Wai Chow School",
           "tc": "惠州學校",
@@ -8096,7 +8096,7 @@
       },
       {
         "seq": 28,
-        "stopId": "K68-D110",
+        "stop_id": "K68-D110",
         "name": {
           "en": "Chu Ping House, Long Ping Estate",
           "tc": "朗屏邨珠屏樓",
@@ -8107,7 +8107,7 @@
       },
       {
         "seq": 29,
-        "stopId": "K68-D120",
+        "stop_id": "K68-D120",
         "name": {
           "en": "Long Ping (Bus Terminus)",
           "tc": "朗屏 (巴士總站)",
@@ -8118,7 +8118,7 @@
       },
       {
         "seq": 30,
-        "stopId": "K68-D130",
+        "stop_id": "K68-D130",
         "name": {
           "en": "Wang Chau Fuk Hing Tsuen",
           "tc": "橫洲福慶村",
@@ -8129,7 +8129,7 @@
       },
       {
         "seq": 31,
-        "stopId": "K68-D140",
+        "stop_id": "K68-D140",
         "name": {
           "en": "Yuen Long Textile Co Ltd",
           "tc": "元朗紡織品",
@@ -8140,7 +8140,7 @@
       },
       {
         "seq": 32,
-        "stopId": "K68-D150",
+        "stop_id": "K68-D150",
         "name": {
           "en": "DCH Food Processing & Logistics Centre",
           "tc": "大昌行食品加工及物流中心",
@@ -8151,7 +8151,7 @@
       },
       {
         "seq": 33,
-        "stopId": "K68-D160",
+        "stop_id": "K68-D160",
         "name": {
           "en": "Yau Sang Galvanizers (Hot-Dip) Co Ltd",
           "tc": "有生鉛水(熱浸鋅)",
@@ -8162,7 +8162,7 @@
       },
       {
         "seq": 34,
-        "stopId": "K68-D170",
+        "stop_id": "K68-D170",
         "name": {
           "en": "Eu Yan Sang Centre",
           "tc": "余仁生中心",
@@ -8173,7 +8173,7 @@
       },
       {
         "seq": 35,
-        "stopId": "K68-D180",
+        "stop_id": "K68-D180",
         "name": {
           "en": "Yuen Long Sewage Treatment Works",
           "tc": "元朗污水處理廠",
@@ -8184,7 +8184,7 @@
       },
       {
         "seq": 36,
-        "stopId": "K68-D190",
+        "stop_id": "K68-D190",
         "name": {
           "en": "Nestle (HK) Ltd",
           "tc": "雀巢",
@@ -8195,7 +8195,7 @@
       },
       {
         "seq": 37,
-        "stopId": "K68-D200",
+        "stop_id": "K68-D200",
         "name": {
           "en": "Ushio HK Ltd",
           "tc": "牛尾香港",
@@ -8206,7 +8206,7 @@
       },
       {
         "seq": 38,
-        "stopId": "K68-U011",
+        "stop_id": "K68-U011",
         "name": {
           "en": "Yuen Long Industrial Estate",
           "tc": "元朗工業邨",
@@ -8223,11 +8223,11 @@
     "route_id": "K73-1",
     "route": "K73",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K73-U025",
+        "stop_id": "K73-U025",
         "name": {
           "en": "Tin Yan",
           "tc": "天恩",
@@ -8238,7 +8238,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K73-U045",
+        "stop_id": "K73-U045",
         "name": {
           "en": "Tin Yuet Estate",
           "tc": "天悅邨",
@@ -8249,7 +8249,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K73-U060",
+        "stop_id": "K73-U060",
         "name": {
           "en": "Maywood Court, Tin Kwai Road",
           "tc": "天葵路美湖居",
@@ -8260,7 +8260,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K73-U070",
+        "stop_id": "K73-U070",
         "name": {
           "en": "Kenswood Court, Tin Shing Road",
           "tc": "天城路景湖居",
@@ -8271,7 +8271,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K73-U080",
+        "stop_id": "K73-U080",
         "name": {
           "en": "Tin Tsz Estate",
           "tc": "天慈邨",
@@ -8282,7 +8282,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K73-U090",
+        "stop_id": "K73-U090",
         "name": {
           "en": "Fung Chi Tsuen",
           "tc": "鳳池村",
@@ -8293,7 +8293,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K73-U100",
+        "stop_id": "K73-U100",
         "name": {
           "en": "Long Ping ",
           "tc": "朗屏 ",
@@ -8304,7 +8304,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K73-U110",
+        "stop_id": "K73-U110",
         "name": {
           "en": "Yuen Long Home for the Aged Blind",
           "tc": "元朗盲人安老院",
@@ -8315,7 +8315,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K73-U120",
+        "stop_id": "K73-U120",
         "name": {
           "en": "Yuen Long West ",
           "tc": "元朗西 ",
@@ -8332,11 +8332,11 @@
     "route_id": "K73-2",
     "route": "K73",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K73-U050",
+        "stop_id": "K73-U050",
         "name": {
           "en": "HKFYG Lee Shau Kee College",
           "tc": "香港青年協會李兆基書院",
@@ -8347,7 +8347,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K73-U060",
+        "stop_id": "K73-U060",
         "name": {
           "en": "Maywood Court, Tin Kwai Road",
           "tc": "天葵路美湖居",
@@ -8358,7 +8358,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K73-U070",
+        "stop_id": "K73-U070",
         "name": {
           "en": "Kenswood Court, Tin Shing Road",
           "tc": "天城路景湖居",
@@ -8369,7 +8369,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K73-U080",
+        "stop_id": "K73-U080",
         "name": {
           "en": "Tin Tsz Estate",
           "tc": "天慈邨",
@@ -8380,7 +8380,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K73-U090",
+        "stop_id": "K73-U090",
         "name": {
           "en": "Fung Chi Tsuen",
           "tc": "鳳池村",
@@ -8391,7 +8391,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K73-U100",
+        "stop_id": "K73-U100",
         "name": {
           "en": "Long Ping ",
           "tc": "朗屏 ",
@@ -8402,7 +8402,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K73-U110",
+        "stop_id": "K73-U110",
         "name": {
           "en": "Yuen Long Home for the Aged Blind",
           "tc": "元朗盲人安老院",
@@ -8413,7 +8413,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K73-U120",
+        "stop_id": "K73-U120",
         "name": {
           "en": "Yuen Long West ",
           "tc": "元朗西 ",
@@ -8430,11 +8430,11 @@
     "route_id": "K73",
     "route": "K73",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K73-D010",
+        "stop_id": "K73-D010",
         "name": {
           "en": "Yuen Long West (LR Fung Nin Road Stop)",
           "tc": "元朗西 (輕鐵豐年路站)",
@@ -8445,7 +8445,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K73-D020",
+        "stop_id": "K73-D020",
         "name": {
           "en": "Yuen Long On Ning Road",
           "tc": "元朗安寧路",
@@ -8456,7 +8456,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K73-D030",
+        "stop_id": "K73-D030",
         "name": {
           "en": "Tai Kiu Tsuen (MTR Long Ping Station)",
           "tc": "大橋村 (港鐵朗屏站)",
@@ -8467,7 +8467,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K73-D040",
+        "stop_id": "K73-D040",
         "name": {
           "en": "Wai Chow School",
           "tc": "惠州學校",
@@ -8478,7 +8478,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K73-D050",
+        "stop_id": "K73-D050",
         "name": {
           "en": "Chu Ping House, Long Ping Estate",
           "tc": "朗屏邨珠屏樓",
@@ -8489,7 +8489,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K73-D070",
+        "stop_id": "K73-D070",
         "name": {
           "en": "Long Ping (Bus Terminus)",
           "tc": "朗屏 (巴士總站)",
@@ -8500,7 +8500,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K73-D080",
+        "stop_id": "K73-D080",
         "name": {
           "en": "Fung Chi Tsuen",
           "tc": "鳳池村",
@@ -8511,7 +8511,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K73-D090",
+        "stop_id": "K73-D090",
         "name": {
           "en": "LR Tin Tsz Stop",
           "tc": "輕鐵天慈站",
@@ -8522,7 +8522,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K73-D100",
+        "stop_id": "K73-D100",
         "name": {
           "en": "Tin Shui Wai Swimming Pool",
           "tc": "天水圍游泳池",
@@ -8533,7 +8533,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K73-D110",
+        "stop_id": "K73-D110",
         "name": {
           "en": "Kenswood Court, Tin Lung Road",
           "tc": "天龍路景湖居",
@@ -8544,7 +8544,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K73-D120",
+        "stop_id": "K73-D120",
         "name": {
           "en": "Lynwood Court, Tin Kwai Road",
           "tc": "天葵路麗湖居",
@@ -8555,7 +8555,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K73-D130",
+        "stop_id": "K73-D130",
         "name": {
           "en": "Ching Wan House, Tin Ching Estate",
           "tc": "天晴邨晴雲樓",
@@ -8566,7 +8566,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K73-D140",
+        "stop_id": "K73-D140",
         "name": {
           "en": "Nang Fu House, Tin Fu Court",
           "tc": "天富苑能富閣",
@@ -8577,7 +8577,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K73-D150",
+        "stop_id": "K73-D150",
         "name": {
           "en": "Tin Chak Estate",
           "tc": "天澤邨",
@@ -8588,7 +8588,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K73-D160",
+        "stop_id": "K73-D160",
         "name": {
           "en": "Tin Heng",
           "tc": "天恆",
@@ -8605,11 +8605,11 @@
     "route_id": "K73",
     "route": "K73",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K73-U010",
+        "stop_id": "K73-U010",
         "name": {
           "en": "Tin Heng",
           "tc": "天恆",
@@ -8620,7 +8620,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K73-U020",
+        "stop_id": "K73-U020",
         "name": {
           "en": "Yat Tam House, Tin Yat Estate",
           "tc": "天逸邨逸潭樓",
@@ -8631,7 +8631,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K73-U030",
+        "stop_id": "K73-U030",
         "name": {
           "en": "Yat Yeung House, Tin Yat Estate",
           "tc": "天逸邨逸洋樓",
@@ -8642,7 +8642,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K73-U040",
+        "stop_id": "K73-U040",
         "name": {
           "en": "Ching Pik House, Tin Ching Estate",
           "tc": "天晴邨晴碧樓",
@@ -8653,7 +8653,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K73-U050",
+        "stop_id": "K73-U050",
         "name": {
           "en": "HKFYG Lee Shau Kee College",
           "tc": "香港青年協會李兆基書院",
@@ -8664,7 +8664,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K73-U060",
+        "stop_id": "K73-U060",
         "name": {
           "en": "Maywood Court, Tin Kwai Road",
           "tc": "天葵路美湖居",
@@ -8675,7 +8675,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K73-U070",
+        "stop_id": "K73-U070",
         "name": {
           "en": "Kenswood Court, Tin Shing Road",
           "tc": "天城路景湖居",
@@ -8686,7 +8686,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K73-U080",
+        "stop_id": "K73-U080",
         "name": {
           "en": "Tin Tsz Estate",
           "tc": "天慈邨",
@@ -8697,7 +8697,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K73-U090",
+        "stop_id": "K73-U090",
         "name": {
           "en": "Fung Chi Tsuen",
           "tc": "鳳池村",
@@ -8708,7 +8708,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K73-U100",
+        "stop_id": "K73-U100",
         "name": {
           "en": "Long Ping (Bus Terminus)",
           "tc": "朗屏 (巴士總站)",
@@ -8719,7 +8719,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K73-U110",
+        "stop_id": "K73-U110",
         "name": {
           "en": "Yuen Long Home for the Aged Blind",
           "tc": "元朗盲人安老院",
@@ -8730,7 +8730,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K73-U120",
+        "stop_id": "K73-U120",
         "name": {
           "en": "Yuen Long West (LR Fung Nin Road Stop)",
           "tc": "元朗西 (輕鐵豐年路站)",
@@ -8747,11 +8747,11 @@
     "route_id": "K74",
     "route": "K74",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K74-U001",
+        "stop_id": "K74-U001",
         "name": {
           "en": "Tin Shui Wai Town Centre",
           "tc": "天水圍市中心",
@@ -8762,7 +8762,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K74-U004",
+        "stop_id": "K74-U004",
         "name": {
           "en": "Chung Ki House Tin Chung Court",
           "tc": "天頌苑頌棋閣",
@@ -8773,7 +8773,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K74-U007",
+        "stop_id": "K74-U007",
         "name": {
           "en": "Tin Chung Court",
           "tc": "天頌苑",
@@ -8784,7 +8784,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K74-U010",
+        "stop_id": "K74-U010",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -8795,7 +8795,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K74-U020",
+        "stop_id": "K74-U020",
         "name": {
           "en": "Tin Shui Wai Park",
           "tc": "天水圍公園",
@@ -8806,7 +8806,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K74-U030",
+        "stop_id": "K74-U030",
         "name": {
           "en": "Tin Tsz Estate",
           "tc": "天慈邨",
@@ -8817,7 +8817,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K74-U040",
+        "stop_id": "K74-U040",
         "name": {
           "en": "Fung Chi Tsuen",
           "tc": "鳳池村",
@@ -8828,7 +8828,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K74-U050",
+        "stop_id": "K74-U050",
         "name": {
           "en": "Long Ping (Bus Terminus)",
           "tc": "朗屏 (巴士總站)",
@@ -8839,7 +8839,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K74-U060",
+        "stop_id": "K74-U060",
         "name": {
           "en": "Yuen Long Home for the Aged Blind",
           "tc": "元朗盲人安老院",
@@ -8850,7 +8850,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K74-U070",
+        "stop_id": "K74-U070",
         "name": {
           "en": "Yuen Long Plaza (LR Fung Nin Road Stop)",
           "tc": "元朗廣場 (輕鐵豐年路站)",
@@ -8861,7 +8861,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K74-U080",
+        "stop_id": "K74-U080",
         "name": {
           "en": "Yuen Long Landmark",
           "tc": "開心廣場",
@@ -8872,7 +8872,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K74-U090",
+        "stop_id": "K74-U090",
         "name": {
           "en": "MTR Yuen Long Station (Long Yat Road) (MTR Yuen Long Station)",
           "tc": "港鐵元朗站(朗日路)  (港鐵元朗站)",
@@ -8883,7 +8883,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K74-U100",
+        "stop_id": "K74-U100",
         "name": {
           "en": "Pok Oi Hospital",
           "tc": "博愛醫院",
@@ -8894,7 +8894,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K74-D010",
+        "stop_id": "K74-D010",
         "name": {
           "en": "Tung Shing Lei",
           "tc": "東成里",
@@ -8905,7 +8905,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K74-D020",
+        "stop_id": "K74-D020",
         "name": {
           "en": "TWGHs C.Y.Ma Memorial College (near Long Shin Estate)",
           "tc": "東華三院馬振玉中學(近朗善邨)",
@@ -8916,7 +8916,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K74-D030",
+        "stop_id": "K74-D030",
         "name": {
           "en": "Tai Kiu Tsuen (MTR Long Ping Station)",
           "tc": "大橋村 (港鐵朗屏站)",
@@ -8927,7 +8927,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K74-D040",
+        "stop_id": "K74-D040",
         "name": {
           "en": "Wai Chow School",
           "tc": "惠州學校",
@@ -8938,7 +8938,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K74-D050",
+        "stop_id": "K74-D050",
         "name": {
           "en": "Chu Ping House, Long Ping Estate",
           "tc": "朗屏邨珠屏樓",
@@ -8949,7 +8949,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K74-D060",
+        "stop_id": "K74-D060",
         "name": {
           "en": "Long Ping (Bus Terminus)",
           "tc": "朗屏 (巴士總站)",
@@ -8960,7 +8960,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K74-D070",
+        "stop_id": "K74-D070",
         "name": {
           "en": "Fung Chi Tsuen",
           "tc": "鳳池村",
@@ -8971,7 +8971,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K74-D080",
+        "stop_id": "K74-D080",
         "name": {
           "en": "LR Tin Tsz Stop",
           "tc": "輕鐵天慈站",
@@ -8982,7 +8982,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K74-D090",
+        "stop_id": "K74-D090",
         "name": {
           "en": "Tin Shui Wai Park",
           "tc": "天水圍公園",
@@ -8993,7 +8993,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K74-U011",
+        "stop_id": "K74-U011",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -9004,7 +9004,7 @@
       },
       {
         "seq": 24,
-        "stopId": "K74-D100",
+        "stop_id": "K74-D100",
         "name": {
           "en": "Tin Wah Estate",
           "tc": "天華邨",
@@ -9015,7 +9015,7 @@
       },
       {
         "seq": 25,
-        "stopId": "K74-D110",
+        "stop_id": "K74-D110",
         "name": {
           "en": "Tin Yuet Estate",
           "tc": "天悅邨",
@@ -9026,7 +9026,7 @@
       },
       {
         "seq": 26,
-        "stopId": "K74-U002",
+        "stop_id": "K74-U002",
         "name": {
           "en": "Tin Shui Wai Town Centre",
           "tc": "天水圍市中心",
@@ -9043,11 +9043,11 @@
     "route_id": "K75A",
     "route": "K75A",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K75A-U010",
+        "stop_id": "K75A-U010",
         "name": {
           "en": "Tin Shui Wai Station (LR Tin Shui Wai Stop)",
           "tc": "天水圍站 (輕鐵天水圍站)",
@@ -9058,7 +9058,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K75A-U020",
+        "stop_id": "K75A-U020",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -9069,7 +9069,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K75A-U030",
+        "stop_id": "K75A-U030",
         "name": {
           "en": "Shek Po Tsuen",
           "tc": "石埗村",
@@ -9080,7 +9080,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K75A-D010",
+        "stop_id": "K75A-D010",
         "name": {
           "en": "LR Hung Shui Kiu Stop",
           "tc": "輕鐵洪水橋站",
@@ -9091,7 +9091,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K75A-D020",
+        "stop_id": "K75A-D020",
         "name": {
           "en": "Rural Committee",
           "tc": "鄉事委員會",
@@ -9102,7 +9102,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K75A-D030",
+        "stop_id": "K75A-D030",
         "name": {
           "en": "Tin Sam",
           "tc": "田心",
@@ -9113,7 +9113,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K75A-D040",
+        "stop_id": "K75A-D040",
         "name": {
           "en": "San Lee Uk Tsuen",
           "tc": "新李屋村",
@@ -9124,7 +9124,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K75A-D050",
+        "stop_id": "K75A-D050",
         "name": {
           "en": "San Sang Tsuen",
           "tc": "新生村",
@@ -9135,7 +9135,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K75A-D060",
+        "stop_id": "K75A-D060",
         "name": {
           "en": "Lee Uk Tsuen",
           "tc": "李屋村",
@@ -9146,7 +9146,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K75A-D070",
+        "stop_id": "K75A-D070",
         "name": {
           "en": "San Uk Tsuen",
           "tc": "新屋村",
@@ -9157,7 +9157,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K75A-D080",
+        "stop_id": "K75A-D080",
         "name": {
           "en": "Ha Tsuen Shi",
           "tc": "廈村市",
@@ -9168,7 +9168,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K75A-D090",
+        "stop_id": "K75A-D090",
         "name": {
           "en": "Ha Tsuen ",
           "tc": "廈村",
@@ -9179,7 +9179,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K75A-D100",
+        "stop_id": "K75A-D100",
         "name": {
           "en": "Sha Chau Lei Tsuen",
           "tc": "沙洲里村",
@@ -9190,7 +9190,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K75A-D110",
+        "stop_id": "K75A-D110",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -9201,7 +9201,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K75A-U011",
+        "stop_id": "K75A-U011",
         "name": {
           "en": "Tin Shui Wai Station (LR Tin Shui Wai Stop)",
           "tc": "天水圍站 (輕鐵天水圍站)",
@@ -9218,11 +9218,11 @@
     "route_id": "K75P",
     "route": "K75P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K75P-U010",
+        "stop_id": "K75P-U010",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -9233,7 +9233,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K75P-U020",
+        "stop_id": "K75P-U020",
         "name": {
           "en": "Tin Shui Wai Park",
           "tc": "天水圍公園",
@@ -9244,7 +9244,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K75P-U030",
+        "stop_id": "K75P-U030",
         "name": {
           "en": "Yiu Shing House, Tin Yiu Estate",
           "tc": "天耀邨耀盛樓",
@@ -9255,7 +9255,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K75P-U040",
+        "stop_id": "K75P-U040",
         "name": {
           "en": "LR Tin Yiu Stop",
           "tc": "輕鐵天耀站",
@@ -9266,7 +9266,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K75P-U050",
+        "stop_id": "K75P-U050",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -9277,7 +9277,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K75P-U060",
+        "stop_id": "K75P-U060",
         "name": {
           "en": "Shek Po Road",
           "tc": "石埗路",
@@ -9288,7 +9288,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K75P-U070",
+        "stop_id": "K75P-U070",
         "name": {
           "en": "Sha Chau Lei Tsuen",
           "tc": "沙洲里村",
@@ -9299,7 +9299,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K75P-U080",
+        "stop_id": "K75P-U080",
         "name": {
           "en": "Ha Tsuen Shi",
           "tc": "廈村市",
@@ -9310,7 +9310,7 @@
       },
       {
         "seq": 9,
-        "stopId": "K75P-U090",
+        "stop_id": "K75P-U090",
         "name": {
           "en": "San Uk Tsuen",
           "tc": "新屋村",
@@ -9321,7 +9321,7 @@
       },
       {
         "seq": 10,
-        "stopId": "K75P-U100",
+        "stop_id": "K75P-U100",
         "name": {
           "en": "Lee Uk Tsuen",
           "tc": "李屋村",
@@ -9332,7 +9332,7 @@
       },
       {
         "seq": 11,
-        "stopId": "K75P-U110",
+        "stop_id": "K75P-U110",
         "name": {
           "en": "San Sang Tsuen",
           "tc": "新生村",
@@ -9343,7 +9343,7 @@
       },
       {
         "seq": 12,
-        "stopId": "K75P-U120",
+        "stop_id": "K75P-U120",
         "name": {
           "en": "San Lee Uk Tsuen",
           "tc": "新李屋村",
@@ -9354,7 +9354,7 @@
       },
       {
         "seq": 13,
-        "stopId": "K75P-U130",
+        "stop_id": "K75P-U130",
         "name": {
           "en": "Tin Sam",
           "tc": "田心",
@@ -9365,7 +9365,7 @@
       },
       {
         "seq": 14,
-        "stopId": "K75P-U140",
+        "stop_id": "K75P-U140",
         "name": {
           "en": "Rural Committee",
           "tc": "鄉事委員會",
@@ -9376,7 +9376,7 @@
       },
       {
         "seq": 15,
-        "stopId": "K75P-D010",
+        "stop_id": "K75P-D010",
         "name": {
           "en": "LR Hung Shui Kiu Stop",
           "tc": "輕鐵洪水橋站",
@@ -9387,7 +9387,7 @@
       },
       {
         "seq": 16,
-        "stopId": "K75P-D020",
+        "stop_id": "K75P-D020",
         "name": {
           "en": "Hung Shui Kiu Bus Depot",
           "tc": "洪水橋巴士廠",
@@ -9398,7 +9398,7 @@
       },
       {
         "seq": 17,
-        "stopId": "K75P-D030",
+        "stop_id": "K75P-D030",
         "name": {
           "en": "Hung Fuk Estate",
           "tc": "洪福邨",
@@ -9409,7 +9409,7 @@
       },
       {
         "seq": 18,
-        "stopId": "K75P-D040",
+        "stop_id": "K75P-D040",
         "name": {
           "en": "Shek Po Tsuen",
           "tc": "石埗村",
@@ -9420,7 +9420,7 @@
       },
       {
         "seq": 19,
-        "stopId": "K75P-D050",
+        "stop_id": "K75P-D050",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -9431,7 +9431,7 @@
       },
       {
         "seq": 20,
-        "stopId": "K75P-D060",
+        "stop_id": "K75P-D060",
         "name": {
           "en": "Tin Shui Wai Police Station",
           "tc": "天水圍警署",
@@ -9442,7 +9442,7 @@
       },
       {
         "seq": 21,
-        "stopId": "K75P-D070",
+        "stop_id": "K75P-D070",
         "name": {
           "en": "Sherwood Court",
           "tc": "賞湖居",
@@ -9453,7 +9453,7 @@
       },
       {
         "seq": 22,
-        "stopId": "K75P-D080",
+        "stop_id": "K75P-D080",
         "name": {
           "en": "Tin Shui Wai Park",
           "tc": "天水圍公園",
@@ -9464,7 +9464,7 @@
       },
       {
         "seq": 23,
-        "stopId": "K75P-U011",
+        "stop_id": "K75P-U011",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -9481,11 +9481,11 @@
     "route_id": "K75P1",
     "route": "K75P",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K75P-D020",
+        "stop_id": "K75P-D020",
         "name": {
           "en": "Hung Shui Kiu Bus Depot",
           "tc": "洪水橋巴士廠",
@@ -9496,7 +9496,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K75P-D030",
+        "stop_id": "K75P-D030",
         "name": {
           "en": "Hung Fuk Estate",
           "tc": "洪福邨",
@@ -9507,7 +9507,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K75P-D040",
+        "stop_id": "K75P-D040",
         "name": {
           "en": "Shek Po Tsuen",
           "tc": "石埗村",
@@ -9518,7 +9518,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K75P-D050",
+        "stop_id": "K75P-D050",
         "name": {
           "en": "Tin Shing Court ",
           "tc": "天盛苑 ",
@@ -9529,7 +9529,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K75P-D060",
+        "stop_id": "K75P-D060",
         "name": {
           "en": "Tin Shui Wai Police Station",
           "tc": "天水圍警署",
@@ -9540,7 +9540,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K75P-D070",
+        "stop_id": "K75P-D070",
         "name": {
           "en": "Sherwood Court",
           "tc": "賞湖居",
@@ -9551,7 +9551,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K75P-D080",
+        "stop_id": "K75P-D080",
         "name": {
           "en": "Tin Shui Wai Park",
           "tc": "天水圍公園",
@@ -9562,7 +9562,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K75P-U011",
+        "stop_id": "K75P-U011",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -9579,11 +9579,11 @@
     "route_id": "K75S",
     "route": "K75S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K75S-U010",
+        "stop_id": "K75S-U010",
         "name": {
           "en": "Tin Shui Wai Station ",
           "tc": "天水圍站 ",
@@ -9594,7 +9594,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K75S-U020",
+        "stop_id": "K75S-U020",
         "name": {
           "en": "Tin Shing Court ",
           "tc": "天盛苑 ",
@@ -9605,7 +9605,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K75S-U030",
+        "stop_id": "K75S-U030",
         "name": {
           "en": "Shek Po Tsuen",
           "tc": "石埗村",
@@ -9616,7 +9616,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K75S-U040",
+        "stop_id": "K75S-U040",
         "name": {
           "en": "Hung Shui Kiu Bus Depot",
           "tc": "洪水橋巴士廠",
@@ -9627,7 +9627,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K75S-D010",
+        "stop_id": "K75S-D010",
         "name": {
           "en": "Hung Fuk Estate",
           "tc": "洪福邨",
@@ -9638,7 +9638,7 @@
       },
       {
         "seq": 6,
-        "stopId": "K75S-D020",
+        "stop_id": "K75S-D020",
         "name": {
           "en": "Shek Po Tsuen",
           "tc": "石埗村",
@@ -9649,7 +9649,7 @@
       },
       {
         "seq": 7,
-        "stopId": "K75S-D030",
+        "stop_id": "K75S-D030",
         "name": {
           "en": "Tin Shing Court ",
           "tc": "天盛苑 ",
@@ -9660,7 +9660,7 @@
       },
       {
         "seq": 8,
-        "stopId": "K75S-U011",
+        "stop_id": "K75S-U011",
         "name": {
           "en": "Tin Shui Wai Station ",
           "tc": "天水圍站 ",
@@ -9677,11 +9677,11 @@
     "route_id": "K75S1",
     "route": "K75S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K75S-U040",
+        "stop_id": "K75S-U040",
         "name": {
           "en": "Hung Shui Kiu Bus Depot",
           "tc": "洪水橋巴士廠",
@@ -9692,7 +9692,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K75S-D010",
+        "stop_id": "K75S-D010",
         "name": {
           "en": "Hung Fuk Estate",
           "tc": "洪福邨",
@@ -9703,7 +9703,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K75S-D020",
+        "stop_id": "K75S-D020",
         "name": {
           "en": "Shek Po Tsuen",
           "tc": "石埗村",
@@ -9714,7 +9714,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K75S-D030",
+        "stop_id": "K75S-D030",
         "name": {
           "en": "Tin Shing Court ",
           "tc": "天盛苑 ",
@@ -9725,7 +9725,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K75S-U011",
+        "stop_id": "K75S-U011",
         "name": {
           "en": "Tin Shui Wai Station ",
           "tc": "天水圍站 ",
@@ -9742,11 +9742,11 @@
     "route_id": "K76",
     "route": "K76",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K76-D010",
+        "stop_id": "K76-D010",
         "name": {
           "en": "Tin Shui Wai Station (MTR Tin Shui Wai Station)",
           "tc": "天水圍站 (港鐵天水圍站)",
@@ -9757,7 +9757,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K76-D020",
+        "stop_id": "K76-D020",
         "name": {
           "en": "Tin Yan Estate",
           "tc": "天恩邨",
@@ -9768,7 +9768,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K76-D030",
+        "stop_id": "K76-D030",
         "name": {
           "en": "Tin Chak Estate",
           "tc": "天澤邨",
@@ -9779,7 +9779,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K76-D040",
+        "stop_id": "K76-D040",
         "name": {
           "en": "Tin Heng",
           "tc": "天恆",
@@ -9796,11 +9796,11 @@
     "route_id": "K76",
     "route": "K76",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K76-U010",
+        "stop_id": "K76-U010",
         "name": {
           "en": "Tin Heng",
           "tc": "天恆",
@@ -9811,7 +9811,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K76-U020",
+        "stop_id": "K76-U020",
         "name": {
           "en": "Yat Tam House, Tin Yat Estate",
           "tc": "天逸邨逸潭樓",
@@ -9822,7 +9822,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K76-U030",
+        "stop_id": "K76-U030",
         "name": {
           "en": "Yan Fu House, Tin Fu Court",
           "tc": "天富苑欣富閣",
@@ -9833,7 +9833,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K76-U040",
+        "stop_id": "K76-U040",
         "name": {
           "en": "Tin Shing Court (MTR Tin Shui Wai Station)",
           "tc": "天盛苑 (港鐵天水圍站)",
@@ -9844,7 +9844,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K76-U050",
+        "stop_id": "K76-U050",
         "name": {
           "en": "Tin Shui Wai Station (MTR Tin Shui Wai Station)",
           "tc": "天水圍站 (港鐵天水圍站)",
@@ -9861,11 +9861,11 @@
     "route_id": "K76S",
     "route": "K76S",
     "bound": "inbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K76S-D010",
+        "stop_id": "K76S-D010",
         "name": {
           "en": "Tin Shui Wai Station ",
           "tc": "天水圍站 ",
@@ -9876,7 +9876,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K76S-D020",
+        "stop_id": "K76S-D020",
         "name": {
           "en": "Tin Yan Estate",
           "tc": "天恩邨",
@@ -9887,7 +9887,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K76S-D030",
+        "stop_id": "K76S-D030",
         "name": {
           "en": "Tin Chak Estate",
           "tc": "天澤邨",
@@ -9898,7 +9898,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K76S-D040",
+        "stop_id": "K76S-D040",
         "name": {
           "en": "LR Wetland Park Stop",
           "tc": "輕鐵濕地公園站",
@@ -9909,7 +9909,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K76S-D050",
+        "stop_id": "K76S-D050",
         "name": {
           "en": "Wetland Park Road (near Tin Kwai Road)",
           "tc": "濕地公園路(近天葵路)",
@@ -9926,11 +9926,11 @@
     "route_id": "K76S",
     "route": "K76S",
     "bound": "outbound",
-    "serviceType": "1",
+    "service_type": "1",
     "stops": [
       {
         "seq": 1,
-        "stopId": "K76S-U010",
+        "stop_id": "K76S-U010",
         "name": {
           "en": "Wetland Park Road (near Tin Kwai Road)",
           "tc": "濕地公園路(近天葵路)",
@@ -9941,7 +9941,7 @@
       },
       {
         "seq": 2,
-        "stopId": "K76S-U015",
+        "stop_id": "K76S-U015",
         "name": {
           "en": "LR Wetland Park Stop",
           "tc": "輕鐵濕地公園站",
@@ -9952,7 +9952,7 @@
       },
       {
         "seq": 3,
-        "stopId": "K76S-U020",
+        "stop_id": "K76S-U020",
         "name": {
           "en": "Yat Tam House, Tin Yat Estate",
           "tc": "天逸邨逸潭樓",
@@ -9963,7 +9963,7 @@
       },
       {
         "seq": 4,
-        "stopId": "K76S-U030",
+        "stop_id": "K76S-U030",
         "name": {
           "en": "Yan Fu House, Tin Fu Court",
           "tc": "天富苑欣富閣",
@@ -9974,7 +9974,7 @@
       },
       {
         "seq": 5,
-        "stopId": "K76S-U040",
+        "stop_id": "K76S-U040",
         "name": {
           "en": "Tin Shing Court",
           "tc": "天盛苑",
