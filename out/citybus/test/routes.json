@@ -7,14 +7,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Macao Ferry)",
-      "tc": "中環 (港澳碼頭)",
-      "sc": "中环 (港澳码头)"
-    },
-    "destination": {
       "en": "Happy Valley (Upper)",
       "tc": "跑馬地 (上)",
       "sc": "跑马地 (上)"
+    },
+    "destination": {
+      "en": "Central (Macao Ferry)",
+      "tc": "中環 (港澳碼頭)",
+      "sc": "中环 (港澳码头)"
     }
   },
   "CTB-1-outbound-1": {
@@ -43,14 +43,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kennedy Town",
-      "tc": "堅尼地城",
-      "sc": "坚尼地城"
-    },
-    "destination": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
       "sc": "北角码头"
+    },
+    "destination": {
+      "en": "Kennedy Town",
+      "tc": "堅尼地城",
+      "sc": "坚尼地城"
     }
   },
   "CTB-10-outbound-1": {

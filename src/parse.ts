@@ -20,6 +20,7 @@ const COMPANY_DIRS = [
 type RouteSource = {
   record_id: string;
   company: Company;
+  route_id: string;
   route: string | Localized;
   bound: string;
   service_type: string;
@@ -42,6 +43,7 @@ type RouteStopsSource = {
 type RouteFinal = {
   record_id: string;
   company: Company;
+  route_id: string;
   route: string | Localized;
   bound: string;
   service_type: string;
@@ -113,7 +115,7 @@ async function readJsonIfExists<T>(filePath: string): Promise<T | null> {
 export async function parseAll(): Promise<void> {
   const routes: Record<string, RouteFinal> = {};
   const stops: Record<string, StopFinal> = {};
-  const stopRoutes: Record<string, string[]> = {};
+  const stopRoutes: Record<string, Array<{ record_id: string; seq: number }>> = {};
   const geoIndex: Record<string, string[]> = {};
 
   let companiesProcessed = 0;
@@ -155,8 +157,8 @@ export async function parseAll(): Promise<void> {
           }
 
           const list = (stopRoutes[fullStopId] ||= []);
-          if (list[list.length - 1] !== recordId && !list.includes(recordId)) {
-            list.push(recordId);
+          if (!list.some((e) => e.record_id === recordId && e.seq === stop.seq)) {
+            list.push({ record_id: recordId, seq: stop.seq });
           }
         }
       }
@@ -164,6 +166,7 @@ export async function parseAll(): Promise<void> {
       routes[recordId] = {
         record_id: route.record_id,
         company: route.company,
+        route_id: route.route_id,
         route: route.route,
         bound: route.bound,
         service_type: route.service_type,
