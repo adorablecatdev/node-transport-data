@@ -152,33 +152,34 @@ export async function parseAll(): Promise<void> {
       const rs = routeStopsData[recordId];
 
       if (route.company === Company.KMBCTB) {
-        // KMBCTB routes reference KMB + CTB stops already registered by the
-        // kmb / citybus passes above. The route's stop_ids array holds only
-        // KMB stop refs; each KMB stop's ctb_stop_id is stored on the stop
-        // itself in stops.json. Both KMB and CTB stops get mapped to this
-        // joint record in stopRoutes.
-        const kmb_ids: string[] = [];
+        // KMBCTB routes are fully namespaced under KMBCTB: — stops, stopRoutes
+        // and geoIndex all get KMBCTB: entries. The original KMB / CTB stops
+        // remain under their own namespaces (populated by their own passes),
+        // but they do not carry the joint record_id.
+        const joint_ids: string[] = [];
 
         if (rs) {
           for (const stop of rs.stops) {
-            const kmbFull = `${Company.KMB}:${stop.stop_id}`;
-            kmb_ids.push(kmbFull);
-            const kmbList = (stopRoutes[kmbFull] ||= []);
-            if (!kmbList.some((e) => e.record_id === recordId && e.seq === stop.seq)) {
-              kmbList.push({ record_id: recordId, seq: stop.seq });
+            const jointFull = `${Company.KMBCTB}:${stop.stop_id}`;
+            joint_ids.push(jointFull);
+            if (!stops[jointFull]) {
+              stops[jointFull] = {
+                stop_id: stop.stop_id,
+                ctb_stop_id: stop.ctb_stop_id,
+                company: Company.KMBCTB,
+                name: stop.name,
+                lat: stop.lat,
+                lng: stop.long,
+              };
+              const gh = encodeGeohash(stop.lat, stop.long);
+              (geoIndex[gh] ||= []).push(jointFull);
+            } else if (stop.ctb_stop_id && !stops[jointFull].ctb_stop_id) {
+              stops[jointFull].ctb_stop_id = stop.ctb_stop_id;
             }
 
-            if (stop.ctb_stop_id) {
-              const ctbFull = `${Company.CTB}:${stop.ctb_stop_id}`;
-              const ctbList = (stopRoutes[ctbFull] ||= []);
-              if (!ctbList.some((e) => e.record_id === recordId && e.seq === stop.seq)) {
-                ctbList.push({ record_id: recordId, seq: stop.seq });
-              }
-
-              const kmbStop = stops[kmbFull];
-              if (kmbStop && !kmbStop.ctb_stop_id) {
-                kmbStop.ctb_stop_id = stop.ctb_stop_id;
-              }
+            const jointList = (stopRoutes[jointFull] ||= []);
+            if (!jointList.some((e) => e.record_id === recordId && e.seq === stop.seq)) {
+              jointList.push({ record_id: recordId, seq: stop.seq });
             }
           }
         }
@@ -193,12 +194,14 @@ export async function parseAll(): Promise<void> {
           service_type: route.service_type,
           origin: route.origin,
           destination: route.destination,
-          stop_ids: kmb_ids,
+          stop_ids: joint_ids,
         };
         continue;
       }
 
       const skipRouteEmit = isJointKmbOrCtbRoute(route);
+      if (skipRouteEmit) continue;
+
       const stop_ids: string[] = [];
 
       if (rs) {
@@ -219,16 +222,12 @@ export async function parseAll(): Promise<void> {
             (geoIndex[gh] ||= []).push(fullStopId);
           }
 
-          if (skipRouteEmit) continue;
-
           const list = (stopRoutes[fullStopId] ||= []);
           if (!list.some((e) => e.record_id === recordId && e.seq === stop.seq)) {
             list.push({ record_id: recordId, seq: stop.seq });
           }
         }
       }
-
-      if (skipRouteEmit) continue;
 
       routes[recordId] = {
         record_id: route.record_id,
