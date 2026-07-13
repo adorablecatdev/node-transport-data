@@ -1,6 +1,7 @@
 export enum Company {
   KMB = "KMB",
   CTB = "CTB",
+  KMBCTB = "KMBCTB",
   MTRB = "MTRB",
   MTR = "MTR",
   LRT = "LRT",
@@ -26,6 +27,7 @@ export type RouteOutput<TRoute = string> = {
   service_type: string;
   origin: Localized;
   destination: Localized;
+  ctb_bound?: Bound;
 };
 
 export type StopOutput = {
@@ -34,6 +36,7 @@ export type StopOutput = {
   name: Localized;
   lat: number;
   long: number;
+  ctb_stop_id?: string;
 };
 
 export type RouteStopsOutput<TRoute = string> = {
@@ -44,6 +47,7 @@ export type RouteStopsOutput<TRoute = string> = {
   bound: Bound;
   service_type: string;
   stops: StopOutput[];
+  ctb_bound?: Bound;
 };
 
 export function compositeId(
