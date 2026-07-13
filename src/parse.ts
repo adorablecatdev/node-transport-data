@@ -1,5 +1,6 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { JOINTLY_OPERATED_ROUTES } from "./companies/kmbctb/static.js";
 import { Company, Localized } from "./types.js";
 
 const OUT_DIR = path.resolve(process.cwd(), "out");
@@ -8,6 +9,7 @@ const FINAL_DIR = path.join(OUT_DIR, "final");
 const COMPANY_DIRS = [
   "kmb",
   "citybus",
+  "kmbctb",
   "mtrbus",
   "mtr",
   "lightrail",
@@ -26,6 +28,7 @@ type RouteSource = {
   service_type: string;
   origin: Localized;
   destination: Localized;
+  ctb_bound?: string;
 };
 
 type RouteStopsSource = {
@@ -37,6 +40,7 @@ type RouteStopsSource = {
     name: Localized;
     lat: number;
     long: number;
+    ctb_stop_id?: string;
   }>;
 };
 
@@ -50,10 +54,12 @@ type RouteFinal = {
   origin: Localized;
   destination: Localized;
   stop_ids: string[];
+  ctb_bound?: string;
 };
 
 type StopFinal = {
   stop_id: string;
+  ctb_stop_id?: string;
   company: Company;
   name: Localized;
   lat: number;
@@ -112,6 +118,13 @@ async function readJsonIfExists<T>(filePath: string): Promise<T | null> {
   }
 }
 
+function isJointKmbOrCtbRoute(route: RouteSource): boolean {
+  return (
+    (route.company === Company.KMB || route.company === Company.CTB) &&
+    JOINTLY_OPERATED_ROUTES.has(route.route_id)
+  );
+}
+
 export async function parseAll(): Promise<void> {
   const routes: Record<string, RouteFinal> = {};
   const stops: Record<string, StopFinal> = {};
@@ -137,6 +150,55 @@ export async function parseAll(): Promise<void> {
 
     for (const [recordId, route] of Object.entries(routesData)) {
       const rs = routeStopsData[recordId];
+
+      if (route.company === Company.KMBCTB) {
+        // KMBCTB routes reference KMB + CTB stops already registered by the
+        // kmb / citybus passes above. The route's stop_ids array holds only
+        // KMB stop refs; each KMB stop's ctb_stop_id is stored on the stop
+        // itself in stops.json. Both KMB and CTB stops get mapped to this
+        // joint record in stopRoutes.
+        const kmb_ids: string[] = [];
+
+        if (rs) {
+          for (const stop of rs.stops) {
+            const kmbFull = `${Company.KMB}:${stop.stop_id}`;
+            kmb_ids.push(kmbFull);
+            const kmbList = (stopRoutes[kmbFull] ||= []);
+            if (!kmbList.some((e) => e.record_id === recordId && e.seq === stop.seq)) {
+              kmbList.push({ record_id: recordId, seq: stop.seq });
+            }
+
+            if (stop.ctb_stop_id) {
+              const ctbFull = `${Company.CTB}:${stop.ctb_stop_id}`;
+              const ctbList = (stopRoutes[ctbFull] ||= []);
+              if (!ctbList.some((e) => e.record_id === recordId && e.seq === stop.seq)) {
+                ctbList.push({ record_id: recordId, seq: stop.seq });
+              }
+
+              const kmbStop = stops[kmbFull];
+              if (kmbStop && !kmbStop.ctb_stop_id) {
+                kmbStop.ctb_stop_id = stop.ctb_stop_id;
+              }
+            }
+          }
+        }
+
+        routes[recordId] = {
+          record_id: route.record_id,
+          company: route.company,
+          route_id: route.route_id,
+          route: route.route,
+          bound: route.bound,
+          ctb_bound: route.ctb_bound,
+          service_type: route.service_type,
+          origin: route.origin,
+          destination: route.destination,
+          stop_ids: kmb_ids,
+        };
+        continue;
+      }
+
+      const skipRouteEmit = isJointKmbOrCtbRoute(route);
       const stop_ids: string[] = [];
 
       if (rs) {
@@ -147,6 +209,7 @@ export async function parseAll(): Promise<void> {
           if (!stops[fullStopId]) {
             stops[fullStopId] = {
               stop_id: stop.stop_id,
+              ctb_stop_id: undefined,
               company: route.company,
               name: stop.name,
               lat: stop.lat,
@@ -156,12 +219,16 @@ export async function parseAll(): Promise<void> {
             (geoIndex[gh] ||= []).push(fullStopId);
           }
 
+          if (skipRouteEmit) continue;
+
           const list = (stopRoutes[fullStopId] ||= []);
           if (!list.some((e) => e.record_id === recordId && e.seq === stop.seq)) {
             list.push({ record_id: recordId, seq: stop.seq });
           }
         }
       }
+
+      if (skipRouteEmit) continue;
 
       routes[recordId] = {
         record_id: route.record_id,

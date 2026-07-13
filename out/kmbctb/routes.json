@@ -1,0 +1,2377 @@
+{
+  "KMBCTB-101-outbound-1": {
+    "record_id": "KMBCTB-101-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "101",
+    "route": "101",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "MOK CHEONG STREET",
+      "tc": "木廠街",
+      "sc": "木厂街"
+    },
+    "destination": {
+      "en": "KENNEDY TOWN",
+      "tc": "堅尼地城",
+      "sc": "坚尼地城"
+    }
+  },
+  "KMBCTB-101-inbound-1": {
+    "record_id": "KMBCTB-101-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "101",
+    "route": "101",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "DES VOEUX RD CENTRAL",
+      "tc": "德輔道中",
+      "sc": "德辅道中"
+    },
+    "destination": {
+      "en": "KWUN TONG (YUE MAN SQUARE)",
+      "tc": "觀塘(裕民坊)",
+      "sc": "观塘(裕民坊)"
+    }
+  },
+  "KMBCTB-101X-outbound-1": {
+    "record_id": "KMBCTB-101X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "101X",
+    "route": "101X",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KWUN TONG (YUE MAN SQUARE)",
+      "tc": "觀塘(裕民坊)",
+      "sc": "观塘(裕民坊)"
+    },
+    "destination": {
+      "en": "KENNEDY TOWN",
+      "tc": "堅尼地城",
+      "sc": "坚尼地城"
+    }
+  },
+  "KMBCTB-101X-inbound-1": {
+    "record_id": "KMBCTB-101X-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "101X",
+    "route": "101X",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KENNEDY TOWN",
+      "tc": "堅尼地城",
+      "sc": "坚尼地城"
+    },
+    "destination": {
+      "en": "KWUN TONG (YUE MAN SQUARE)",
+      "tc": "觀塘(裕民坊)",
+      "sc": "观塘(裕民坊)"
+    }
+  },
+  "KMBCTB-102-outbound-1": {
+    "record_id": "KMBCTB-102-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "102",
+    "route": "102",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHAU KEI WAN",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
+    },
+    "destination": {
+      "en": "MEI FOO",
+      "tc": "美孚",
+      "sc": "美孚"
+    }
+  },
+  "KMBCTB-102-inbound-1": {
+    "record_id": "KMBCTB-102-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "102",
+    "route": "102",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "MEI FOO",
+      "tc": "美孚",
+      "sc": "美孚"
+    },
+    "destination": {
+      "en": "SHAU KEI WAN",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
+    }
+  },
+  "KMBCTB-102P-outbound-1": {
+    "record_id": "KMBCTB-102P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "102P",
+    "route": "102P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHAU KEI WAN",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
+    },
+    "destination": {
+      "en": "MEI FOO",
+      "tc": "美孚",
+      "sc": "美孚"
+    }
+  },
+  "KMBCTB-102P-inbound-1": {
+    "record_id": "KMBCTB-102P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "102P",
+    "route": "102P",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HUNG HOM CROSS HARBOUR TUNNEL",
+      "tc": "紅磡海底隧道",
+      "sc": "红磡海底隧道"
+    },
+    "destination": {
+      "en": "SHAU KEI WAN",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
+    }
+  },
+  "KMBCTB-103-outbound-1": {
+    "record_id": "KMBCTB-103-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "103",
+    "route": "103",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHUK YUEN ESTATE",
+      "tc": "竹園邨",
+      "sc": "竹园邨"
+    },
+    "destination": {
+      "en": "POKFIELD RD",
+      "tc": "蒲飛路",
+      "sc": "蒲飞路"
+    }
+  },
+  "KMBCTB-103-inbound-1": {
+    "record_id": "KMBCTB-103-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "103",
+    "route": "103",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "POKFIELD RD",
+      "tc": "蒲飛路",
+      "sc": "蒲飞路"
+    },
+    "destination": {
+      "en": "CHUK YUEN ESTATE",
+      "tc": "竹園邨",
+      "sc": "竹园邨"
+    }
+  },
+  "KMBCTB-104-outbound-1": {
+    "record_id": "KMBCTB-104-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "104",
+    "route": "104",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KENNEDY TOWN",
+      "tc": "堅尼地城",
+      "sc": "坚尼地城"
+    },
+    "destination": {
+      "en": "Sham Shui Po (Pak Tin Estate)",
+      "tc": "深水埗(白田邨)",
+      "sc": "深水埗(白田邨)"
+    }
+  },
+  "KMBCTB-104-inbound-1": {
+    "record_id": "KMBCTB-104-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "104",
+    "route": "104",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Sham Shui Po (Pak Tin Estate)",
+      "tc": "深水埗(白田邨)",
+      "sc": "深水埗(白田邨)"
+    },
+    "destination": {
+      "en": "KENNEDY TOWN",
+      "tc": "堅尼地城",
+      "sc": "坚尼地城"
+    }
+  },
+  "KMBCTB-106-outbound-1": {
+    "record_id": "KMBCTB-106-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "106",
+    "route": "106",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "WONG TAI SIN",
+      "tc": "黃大仙",
+      "sc": "黄大仙"
+    },
+    "destination": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    }
+  },
+  "KMBCTB-106-inbound-1": {
+    "record_id": "KMBCTB-106-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "106",
+    "route": "106",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    },
+    "destination": {
+      "en": "WONG TAI SIN",
+      "tc": "黃大仙",
+      "sc": "黄大仙"
+    }
+  },
+  "KMBCTB-106P-outbound-1": {
+    "record_id": "KMBCTB-106P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "106P",
+    "route": "106P",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "WONG TAI SIN",
+      "tc": "黃大仙",
+      "sc": "黄大仙"
+    },
+    "destination": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    }
+  },
+  "KMBCTB-106P-inbound-1": {
+    "record_id": "KMBCTB-106P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "106P",
+    "route": "106P",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    },
+    "destination": {
+      "en": "WONG TAI SIN",
+      "tc": "黃大仙",
+      "sc": "黄大仙"
+    }
+  },
+  "KMBCTB-107-outbound-1": {
+    "record_id": "KMBCTB-107-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "107",
+    "route": "107",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KOWLOON BAY",
+      "tc": "九龍灣",
+      "sc": "九龙湾"
+    },
+    "destination": {
+      "en": "WAH KWAI",
+      "tc": "華貴",
+      "sc": "华贵"
+    }
+  },
+  "KMBCTB-107-inbound-1": {
+    "record_id": "KMBCTB-107-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "107",
+    "route": "107",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "WAH KWAI",
+      "tc": "華貴",
+      "sc": "华贵"
+    },
+    "destination": {
+      "en": "KOWLOON BAY",
+      "tc": "九龍灣",
+      "sc": "九龙湾"
+    }
+  },
+  "KMBCTB-107P-outbound-1": {
+    "record_id": "KMBCTB-107P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "107P",
+    "route": "107P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LAGUNA VERDE",
+      "tc": "海逸豪園",
+      "sc": "海逸豪园"
+    },
+    "destination": {
+      "en": "CYBERPORT",
+      "tc": "數碼港",
+      "sc": "数码港"
+    }
+  },
+  "KMBCTB-107P-inbound-1": {
+    "record_id": "KMBCTB-107P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "107P",
+    "route": "107P",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CYBERPORT",
+      "tc": "數碼港",
+      "sc": "数码港"
+    },
+    "destination": {
+      "en": "LAGUNA VERDE",
+      "tc": "海逸豪園",
+      "sc": "海逸豪园"
+    }
+  },
+  "KMBCTB-109-outbound-1": {
+    "record_id": "KMBCTB-109-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "109",
+    "route": "109",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HO MAN TIN",
+      "tc": "何文田",
+      "sc": "何文田"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-109-inbound-1": {
+    "record_id": "KMBCTB-109-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "109",
+    "route": "109",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "HO MAN TIN",
+      "tc": "何文田",
+      "sc": "何文田"
+    }
+  },
+  "KMBCTB-110-outbound-1": {
+    "record_id": "KMBCTB-110-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "110",
+    "route": "110",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHAU KEI WAN",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
+    },
+    "destination": {
+      "en": "TSIM SHA TSUI EAST (MODY ROAD)",
+      "tc": "尖沙咀東(麼地道)",
+      "sc": "尖沙咀东(么地道)"
+    }
+  },
+  "KMBCTB-111-outbound-1": {
+    "record_id": "KMBCTB-111-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "111",
+    "route": "111",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "PING SHEK / CHOI HUNG STATION",
+      "tc": "坪石 / 彩虹站",
+      "sc": "坪石 / 彩虹站"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-111-inbound-1": {
+    "record_id": "KMBCTB-111-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "111",
+    "route": "111",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "PING SHEK / CHOI HUNG STATION",
+      "tc": "坪石 / 彩虹站",
+      "sc": "坪石 / 彩虹站"
+    }
+  },
+  "KMBCTB-111P-outbound-1": {
+    "record_id": "KMBCTB-111P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "111P",
+    "route": "111P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHOI FOOK",
+      "tc": "彩福",
+      "sc": "彩福"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-111P-inbound-1": {
+    "record_id": "KMBCTB-111P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "111P",
+    "route": "111P",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "CHOI FOOK",
+      "tc": "彩福",
+      "sc": "彩福"
+    }
+  },
+  "KMBCTB-112-outbound-1": {
+    "record_id": "KMBCTB-112-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "112",
+    "route": "112",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "NORTH POINT (PAK FUK ROAD)",
+      "tc": "北角(百福道)",
+      "sc": "北角(百福道)"
+    },
+    "destination": {
+      "en": "CHEUNG SHA WAN (SO UK ESTATE)",
+      "tc": "長沙灣(蘇屋邨)",
+      "sc": "长沙湾(苏屋邨)"
+    }
+  },
+  "KMBCTB-112-inbound-1": {
+    "record_id": "KMBCTB-112-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "112",
+    "route": "112",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHEUNG SHA WAN (SO UK ESTATE)",
+      "tc": "長沙灣(蘇屋邨)",
+      "sc": "长沙湾(苏屋邨)"
+    },
+    "destination": {
+      "en": "NORTH POINT (PAK FUK ROAD)",
+      "tc": "北角(百福道)",
+      "sc": "北角(百福道)"
+    }
+  },
+  "KMBCTB-113-outbound-1": {
+    "record_id": "KMBCTB-113-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "113",
+    "route": "113",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHOI HUNG",
+      "tc": "彩虹",
+      "sc": "彩虹"
+    },
+    "destination": {
+      "en": "KENNEDY TOWN (BELCHER BAY)",
+      "tc": "堅尼地城(卑路乍灣)",
+      "sc": "坚尼地城(卑路乍湾)"
+    }
+  },
+  "KMBCTB-113-inbound-1": {
+    "record_id": "KMBCTB-113-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "113",
+    "route": "113",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KENNEDY TOWN (BELCHER BAY)",
+      "tc": "堅尼地城(卑路乍灣)",
+      "sc": "坚尼地城(卑路乍湾)"
+    },
+    "destination": {
+      "en": "CHOI HUNG",
+      "tc": "彩虹",
+      "sc": "彩虹"
+    }
+  },
+  "KMBCTB-115-outbound-1": {
+    "record_id": "KMBCTB-115-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "115",
+    "route": "115",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KOWLOON CITY FERRY",
+      "tc": "九龍城碼頭",
+      "sc": "九龙城码头"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-115-inbound-1": {
+    "record_id": "KMBCTB-115-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "115",
+    "route": "115",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "KOWLOON CITY FERRY",
+      "tc": "九龍城碼頭",
+      "sc": "九龙城码头"
+    }
+  },
+  "KMBCTB-115P-outbound-1": {
+    "record_id": "KMBCTB-115P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "115P",
+    "route": "115P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LAGUNA VERDE",
+      "tc": "海逸豪園",
+      "sc": "海逸豪园"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-116-outbound-1": {
+    "record_id": "KMBCTB-116-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "116",
+    "route": "116",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TSZ WAN SHAN (CENTRAL)",
+      "tc": "慈雲山(中)",
+      "sc": "慈云山(中)"
+    },
+    "destination": {
+      "en": "QUARRY BAY (YAU MAN STREET)",
+      "tc": "鰂魚涌(祐民街)",
+      "sc": "鲗鱼涌(佑民街)"
+    }
+  },
+  "KMBCTB-116-inbound-1": {
+    "record_id": "KMBCTB-116-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "116",
+    "route": "116",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "FORTRESS HILL STATION",
+      "tc": "炮台山站",
+      "sc": "炮台山站"
+    },
+    "destination": {
+      "en": "TSZ WAN SHAN (CENTRAL)",
+      "tc": "慈雲山(中)",
+      "sc": "慈云山(中)"
+    }
+  },
+  "KMBCTB-117-outbound-1": {
+    "record_id": "KMBCTB-117-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "117",
+    "route": "117",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHAM SHUI PO (YEN CHOW ST)",
+      "tc": "深水埗(欽州街)",
+      "sc": "深水埗(钦州街)"
+    },
+    "destination": {
+      "en": "HAPPY VALLEY (LOWER)",
+      "tc": "跑馬地(下)",
+      "sc": "跑马地(下)"
+    }
+  },
+  "KMBCTB-117-inbound-1": {
+    "record_id": "KMBCTB-117-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "117",
+    "route": "117",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HAPPY VALLEY (LOWER)",
+      "tc": "跑馬地(下)",
+      "sc": "跑马地(下)"
+    },
+    "destination": {
+      "en": "SHAM SHUI PO (YEN CHOW ST)",
+      "tc": "深水埗(欽州街)",
+      "sc": "深水埗(钦州街)"
+    }
+  },
+  "KMBCTB-118-outbound-1": {
+    "record_id": "KMBCTB-118-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "118",
+    "route": "118",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CROSS HARBOUR TUNNEL",
+      "tc": "紅磡海底隧道",
+      "sc": "红磡海底隧道"
+    },
+    "destination": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    }
+  },
+  "KMBCTB-118-inbound-1": {
+    "record_id": "KMBCTB-118-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "118",
+    "route": "118",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHAI WAN (GREENWOOD TERRACE)",
+      "tc": "柴灣(康翠臺)",
+      "sc": "柴湾(康翠台)"
+    },
+    "destination": {
+      "en": "CHEUNG SHA WAN (SHAM MONG ROAD)",
+      "tc": "長沙灣(深旺道)",
+      "sc": "长沙湾(深旺道)"
+    }
+  },
+  "KMBCTB-118P-outbound-1": {
+    "record_id": "KMBCTB-118P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "118P",
+    "route": "118P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    },
+    "destination": {
+      "en": "KEI WING PRIMARY SCHOOL",
+      "tc": "基榮小學",
+      "sc": "基荣小学"
+    }
+  },
+  "KMBCTB-118P-inbound-1": {
+    "record_id": "KMBCTB-118P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "118P",
+    "route": "118P",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHEUNG SHA WAN (SHAM MONG ROAD)",
+      "tc": "長沙灣(深旺道)",
+      "sc": "长沙湾(深旺道)"
+    },
+    "destination": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    }
+  },
+  "KMBCTB-170-outbound-1": {
+    "record_id": "KMBCTB-170-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "170",
+    "route": "170",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHATIN STATION",
+      "tc": "沙田站",
+      "sc": "沙田站"
+    },
+    "destination": {
+      "en": "WAH FU (CENTRAL)",
+      "tc": "華富(中)",
+      "sc": "华富(中)"
+    }
+  },
+  "KMBCTB-170-inbound-1": {
+    "record_id": "KMBCTB-170-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "170",
+    "route": "170",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "WAH FU (CENTRAL)",
+      "tc": "華富(中)",
+      "sc": "华富(中)"
+    },
+    "destination": {
+      "en": "SHATIN STATION",
+      "tc": "沙田站",
+      "sc": "沙田站"
+    }
+  },
+  "KMBCTB-171-outbound-1": {
+    "record_id": "KMBCTB-171-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "171",
+    "route": "171",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    },
+    "destination": {
+      "en": "SOUTH HORIZONS",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
+    }
+  },
+  "KMBCTB-171-inbound-1": {
+    "record_id": "KMBCTB-171-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "171",
+    "route": "171",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SOUTH HORIZONS",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
+    },
+    "destination": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    }
+  },
+  "KMBCTB-171A-outbound-1": {
+    "record_id": "KMBCTB-171A-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "171A",
+    "route": "171A",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LEI TUNG ESTATE",
+      "tc": "利東邨",
+      "sc": "利东邨"
+    },
+    "destination": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    }
+  },
+  "KMBCTB-171P-outbound-1": {
+    "record_id": "KMBCTB-171P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "171P",
+    "route": "171P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SOUTH HORIZONS",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
+    },
+    "destination": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    }
+  },
+  "KMBCTB-182-outbound-1": {
+    "record_id": "KMBCTB-182-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "182",
+    "route": "182",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "YU CHUI COURT",
+      "tc": "愉翠苑",
+      "sc": "愉翠苑"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-182-inbound-1": {
+    "record_id": "KMBCTB-182-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "182",
+    "route": "182",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "YU CHUI COURT",
+      "tc": "愉翠苑",
+      "sc": "愉翠苑"
+    }
+  },
+  "KMBCTB-182X-outbound-1": {
+    "record_id": "KMBCTB-182X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "182X",
+    "route": "182X",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "YU CHUI COURT",
+      "tc": "愉翠苑",
+      "sc": "愉翠苑"
+    }
+  },
+  "KMBCTB-302-outbound-1": {
+    "record_id": "KMBCTB-302-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "302",
+    "route": "302",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TSZ WAN SHAN (NORTH)",
+      "tc": "慈雲山(北)",
+      "sc": "慈云山(北)"
+    },
+    "destination": {
+      "en": "SHEUNG WAN",
+      "tc": "上環",
+      "sc": "上环"
+    }
+  },
+  "KMBCTB-302A-outbound-1": {
+    "record_id": "KMBCTB-302A-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "302A",
+    "route": "302A",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TSZ WAN SHAN (NORTH)",
+      "tc": "慈雲山(北)",
+      "sc": "慈云山(北)"
+    },
+    "destination": {
+      "en": "NORTH POINT (HEALTHY VILLAGE)",
+      "tc": "北角(健康村)",
+      "sc": "北角(健康村)"
+    }
+  },
+  "KMBCTB-307-outbound-1": {
+    "record_id": "KMBCTB-307-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "307",
+    "route": "307",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TAI PO CENTRAL",
+      "tc": "大埔中心",
+      "sc": "大埔中心"
+    },
+    "destination": {
+      "en": "SHEUNG WAN",
+      "tc": "上環",
+      "sc": "上环"
+    }
+  },
+  "KMBCTB-307-inbound-1": {
+    "record_id": "KMBCTB-307-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "307",
+    "route": "307",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (CENTRAL FERRY PIERS)",
+      "tc": "中環(渡輪碼頭)",
+      "sc": "中环(渡轮码头)"
+    },
+    "destination": {
+      "en": "TAI PO CENTRAL",
+      "tc": "大埔中心",
+      "sc": "大埔中心"
+    }
+  },
+  "KMBCTB-307A-outbound-1": {
+    "record_id": "KMBCTB-307A-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "307A",
+    "route": "307A",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TAI PO TAU",
+      "tc": "大埔頭",
+      "sc": "大埔头"
+    },
+    "destination": {
+      "en": "SHEUNG WAN",
+      "tc": "上環",
+      "sc": "上环"
+    }
+  },
+  "KMBCTB-307P-outbound-1": {
+    "record_id": "KMBCTB-307P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "307P",
+    "route": "307P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "FU TIP BUS TERMINUS",
+      "tc": "富蝶總站",
+      "sc": "富蝶总站"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    }
+  },
+  "KMBCTB-307P-inbound-1": {
+    "record_id": "KMBCTB-307P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "307P",
+    "route": "307P",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    },
+    "destination": {
+      "en": "FU TIP BUS TERMINUS",
+      "tc": "富蝶總站",
+      "sc": "富蝶总站"
+    }
+  },
+  "KMBCTB-601-outbound-1": {
+    "record_id": "KMBCTB-601-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "601",
+    "route": "601",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "PO TAT",
+      "tc": "寶達",
+      "sc": "宝达"
+    },
+    "destination": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    }
+  },
+  "KMBCTB-601-inbound-1": {
+    "record_id": "KMBCTB-601-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "601",
+    "route": "601",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    },
+    "destination": {
+      "en": "PO TAT",
+      "tc": "寶達",
+      "sc": "宝达"
+    }
+  },
+  "KMBCTB-601P-outbound-1": {
+    "record_id": "KMBCTB-601P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "601P",
+    "route": "601P",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HIU KWONG STREET (HIU LAI COURT)",
+      "tc": "曉光街(曉麗苑)",
+      "sc": "晓光街(晓丽苑)"
+    },
+    "destination": {
+      "en": "SHEUNG WAN",
+      "tc": "上環",
+      "sc": "上环"
+    }
+  },
+  "KMBCTB-601P-inbound-1": {
+    "record_id": "KMBCTB-601P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "601P",
+    "route": "601P",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHEUNG WAN",
+      "tc": "上環",
+      "sc": "上环"
+    },
+    "destination": {
+      "en": "PO TAT",
+      "tc": "寶達",
+      "sc": "宝达"
+    }
+  },
+  "KMBCTB-606-outbound-1": {
+    "record_id": "KMBCTB-606-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "606",
+    "route": "606",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHOI WAN (FUNG SHING STREET)",
+      "tc": "彩雲(豐盛街)",
+      "sc": "彩云(丰盛街)"
+    },
+    "destination": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    }
+  },
+  "KMBCTB-606-inbound-1": {
+    "record_id": "KMBCTB-606-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "606",
+    "route": "606",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    },
+    "destination": {
+      "en": "CHOI WAN (FUNG SHING STREET)",
+      "tc": "彩雲(豐盛街)",
+      "sc": "彩云(丰盛街)"
+    }
+  },
+  "KMBCTB-606A-outbound-1": {
+    "record_id": "KMBCTB-606A-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "606A",
+    "route": "606A",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHOI WAN (FUNG SHING STREET)",
+      "tc": "彩雲(豐盛街)",
+      "sc": "彩云(丰盛街)"
+    },
+    "destination": {
+      "en": "SHAU KEI WAN (YIU TUNG ESTATE)",
+      "tc": "筲箕灣(耀東邨)",
+      "sc": "筲箕湾(耀东邨)"
+    }
+  },
+  "KMBCTB-606A-inbound-1": {
+    "record_id": "KMBCTB-606A-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "606A",
+    "route": "606A",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHAU KEI WAN (YIU TUNG ESTATE)",
+      "tc": "筲箕灣(耀東邨)",
+      "sc": "筲箕湾(耀东邨)"
+    },
+    "destination": {
+      "en": "CHOI WAN (FUNG SHING STREET)",
+      "tc": "彩雲(豐盛街)",
+      "sc": "彩云(丰盛街)"
+    }
+  },
+  "KMBCTB-606X-outbound-1": {
+    "record_id": "KMBCTB-606X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "606X",
+    "route": "606X",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KAI YIP",
+      "tc": "啟業",
+      "sc": "启业"
+    },
+    "destination": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    }
+  },
+  "KMBCTB-606X-inbound-1": {
+    "record_id": "KMBCTB-606X-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "606X",
+    "route": "606X",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SIU SAI WAN (ISLAND RESORT)",
+      "tc": "小西灣(藍灣半島)",
+      "sc": "小西湾(蓝湾半岛)"
+    },
+    "destination": {
+      "en": "KOWLOON BAY",
+      "tc": "九龍灣",
+      "sc": "九龙湾"
+    }
+  },
+  "KMBCTB-619-outbound-1": {
+    "record_id": "KMBCTB-619-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "619",
+    "route": "619",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHUN LEE",
+      "tc": "順利",
+      "sc": "顺利"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-619-inbound-1": {
+    "record_id": "KMBCTB-619-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "619",
+    "route": "619",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "SHUN LEE",
+      "tc": "順利",
+      "sc": "顺利"
+    }
+  },
+  "KMBCTB-619P-outbound-1": {
+    "record_id": "KMBCTB-619P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "619P",
+    "route": "619P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHUN LEE",
+      "tc": "順利",
+      "sc": "顺利"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-619X-outbound-1": {
+    "record_id": "KMBCTB-619X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "619X",
+    "route": "619X",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHUN LEE",
+      "tc": "順利",
+      "sc": "顺利"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-619X-inbound-1": {
+    "record_id": "KMBCTB-619X-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "619X",
+    "route": "619X",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "SHUN LEE",
+      "tc": "順利",
+      "sc": "顺利"
+    }
+  },
+  "KMBCTB-621-outbound-1": {
+    "record_id": "KMBCTB-621-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "621",
+    "route": "621",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LAGUNA CITY",
+      "tc": "麗港城",
+      "sc": "丽港城"
+    },
+    "destination": {
+      "en": "CENTRAL (HONG KONG STATION)",
+      "tc": "中環(香港站)",
+      "sc": "中环(香港站)"
+    }
+  },
+  "KMBCTB-621-inbound-1": {
+    "record_id": "KMBCTB-621-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "621",
+    "route": "621",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (HONG KONG STATION)",
+      "tc": "中環(香港站)",
+      "sc": "中环(香港站)"
+    },
+    "destination": {
+      "en": "LAGUNA CITY",
+      "tc": "麗港城",
+      "sc": "丽港城"
+    }
+  },
+  "KMBCTB-641-outbound-1": {
+    "record_id": "KMBCTB-641-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "641",
+    "route": "641",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KAI TAK (KAI CHING ESTATE)",
+      "tc": "啟德(啟晴邨)",
+      "sc": "启德(启晴邨)"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-641-inbound-1": {
+    "record_id": "KMBCTB-641-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "641",
+    "route": "641",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "KAI TAK (KAI CHING ESTATE)",
+      "tc": "啟德(啟晴邨)",
+      "sc": "启德(启晴邨)"
+    }
+  },
+  "KMBCTB-671-outbound-1": {
+    "record_id": "KMBCTB-671-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "671",
+    "route": "671",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "DIAMOND HILL STATION",
+      "tc": "鑽石山站",
+      "sc": "钻石山站"
+    },
+    "destination": {
+      "en": "AP LEI CHAU LEE LOK ST",
+      "tc": "鴨脷洲(利樂街)",
+      "sc": "鸭脷洲(利乐街)"
+    }
+  },
+  "KMBCTB-671-inbound-1": {
+    "record_id": "KMBCTB-671-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "671",
+    "route": "671",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "AP LEI CHAU LEE LOK ST",
+      "tc": "鴨脷洲(利樂街)",
+      "sc": "鸭脷洲(利乐街)"
+    },
+    "destination": {
+      "en": "DIAMOND HILL STATION",
+      "tc": "鑽石山站",
+      "sc": "钻石山站"
+    }
+  },
+  "KMBCTB-671X-outbound-1": {
+    "record_id": "KMBCTB-671X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "671X",
+    "route": "671X",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "AP LEI CHAU LEE LOK ST",
+      "tc": "鴨脷洲(利樂街)",
+      "sc": "鸭脷洲(利乐街)"
+    },
+    "destination": {
+      "en": "DIAMOND HILL STATION",
+      "tc": "鑽石山站",
+      "sc": "钻石山站"
+    }
+  },
+  "KMBCTB-678-outbound-1": {
+    "record_id": "KMBCTB-678-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "678",
+    "route": "678",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHEUNG SHUI",
+      "tc": "上水",
+      "sc": "上水"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (EASTERN HOSPITAL ROAD)",
+      "tc": "銅鑼灣(東院道)",
+      "sc": "铜锣湾(东院道)"
+    }
+  },
+  "KMBCTB-678-inbound-1": {
+    "record_id": "KMBCTB-678-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "678",
+    "route": "678",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CAUSEWAY BAY (EASTERN HOSPITAL ROAD)",
+      "tc": "銅鑼灣(東院道)",
+      "sc": "铜锣湾(东院道)"
+    },
+    "destination": {
+      "en": "SHEUNG SHUI",
+      "tc": "上水",
+      "sc": "上水"
+    }
+  },
+  "KMBCTB-680-outbound-1": {
+    "record_id": "KMBCTB-680-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "680",
+    "route": "680",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LEE ON",
+      "tc": "利安",
+      "sc": "利安"
+    },
+    "destination": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    }
+  },
+  "KMBCTB-680-inbound-1": {
+    "record_id": "KMBCTB-680-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "680",
+    "route": "680",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    },
+    "destination": {
+      "en": "LEE ON",
+      "tc": "利安",
+      "sc": "利安"
+    }
+  },
+  "KMBCTB-680B-outbound-1": {
+    "record_id": "KMBCTB-680B-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "680B",
+    "route": "680B",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CHEVALIER GARDEN",
+      "tc": "富安花園",
+      "sc": "富安花园"
+    },
+    "destination": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    }
+  },
+  "KMBCTB-680P-outbound-1": {
+    "record_id": "KMBCTB-680P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "680P",
+    "route": "680P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "WU KAI SHA STATION",
+      "tc": "烏溪沙站",
+      "sc": "乌溪沙站"
+    },
+    "destination": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    }
+  },
+  "KMBCTB-680X-outbound-1": {
+    "record_id": "KMBCTB-680X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "680X",
+    "route": "680X",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "WU KAI SHA STATION",
+      "tc": "烏溪沙站",
+      "sc": "乌溪沙站"
+    },
+    "destination": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    }
+  },
+  "KMBCTB-680X-inbound-1": {
+    "record_id": "KMBCTB-680X-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "680X",
+    "route": "680X",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (MACAO FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "WU KAI SHA STATION",
+      "tc": "烏溪沙站",
+      "sc": "乌溪沙站"
+    }
+  },
+  "KMBCTB-681-outbound-1": {
+    "record_id": "KMBCTB-681-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "681",
+    "route": "681",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (HONG KONG STATION)",
+      "tc": "中環(香港站)",
+      "sc": "中环(香港站)"
+    },
+    "destination": {
+      "en": "MA ON SHAN TOWN CENTRE",
+      "tc": "馬鞍山市中心",
+      "sc": "马鞍山市中心"
+    }
+  },
+  "KMBCTB-681-inbound-1": {
+    "record_id": "KMBCTB-681-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "681",
+    "route": "681",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "MA ON SHAN TOWN CENTRE",
+      "tc": "馬鞍山市中心",
+      "sc": "马鞍山市中心"
+    },
+    "destination": {
+      "en": "CENTRAL (HONG KONG STATION)",
+      "tc": "中環(香港站)",
+      "sc": "中环(香港站)"
+    }
+  },
+  "KMBCTB-681P-outbound-1": {
+    "record_id": "KMBCTB-681P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "681P",
+    "route": "681P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "YIU ON",
+      "tc": "耀安",
+      "sc": "耀安"
+    },
+    "destination": {
+      "en": "SHEUNG WAN",
+      "tc": "上環",
+      "sc": "上环"
+    }
+  },
+  "KMBCTB-681P-inbound-1": {
+    "record_id": "KMBCTB-681P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "681P",
+    "route": "681P",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHEUNG WAN",
+      "tc": "上環",
+      "sc": "上环"
+    },
+    "destination": {
+      "en": "YIU ON",
+      "tc": "耀安",
+      "sc": "耀安"
+    }
+  },
+  "KMBCTB-690-outbound-1": {
+    "record_id": "KMBCTB-690-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "690",
+    "route": "690",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HONG SING GARDEN",
+      "tc": "康盛花園",
+      "sc": "康盛花园"
+    },
+    "destination": {
+      "en": "CENTRAL (EXCHANGE SQUARE)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    }
+  },
+  "KMBCTB-690-inbound-1": {
+    "record_id": "KMBCTB-690-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "690",
+    "route": "690",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (EXCHANGE SQUARE)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    },
+    "destination": {
+      "en": "HONG SING GARDEN",
+      "tc": "康盛花園",
+      "sc": "康盛花园"
+    }
+  },
+  "KMBCTB-690P-outbound-1": {
+    "record_id": "KMBCTB-690P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "690P",
+    "route": "690P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HONG SING GARDEN",
+      "tc": "康盛花園",
+      "sc": "康盛花园"
+    },
+    "destination": {
+      "en": "CENTRAL (EXCHANGE SQUARE)",
+      "tc": "中環(交易廣場)",
+      "sc": "中环(交易广场)"
+    }
+  },
+  "KMBCTB-904-outbound-1": {
+    "record_id": "KMBCTB-904-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "904",
+    "route": "904",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    },
+    "destination": {
+      "en": "KENNEDY TOWN (BELCHER BAY)",
+      "tc": "堅尼地城(卑路乍灣)",
+      "sc": "坚尼地城(卑路乍湾)"
+    }
+  },
+  "KMBCTB-904-inbound-1": {
+    "record_id": "KMBCTB-904-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "904",
+    "route": "904",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "KENNEDY TOWN (BELCHER BAY)",
+      "tc": "堅尼地城(卑路乍灣)",
+      "sc": "坚尼地城(卑路乍湾)"
+    },
+    "destination": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    }
+  },
+  "KMBCTB-905-outbound-1": {
+    "record_id": "KMBCTB-905-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "905",
+    "route": "905",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    },
+    "destination": {
+      "en": "EXHIBITION CENTRE STATION",
+      "tc": "會展站",
+      "sc": "会展站"
+    }
+  },
+  "KMBCTB-905-inbound-1": {
+    "record_id": "KMBCTB-905-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "905",
+    "route": "905",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "EXHIBITION CENTRE STATION",
+      "tc": "會展站",
+      "sc": "会展站"
+    },
+    "destination": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    }
+  },
+  "KMBCTB-905A-outbound-1": {
+    "record_id": "KMBCTB-905A-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "905A",
+    "route": "905A",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "EXHIBITION CENTRE STATION",
+      "tc": "會展站",
+      "sc": "会展站"
+    },
+    "destination": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    }
+  },
+  "KMBCTB-905P-outbound-1": {
+    "record_id": "KMBCTB-905P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "905P",
+    "route": "905P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "LAI CHI KOK",
+      "tc": "荔枝角",
+      "sc": "荔枝角"
+    },
+    "destination": {
+      "en": "WAN CHAI (HARBOUR ROAD)",
+      "tc": "灣仔(港灣道)",
+      "sc": "湾仔(港湾道)"
+    }
+  },
+  "KMBCTB-907C-outbound-1": {
+    "record_id": "KMBCTB-907C-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "907C",
+    "route": "907C",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "FU TIP BUS TERMINUS",
+      "tc": "富蝶總站",
+      "sc": "富蝶总站"
+    },
+    "destination": {
+      "en": "WAN CHAI (CONVENTION CENTRE)",
+      "tc": "灣仔(會展)",
+      "sc": "湾仔(会展)"
+    }
+  },
+  "KMBCTB-907C-inbound-1": {
+    "record_id": "KMBCTB-907C-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "907C",
+    "route": "907C",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ADMIRALTY STATION",
+      "tc": "金鐘站",
+      "sc": "金钟站"
+    },
+    "destination": {
+      "en": "FU TIP BUS TERMINUS",
+      "tc": "富蝶總站",
+      "sc": "富蝶总站"
+    }
+  },
+  "KMBCTB-914-outbound-1": {
+    "record_id": "KMBCTB-914-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "914",
+    "route": "914",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HOI LAI ESTATE",
+      "tc": "海麗邨",
+      "sc": "海丽邨"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    }
+  },
+  "KMBCTB-914-inbound-1": {
+    "record_id": "KMBCTB-914-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "914",
+    "route": "914",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    },
+    "destination": {
+      "en": "HOI LAI ESTATE",
+      "tc": "海麗邨",
+      "sc": "海丽邨"
+    }
+  },
+  "KMBCTB-914X-outbound-1": {
+    "record_id": "KMBCTB-914X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "914X",
+    "route": "914X",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "HOI LAI ESTATE",
+      "tc": "海麗邨",
+      "sc": "海丽邨"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    }
+  },
+  "KMBCTB-948-outbound-1": {
+    "record_id": "KMBCTB-948-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "948",
+    "route": "948",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TSING YI (CHEUNG ON ESTATE)",
+      "tc": "青衣(長安邨)",
+      "sc": "青衣(长安邨)"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    }
+  },
+  "KMBCTB-948-inbound-1": {
+    "record_id": "KMBCTB-948-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "948",
+    "route": "948",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    },
+    "destination": {
+      "en": "TSING YI (CHEUNG ON ESTATE)",
+      "tc": "青衣(長安邨)",
+      "sc": "青衣(长安邨)"
+    }
+  },
+  "KMBCTB-948A-outbound-1": {
+    "record_id": "KMBCTB-948A-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "948A",
+    "route": "948A",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TSING YI (CHEUNG ON ESTATE)",
+      "tc": "青衣(長安邨)",
+      "sc": "青衣(长安邨)"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    }
+  },
+  "KMBCTB-948B-outbound-1": {
+    "record_id": "KMBCTB-948B-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "948B",
+    "route": "948B",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "GREENFIELD GARDEN",
+      "tc": "翠怡花園",
+      "sc": "翠怡花园"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    }
+  },
+  "KMBCTB-948E-outbound-1": {
+    "record_id": "KMBCTB-948E-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "948E",
+    "route": "948E",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TSING YI STATION",
+      "tc": "青衣站",
+      "sc": "青衣站"
+    },
+    "destination": {
+      "en": "TAIKOO(KORNHILL PLAZA)",
+      "tc": "太古(康怡廣場)",
+      "sc": "太古(康怡广场)"
+    }
+  },
+  "KMBCTB-948E-inbound-1": {
+    "record_id": "KMBCTB-948E-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "948E",
+    "route": "948E",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TAIKOO(KORNHILL PLAZA)",
+      "tc": "太古(康怡廣場)",
+      "sc": "太古(康怡广场)"
+    },
+    "destination": {
+      "en": "TSING YI STATION",
+      "tc": "青衣站",
+      "sc": "青衣站"
+    }
+  },
+  "KMBCTB-948P-outbound-1": {
+    "record_id": "KMBCTB-948P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "948P",
+    "route": "948P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TSING YI (CHEUNG ON ESTATE)",
+      "tc": "青衣(長安邨)",
+      "sc": "青衣(长安邨)"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    }
+  },
+  "KMBCTB-948X-outbound-1": {
+    "record_id": "KMBCTB-948X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "948X",
+    "route": "948X",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TSING YI (CHEUNG WANG ESTATE)",
+      "tc": "青衣(長宏邨)",
+      "sc": "青衣(长宏邨)"
+    },
+    "destination": {
+      "en": "CAUSEWAY BAY (TIN HAU)",
+      "tc": "銅鑼灣(天后)",
+      "sc": "铜锣湾(天后)"
+    }
+  },
+  "KMBCTB-980A-outbound-1": {
+    "record_id": "KMBCTB-980A-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "980A",
+    "route": "980A",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHEK MUN ESTATE",
+      "tc": "碩門邨",
+      "sc": "硕门邨"
+    },
+    "destination": {
+      "en": "WAN CHAI (FLEMING ROAD)",
+      "tc": "灣仔(菲林明道)",
+      "sc": "湾仔(菲林明道)"
+    }
+  },
+  "KMBCTB-980X-outbound-1": {
+    "record_id": "KMBCTB-980X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "980X",
+    "route": "980X",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Sai Sha Residences Transport Interchange",
+      "tc": "西沙灣交通交匯處",
+      "sc": "西沙湾交通交汇处"
+    },
+    "destination": {
+      "en": "WAN CHAI (FLEMING ROAD)",
+      "tc": "灣仔(菲林明道)",
+      "sc": "湾仔(菲林明道)"
+    }
+  },
+  "KMBCTB-980X-inbound-1": {
+    "record_id": "KMBCTB-980X-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "980X",
+    "route": "980X",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    },
+    "destination": {
+      "en": "Sai Sha Residences Transport Interchange",
+      "tc": "西沙灣交通交匯處",
+      "sc": "西沙湾交通交汇处"
+    }
+  },
+  "KMBCTB-981P-outbound-1": {
+    "record_id": "KMBCTB-981P-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "981P",
+    "route": "981P",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "YIU ON",
+      "tc": "耀安",
+      "sc": "耀安"
+    },
+    "destination": {
+      "en": "WAN CHAI (FLEMING ROAD)",
+      "tc": "灣仔(菲林明道)",
+      "sc": "湾仔(菲林明道)"
+    }
+  },
+  "KMBCTB-981P-inbound-1": {
+    "record_id": "KMBCTB-981P-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "981P",
+    "route": "981P",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    },
+    "destination": {
+      "en": "YIU ON",
+      "tc": "耀安",
+      "sc": "耀安"
+    }
+  },
+  "KMBCTB-982X-outbound-1": {
+    "record_id": "KMBCTB-982X-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "982X",
+    "route": "982X",
+    "bound": "outbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "SHUI CHUEN O",
+      "tc": "水泉澳",
+      "sc": "水泉澳"
+    },
+    "destination": {
+      "en": "WAN CHAI(FLEMING ROAD)",
+      "tc": "灣仔(菲林明道)",
+      "sc": "湾仔(菲林明道)"
+    }
+  },
+  "KMBCTB-982X-inbound-1": {
+    "record_id": "KMBCTB-982X-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "982X",
+    "route": "982X",
+    "bound": "inbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    },
+    "destination": {
+      "en": "YU CHUI COURT",
+      "tc": "愉翠苑",
+      "sc": "愉翠苑"
+    }
+  },
+  "KMBCTB-985-outbound-1": {
+    "record_id": "KMBCTB-985-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "985",
+    "route": "985",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "MEI TIN (MEI CHI HOUSE)",
+      "tc": "美田(美致樓)",
+      "sc": "美田(美致楼)"
+    },
+    "destination": {
+      "en": "WAN CHAI",
+      "tc": "灣仔",
+      "sc": "湾仔"
+    }
+  },
+  "KMBCTB-985-inbound-1": {
+    "record_id": "KMBCTB-985-inbound-1",
+    "company": "KMBCTB",
+    "route_id": "985",
+    "route": "985",
+    "bound": "inbound",
+    "ctb_bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "ADMIRALTY STATION (EAST)",
+      "tc": "金鐘站(東)",
+      "sc": "金钟站(东)"
+    },
+    "destination": {
+      "en": "MEI TIN",
+      "tc": "美田",
+      "sc": "美田"
+    }
+  },
+  "KMBCTB-985A-outbound-1": {
+    "record_id": "KMBCTB-985A-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "985A",
+    "route": "985A",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "MEI TIN ESTATE (MEI CHI HOUSE)",
+      "tc": "美田(美致樓)",
+      "sc": "美田(美致楼)"
+    },
+    "destination": {
+      "en": "WAN CHAI",
+      "tc": "灣仔",
+      "sc": "湾仔"
+    }
+  },
+  "KMBCTB-985B-outbound-1": {
+    "record_id": "KMBCTB-985B-outbound-1",
+    "company": "KMBCTB",
+    "route_id": "985B",
+    "route": "985B",
+    "bound": "outbound",
+    "ctb_bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TIN SAM VILLAGE",
+      "tc": "田心村",
+      "sc": "田心村"
+    },
+    "destination": {
+      "en": "WAN CHAI",
+      "tc": "灣仔",
+      "sc": "湾仔"
+    }
+  }
+}
