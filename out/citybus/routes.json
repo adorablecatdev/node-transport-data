@@ -557,24 +557,6 @@
       "sc": "渣甸山"
     }
   },
-  "CTB-110-inbound-1": {
-    "record_id": "CTB-110-inbound-1",
-    "company": "CTB",
-    "route_id": "110",
-    "route": "110",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tsim Sha Tsui (Mody Road)",
-      "tc": "尖沙咀 (麼地道)",
-      "sc": "尖沙咀 (么地道)"
-    },
-    "destination": {
-      "en": "Shau Kei Wan",
-      "tc": "筲箕灣",
-      "sc": "筲箕湾"
-    }
-  },
   "CTB-110-outbound-1": {
     "record_id": "CTB-110-outbound-1",
     "company": "CTB",

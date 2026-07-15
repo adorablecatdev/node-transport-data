@@ -8,7 +8,7 @@ import { run as runMtrbus } from "./companies/mtrbus/index.js";
 import { run as runNlb } from "./companies/nlb/index.js";
 import { parseAll } from "./parse.js";
 
-type RunOptions = { resume?: boolean; test?: boolean };
+type RunOptions = { resume?: boolean; test?: boolean; keepCache?: boolean };
 
 const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   kmb: () => runKmb(),
@@ -23,7 +23,13 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   nlb: (options) => runNlb(options),
 };
 
-const KNOWN_FLAGS = new Set(["--resume", "--test", "--parse-only", "--no-parse"]);
+const KNOWN_FLAGS = new Set([
+  "--resume",
+  "--test",
+  "--parse-only",
+  "--no-parse",
+  "--keep-cache",
+]);
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
@@ -31,6 +37,7 @@ async function main(): Promise<void> {
   const test = args.includes("--test");
   const parseOnly = args.includes("--parse-only");
   const noParse = args.includes("--no-parse");
+  const keepCache = args.includes("--keep-cache");
 
   const targets: string[] = [];
   for (const a of args) {
@@ -45,7 +52,7 @@ async function main(): Promise<void> {
       if (!runner) {
         throw new Error(`Unknown company: ${name}. Available: ${Object.keys(companies).join(", ")}`);
       }
-      await runner({ resume, test });
+      await runner({ resume, test, keepCache });
     }
   }
 

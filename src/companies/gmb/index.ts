@@ -29,9 +29,9 @@ const TEST_ROUTE_LIMIT = 2;
 
 export async function runRegion(
   region: GmbRegion,
-  options: { resume?: boolean; test?: boolean } = {},
+  options: { resume?: boolean; test?: boolean; keepCache?: boolean } = {},
 ): Promise<void> {
-  const { resume = false, test = false } = options;
+  const { resume = false, test = false, keepCache = false } = options;
   const tag = `gmb-${region.toLowerCase()}`;
   const baseDir = outDirFor(region);
   const outDir = test ? `${baseDir}/test` : baseDir;
@@ -78,18 +78,21 @@ export async function runRegion(
   await writeJson(`${outDir}/routes.json`, routesOut);
   await writeJson(`${outDir}/route-stops.json`, routeStopsOut);
 
-  await removeIfExists(routeInfosCache);
-  await removeIfExists(routeStopsCache);
-  await removeIfExists(stopsCache);
+  if (!keepCache) {
+    await removeIfExists(routeInfosCache);
+    await removeIfExists(routeStopsCache);
+    await removeIfExists(stopsCache);
+  }
 
   console.log(
     `[${tag}] wrote ${Object.keys(routesOut).length} routes and ${Object.keys(routeStopsOut).length} route-stop groups to ${outDir}/`,
   );
 }
 
-export const runHKI = (options?: { resume?: boolean; test?: boolean }): Promise<void> =>
+type RegionRunOptions = { resume?: boolean; test?: boolean; keepCache?: boolean };
+export const runHKI = (options?: RegionRunOptions): Promise<void> =>
   runRegion("HKI", options ?? {});
-export const runKLN = (options?: { resume?: boolean; test?: boolean }): Promise<void> =>
+export const runKLN = (options?: RegionRunOptions): Promise<void> =>
   runRegion("KLN", options ?? {});
-export const runNT = (options?: { resume?: boolean; test?: boolean }): Promise<void> =>
+export const runNT = (options?: RegionRunOptions): Promise<void> =>
   runRegion("NT", options ?? {});

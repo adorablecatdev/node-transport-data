@@ -8,7 +8,7 @@ import {
 } from "../../types.js";
 import { JOINTLY_OPERATED_ROUTES, REVERSE_DIR_ROUTES } from "./static.js";
 
-const SERVICE_TYPE = "1";
+const CTB_SERVICE_TYPE = "1";
 
 function otherBound(b: Bound): Bound {
   return b === Bound.Inbound ? Bound.Outbound : Bound.Inbound;
@@ -77,7 +77,7 @@ export function transformKmbCtb(inputs: Inputs): KmbCtbTransformResult {
     if (!JOINTLY_OPERATED_ROUTES.has(kmbRoute.route_id)) continue;
 
     const ctbBound = ctbBoundFor(kmbRoute.route_id, kmbRoute.bound);
-    const ctbRecordId = compositeId(Company.CTB, kmbRoute.route_id, ctbBound, SERVICE_TYPE);
+    const ctbRecordId = compositeId(Company.CTB, kmbRoute.route_id, ctbBound, CTB_SERVICE_TYPE);
     const ctbRoute = inputs.ctbRoutes[ctbRecordId];
     const ctbStops = inputs.ctbRouteStops[ctbRecordId];
 
@@ -89,7 +89,12 @@ export function transformKmbCtb(inputs: Inputs): KmbCtbTransformResult {
     const kmbStops = inputs.kmbRouteStops[kmbRoute.record_id];
     if (!kmbStops) continue;
 
-    const jointId = compositeId(Company.KMBCTB, kmbRoute.route_id, kmbRoute.bound, SERVICE_TYPE);
+    const jointId = compositeId(
+      Company.KMBCTB,
+      kmbRoute.route_id,
+      kmbRoute.bound,
+      kmbRoute.service_type,
+    );
 
     routes[jointId] = {
       record_id: jointId,
@@ -98,7 +103,7 @@ export function transformKmbCtb(inputs: Inputs): KmbCtbTransformResult {
       route: kmbRoute.route,
       bound: kmbRoute.bound,
       ctb_bound: ctbBound,
-      service_type: SERVICE_TYPE,
+      service_type: kmbRoute.service_type,
       origin: kmbRoute.origin,
       destination: kmbRoute.destination,
     };
@@ -124,7 +129,7 @@ export function transformKmbCtb(inputs: Inputs): KmbCtbTransformResult {
       route: kmbRoute.route,
       bound: kmbRoute.bound,
       ctb_bound: ctbBound,
-      service_type: SERVICE_TYPE,
+      service_type: kmbRoute.service_type,
       stops,
     };
   }

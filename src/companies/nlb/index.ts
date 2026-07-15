@@ -12,8 +12,10 @@ function keyByRecordId<T extends { record_id: string }>(items: T[]): Record<stri
   return out;
 }
 
-export async function run(options: { resume?: boolean; test?: boolean } = {}): Promise<void> {
-  const { resume = false, test = false } = options;
+export async function run(
+  options: { resume?: boolean; test?: boolean; keepCache?: boolean } = {},
+): Promise<void> {
+  const { resume = false, test = false, keepCache = false } = options;
   const outDir = test ? `${BASE_OUT_DIR}/test` : BASE_OUT_DIR;
   const cacheDir = `${outDir}/.cache`;
   const routeStopsCache = `${cacheDir}/route-stops.json`;
@@ -44,7 +46,7 @@ export async function run(options: { resume?: boolean; test?: boolean } = {}): P
   await writeJson(`${outDir}/routes.json`, routesOut);
   await writeJson(`${outDir}/route-stops.json`, routeStopsOut);
 
-  await removeIfExists(routeStopsCache);
+  if (!keepCache) await removeIfExists(routeStopsCache);
 
   console.log(
     `[nlb] wrote ${Object.keys(routesOut).length} routes and ${Object.keys(routeStopsOut).length} route-stop groups to ${outDir}/`,
