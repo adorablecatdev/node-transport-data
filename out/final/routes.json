@@ -61142,14 +61142,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Macao Ferry)",
-      "tc": "中環 (港澳碼頭)",
-      "sc": "中环 (港澳码头)"
-    },
-    "destination": {
       "en": "Happy Valley (Upper)",
       "tc": "跑馬地 (上)",
       "sc": "跑马地 (上)"
+    },
+    "destination": {
+      "en": "Central (Macao Ferry)",
+      "tc": "中環 (港澳碼頭)",
+      "sc": "中环 (港澳码头)"
     },
     "stop_ids": [
       "CTB:002403",
@@ -61220,14 +61220,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kennedy Town",
-      "tc": "堅尼地城",
-      "sc": "坚尼地城"
-    },
-    "destination": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
       "sc": "北角码头"
+    },
+    "destination": {
+      "en": "Kennedy Town",
+      "tc": "堅尼地城",
+      "sc": "坚尼地城"
     },
     "stop_ids": [
       "CTB:001249",
@@ -61471,57 +61471,6 @@
       "CTB:001287"
     ]
   },
-  "CTB-11-inbound-1": {
-    "record_id": "CTB-11-inbound-1",
-    "company": "CTB",
-    "route_id": "11",
-    "route": "11",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Central (Ferry Piers)",
-      "tc": "中環碼頭",
-      "sc": "中环码头"
-    },
-    "destination": {
-      "en": "Jardine's Lookout",
-      "tc": "渣甸山",
-      "sc": "渣甸山"
-    },
-    "stop_ids": [
-      "CTB:002511",
-      "CTB:002407",
-      "CTB:002461",
-      "CTB:002462",
-      "CTB:002463",
-      "CTB:002464",
-      "CTB:002471",
-      "CTB:002472",
-      "CTB:002473",
-      "CTB:002525",
-      "CTB:002526",
-      "CTB:002527",
-      "CTB:002528",
-      "CTB:002529",
-      "CTB:002530",
-      "CTB:002531",
-      "CTB:002532",
-      "CTB:002533",
-      "CTB:002534",
-      "CTB:002465",
-      "CTB:002439",
-      "CTB:002440",
-      "CTB:002442",
-      "CTB:002446",
-      "CTB:002449",
-      "CTB:001141",
-      "CTB:001142",
-      "CTB:001106",
-      "CTB:001076",
-      "CTB:001143",
-      "CTB:001145"
-    ]
-  },
   "CTB-11-outbound-1": {
     "record_id": "CTB-11-outbound-1",
     "company": "CTB",
@@ -61570,7 +61519,38 @@
       "CTB:002525",
       "CTB:002526",
       "CTB:002527",
-      "CTB:002528"
+      "CTB:002528",
+      "CTB:002511",
+      "CTB:002407",
+      "CTB:002461",
+      "CTB:002462",
+      "CTB:002463",
+      "CTB:002464",
+      "CTB:002471",
+      "CTB:002472",
+      "CTB:002473",
+      "CTB:002525",
+      "CTB:002526",
+      "CTB:002527",
+      "CTB:002528",
+      "CTB:002529",
+      "CTB:002530",
+      "CTB:002531",
+      "CTB:002532",
+      "CTB:002533",
+      "CTB:002534",
+      "CTB:002465",
+      "CTB:002439",
+      "CTB:002440",
+      "CTB:002442",
+      "CTB:002446",
+      "CTB:002449",
+      "CTB:001141",
+      "CTB:001142",
+      "CTB:001106",
+      "CTB:001076",
+      "CTB:001143",
+      "CTB:001145"
     ]
   },
   "CTB-118R-outbound-1": {
@@ -61598,52 +61578,6 @@
       "CTB:001549",
       "CTB:001552",
       "CTB:001554"
-    ]
-  },
-  "CTB-12-inbound-1": {
-    "record_id": "CTB-12-inbound-1",
-    "company": "CTB",
-    "route_id": "12",
-    "route": "12",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Central Pier 3",
-      "tc": "中環3號碼頭",
-      "sc": "中环3号码头"
-    },
-    "destination": {
-      "en": "Robinson Road / Park Road",
-      "tc": "羅便臣道／柏道",
-      "sc": "罗便臣道／柏道"
-    },
-    "stop_ids": [
-      "CTB:001018",
-      "CTB:001019",
-      "CTB:001020",
-      "CTB:001021",
-      "CTB:001011",
-      "CTB:001013",
-      "CTB:001092",
-      "CTB:001091",
-      "CTB:001146",
-      "CTB:003158",
-      "CTB:002732",
-      "CTB:001154",
-      "CTB:001156",
-      "CTB:001149",
-      "CTB:001150",
-      "CTB:001072",
-      "CTB:001073",
-      "CTB:001157",
-      "CTB:001033",
-      "CTB:001032",
-      "CTB:001181",
-      "CTB:001036",
-      "CTB:001185",
-      "CTB:001076",
-      "CTB:001143",
-      "CTB:001170"
     ]
   },
   "CTB-12-outbound-1": {
@@ -61690,7 +61624,33 @@
       "CTB:001156",
       "CTB:001149",
       "CTB:001150",
-      "CTB:001072"
+      "CTB:001072",
+      "CTB:001018",
+      "CTB:001019",
+      "CTB:001020",
+      "CTB:001021",
+      "CTB:001011",
+      "CTB:001013",
+      "CTB:001092",
+      "CTB:001091",
+      "CTB:001146",
+      "CTB:003158",
+      "CTB:002732",
+      "CTB:001154",
+      "CTB:001156",
+      "CTB:001149",
+      "CTB:001150",
+      "CTB:001072",
+      "CTB:001073",
+      "CTB:001157",
+      "CTB:001033",
+      "CTB:001032",
+      "CTB:001181",
+      "CTB:001036",
+      "CTB:001185",
+      "CTB:001076",
+      "CTB:001143",
+      "CTB:001170"
     ]
   },
   "CTB-12A-outbound-1": {
@@ -61778,14 +61738,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Admiralty (Tamar Street)",
-      "tc": "金鐘 (添馬街)",
-      "sc": "金钟 (添马街)"
-    },
-    "destination": {
       "en": "Kotewall Road (Mid-levels)",
       "tc": "旭龢道 (半山區)",
       "sc": "旭龢道 (半山区)"
+    },
+    "destination": {
+      "en": "Admiralty (Tamar Street)",
+      "tc": "金鐘 (添馬街)",
+      "sc": "金钟 (添马街)"
     },
     "stop_ids": [
       "CTB:002763",
@@ -61845,58 +61805,6 @@
       "CTB:002763"
     ]
   },
-  "CTB-14-inbound-1": {
-    "record_id": "CTB-14-inbound-1",
-    "company": "CTB",
-    "route_id": "14",
-    "route": "14",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Grand Promenade",
-      "tc": "嘉亨灣",
-      "sc": "嘉亨湾"
-    },
-    "destination": {
-      "en": "Stanley Fort (Gate) / Ma Hang",
-      "tc": "赤柱炮台 (閘口)／馬坑",
-      "sc": "赤柱炮台 (闸口)／马坑"
-    },
-    "stop_ids": [
-      "CTB:002400",
-      "CTB:002937",
-      "CTB:002579",
-      "CTB:002385",
-      "CTB:002360",
-      "CTB:002303",
-      "CTB:002304",
-      "CTB:002305",
-      "CTB:002302",
-      "CTB:002275",
-      "CTB:002378",
-      "CTB:002387",
-      "CTB:002175",
-      "CTB:002278",
-      "CTB:002279",
-      "CTB:002282",
-      "CTB:002283",
-      "CTB:002286",
-      "CTB:002287",
-      "CTB:002288",
-      "CTB:002293",
-      "CTB:002289",
-      "CTB:001321",
-      "CTB:001322",
-      "CTB:001232",
-      "CTB:001233",
-      "CTB:001300",
-      "CTB:001301",
-      "CTB:001302",
-      "CTB:001303",
-      "CTB:001313",
-      "CTB:003155"
-    ]
-  },
   "CTB-14-outbound-1": {
     "record_id": "CTB-14-outbound-1",
     "company": "CTB",
@@ -61951,7 +61859,39 @@
       "CTB:002305",
       "CTB:002302",
       "CTB:002275",
-      "CTB:002378"
+      "CTB:002378",
+      "CTB:002400",
+      "CTB:002937",
+      "CTB:002579",
+      "CTB:002385",
+      "CTB:002360",
+      "CTB:002303",
+      "CTB:002304",
+      "CTB:002305",
+      "CTB:002302",
+      "CTB:002275",
+      "CTB:002378",
+      "CTB:002387",
+      "CTB:002175",
+      "CTB:002278",
+      "CTB:002279",
+      "CTB:002282",
+      "CTB:002283",
+      "CTB:002286",
+      "CTB:002287",
+      "CTB:002288",
+      "CTB:002293",
+      "CTB:002289",
+      "CTB:001321",
+      "CTB:001322",
+      "CTB:001232",
+      "CTB:001233",
+      "CTB:001300",
+      "CTB:001301",
+      "CTB:001302",
+      "CTB:001303",
+      "CTB:001313",
+      "CTB:003155"
     ]
   },
   "CTB-15-inbound-1": {
@@ -61962,14 +61902,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central",
-      "tc": "中環",
-      "sc": "中环"
-    },
-    "destination": {
       "en": "The Peak",
       "tc": "山頂",
       "sc": "山顶"
+    },
+    "destination": {
+      "en": "Central",
+      "tc": "中環",
+      "sc": "中环"
     },
     "stop_ids": [
       "CTB:001096",
@@ -62065,14 +62005,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wan Chai (HKCEC Extension)",
-      "tc": "灣仔 (會展新翼)",
-      "sc": "湾仔 (会展新翼)"
-    },
-    "destination": {
       "en": "The Peak",
       "tc": "山頂",
       "sc": "山顶"
+    },
+    "destination": {
+      "en": "Wan Chai (HKCEC Extension)",
+      "tc": "灣仔 (會展新翼)",
+      "sc": "湾仔 (会展新翼)"
     },
     "stop_ids": [
       "CTB:001096",
@@ -62111,14 +62051,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Hong Kong Observation Wheel)",
-      "tc": "中環 (香港摩天輪)",
-      "sc": "中环 (香港摩天轮)"
-    },
-    "destination": {
       "en": "Garden Road",
       "tc": "花園道",
       "sc": "花园道"
+    },
+    "destination": {
+      "en": "Central (Hong Kong Observation Wheel)",
+      "tc": "中環 (香港摩天輪)",
+      "sc": "中环 (香港摩天轮)"
     },
     "stop_ids": [
       "CTB:002761",
@@ -62159,14 +62099,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "North Point (Healthy Street Central)",
-      "tc": "北角 (健康中街)",
-      "sc": "北角 (健康中街)"
-    },
-    "destination": {
       "en": "Kennedy Town (Belcher Bay) / Sheung Wan",
       "tc": "堅尼地城 (卑路乍灣)／上環",
       "sc": "坚尼地城 (卑路乍湾)／上环"
+    },
+    "destination": {
+      "en": "North Point (Healthy Street Central)",
+      "tc": "北角 (健康中街)",
+      "sc": "北角 (健康中街)"
     },
     "stop_ids": [
       "CTB:001177",
@@ -62249,14 +62189,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kennedy Town (Belcher Bay)",
-      "tc": "堅尼地城 (卑路乍灣)",
-      "sc": "坚尼地城 (卑路乍湾)"
-    },
-    "destination": {
       "en": "North Point (Healthy Street Central)",
       "tc": "北角 (健康中街)",
       "sc": "北角 (健康中街)"
+    },
+    "destination": {
+      "en": "Kennedy Town (Belcher Bay)",
+      "tc": "堅尼地城 (卑路乍灣)",
+      "sc": "坚尼地城 (卑路乍湾)"
     },
     "stop_ids": [
       "CTB:002800",
@@ -62329,14 +62269,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shau Kei Wan",
-      "tc": "筲箕灣",
-      "sc": "筲箕湾"
-    },
-    "destination": {
       "en": "Kennedy Town (Belcher Bay)",
       "tc": "堅尼地城 (卑路乍灣)",
       "sc": "坚尼地城 (卑路乍湾)"
+    },
+    "destination": {
+      "en": "Shau Kei Wan",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
     },
     "stop_ids": [
       "CTB:001177",
@@ -62468,44 +62408,6 @@
       "CTB:002972"
     ]
   },
-  "CTB-1M-inbound-1": {
-    "record_id": "CTB-1M-inbound-1",
-    "company": "CTB",
-    "route_id": "1M",
-    "route": "1M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Exhibition Centre Station",
-      "tc": "會展站",
-      "sc": "会展站"
-    },
-    "destination": {
-      "en": "Happy Valley / Wong Nai Chung Gap",
-      "tc": "跑馬地／黃泥涌峽",
-      "sc": "跑马地／黄泥涌峡"
-    },
-    "stop_ids": [
-      "CTB:002543",
-      "CTB:002544",
-      "CTB:002545",
-      "CTB:002546",
-      "CTB:002960",
-      "CTB:002961",
-      "CTB:002402",
-      "CTB:002492",
-      "CTB:002493",
-      "CTB:002453",
-      "CTB:002552",
-      "CTB:002553",
-      "CTB:002467",
-      "CTB:002566",
-      "CTB:002537",
-      "CTB:002445",
-      "CTB:001138",
-      "CTB:003415"
-    ]
-  },
   "CTB-1M-outbound-1": {
     "record_id": "CTB-1M-outbound-1",
     "company": "CTB",
@@ -62543,15 +62445,33 @@
       "CTB:002541",
       "CTB:002542",
       "CTB:002543",
-      "CTB:002544"
+      "CTB:002544",
+      "CTB:002543",
+      "CTB:002544",
+      "CTB:002545",
+      "CTB:002546",
+      "CTB:002960",
+      "CTB:002961",
+      "CTB:002402",
+      "CTB:002492",
+      "CTB:002493",
+      "CTB:002453",
+      "CTB:002552",
+      "CTB:002553",
+      "CTB:002467",
+      "CTB:002566",
+      "CTB:002537",
+      "CTB:002445",
+      "CTB:001138",
+      "CTB:003415"
     ]
   },
-  "CTB-1P-inbound-1": {
-    "record_id": "CTB-1P-inbound-1",
+  "CTB-1P-outbound-1": {
+    "record_id": "CTB-1P-outbound-1",
     "company": "CTB",
     "route_id": "1P",
     "route": "1P",
-    "bound": "inbound",
+    "bound": "outbound",
     "service_type": "1",
     "origin": {
       "en": "Wong Nai Chung Road (Broadwood Road)",
@@ -62589,14 +62509,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Grand Promenade",
-      "tc": "嘉亨灣",
-      "sc": "嘉亨湾"
-    },
-    "destination": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
       "sc": "中环 (港澳码头)"
+    },
+    "destination": {
+      "en": "Grand Promenade",
+      "tc": "嘉亨灣",
+      "sc": "嘉亨湾"
     },
     "stop_ids": [
       "CTB:001027",
@@ -62698,14 +62618,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kai Tak (Muk On Street)",
-      "tc": "啟德 (沐安街)",
-      "sc": "启德 (沐安街)"
-    },
-    "destination": {
       "en": "Cheung Sha Wan (Hoi Tat)",
       "tc": "長沙灣 (海達)",
       "sc": "长沙湾 (海达)"
+    },
+    "destination": {
+      "en": "Kai Tak (Muk On Street)",
+      "tc": "啟德 (沐安街)",
+      "sc": "启德 (沐安街)"
     },
     "stop_ids": [
       "CTB:003794",
@@ -62791,14 +62711,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kai Tak Cruise Terminal (via: Mong Kok)",
-      "tc": "啟德郵輪碼頭 (經:旺角)",
-      "sc": "启德邮轮码头 (经:旺角)"
-    },
-    "destination": {
       "en": "HSR West Kowloon Station (via: Mong Kok)",
       "tc": "高鐵西九龍站 (經:旺角)",
       "sc": "高铁西九龙站 (经:旺角)"
+    },
+    "destination": {
+      "en": "Kai Tak Cruise Terminal (via: Mong Kok)",
+      "tc": "啟德郵輪碼頭 (經:旺角)",
+      "sc": "启德邮轮码头 (经:旺角)"
     },
     "stop_ids": [
       "CTB:003549",
@@ -62906,14 +62826,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kai Tak Cruise Terminal",
-      "tc": "啟德郵輪碼頭",
-      "sc": "启德邮轮码头"
-    },
-    "destination": {
       "en": "Tsim Sha Tsui / High Speed Rail West Kowloon Station",
       "tc": "尖沙咀／高鐵西九龍站",
       "sc": "尖沙咀／高铁西九龙站"
+    },
+    "destination": {
+      "en": "Kai Tak Cruise Terminal",
+      "tc": "啟德郵輪碼頭",
+      "sc": "启德邮轮码头"
     },
     "stop_ids": [
       "CTB:001588",
@@ -62952,14 +62872,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kai Tak Cruise Terminal",
-      "tc": "啟德郵輪碼頭",
-      "sc": "启德邮轮码头"
-    },
-    "destination": {
       "en": "Kowloon Tong (Festival Walk)",
       "tc": "九龍塘 (又一城)",
       "sc": "九龙塘 (又一城)"
+    },
+    "destination": {
+      "en": "Kai Tak Cruise Terminal",
+      "tc": "啟德郵輪碼頭",
+      "sc": "启德邮轮码头"
     },
     "stop_ids": [
       "CTB:003065",
@@ -63033,36 +62953,6 @@
       "CTB:003065"
     ]
   },
-  "CTB-22D-inbound-1": {
-    "record_id": "CTB-22D-inbound-1",
-    "company": "CTB",
-    "route_id": "22D",
-    "route": "22D",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Kai Tak Station",
-      "tc": "啟德站",
-      "sc": "启德站"
-    },
-    "destination": {
-      "en": "Kai Tak Runway Area",
-      "tc": "啟德跑道區",
-      "sc": "启德跑道区"
-    },
-    "stop_ids": [
-      "CTB:003535",
-      "CTB:003907",
-      "CTB:003790",
-      "CTB:003520",
-      "CTB:003890",
-      "CTB:003877",
-      "CTB:003885",
-      "CTB:003708",
-      "CTB:003612",
-      "CTB:003880"
-    ]
-  },
   "CTB-22D-outbound-1": {
     "record_id": "CTB-22D-outbound-1",
     "company": "CTB",
@@ -63089,50 +62979,17 @@
       "CTB:003790",
       "CTB:003520",
       "CTB:003890",
-      "CTB:003877"
-    ]
-  },
-  "CTB-22M-inbound-1": {
-    "record_id": "CTB-22M-inbound-1",
-    "company": "CTB",
-    "route_id": "22M",
-    "route": "22M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Kai Tak Cruise Terminal",
-      "tc": "啟德郵輪碼頭",
-      "sc": "启德邮轮码头"
-    },
-    "destination": {
-      "en": "To Kwa Wan",
-      "tc": "土瓜灣",
-      "sc": "土瓜湾"
-    },
-    "stop_ids": [
-      "CTB:001577",
-      "CTB:002981",
-      "CTB:003030",
-      "CTB:001814",
-      "CTB:001538",
-      "CTB:002986",
-      "CTB:003326",
-      "CTB:003580",
-      "CTB:003708",
-      "CTB:003612",
-      "CTB:003587",
-      "CTB:003706",
-      "CTB:003369",
-      "CTB:001610",
-      "CTB:001611",
-      "CTB:001612",
-      "CTB:001773",
-      "CTB:001657",
-      "CTB:003534",
-      "CTB:003901",
+      "CTB:003877",
       "CTB:003535",
       "CTB:003907",
-      "CTB:003519"
+      "CTB:003790",
+      "CTB:003520",
+      "CTB:003890",
+      "CTB:003877",
+      "CTB:003885",
+      "CTB:003708",
+      "CTB:003612",
+      "CTB:003880"
     ]
   },
   "CTB-22M-outbound-1": {
@@ -63178,7 +63035,30 @@
       "CTB:001538",
       "CTB:002986",
       "CTB:003326",
-      "CTB:003580"
+      "CTB:003580",
+      "CTB:001577",
+      "CTB:002981",
+      "CTB:003030",
+      "CTB:001814",
+      "CTB:001538",
+      "CTB:002986",
+      "CTB:003326",
+      "CTB:003580",
+      "CTB:003708",
+      "CTB:003612",
+      "CTB:003587",
+      "CTB:003706",
+      "CTB:003369",
+      "CTB:001610",
+      "CTB:001611",
+      "CTB:001612",
+      "CTB:001773",
+      "CTB:001657",
+      "CTB:003534",
+      "CTB:003901",
+      "CTB:003535",
+      "CTB:003907",
+      "CTB:003519"
     ]
   },
   "CTB-22R-inbound-1": {
@@ -63189,14 +63069,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kai Tak Station",
-      "tc": "啟德站",
-      "sc": "启德站"
-    },
-    "destination": {
       "en": "Kai Tak Cruise Terminal",
       "tc": "啟德郵輪碼頭",
       "sc": "启德邮轮码头"
+    },
+    "destination": {
+      "en": "Kai Tak Station",
+      "tc": "啟德站",
+      "sc": "启德站"
     },
     "stop_ids": [
       "CTB:003519",
@@ -63225,28 +63105,6 @@
       "CTB:003519"
     ]
   },
-  "CTB-22X-inbound-1": {
-    "record_id": "CTB-22X-inbound-1",
-    "company": "CTB",
-    "route_id": "22X",
-    "route": "22X",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "One Victoria",
-      "tc": "維港1號",
-      "sc": "维港1号"
-    },
-    "destination": {
-      "en": "Kai Tak Station",
-      "tc": "啟德站",
-      "sc": "启德站"
-    },
-    "stop_ids": [
-      "CTB:003587",
-      "CTB:003782"
-    ]
-  },
   "CTB-22X-outbound-1": {
     "record_id": "CTB-22X-outbound-1",
     "company": "CTB",
@@ -63266,7 +63124,9 @@
     },
     "stop_ids": [
       "CTB:003782",
-      "CTB:003587"
+      "CTB:003587",
+      "CTB:003587",
+      "CTB:003782"
     ]
   },
   "CTB-23-inbound-1": {
@@ -63277,14 +63137,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "North Point Ferry Pier",
-      "tc": "北角碼頭",
-      "sc": "北角码头"
-    },
-    "destination": {
       "en": "Pokfield Road",
       "tc": "蒲飛路",
       "sc": "蒲飞路"
+    },
+    "destination": {
+      "en": "North Point Ferry Pier",
+      "tc": "北角碼頭",
+      "sc": "北角码头"
     },
     "stop_ids": [
       "CTB:001115",
@@ -63373,14 +63233,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Braemar Hill",
-      "tc": "寶馬山",
-      "sc": "宝马山"
-    },
-    "destination": {
       "en": "Park Road / Robinson Road",
       "tc": "柏道／羅便臣道",
       "sc": "柏道／罗便臣道"
+    },
+    "destination": {
+      "en": "Braemar Hill",
+      "tc": "寶馬山",
+      "sc": "宝马山"
     },
     "stop_ids": [
       "CTB:001092",
@@ -63508,59 +63368,6 @@
       "CTB:001313"
     ]
   },
-  "CTB-25-inbound-1": {
-    "record_id": "CTB-25-inbound-1",
-    "company": "CTB",
-    "route_id": "25",
-    "route": "25",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Central (Pier 3/5)",
-      "tc": "中環 (3 / 5 號碼頭)",
-      "sc": "中环 (3 / 5 号码头)"
-    },
-    "destination": {
-      "en": "Braemar Hill",
-      "tc": "寶馬山",
-      "sc": "宝马山"
-    },
-    "stop_ids": [
-      "CTB:002794",
-      "CTB:002795",
-      "CTB:001328",
-      "CTB:001329",
-      "CTB:001330",
-      "CTB:001391",
-      "CTB:001331",
-      "CTB:001212",
-      "CTB:001211",
-      "CTB:001250",
-      "CTB:001208",
-      "CTB:001234",
-      "CTB:001235",
-      "CTB:001236",
-      "CTB:001237",
-      "CTB:001238",
-      "CTB:001247",
-      "CTB:001283",
-      "CTB:001286",
-      "CTB:001215",
-      "CTB:002439",
-      "CTB:002440",
-      "CTB:002442",
-      "CTB:002444",
-      "CTB:002446",
-      "CTB:002449",
-      "CTB:001141",
-      "CTB:001142",
-      "CTB:001054",
-      "CTB:001056",
-      "CTB:001107",
-      "CTB:001170",
-      "CTB:001026"
-    ]
-  },
   "CTB-25-outbound-1": {
     "record_id": "CTB-25-outbound-1",
     "company": "CTB",
@@ -63613,28 +63420,9 @@
       "CTB:001236",
       "CTB:001237",
       "CTB:001238",
-      "CTB:001247"
-    ]
-  },
-  "CTB-25A-inbound-1": {
-    "record_id": "CTB-25A-inbound-1",
-    "company": "CTB",
-    "route_id": "25A",
-    "route": "25A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Exhibition Centre Station",
-      "tc": "會展站",
-      "sc": "会展站"
-    },
-    "destination": {
-      "en": "Braemar Hill",
-      "tc": "寶馬山",
-      "sc": "宝马山"
-    },
-    "stop_ids": [
-      "CTB:001238",
+      "CTB:001247",
+      "CTB:002794",
+      "CTB:002795",
       "CTB:001328",
       "CTB:001329",
       "CTB:001330",
@@ -63648,18 +63436,24 @@
       "CTB:001235",
       "CTB:001236",
       "CTB:001237",
-      "CTB:001348",
-      "CTB:001349",
-      "CTB:001290",
-      "CTB:001291",
-      "CTB:002533",
-      "CTB:002534",
-      "CTB:002465",
+      "CTB:001238",
+      "CTB:001247",
+      "CTB:001283",
+      "CTB:001286",
+      "CTB:001215",
       "CTB:002439",
       "CTB:002440",
       "CTB:002442",
       "CTB:002444",
-      "CTB:003415"
+      "CTB:002446",
+      "CTB:002449",
+      "CTB:001141",
+      "CTB:001142",
+      "CTB:001054",
+      "CTB:001056",
+      "CTB:001107",
+      "CTB:001170",
+      "CTB:001026"
     ]
   },
   "CTB-25A-outbound-1": {
@@ -63704,50 +63498,33 @@
       "CTB:001234",
       "CTB:001235",
       "CTB:001236",
-      "CTB:001237"
-    ]
-  },
-  "CTB-26-inbound-1": {
-    "record_id": "CTB-26-inbound-1",
-    "company": "CTB",
-    "route_id": "26",
-    "route": "26",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Lai Tak Tsuen",
-      "tc": "勵德邨",
-      "sc": "励德邨"
-    },
-    "destination": {
-      "en": "Hollywood Road",
-      "tc": "荷李活道",
-      "sc": "荷李活道"
-    },
-    "stop_ids": [
-      "CTB:002759",
-      "CTB:002741",
-      "CTB:002742",
-      "CTB:002743",
-      "CTB:002744",
-      "CTB:002745",
-      "CTB:001075",
-      "CTB:002762",
-      "CTB:002707",
-      "CTB:002739",
-      "CTB:001051",
-      "CTB:001025",
-      "CTB:003845",
-      "CTB:002430",
-      "CTB:002434",
-      "CTB:002435",
-      "CTB:002437",
-      "CTB:002574",
-      "CTB:002535",
-      "CTB:002512",
-      "CTB:002513",
-      "CTB:001289",
-      "CTB:002974"
+      "CTB:001237",
+      "CTB:001238",
+      "CTB:001328",
+      "CTB:001329",
+      "CTB:001330",
+      "CTB:001391",
+      "CTB:001331",
+      "CTB:001212",
+      "CTB:001211",
+      "CTB:001250",
+      "CTB:001208",
+      "CTB:001234",
+      "CTB:001235",
+      "CTB:001236",
+      "CTB:001237",
+      "CTB:001348",
+      "CTB:001349",
+      "CTB:001290",
+      "CTB:001291",
+      "CTB:002533",
+      "CTB:002534",
+      "CTB:002465",
+      "CTB:002439",
+      "CTB:002440",
+      "CTB:002442",
+      "CTB:002444",
+      "CTB:003415"
     ]
   },
   "CTB-26-outbound-1": {
@@ -63794,7 +63571,30 @@
       "CTB:002744",
       "CTB:002745",
       "CTB:001075",
-      "CTB:002762"
+      "CTB:002762",
+      "CTB:002759",
+      "CTB:002741",
+      "CTB:002742",
+      "CTB:002743",
+      "CTB:002744",
+      "CTB:002745",
+      "CTB:001075",
+      "CTB:002762",
+      "CTB:002707",
+      "CTB:002739",
+      "CTB:001051",
+      "CTB:001025",
+      "CTB:003845",
+      "CTB:002430",
+      "CTB:002434",
+      "CTB:002435",
+      "CTB:002437",
+      "CTB:002574",
+      "CTB:002535",
+      "CTB:002512",
+      "CTB:002513",
+      "CTB:001289",
+      "CTB:002974"
     ]
   },
   "CTB-260-inbound-1": {
@@ -63805,14 +63605,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "destination": {
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環 (交易廣場)",
+      "sc": "中环 (交易广场)"
     },
     "stop_ids": [
       "CTB:002305",
@@ -63888,46 +63688,6 @@
       "CTB:002277"
     ]
   },
-  "CTB-27-inbound-1": {
-    "record_id": "CTB-27-inbound-1",
-    "company": "CTB",
-    "route_id": "27",
-    "route": "27",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "North Point Ferry Pier",
-      "tc": "北角碼頭",
-      "sc": "北角码头"
-    },
-    "destination": {
-      "en": "Braemar Hill",
-      "tc": "寶馬山",
-      "sc": "宝马山"
-    },
-    "stop_ids": [
-      "CTB:001368",
-      "CTB:001239",
-      "CTB:001240",
-      "CTB:001241",
-      "CTB:001242",
-      "CTB:001211",
-      "CTB:001250",
-      "CTB:001208",
-      "CTB:001209",
-      "CTB:001210",
-      "CTB:001324",
-      "CTB:001388",
-      "CTB:001325",
-      "CTB:001326",
-      "CTB:001327",
-      "CTB:001247",
-      "CTB:001261",
-      "CTB:001262",
-      "CTB:001310",
-      "CTB:001249"
-    ]
-  },
   "CTB-27-outbound-1": {
     "record_id": "CTB-27-outbound-1",
     "company": "CTB",
@@ -63966,7 +63726,27 @@
       "CTB:001388",
       "CTB:001325",
       "CTB:001326",
-      "CTB:001327"
+      "CTB:001327",
+      "CTB:001368",
+      "CTB:001239",
+      "CTB:001240",
+      "CTB:001241",
+      "CTB:001242",
+      "CTB:001211",
+      "CTB:001250",
+      "CTB:001208",
+      "CTB:001209",
+      "CTB:001210",
+      "CTB:001324",
+      "CTB:001388",
+      "CTB:001325",
+      "CTB:001326",
+      "CTB:001327",
+      "CTB:001247",
+      "CTB:001261",
+      "CTB:001262",
+      "CTB:001310",
+      "CTB:001249"
     ]
   },
   "CTB-2A-inbound-1": {
@@ -63977,14 +63757,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yiu Tung Estate",
-      "tc": "耀東邨",
-      "sc": "耀东邨"
-    },
-    "destination": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
       "sc": "会展站"
+    },
+    "destination": {
+      "en": "Yiu Tung Estate",
+      "tc": "耀東邨",
+      "sc": "耀东邨"
     },
     "stop_ids": [
       "CTB:003415",
@@ -64064,14 +63844,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Grand Promenade",
-      "tc": "嘉亨灣",
-      "sc": "嘉亨湾"
-    },
-    "destination": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
       "sc": "会展站"
+    },
+    "destination": {
+      "en": "Grand Promenade",
+      "tc": "嘉亨灣",
+      "sc": "嘉亨湾"
     },
     "stop_ids": [
       "CTB:003415",
@@ -64135,14 +63915,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Cyberport",
-      "tc": "數碼港",
-      "sc": "数码港"
-    },
-    "destination": {
       "en": "Admiralty (East)",
       "tc": "金鐘(東)",
       "sc": "金钟(东)"
+    },
+    "destination": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
     },
     "stop_ids": [
       "CTB:001032",
@@ -64205,14 +63985,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Stanley (Beach / Market)",
       "tc": "赤柱 (海灘／市場)",
       "sc": "赤柱 (海滩／市场)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:002265",
@@ -64300,14 +64080,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Cyberport",
-      "tc": "數碼港",
-      "sc": "数码港"
-    },
-    "destination": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
       "sc": "筲箕湾"
+    },
+    "destination": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
     },
     "stop_ids": [
       "CTB:001207",
@@ -64586,14 +64366,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Chi Fu Fa Yuen",
-      "tc": "置富花園",
-      "sc": "置富花园"
-    },
-    "destination": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
       "sc": "北角码头"
+    },
+    "destination": {
+      "en": "Chi Fu Fa Yuen",
+      "tc": "置富花園",
+      "sc": "置富花园"
     },
     "stop_ids": [
       "CTB:001249",
@@ -64679,14 +64459,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Chai Wan (East)",
-      "tc": "柴灣 (東)",
-      "sc": "柴湾 (东)"
-    },
-    "destination": {
       "en": "Nai Chung",
       "tc": "泥涌",
       "sc": "泥涌"
+    },
+    "destination": {
+      "en": "Chai Wan (East)",
+      "tc": "柴灣 (東)",
+      "sc": "柴湾 (东)"
     },
     "stop_ids": [
       "CTB:003456",
@@ -64832,14 +64612,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Chi Fu Fa Yuen",
-      "tc": "置富花園",
-      "sc": "置富花园"
-    },
-    "destination": {
       "en": "Causeway Bay (Central Library)",
       "tc": "銅鑼灣 (中央圖書館)",
       "sc": "铜锣湾 (中央图书馆)"
+    },
+    "destination": {
+      "en": "Chi Fu Fa Yuen",
+      "tc": "置富花園",
+      "sc": "置富花园"
     },
     "stop_ids": [
       "CTB:001215",
@@ -64873,14 +64653,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Star Ferry)",
-      "tc": "中環 (天星碼頭)",
-      "sc": "中环 (天星码头)"
-    },
-    "destination": {
       "en": "Felix Villas",
       "tc": "摩星嶺",
       "sc": "摩星岭"
+    },
+    "destination": {
+      "en": "Central (Star Ferry)",
+      "tc": "中環 (天星碼頭)",
+      "sc": "中环 (天星码头)"
     },
     "stop_ids": [
       "CTB:002691",
@@ -64946,63 +64726,6 @@
       "CTB:002690"
     ]
   },
-  "CTB-4-inbound-1": {
-    "record_id": "CTB-4-inbound-1",
-    "company": "CTB",
-    "route_id": "4",
-    "route": "4",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Wong Chuk Hang / Wah Fu (South)",
-      "tc": "黃竹坑／華富 (南)",
-      "sc": "黄竹坑／华富 (南)"
-    },
-    "destination": {
-      "en": "Central",
-      "tc": "中環",
-      "sc": "中环"
-    },
-    "stop_ids": [
-      "CTB:001032",
-      "CTB:001034",
-      "CTB:001028",
-      "CTB:001108",
-      "CTB:001035",
-      "CTB:001124",
-      "CTB:001126",
-      "CTB:001127",
-      "CTB:001134",
-      "CTB:001134",
-      "CTB:001135",
-      "CTB:001130",
-      "CTB:001131",
-      "CTB:001119",
-      "CTB:001116",
-      "CTB:001117",
-      "CTB:001120",
-      "CTB:001118",
-      "CTB:002234",
-      "CTB:002236",
-      "CTB:002237",
-      "CTB:002238",
-      "CTB:002239",
-      "CTB:002240",
-      "CTB:002233",
-      "CTB:002333",
-      "CTB:002334",
-      "CTB:002341",
-      "CTB:002342",
-      "CTB:003287",
-      "CTB:002157",
-      "CTB:002158",
-      "CTB:002159",
-      "CTB:002344",
-      "CTB:002224",
-      "CTB:002223",
-      "CTB:002341"
-    ]
-  },
   "CTB-4-outbound-1": {
     "record_id": "CTB-4-outbound-1",
     "company": "CTB",
@@ -65060,7 +64783,44 @@
       "CTB:001144",
       "CTB:001032",
       "CTB:001108",
-      "CTB:001035"
+      "CTB:001035",
+      "CTB:001032",
+      "CTB:001034",
+      "CTB:001028",
+      "CTB:001108",
+      "CTB:001035",
+      "CTB:001124",
+      "CTB:001126",
+      "CTB:001127",
+      "CTB:001134",
+      "CTB:001134",
+      "CTB:001135",
+      "CTB:001130",
+      "CTB:001131",
+      "CTB:001119",
+      "CTB:001116",
+      "CTB:001117",
+      "CTB:001120",
+      "CTB:001118",
+      "CTB:002234",
+      "CTB:002236",
+      "CTB:002237",
+      "CTB:002238",
+      "CTB:002239",
+      "CTB:002240",
+      "CTB:002233",
+      "CTB:002333",
+      "CTB:002334",
+      "CTB:002341",
+      "CTB:002342",
+      "CTB:003287",
+      "CTB:002157",
+      "CTB:002158",
+      "CTB:002159",
+      "CTB:002344",
+      "CTB:002224",
+      "CTB:002223",
+      "CTB:002341"
     ]
   },
   "CTB-40-inbound-1": {
@@ -65071,14 +64831,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wah Fu (North)",
-      "tc": "華富 (北)",
-      "sc": "华富 (北)"
-    },
-    "destination": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
       "sc": "会展站"
+    },
+    "destination": {
+      "en": "Wah Fu (North)",
+      "tc": "華富 (北)",
+      "sc": "华富 (北)"
     },
     "stop_ids": [
       "CTB:003415",
@@ -65295,14 +65055,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wah Fu (Central)",
-      "tc": "華富 (中)",
-      "sc": "华富 (中)"
-    },
-    "destination": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
       "sc": "北角码头"
+    },
+    "destination": {
+      "en": "Wah Fu (Central)",
+      "tc": "華富 (中)",
+      "sc": "华富 (中)"
     },
     "stop_ids": [
       "CTB:001249",
@@ -65430,14 +65190,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wah Fu (South)",
-      "tc": "華富 (南)",
-      "sc": "华富 (南)"
-    },
-    "destination": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
       "sc": "北角码头"
+    },
+    "destination": {
+      "en": "Wah Fu (South)",
+      "tc": "華富 (南)",
+      "sc": "华富 (南)"
     },
     "stop_ids": [
       "CTB:001249",
@@ -65512,14 +65272,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Cyberport",
-      "tc": "數碼港",
-      "sc": "数码港"
-    },
-    "destination": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
       "sc": "北角码头"
+    },
+    "destination": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
     },
     "stop_ids": [
       "CTB:001249",
@@ -65644,44 +65404,6 @@
       "CTB:002371"
     ]
   },
-  "CTB-48-inbound-1": {
-    "record_id": "CTB-48-inbound-1",
-    "company": "CTB",
-    "route_id": "48",
-    "route": "48",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Sham Wan / Ocean Park",
-      "tc": "深灣／海洋公園",
-      "sc": "深湾／海洋公园"
-    },
-    "destination": {
-      "en": "Wah Fu (North)",
-      "tc": "華富 (北)",
-      "sc": "华富 (北)"
-    },
-    "stop_ids": [
-      "CTB:002261",
-      "CTB:002328",
-      "CTB:002338",
-      "CTB:002339",
-      "CTB:002340",
-      "CTB:002341",
-      "CTB:002342",
-      "CTB:003287",
-      "CTB:002157",
-      "CTB:002158",
-      "CTB:002159",
-      "CTB:002344",
-      "CTB:003451",
-      "CTB:002224",
-      "CTB:002222",
-      "CTB:002389",
-      "CTB:002225",
-      "CTB:002389"
-    ]
-  },
   "CTB-48-outbound-1": {
     "record_id": "CTB-48-outbound-1",
     "company": "CTB",
@@ -65719,7 +65441,25 @@
       "CTB:002339",
       "CTB:002340",
       "CTB:002341",
-      "CTB:002342"
+      "CTB:002342",
+      "CTB:002261",
+      "CTB:002328",
+      "CTB:002338",
+      "CTB:002339",
+      "CTB:002340",
+      "CTB:002341",
+      "CTB:002342",
+      "CTB:003287",
+      "CTB:002157",
+      "CTB:002158",
+      "CTB:002159",
+      "CTB:002344",
+      "CTB:003451",
+      "CTB:002224",
+      "CTB:002222",
+      "CTB:002389",
+      "CTB:002225",
+      "CTB:002389"
     ]
   },
   "CTB-49X-outbound-1": {
@@ -65773,61 +65513,6 @@
       "CTB:002392"
     ]
   },
-  "CTB-4X-inbound-1": {
-    "record_id": "CTB-4X-inbound-1",
-    "company": "CTB",
-    "route_id": "4X",
-    "route": "4X",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Wah Fu (South)",
-      "tc": "華富 (南)",
-      "sc": "华富 (南)"
-    },
-    "destination": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "stop_ids": [
-      "CTB:002678",
-      "CTB:001028",
-      "CTB:001107",
-      "CTB:001170",
-      "CTB:001026",
-      "CTB:001144",
-      "CTB:001032",
-      "CTB:001034",
-      "CTB:001191",
-      "CTB:001035",
-      "CTB:001124",
-      "CTB:001126",
-      "CTB:001127",
-      "CTB:001134",
-      "CTB:001135",
-      "CTB:001130",
-      "CTB:001131",
-      "CTB:001119",
-      "CTB:001116",
-      "CTB:001117",
-      "CTB:001120",
-      "CTB:001118",
-      "CTB:002234",
-      "CTB:002236",
-      "CTB:002237",
-      "CTB:002238",
-      "CTB:002239",
-      "CTB:002240",
-      "CTB:002233",
-      "CTB:002333",
-      "CTB:002334",
-      "CTB:002335",
-      "CTB:002336",
-      "CTB:002339",
-      "CTB:002341"
-    ]
-  },
   "CTB-4X-outbound-1": {
     "record_id": "CTB-4X-outbound-1",
     "company": "CTB",
@@ -65867,7 +65552,42 @@
       "CTB:001026",
       "CTB:001144",
       "CTB:001032",
-      "CTB:001034"
+      "CTB:001034",
+      "CTB:002678",
+      "CTB:001028",
+      "CTB:001107",
+      "CTB:001170",
+      "CTB:001026",
+      "CTB:001144",
+      "CTB:001032",
+      "CTB:001034",
+      "CTB:001191",
+      "CTB:001035",
+      "CTB:001124",
+      "CTB:001126",
+      "CTB:001127",
+      "CTB:001134",
+      "CTB:001135",
+      "CTB:001130",
+      "CTB:001131",
+      "CTB:001119",
+      "CTB:001116",
+      "CTB:001117",
+      "CTB:001120",
+      "CTB:001118",
+      "CTB:002234",
+      "CTB:002236",
+      "CTB:002237",
+      "CTB:002238",
+      "CTB:002239",
+      "CTB:002240",
+      "CTB:002233",
+      "CTB:002333",
+      "CTB:002334",
+      "CTB:002335",
+      "CTB:002336",
+      "CTB:002339",
+      "CTB:002341"
     ]
   },
   "CTB-50-inbound-1": {
@@ -65878,14 +65598,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Ching Tin and Wo Tin)",
-      "tc": "屯門 (菁田及和田)",
-      "sc": "屯门 (菁田及和田)"
-    },
-    "destination": {
       "en": "Tsim Sha Tsui (Kowloon Station)",
       "tc": "尖沙咀 (九龍站)",
       "sc": "尖沙咀 (九龙站)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Ching Tin and Wo Tin)",
+      "tc": "屯門 (菁田及和田)",
+      "sc": "屯门 (菁田及和田)"
     },
     "stop_ids": [
       "CTB:003288",
@@ -65961,39 +65681,6 @@
       "CTB:003288"
     ]
   },
-  "CTB-50M-inbound-1": {
-    "record_id": "CTB-50M-inbound-1",
-    "company": "CTB",
-    "route_id": "50M",
-    "route": "50M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Wo Tin Estate",
-      "tc": "和田邨",
-      "sc": "和田邨"
-    },
-    "destination": {
-      "en": "Tuen Mun Station",
-      "tc": "屯門站",
-      "sc": "屯门站"
-    },
-    "stop_ids": [
-      "CTB:003361",
-      "CTB:003200",
-      "CTB:003757",
-      "CTB:003758",
-      "CTB:003257",
-      "CTB:003258",
-      "CTB:003759",
-      "CTB:003267",
-      "CTB:003205",
-      "CTB:003206",
-      "CTB:003760",
-      "CTB:003767",
-      "CTB:003752"
-    ]
-  },
   "CTB-50M-outbound-1": {
     "record_id": "CTB-50M-outbound-1",
     "company": "CTB",
@@ -66025,7 +65712,20 @@
       "CTB:003756",
       "CTB:003216",
       "CTB:003217",
-      "CTB:003361"
+      "CTB:003361",
+      "CTB:003361",
+      "CTB:003200",
+      "CTB:003757",
+      "CTB:003758",
+      "CTB:003257",
+      "CTB:003258",
+      "CTB:003759",
+      "CTB:003267",
+      "CTB:003205",
+      "CTB:003206",
+      "CTB:003760",
+      "CTB:003767",
+      "CTB:003752"
     ]
   },
   "CTB-50R-outbound-1": {
@@ -66111,14 +65811,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Ching Tin and Wo Tin)",
-      "tc": "屯門 (菁田及和田)",
-      "sc": "屯门 (菁田及和田)"
-    },
-    "destination": {
       "en": "Kwun Tong Ferry Pier",
       "tc": "觀塘碼頭",
       "sc": "观塘码头"
+    },
+    "destination": {
+      "en": "Tuen Mun (Ching Tin and Wo Tin)",
+      "tc": "屯門 (菁田及和田)",
+      "sc": "屯门 (菁田及和田)"
     },
     "stop_ids": [
       "CTB:003590",
@@ -66215,14 +65915,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Wo Tin and Ching Tin)",
-      "tc": "屯門 (和田及菁田)",
-      "sc": "屯门 (和田及菁田)"
-    },
-    "destination": {
       "en": "Sheung Shui (Tin Ping Estate)",
       "tc": "上水 (天平邨)",
       "sc": "上水 (天平邨)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Wo Tin and Ching Tin)",
+      "tc": "屯門 (和田及菁田)",
+      "sc": "屯门 (和田及菁田)"
     },
     "stop_ids": [
       "CTB:003766",
@@ -66279,14 +65979,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Wo Tin and Ching Tin)",
-      "tc": "屯門 (和田及菁田)",
-      "sc": "屯门 (和田及菁田)"
-    },
-    "destination": {
       "en": "Queen’s Hill Fanling (via: Sheung Shui Station)",
       "tc": "粉嶺皇后山 (經:上水站)",
       "sc": "粉岭皇后山 (经:上水站)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Wo Tin and Ching Tin)",
+      "tc": "屯門 (和田及菁田)",
+      "sc": "屯门 (和田及菁田)"
     },
     "stop_ids": [
       "CTB:003660",
@@ -66356,14 +66056,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sai Sha Residences",
-      "tc": "西沙灣",
-      "sc": "西沙湾"
-    },
-    "destination": {
       "en": "Sha Tin Central",
       "tc": "沙田市中心",
       "sc": "沙田市中心"
+    },
+    "destination": {
+      "en": "Sai Sha Residences",
+      "tc": "西沙灣",
+      "sc": "西沙湾"
     },
     "stop_ids": [
       "CTB:002046",
@@ -66415,14 +66115,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sai Sha Residences",
-      "tc": "西沙灣",
-      "sc": "西沙湾"
-    },
-    "destination": {
       "en": "Ma On Shan Town Centre (Via Wu Kai Sha Station)",
       "tc": "馬鞍山市中心 (經烏溪沙站)",
       "sc": "马鞍山市中心 (经乌溪沙站)"
+    },
+    "destination": {
+      "en": "Sai Sha Residences",
+      "tc": "西沙灣",
+      "sc": "西沙湾"
     },
     "stop_ids": [
       "CTB:001950",
@@ -66480,14 +66180,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Pak Shek Kok (Via University Station)",
-      "tc": "白石角 (經大學站)",
-      "sc": "白石角 (经大学站)"
-    },
-    "destination": {
       "en": "GO PARK Sai Sha / Sai Sha Residences",
       "tc": "西沙GO PARK / 西沙灣",
       "sc": "西沙GO PARK / 西沙湾"
+    },
+    "destination": {
+      "en": "Pak Shek Kok (Via University Station)",
+      "tc": "白石角 (經大學站)",
+      "sc": "白石角 (经大学站)"
     },
     "stop_ids": [
       "CTB:003831",
@@ -66551,14 +66251,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sai Sha Residences (via: Tai Wai)",
-      "tc": "西沙灣  (經:大圍)",
-      "sc": "西沙湾  (经:大围)"
-    },
-    "destination": {
       "en": "Tsuen Wan Station (via: Cheung Sha Wan)",
       "tc": "荃灣站 (經:長沙灣)",
       "sc": "荃湾站 (经:长沙湾)"
+    },
+    "destination": {
+      "en": "Sai Sha Residences (via: Tai Wai)",
+      "tc": "西沙灣  (經:大圍)",
+      "sc": "西沙湾  (经:大围)"
     },
     "stop_ids": [
       "CTB:002629",
@@ -66627,14 +66327,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sai Sha Residences (via: Tai Wai)",
-      "tc": "西沙灣(經:大圍)",
-      "sc": "西沙湾(经:大围)"
-    },
-    "destination": {
       "en": "Tsim Sha Tsui (Mody Road)",
       "tc": "尖沙咀(麼地道)",
       "sc": "尖沙咀(么地道)"
+    },
+    "destination": {
+      "en": "Sai Sha Residences (via: Tai Wai)",
+      "tc": "西沙灣(經:大圍)",
+      "sc": "西沙湾(经:大围)"
     },
     "stop_ids": [
       "CTB:001540",
@@ -66697,14 +66397,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sai Sha Residences",
-      "tc": "西沙灣",
-      "sc": "西沙湾"
-    },
-    "destination": {
       "en": "Kowloon Bay (via Kwun Tong)",
       "tc": "九龍灣 (經 觀塘)",
       "sc": "九龙湾 (经 观塘)"
+    },
+    "destination": {
+      "en": "Sai Sha Residences",
+      "tc": "西沙灣",
+      "sc": "西沙湾"
     },
     "stop_ids": [
       "CTB:003908",
@@ -66759,14 +66459,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "South Horizons",
-      "tc": "海怡半島",
-      "sc": "海怡半岛"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
     },
     "stop_ids": [
       "CTB:002536",
@@ -66829,14 +66529,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "South Horizons",
-      "tc": "海怡半島",
-      "sc": "海怡半岛"
-    },
-    "destination": {
       "en": "Shek Pai Wan (via Aberdeen)",
       "tc": "石排灣 (經香港仔)",
       "sc": "石排湾 (经香港仔)"
+    },
+    "destination": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
     },
     "stop_ids": [
       "CTB:002164",
@@ -66902,14 +66602,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Felix Villas / Kennedy Town",
-      "tc": "摩星嶺／堅尼地城",
-      "sc": "摩星岭／坚尼地城"
-    },
-    "destination": {
       "en": "Causeway Bay / Hong Kong Stadium",
       "tc": "銅鑼灣／香港大球場",
       "sc": "铜锣湾／香港大球场"
+    },
+    "destination": {
+      "en": "Felix Villas / Kennedy Town",
+      "tc": "摩星嶺／堅尼地城",
+      "sc": "摩星岭／坚尼地城"
     },
     "stop_ids": [
       "CTB:001333",
@@ -67008,14 +66708,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kennedy Town",
-      "tc": "堅尼地城",
-      "sc": "坚尼地城"
-    },
-    "destination": {
       "en": "Causeway Bay (Whitfield Road)",
       "tc": "銅鑼灣 (威非路道)",
       "sc": "铜锣湾 (威非路道)"
+    },
+    "destination": {
+      "en": "Kennedy Town",
+      "tc": "堅尼地城",
+      "sc": "坚尼地城"
     },
     "stop_ids": [
       "CTB:001342",
@@ -67093,14 +66793,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "destination": {
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環 (交易廣場)",
+      "sc": "中环 (交易广场)"
     },
     "stop_ids": [
       "CTB:002305",
@@ -67226,14 +66926,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ma Tau Wai Estate",
-      "tc": "馬頭圍邨",
-      "sc": "马头围邨"
-    },
-    "destination": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
       "sc": "筲箕湾"
+    },
+    "destination": {
+      "en": "Ma Tau Wai Estate",
+      "tc": "馬頭圍邨",
+      "sc": "马头围邨"
     },
     "stop_ids": [
       "CTB:001207",
@@ -67325,14 +67025,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Kai Tak",
       "tc": "啟德",
       "sc": "启德"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:003835",
@@ -67408,14 +67108,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "City One Shatin",
-      "tc": "沙田第一城",
-      "sc": "沙田第一城"
-    },
-    "destination": {
       "en": "Lam Tin Station",
       "tc": "藍田站",
       "sc": "蓝田站"
+    },
+    "destination": {
+      "en": "City One Shatin",
+      "tc": "沙田第一城",
+      "sc": "沙田第一城"
     },
     "stop_ids": [
       "CTB:001520",
@@ -67459,14 +67159,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Star Ferry)",
-      "tc": "中環 (天星碼頭)",
-      "sc": "中环 (天星码头)"
-    },
-    "destination": {
       "en": "Ocean Park (Main Entrance / Water World)",
       "tc": "海洋公園 (正門／水上樂園)",
       "sc": "海洋公园 (正门／水上乐园)"
+    },
+    "destination": {
+      "en": "Central (Star Ferry)",
+      "tc": "中環 (天星碼頭)",
+      "sc": "中环 (天星码头)"
     },
     "stop_ids": [
       "CTB:002654",
@@ -67535,14 +67235,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "North Point Ferry Pier",
-      "tc": "北角碼頭",
-      "sc": "北角码头"
-    },
-    "destination": {
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
+    },
+    "destination": {
+      "en": "North Point Ferry Pier",
+      "tc": "北角碼頭",
+      "sc": "北角码头"
     },
     "stop_ids": [
       "CTB:002305",
@@ -67670,14 +67370,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "North Point Ferry Pier",
-      "tc": "北角碼頭",
-      "sc": "北角码头"
-    },
-    "destination": {
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
+    },
+    "destination": {
+      "en": "North Point Ferry Pier",
+      "tc": "北角碼頭",
+      "sc": "北角码头"
     },
     "stop_ids": [
       "CTB:002277",
@@ -67778,14 +67478,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "destination": {
       "en": "Stanley Plaza (Ma Hang)",
       "tc": "赤柱廣場 (馬坑)",
       "sc": "赤柱广场 (马坑)"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環 (交易廣場)",
+      "sc": "中环 (交易广场)"
     },
     "stop_ids": [
       "CTB:002378",
@@ -67936,14 +67636,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Chai Wan (East)",
-      "tc": "柴灣 (東)",
-      "sc": "柴湾 (东)"
-    },
-    "destination": {
       "en": "Ma On Shan (Wu Kai Sha Station)",
       "tc": "馬鞍山 (烏溪沙站)",
       "sc": "马鞍山 (乌溪沙站)"
+    },
+    "destination": {
+      "en": "Chai Wan (East)",
+      "tc": "柴灣 (東)",
+      "sc": "柴湾 (东)"
     },
     "stop_ids": [
       "CTB:003345",
@@ -68068,14 +67768,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ma On Shan Town Centre",
-      "tc": "馬鞍山市中心",
-      "sc": "马鞍山市中心"
-    },
-    "destination": {
       "en": "Chai Wan (East)",
       "tc": "柴灣 (東)",
       "sc": "柴湾 (东)"
+    },
+    "destination": {
+      "en": "Ma On Shan Town Centre",
+      "tc": "馬鞍山市中心",
+      "sc": "马鞍山市中心"
     },
     "stop_ids": [
       "CTB:002591",
@@ -68182,14 +67882,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shui Chuen O Estate",
-      "tc": "水泉澳邨",
-      "sc": "水泉澳邨"
-    },
-    "destination": {
       "en": "Chai Wan (East)",
       "tc": "柴灣 (東)",
       "sc": "柴湾 (东)"
+    },
+    "destination": {
+      "en": "Shui Chuen O Estate",
+      "tc": "水泉澳邨",
+      "sc": "水泉澳邨"
     },
     "stop_ids": [
       "CTB:002591",
@@ -68350,14 +68050,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "destination": {
       "en": "Hang Hau (via: LOHAS Park)",
       "tc": "坑口 (經:日出康城)",
       "sc": "坑口 (经:日出康城)"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環 (交易廣場)",
+      "sc": "中环 (交易广场)"
     },
     "stop_ids": [
       "CTB:002910",
@@ -68427,14 +68127,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan Estate",
-      "tc": "小西灣邨",
-      "sc": "小西湾邨"
-    },
-    "destination": {
       "en": "Tiu Keng Leng Station",
       "tc": "調景嶺站",
       "sc": "调景岭站"
+    },
+    "destination": {
+      "en": "Siu Sai Wan Estate",
+      "tc": "小西灣邨",
+      "sc": "小西湾邨"
     },
     "stop_ids": [
       "CTB:002917",
@@ -68537,14 +68237,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan Estate",
-      "tc": "小西灣邨",
-      "sc": "小西湾邨"
-    },
-    "destination": {
       "en": "Tiu Keng Leng Station (via: LOHAS Park)",
       "tc": "調景嶺站 (經:日出康城)",
       "sc": "调景岭站 (经:日出康城)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan Estate",
+      "tc": "小西灣邨",
+      "sc": "小西湾邨"
     },
     "stop_ids": [
       "CTB:002917",
@@ -68694,14 +68394,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "destination": {
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
+    },
+    "destination": {
+      "en": "Central (Exchange Square)",
+      "tc": "中環 (交易廣場)",
+      "sc": "中环 (交易广场)"
     },
     "stop_ids": [
       "CTB:002400",
@@ -68807,14 +68507,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shek Pai Wan",
-      "tc": "石排灣",
-      "sc": "石排湾"
-    },
-    "destination": {
       "en": "Central (Ferry Piers)",
       "tc": "中環碼頭",
       "sc": "中环码头"
+    },
+    "destination": {
+      "en": "Shek Pai Wan",
+      "tc": "石排灣",
+      "sc": "石排湾"
     },
     "stop_ids": [
       "CTB:001196",
@@ -68919,14 +68619,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wah Kwai (via: Aberdeen)",
-      "tc": "華貴 (經:香港仔)",
-      "sc": "华贵 (经:香港仔)"
-    },
-    "destination": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
       "sc": "中环 (交易广场)"
+    },
+    "destination": {
+      "en": "Wah Kwai (via: Aberdeen)",
+      "tc": "華貴 (經:香港仔)",
+      "sc": "华贵 (经:香港仔)"
     },
     "stop_ids": [
       "CTB:001032",
@@ -68989,14 +68689,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hoi Lai Estate / Nam Cheong Station",
-      "tc": "海麗邨／南昌站",
-      "sc": "海丽邨／南昌站"
-    },
-    "destination": {
       "en": "Mong Kok",
       "tc": "旺角",
       "sc": "旺角"
+    },
+    "destination": {
+      "en": "Hoi Lai Estate / Nam Cheong Station",
+      "tc": "海麗邨／南昌站",
+      "sc": "海丽邨／南昌站"
     },
     "stop_ids": [
       "CTB:003133",
@@ -69051,14 +68751,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hoi Ying Estate",
-      "tc": "海盈邨",
-      "sc": "海盈邨"
-    },
-    "destination": {
       "en": "Mong Kok",
       "tc": "旺角",
       "sc": "旺角"
+    },
+    "destination": {
+      "en": "Hoi Ying Estate",
+      "tc": "海盈邨",
+      "sc": "海盈邨"
     },
     "stop_ids": [
       "CTB:003133",
@@ -69109,14 +68809,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hoi Lai Estate / Nam Cheong Station",
-      "tc": "海麗邨／南昌站",
-      "sc": "海丽邨／南昌站"
-    },
-    "destination": {
       "en": "Mong Kok",
       "tc": "旺角",
       "sc": "旺角"
+    },
+    "destination": {
+      "en": "Hoi Lai Estate / Nam Cheong Station",
+      "tc": "海麗邨／南昌站",
+      "sc": "海丽邨／南昌站"
     },
     "stop_ids": [
       "CTB:003133",
@@ -69171,14 +68871,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hoi Lai Estate / Nam Cheong Station",
-      "tc": "海麗邨／南昌站",
-      "sc": "海丽邨／南昌站"
-    },
-    "destination": {
       "en": "Kowloon Tong (Festival Walk)",
       "tc": "九龍塘 (又一城)",
       "sc": "九龙塘 (又一城)"
+    },
+    "destination": {
+      "en": "Hoi Lai Estate / Nam Cheong Station",
+      "tc": "海麗邨／南昌站",
+      "sc": "海丽邨／南昌站"
     },
     "stop_ids": [
       "CTB:003065",
@@ -69243,14 +68943,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hoi Ying Estate",
-      "tc": "海盈邨",
-      "sc": "海盈邨"
-    },
-    "destination": {
       "en": "Pak Tin Estate",
       "tc": "白田邨",
       "sc": "白田邨"
+    },
+    "destination": {
+      "en": "Hoi Ying Estate",
+      "tc": "海盈邨",
+      "sc": "海盈邨"
     },
     "stop_ids": [
       "CTB:003428",
@@ -69317,14 +69017,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Pak Tin (North)",
-      "tc": "白田 (北)",
-      "sc": "白田 (北)"
-    },
-    "destination": {
       "en": "Hoi Ying Estate",
       "tc": "海盈邨",
       "sc": "海盈邨"
+    },
+    "destination": {
+      "en": "Pak Tin (North)",
+      "tc": "白田 (北)",
+      "sc": "白田 (北)"
     },
     "stop_ids": [
       "CTB:003222",
@@ -69392,14 +69092,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "So Uk Estate",
-      "tc": "蘇屋邨",
-      "sc": "苏屋邨"
-    },
-    "destination": {
       "en": "Banyan Garden / Fu Cheong Estate",
       "tc": "泓景臺／富昌邨",
       "sc": "泓景台／富昌邨"
+    },
+    "destination": {
+      "en": "So Uk Estate",
+      "tc": "蘇屋邨",
+      "sc": "苏屋邨"
     },
     "stop_ids": [
       "CTB:003544",
@@ -69453,14 +69153,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shek Pai Wan (via: Aberdeen)",
-      "tc": "石排灣 (經:香港仔)",
-      "sc": "石排湾 (经:香港仔)"
-    },
-    "destination": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
       "sc": "中环 (交易广场)"
+    },
+    "destination": {
+      "en": "Shek Pai Wan (via: Aberdeen)",
+      "tc": "石排灣 (經:香港仔)",
+      "sc": "石排湾 (经:香港仔)"
     },
     "stop_ids": [
       "CTB:001032",
@@ -69521,14 +69221,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wong Chuk Hang",
-      "tc": "黃竹坑",
-      "sc": "黄竹坑"
-    },
-    "destination": {
       "en": "Central (Rumsey Street)",
       "tc": "中環 (林士街)",
       "sc": "中环 (林士街)"
+    },
+    "destination": {
+      "en": "Wong Chuk Hang",
+      "tc": "黃竹坑",
+      "sc": "黄竹坑"
     },
     "stop_ids": [
       "CTB:001108",
@@ -69673,14 +69373,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wah Kwai Estate",
-      "tc": "華貴邨",
-      "sc": "华贵邨"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Wah Kwai Estate",
+      "tc": "華貴邨",
+      "sc": "华贵邨"
     },
     "stop_ids": [
       "CTB:002536",
@@ -69740,14 +69440,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Grand Promenade",
-      "tc": "嘉亨灣",
-      "sc": "嘉亨湾"
-    },
-    "destination": {
       "en": "Central (Macao Ferry / Wing Wo Street)",
       "tc": "中環 (港澳碼頭 / 永和街)",
       "sc": "中环 (港澳码头 / 永和街)"
+    },
+    "destination": {
+      "en": "Grand Promenade",
+      "tc": "嘉亨灣",
+      "sc": "嘉亨湾"
     },
     "stop_ids": [
       "CTB:001185",
@@ -69855,14 +69555,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Taikoo Shing",
-      "tc": "太古城",
-      "sc": "太古城"
-    },
-    "destination": {
       "en": "Central (Wing Wo Street)",
       "tc": "中環 (永和街)",
       "sc": "中环 (永和街)"
+    },
+    "destination": {
+      "en": "Taikoo Shing",
+      "tc": "太古城",
+      "sc": "太古城"
     },
     "stop_ids": [
       "CTB:001185",
@@ -69945,14 +69645,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yiu Tung Estate",
-      "tc": "耀東邨",
-      "sc": "耀东邨"
-    },
-    "destination": {
       "en": "Central (Ferry Piers)",
       "tc": "中環碼頭",
       "sc": "中环码头"
+    },
+    "destination": {
+      "en": "Yiu Tung Estate",
+      "tc": "耀東邨",
+      "sc": "耀东邨"
     },
     "stop_ids": [
       "CTB:001054",
@@ -70039,14 +69739,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sham Wan",
-      "tc": "深灣",
-      "sc": "深湾"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Sham Wan",
+      "tc": "深灣",
+      "sc": "深湾"
     },
     "stop_ids": [
       "CTB:002536",
@@ -70099,14 +69799,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Cyberport / Wah Fu (North)",
-      "tc": "數碼港／華富 (北)",
-      "sc": "数码港／华富 (北)"
-    },
-    "destination": {
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
+    },
+    "destination": {
+      "en": "Cyberport / Wah Fu (North)",
+      "tc": "數碼港／華富 (北)",
+      "sc": "数码港／华富 (北)"
     },
     "stop_ids": [
       "CTB:002305",
@@ -70281,14 +69981,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Cyberport",
-      "tc": "數碼港",
-      "sc": "数码港"
-    },
-    "destination": {
       "en": "Wong Chuk Hang Station",
       "tc": "黃竹坑站",
       "sc": "黄竹坑站"
+    },
+    "destination": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
     },
     "stop_ids": [
       "CTB:003451",
@@ -70328,14 +70028,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sham Wan",
-      "tc": "深灣",
-      "sc": "深湾"
-    },
-    "destination": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
       "sc": "中环 (交易广场)"
+    },
+    "destination": {
+      "en": "Sham Wan",
+      "tc": "深灣",
+      "sc": "深湾"
     },
     "stop_ids": [
       "CTB:001032",
@@ -70388,59 +70088,6 @@
       "CTB:001032"
     ]
   },
-  "CTB-76-inbound-1": {
-    "record_id": "CTB-76-inbound-1",
-    "company": "CTB",
-    "route_id": "76",
-    "route": "76",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Wong Chuk Hang Station / Shek Pai Wan",
-      "tc": "黃竹坑站／石排灣",
-      "sc": "黄竹坑站／石排湾"
-    },
-    "destination": {
-      "en": "Causeway Bay (Pennington Street)",
-      "tc": "銅鑼灣 (邊寧頓街)",
-      "sc": "铜锣湾 (边宁顿街)"
-    },
-    "stop_ids": [
-      "CTB:002485",
-      "CTB:002469",
-      "CTB:002455",
-      "CTB:002456",
-      "CTB:002474",
-      "CTB:002457",
-      "CTB:002567",
-      "CTB:002458",
-      "CTB:002558",
-      "CTB:002486",
-      "CTB:002494",
-      "CTB:002495",
-      "CTB:002496",
-      "CTB:002541",
-      "CTB:002542",
-      "CTB:002543",
-      "CTB:002219",
-      "CTB:002220",
-      "CTB:002217",
-      "CTB:002354",
-      "CTB:002355",
-      "CTB:003451",
-      "CTB:002357",
-      "CTB:002358",
-      "CTB:002160",
-      "CTB:002161",
-      "CTB:002164",
-      "CTB:002165",
-      "CTB:002365",
-      "CTB:002366",
-      "CTB:002367",
-      "CTB:002368",
-      "CTB:002369"
-    ]
-  },
   "CTB-76-outbound-1": {
     "record_id": "CTB-76-outbound-1",
     "company": "CTB",
@@ -70482,7 +70129,40 @@
       "CTB:002469",
       "CTB:002455",
       "CTB:002456",
-      "CTB:002474"
+      "CTB:002474",
+      "CTB:002485",
+      "CTB:002469",
+      "CTB:002455",
+      "CTB:002456",
+      "CTB:002474",
+      "CTB:002457",
+      "CTB:002567",
+      "CTB:002458",
+      "CTB:002558",
+      "CTB:002486",
+      "CTB:002494",
+      "CTB:002495",
+      "CTB:002496",
+      "CTB:002541",
+      "CTB:002542",
+      "CTB:002543",
+      "CTB:002219",
+      "CTB:002220",
+      "CTB:002217",
+      "CTB:002354",
+      "CTB:002355",
+      "CTB:003451",
+      "CTB:002357",
+      "CTB:002358",
+      "CTB:002160",
+      "CTB:002161",
+      "CTB:002164",
+      "CTB:002165",
+      "CTB:002365",
+      "CTB:002366",
+      "CTB:002367",
+      "CTB:002368",
+      "CTB:002369"
     ]
   },
   "CTB-77-inbound-1": {
@@ -70493,14 +70173,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Wan",
-      "tc": "田灣",
-      "sc": "田湾"
-    },
-    "destination": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
       "sc": "筲箕湾"
+    },
+    "destination": {
+      "en": "Tin Wan",
+      "tc": "田灣",
+      "sc": "田湾"
     },
     "stop_ids": [
       "CTB:001207",
@@ -70685,39 +70365,6 @@
       "CTB:001313"
     ]
   },
-  "CTB-78-inbound-1": {
-    "record_id": "CTB-78-inbound-1",
-    "company": "CTB",
-    "route_id": "78",
-    "route": "78",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Wong Chuk Hang",
-      "tc": "黃竹坑",
-      "sc": "黄竹坑"
-    },
-    "destination": {
-      "en": "Wah Kwai Estate",
-      "tc": "華貴邨",
-      "sc": "华贵邨"
-    },
-    "stop_ids": [
-      "CTB:002372",
-      "CTB:002295",
-      "CTB:002298",
-      "CTB:002396",
-      "CTB:002294",
-      "CTB:003287",
-      "CTB:002157",
-      "CTB:002158",
-      "CTB:002159",
-      "CTB:002344",
-      "CTB:003451",
-      "CTB:002224",
-      "CTB:002223"
-    ]
-  },
   "CTB-78-outbound-1": {
     "record_id": "CTB-78-outbound-1",
     "company": "CTB",
@@ -70749,7 +70396,20 @@
       "CTB:002372",
       "CTB:002295",
       "CTB:002298",
-      "CTB:002396"
+      "CTB:002396",
+      "CTB:002372",
+      "CTB:002295",
+      "CTB:002298",
+      "CTB:002396",
+      "CTB:002294",
+      "CTB:003287",
+      "CTB:002157",
+      "CTB:002158",
+      "CTB:002159",
+      "CTB:002344",
+      "CTB:003451",
+      "CTB:002224",
+      "CTB:002223"
     ]
   },
   "CTB-780-inbound-1": {
@@ -70760,14 +70420,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Chai Wan (East)",
-      "tc": "柴灣 (東)",
-      "sc": "柴湾 (东)"
-    },
-    "destination": {
       "en": "Central (Ferry Piers)",
       "tc": "中環碼頭",
       "sc": "中环码头"
+    },
+    "destination": {
+      "en": "Chai Wan (East)",
+      "tc": "柴灣 (東)",
+      "sc": "柴湾 (东)"
     },
     "stop_ids": [
       "CTB:001145",
@@ -70890,14 +70550,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
       "sc": "中环 (港澳码头)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:001027",
@@ -70959,14 +70619,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Admiralty (Rodney Street)",
       "tc": "金鐘 (樂禮街)",
       "sc": "金钟 (乐礼街)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:001151",
@@ -71023,14 +70683,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Queen's Hill Fanling",
-      "tc": "粉嶺皇后山",
-      "sc": "粉岭皇后山"
-    },
-    "destination": {
       "en": "Kai Tak (Via: Kwun Tong)",
       "tc": "啟德 (經: 觀塘)",
       "sc": "启德 (经: 观塘)"
+    },
+    "destination": {
+      "en": "Queen's Hill Fanling",
+      "tc": "粉嶺皇后山",
+      "sc": "粉岭皇后山"
     },
     "stop_ids": [
       "CTB:003835",
@@ -71193,14 +70853,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Queen's Hill Fanling (via: Tai Po)",
-      "tc": "粉嶺皇后山 (經:大埔)",
-      "sc": "粉岭皇后山 (经:大埔)"
-    },
-    "destination": {
       "en": "Tai Wai Station (via: Tai Po)",
       "tc": "大圍站 (經:大埔)",
       "sc": "大围站 (经:大埔)"
+    },
+    "destination": {
+      "en": "Queen's Hill Fanling (via: Tai Po)",
+      "tc": "粉嶺皇后山 (經:大埔)",
+      "sc": "粉岭皇后山 (经:大埔)"
     },
     "stop_ids": [
       "CTB:003633",
@@ -71279,14 +70939,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Oscar By The Sea (via: LOHAS Park)",
-      "tc": "清水灣半島 (經:日出康城)",
-      "sc": "清水湾半岛 (经:日出康城)"
-    },
-    "destination": {
       "en": "Tsim Sha Tsui (Mody Road)",
       "tc": "尖沙咀(麼地道)",
       "sc": "尖沙咀(么地道)"
+    },
+    "destination": {
+      "en": "Oscar By The Sea (via: LOHAS Park)",
+      "tc": "清水灣半島 (經:日出康城)",
+      "sc": "清水湾半岛 (经:日出康城)"
     },
     "stop_ids": [
       "CTB:001540",
@@ -71352,14 +71012,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Station",
-      "tc": "將軍澳站",
-      "sc": "将军澳站"
-    },
-    "destination": {
       "en": "Sai Kung",
       "tc": "西貢",
       "sc": "西贡"
+    },
+    "destination": {
+      "en": "Tseung Kwan O Station",
+      "tc": "將軍澳站",
+      "sc": "将军澳站"
     },
     "stop_ids": [
       "CTB:002109",
@@ -71452,14 +71112,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Industrial Estate",
-      "tc": "將軍澳工業邨",
-      "sc": "将军澳工业邨"
-    },
-    "destination": {
       "en": "So Uk",
       "tc": "蘇屋",
       "sc": "苏屋"
+    },
+    "destination": {
+      "en": "Tseung Kwan O Industrial Estate",
+      "tc": "將軍澳工業邨",
+      "sc": "将军澳工业邨"
     },
     "stop_ids": [
       "CTB:002836",
@@ -71576,14 +71236,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Industrial Estate (via: LOHAS Park)",
-      "tc": "將軍澳工業邨 (經:日出康城)",
-      "sc": "将军澳工业邨 (经:日出康城)"
-    },
-    "destination": {
       "en": "Cheung Sha Wan (Hoi Tat)",
       "tc": "長沙灣 (海達)",
       "sc": "长沙湾 (海达)"
+    },
+    "destination": {
+      "en": "Tseung Kwan O Industrial Estate (via: LOHAS Park)",
+      "tc": "將軍澳工業邨 (經:日出康城)",
+      "sc": "将军澳工业邨 (经:日出康城)"
     },
     "stop_ids": [
       "CTB:003794",
@@ -71663,14 +71323,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Oscar by the Sea (via: Sheung Tak)",
-      "tc": "清水灣半島 (經:尚德)",
-      "sc": "清水湾半岛 (经:尚德)"
-    },
-    "destination": {
       "en": "So Uk (via: Mong Kok and Mei Foo)",
       "tc": "蘇屋 (經:旺角及美孚)",
       "sc": "苏屋 (经:旺角及美孚)"
+    },
+    "destination": {
+      "en": "Oscar by the Sea (via: Sheung Tak)",
+      "tc": "清水灣半島 (經:尚德)",
+      "sc": "清水湾半岛 (经:尚德)"
     },
     "stop_ids": [
       "CTB:002836",
@@ -71751,14 +71411,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Station",
-      "tc": "將軍澳站",
-      "sc": "将军澳站"
-    },
-    "destination": {
       "en": "Tsim Sha Tsui East",
       "tc": "尖沙咀東",
       "sc": "尖沙咀东"
+    },
+    "destination": {
+      "en": "Tseung Kwan O Station",
+      "tc": "將軍澳站",
+      "sc": "将军澳站"
     },
     "stop_ids": [
       "CTB:001590",
@@ -71866,14 +71526,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Station",
-      "tc": "將軍澳站",
-      "sc": "将军澳站"
-    },
-    "destination": {
       "en": "Ngau Tau Kok Station",
       "tc": "牛頭角站",
       "sc": "牛头角站"
+    },
+    "destination": {
+      "en": "Tseung Kwan O Station",
+      "tc": "將軍澳站",
+      "sc": "将军澳站"
     },
     "stop_ids": [
       "CTB:001741",
@@ -71930,14 +71590,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
-      "tc": "將軍澳工業邨／將軍澳站",
-      "sc": "将军澳工业邨／将军澳站"
-    },
-    "destination": {
       "en": "Tsim Sha Tsui East",
       "tc": "尖沙咀東",
       "sc": "尖沙咀东"
+    },
+    "destination": {
+      "en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
+      "tc": "將軍澳工業邨／將軍澳站",
+      "sc": "将军澳工业邨／将军澳站"
     },
     "stop_ids": [
       "CTB:001590",
@@ -72037,14 +71697,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "LOHAS Park / Tseung Kwan O Industrial Estate",
-      "tc": "日出康城／將軍澳工業邨",
-      "sc": "日出康城／将军澳工业邨"
-    },
-    "destination": {
       "en": "San Po Kong",
       "tc": "新蒲崗",
       "sc": "新蒲岗"
+    },
+    "destination": {
+      "en": "LOHAS Park / Tseung Kwan O Industrial Estate",
+      "tc": "日出康城／將軍澳工業邨",
+      "sc": "日出康城／将军澳工业邨"
     },
     "stop_ids": [
       "CTB:003856",
@@ -72127,14 +71787,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tiu Keng Leng Station",
-      "tc": "調景嶺站",
-      "sc": "调景岭站"
-    },
-    "destination": {
       "en": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
       "tc": "火炭 (駿洋邨) (經:沙田)",
       "sc": "火炭 (骏洋邨) (经:沙田)"
+    },
+    "destination": {
+      "en": "Tiu Keng Leng Station",
+      "tc": "調景嶺站",
+      "sc": "调景岭站"
     },
     "stop_ids": [
       "CTB:003603",
@@ -72207,14 +71867,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O (Hong Sing Garden)",
-      "tc": "將軍澳 (康盛花園)",
-      "sc": "将军澳 (康盛花园)"
-    },
-    "destination": {
       "en": "Sha Tin Station",
       "tc": "沙田站",
       "sc": "沙田站"
+    },
+    "destination": {
+      "en": "Tseung Kwan O (Hong Sing Garden)",
+      "tc": "將軍澳 (康盛花園)",
+      "sc": "将军澳 (康盛花园)"
     },
     "stop_ids": [
       "CTB:002046",
@@ -72276,14 +71936,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Industrial Estate",
-      "tc": "將軍澳工業邨",
-      "sc": "将军澳工业邨"
-    },
-    "destination": {
       "en": "Tai Wai Station (via: Sha Tin)",
       "tc": "大圍站 (經:沙田)",
       "sc": "大围站 (经:沙田)"
+    },
+    "destination": {
+      "en": "Tseung Kwan O Industrial Estate",
+      "tc": "將軍澳工業邨",
+      "sc": "将军澳工业邨"
     },
     "stop_ids": [
       "CTB:003633",
@@ -72363,14 +72023,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Industrial Estate",
-      "tc": "將軍澳工業邨",
-      "sc": "将军澳工业邨"
-    },
-    "destination": {
       "en": "Fo Tan (Chun Yeung Estate) (via: Sha Tin)",
       "tc": "火炭 (駿洋邨) (經:沙田)",
       "sc": "火炭 (骏洋邨) (经:沙田)"
+    },
+    "destination": {
+      "en": "Tseung Kwan O Industrial Estate",
+      "tc": "將軍澳工業邨",
+      "sc": "将军澳工业邨"
     },
     "stop_ids": [
       "CTB:003603",
@@ -72445,14 +72105,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Queen's Hill Fanling",
-      "tc": "粉嶺皇后山",
-      "sc": "粉岭皇后山"
-    },
-    "destination": {
       "en": "High Speed Rail West Kowloon Station",
       "tc": "高鐵西九龍站",
       "sc": "高铁西九龙站"
+    },
+    "destination": {
+      "en": "Queen's Hill Fanling",
+      "tc": "粉嶺皇后山",
+      "sc": "粉岭皇后山"
     },
     "stop_ids": [
       "CTB:003549",
@@ -72549,14 +72209,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Queen's Hill Fanling",
-      "tc": "粉嶺皇后山",
-      "sc": "粉岭皇后山"
-    },
-    "destination": {
       "en": "Cheung Sha Wan (Kom Tsun Street) (via: Mong Kok)",
       "tc": "長沙灣 (甘泉街) (經: 旺角)",
       "sc": "长沙湾 (甘泉街) (经: 旺角)"
+    },
+    "destination": {
+      "en": "Queen's Hill Fanling",
+      "tc": "粉嶺皇后山",
+      "sc": "粉岭皇后山"
     },
     "stop_ids": [
       "CTB:003600",
@@ -72645,14 +72305,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Heng Fa Chuen",
-      "tc": "杏花邨",
-      "sc": "杏花邨"
-    },
-    "destination": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
       "sc": "会展站"
+    },
+    "destination": {
+      "en": "Heng Fa Chuen",
+      "tc": "杏花邨",
+      "sc": "杏花邨"
     },
     "stop_ids": [
       "CTB:003415",
@@ -72726,14 +72386,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hing Wah Estate",
-      "tc": "興華邨",
-      "sc": "兴华邨"
-    },
-    "destination": {
       "en": "Lai Tak Tsuen",
       "tc": "勵德邨",
       "sc": "励德邨"
+    },
+    "destination": {
+      "en": "Hing Wah Estate",
+      "tc": "興華邨",
+      "sc": "兴华邨"
     },
     "stop_ids": [
       "CTB:002974",
@@ -72843,14 +72503,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hing Wah Estate",
-      "tc": "興華邨",
-      "sc": "兴华邨"
-    },
-    "destination": {
       "en": "Lai Tak Tsuen",
       "tc": "勵德邨",
       "sc": "励德邨"
+    },
+    "destination": {
+      "en": "Hing Wah Estate",
+      "tc": "興華邨",
+      "sc": "兴华邨"
     },
     "stop_ids": [
       "CTB:002974",
@@ -72959,14 +72619,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "North Point Ferry Pier",
       "tc": "北角碼頭",
       "sc": "北角码头"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:001249",
@@ -73061,14 +72721,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Yiu Tung (Wai Hang Street)",
       "tc": "耀東 (惠亨街)",
       "sc": "耀东 (惠亨街)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:001356",
@@ -73147,46 +72807,6 @@
       "CTB:001375"
     ]
   },
-  "CTB-82X-inbound-1": {
-    "record_id": "CTB-82X-inbound-1",
-    "company": "CTB",
-    "route_id": "82X",
-    "route": "82X",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
-      "en": "Quarry Bay",
-      "tc": "鰂魚涌",
-      "sc": "鲗鱼涌"
-    },
-    "stop_ids": [
-      "CTB:001265",
-      "CTB:001266",
-      "CTB:001267",
-      "CTB:001268",
-      "CTB:001269",
-      "CTB:001287",
-      "CTB:001296",
-      "CTB:001297",
-      "CTB:001298",
-      "CTB:002694",
-      "CTB:003305",
-      "CTB:001377",
-      "CTB:001371",
-      "CTB:001223",
-      "CTB:001224",
-      "CTB:001225",
-      "CTB:001362",
-      "CTB:001369",
-      "CTB:001370",
-      "CTB:001382"
-    ]
-  },
   "CTB-82X-outbound-1": {
     "record_id": "CTB-82X-outbound-1",
     "company": "CTB",
@@ -73219,67 +72839,26 @@
       "CTB:001268",
       "CTB:001269",
       "CTB:001287",
-      "CTB:001296"
-    ]
-  },
-  "CTB-85-inbound-1": {
-    "record_id": "CTB-85-inbound-1",
-    "company": "CTB",
-    "route_id": "85",
-    "route": "85",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
-      "en": "Braemar Hill / North Point",
-      "tc": "寶馬山／北角",
-      "sc": "宝马山／北角"
-    },
-    "stop_ids": [
-      "CTB:001368",
-      "CTB:001239",
-      "CTB:001240",
-      "CTB:001241",
-      "CTB:001242",
-      "CTB:001211",
-      "CTB:001250",
-      "CTB:001208",
-      "CTB:001209",
-      "CTB:001210",
-      "CTB:001295",
-      "CTB:001385",
-      "CTB:001323",
-      "CTB:001258",
-      "CTB:001249",
-      "CTB:001264",
+      "CTB:001296",
       "CTB:001265",
       "CTB:001266",
       "CTB:001267",
       "CTB:001268",
       "CTB:001269",
-      "CTB:001270",
+      "CTB:001287",
       "CTB:001296",
       "CTB:001297",
       "CTB:001298",
-      "CTB:001380",
-      "CTB:001299",
-      "CTB:001197",
-      "CTB:001198",
-      "CTB:001199",
-      "CTB:001200",
-      "CTB:001205",
+      "CTB:002694",
+      "CTB:003305",
       "CTB:001377",
-      "CTB:002624",
-      "CTB:001308",
-      "CTB:001343",
-      "CTB:001305",
+      "CTB:001371",
+      "CTB:001223",
+      "CTB:001224",
       "CTB:001225",
       "CTB:001362",
-      "CTB:001383",
+      "CTB:001369",
+      "CTB:001370",
       "CTB:001382"
     ]
   },
@@ -73345,7 +72924,48 @@
       "CTB:001210",
       "CTB:001332",
       "CTB:001310",
-      "CTB:001249"
+      "CTB:001249",
+      "CTB:001368",
+      "CTB:001239",
+      "CTB:001240",
+      "CTB:001241",
+      "CTB:001242",
+      "CTB:001211",
+      "CTB:001250",
+      "CTB:001208",
+      "CTB:001209",
+      "CTB:001210",
+      "CTB:001295",
+      "CTB:001385",
+      "CTB:001323",
+      "CTB:001258",
+      "CTB:001249",
+      "CTB:001264",
+      "CTB:001265",
+      "CTB:001266",
+      "CTB:001267",
+      "CTB:001268",
+      "CTB:001269",
+      "CTB:001270",
+      "CTB:001296",
+      "CTB:001297",
+      "CTB:001298",
+      "CTB:001380",
+      "CTB:001299",
+      "CTB:001197",
+      "CTB:001198",
+      "CTB:001199",
+      "CTB:001200",
+      "CTB:001205",
+      "CTB:001377",
+      "CTB:002624",
+      "CTB:001308",
+      "CTB:001343",
+      "CTB:001305",
+      "CTB:001225",
+      "CTB:001362",
+      "CTB:001383",
+      "CTB:001382"
     ]
   },
   "CTB-85A-inbound-1": {
@@ -73356,14 +72976,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shau Kei Wan",
-      "tc": "筲箕灣",
-      "sc": "筲箕湾"
-    },
-    "destination": {
       "en": "Braemar Hill",
       "tc": "寶馬山",
       "sc": "宝马山"
+    },
+    "destination": {
+      "en": "Shau Kei Wan",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
     },
     "stop_ids": [
       "CTB:001368",
@@ -73448,14 +73068,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Braemar Hill",
       "tc": "寶馬山",
       "sc": "宝马山"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:001250",
@@ -73528,14 +73148,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "City One Shatin",
-      "tc": "沙田第一城",
-      "sc": "沙田第一城"
-    },
-    "destination": {
       "en": "Central",
       "tc": "中環",
       "sc": "中环"
+    },
+    "destination": {
+      "en": "City One Shatin",
+      "tc": "沙田第一城",
+      "sc": "沙田第一城"
     },
     "stop_ids": [
       "CTB:001107",
@@ -73585,14 +73205,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Kennedy Town (Belcher Bay)",
       "tc": "堅尼地城 (卑路乍灣)",
       "sc": "坚尼地城 (卑路乍湾)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:001177",
@@ -73660,14 +73280,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Tung Wah Eastern Hospital",
       "tc": "東華東院",
       "sc": "东华东院"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:003469",
@@ -73779,14 +73399,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
       "sc": "会展站"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:003415",
@@ -73847,14 +73467,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Happy Valley (Upper)",
       "tc": "跑馬地 (上)",
       "sc": "跑马地 (上)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:002972",
@@ -73960,14 +73580,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shau Kei Wan",
-      "tc": "筲箕灣",
-      "sc": "筲箕湾"
-    },
-    "destination": {
       "en": "Shek O",
       "tc": "石澳",
       "sc": "石澳"
+    },
+    "destination": {
+      "en": "Shau Kei Wan",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
     },
     "stop_ids": [
       "CTB:002939",
@@ -74038,14 +73658,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ap Lei Chau Estate",
-      "tc": "鴨脷洲邨",
-      "sc": "鸭脷洲邨"
-    },
-    "destination": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
       "sc": "中环 (交易广场)"
+    },
+    "destination": {
+      "en": "Ap Lei Chau Estate",
+      "tc": "鴨脷洲邨",
+      "sc": "鸭脷洲邨"
     },
     "stop_ids": [
       "CTB:001032",
@@ -74114,14 +73734,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tai Po (Ting Tai Road)",
-      "tc": "大埔 (汀太路)",
-      "sc": "大埔 (汀太路)"
-    },
-    "destination": {
       "en": "Siu Sai Wan Sports Ground",
       "tc": "小西灣運動場",
       "sc": "小西湾运动场"
+    },
+    "destination": {
+      "en": "Tai Po (Ting Tai Road)",
+      "tc": "大埔 (汀太路)",
+      "sc": "大埔 (汀太路)"
     },
     "stop_ids": [
       "CTB:001394",
@@ -74231,14 +73851,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "South Horizons",
-      "tc": "海怡半島",
-      "sc": "海怡半岛"
-    },
-    "destination": {
       "en": "Admiralty (East)",
       "tc": "金鐘 (東)",
       "sc": "金钟 (东)"
+    },
+    "destination": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
     },
     "stop_ids": [
       "CTB:003844",
@@ -74367,14 +73987,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ap Lei Chau Estate",
-      "tc": "鴨脷洲邨",
-      "sc": "鸭脷洲邨"
-    },
-    "destination": {
       "en": "Central (Ferry Piers)",
       "tc": "中環碼頭",
       "sc": "中环码头"
+    },
+    "destination": {
+      "en": "Ap Lei Chau Estate",
+      "tc": "鴨脷洲邨",
+      "sc": "鸭脷洲邨"
     },
     "stop_ids": [
       "CTB:001196",
@@ -74515,14 +74135,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ap Lei Chau Estate",
-      "tc": "鴨脷洲邨",
-      "sc": "鸭脷洲邨"
-    },
-    "destination": {
       "en": "Wah Fu (South)",
       "tc": "華富 (南)",
       "sc": "华富 (南)"
+    },
+    "destination": {
+      "en": "Ap Lei Chau Estate",
+      "tc": "鴨脷洲邨",
+      "sc": "鸭脷洲邨"
     },
     "stop_ids": [
       "CTB:002341",
@@ -74623,14 +74243,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsuen Wan (Discovery Park / Tsuen Wan West Station)",
-      "tc": "荃灣 (愉景新城／荃灣西站)",
-      "sc": "荃湾 (愉景新城／荃湾西站)"
-    },
-    "destination": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
       "sc": "会展站"
+    },
+    "destination": {
+      "en": "Tsuen Wan (Discovery Park / Tsuen Wan West Station)",
+      "tc": "荃灣 (愉景新城／荃灣西站)",
+      "sc": "荃湾 (愉景新城／荃湾西站)"
     },
     "stop_ids": [
       "CTB:003415",
@@ -74718,14 +74338,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsuen Wan West Station",
-      "tc": "荃灣西站",
-      "sc": "荃湾西站"
-    },
-    "destination": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
       "sc": "会展站"
+    },
+    "destination": {
+      "en": "Tsuen Wan West Station",
+      "tc": "荃灣西站",
+      "sc": "荃湾西站"
     },
     "stop_ids": [
       "CTB:002445",
@@ -74829,14 +74449,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsuen Wan (Discovery Park)",
-      "tc": "荃灣 (愉景新城)",
-      "sc": "荃湾 (愉景新城)"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Tsuen Wan (Discovery Park)",
+      "tc": "荃灣 (愉景新城)",
+      "sc": "荃湾 (愉景新城)"
     },
     "stop_ids": [
       "CTB:002536",
@@ -74918,14 +74538,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsuen Wan West Station",
-      "tc": "荃灣西站",
-      "sc": "荃湾西站"
-    },
-    "destination": {
       "en": "Sai Wan Ho",
       "tc": "西灣河",
       "sc": "西湾河"
+    },
+    "destination": {
+      "en": "Tsuen Wan West Station",
+      "tc": "荃灣西站",
+      "sc": "荃湾西站"
     },
     "stop_ids": [
       "CTB:001315",
@@ -75086,38 +74706,6 @@
       "CTB:001017"
     ]
   },
-  "CTB-94A-inbound-1": {
-    "record_id": "CTB-94A-inbound-1",
-    "company": "CTB",
-    "route_id": "94A",
-    "route": "94A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Wah Fu (Central)",
-      "tc": "華富 (中)",
-      "sc": "华富 (中)"
-    },
-    "destination": {
-      "en": "Lei Tung Estate",
-      "tc": "利東邨",
-      "sc": "利东邨"
-    },
-    "stop_ids": [
-      "CTB:002210",
-      "CTB:002211",
-      "CTB:002212",
-      "CTB:002160",
-      "CTB:002161",
-      "CTB:002215",
-      "CTB:002162",
-      "CTB:002163",
-      "CTB:002333",
-      "CTB:002334",
-      "CTB:002335",
-      "CTB:002337"
-    ]
-  },
   "CTB-94A-outbound-1": {
     "record_id": "CTB-94A-outbound-1",
     "company": "CTB",
@@ -75146,7 +74734,19 @@
       "CTB:002159",
       "CTB:002213",
       "CTB:002210",
-      "CTB:002211"
+      "CTB:002211",
+      "CTB:002210",
+      "CTB:002211",
+      "CTB:002212",
+      "CTB:002160",
+      "CTB:002161",
+      "CTB:002215",
+      "CTB:002162",
+      "CTB:002163",
+      "CTB:002333",
+      "CTB:002334",
+      "CTB:002335",
+      "CTB:002337"
     ]
   },
   "CTB-950-inbound-1": {
@@ -75157,14 +74757,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Ching Tin and Wo Tin)",
-      "tc": "屯門 (菁田及和田)",
-      "sc": "屯门 (菁田及和田)"
-    },
-    "destination": {
       "en": "Exhibition Centre Station",
       "tc": "會展站",
       "sc": "会展站"
+    },
+    "destination": {
+      "en": "Tuen Mun (Ching Tin and Wo Tin)",
+      "tc": "屯門 (菁田及和田)",
+      "sc": "屯门 (菁田及和田)"
     },
     "stop_ids": [
       "CTB:003415",
@@ -75235,14 +74835,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Chi Lok Fa Yuen)",
-      "tc": "屯門 (置樂花園)",
-      "sc": "屯门 (置乐花园)"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace) / Admiralty (West)",
       "tc": "銅鑼灣 (摩頓台)／金鐘 (西)",
       "sc": "铜锣湾 (摩顿台)／金钟 (西)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Chi Lok Fa Yuen)",
+      "tc": "屯門 (置樂花園)",
+      "sc": "屯门 (置乐花园)"
     },
     "stop_ids": [
       "CTB:002536",
@@ -75355,14 +74955,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "So Kwun Wat",
-      "tc": "掃管笏",
-      "sc": "扫管笏"
-    },
-    "destination": {
       "en": "Tai Koo (Kornhill Plaza)",
       "tc": "太古 (康怡廣場)",
       "sc": "太古 (康怡广场)"
+    },
+    "destination": {
+      "en": "So Kwun Wat",
+      "tc": "掃管笏",
+      "sc": "扫管笏"
     },
     "stop_ids": [
       "CTB:001365",
@@ -75520,14 +75120,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Ching Tin and Wo Tin)",
-      "tc": "屯門 (菁田及和田)",
-      "sc": "屯门 (菁田及和田)"
-    },
-    "destination": {
       "en": "Sai Wan Ho",
       "tc": "西灣河",
       "sc": "西湾河"
+    },
+    "destination": {
+      "en": "Tuen Mun (Ching Tin and Wo Tin)",
+      "tc": "屯門 (菁田及和田)",
+      "sc": "屯门 (菁田及和田)"
     },
     "stop_ids": [
       "CTB:001315",
@@ -75599,14 +75199,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ap Lei Chau Estate / Lee Nam Industrial Area",
-      "tc": "鴨脷洲邨 / 利南工業區",
-      "sc": "鸭脷洲邨 / 利南工业区"
-    },
-    "destination": {
       "en": "Chi Fu Fa Yuen",
       "tc": "置富花園",
       "sc": "置富花园"
+    },
+    "destination": {
+      "en": "Ap Lei Chau Estate / Lee Nam Industrial Area",
+      "tc": "鴨脷洲邨 / 利南工業區",
+      "sc": "鸭脷洲邨 / 利南工业区"
     },
     "stop_ids": [
       "CTB:002215",
@@ -75721,14 +75321,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Lung Mun Oasis)",
-      "tc": "屯門 (龍門居)",
-      "sc": "屯门 (龙门居)"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Lung Mun Oasis)",
+      "tc": "屯門 (龍門居)",
+      "sc": "屯门 (龙门居)"
     },
     "stop_ids": [
       "CTB:002536",
@@ -75871,14 +75471,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Lung Mun Oasis)",
-      "tc": "屯門 (龍門居)",
-      "sc": "屯门 (龙门居)"
-    },
-    "destination": {
       "en": "Tai Koo (Kornhill Plaza)",
       "tc": "太古 (康怡廣場)",
       "sc": "太古 (康怡广场)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Lung Mun Oasis)",
+      "tc": "屯門 (龍門居)",
+      "sc": "屯门 (龙门居)"
     },
     "stop_ids": [
       "CTB:001365",
@@ -76028,14 +75628,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Lung Mun Oasis)",
-      "tc": "屯門 (龍門居)",
-      "sc": "屯门 (龙门居)"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Lung Mun Oasis)",
+      "tc": "屯門 (龍門居)",
+      "sc": "屯门 (龙门居)"
     },
     "stop_ids": [
       "CTB:002536",
@@ -76126,14 +75726,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Shui Wai (Tin Yan Estate)",
-      "tc": "天水圍 (天恩邨)",
-      "sc": "天水围 (天恩邨)"
-    },
-    "destination": {
       "en": "Admiralty (West)",
       "tc": "金鐘 (西)",
       "sc": "金钟 (西)"
+    },
+    "destination": {
+      "en": "Tin Shui Wai (Tin Yan Estate)",
+      "tc": "天水圍 (天恩邨)",
+      "sc": "天水围 (天恩邨)"
     },
     "stop_ids": [
       "CTB:001139",
@@ -76210,14 +75810,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Shui Wai (Tin Yan Estate)",
-      "tc": "天水圍 (天恩邨)",
-      "sc": "天水围 (天恩邨)"
-    },
-    "destination": {
       "en": "Causeway Bay (via Tin Shui Wai North)",
       "tc": "銅鑼灣 (經天水圍北)",
       "sc": "铜锣湾 (经天水围北)"
+    },
+    "destination": {
+      "en": "Tin Shui Wai (Tin Yan Estate)",
+      "tc": "天水圍 (天恩邨)",
+      "sc": "天水围 (天恩邨)"
     },
     "stop_ids": [
       "CTB:002536",
@@ -76287,14 +75887,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Shui Wai Town Centre",
-      "tc": "天水圍市中心",
-      "sc": "天水围市中心"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Tin Shui Wai Town Centre",
+      "tc": "天水圍市中心",
+      "sc": "天水围市中心"
     },
     "stop_ids": [
       "CTB:002536",
@@ -76389,14 +75989,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Shui Wai Town Centre",
-      "tc": "天水圍市中心",
-      "sc": "天水围市中心"
-    },
-    "destination": {
       "en": "Wan Chai",
       "tc": "灣仔",
       "sc": "湾仔"
+    },
+    "destination": {
+      "en": "Tin Shui Wai Town Centre",
+      "tc": "天水圍市中心",
+      "sc": "天水围市中心"
     },
     "stop_ids": [
       "CTB:002445",
@@ -76461,14 +76061,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Shui Wai (Tin Shui Estate)",
-      "tc": "天水圍 (天瑞邨)",
-      "sc": "天水围 (天瑞邨)"
-    },
-    "destination": {
       "en": "Tai Koo (Kornhill Plaza)",
       "tc": "太古 (康怡廣場)",
       "sc": "太古 (康怡广场)"
+    },
+    "destination": {
+      "en": "Tin Shui Wai (Tin Shui Estate)",
+      "tc": "天水圍 (天瑞邨)",
+      "sc": "天水围 (天瑞邨)"
     },
     "stop_ids": [
       "CTB:001365",
@@ -76668,14 +76268,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Lei Tung Estate",
-      "tc": "利東邨",
-      "sc": "利东邨"
-    },
-    "destination": {
       "en": "Central (Exchange Square)",
       "tc": "中環 (交易廣場)",
       "sc": "中环 (交易广场)"
+    },
+    "destination": {
+      "en": "Lei Tung Estate",
+      "tc": "利東邨",
+      "sc": "利东邨"
     },
     "stop_ids": [
       "CTB:001032",
@@ -76738,14 +76338,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Cyberport",
-      "tc": "數碼港",
-      "sc": "数码港"
-    },
-    "destination": {
       "en": "So Uk Estate",
       "tc": "蘇屋邨",
       "sc": "苏屋邨"
+    },
+    "destination": {
+      "en": "Cyberport",
+      "tc": "數碼港",
+      "sc": "数码港"
     },
     "stop_ids": [
       "CTB:002836",
@@ -76858,14 +76458,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Aberdeen",
-      "tc": "香港仔",
-      "sc": "香港仔"
-    },
-    "destination": {
       "en": "Cheung Sha Wan (Kom Tsun Street)",
       "tc": "長沙灣 (甘泉街)",
       "sc": "长沙湾 (甘泉街)"
+    },
+    "destination": {
+      "en": "Aberdeen",
+      "tc": "香港仔",
+      "sc": "香港仔"
     },
     "stop_ids": [
       "CTB:003600",
@@ -76977,14 +76577,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Aberdeen (Shek Pai Wan)",
-      "tc": "香港仔 (石排灣)",
-      "sc": "香港仔 (石排湾)"
-    },
-    "destination": {
       "en": "Hoi Lai Estate",
       "tc": "海麗邨",
       "sc": "海丽邨"
+    },
+    "destination": {
+      "en": "Aberdeen (Shek Pai Wan)",
+      "tc": "香港仔 (石排灣)",
+      "sc": "香港仔 (石排湾)"
     },
     "stop_ids": [
       "CTB:002891",
@@ -77131,14 +76731,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsim Sha Tsui (Mody Road)",
-      "tc": "尖沙咀 (麼地道)",
-      "sc": "尖沙咀 (么地道)"
-    },
-    "destination": {
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
+    },
+    "destination": {
+      "en": "Tsim Sha Tsui (Mody Road)",
+      "tc": "尖沙咀 (麼地道)",
+      "sc": "尖沙咀 (么地道)"
     },
     "stop_ids": [
       "CTB:002277",
@@ -77281,14 +76881,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Lok Ma Chau (San Tin)",
-      "tc": "落馬洲 (新田)",
-      "sc": "落马洲 (新田)"
-    },
-    "destination": {
       "en": "Sai Wan Ho",
       "tc": "西灣河",
       "sc": "西湾河"
+    },
+    "destination": {
+      "en": "Lok Ma Chau (San Tin)",
+      "tc": "落馬洲 (新田)",
+      "sc": "落马洲 (新田)"
     },
     "stop_ids": [
       "CTB:001315",
@@ -77371,14 +76971,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Lok Ma Chau (San Tin)",
-      "tc": "落馬洲 (新田)",
-      "sc": "落马洲 (新田)"
-    },
-    "destination": {
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
       "sc": "小西湾 (蓝湾半岛)"
+    },
+    "destination": {
+      "en": "Lok Ma Chau (San Tin)",
+      "tc": "落馬洲 (新田)",
+      "sc": "落马洲 (新田)"
     },
     "stop_ids": [
       "CTB:001382",
@@ -77490,14 +77090,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Queen's Hill Fanling",
-      "tc": "粉嶺皇后山",
-      "sc": "粉岭皇后山"
-    },
-    "destination": {
       "en": "Central (Hong Kong Station)",
       "tc": "中環 (香港站)",
       "sc": "中环 (香港站)"
+    },
+    "destination": {
+      "en": "Queen's Hill Fanling",
+      "tc": "粉嶺皇后山",
+      "sc": "粉岭皇后山"
     },
     "stop_ids": [
       "CTB:001249",
@@ -77579,14 +77179,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Lei Tung Estate",
-      "tc": "利東邨",
-      "sc": "利东邨"
-    },
-    "destination": {
       "en": "Aberdeen (Chengtu Road)",
       "tc": "香港仔 (成都道)",
       "sc": "香港仔 (成都道)"
+    },
+    "destination": {
+      "en": "Lei Tung Estate",
+      "tc": "利東邨",
+      "sc": "利东邨"
     },
     "stop_ids": [
       "CTB:002182",
@@ -77804,14 +77404,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "South Horizons",
-      "tc": "海怡半島",
-      "sc": "海怡半岛"
-    },
-    "destination": {
       "en": "Shau Kei Wan",
       "tc": "筲箕灣",
       "sc": "筲箕湾"
+    },
+    "destination": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
     },
     "stop_ids": [
       "CTB:001207",
@@ -77964,14 +77564,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ap Lei Chau (Lee Lok Street)",
-      "tc": "鴨脷洲 (利樂街)",
-      "sc": "鸭脷洲 (利乐街)"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    "destination": {
+      "en": "Ap Lei Chau (Lee Lok Street)",
+      "tc": "鴨脷洲 (利樂街)",
+      "sc": "鸭脷洲 (利乐街)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78107,14 +77707,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "North Point Ferry Pier",
-      "tc": "北角碼頭",
-      "sc": "北角码头"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    "destination": {
+      "en": "North Point Ferry Pier",
+      "tc": "北角碼頭",
+      "sc": "北角码头"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78193,14 +77793,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78307,14 +77907,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sham Wan (via Ocean Park)",
-      "tc": "深灣 (經海洋公園)",
-      "sc": "深湾 (经海洋公园)"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    "destination": {
+      "en": "Sham Wan (via Ocean Park)",
+      "tc": "深灣 (經海洋公園)",
+      "sc": "深湾 (经海洋公园)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78405,14 +78005,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hung Hom Station",
-      "tc": "紅磡站",
-      "sc": "红磡站"
-    },
-    "destination": {
       "en": "Airport",
       "tc": "機場",
       "sc": "机场"
+    },
+    "destination": {
+      "en": "Hung Hom Station",
+      "tc": "紅磡站",
+      "sc": "红磡站"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78508,14 +78108,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hung Hom Station",
-      "tc": "紅磡站",
-      "sc": "红磡站"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    "destination": {
+      "en": "Hung Hom Station",
+      "tc": "紅磡站",
+      "sc": "红磡站"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78592,14 +78192,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Lam Tin Station",
-      "tc": "藍田站",
-      "sc": "蓝田站"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    "destination": {
+      "en": "Lam Tin Station",
+      "tc": "藍田站",
+      "sc": "蓝田站"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78687,14 +78287,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsz Wan Shan (North)",
-      "tc": "慈雲山 (北)",
-      "sc": "慈云山 (北)"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    "destination": {
+      "en": "Tsz Wan Shan (North)",
+      "tc": "慈雲山 (北)",
+      "sc": "慈云山 (北)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78793,14 +78393,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Kai Tak (via Tsim Sha Tsui)",
-      "tc": "啟德 (經尖沙咀)",
-      "sc": "启德 (经尖沙咀)"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    },
+    "destination": {
+      "en": "Kai Tak (via Tsim Sha Tsui)",
+      "tc": "啟德 (經尖沙咀)",
+      "sc": "启德 (经尖沙咀)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -78912,19 +78512,18 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yau Tong",
-      "tc": "油塘",
-      "sc": "油塘"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
     },
+    "destination": {
+      "en": "Yau Tong",
+      "tc": "油塘",
+      "sc": "油塘"
+    },
     "stop_ids": [
       "CTB:001837",
       "CTB:002672",
-      "CTB:003304",
       "CTB:003482",
       "CTB:003540",
       "CTB:001854",
@@ -79005,7 +78604,6 @@
       "CTB:002714",
       "CTB:002715",
       "CTB:002672",
-      "CTB:003304",
       "CTB:003482",
       "CTB:003550",
       "CTB:001837"
@@ -79019,19 +78617,18 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "LOHAS Park",
-      "tc": "日出康城",
-      "sc": "日出康城"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
     },
+    "destination": {
+      "en": "LOHAS Park",
+      "tc": "日出康城",
+      "sc": "日出康城"
+    },
     "stop_ids": [
       "CTB:001837",
       "CTB:002672",
-      "CTB:003304",
       "CTB:003482",
       "CTB:003540",
       "CTB:001854",
@@ -79116,7 +78713,6 @@
       "CTB:002714",
       "CTB:002715",
       "CTB:002672",
-      "CTB:003304",
       "CTB:003482",
       "CTB:003550",
       "CTB:001837"
@@ -79169,19 +78765,18 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O (Po Lam)",
-      "tc": "將軍澳 (寶琳)",
-      "sc": "将军澳 (宝琳)"
-    },
-    "destination": {
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
     },
+    "destination": {
+      "en": "Tseung Kwan O (Po Lam)",
+      "tc": "將軍澳 (寶琳)",
+      "sc": "将军澳 (宝琳)"
+    },
     "stop_ids": [
       "CTB:001837",
       "CTB:002672",
-      "CTB:003304",
       "CTB:003482",
       "CTB:003540",
       "CTB:001854",
@@ -79244,7 +78839,6 @@
       "CTB:002714",
       "CTB:002715",
       "CTB:002672",
-      "CTB:003304",
       "CTB:003482",
       "CTB:003550",
       "CTB:001837"
@@ -79258,14 +78852,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯门码头"
-    },
-    "destination": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",
       "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯门码头"
     },
     "stop_ids": [
       "CTB:003208",
@@ -79328,14 +78922,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shan King Estate",
-      "tc": "山景邨",
-      "sc": "山景邨"
-    },
-    "destination": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",
       "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Shan King Estate",
+      "tc": "山景邨",
+      "sc": "山景邨"
     },
     "stop_ids": [
       "CTB:003208",
@@ -79426,14 +79020,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun Town Centre",
-      "tc": "屯門市中心",
-      "sc": "屯门市中心"
-    },
-    "destination": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",
       "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Tuen Mun Town Centre",
+      "tc": "屯門市中心",
+      "sc": "屯门市中心"
     },
     "stop_ids": [
       "CTB:003208",
@@ -79474,14 +79068,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port",
-      "tc": "港珠澳大橋香港口岸",
-      "sc": "港珠澳大桥香港口岸"
-    },
-    "destination": {
       "en": "Sunny Bay Station",
       "tc": "欣澳站",
       "sc": "欣澳站"
+    },
+    "destination": {
+      "en": "Hong Kong-Zhuhai-Macao Bridge Hong Kong Port",
+      "tc": "港珠澳大橋香港口岸",
+      "sc": "港珠澳大桥香港口岸"
     },
     "stop_ids": [
       "CTB:003502",
@@ -79521,14 +79115,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sheung Shui (Po Wan Road) (via Fanling Station)",
-      "tc": "上水 (寶運路) (經粉嶺站)",
-      "sc": "上水 (宝运路) (经粉岭站)"
-    },
-    "destination": {
       "en": "Heung Yuen Wai Port (via Fanling Station)",
       "tc": "香園圍口岸 (經粉嶺站)",
       "sc": "香园围口岸 (经粉岭站)"
+    },
+    "destination": {
+      "en": "Sheung Shui (Po Wan Road) (via Fanling Station)",
+      "tc": "上水 (寶運路) (經粉嶺站)",
+      "sc": "上水 (宝运路) (经粉岭站)"
     },
     "stop_ids": [
       "CTB:003714",
@@ -79580,14 +79174,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tai Wai Station (via Tai Po)",
-      "tc": "大圍站 (經大埔)",
-      "sc": "大围站 (经大埔)"
-    },
-    "destination": {
       "en": "Heung Yuen Wai Port (via Tai Po)",
       "tc": "香園圍口岸 (經大埔)",
       "sc": "香园围口岸 (经大埔)"
+    },
+    "destination": {
+      "en": "Tai Wai Station (via Tai Po)",
+      "tc": "大圍站 (經大埔)",
+      "sc": "大围站 (经大埔)"
     },
     "stop_ids": [
       "CTB:003714",
@@ -79650,14 +79244,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Hau Station",
-      "tc": "天后站",
-      "sc": "天后站"
-    },
-    "destination": {
       "en": "SKYCITY",
       "tc": "航天城",
       "sc": "航天城"
+    },
+    "destination": {
+      "en": "Tin Hau Station",
+      "tc": "天后站",
+      "sc": "天后站"
     },
     "stop_ids": [
       "CTB:003816",
@@ -79744,14 +79338,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Hau Station",
-      "tc": "天后站",
-      "sc": "天后站"
-    },
-    "destination": {
       "en": "SKYCITY (via Tung Chung North)",
       "tc": "航天城 (經東涌北)",
       "sc": "航天城 (经东涌北)"
+    },
+    "destination": {
+      "en": "Tin Hau Station",
+      "tc": "天后站",
+      "sc": "天后站"
     },
     "stop_ids": [
       "CTB:003816",
@@ -79856,14 +79450,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Hau Station",
-      "tc": "天后站",
-      "sc": "天后站"
-    },
-    "destination": {
       "en": "Tung Chung (Mun Tung Estate)",
       "tc": "東涌 (滿東邨)",
       "sc": "东涌 (满东邨)"
+    },
+    "destination": {
+      "en": "Tin Hau Station",
+      "tc": "天后站",
+      "sc": "天后站"
     },
     "stop_ids": [
       "CTB:003566",
@@ -80041,14 +79635,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tai Kok Tsui (Island Harbourview)",
-      "tc": "大角咀 (維港灣)",
-      "sc": "大角咀 (维港湾)"
-    },
-    "destination": {
       "en": "SKYCITY",
       "tc": "航天城",
       "sc": "航天城"
+    },
+    "destination": {
+      "en": "Tai Kok Tsui (Island Harbourview)",
+      "tc": "大角咀 (維港灣)",
+      "sc": "大角咀 (维港湾)"
     },
     "stop_ids": [
       "CTB:003816",
@@ -80146,14 +79740,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ho Man Tin (Oi Man Estate)",
-      "tc": "何文田 (愛民邨)",
-      "sc": "何文田 (爱民邨)"
-    },
-    "destination": {
       "en": "Tung Chung (Yat Tung Estate)",
       "tc": "東涌 (逸東邨)",
       "sc": "东涌 (逸东邨)"
+    },
+    "destination": {
+      "en": "Ho Man Tin (Oi Man Estate)",
+      "tc": "何文田 (愛民邨)",
+      "sc": "何文田 (爱民邨)"
     },
     "stop_ids": [
       "CTB:001870",
@@ -80263,14 +79857,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ho Man Tin (Oi Man Estate)",
-      "tc": "何文田 (愛民邨)",
-      "sc": "何文田 (爱民邨)"
-    },
-    "destination": {
       "en": "Tung Chung (Yat Tung Estate)",
       "tc": "東涌 (逸東邨)",
       "sc": "东涌 (逸东邨)"
+    },
+    "destination": {
+      "en": "Ho Man Tin (Oi Man Estate)",
+      "tc": "何文田 (愛民邨)",
+      "sc": "何文田 (爱民邨)"
     },
     "stop_ids": [
       "CTB:001870",
@@ -80362,14 +79956,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tai Kok Tsui (Island Harbourview)",
-      "tc": "大角咀 (維港灣)",
-      "sc": "大角咀 (维港湾)"
-    },
-    "destination": {
       "en": "Aircraft Maintenance Area",
       "tc": "飛機維修區",
       "sc": "飞机维修区"
+    },
+    "destination": {
+      "en": "Tai Kok Tsui (Island Harbourview)",
+      "tc": "大角咀 (維港灣)",
+      "sc": "大角咀 (维港湾)"
     },
     "stop_ids": [
       "CTB:001850",
@@ -80451,14 +80045,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tai Kok Tsui (Island Harbourview)",
-      "tc": "大角咀 (維港灣)",
-      "sc": "大角咀 (维港湾)"
-    },
-    "destination": {
       "en": "SKYCITY (via: Tung Chung North)",
       "tc": "航天城 (經:東涌北)",
       "sc": "航天城 (经:东涌北)"
+    },
+    "destination": {
+      "en": "Tai Kok Tsui (Island Harbourview)",
+      "tc": "大角咀 (維港灣)",
+      "sc": "大角咀 (维港湾)"
     },
     "stop_ids": [
       "CTB:003816",
@@ -80622,14 +80216,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Lam Tin (North)",
-      "tc": "藍田 (北)",
-      "sc": "蓝田 (北)"
-    },
-    "destination": {
       "en": "SKYCITY",
       "tc": "航天城",
       "sc": "航天城"
+    },
+    "destination": {
+      "en": "Lam Tin (North)",
+      "tc": "藍田 (北)",
+      "sc": "蓝田 (北)"
     },
     "stop_ids": [
       "CTB:003816",
@@ -80642,7 +80236,7 @@
       "CTB:001842",
       "CTB:001862",
       "CTB:001858",
-      "CTB:001884",
+      "CTB:001859",
       "CTB:001857",
       "CTB:001854",
       "CTB:001460",
@@ -80740,14 +80334,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O (Hong Sing Garden)",
-      "tc": "將軍澳 (康盛花園)",
-      "sc": "将军澳 (康盛花园)"
-    },
-    "destination": {
       "en": "SKYCITY",
       "tc": "航天城",
       "sc": "航天城"
+    },
+    "destination": {
+      "en": "Tseung Kwan O (Hong Sing Garden)",
+      "tc": "將軍澳 (康盛花園)",
+      "sc": "将军澳 (康盛花园)"
     },
     "stop_ids": [
       "CTB:003816",
@@ -80760,7 +80354,7 @@
       "CTB:001842",
       "CTB:001862",
       "CTB:001858",
-      "CTB:001884",
+      "CTB:001859",
       "CTB:001857",
       "CTB:001854",
       "CTB:001766",
@@ -80863,14 +80457,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tiu Keng Leng Station",
-      "tc": "調景嶺站",
-      "sc": "调景岭站"
-    },
-    "destination": {
       "en": "Aircraft Maintenance Area",
       "tc": "飛機維修區",
       "sc": "飞机维修区"
+    },
+    "destination": {
+      "en": "Tiu Keng Leng Station",
+      "tc": "調景嶺站",
+      "sc": "调景岭站"
     },
     "stop_ids": [
       "CTB:001850",
@@ -80955,14 +80549,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yau Tong",
-      "tc": "油塘",
-      "sc": "油塘"
-    },
-    "destination": {
       "en": "SKYCITY",
       "tc": "航天城",
       "sc": "航天城"
+    },
+    "destination": {
+      "en": "Yau Tong",
+      "tc": "油塘",
+      "sc": "油塘"
     },
     "stop_ids": [
       "CTB:003816",
@@ -81064,14 +80658,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tung Chung (Mun Tung Estate)",
-      "tc": "東涌 (滿東邨)",
-      "sc": "东涌 (满东邨)"
-    },
-    "destination": {
       "en": "Tseung Kwan O (Po Lam)",
       "tc": "將軍澳 (寶琳)",
       "sc": "将军澳 (宝琳)"
+    },
+    "destination": {
+      "en": "Tung Chung (Mun Tung Estate)",
+      "tc": "東涌 (滿東邨)",
+      "sc": "东涌 (满东邨)"
     },
     "stop_ids": [
       "CTB:001700",
@@ -81174,14 +80768,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yau Tong",
-      "tc": "油塘",
-      "sc": "油塘"
-    },
-    "destination": {
       "en": "SKYCITY",
       "tc": "航天城",
       "sc": "航天城"
+    },
+    "destination": {
+      "en": "Yau Tong",
+      "tc": "油塘",
+      "sc": "油塘"
     },
     "stop_ids": [
       "CTB:003816",
@@ -81283,14 +80877,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsz Wan Shan (South)",
-      "tc": "慈雲山 (南)",
-      "sc": "慈云山 (南)"
-    },
-    "destination": {
       "en": "Airport (Ground Transportation Centre)",
       "tc": "機場 (地面運輸中心)",
       "sc": "机场 (地面运输中心)"
+    },
+    "destination": {
+      "en": "Tsz Wan Shan (South)",
+      "tc": "慈雲山 (南)",
+      "sc": "慈云山 (南)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -81390,14 +80984,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsz Wan Shan (South)",
-      "tc": "慈雲山 (南)",
-      "sc": "慈云山 (南)"
-    },
-    "destination": {
       "en": "Airport (via Tung Chung North)",
       "tc": "機場 (經東涌北)",
       "sc": "机场 (经东涌北)"
+    },
+    "destination": {
+      "en": "Tsz Wan Shan (South)",
+      "tc": "慈雲山 (南)",
+      "sc": "慈云山 (南)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -81605,14 +81199,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central Ferry - Star Ferry",
-      "tc": "中環碼頭-天星小輪 ．落日飛車",
-      "sc": "中环码头-天星小轮 ．落日飞车"
-    },
-    "destination": {
       "en": "Tsim Sha Tsui",
       "tc": "尖沙咀",
       "sc": "尖沙咀"
+    },
+    "destination": {
+      "en": "Central Ferry - Star Ferry",
+      "tc": "中環碼頭-天星小輪 ．落日飛車",
+      "sc": "中环码头-天星小轮 ．落日飞车"
     },
     "stop_ids": [
       "CTB:003445",
@@ -81662,14 +81256,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central Ferry - Star Ferry",
-      "tc": "中環碼頭-天星小輪 ．落日飛車",
-      "sc": "中环码头-天星小轮 ．落日飞车"
-    },
-    "destination": {
       "en": "West Kowloon Cultural District",
       "tc": "西九文化區 ．落日飛車",
       "sc": "西九文化区 ．落日飞车"
+    },
+    "destination": {
+      "en": "Central Ferry - Star Ferry",
+      "tc": "中環碼頭-天星小輪 ．落日飛車",
+      "sc": "中环码头-天星小轮 ．落日飞车"
     },
     "stop_ids": [
       "CTB:001481",
@@ -81786,14 +81380,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Macao Ferry)",
-      "tc": "中環 (港澳碼頭)",
-      "sc": "中环 (港澳码头)"
-    },
-    "destination": {
       "en": "Airport (Ground Transportation Centre)",
       "tc": "機場 (地面運輸中心)",
       "sc": "机场 (地面运输中心)"
+    },
+    "destination": {
+      "en": "Central (Macao Ferry)",
+      "tc": "中環 (港澳碼頭)",
+      "sc": "中环 (港澳码头)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -81892,14 +81486,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Cheung Sha Wan (Sham Mong Road)",
       "tc": "長沙灣 (深旺道)",
       "sc": "长沙湾 (深旺道)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:002594",
@@ -82003,14 +81597,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Macao Ferry)",
-      "tc": "中環 (港澳碼頭)",
-      "sc": "中环 (港澳码头)"
-    },
-    "destination": {
       "en": "Ngau Tau Kok",
       "tc": "牛頭角",
       "sc": "牛头角"
+    },
+    "destination": {
+      "en": "Central (Macao Ferry)",
+      "tc": "中環 (港澳碼頭)",
+      "sc": "中环 (港澳码头)"
     },
     "stop_ids": [
       "CTB:002584",
@@ -82104,14 +81698,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shau Kei Wan",
-      "tc": "筲箕灣",
-      "sc": "筲箕湾"
-    },
-    "destination": {
       "en": "Mei Foo",
       "tc": "美孚",
       "sc": "美孚"
+    },
+    "destination": {
+      "en": "Shau Kei Wan",
+      "tc": "筲箕灣",
+      "sc": "筲箕湾"
     },
     "stop_ids": [
       "CTB:001685",
@@ -82223,14 +81817,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wah Fu (Central)",
-      "tc": "華富 (中)",
-      "sc": "华富 (中)"
-    },
-    "destination": {
       "en": "Sha Tin Central",
       "tc": "沙田巿中心",
       "sc": "沙田巿中心"
+    },
+    "destination": {
+      "en": "Wah Fu (Central)",
+      "tc": "華富 (中)",
+      "sc": "华富 (中)"
     },
     "stop_ids": [
       "CTB:002046",
@@ -82335,14 +81929,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ap Lei Chau Estate",
-      "tc": "鴨脷洲邨",
-      "sc": "鸭脷洲邨"
-    },
-    "destination": {
       "en": "Lai Chi Kok",
       "tc": "荔枝角",
       "sc": "荔枝角"
+    },
+    "destination": {
+      "en": "Ap Lei Chau Estate",
+      "tc": "鴨脷洲邨",
+      "sc": "鸭脷洲邨"
     },
     "stop_ids": [
       "CTB:002847",
@@ -82437,14 +82031,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Macao Ferry)",
-      "tc": "中環 (港澳碼頭)",
-      "sc": "中环 (港澳码头)"
-    },
-    "destination": {
       "en": "Sha Tin (Kwong Yuen)",
       "tc": "沙田 (廣源)",
       "sc": "沙田 (广源)"
+    },
+    "destination": {
+      "en": "Central (Macao Ferry)",
+      "tc": "中環 (港澳碼頭)",
+      "sc": "中环 (港澳码头)"
     },
     "stop_ids": [
       "CTB:002083",
@@ -82598,14 +82192,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsim Sha Tsui (Star Ferry)",
-      "tc": "尖沙咀 (天星碼頭)",
-      "sc": "尖沙咀 (天星码头)"
-    },
-    "destination": {
       "en": "Airport (Ground Transportation Centre)",
       "tc": "機場 (地面運輸中心)",
       "sc": "机场 (地面运输中心)"
+    },
+    "destination": {
+      "en": "Tsim Sha Tsui (Star Ferry)",
+      "tc": "尖沙咀 (天星碼頭)",
+      "sc": "尖沙咀 (天星码头)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -82714,14 +82308,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsim Sha Tsui (Star Ferry)",
-      "tc": "尖沙咀 (天星碼頭)",
-      "sc": "尖沙咀 (天星码头)"
-    },
-    "destination": {
       "en": "Airport (via Yat Tung Estate)",
       "tc": "機場 (經逸東邨)",
       "sc": "机场 (经逸东邨)"
+    },
+    "destination": {
+      "en": "Tsim Sha Tsui (Star Ferry)",
+      "tc": "尖沙咀 (天星碼頭)",
+      "sc": "尖沙咀 (天星码头)"
     },
     "stop_ids": [
       "CTB:001837",
@@ -82837,14 +82431,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsz Wan Shan (North)",
-      "tc": "慈雲山 (北)",
-      "sc": "慈云山 (北)"
-    },
-    "destination": {
       "en": "Tung Chung Station",
       "tc": "東涌站",
       "sc": "东涌站"
+    },
+    "destination": {
+      "en": "Tsz Wan Shan (North)",
+      "tc": "慈雲山 (北)",
+      "sc": "慈云山 (北)"
     },
     "stop_ids": [
       "CTB:001860",
@@ -82962,14 +82556,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yau Tong",
-      "tc": "油塘",
-      "sc": "油塘"
-    },
-    "destination": {
       "en": "Tung Chung Station",
       "tc": "東涌站",
       "sc": "东涌站"
+    },
+    "destination": {
+      "en": "Yau Tong",
+      "tc": "油塘",
+      "sc": "油塘"
     },
     "stop_ids": [
       "CTB:001860",
@@ -83091,14 +82685,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O (Hong Sing Garden)",
-      "tc": "將軍澳 (康盛花園)",
-      "sc": "将军澳 (康盛花园)"
-    },
-    "destination": {
       "en": "Tung Chung Station",
       "tc": "東涌站",
       "sc": "东涌站"
+    },
+    "destination": {
+      "en": "Tseung Kwan O (Hong Sing Garden)",
+      "tc": "將軍澳 (康盛花園)",
+      "sc": "将军澳 (康盛花园)"
     },
     "stop_ids": [
       "CTB:001860",
@@ -83237,14 +82831,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Sheung Wan",
-      "tc": "上環",
-      "sc": "上环"
-    },
-    "destination": {
       "en": "Tai Wo",
       "tc": "太和",
       "sc": "太和"
+    },
+    "destination": {
+      "en": "Sheung Wan",
+      "tc": "上環",
+      "sc": "上环"
     },
     "stop_ids": [
       "CTB:003247",
@@ -83331,14 +82925,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Ching Tin and Wo Tin)",
-      "tc": "屯門 (菁田及和田)",
-      "sc": "屯门 (菁田及和田)"
-    },
-    "destination": {
       "en": "Tsim Sha Tsui (Kowloon Station)",
       "tc": "尖沙咀 (九龍站)",
       "sc": "尖沙咀 (九龙站)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Ching Tin and Wo Tin)",
+      "tc": "屯門 (菁田及和田)",
+      "sc": "屯门 (菁田及和田)"
     },
     "stop_ids": [
       "CTB:003288",
@@ -83425,14 +83019,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Macao Ferry)",
-      "tc": "中環 (港澳碼頭)",
-      "sc": "中环 (港澳码头)"
-    },
-    "destination": {
       "en": "Shun Lee Estate",
       "tc": "順利邨",
       "sc": "顺利邨"
+    },
+    "destination": {
+      "en": "Central (Macao Ferry)",
+      "tc": "中環 (港澳碼頭)",
+      "sc": "中环 (港澳码头)"
     },
     "stop_ids": [
       "CTB:001664",
@@ -83531,14 +83125,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Macao Ferry)",
-      "tc": "中環 (港澳碼頭)",
-      "sc": "中环 (港澳码头)"
-    },
-    "destination": {
       "en": "Ma On Shan (Kam Ying Court)",
       "tc": "馬鞍山 (錦英苑)",
       "sc": "马鞍山 (锦英苑)"
+    },
+    "destination": {
+      "en": "Central (Macao Ferry)",
+      "tc": "中環 (港澳碼頭)",
+      "sc": "中环 (港澳码头)"
     },
     "stop_ids": [
       "CTB:003090",
@@ -83641,14 +83235,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Macao Ferry)",
-      "tc": "中環 (港澳碼頭)",
-      "sc": "中环 (港澳码头)"
-    },
-    "destination": {
       "en": "Tiu Keng Leng (King Ling Road)",
       "tc": "調景嶺 (景嶺路)",
       "sc": "调景岭 (景岭路)"
+    },
+    "destination": {
+      "en": "Central (Macao Ferry)",
+      "tc": "中環 (港澳碼頭)",
+      "sc": "中环 (港澳码头)"
     },
     "stop_ids": [
       "CTB:001764",
@@ -83764,14 +83358,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wah Kwai Estate",
-      "tc": "華貴邨",
-      "sc": "华贵邨"
-    },
-    "destination": {
       "en": "Quarry Bay (Hoi Chak Street)",
       "tc": "鰂魚涌 (海澤街)",
       "sc": "鲗鱼涌 (海泽街)"
+    },
+    "destination": {
+      "en": "Wah Kwai Estate",
+      "tc": "華貴邨",
+      "sc": "华贵邨"
     },
     "stop_ids": [
       "CTB:001252",
@@ -83858,14 +83452,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "LOHAS Park",
-      "tc": "日出康城",
-      "sc": "日出康城"
-    },
-    "destination": {
       "en": "Mongkok (via Tsim Sha Tsui)",
       "tc": "旺角 (經尖沙咀)",
       "sc": "旺角 (经尖沙咀)"
+    },
+    "destination": {
+      "en": "LOHAS Park",
+      "tc": "日出康城",
+      "sc": "日出康城"
     },
     "stop_ids": [
       "CTB:001419",
@@ -83978,14 +83572,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Heng Fa Chuen (Citybus Chong Fu Road Garage)",
-      "tc": "杏花邨 (城巴創富道車廠)",
-      "sc": "杏花邨 (城巴创富道车厂)"
-    },
-    "destination": {
       "en": "Quarry Bay",
       "tc": "鰂魚涌",
       "sc": "鲗鱼涌"
+    },
+    "destination": {
+      "en": "Heng Fa Chuen (Citybus Chong Fu Road Garage)",
+      "tc": "杏花邨 (城巴創富道車廠)",
+      "sc": "杏花邨 (城巴创富道车厂)"
     },
     "stop_ids": [
       "CTB:002799",
@@ -84069,14 +83663,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Wan Chai (Harbour Road)",
       "tc": "灣仔 (港灣道)",
       "sc": "湾仔 (港湾道)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:002424",
@@ -84146,14 +83740,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
       "en": "Kennedy Town",
       "tc": "堅尼地城",
       "sc": "坚尼地城"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
     },
     "stop_ids": [
       "CTB:001152",
@@ -84304,14 +83898,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "South Horizons",
-      "tc": "海怡半島",
-      "sc": "海怡半岛"
-    },
-    "destination": {
       "en": "Central (Macao Ferry)",
       "tc": "中環 (港澳碼頭)",
       "sc": "中环 (港澳码头)"
+    },
+    "destination": {
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半岛"
     },
     "stop_ids": [
       "CTB:001027",
@@ -84396,14 +83990,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsuen Wan (Discovery Park)",
-      "tc": "荃灣 (愉景新城)",
-      "sc": "荃湾 (愉景新城)"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Tsuen Wan (Discovery Park)",
+      "tc": "荃灣 (愉景新城)",
+      "sc": "荃湾 (愉景新城)"
     },
     "stop_ids": [
       "CTB:002536",
@@ -84492,14 +84086,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Chi Lok Fa Yuen)",
-      "tc": "屯門 (置樂花園)",
-      "sc": "屯门 (置乐花园)"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Chi Lok Fa Yuen)",
+      "tc": "屯門 (置樂花園)",
+      "sc": "屯门 (置乐花园)"
     },
     "stop_ids": [
       "CTB:002536",
@@ -84621,14 +84215,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun (Lung Mun Oasis)",
-      "tc": "屯門 (龍門居)",
-      "sc": "屯门 (龙门居)"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Tuen Mun (Lung Mun Oasis)",
+      "tc": "屯門 (龍門居)",
+      "sc": "屯门 (龙门居)"
     },
     "stop_ids": [
       "CTB:002536",
@@ -84732,14 +84326,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Shui Wai Town Centre",
-      "tc": "天水圍市中心",
-      "sc": "天水围市中心"
-    },
-    "destination": {
       "en": "Causeway Bay (Moreton Terrace)",
       "tc": "銅鑼灣 (摩頓台)",
       "sc": "铜锣湾 (摩顿台)"
+    },
+    "destination": {
+      "en": "Tin Shui Wai Town Centre",
+      "tc": "天水圍市中心",
+      "sc": "天水围市中心"
     },
     "stop_ids": [
       "CTB:002536",
@@ -84863,14 +84457,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Ap Lei Chau (Lee Lok Street)",
-      "tc": "鴨脷洲 (利樂街)",
-      "sc": "鸭脷洲 (利乐街)"
-    },
-    "destination": {
       "en": "Airport / HZMB Hong Kong Port",
       "tc": "機場 / 港珠澳大橋香港口岸",
       "sc": "机场 / 港珠澳大桥香港口岸"
+    },
+    "destination": {
+      "en": "Ap Lei Chau (Lee Lok Street)",
+      "tc": "鴨脷洲 (利樂街)",
+      "sc": "鸭脷洲 (利乐街)"
     },
     "stop_ids": [
       "CTB:003540",
@@ -85006,14 +84600,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "North Point Ferry Pier",
-      "tc": "北角碼頭",
-      "sc": "北角码头"
-    },
-    "destination": {
       "en": "Airport / HZMB Hong Kong Port",
       "tc": "機場 / 港珠澳大橋香港口岸",
       "sc": "机场 / 港珠澳大桥香港口岸"
+    },
+    "destination": {
+      "en": "North Point Ferry Pier",
+      "tc": "北角碼頭",
+      "sc": "北角码头"
     },
     "stop_ids": [
       "CTB:003540",
@@ -85093,14 +84687,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Heng Fa Chuen",
-      "tc": "杏花邨",
-      "sc": "杏花邨"
-    },
-    "destination": {
       "en": "Airport / HZMB Hong Kong Port",
       "tc": "機場 / 港珠澳大橋香港口岸",
       "sc": "机场 / 港珠澳大桥香港口岸"
+    },
+    "destination": {
+      "en": "Heng Fa Chuen",
+      "tc": "杏花邨",
+      "sc": "杏花邨"
     },
     "stop_ids": [
       "CTB:003540",
@@ -85209,14 +84803,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Whampoa Garden",
-      "tc": "黃埔花園",
-      "sc": "黄埔花园"
-    },
-    "destination": {
       "en": "Airport / HZMB Hong Kong Port",
       "tc": "機場 / 港珠澳大橋香港口岸",
       "sc": "机场 / 港珠澳大桥香港口岸"
+    },
+    "destination": {
+      "en": "Whampoa Garden",
+      "tc": "黃埔花園",
+      "sc": "黄埔花园"
     },
     "stop_ids": [
       "CTB:003540",
@@ -85303,14 +84897,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Airport / HZMB Hong Kong Port",
-      "tc": "機場 / 港珠澳大橋香港口岸",
-      "sc": "机场 / 港珠澳大桥香港口岸"
-    },
-    "destination": {
       "en": "Tai Kok Tsui (Hoi Fai Road)",
       "tc": "大角咀 (海輝道)",
       "sc": "大角咀 (海辉道)"
+    },
+    "destination": {
+      "en": "Airport / HZMB Hong Kong Port",
+      "tc": "機場 / 港珠澳大橋香港口岸",
+      "sc": "机场 / 港珠澳大桥香港口岸"
     },
     "stop_ids": [
       "CTB:002849",
@@ -85361,14 +84955,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O (Po Lam)",
-      "tc": "將軍澳 (寶琳)",
-      "sc": "将军澳 (宝琳)"
-    },
-    "destination": {
       "en": "Airport / HZMB Hong Kong Port",
       "tc": "機場 / 港珠澳大橋香港口岸",
       "sc": "机场 / 港珠澳大桥香港口岸"
+    },
+    "destination": {
+      "en": "Tseung Kwan O (Po Lam)",
+      "tc": "將軍澳 (寶琳)",
+      "sc": "将军澳 (宝琳)"
     },
     "stop_ids": [
       "CTB:003540",
@@ -85444,14 +85038,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun Pier Head",
-      "tc": "屯門碼頭",
-      "sc": "屯门码头"
-    },
-    "destination": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",
       "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Tuen Mun Pier Head",
+      "tc": "屯門碼頭",
+      "sc": "屯门码头"
     },
     "stop_ids": [
       "CTB:003208",
@@ -85662,14 +85256,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tung Chung (Yat Tung Estate)",
-      "tc": "東涌 (逸東邨)",
-      "sc": "东涌 (逸东邨)"
-    },
-    "destination": {
       "en": "Aircraft Maintenance Area",
       "tc": "飛機維修區",
       "sc": "飞机维修区"
+    },
+    "destination": {
+      "en": "Tung Chung (Yat Tung Estate)",
+      "tc": "東涌 (逸東邨)",
+      "sc": "东涌 (逸东邨)"
     },
     "stop_ids": [
       "CTB:001850",
@@ -85729,14 +85323,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yu Nga Court",
-      "tc": "裕雅苑",
-      "sc": "裕雅苑"
-    },
-    "destination": {
       "en": "Aircraft Maintenance Area",
       "tc": "飛機維修區",
       "sc": "飞机维修区"
+    },
+    "destination": {
+      "en": "Yu Nga Court",
+      "tc": "裕雅苑",
+      "sc": "裕雅苑"
     },
     "stop_ids": [
       "CTB:001850",
@@ -86101,14 +85695,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tung Chung Station",
-      "tc": "東涌站",
-      "sc": "东涌站"
-    },
-    "destination": {
       "en": "AsiaWorld-Expo",
       "tc": "機場博覽館",
       "sc": "机场博览馆"
+    },
+    "destination": {
+      "en": "Tung Chung Station",
+      "tc": "東涌站",
+      "sc": "东涌站"
     },
     "stop_ids": [
       "CTB:002672",
@@ -86145,14 +85739,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Star Ferry)",
-      "tc": "中環 (天星碼頭)",
-      "sc": "中环 (天星码头)"
-    },
-    "destination": {
       "en": "The Peak",
       "tc": "山頂",
       "sc": "山顶"
+    },
+    "destination": {
+      "en": "Central (Star Ferry)",
+      "tc": "中環 (天星碼頭)",
+      "sc": "中环 (天星码头)"
     },
     "stop_ids": [
       "CTB:001096",
@@ -86198,14 +85792,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tiu Keng Leng Station",
-      "tc": "調景嶺站",
-      "sc": "调景岭站"
-    },
-    "destination": {
       "en": "Fire and Ambulance Services Academy",
       "tc": "消防及救護學院",
       "sc": "消防及救护学院"
+    },
+    "destination": {
+      "en": "Tiu Keng Leng Station",
+      "tc": "調景嶺站",
+      "sc": "调景岭站"
     },
     "stop_ids": [
       "CTB:003444",
@@ -86289,14 +85883,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Central (Star Ferry)",
-      "tc": "中環 (天星碼頭)",
-      "sc": "中环 (天星码头)"
-    },
-    "destination": {
       "en": "Shek O",
       "tc": "石澳",
       "sc": "石澳"
+    },
+    "destination": {
+      "en": "Central (Star Ferry)",
+      "tc": "中環 (天星碼頭)",
+      "sc": "中环 (天星码头)"
     },
     "stop_ids": [
       "CTB:002939",
