@@ -6,7 +6,9 @@ import { run as runLightrail } from "./companies/lightrail/index.js";
 import { run as runMtr } from "./companies/mtr/index.js";
 import { run as runMtrbus } from "./companies/mtrbus/index.js";
 import { run as runNlb } from "./companies/nlb/index.js";
+import { run as runFare } from "./fare/index.js";
 import { parseAll } from "./parse.js";
+import { run as runTimetable } from "./time_table/index.js";
 
 type RunOptions = { resume?: boolean; test?: boolean; keepCache?: boolean };
 
@@ -21,6 +23,8 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   gmbkln: (options) => runGmbKLN(options),
   gmbnt: (options) => runGmbNT(options),
   nlb: (options) => runNlb(options),
+  timetable: () => runTimetable(),
+  fare: () => runFare(),
 };
 
 const KNOWN_FLAGS = new Set([
