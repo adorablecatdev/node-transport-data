@@ -1,7 +1,12 @@
 import { parseCsv } from "../lib/gtfs.js";
 import { Company } from "../types.js";
 
-export type Timetable = Record<string, Record<string, Record<string, number>>>;
+// Key is either a window "HH:MM-HH:MM" (value = headway minutes) or a single
+// departure "HH:MM" (value = null, meaning one scheduled trip with no headway).
+// The null form covers peak-only "P" / school "S" / special-day variants — e.g.
+// KMB 297P with departures at 07:55 and 08:10 — which appear in trips.txt but
+// have no rows in frequencies.txt.
+export type Timetable = Record<string, Record<string, Record<string, number | null>>>;
 
 // GTFS agency_id → project Company. Agencies not listed here (XB, PI, DB, FERRY,
 // PTRAM, TRAM) have no Company counterpart and are dropped. GMB is resolved
@@ -29,6 +34,16 @@ function directionFromTripId(tripId: string): "outbound" | "inbound" | undefined
   if (parts[1] === "1") return "inbound";
   if (parts[1] === "2") return "outbound";
   return undefined;
+}
+
+// Last trip_id segment is HHMM (e.g. "8159-1-287-0755" → "07:55"). Returned as
+// HH:MM. GTFS may use hour >= 24 for post-midnight departures; preserve them.
+function departureFromTripId(tripId: string): string | undefined {
+  const parts = tripId.split("-");
+  if (parts.length !== 4) return undefined;
+  const t = parts[3];
+  if (!t || t.length < 4) return undefined;
+  return `${t.slice(0, t.length - 2)}:${t.slice(-2)}`;
 }
 type CalendarRow = {
   service_id: string;
@@ -86,39 +101,45 @@ export function transformTimetable(inputs: {
   let orphanServices = 0;
   const droppedByAgency = new Map<string, number>();
 
+  function resolveContext(tripId: string, routeId: string, serviceId: string) {
+    const route = routeById.get(routeId);
+    if (!route) {
+      orphanRoutes++;
+      return undefined;
+    }
+    const weekday = weekdayByService.get(serviceId);
+    if (!weekday) {
+      orphanServices++;
+      return undefined;
+    }
+    let company: Company | undefined;
+    if (route.agency_id === "GMB") company = gmbMap?.get(route.route_id);
+    else company = AGENCY_TO_COMPANY[route.agency_id];
+    if (!company) {
+      droppedByAgency.set(route.agency_id, (droppedByAgency.get(route.agency_id) ?? 0) + 1);
+      return undefined;
+    }
+    const direction = directionFromTripId(tripId);
+    if (!direction) {
+      orphanTrips++;
+      return undefined;
+    }
+    return { route, weekday, company, direction };
+  }
+
+  const tripIdsWithFreq = new Set<string>();
+
   for (const f of frequencies) {
     const trip = tripById.get(f.trip_id);
     if (!trip) {
       orphanTrips++;
       continue;
     }
-    const route = routeById.get(trip.route_id);
-    if (!route) {
-      orphanRoutes++;
-      continue;
-    }
-    const weekday = weekdayByService.get(trip.service_id);
-    if (!weekday) {
-      orphanServices++;
-      continue;
-    }
+    tripIdsWithFreq.add(f.trip_id);
+    const ctx = resolveContext(f.trip_id, trip.route_id, trip.service_id);
+    if (!ctx) continue;
 
-    let company: Company | undefined;
-    if (route.agency_id === "GMB") company = gmbMap?.get(route.route_id);
-    else company = AGENCY_TO_COMPANY[route.agency_id];
-
-    if (!company) {
-      droppedByAgency.set(route.agency_id, (droppedByAgency.get(route.agency_id) ?? 0) + 1);
-      continue;
-    }
-
-    const direction = directionFromTripId(f.trip_id);
-    if (!direction) {
-      orphanTrips++;
-      continue;
-    }
-
-    const key = `${company}-${route.route_short_name}-${direction}-1`;
+    const key = `${ctx.company}-${ctx.route.route_short_name}-${ctx.direction}-1`;
     const secs = Number(f.headway_secs);
     if (!Number.isFinite(secs)) continue;
     // GTFS headway_secs is always a whole minute in this feed; round for safety.
@@ -130,13 +151,35 @@ export function transformTimetable(inputs: {
     const timeWindow = `${start}-${end}`;
 
     const byWeekday = (result[key] ||= {});
-    const byTime = (byWeekday[weekday] ||= {});
+    const byTime = (byWeekday[ctx.weekday] ||= {});
     const existing = byTime[timeWindow];
     // Same (company, route, direction, weekday, window) can still repeat across
     // multiple GTFS trips — different service_type variants collapse under
     // service_type=1, and LWB/CTB joint routes merge under a single company. Keep
-    // the shortest headway: it's the most passenger-favourable read.
-    if (existing === undefined || intervalMin < existing) byTime[timeWindow] = intervalMin;
+    // the shortest headway: it's the most passenger-favourable read. A prior null
+    // (single scheduled departure at the same window) is overwritten by any real
+    // headway number.
+    if (existing === undefined || existing === null || intervalMin < existing) {
+      byTime[timeWindow] = intervalMin;
+    }
+  }
+
+  // Scheduled trips: rows in trips.txt with no matching frequencies row. These are
+  // peak-only "P", school "S", and other fixed-schedule variants (e.g. KMB 297P
+  // with departures at 07:55 and 08:10). Key is bare "HH:MM", value null.
+  for (const trip of trips) {
+    if (tripIdsWithFreq.has(trip.trip_id)) continue;
+    const ctx = resolveContext(trip.trip_id, trip.route_id, trip.service_id);
+    if (!ctx) continue;
+    const departure = departureFromTripId(trip.trip_id);
+    if (!departure) {
+      orphanTrips++;
+      continue;
+    }
+    const key = `${ctx.company}-${ctx.route.route_short_name}-${ctx.direction}-1`;
+    const byWeekday = (result[key] ||= {});
+    const byTime = (byWeekday[ctx.weekday] ||= {});
+    if (byTime[departure] === undefined) byTime[departure] = null;
   }
 
   if (orphanTrips || orphanRoutes || orphanServices) {
@@ -157,7 +200,7 @@ export function transformTimetable(inputs: {
     for (const wd of Object.keys(byWeekday)) {
       const byTime = byWeekday[wd];
       if (!byTime) continue;
-      const sorted: Record<string, number> = {};
+      const sorted: Record<string, number | null> = {};
       for (const t of Object.keys(byTime).sort()) {
         const v = byTime[t];
         if (v !== undefined) sorted[t] = v;
