@@ -25,14 +25,16 @@ type RouteRow = { route_id: string; agency_id: string; route_short_name: string 
 type TripRow = { trip_id: string; route_id: string; service_id: string };
 
 // GTFS trip_id shape is `<route_id>-<dir>-<service_id>-<HHMM>` across every agency
-// in this feed; the second segment is 1 (inbound) or 2 (outbound). The feed has no
-// direction_id column and no service_type equivalent, so variants like KMB 2F's
-// service_type=2 collapse into service_type=1 in the output key.
+// in this feed; the second segment is 1 (outbound, matching KMB API bound="O") or
+// 2 (inbound, bound="I") — verified against stop_times.txt terminus sequences vs.
+// KMB API origin/destination. The feed has no direction_id column and no
+// service_type equivalent, so variants like KMB 2F's service_type=2 collapse into
+// service_type=1 in the output key.
 function directionFromTripId(tripId: string): "outbound" | "inbound" | undefined {
   const parts = tripId.split("-");
   if (parts.length !== 4) return undefined;
-  if (parts[1] === "1") return "inbound";
-  if (parts[1] === "2") return "outbound";
+  if (parts[1] === "1") return "outbound";
+  if (parts[1] === "2") return "inbound";
   return undefined;
 }
 
