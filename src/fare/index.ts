@@ -5,7 +5,7 @@ import { transformFare } from "./transform.js";
 
 const URL =
   "https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fstatic.data.gov.hk%2Ftd%2Fpt-headway-tc%2Fgtfs.zip";
-const OUT_DIR = "out/fare";
+const OUT_DIR = "out/final";
 const WANTED_FILES = new Set(["routes.txt", "fare_attributes.txt", "fare_rules.txt"]);
 
 const GMB_REGION_DIRS: Array<[Company, string]> = [
