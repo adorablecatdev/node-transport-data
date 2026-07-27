@@ -1931,6 +1931,7 @@
       "KMB:C1C31D615DAA97F4",
       "KMB:BC932662BA367CD0",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:AA26D9F25826AA4A",
       "KMB:FBE38593BDEB0802",
       "KMB:E0606D6156DB9960"
@@ -3928,45 +3929,6 @@
       "KMB:ACFA28064D1B2380"
     ]
   },
-  "KMB-12P-outbound-1": {
-    "record_id": "KMB-12P-outbound-1",
-    "company": "KMB",
-    "route_id": "12P",
-    "route": "12P",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hoi Lai Estate",
-      "tc": "海麗邨",
-      "sc": "海丽邨"
-    },
-    "destination": {
-      "en": "Hung Hom Station",
-      "tc": "紅磡站",
-      "sc": "红磡站"
-    },
-    "stop_ids": [
-      "KMB:296E43213D6DB624",
-      "KMB:32CB1FBDCB7932A6",
-      "KMB:CCAD6B9A4B1CFFD8",
-      "KMB:1BD82E4312536F0C",
-      "KMB:5FBC215F6F58AC98",
-      "KMB:A411F9374FB2879B",
-      "KMB:7EC4B2C80047770A",
-      "KMB:9B62732E0E1E537C",
-      "KMB:029EA5F3C2AEFBC9",
-      "KMB:6E4C75B59DEF3D89",
-      "KMB:DED3339EB26494EA",
-      "KMB:577633405E7A3ACD",
-      "KMB:F6EE4DC41A299593",
-      "KMB:83EB94899B6BBB4B",
-      "KMB:5F60283656DF3016",
-      "KMB:576538E1395C8508",
-      "KMB:1864222D8939BD69",
-      "KMB:95FAB1D2AD752ECE",
-      "KMB:505D36136FD57784"
-    ]
-  },
   "KMB-13-outbound-1": {
     "record_id": "KMB-13-outbound-1",
     "company": "KMB",
@@ -4564,6 +4526,7 @@
       "KMB:B68FB7076BB07A22",
       "KMB:553D370FA21F7DA4",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:AA26D9F25826AA4A",
       "KMB:FBE38593BDEB0802",
       "KMB:921C19F6147C74A6",
@@ -5274,6 +5237,7 @@
       "KMB:B68FB7076BB07A22",
       "KMB:553D370FA21F7DA4",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:AA26D9F25826AA4A",
       "KMB:9A0959AB68FA5E1F",
       "KMB:94358F5481BAE505",
@@ -6293,6 +6257,7 @@
       "KMB:C44684E01A99DE4F",
       "KMB:B48B8F12CD929F0F",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:4937A56C05FABA08"
     ]
   },
@@ -6405,6 +6370,7 @@
       "KMB:C44684E01A99DE4F",
       "KMB:B48B8F12CD929F0F",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:4937A56C05FABA08"
     ]
   },
@@ -6891,6 +6857,7 @@
     "stop_ids": [
       "KMB:82C6FB4FF5612428",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:AA26D9F25826AA4A",
       "KMB:FBE38593BDEB0802",
       "KMB:9A0959AB68FA5E1F",
@@ -6931,6 +6898,7 @@
     "stop_ids": [
       "KMB:82C6FB4FF5612428",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:AA26D9F25826AA4A",
       "KMB:FBE38593BDEB0802",
       "KMB:9A0959AB68FA5E1F",
@@ -14538,49 +14506,6 @@
       "KMB:B3B0EF2BC688751D"
     ]
   },
-  "KMB-61A-outbound-1": {
-    "record_id": "KMB-61A-outbound-1",
-    "company": "KMB",
-    "route_id": "61A",
-    "route": "61A",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "TUEN MUN (HOI WING ROAD)",
-      "tc": "屯門(海榮路)",
-      "sc": "屯门(海荣路)"
-    },
-    "destination": {
-      "en": "TUEN MUN ROAD BBI - URBAN BOUND",
-      "tc": "屯門公路轉車站- 市區方向",
-      "sc": "屯门公路转车站- 市区方向"
-    },
-    "stop_ids": [
-      "KMB:26A66C479A0278FC",
-      "KMB:F69B2B317BEB37A3",
-      "KMB:64312A5DFF11636C",
-      "KMB:CB2A65E69B2B71BE",
-      "KMB:F0536729876AA9D0",
-      "KMB:1E15CFA82F408124",
-      "KMB:01F91A12857E4531",
-      "KMB:630AA1866C5372B6",
-      "KMB:A2586669ADE21A28",
-      "KMB:C90375A74B02D2E8",
-      "KMB:EEC48EC880FC63CB",
-      "KMB:242418A9AB386596",
-      "KMB:A9D85812EAEE6C17",
-      "KMB:971554761E4413EF",
-      "KMB:7FB2AE7FA13EDB0F",
-      "KMB:4F64DA53415F3128",
-      "KMB:BF7FD3BC4994EBE5",
-      "KMB:9DC117C78DBDB1A7",
-      "KMB:BD52FF1BA0AC99BE",
-      "KMB:1F2376A52800A2CA",
-      "KMB:0B72FFAB7F7230E4",
-      "KMB:9955DA9311A76BA4",
-      "KMB:0CF05B00D82FECB2"
-    ]
-  },
   "KMB-61M-outbound-1": {
     "record_id": "KMB-61M-outbound-1",
     "company": "KMB",
@@ -15372,6 +15297,44 @@
       "KMB:94236C65C84D8C17",
       "KMB:4C82D99D0721ADE9",
       "KMB:399EF919E10C7F33"
+    ]
+  },
+  "KMB-64K-outbound-3": {
+    "record_id": "KMB-64K-outbound-3",
+    "company": "KMB",
+    "route_id": "64K",
+    "route": "64K",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "KAM SHEUNG ROAD STATION",
+      "tc": "錦上路站",
+      "sc": "锦上路站"
+    },
+    "destination": {
+      "en": "SHEUNG TSUEN",
+      "tc": "上村",
+      "sc": "上村"
+    },
+    "stop_ids": [
+      "KMB:D4027BBC82CDBA61",
+      "KMB:13211112A23954EC",
+      "KMB:3502ABD7492B8C56",
+      "KMB:B20A1163984772C9",
+      "KMB:8D47F8C7AA27FCB8",
+      "KMB:7AA3F7F89AD36B1B",
+      "KMB:180648AA12CF6725",
+      "KMB:7525EA3D297065CC",
+      "KMB:BC05332A477AB8F9",
+      "KMB:BC3E701090D7E56E",
+      "KMB:8DDFE8598C7DA354",
+      "KMB:8A0B04DDC3B321A4",
+      "KMB:076E1AA3258C5D0A",
+      "KMB:2FE9CA5CC344B5A3",
+      "KMB:AEE5D5FDC38650DB",
+      "KMB:B1E11C753EE8DC31",
+      "KMB:CD364F8B176DE0EC",
+      "KMB:B3CCAA9D93647348"
     ]
   },
   "KMB-64K-inbound-1": {
@@ -20987,6 +20950,32 @@
       "KMB:91E946260F8BCBE8",
       "KMB:9381998EA6DC33CA",
       "KMB:91E946260F8BCBE8"
+    ]
+  },
+  "KMB-78A-outbound-4": {
+    "record_id": "KMB-78A-outbound-4",
+    "company": "KMB",
+    "route_id": "78A",
+    "route": "78A",
+    "bound": "outbound",
+    "service_type": "4",
+    "origin": {
+      "en": "QUEEN'S HILL",
+      "tc": "皇后山",
+      "sc": "皇后山"
+    },
+    "destination": {
+      "en": "FANLING STATION",
+      "tc": "只往粉嶺名都",
+      "sc": "只往粉岭名都"
+    },
+    "stop_ids": [
+      "KMB:886559B17A8D61EC",
+      "KMB:A088D19226D59E98",
+      "KMB:6573811D015A0818",
+      "KMB:A22E315AD21129EB",
+      "KMB:C837C3C549793472",
+      "KMB:3DEE05203A52B235"
     ]
   },
   "KMB-78A-outbound-5": {
@@ -27931,41 +27920,6 @@
       "KMB:92BC52AEBC658E49"
     ]
   },
-  "KMB-98B-outbound-1": {
-    "record_id": "KMB-98B-outbound-1",
-    "company": "KMB",
-    "route_id": "98B",
-    "route": "98B",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
-      "tc": "坑口(北)(將軍澳醫院)",
-      "sc": "坑口(北)(将军澳医院)"
-    },
-    "destination": {
-      "en": "KWUN TONG",
-      "tc": "觀塘",
-      "sc": "观塘"
-    },
-    "stop_ids": [
-      "KMB:92BC52AEBC658E49",
-      "KMB:9B0382206D441221",
-      "KMB:5BE08E5DCD826740",
-      "KMB:ECD84D5B8C52642B",
-      "KMB:1078119989C67B82",
-      "KMB:FCDC63F245F7F22B",
-      "KMB:544FDBB0FC074ABC",
-      "KMB:D8CEF4232A0B7E4D",
-      "KMB:6AE5EC17DAE4E646",
-      "KMB:883E42D32C6AD101",
-      "KMB:E0BAA3364D0CE860",
-      "KMB:CB341BEEABF66D6E",
-      "KMB:8BAB6AA783EE0508",
-      "KMB:3F9AE21DC3A540B9",
-      "KMB:5FD7848A339751B6"
-    ]
-  },
   "KMB-98C-outbound-1": {
     "record_id": "KMB-98C-outbound-1",
     "company": "KMB",
@@ -29009,6 +28963,7 @@
       "KMB:C44684E01A99DE4F",
       "KMB:B48B8F12CD929F0F",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:0718DE53C1C84496"
     ]
   },
@@ -30427,6 +30382,7 @@
       "KMB:B68FB7076BB07A22",
       "KMB:553D370FA21F7DA4",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:64D3081966987039"
     ]
   },
@@ -30467,6 +30423,7 @@
       "KMB:B68FB7076BB07A22",
       "KMB:553D370FA21F7DA4",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:64D3081966987039"
     ]
   },
@@ -33163,36 +33120,6 @@
       "KMB:F18230D9F2792E77"
     ]
   },
-  "KMB-259E-outbound-1": {
-    "record_id": "KMB-259E-outbound-1",
-    "company": "KMB",
-    "route_id": "259E",
-    "route": "259E",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "TUEN MUN (LUNG MUN OASIS)",
-      "tc": "屯門(龍門居)",
-      "sc": "屯门(龙门居)"
-    },
-    "destination": {
-      "en": "TSUEN WAN STATION",
-      "tc": "荃灣站",
-      "sc": "荃湾站"
-    },
-    "stop_ids": [
-      "KMB:9FC91153A17CB656",
-      "KMB:1E990292ADEF23A2",
-      "KMB:83A02749D0CB2EE8",
-      "KMB:0C9D04F079377C44",
-      "KMB:F69B2B317BEB37A3",
-      "KMB:376C4835851621D4",
-      "KMB:2560149CE75EABA0",
-      "KMB:D893FD9E88E2A98D",
-      "KMB:81C7DC25FD107DD2",
-      "KMB:0653C07D043A0E97"
-    ]
-  },
   "KMB-259R-outbound-1": {
     "record_id": "KMB-259R-outbound-1",
     "company": "KMB",
@@ -34361,12 +34288,56 @@
       "KMB:79D68EE7C6CBAB9D"
     ]
   },
-  "KMB-264R-outbound-1": {
-    "record_id": "KMB-264R-outbound-1",
+  "KMB-264X-outbound-1": {
+    "record_id": "KMB-264X-outbound-1",
     "company": "KMB",
-    "route_id": "264R",
-    "route": "264R",
+    "route_id": "264X",
+    "route": "264X",
     "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "TAI PO MARKET STATION",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "TIN YIU",
+      "tc": "天耀",
+      "sc": "天耀"
+    },
+    "stop_ids": [
+      "KMB:8581908CE476D2CF",
+      "KMB:05485C36CA334A81",
+      "KMB:DA30F5393480B81D",
+      "KMB:6716018C3EE42733",
+      "KMB:1A0BF02F827F6A20",
+      "KMB:CCC4773031BC0FD8",
+      "KMB:6A4B371546D489BF",
+      "KMB:F63C4B8B958E9830",
+      "KMB:78AD2432201EF5EE",
+      "KMB:1B0FD9C27F5FE0BE",
+      "KMB:A010FE2C473103A8",
+      "KMB:70FEB409760C77EE",
+      "KMB:D813C93D9AD1C45B",
+      "KMB:7BB395B6FE66E102",
+      "KMB:6D4E7B9D5F9584E7",
+      "KMB:47AB1894215AECEE",
+      "KMB:42AEF6365E78DA56",
+      "KMB:8753A8442C2FFF53",
+      "KMB:8D56DB404D264D5A",
+      "KMB:A00D00FC2F4F8400",
+      "KMB:C052B4D46E1F48EA",
+      "KMB:AFB9321F7CD2C2E4",
+      "KMB:7898B605E39613A8",
+      "KMB:D4377A1796E80098"
+    ]
+  },
+  "KMB-264X-inbound-1": {
+    "record_id": "KMB-264X-inbound-1",
+    "company": "KMB",
+    "route_id": "264X",
+    "route": "264X",
+    "bound": "inbound",
     "service_type": "1",
     "origin": {
       "en": "TIN YIU",
@@ -34406,50 +34377,6 @@
       "KMB:A6D60802BD8DDED0",
       "KMB:46604706EE6CC765",
       "KMB:8581908CE476D2CF"
-    ]
-  },
-  "KMB-264R-inbound-1": {
-    "record_id": "KMB-264R-inbound-1",
-    "company": "KMB",
-    "route_id": "264R",
-    "route": "264R",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "TAI PO MARKET STATION",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    },
-    "destination": {
-      "en": "TIN YIU",
-      "tc": "天耀",
-      "sc": "天耀"
-    },
-    "stop_ids": [
-      "KMB:8581908CE476D2CF",
-      "KMB:05485C36CA334A81",
-      "KMB:DA30F5393480B81D",
-      "KMB:6716018C3EE42733",
-      "KMB:1A0BF02F827F6A20",
-      "KMB:CCC4773031BC0FD8",
-      "KMB:6A4B371546D489BF",
-      "KMB:F63C4B8B958E9830",
-      "KMB:78AD2432201EF5EE",
-      "KMB:1B0FD9C27F5FE0BE",
-      "KMB:A010FE2C473103A8",
-      "KMB:70FEB409760C77EE",
-      "KMB:D813C93D9AD1C45B",
-      "KMB:7BB395B6FE66E102",
-      "KMB:6D4E7B9D5F9584E7",
-      "KMB:47AB1894215AECEE",
-      "KMB:42AEF6365E78DA56",
-      "KMB:8753A8442C2FFF53",
-      "KMB:8D56DB404D264D5A",
-      "KMB:A00D00FC2F4F8400",
-      "KMB:C052B4D46E1F48EA",
-      "KMB:AFB9321F7CD2C2E4",
-      "KMB:7898B605E39613A8",
-      "KMB:D4377A1796E80098"
     ]
   },
   "KMB-265B-outbound-1": {
@@ -52403,7 +52330,7 @@
       "KMB:9394A27497B9958D",
       "KMB:89240EC55B8818BC",
       "KMB:B83F3546C41A5114",
-      "KMB:CE6B0D24BEBCD3F5",
+      "KMB:13E458C819D90940",
       "KMB:87F2B57F6457C6CA",
       "KMB:EE212E6FD5124813",
       "KMB:8394FFF35F9D2EFB",
@@ -53202,7 +53129,7 @@
       "KMB:9D5EC5BD0A116058",
       "KMB:34DCAF51F6056BB6",
       "KMB:9E54416DFC0C7B68",
-      "KMB:7C855FDC7F8621AA",
+      "KMB:AA6F0A2661759A49",
       "KMB:92540DF9CB08304C",
       "KMB:325D388E2C927954",
       "KMB:E77716C29E34669E",
@@ -53389,6 +53316,7 @@
       "KMB:5CAB5B74424F27B4",
       "KMB:E44C9E1167039011",
       "KMB:C37816866237EFFA",
+      "KMB:E0C452A539D57317",
       "KMB:719B6A48C203AFBA",
       "KMB:4BF5A563B95D2F42",
       "KMB:9AD628EDE1178D24",
@@ -53435,6 +53363,7 @@
       "KMB:AE4E8F82AD65348C",
       "KMB:3E5A3CFA10D8D300",
       "KMB:225E8FAE869B3308",
+      "KMB:3F463A541D165B44",
       "KMB:1B1A7253CC1D3148",
       "KMB:86B81946F9FA57FB",
       "KMB:A07CC0A6D462A579",
@@ -53500,6 +53429,7 @@
       "KMB:1DD522300A4B9406",
       "KMB:6DD60A482B4CDAF6",
       "KMB:388C3DB16F0F2719",
+      "KMB:A2ED007C8CD070A0",
       "KMB:719B6A48C203AFBA",
       "KMB:4BF5A563B95D2F42",
       "KMB:9AD628EDE1178D24",
@@ -53542,6 +53472,7 @@
       "KMB:AE4E8F82AD65348C",
       "KMB:3E5A3CFA10D8D300",
       "KMB:225E8FAE869B3308",
+      "KMB:3F463A541D165B44",
       "KMB:1B1A7253CC1D3148",
       "KMB:4A626ACD36F8ED7A",
       "KMB:153D32217234A0F0",
@@ -53729,6 +53660,7 @@
       "KMB:C44684E01A99DE4F",
       "KMB:B48B8F12CD929F0F",
       "KMB:72999453ECAC4693",
+      "KMB:09B6F28D05DA00F4",
       "KMB:AA26D9F25826AA4A",
       "KMB:FBE38593BDEB0802",
       "KMB:921C19F6147C74A6",
@@ -55059,7 +54991,8 @@
       "KMB:40A8EA2850B0979B",
       "KMB:B943DBEE65B0B18F",
       "KMB:5AF593F7A11180E2",
-      "KMB:92A8281D80524F78"
+      "KMB:92A8281D80524F78",
+      "KMB:716D84D1B7EA256E"
     ]
   },
   "KMB-N293-outbound-1": {
@@ -55999,7 +55932,7 @@
       "KMB:9394A27497B9958D",
       "KMB:89240EC55B8818BC",
       "KMB:B83F3546C41A5114",
-      "KMB:CE6B0D24BEBCD3F5",
+      "KMB:13E458C819D90940",
       "KMB:87F2B57F6457C6CA",
       "KMB:EE212E6FD5124813",
       "KMB:DBB6D5D26FF3D909",
@@ -59028,30 +58961,6 @@
       "KMB:DF901EF2F9A46F7B"
     ]
   },
-  "KMB-R78-outbound-1": {
-    "record_id": "KMB-R78-outbound-1",
-    "company": "KMB",
-    "route_id": "R78",
-    "route": "R78",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "FANLING STATION",
-      "tc": "粉嶺站",
-      "sc": "粉岭站"
-    },
-    "destination": {
-      "en": "SAN WAI BARRACKS(CIRCULAR)",
-      "tc": "新圍軍營(循環線)",
-      "sc": "新围军营(循环线)"
-    },
-    "stop_ids": [
-      "KMB:9DBFBF7A3CE5DF0A",
-      "KMB:18FB32A8BE19CB57",
-      "KMB:EF78DD9F765C6565",
-      "KMB:9DBFBF7A3CE5DF0A"
-    ]
-  },
   "KMB-R8-outbound-1": {
     "record_id": "KMB-R8-outbound-1",
     "company": "KMB",
@@ -59772,7 +59681,7 @@
       "KMB:594A765BE3A43C73",
       "KMB:507D90B4B976DBD6",
       "KMB:1F6BFDF34BABCE6A",
-      "KMB:C192BEF2264E0CC6",
+      "KMB:19B569A51034271F",
       "KMB:D09590C6061D9FE7",
       "KMB:1F5BF0C69F30C752",
       "KMB:854E787D0F56BF91",
