@@ -1673,24 +1673,6 @@
       "sc": "黄埔花园"
     }
   },
-  "KMB-12P-outbound-1": {
-    "record_id": "KMB-12P-outbound-1",
-    "company": "KMB",
-    "route_id": "12P",
-    "route": "12P",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hoi Lai Estate",
-      "tc": "海麗邨",
-      "sc": "海丽邨"
-    },
-    "destination": {
-      "en": "Hung Hom Station",
-      "tc": "紅磡站",
-      "sc": "红磡站"
-    }
-  },
   "KMB-13-outbound-1": {
     "record_id": "KMB-13-outbound-1",
     "company": "KMB",
@@ -6137,24 +6119,6 @@
       "sc": "屯门巿中心"
     }
   },
-  "KMB-61A-outbound-1": {
-    "record_id": "KMB-61A-outbound-1",
-    "company": "KMB",
-    "route_id": "61A",
-    "route": "61A",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "TUEN MUN (HOI WING ROAD)",
-      "tc": "屯門(海榮路)",
-      "sc": "屯门(海荣路)"
-    },
-    "destination": {
-      "en": "TUEN MUN ROAD BBI - URBAN BOUND",
-      "tc": "屯門公路轉車站- 市區方向",
-      "sc": "屯门公路转车站- 市区方向"
-    }
-  },
   "KMB-61M-outbound-1": {
     "record_id": "KMB-61M-outbound-1",
     "company": "KMB",
@@ -6495,6 +6459,24 @@
       "en": "TAI PO (TAI WO)",
       "tc": "大埔(太和)",
       "sc": "大埔(太和)"
+    }
+  },
+  "KMB-64K-outbound-3": {
+    "record_id": "KMB-64K-outbound-3",
+    "company": "KMB",
+    "route_id": "64K",
+    "route": "64K",
+    "bound": "outbound",
+    "service_type": "3",
+    "origin": {
+      "en": "KAM SHEUNG ROAD STATION",
+      "tc": "錦上路站",
+      "sc": "锦上路站"
+    },
+    "destination": {
+      "en": "SHEUNG TSUEN",
+      "tc": "上村",
+      "sc": "上村"
     }
   },
   "KMB-64K-inbound-1": {
@@ -8835,6 +8817,24 @@
       "en": "FANLING STATION (CIRCULAR)",
       "tc": "粉嶺站 (循環線) [不經山麗]",
       "sc": "粉岭站 (循环线) [不经山丽]"
+    }
+  },
+  "KMB-78A-outbound-4": {
+    "record_id": "KMB-78A-outbound-4",
+    "company": "KMB",
+    "route_id": "78A",
+    "route": "78A",
+    "bound": "outbound",
+    "service_type": "4",
+    "origin": {
+      "en": "QUEEN'S HILL",
+      "tc": "皇后山",
+      "sc": "皇后山"
+    },
+    "destination": {
+      "en": "FANLING STATION",
+      "tc": "只往粉嶺名都",
+      "sc": "只往粉岭名都"
     }
   },
   "KMB-78A-outbound-5": {
@@ -11841,24 +11841,6 @@
       "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
       "tc": "坑口(北)(將軍澳醫院)",
       "sc": "坑口(北)(将军澳医院)"
-    }
-  },
-  "KMB-98B-outbound-1": {
-    "record_id": "KMB-98B-outbound-1",
-    "company": "KMB",
-    "route_id": "98B",
-    "route": "98B",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
-      "tc": "坑口(北)(將軍澳醫院)",
-      "sc": "坑口(北)(将军澳医院)"
-    },
-    "destination": {
-      "en": "KWUN TONG",
-      "tc": "觀塘",
-      "sc": "观塘"
     }
   },
   "KMB-98C-outbound-1": {
@@ -15425,24 +15407,6 @@
       "sc": "屯门(龙门居)"
     }
   },
-  "KMB-259E-outbound-1": {
-    "record_id": "KMB-259E-outbound-1",
-    "company": "KMB",
-    "route_id": "259E",
-    "route": "259E",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "TUEN MUN (LUNG MUN OASIS)",
-      "tc": "屯門(龍門居)",
-      "sc": "屯门(龙门居)"
-    },
-    "destination": {
-      "en": "TSUEN WAN STATION",
-      "tc": "荃灣站",
-      "sc": "荃湾站"
-    }
-  },
   "KMB-259R-outbound-1": {
     "record_id": "KMB-259R-outbound-1",
     "company": "KMB",
@@ -15983,40 +15947,40 @@
       "sc": "屯门站"
     }
   },
-  "KMB-264R-outbound-1": {
-    "record_id": "KMB-264R-outbound-1",
+  "KMB-264X-outbound-1": {
+    "record_id": "KMB-264X-outbound-1",
     "company": "KMB",
-    "route_id": "264R",
-    "route": "264R",
+    "route_id": "264X",
+    "route": "264X",
     "bound": "outbound",
     "service_type": "1",
     "origin": {
-      "en": "TIN YIU",
-      "tc": "天耀",
-      "sc": "天耀"
-    },
-    "destination": {
       "en": "TAI PO MARKET STATION",
       "tc": "大埔墟站",
       "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "TIN YIU",
+      "tc": "天耀",
+      "sc": "天耀"
     }
   },
-  "KMB-264R-inbound-1": {
-    "record_id": "KMB-264R-inbound-1",
+  "KMB-264X-inbound-1": {
+    "record_id": "KMB-264X-inbound-1",
     "company": "KMB",
-    "route_id": "264R",
-    "route": "264R",
+    "route_id": "264X",
+    "route": "264X",
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "TAI PO MARKET STATION",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    },
-    "destination": {
       "en": "TIN YIU",
       "tc": "天耀",
       "sc": "天耀"
+    },
+    "destination": {
+      "en": "TAI PO MARKET STATION",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
     }
   },
   "KMB-265B-outbound-1": {
@@ -27969,24 +27933,6 @@
       "en": "CAUSEWAY BAY (VICTORIA PARK)",
       "tc": "銅鑼灣(維多利亞公園)",
       "sc": "铜锣湾(维多利亚公园)"
-    }
-  },
-  "KMB-R78-outbound-1": {
-    "record_id": "KMB-R78-outbound-1",
-    "company": "KMB",
-    "route_id": "R78",
-    "route": "R78",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "FANLING STATION",
-      "tc": "粉嶺站",
-      "sc": "粉岭站"
-    },
-    "destination": {
-      "en": "SAN WAI BARRACKS(CIRCULAR)",
-      "tc": "新圍軍營(循環線)",
-      "sc": "新围军营(循环线)"
     }
   },
   "KMB-R8-outbound-1": {

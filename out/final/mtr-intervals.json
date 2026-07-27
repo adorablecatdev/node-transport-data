@@ -1,0 +1,84 @@
+{
+  "MTR-ISL": {
+    "mtrWeekDayType1": "1.9",
+    "mtrWeekDayType2": "2.1",
+    "mtrWeekDayType3": "3.6-5",
+    "mtrWeekDayType4": "2.8-5",
+    "mtrWeekDayType5": "3.6-5"
+  },
+  "MTR-TWL": {
+    "mtrWeekDayType1": "2.1",
+    "mtrWeekDayType2": "2.1",
+    "mtrWeekDayType3": "3.5-5",
+    "mtrWeekDayType4": "2.2-4.2",
+    "mtrWeekDayType5": "3.1-5"
+  },
+  "MTR-KTL": {
+    "mtrWeekDayType1": "2.1",
+    "mtrWeekDayType2": "2.3",
+    "mtrWeekDayType3": "3.5-5",
+    "mtrWeekDayType4": "2.5-5",
+    "mtrWeekDayType5": "3.1-5"
+  },
+  "MTR-TKL": {
+    "mtrWeekDayType1": "2.5 / 4",
+    "mtrWeekDayType2": "2.5 / 4",
+    "mtrWeekDayType3": "4.5-6",
+    "mtrWeekDayType4": "2.5-5",
+    "mtrWeekDayType5": "4.5-6"
+  },
+  "MTR-TKL-TKS": {
+    "mtrWeekDayType3": "9-14",
+    "mtrWeekDayType4": "8.2-10",
+    "mtrWeekDayType5": "9-14"
+  },
+  "MTR-SIL": {
+    "mtrWeekDayType1": "3.3",
+    "mtrWeekDayType2": "3.3",
+    "mtrWeekDayType3": "5-7.5",
+    "mtrWeekDayType4": "3.2-7.5",
+    "mtrWeekDayType5": "4.5-7.5"
+  },
+  "MTR-TCL": {
+    "mtrWeekDayType1": "6-8",
+    "mtrWeekDayType2": "4-9",
+    "mtrWeekDayType3": "7-10",
+    "mtrWeekDayType4": "6.5-10",
+    "mtrWeekDayType5": "6.5-10"
+  },
+  "MTR-DRL": {
+    "mtrWeekDayType1": "5",
+    "mtrWeekDayType2": "5",
+    "mtrWeekDayType3": "10",
+    "mtrWeekDayType4": "5-10",
+    "mtrWeekDayType5": "5-10"
+  },
+  "MTR-TML": {
+    "mtrWeekDayType1": "2.7-3",
+    "mtrWeekDayType2": "3.2-3.5",
+    "mtrWeekDayType3": "6-7",
+    "mtrWeekDayType4": "4.7-7.3",
+    "mtrWeekDayType5": "6-7.3"
+  },
+  "MTR-EAL": {
+    "mtrWeekDayType1": "3-7",
+    "mtrWeekDayType2": "3.2-6.3",
+    "mtrWeekDayType3": "4-10",
+    "mtrWeekDayType4": "4-10",
+    "mtrWeekDayType5": "4-10"
+  },
+  "MTR-EAL-LMC": {
+    "mtrWeekDayType1": "9-14",
+    "mtrWeekDayType2": "6.3-10",
+    "mtrWeekDayType3": "8-14",
+    "mtrWeekDayType4": "8-14",
+    "mtrWeekDayType5": "8-14"
+  },
+  "MTR-AEL": {
+    "mtrWeekDayType1": "10",
+    "mtrWeekDayType2": "10",
+    "mtrWeekDayType3": "10",
+    "mtrWeekDayType4": "10",
+    "mtrWeekDayType5": "10"
+  }
+}

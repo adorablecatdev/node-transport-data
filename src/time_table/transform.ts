@@ -6,7 +6,11 @@ import { Company } from "../types.js";
 // The null form covers peak-only "P" / school "S" / special-day variants — e.g.
 // KMB 297P with departures at 07:55 and 08:10 — which appear in trips.txt but
 // have no rows in frequencies.txt.
-export type Timetable = Record<string, Record<string, Record<string, number | null>>>;
+//
+// MTR/LRT entries (merged in from the MTR interval page) use symbolic keys
+// like "AM-Peak" / "Non-Peak" / "All-Day" and string values like "3.6-5" or
+// "2.5 / 4" — the interval page publishes ranges, not exact clock windows.
+export type Timetable = Record<string, Record<string, Record<string, number | string | null>>>;
 
 // GTFS agency_id → project Company. Agencies not listed here (XB, PI, DB, FERRY,
 // PTRAM, TRAM) have no Company counterpart and are dropped. GMB is resolved
@@ -161,7 +165,11 @@ export function transformTimetable(inputs: {
     // the shortest headway: it's the most passenger-favourable read. A prior null
     // (single scheduled departure at the same window) is overwritten by any real
     // headway number.
-    if (existing === undefined || existing === null || intervalMin < existing) {
+    if (
+      existing === undefined ||
+      existing === null ||
+      (typeof existing === "number" && intervalMin < existing)
+    ) {
       byTime[timeWindow] = intervalMin;
     }
   }
@@ -202,7 +210,7 @@ export function transformTimetable(inputs: {
     for (const wd of Object.keys(byWeekday)) {
       const byTime = byWeekday[wd];
       if (!byTime) continue;
-      const sorted: Record<string, number | null> = {};
+      const sorted: Record<string, number | string | null> = {};
       for (const t of Object.keys(byTime).sort()) {
         const v = byTime[t];
         if (v !== undefined) sorted[t] = v;

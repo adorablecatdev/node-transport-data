@@ -1,6 +1,8 @@
 import { readJsonIfExists, writeJson } from "../lib/io.js";
 import { extractZipEntries, fetchGtfsZip } from "../lib/gtfs.js";
 import { Company } from "../types.js";
+import { fetchMtrIntervals } from "./mtr.js";
+import { writeMtrFirstLastTrain } from "./mtr_service_hours.js";
 import { transformTimetable } from "./transform.js";
 
 const URL =
@@ -50,8 +52,21 @@ export async function run(): Promise<void> {
     gmbRegionByRouteId,
   });
 
+  // MTR/LRT intervals aren't in the GTFS feed's frequencies.txt.
+  // - LRT entries merge into timetable.json (same shape as GTFS-derived rows).
+  // - MTR entries go to a dedicated file with a distinct per-column shape.
+  const { mtr: mtrIntervals, lrt: lrtIntervals } = await fetchMtrIntervals();
+  for (const [key, byWeekday] of Object.entries(lrtIntervals)) timetable[key] = byWeekday;
+
   await writeJson(`${OUT_DIR}/timetable.json`, timetable);
   console.log(
     `[time_table] wrote ${Object.keys(timetable).length} route entries to ${OUT_DIR}/timetable.json`,
   );
+
+  await writeJson(`${OUT_DIR}/mtr-intervals.json`, mtrIntervals);
+  console.log(
+    `[time_table] wrote ${Object.keys(mtrIntervals).length} MTR interval entries to ${OUT_DIR}/mtr-intervals.json`,
+  );
+
+  await writeMtrFirstLastTrain(`${OUT_DIR}/mtr-first-last-train.json`);
 }
