@@ -4,11 +4,15 @@ import { fetchLineStations, type MtrLineStation } from "../companies/mtr/api.js"
 
 const SERVICE_HOURS_URL = "https://www.mtr.com.hk/en/customer/services/service_hours_search.php";
 
-// Per-(station, destination station) first/last train times.
+// Per-(station, route, destination station) first/last train times.
 // Outer key: origin station code (e.g. "ADM").
-// Inner key: destination station code shown in the "To" column (e.g. "HOM").
+// Second key: route/line code (e.g. "TWL", "KTL") — matches routes.json ids.
+// Third key: destination station code shown in the "To" column (e.g. "HOM").
 // Values: HH:MM. Overnight times like "01:10" are preserved verbatim.
-export type FirstLastMap = Record<string, Record<string, { first: string; last: string }>>;
+export type FirstLastMap = Record<
+  string,
+  Record<string, Record<string, { first: string; last: string }>>
+>;
 
 // Line codes actually consumed off the service-hours page. The page has
 // commented-out template leftovers for other lines that stripHtmlComments
@@ -118,17 +122,9 @@ export async function fetchMtrFirstLastTrain(): Promise<FirstLastMap> {
           unresolvedDest++;
           continue;
         }
-        const byDest = (firstLast[stationCode] ||= {});
-        // A (station, dest) pair can appear in multiple line sections (e.g. an
-        // interchange served by more than one line to the same terminus). Widen
-        // the window: earliest first, latest last.
-        const existing = byDest[destCode];
-        if (!existing) {
-          byDest[destCode] = { first: row.first, last: row.last };
-        } else {
-          if (row.first < existing.first) existing.first = row.first;
-          if (row.last > existing.last) existing.last = row.last;
-        }
+        const byRoute = (firstLast[stationCode] ||= {});
+        const byDest = (byRoute[section.lineCode] ||= {});
+        byDest[destCode] = { first: row.first, last: row.last };
       }
     }
   }
