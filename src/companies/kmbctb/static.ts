@@ -2,7 +2,7 @@
 // The KMB record is treated as primary; a matching CTB record must exist
 // (same route number) for a joint entry to be produced.
 export const JOINTLY_OPERATED_ROUTES: ReadonlySet<string> = new Set([
-  "101", "101X", "102", "102P", "103", "104", "106", "106P", "107", "107P",
+  "101", "101X", "102", "102P", "103", "104", "106", "106A", "106P", "107", "107P",
   "109", "110", "111", "111P", "112", "113", "115", "115P", "116", "117",
   "118", "118P", "170", "171", "171A", "171P", "182", "182X",
   "302", "302A", "307", "307A", "307P",
@@ -12,7 +12,8 @@ export const JOINTLY_OPERATED_ROUTES: ReadonlySet<string> = new Set([
   "904", "905", "905A", "905P", "907B", "907C", "914", "914X",
   "948", "948A", "948B", "948E", "948P", "948X",
   "980A", "980X", "981P", "982X",
-  "985", "985A", "985B",
+  "985", "985A", "985B", "N118", "N121", "N122", "N170", "N171",
+  "N182", "N307", "N619", "N680", "N691", "R8", "S1", 
 ]);
 
 // Subset of JOINTLY_OPERATED_ROUTES where CTB's direction convention is
