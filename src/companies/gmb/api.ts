@@ -76,13 +76,12 @@ export type RouteInfosCache = { byRouteCode: Record<string, GmbRouteInfo[]> };
 export async function fetchAllRouteInfos(
   region: GmbRegion,
   routeCodes: string[],
-  options: { cachePath?: string; resume?: boolean } = {},
+  options: { cachePath?: string } = {},
 ): Promise<Map<string, GmbRouteInfo[]>> {
-  const { cachePath, resume } = options;
-  const cached: RouteInfosCache =
-    resume && cachePath
-      ? ((await readJsonIfExists<RouteInfosCache>(cachePath)) ?? { byRouteCode: {} })
-      : { byRouteCode: {} };
+  const { cachePath } = options;
+  const cached: RouteInfosCache = cachePath
+    ? ((await readJsonIfExists<RouteInfosCache>(cachePath)) ?? { byRouteCode: {} })
+    : { byRouteCode: {} };
 
   const out = new Map<string, GmbRouteInfo[]>(Object.entries(cached.byRouteCode));
   const total = routeCodes.length;
@@ -97,7 +96,7 @@ export async function fetchAllRouteInfos(
   };
 
   const tag = `gmb-${region.toLowerCase()}`;
-  if (done > 0) console.log(`[${tag}] resuming route-infos from cache (${done}/${total} done)`);
+  if (done > 0) console.log(`[${tag}] picked up ${done}/${total} route-infos from cache`);
 
   for (const code of routeCodes) {
     if (out.has(code)) continue;
@@ -148,13 +147,12 @@ export type RouteStopTask = {
 export async function fetchAllRouteStops(
   tasks: RouteStopTask[],
   region: GmbRegion,
-  options: { cachePath?: string; resume?: boolean } = {},
+  options: { cachePath?: string } = {},
 ): Promise<RouteStopGroup[]> {
-  const { cachePath, resume } = options;
-  const cached: RouteStopGroup[] =
-    resume && cachePath
-      ? ((await readJsonIfExists<RouteStopsCache>(cachePath))?.groups ?? [])
-      : [];
+  const { cachePath } = options;
+  const cached: RouteStopGroup[] = cachePath
+    ? ((await readJsonIfExists<RouteStopsCache>(cachePath))?.groups ?? [])
+    : [];
   const doneKeys = new Set(cached.map((g) => routeStopKey(g.route_id, g.route_seq)));
   const out: RouteStopGroup[] = [...cached];
 
@@ -164,7 +162,7 @@ export async function fetchAllRouteStops(
 
   const tag = `gmb-${region.toLowerCase()}`;
   if (cached.length > 0) {
-    console.log(`[${tag}] resuming route-stops from cache (${cached.length}/${total} done)`);
+    console.log(`[${tag}] picked up ${cached.length}/${total} route-stops from cache`);
   }
 
   for (const t of tasks) {
@@ -208,13 +206,12 @@ type StopsCache = { stops: Record<string, GmbStop>; missing: string[] };
 export async function fetchStopsById(
   stopIds: number[],
   region: GmbRegion,
-  options: { cachePath?: string; resume?: boolean } = {},
+  options: { cachePath?: string } = {},
 ): Promise<Map<number, GmbStop>> {
-  const { cachePath, resume } = options;
-  const cached: StopsCache =
-    resume && cachePath
-      ? ((await readJsonIfExists<StopsCache>(cachePath)) ?? { stops: {}, missing: [] })
-      : { stops: {}, missing: [] };
+  const { cachePath } = options;
+  const cached: StopsCache = cachePath
+    ? ((await readJsonIfExists<StopsCache>(cachePath)) ?? { stops: {}, missing: [] })
+    : { stops: {}, missing: [] };
 
   const out = new Map<number, GmbStop>();
   for (const [k, v] of Object.entries(cached.stops)) out.set(Number(k), v);
@@ -239,7 +236,7 @@ export async function fetchStopsById(
   };
 
   if (doneIds.size > 0) {
-    console.log(`[${tag}] resuming stops from cache (${doneIds.size}/${total} done)`);
+    console.log(`[${tag}] picked up ${doneIds.size}/${total} stops from cache`);
   }
 
   for (const id of stopIds) {

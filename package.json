@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "tsx src/index.ts",
-    "parse": "tsx src/index.ts --parse-only",
+    "parse": "tsx src/index.ts --parse-output",
     "dev": "tsx watch src/index.ts",
     "typecheck": "tsc --noEmit"
   },

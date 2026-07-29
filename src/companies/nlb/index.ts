@@ -1,4 +1,4 @@
-import { removeIfExists, writeJson } from "../../lib/io.js";
+import { removeDirIfExists, writeJson } from "../../lib/io.js";
 import { fetchAllRouteStops, fetchRoutes } from "./api.js";
 import type { RouteOutput, RouteStopsOutput } from "../../types.js";
 import { transformRouteStops, transformRoutes } from "./transform.js";
@@ -13,14 +13,17 @@ function keyByRecordId<T extends { record_id: string }>(items: T[]): Record<stri
 }
 
 export async function run(
-  options: { resume?: boolean; test?: boolean; keepCache?: boolean } = {},
+  options: { fresh?: boolean; test?: boolean } = {},
 ): Promise<void> {
-  const { resume = false, test = false, keepCache = false } = options;
+  const { fresh = false, test = false } = options;
   const outDir = test ? `${BASE_OUT_DIR}/test` : BASE_OUT_DIR;
   const cacheDir = `${outDir}/.cache`;
   const routeStopsCache = `${cacheDir}/route-stops.json`;
 
-  if (resume) console.log("[nlb] resume flag set — will reuse cached partial fetches");
+  if (fresh) {
+    console.log("[nlb] fresh flag set — wiping cache before fetch");
+    await removeDirIfExists(cacheDir);
+  }
   if (test)
     console.log(
       `[nlb] test flag set — limiting to first ${TEST_ROUTE_LIMIT} routes, writing to ${outDir}/`,
@@ -31,10 +34,7 @@ export async function run(
   const routes = test ? allRoutes.slice(0, TEST_ROUTE_LIMIT) : allRoutes;
 
   console.log(`[nlb] fetching route-stops for ${routes.length} routes`);
-  const routeStopGroups = await fetchAllRouteStops(routes, {
-    cachePath: routeStopsCache,
-    resume,
-  });
+  const routeStopGroups = await fetchAllRouteStops(routes, { cachePath: routeStopsCache });
 
   const routesOut: Record<string, RouteOutput> = keyByRecordId(
     transformRoutes(routes, routeStopGroups),
@@ -45,8 +45,6 @@ export async function run(
 
   await writeJson(`${outDir}/routes.json`, routesOut);
   await writeJson(`${outDir}/route-stops.json`, routeStopsOut);
-
-  if (!keepCache) await removeIfExists(routeStopsCache);
 
   console.log(
     `[nlb] wrote ${Object.keys(routesOut).length} routes and ${Object.keys(routeStopsOut).length} route-stop groups to ${outDir}/`,
