@@ -1,4 +1,4 @@
-import { writeFile, mkdir, readFile, unlink } from "node:fs/promises";
+import { writeFile, mkdir, readFile, unlink, rm } from "node:fs/promises";
 import { dirname } from "node:path";
 
 export async function writeJson(path: string, data: unknown): Promise<void> {
@@ -19,6 +19,14 @@ export async function readJsonIfExists<T>(path: string): Promise<T | null> {
 export async function removeIfExists(path: string): Promise<void> {
   try {
     await unlink(path);
+  } catch (err) {
+    if ((err as NodeJS.ErrnoException).code !== "ENOENT") throw err;
+  }
+}
+
+export async function removeDirIfExists(path: string): Promise<void> {
+  try {
+    await rm(path, { recursive: true, force: true });
   } catch (err) {
     if ((err as NodeJS.ErrnoException).code !== "ENOENT") throw err;
   }

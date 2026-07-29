@@ -10,7 +10,7 @@ import { run as runFare } from "./fare/index.js";
 import { parseAll } from "./parse.js";
 import { run as runTimetable } from "./time_table/index.js";
 
-type RunOptions = { resume?: boolean; test?: boolean; keepCache?: boolean };
+type RunOptions = { fresh?: boolean; test?: boolean };
 
 const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   kmb: () => runKmb(),
@@ -27,21 +27,13 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   fare: () => runFare(),
 };
 
-const KNOWN_FLAGS = new Set([
-  "--resume",
-  "--test",
-  "--parse-only",
-  "--no-parse",
-  "--keep-cache",
-]);
+const KNOWN_FLAGS = new Set(["--fresh", "--test", "--parse-output"]);
 
 async function main(): Promise<void> {
   const args = process.argv.slice(2);
-  const resume = args.includes("--resume");
+  const fresh = args.includes("--fresh");
   const test = args.includes("--test");
-  const parseOnly = args.includes("--parse-only");
-  const noParse = args.includes("--no-parse");
-  const keepCache = args.includes("--keep-cache");
+  const parseOutput = args.includes("--parse-output");
 
   const targets: string[] = [];
   for (const a of args) {
@@ -49,20 +41,25 @@ async function main(): Promise<void> {
     targets.push(a.startsWith("--") ? a.slice(2) : a);
   }
 
-  if (!parseOnly) {
-    const finalTargets = targets.length > 0 ? targets : Object.keys(companies);
+  const hasTargets = targets.length > 0;
+  const finalTargets = hasTargets ? targets : Object.keys(companies);
+
+  // Fetch when: no --parse-output, OR the user named specific targets.
+  // (`--parse-output` alone with no targets means "just aggregate what's on disk".)
+  const shouldFetch = hasTargets || !parseOutput;
+  if (shouldFetch) {
     for (const name of finalTargets) {
       const runner = companies[name];
       if (!runner) {
         throw new Error(`Unknown company: ${name}. Available: ${Object.keys(companies).join(", ")}`);
       }
-      await runner({ resume, test, keepCache });
+      await runner({ fresh, test });
     }
   }
 
-  if (!noParse) {
-    await parseAll();
-  }
+  // parseAll runs when: no targets given (full pipeline), OR --parse-output was requested.
+  const shouldParse = !hasTargets || parseOutput;
+  if (shouldParse) await parseAll();
 }
 
 main().catch((err) => {

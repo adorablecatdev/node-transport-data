@@ -83,11 +83,12 @@ function routeStopKey(route: string, direction: CtbDirection): string {
 
 export async function fetchAllRouteStops(
   routes: CtbRoute[],
-  options: { cachePath?: string; resume?: boolean } = {},
+  options: { cachePath?: string } = {},
 ): Promise<RouteStopGroup[]> {
-  const { cachePath, resume } = options;
-  const cached: RouteStopGroup[] =
-    resume && cachePath ? ((await readJsonIfExists<RouteStopGroup[]>(cachePath)) ?? []) : [];
+  const { cachePath } = options;
+  const cached: RouteStopGroup[] = cachePath
+    ? ((await readJsonIfExists<RouteStopGroup[]>(cachePath)) ?? [])
+    : [];
   const doneKeys = new Set(cached.map((g) => routeStopKey(g.route, g.direction)));
   const out: RouteStopGroup[] = [...cached];
 
@@ -96,7 +97,7 @@ export async function fetchAllRouteStops(
   let sinceSave = 0;
 
   if (cached.length > 0) {
-    console.log(`[ctb] resuming route-stops from cache (${cached.length}/${totalCalls} done)`);
+    console.log(`[ctb] picked up ${cached.length}/${totalCalls} route-stops from cache`);
   }
 
   for (const route of routes) {
@@ -123,13 +124,12 @@ type StopsCache = { stops: Record<string, CtbStop>; missing: string[] };
 
 export async function fetchStopsById(
   stopIds: string[],
-  options: { cachePath?: string; resume?: boolean } = {},
+  options: { cachePath?: string } = {},
 ): Promise<Map<string, CtbStop>> {
-  const { cachePath, resume } = options;
-  const cached: StopsCache =
-    resume && cachePath
-      ? ((await readJsonIfExists<StopsCache>(cachePath)) ?? { stops: {}, missing: [] })
-      : { stops: {}, missing: [] };
+  const { cachePath } = options;
+  const cached: StopsCache = cachePath
+    ? ((await readJsonIfExists<StopsCache>(cachePath)) ?? { stops: {}, missing: [] })
+    : { stops: {}, missing: [] };
 
   const out = new Map<string, CtbStop>(Object.entries(cached.stops));
   const missingSet = new Set(cached.missing);
@@ -148,7 +148,7 @@ export async function fetchStopsById(
   };
 
   if (doneIds.size > 0) {
-    console.log(`[ctb] resuming stops from cache (${doneIds.size}/${total} done)`);
+    console.log(`[ctb] picked up ${doneIds.size}/${total} stops from cache`);
   }
 
   for (const id of stopIds) {

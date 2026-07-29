@@ -50,13 +50,12 @@ type RouteStopsCache = { groups: RouteStopGroup[] };
 
 export async function fetchAllRouteStops(
   routes: NlbRoute[],
-  options: { cachePath?: string; resume?: boolean } = {},
+  options: { cachePath?: string } = {},
 ): Promise<RouteStopGroup[]> {
-  const { cachePath, resume } = options;
-  const cached: RouteStopGroup[] =
-    resume && cachePath
-      ? ((await readJsonIfExists<RouteStopsCache>(cachePath))?.groups ?? [])
-      : [];
+  const { cachePath } = options;
+  const cached: RouteStopGroup[] = cachePath
+    ? ((await readJsonIfExists<RouteStopsCache>(cachePath))?.groups ?? [])
+    : [];
   const doneKeys = new Set(cached.map((g) => g.routeId));
   const out: RouteStopGroup[] = [...cached];
 
@@ -65,7 +64,7 @@ export async function fetchAllRouteStops(
   let sinceSave = 0;
 
   if (cached.length > 0) {
-    console.log(`[nlb] resuming route-stops from cache (${cached.length}/${total} done)`);
+    console.log(`[nlb] picked up ${cached.length}/${total} route-stops from cache`);
   }
 
   for (const route of routes) {
