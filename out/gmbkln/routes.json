@@ -1254,7 +1254,7 @@
       "sc": "旺角站"
     },
     "destination": {
-      "en": "Lok Man Sun Chuen (Maidstaone Road)",
+      "en": "Lok Man Sun Chuen (Maidstone Road)",
       "tc": "樂民新村(美善同道)",
       "sc": "乐民新村(美善同道)"
     }
@@ -1267,7 +1267,7 @@
     "bound": "outbound",
     "service_type": "1",
     "origin": {
-      "en": "Lok Man Sun Chuen (Maidstaone Road)",
+      "en": "Lok Man Sun Chuen (Maidstone Road)",
       "tc": "樂民新村(美善同道)",
       "sc": "乐民新村(美善同道)"
     },
@@ -1285,7 +1285,7 @@
     "bound": "outbound",
     "service_type": "2",
     "origin": {
-      "en": "Lok Man Sun Chuen (Maidstaone Road)",
+      "en": "Lok Man Sun Chuen (Maidstone Road)",
       "tc": "樂民新村(美善同道)",
       "sc": "乐民新村(美善同道)"
     },
@@ -1303,7 +1303,7 @@
     "bound": "outbound",
     "service_type": "3",
     "origin": {
-      "en": "Lok Man Sun Chuen (Maidstaone Road)",
+      "en": "Lok Man Sun Chuen (Maidstone Road)",
       "tc": "樂民新村(美善同道)",
       "sc": "乐民新村(美善同道)"
     },
