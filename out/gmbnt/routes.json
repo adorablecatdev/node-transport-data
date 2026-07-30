@@ -953,6 +953,24 @@
       "sc": "尚德公共交通总站"
     }
   },
+  "GMBNT-117B-outbound-1": {
+    "record_id": "GMBNT-117B-outbound-1",
+    "company": "GMBNT",
+    "route_id": "2011556",
+    "route": "117B",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Anderson (OnYu Road) Public Transport Terminus",
+      "tc": "安達臣(安愉道)公共交通總站",
+      "sc": "安达臣(安愉道) 公共交通总站"
+    },
+    "destination": {
+      "en": "Yau Tong (Circular)",
+      "tc": "油塘(循環線)",
+      "sc": "油塘(循环线)"
+    }
+  },
   "GMBNT-11A-inbound-1": {
     "record_id": "GMBNT-11A-inbound-1",
     "company": "GMBNT",

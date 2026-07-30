@@ -5669,22 +5669,40 @@
       "sc": "筲箕湾"
     }
   },
-  "CTB-77A-outbound-1": {
-    "record_id": "CTB-77A-outbound-1",
+  "CTB-770-inbound-1": {
+    "record_id": "CTB-770-inbound-1",
     "company": "CTB",
-    "route_id": "77A",
-    "route": "77A",
-    "bound": "outbound",
+    "route_id": "770",
+    "route": "770",
+    "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Shau Kei Wan",
-      "tc": "筲箕灣",
-      "sc": "筲箕湾"
+      "en": "Chai Wan (East)",
+      "tc": "柴灣(東)",
+      "sc": "柴湾(东)"
     },
     "destination": {
       "en": "Tin Wan",
       "tc": "田灣",
       "sc": "田湾"
+    }
+  },
+  "CTB-770-outbound-1": {
+    "record_id": "CTB-770-outbound-1",
+    "company": "CTB",
+    "route_id": "770",
+    "route": "770",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tin Wan",
+      "tc": "田灣",
+      "sc": "田湾"
+    },
+    "destination": {
+      "en": "Chai Wan (East)",
+      "tc": "柴灣(東)",
+      "sc": "柴湾(东)"
     }
   },
   "CTB-77X-outbound-1": {

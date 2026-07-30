@@ -1512,7 +1512,7 @@
         "name": {
           "en": "Broadwood Road outside Broadwood Park",
           "tc": "樂活道, 栢樂苑外",
-          "sc": "乐活道, 乐陶苑外"
+          "sc": "乐活道, 柏乐苑外"
         },
         "lat": 22.269135261049374,
         "long": 114.1881195397819
@@ -1534,7 +1534,7 @@
         "name": {
           "en": "Tai Hang Drive opposite Park Garden",
           "tc": "大坑徑, 柏園對面",
-          "sc": "大坑径, 柏园外"
+          "sc": "大坑径, 柏园对面"
         },
         "lat": 22.273596004598257,
         "long": 114.19283546134172
@@ -28987,17 +28987,6 @@
       },
       {
         "seq": 10,
-        "stop_id": "20002391",
-        "name": {
-          "en": "48-50 Aberdeen Main Road, outside Yip Yee Mansion",
-          "tc": "香港仔大道48-50號, 業漁大樓外",
-          "sc": "香港仔大道48-50号, 业渔大楼外"
-        },
-        "lat": 22.247388719500034,
-        "long": 114.15791858401488
-      },
-      {
-        "seq": 11,
         "stop_id": "20002495",
         "name": {
           "en": "Aberdeen Tunnel Toll Plaza",
@@ -29008,7 +28997,7 @@
         "long": 114.17565198948495
       },
       {
-        "seq": 12,
+        "seq": 11,
         "stop_id": "20000048",
         "name": {
           "en": "Tsung Tsin Building, Morrison Hill Road",
@@ -29019,7 +29008,7 @@
         "long": 114.18001810360705
       },
       {
-        "seq": 13,
+        "seq": 12,
         "stop_id": "20000049",
         "name": {
           "en": "32 Morrison Hill Road",
@@ -29030,7 +29019,7 @@
         "long": 114.1801248665824
       },
       {
-        "seq": 14,
+        "seq": 13,
         "stop_id": "20000021",
         "name": {
           "en": "Lockhart Road, East Of Marsh Road",
@@ -29041,7 +29030,7 @@
         "long": 114.18080416182231
       },
       {
-        "seq": 15,
+        "seq": 14,
         "stop_id": "20006944",
         "name": {
           "en": "Lockhart Road, near Cannon Street",
@@ -29162,17 +29151,6 @@
       },
       {
         "seq": 10,
-        "stop_id": "20002391",
-        "name": {
-          "en": "48-50 Aberdeen Main Road, outside Yip Yee Mansion",
-          "tc": "香港仔大道48-50號, 業漁大樓外",
-          "sc": "香港仔大道48-50号, 业渔大楼外"
-        },
-        "lat": 22.247388719500034,
-        "long": 114.15791858401488
-      },
-      {
-        "seq": 11,
         "stop_id": "20002495",
         "name": {
           "en": "Aberdeen Tunnel Toll Plaza",
@@ -29183,7 +29161,7 @@
         "long": 114.17565198948495
       },
       {
-        "seq": 12,
+        "seq": 11,
         "stop_id": "20000048",
         "name": {
           "en": "Tsung Tsin Building, Morrison Hill Road",
@@ -29194,7 +29172,7 @@
         "long": 114.18001810360705
       },
       {
-        "seq": 13,
+        "seq": 12,
         "stop_id": "20000049",
         "name": {
           "en": "32 Morrison Hill Road",
@@ -29205,7 +29183,7 @@
         "long": 114.1801248665824
       },
       {
-        "seq": 14,
+        "seq": 13,
         "stop_id": "20000021",
         "name": {
           "en": "Lockhart Road, East Of Marsh Road",
@@ -29216,7 +29194,7 @@
         "long": 114.18080416182231
       },
       {
-        "seq": 15,
+        "seq": 14,
         "stop_id": "20006944",
         "name": {
           "en": "Lockhart Road, near Cannon Street",

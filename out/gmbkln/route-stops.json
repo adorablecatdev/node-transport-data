@@ -8566,7 +8566,7 @@
         "seq": 11,
         "stop_id": "20000704",
         "name": {
-          "en": "Maidstaone Road, North Of Lok Shan Road",
+          "en": "Maidstone Road, North Of Lok Shan Road",
           "tc": "美善同道, 落山道以北",
           "sc": "美善同道, 落山道以北"
         },
@@ -8587,7 +8587,7 @@
         "seq": 1,
         "stop_id": "20000704",
         "name": {
-          "en": "Maidstaone Road, North Of Lok Shan Road",
+          "en": "Maidstone Road, North Of Lok Shan Road",
           "tc": "美善同道, 落山道以北",
           "sc": "美善同道, 落山道以北"
         },
@@ -8773,7 +8773,7 @@
         "seq": 1,
         "stop_id": "20000704",
         "name": {
-          "en": "Maidstaone Road, North Of Lok Shan Road",
+          "en": "Maidstone Road, North Of Lok Shan Road",
           "tc": "美善同道, 落山道以北",
           "sc": "美善同道, 落山道以北"
         },
@@ -17908,14 +17908,14 @@
       },
       {
         "seq": 2,
-        "stop_id": "20015513",
+        "stop_id": "20023164",
         "name": {
           "en": "Kai Lok Street, outside Kai Yip Estate Kai Lok House",
           "tc": "啓樂街,啓業邨啓樂樓外",
           "sc": "启乐街,启业邨启乐楼外"
         },
-        "lat": 22.32767255426425,
-        "long": 114.20947508141127
+        "lat": 22.327826975335057,
+        "long": 114.20970976352692
       },
       {
         "seq": 3,
@@ -17930,14 +17930,14 @@
       },
       {
         "seq": 4,
-        "stop_id": "20015517",
+        "stop_id": "20015513",
         "name": {
-          "en": "Kai Lok Street, opposite Kai Yip Estate  Kai Lok House Cooked Food Centre",
+          "en": "Kai Lok Street, opposite Kai Yip Estate Kai Lok House Cooked Food Centre",
           "tc": "啓樂街,啓業邨啓樂樓熟食中心對面",
           "sc": "启乐街,启业邨启乐楼熟食中心对面"
         },
-        "lat": 22.32772831444921,
-        "long": 114.20853728397474
+        "lat": 22.32767255426425,
+        "long": 114.20947508141127
       },
       {
         "seq": 5,
@@ -22783,31 +22783,31 @@
         "seq": 12,
         "stop_id": "20017053",
         "name": {
-          "en": "Yu Chau Street, opposite Wing Tai Building",
-          "tc": "汝州街, 永泰樓對面",
-          "sc": "汝州街, 永泰楼对面"
+          "en": "Portland Street near Yu Chau Street",
+          "tc": "砵蘭街, 近汝州街",
+          "sc": "砵兰街, 近汝州街"
         },
         "lat": 22.325447029916983,
         "long": 114.16744367727745
       },
       {
         "seq": 13,
-        "stop_id": "20017054",
+        "stop_id": "20023100",
         "name": {
           "en": "Boundary Street, outside Hang Shun Building",
           "tc": "界限街, 恆順大樓外",
           "sc": "界限街, 恒顺大楼外"
         },
-        "lat": 22.3265170934189,
-        "long": 114.1668061171636
+        "lat": 22.326521904715122,
+        "long": 114.16698217391969
       },
       {
         "seq": 14,
         "stop_id": "20015159",
         "name": {
-          "en": "Boundary Street, opposite Newton Hotel Kowloon",
-          "tc": "界限街, 九龍麗東酒店對面",
-          "sc": "界限街, 九龙丽东酒店对面"
+          "en": "Boundary Street, opposite High Park Grand",
+          "tc": "界限街, 曉珀‧御對面",
+          "sc": "界限街, 晓珀‧御对面"
         },
         "lat": 22.326723213576578,
         "long": 114.16979490247269
@@ -22847,14 +22847,14 @@
       },
       {
         "seq": 18,
-        "stop_id": "20017062",
+        "stop_id": "20023101",
         "name": {
           "en": "Boundary Street, outside Block 6, Beverly Villas",
           "tc": "界限街, 碧華花園第6座外",
           "sc": "界限街, 碧华花园第6座外"
         },
-        "lat": 22.327181256447307,
-        "long": 114.18205550497007
+        "lat": 22.327147149197085,
+        "long": 114.18156802654268
       },
       {
         "seq": 19,
@@ -22904,9 +22904,9 @@
         "seq": 23,
         "stop_id": "20012384",
         "name": {
-          "en": "Choi Hung Road, opposite Po Hing Mansion",
-          "tc": "彩虹道, 寶興大廈對面",
-          "sc": "彩虹道, 宝兴大厦对面"
+          "en": "Choi Hung Road outside Wong Chung Ming Secondary School",
+          "tc": "彩虹道, 樂善堂王仲銘中學外",
+          "sc": "彩虹道, 乐善堂王仲铭中学外"
         },
         "lat": 22.33449976443085,
         "long": 114.19420525431633
@@ -23055,14 +23055,14 @@
       },
       {
         "seq": 9,
-        "stop_id": "20017031",
+        "stop_id": "20023098",
         "name": {
           "en": "Prince Edward Road West, near Forfar Road",
           "tc": "太子道西, 近科發道",
           "sc": "太子道西, 近科发道"
         },
-        "lat": 22.3270719955296,
-        "long": 114.18645237375497
+        "lat": 22.326988357213132,
+        "long": 114.18607950210573
       },
       {
         "seq": 10,
@@ -23121,14 +23121,14 @@
       },
       {
         "seq": 15,
-        "stop_id": "20017034",
+        "stop_id": "20023099",
         "name": {
-          "en": "Prince Edward Road West, outside Metropark Hotel",
-          "tc": "太子道西, 維景酒店外",
-          "sc": "太子道西, 维景酒店外"
+          "en": "No. 135 Prince Edward Road West",
+          "tc": "太子道西135號",
+          "sc": "太子道西135号"
         },
-        "lat": 22.323709660425738,
-        "long": 114.16726845203422
+        "lat": 22.323741765858642,
+        "long": 114.16758432984354
       },
       {
         "seq": 16,
@@ -23156,7 +23156,7 @@
         "seq": 18,
         "stop_id": "20017036",
         "name": {
-          "en": "Tai Kok Tsui Road, opposite Tai Kung Building, Tai Tung Sun Tseun",
+          "en": "Tai Kok Tsui Road, opposite Tai Kung Building, Tai Tung Sun Tsuen",
           "tc": "大角咀道, 大同新邨大公樓對面",
           "sc": "大角咀道, 大同新邨大公楼对面"
         },
@@ -23320,9 +23320,9 @@
         "seq": 8,
         "stop_id": "20017053",
         "name": {
-          "en": "Yu Chau Street, opposite Wing Tai Building",
-          "tc": "汝州街, 永泰樓對面",
-          "sc": "汝州街, 永泰楼对面"
+          "en": "Portland Street near Yu Chau Street",
+          "tc": "砵蘭街, 近汝州街",
+          "sc": "砵兰街, 近汝州街"
         },
         "lat": 22.325447029916983,
         "long": 114.16744367727745
@@ -23384,14 +23384,14 @@
       },
       {
         "seq": 14,
-        "stop_id": "20017062",
+        "stop_id": "20023101",
         "name": {
           "en": "Boundary Street, outside Block 6, Beverly Villas",
           "tc": "界限街, 碧華花園第6座外",
           "sc": "界限街, 碧华花园第6座外"
         },
-        "lat": 22.327181256447307,
-        "long": 114.18205550497007
+        "lat": 22.327147149197085,
+        "long": 114.18156802654268
       },
       {
         "seq": 15,
@@ -23441,9 +23441,9 @@
         "seq": 19,
         "stop_id": "20012384",
         "name": {
-          "en": "Choi Hung Road, Lok Sin Tong Wong Chung Ming Secondary School",
-          "tc": "彩虹道, 樂善堂黃仲銘中學外",
-          "sc": "彩虹道, 乐善堂黄仲铭中学外"
+          "en": "Choi Hung Road outside Wong Chung Ming Secondary School",
+          "tc": "彩虹道, 樂善堂王仲銘中學外",
+          "sc": "彩虹道, 乐善堂王仲铭中学外"
         },
         "lat": 22.33449976443085,
         "long": 114.19420525431633
@@ -23592,14 +23592,14 @@
       },
       {
         "seq": 9,
-        "stop_id": "20017031",
+        "stop_id": "20023098",
         "name": {
           "en": "Prince Edward Road West, near Forfar Road",
           "tc": "太子道西, 近科發道",
           "sc": "太子道西, 近科发道"
         },
-        "lat": 22.3270719955296,
-        "long": 114.18645237375497
+        "lat": 22.326988357213132,
+        "long": 114.18607950210573
       },
       {
         "seq": 10,
@@ -23658,14 +23658,14 @@
       },
       {
         "seq": 15,
-        "stop_id": "20017034",
+        "stop_id": "20023099",
         "name": {
-          "en": "Prince Edward Road West, outside Metropark Hotel",
-          "tc": "太子道西, 維景酒店外",
-          "sc": "太子道西, 维景酒店外"
+          "en": "No. 135 Prince Edward Road West",
+          "tc": "太子道西135號",
+          "sc": "太子道西135号"
         },
-        "lat": 22.323709660425738,
-        "long": 114.16726845203422
+        "lat": 22.323741765858642,
+        "long": 114.16758432984354
       },
       {
         "seq": 16,
@@ -23693,7 +23693,7 @@
         "seq": 18,
         "stop_id": "20017036",
         "name": {
-          "en": "Tai Kok Tsui Road, opposite Tai Kung Building, Tai Tung Sun Tseun",
+          "en": "Tai Kok Tsui Road, opposite Tai Kung Building, Tai Tung Sun Tsuen",
           "tc": "大角咀道, 大同新邨大公樓對面",
           "sc": "大角咀道, 大同新邨大公楼对面"
         },
@@ -25474,6 +25474,17 @@
       },
       {
         "seq": 9,
+        "stop_id": "20023065",
+        "name": {
+          "en": "Hing Wah Street near Un Chau Street",
+          "tc": "興華街近元州街",
+          "sc": "兴华街近元州街"
+        },
+        "lat": 22.33908084194015,
+        "long": 114.15488541126251
+      },
+      {
+        "seq": 10,
         "stop_id": "20002163",
         "name": {
           "en": "No. 588 Castle Peak Road",
@@ -25484,7 +25495,7 @@
         "long": 114.14986858922819
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "20022710",
         "name": {
           "en": "Castle Peak Road opposite to Lai Sun Commercial Centre",
@@ -25495,7 +25506,7 @@
         "long": 114.15137976408006
       },
       {
-        "seq": 11,
+        "seq": 12,
         "stop_id": "20002164",
         "name": {
           "en": "Castle Peak Road near Tsap Fai Street",
@@ -25506,7 +25517,7 @@
         "long": 114.15322713032823
       },
       {
-        "seq": 12,
+        "seq": 13,
         "stop_id": "20003138",
         "name": {
           "en": "Castle Peak Road near Cheung Wah Street",
@@ -25517,7 +25528,7 @@
         "long": 114.15475125386608
       },
       {
-        "seq": 13,
+        "seq": 14,
         "stop_id": "20022711",
         "name": {
           "en": "Castle Peak Road near Cheung Fat Street",
@@ -25528,7 +25539,7 @@
         "long": 114.15595024824144
       },
       {
-        "seq": 14,
+        "seq": 15,
         "stop_id": "20003101",
         "name": {
           "en": "Castle Peak Road near Wing Lung Street",
@@ -25539,7 +25550,7 @@
         "long": 114.15839189550918
       },
       {
-        "seq": 15,
+        "seq": 16,
         "stop_id": "20004013",
         "name": {
           "en": "Tonkin Street near Un Chau Street",
@@ -25550,7 +25561,7 @@
         "long": 114.15879971084136
       },
       {
-        "seq": 16,
+        "seq": 17,
         "stop_id": "20004143",
         "name": {
           "en": "Tonkin Street near Cheung Sha Wan MTR Station Exit A1",
@@ -25561,7 +25572,7 @@
         "long": 114.15716916181962
       },
       {
-        "seq": 17,
+        "seq": 18,
         "stop_id": "20003154",
         "name": {
           "en": "No. 81 Kweilin Street",
@@ -25572,7 +25583,7 @@
         "long": 114.16016922121264
       },
       {
-        "seq": 18,
+        "seq": 19,
         "stop_id": "20020065",
         "name": {
           "en": "No. 8 Yen Chow Street",
@@ -25583,7 +25594,7 @@
         "long": 114.15816709399226
       },
       {
-        "seq": 19,
+        "seq": 20,
         "stop_id": "20022712",
         "name": {
           "en": "Sai Chuen Road near Nam Cheong Place",
@@ -25594,7 +25605,7 @@
         "long": 114.15596231818202
       },
       {
-        "seq": 20,
+        "seq": 21,
         "stop_id": "20003008",
         "name": {
           "en": "Sai Chuen Road, outside Fu Wong House, Fu Cheong Estate",
@@ -29494,14 +29505,14 @@
       },
       {
         "seq": 8,
-        "stop_id": "20001115",
+        "stop_id": "20023198",
         "name": {
           "en": "Telford Plaza Transport Interchange",
           "tc": "德福廣場公共運輸交匯處",
           "sc": "德福广场公共运输交汇处"
         },
-        "lat": 22.32174396055862,
-        "long": 114.21325293919243
+        "lat": 22.32227785968208,
+        "long": 114.213142991066
       },
       {
         "seq": 9,
@@ -33991,6 +34002,17 @@
       },
       {
         "seq": 15,
+        "stop_id": "20016602",
+        "name": {
+          "en": "Hip Wo Street, Near Wah Fung Gardens",
+          "tc": "協和街, 近華峰園",
+          "sc": "协和街, 近华峰园"
+        },
+        "lat": 22.32067622948505,
+        "long": 114.22669619321825
+      },
+      {
+        "seq": 16,
         "stop_id": "20015155",
         "name": {
           "en": "Hip Wo Street, near Hipway Towers Block A",
@@ -34001,7 +34023,7 @@
         "long": 114.22640383243562
       },
       {
-        "seq": 16,
+        "seq": 17,
         "stop_id": "20002553",
         "name": {
           "en": "Hong Ning Road, outside Ko Lui Secondary School",
@@ -34012,7 +34034,7 @@
         "long": 114.22565015684201
       },
       {
-        "seq": 17,
+        "seq": 18,
         "stop_id": "20007331",
         "name": {
           "en": "Hong Ning Road, outside Sau Mau Ping Disciplined Services Quarters",
@@ -34023,7 +34045,7 @@
         "long": 114.2244342613185
       },
       {
-        "seq": 18,
+        "seq": 19,
         "stop_id": "20015285",
         "name": {
           "en": "Chun Wah Road, Lok Wah Estate Community Centre",
@@ -34034,7 +34056,7 @@
         "long": 114.22279357910156
       },
       {
-        "seq": 19,
+        "seq": 20,
         "stop_id": "20015286",
         "name": {
           "en": "Chun Wah Road, near Po Wah House",
@@ -34045,7 +34067,7 @@
         "long": 114.22083824872972
       },
       {
-        "seq": 20,
+        "seq": 21,
         "stop_id": "20015287",
         "name": {
           "en": "Chun Wah Road, near On Kay Commercial Centre, On Kay Court",
@@ -34056,7 +34078,7 @@
         "long": 114.21704828739168
       },
       {
-        "seq": 21,
+        "seq": 22,
         "stop_id": "20021319",
         "name": {
           "en": "Ngau Tau Kok Road, opposite Amoy Gardens Block I",
@@ -34067,7 +34089,7 @@
         "long": 114.2154335975647
       },
       {
-        "seq": 22,
+        "seq": 23,
         "stop_id": "20015245",
         "name": {
           "en": "Prince Edward Road East, near Urban Oasis",
@@ -34078,7 +34100,7 @@
         "long": 114.20683443546297
       },
       {
-        "seq": 23,
+        "seq": 24,
         "stop_id": "20015607",
         "name": {
           "en": "Prince Edward Road East, opposite Rhythm Garden",
@@ -34089,7 +34111,7 @@
         "long": 114.20236439726867
       },
       {
-        "seq": 24,
+        "seq": 25,
         "stop_id": "20015017",
         "name": {
           "en": "Prince Edward Road East, near San Po Kong Interchange Rest Garden",
@@ -34100,7 +34122,7 @@
         "long": 114.1972589492798
       },
       {
-        "seq": 25,
+        "seq": 26,
         "stop_id": "20017184",
         "name": {
           "en": "Ma Tau Chung Road, Near Mok Cheong Street",
@@ -34111,7 +34133,7 @@
         "long": 114.18835401535036
       },
       {
-        "seq": 26,
+        "seq": 27,
         "stop_id": "20017187",
         "name": {
           "en": "Ma Tau Wai Road, Near To Kwa Wan Market And Government Offices",
@@ -34122,7 +34144,7 @@
         "long": 114.18774515390399
       },
       {
-        "seq": 27,
+        "seq": 28,
         "stop_id": "20003011",
         "name": {
           "en": "Pak Hoi Street",
@@ -34298,6 +34320,17 @@
       },
       {
         "seq": 15,
+        "stop_id": "20016602",
+        "name": {
+          "en": "Hip Wo Street, Near Wah Fung Gardens",
+          "tc": "協和街, 近華峰園",
+          "sc": "协和街, 近华峰园"
+        },
+        "lat": 22.32067622948505,
+        "long": 114.22669619321825
+      },
+      {
+        "seq": 16,
         "stop_id": "20015155",
         "name": {
           "en": "Hip Wo Street, near Hipway Towers Block A",
@@ -34308,7 +34341,7 @@
         "long": 114.22640383243562
       },
       {
-        "seq": 16,
+        "seq": 17,
         "stop_id": "20002553",
         "name": {
           "en": "Hong Ning Road, outside Ko Lui Secondary School",
@@ -34319,7 +34352,7 @@
         "long": 114.22565015684201
       },
       {
-        "seq": 17,
+        "seq": 18,
         "stop_id": "20007331",
         "name": {
           "en": "Hong Ning Road, outside Sau Mau Ping Disciplined Services Quarters",
@@ -34330,7 +34363,7 @@
         "long": 114.2244342613185
       },
       {
-        "seq": 18,
+        "seq": 19,
         "stop_id": "20015285",
         "name": {
           "en": "Chun Wah Road, Lok Wah Estate Community Centre",
@@ -34341,7 +34374,7 @@
         "long": 114.22279357910156
       },
       {
-        "seq": 19,
+        "seq": 20,
         "stop_id": "20015286",
         "name": {
           "en": "Chun Wah Road, near Po Wah House",
@@ -34352,7 +34385,7 @@
         "long": 114.22083824872972
       },
       {
-        "seq": 20,
+        "seq": 21,
         "stop_id": "20015287",
         "name": {
           "en": "Chun Wah Road, near On Kay Commercial Centre, On Kay Court",
@@ -34363,7 +34396,7 @@
         "long": 114.21704828739168
       },
       {
-        "seq": 21,
+        "seq": 22,
         "stop_id": "20021319",
         "name": {
           "en": "Ngau Tau Kok Road, opposite Amoy Gardens Block I",
@@ -34374,7 +34407,7 @@
         "long": 114.2154335975647
       },
       {
-        "seq": 22,
+        "seq": 23,
         "stop_id": "20015245",
         "name": {
           "en": "Prince Edward Road East, near Urban Oasis",
@@ -34385,7 +34418,7 @@
         "long": 114.20683443546297
       },
       {
-        "seq": 23,
+        "seq": 24,
         "stop_id": "20015607",
         "name": {
           "en": "Prince Edward Road East, opposite Rhythm Garden",
@@ -34396,7 +34429,7 @@
         "long": 114.20236439726867
       },
       {
-        "seq": 24,
+        "seq": 25,
         "stop_id": "20015017",
         "name": {
           "en": "Prince Edward Road East, near San Po Kong Interchange Rest Garden",
@@ -34407,7 +34440,7 @@
         "long": 114.1972589492798
       },
       {
-        "seq": 25,
+        "seq": 26,
         "stop_id": "20017184",
         "name": {
           "en": "Ma Tau Chung Road, Near Mok Cheong Street",
@@ -34418,7 +34451,7 @@
         "long": 114.18835401535036
       },
       {
-        "seq": 26,
+        "seq": 27,
         "stop_id": "20017187",
         "name": {
           "en": "Ma Tau Wai Road, Near To Kwa Wan Market And Government Offices",
@@ -34429,7 +34462,7 @@
         "long": 114.18774515390399
       },
       {
-        "seq": 27,
+        "seq": 28,
         "stop_id": "20003011",
         "name": {
           "en": "Pak Hoi Street",
@@ -34440,7 +34473,7 @@
         "long": 114.17188589964381
       },
       {
-        "seq": 28,
+        "seq": 29,
         "stop_id": "20021321",
         "name": {
           "en": "Nanking Street",
@@ -34770,6 +34803,17 @@
       },
       {
         "seq": 29,
+        "stop_id": "20016602",
+        "name": {
+          "en": "Hip Wo Street, Near Wah Fung Gardens",
+          "tc": "協和街, 近華峰園",
+          "sc": "协和街, 近华峰园"
+        },
+        "lat": 22.32067622948505,
+        "long": 114.22669619321825
+      },
+      {
+        "seq": 30,
         "stop_id": "20015155",
         "name": {
           "en": "Hip Wo Street, near Hipway Towers Block A",
@@ -34780,7 +34824,7 @@
         "long": 114.22640383243562
       },
       {
-        "seq": 30,
+        "seq": 31,
         "stop_id": "20002553",
         "name": {
           "en": "Hong Ning Road, outside Ko Lui Secondary School",
@@ -34791,7 +34835,7 @@
         "long": 114.22565015684201
       },
       {
-        "seq": 31,
+        "seq": 32,
         "stop_id": "20007331",
         "name": {
           "en": "Hong Ning Road, outside Sau Mau Ping Disciplined Services Quarters",
@@ -34802,7 +34846,7 @@
         "long": 114.2244342613185
       },
       {
-        "seq": 32,
+        "seq": 33,
         "stop_id": "20015285",
         "name": {
           "en": "Chun Wah Road, Lok Wah Estate Community Centre",
@@ -34813,7 +34857,7 @@
         "long": 114.22279357910156
       },
       {
-        "seq": 33,
+        "seq": 34,
         "stop_id": "20015286",
         "name": {
           "en": "Chun Wah Road, near Po Wah House",
@@ -34824,7 +34868,7 @@
         "long": 114.22083824872972
       },
       {
-        "seq": 34,
+        "seq": 35,
         "stop_id": "20015287",
         "name": {
           "en": "Chun Wah Road, near On Kay Commercial Centre, On Kay Court",
@@ -34835,7 +34879,7 @@
         "long": 114.21704828739168
       },
       {
-        "seq": 35,
+        "seq": 36,
         "stop_id": "20002192",
         "name": {
           "en": "Ngau Tau Kok Road, opposite Amoy Gardens Block I",
@@ -34846,7 +34890,7 @@
         "long": 114.21574804041737
       },
       {
-        "seq": 36,
+        "seq": 37,
         "stop_id": "20015245",
         "name": {
           "en": "Prince Edward Road East, near Urban Oasis",
@@ -34857,7 +34901,7 @@
         "long": 114.20683443546297
       },
       {
-        "seq": 37,
+        "seq": 38,
         "stop_id": "20015607",
         "name": {
           "en": "Prince Edward Road East, opposite Rhythm Garden",
@@ -34868,7 +34912,7 @@
         "long": 114.20236439726867
       },
       {
-        "seq": 38,
+        "seq": 39,
         "stop_id": "20015017",
         "name": {
           "en": "Prince Edward Road East, near San Po Kong Interchange Rest Garden",
@@ -34879,7 +34923,7 @@
         "long": 114.1972589492798
       },
       {
-        "seq": 39,
+        "seq": 40,
         "stop_id": "20017184",
         "name": {
           "en": "Ma Tau Chung Road, Near Mok Cheong Street",
@@ -34890,7 +34934,7 @@
         "long": 114.18835401535036
       },
       {
-        "seq": 40,
+        "seq": 41,
         "stop_id": "20017187",
         "name": {
           "en": "Ma Tau Wai Road, Near To Kwa Wan Market And Government Offices",
@@ -34901,7 +34945,7 @@
         "long": 114.18774515390399
       },
       {
-        "seq": 41,
+        "seq": 42,
         "stop_id": "20003011",
         "name": {
           "en": "Pak Hoi Street",
