@@ -25,14 +25,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯門碼頭"
-    },
-    "destination": {
       "en": "Siu Lun",
       "tc": "兆麟",
       "sc": "兆麟"
+    },
+    "destination": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
     }
   },
   "MTRB-506-outbound-1": {
@@ -61,14 +61,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tai Po Market Station",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    },
-    "destination": {
       "en": "Eightland Garden",
       "tc": "八號花園",
       "sc": "八號花園"
+    },
+    "destination": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
     }
   },
   "MTRB-K12-outbound-1": {
@@ -115,14 +115,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tai Po Market Station",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    },
-    "destination": {
       "en": "Fu Shin",
       "tc": "富善",
       "sc": "富善"
+    },
+    "destination": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
     }
   },
   "MTRB-K17-outbound-1": {
@@ -151,14 +151,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tai Po Market Station",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    },
-    "destination": {
       "en": "Kwong Fuk",
       "tc": "廣福",
       "sc": "廣福"
+    },
+    "destination": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
     }
   },
   "MTRB-K18-outbound-1": {
@@ -223,14 +223,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
-    },
-    "destination": {
       "en": "Tai Lam",
       "tc": "大欖",
       "sc": "大欖"
+    },
+    "destination": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
     }
   },
   "MTRB-K51-outbound-1": {
@@ -259,14 +259,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
-    },
-    "destination": {
       "en": "So Kwun Wat",
       "tc": "掃管笏",
       "sc": "掃管笏"
+    },
+    "destination": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
     }
   },
   "MTRB-K51A-outbound-1": {
@@ -313,14 +313,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yuet Wu Villa",
-      "tc": "悅湖山莊",
-      "sc": "悅湖山莊"
-    },
-    "destination": {
       "en": "Lung Kwu Tan",
       "tc": "龍鼓灘",
       "sc": "龍鼓灘"
+    },
+    "destination": {
+      "en": "Yuet Wu Villa",
+      "tc": "悅湖山莊",
+      "sc": "悅湖山莊"
     }
   },
   "MTRB-K52-outbound-1": {
@@ -349,14 +349,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tuen Mun Station",
-      "tc": "屯門站",
-      "sc": "屯門站"
-    },
-    "destination": {
       "en": "Tsang Tsui",
       "tc": "曾咀",
       "sc": "曾咀"
+    },
+    "destination": {
+      "en": "Tuen Mun Station",
+      "tc": "屯門站",
+      "sc": "屯門站"
     }
   },
   "MTRB-K52A-outbound-1": {
@@ -457,14 +457,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wo Tin Estate",
-      "tc": "和田邨",
-      "sc": "和田邨"
-    },
-    "destination": {
       "en": "Siu Hong Station",
       "tc": "兆康站",
       "sc": "兆康站"
+    },
+    "destination": {
+      "en": "Wo Tin Estate",
+      "tc": "和田邨",
+      "sc": "和田邨"
     }
   },
   "MTRB-K54A-outbound-1": {
@@ -493,14 +493,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
-    },
-    "destination": {
       "en": "So Kwun Wat",
       "tc": "掃管笏",
       "sc": "掃管笏"
+    },
+    "destination": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
     }
   },
   "MTRB-K58-outbound-1": {
@@ -529,14 +529,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Yuen Long Station",
-      "tc": "元朗站",
-      "sc": "元朗站"
-    },
-    "destination": {
       "en": "Lau Fau Shan",
       "tc": "流浮山",
       "sc": "流浮山"
+    },
+    "destination": {
+      "en": "Yuen Long Station",
+      "tc": "元朗站",
+      "sc": "元朗站"
     }
   },
   "MTRB-K65-outbound-1": {
@@ -565,14 +565,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Shui Wai Station",
-      "tc": "天水圍站",
-      "sc": "天水圍站"
-    },
-    "destination": {
       "en": "Lau Fau Shan",
       "tc": "流浮山",
       "sc": "流浮山"
+    },
+    "destination": {
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
     }
   },
   "MTRB-K65A-outbound-1": {
@@ -655,14 +655,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Long Ping",
-      "tc": "朗屏",
-      "sc": "朗屏"
-    },
-    "destination": {
       "en": "Tai Tong Wong Nai Tun Tsuen",
       "tc": "大棠黃泥墩村",
       "sc": "大棠黃泥墩村"
+    },
+    "destination": {
+      "en": "Long Ping",
+      "tc": "朗屏",
+      "sc": "朗屏"
     }
   },
   "MTRB-K66-outbound-1": {
@@ -817,14 +817,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Heng",
-      "tc": "天恆",
-      "sc": "天恆"
-    },
-    "destination": {
       "en": "Yuen Long West",
       "tc": "元朗西",
       "sc": "元朗西"
+    },
+    "destination": {
+      "en": "Tin Heng",
+      "tc": "天恆",
+      "sc": "天恆"
     }
   },
   "MTRB-K73-outbound-1": {
@@ -961,14 +961,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tin Heng",
-      "tc": "天恆",
-      "sc": "天恆"
-    },
-    "destination": {
       "en": "Tin Shui Wai Station",
       "tc": "天水圍站",
       "sc": "天水圍站"
+    },
+    "destination": {
+      "en": "Tin Heng",
+      "tc": "天恆",
+      "sc": "天恆"
     }
   },
   "MTRB-K76-outbound-1": {
@@ -997,14 +997,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Wetland Park Road (near Tin Kwai Road)",
-      "tc": "濕地公園路(近天葵路)",
-      "sc": "濕地公園路(近天葵路)"
-    },
-    "destination": {
       "en": "Tin Shing Court /MTR Tin Shui Wai Station",
       "tc": "天盛苑/港鐵天水圍站",
       "sc": "天盛苑/港鐵天水圍站"
+    },
+    "destination": {
+      "en": "Wetland Park Road (near Tin Kwai Road)",
+      "tc": "濕地公園路(近天葵路)",
+      "sc": "濕地公園路(近天葵路)"
     }
   },
   "MTRB-K76S-outbound-1": {

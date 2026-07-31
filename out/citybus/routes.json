@@ -6271,14 +6271,14 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Tsim Sha Tsui East",
-      "tc": "尖沙咀東",
-      "sc": "尖沙咀东"
+      "en": "Hung Hom and To Kwa Wan",
+      "tc": "紅磡及土瓜灣",
+      "sc": "红磡及土瓜湾"
     },
     "destination": {
-      "en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
-      "tc": "將軍澳工業邨／將軍澳站",
-      "sc": "将军澳工业邨／将军澳站"
+      "en": "LOHAS Park",
+      "tc": "日出康城",
+      "sc": "日出康城"
     }
   },
   "CTB-796X-outbound-1": {
@@ -6289,14 +6289,14 @@
     "bound": "outbound",
     "service_type": "1",
     "origin": {
-      "en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
-      "tc": "將軍澳工業邨／將軍澳站",
-      "sc": "将军澳工业邨／将军澳站"
+      "en": "LOHAS Park",
+      "tc": "日出康城",
+      "sc": "日出康城"
     },
     "destination": {
-      "en": "Tsim Sha Tsui East",
-      "tc": "尖沙咀東",
-      "sc": "尖沙咀东"
+      "en": "Hung Hom and To Kwa Wan",
+      "tc": "紅磡及土瓜灣",
+      "sc": "红磡及土瓜湾"
     }
   },
   "CTB-797-inbound-1": {
@@ -6307,9 +6307,9 @@
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "San Po Kong",
-      "tc": "新蒲崗",
-      "sc": "新蒲岗"
+      "en": "Kai Tak",
+      "tc": "啟德",
+      "sc": "启德"
     },
     "destination": {
       "en": "LOHAS Park / Tseung Kwan O Industrial Estate",
@@ -6330,9 +6330,9 @@
       "sc": "日出康城／将军澳工业邨"
     },
     "destination": {
-      "en": "San Po Kong",
-      "tc": "新蒲崗",
-      "sc": "新蒲岗"
+      "en": "Kai Tak",
+      "tc": "啟德",
+      "sc": "启德"
     }
   },
   "CTB-798-inbound-1": {

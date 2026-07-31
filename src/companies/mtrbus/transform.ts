@@ -87,6 +87,7 @@ export function transformRoutes(routes: MtrbRoute[], stops: MtrbStop[]): RouteOu
 
     for (const d of dirs) {
       const bound = dirToBound(d);
+      const isInbound = bound === Bound.Inbound;
       out.push({
         record_id: compositeId(Company.MTRB, r.REFERENCE_ID, bound, SERVICE_TYPE),
         company: Company.MTRB,
@@ -94,8 +95,8 @@ export function transformRoutes(routes: MtrbRoute[], stops: MtrbStop[]): RouteOu
         route: r.ROUTE_ID,
         bound,
         service_type: SERVICE_TYPE,
-        origin,
-        destination,
+        origin: isInbound ? destination : origin,
+        destination: isInbound ? origin : destination,
       });
     }
   }
