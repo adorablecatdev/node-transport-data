@@ -1,11 +1,11 @@
 {
-  "MTRB-506-1-outbound-1": {
-    "record_id": "MTRB-506-1-outbound-1",
+  "MTRB-506_GG_TMS-outbound-2": {
+    "record_id": "MTRB-506_GG_TMS-outbound-2",
     "company": "MTRB",
-    "route_id": "506-1",
+    "route_id": "506_GG_TMS",
     "route": "506",
     "bound": "outbound",
-    "service_type": "1",
+    "service_type": "2",
     "origin": {
       "en": "Glorious Garden",
       "tc": "富健花園",
@@ -17,28 +17,10 @@
       "sc": "屯門站"
     }
   },
-  "MTRB-506-inbound-1": {
-    "record_id": "MTRB-506-inbound-1",
+  "MTRB-506_SL-outbound-1": {
+    "record_id": "MTRB-506_SL-outbound-1",
     "company": "MTRB",
-    "route_id": "506",
-    "route": "506",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Siu Lun",
-      "tc": "兆麟",
-      "sc": "兆麟"
-    },
-    "destination": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯門碼頭"
-    }
-  },
-  "MTRB-506-outbound-1": {
-    "record_id": "MTRB-506-outbound-1",
-    "company": "MTRB",
-    "route_id": "506",
+    "route_id": "506_SL",
     "route": "506",
     "bound": "outbound",
     "service_type": "1",
@@ -53,28 +35,28 @@
       "sc": "兆麟"
     }
   },
-  "MTRB-K12-inbound-1": {
-    "record_id": "MTRB-K12-inbound-1",
+  "MTRB-506_TMFP-inbound-1": {
+    "record_id": "MTRB-506_TMFP-inbound-1",
     "company": "MTRB",
-    "route_id": "K12",
-    "route": "K12",
+    "route_id": "506_TMFP",
+    "route": "506",
     "bound": "inbound",
     "service_type": "1",
     "origin": {
-      "en": "Eightland Garden",
-      "tc": "八號花園",
-      "sc": "八號花園"
+      "en": "Siu Lun",
+      "tc": "兆麟",
+      "sc": "兆麟"
     },
     "destination": {
-      "en": "Tai Po Market Station",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
     }
   },
-  "MTRB-K12-outbound-1": {
-    "record_id": "MTRB-K12-outbound-1",
+  "MTRB-K12_EG-outbound-1": {
+    "record_id": "MTRB-K12_EG-outbound-1",
     "company": "MTRB",
-    "route_id": "K12",
+    "route_id": "K12_EG",
     "route": "K12",
     "bound": "outbound",
     "service_type": "1",
@@ -89,10 +71,28 @@
       "sc": "八號花園"
     }
   },
-  "MTRB-K14-outbound-1": {
-    "record_id": "MTRB-K14-outbound-1",
+  "MTRB-K12_TPMS-inbound-1": {
+    "record_id": "MTRB-K12_TPMS-inbound-1",
     "company": "MTRB",
-    "route_id": "K14",
+    "route_id": "K12_TPMS",
+    "route": "K12",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Eightland Garden",
+      "tc": "八號花園",
+      "sc": "八號花園"
+    },
+    "destination": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    }
+  },
+  "MTRB-K14_TPMS-outbound-1": {
+    "record_id": "MTRB-K14_TPMS-outbound-1",
+    "company": "MTRB",
+    "route_id": "K14_TPMS",
     "route": "K14",
     "bound": "outbound",
     "service_type": "1",
@@ -107,28 +107,10 @@
       "sc": "大埔墟站"
     }
   },
-  "MTRB-K17-inbound-1": {
-    "record_id": "MTRB-K17-inbound-1",
+  "MTRB-K17_FS-outbound-1": {
+    "record_id": "MTRB-K17_FS-outbound-1",
     "company": "MTRB",
-    "route_id": "K17",
-    "route": "K17",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Fu Shin",
-      "tc": "富善",
-      "sc": "富善"
-    },
-    "destination": {
-      "en": "Tai Po Market Station",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    }
-  },
-  "MTRB-K17-outbound-1": {
-    "record_id": "MTRB-K17-outbound-1",
-    "company": "MTRB",
-    "route_id": "K17",
+    "route_id": "K17_FS",
     "route": "K17",
     "bound": "outbound",
     "service_type": "1",
@@ -143,10 +125,46 @@
       "sc": "富善"
     }
   },
-  "MTRB-K18-inbound-1": {
-    "record_id": "MTRB-K18-inbound-1",
+  "MTRB-K17_TPMS-inbound-1": {
+    "record_id": "MTRB-K17_TPMS-inbound-1",
     "company": "MTRB",
-    "route_id": "K18",
+    "route_id": "K17_TPMS",
+    "route": "K17",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Fu Shin",
+      "tc": "富善",
+      "sc": "富善"
+    },
+    "destination": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    }
+  },
+  "MTRB-K18_KF-outbound-1": {
+    "record_id": "MTRB-K18_KF-outbound-1",
+    "company": "MTRB",
+    "route_id": "K18_KF",
+    "route": "K18",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Tai Po Market Station",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "Kwong Fuk",
+      "tc": "廣福",
+      "sc": "廣福"
+    }
+  },
+  "MTRB-K18_TPMS-inbound-1": {
+    "record_id": "MTRB-K18_TPMS-inbound-1",
+    "company": "MTRB",
+    "route_id": "K18_TPMS",
     "route": "K18",
     "bound": "inbound",
     "service_type": "1",
@@ -161,31 +179,13 @@
       "sc": "大埔墟站"
     }
   },
-  "MTRB-K18-outbound-1": {
-    "record_id": "MTRB-K18-outbound-1",
+  "MTRB-K51_FT_SHS-outbound-2": {
+    "record_id": "MTRB-K51_FT_SHS-outbound-2",
     "company": "MTRB",
-    "route_id": "K18",
-    "route": "K18",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tai Po Market Station",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    },
-    "destination": {
-      "en": "Kwong Fuk",
-      "tc": "廣福",
-      "sc": "廣福"
-    }
-  },
-  "MTRB-K51-1-outbound-1": {
-    "record_id": "MTRB-K51-1-outbound-1",
-    "company": "MTRB",
-    "route_id": "K51-1",
+    "route_id": "K51_FT_SHS",
     "route": "K51",
     "bound": "outbound",
-    "service_type": "1",
+    "service_type": "2",
     "origin": {
       "en": "Fu Tai",
       "tc": "富泰",
@@ -197,28 +197,10 @@
       "sc": "兆康站"
     }
   },
-  "MTRB-K51-2-outbound-1": {
-    "record_id": "MTRB-K51-2-outbound-1",
+  "MTRB-K51_FT-inbound-1": {
+    "record_id": "MTRB-K51_FT-inbound-1",
     "company": "MTRB",
-    "route_id": "K51-2",
-    "route": "K51",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Siu Hong Station",
-      "tc": "兆康站",
-      "sc": "兆康站"
-    },
-    "destination": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
-    }
-  },
-  "MTRB-K51-inbound-1": {
-    "record_id": "MTRB-K51-inbound-1",
-    "company": "MTRB",
-    "route_id": "K51",
+    "route_id": "K51_FT",
     "route": "K51",
     "bound": "inbound",
     "service_type": "1",
@@ -233,10 +215,28 @@
       "sc": "富泰"
     }
   },
-  "MTRB-K51-outbound-1": {
-    "record_id": "MTRB-K51-outbound-1",
+  "MTRB-K51_SHS_FT-outbound-2": {
+    "record_id": "MTRB-K51_SHS_FT-outbound-2",
     "company": "MTRB",
-    "route_id": "K51",
+    "route_id": "K51_SHS_FT",
+    "route": "K51",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Siu Hong Station",
+      "tc": "兆康站",
+      "sc": "兆康站"
+    },
+    "destination": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    }
+  },
+  "MTRB-K51_TL-outbound-1": {
+    "record_id": "MTRB-K51_TL-outbound-1",
+    "company": "MTRB",
+    "route_id": "K51_TL",
     "route": "K51",
     "bound": "outbound",
     "service_type": "1",
@@ -251,10 +251,10 @@
       "sc": "大欖"
     }
   },
-  "MTRB-K51A-inbound-1": {
-    "record_id": "MTRB-K51A-inbound-1",
+  "MTRB-K51A_FT-inbound-1": {
+    "record_id": "MTRB-K51A_FT-inbound-1",
     "company": "MTRB",
-    "route_id": "K51A",
+    "route_id": "K51A_FT",
     "route": "K51A",
     "bound": "inbound",
     "service_type": "1",
@@ -269,10 +269,10 @@
       "sc": "富泰"
     }
   },
-  "MTRB-K51A-outbound-1": {
-    "record_id": "MTRB-K51A-outbound-1",
+  "MTRB-K51A_SKWT-outbound-1": {
+    "record_id": "MTRB-K51A_SKWT-outbound-1",
     "company": "MTRB",
-    "route_id": "K51A",
+    "route_id": "K51A_SKWT",
     "route": "K51A",
     "bound": "outbound",
     "service_type": "1",
@@ -287,13 +287,31 @@
       "sc": "掃管笏"
     }
   },
-  "MTRB-K52-1-outbound-1": {
-    "record_id": "MTRB-K52-1-outbound-1",
+  "MTRB-K52_LKT_YWV-inbound-1": {
+    "record_id": "MTRB-K52_LKT_YWV-inbound-1",
     "company": "MTRB",
-    "route_id": "K52-1",
+    "route_id": "K52_LKT_YWV",
+    "route": "K52",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Lung Kwu Tan",
+      "tc": "龍鼓灘",
+      "sc": "龍鼓灘"
+    },
+    "destination": {
+      "en": "Yuet Wu Villa",
+      "tc": "悅湖山莊",
+      "sc": "悅湖山莊"
+    }
+  },
+  "MTRB-K52_LRTMS_LKT-outbound-2": {
+    "record_id": "MTRB-K52_LRTMS_LKT-outbound-2",
+    "company": "MTRB",
+    "route_id": "K52_LRTMS_LKT",
     "route": "K52",
     "bound": "outbound",
-    "service_type": "1",
+    "service_type": "2",
     "origin": {
       "en": "LR Tuen Mun Stop",
       "tc": "輕鐵屯門站",
@@ -305,28 +323,10 @@
       "sc": "龍鼓灘"
     }
   },
-  "MTRB-K52-inbound-1": {
-    "record_id": "MTRB-K52-inbound-1",
+  "MTRB-K52_YWV_LKT-outbound-1": {
+    "record_id": "MTRB-K52_YWV_LKT-outbound-1",
     "company": "MTRB",
-    "route_id": "K52",
-    "route": "K52",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Lung Kwu Tan",
-      "tc": "龍鼓灘",
-      "sc": "龍鼓灘"
-    },
-    "destination": {
-      "en": "Yuet Wu Villa",
-      "tc": "悅湖山莊",
-      "sc": "悅湖山莊"
-    }
-  },
-  "MTRB-K52-outbound-1": {
-    "record_id": "MTRB-K52-outbound-1",
-    "company": "MTRB",
-    "route_id": "K52",
+    "route_id": "K52_YWV_LKT",
     "route": "K52",
     "bound": "outbound",
     "service_type": "1",
@@ -341,10 +341,10 @@
       "sc": "龍鼓灘"
     }
   },
-  "MTRB-K52A-inbound-1": {
-    "record_id": "MTRB-K52A-inbound-1",
+  "MTRB-K52A_TMS-inbound-1": {
+    "record_id": "MTRB-K52A_TMS-inbound-1",
     "company": "MTRB",
-    "route_id": "K52A",
+    "route_id": "K52A_TMS",
     "route": "K52A",
     "bound": "inbound",
     "service_type": "1",
@@ -359,10 +359,10 @@
       "sc": "屯門站"
     }
   },
-  "MTRB-K52A-outbound-1": {
-    "record_id": "MTRB-K52A-outbound-1",
+  "MTRB-K52A_TT-outbound-1": {
+    "record_id": "MTRB-K52A_TT-outbound-1",
     "company": "MTRB",
-    "route_id": "K52A",
+    "route_id": "K52A_TT",
     "route": "K52A",
     "bound": "outbound",
     "service_type": "1",
@@ -377,10 +377,10 @@
       "sc": "曾咀"
     }
   },
-  "MTRB-K52P-outbound-1": {
-    "record_id": "MTRB-K52P-outbound-1",
+  "MTRB-K52P_LKT_TMS-outbound-1": {
+    "record_id": "MTRB-K52P_LKT_TMS-outbound-1",
     "company": "MTRB",
-    "route_id": "K52P",
+    "route_id": "K52P_LKT_TMS",
     "route": "K52P",
     "bound": "outbound",
     "service_type": "1",
@@ -395,10 +395,10 @@
       "sc": "屯門站"
     }
   },
-  "MTRB-K53-outbound-1": {
-    "record_id": "MTRB-K53-outbound-1",
+  "MTRB-K53_SKW_CIR-outbound-1": {
+    "record_id": "MTRB-K53_SKW_CIR-outbound-1",
     "company": "MTRB",
-    "route_id": "K53",
+    "route_id": "K53_SKW_CIR",
     "route": "K53",
     "bound": "outbound",
     "service_type": "1",
@@ -413,10 +413,10 @@
       "sc": "掃管笏 (循環線)"
     }
   },
-  "MTRB-K53S-outbound-1": {
-    "record_id": "MTRB-K53S-outbound-1",
+  "MTRB-K53S_YWE_CIR-outbound-1": {
+    "record_id": "MTRB-K53S_YWE_CIR-outbound-1",
     "company": "MTRB",
-    "route_id": "K53S",
+    "route_id": "K53S_YWE_CIR",
     "route": "K53S",
     "bound": "outbound",
     "service_type": "1",
@@ -431,10 +431,10 @@
       "sc": "業旺邨 (循環線)"
     }
   },
-  "MTRB-K54-outbound-1": {
-    "record_id": "MTRB-K54-outbound-1",
+  "MTRB-K54_CIR-outbound-1": {
+    "record_id": "MTRB-K54_CIR-outbound-1",
     "company": "MTRB",
-    "route_id": "K54",
+    "route_id": "K54_CIR",
     "route": "K54",
     "bound": "outbound",
     "service_type": "1",
@@ -449,10 +449,10 @@
       "sc": "屯門市中心(循環線)"
     }
   },
-  "MTRB-K54A-inbound-1": {
-    "record_id": "MTRB-K54A-inbound-1",
+  "MTRB-K54A_SHS_WTE-inbound-1": {
+    "record_id": "MTRB-K54A_SHS_WTE-inbound-1",
     "company": "MTRB",
-    "route_id": "K54A",
+    "route_id": "K54A_SHS_WTE",
     "route": "K54A",
     "bound": "inbound",
     "service_type": "1",
@@ -467,10 +467,10 @@
       "sc": "和田邨"
     }
   },
-  "MTRB-K54A-outbound-1": {
-    "record_id": "MTRB-K54A-outbound-1",
+  "MTRB-K54A_WTE_SHS-outbound-1": {
+    "record_id": "MTRB-K54A_WTE_SHS-outbound-1",
     "company": "MTRB",
-    "route_id": "K54A",
+    "route_id": "K54A_WTE_SHS",
     "route": "K54A",
     "bound": "outbound",
     "service_type": "1",
@@ -485,28 +485,10 @@
       "sc": "兆康站"
     }
   },
-  "MTRB-K58-inbound-1": {
-    "record_id": "MTRB-K58-inbound-1",
+  "MTRB-K58_FT_SKW-outbound-1": {
+    "record_id": "MTRB-K58_FT_SKW-outbound-1",
     "company": "MTRB",
-    "route_id": "K58",
-    "route": "K58",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "So Kwun Wat",
-      "tc": "掃管笏",
-      "sc": "掃管笏"
-    },
-    "destination": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
-    }
-  },
-  "MTRB-K58-outbound-1": {
-    "record_id": "MTRB-K58-outbound-1",
-    "company": "MTRB",
-    "route_id": "K58",
+    "route_id": "K58_FT_SKW",
     "route": "K58",
     "bound": "outbound",
     "service_type": "1",
@@ -521,10 +503,46 @@
       "sc": "掃管笏"
     }
   },
-  "MTRB-K65-inbound-1": {
-    "record_id": "MTRB-K65-inbound-1",
+  "MTRB-K58_SKW_FT-inbound-1": {
+    "record_id": "MTRB-K58_SKW_FT-inbound-1",
     "company": "MTRB",
-    "route_id": "K65",
+    "route_id": "K58_SKW_FT",
+    "route": "K58",
+    "bound": "inbound",
+    "service_type": "1",
+    "origin": {
+      "en": "So Kwun Wat",
+      "tc": "掃管笏",
+      "sc": "掃管笏"
+    },
+    "destination": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    }
+  },
+  "MTRB-K65_LFS-outbound-1": {
+    "record_id": "MTRB-K65_LFS-outbound-1",
+    "company": "MTRB",
+    "route_id": "K65_LFS",
+    "route": "K65",
+    "bound": "outbound",
+    "service_type": "1",
+    "origin": {
+      "en": "Yuen Long Station",
+      "tc": "元朗站",
+      "sc": "元朗站"
+    },
+    "destination": {
+      "en": "Lau Fau Shan",
+      "tc": "流浮山",
+      "sc": "流浮山"
+    }
+  },
+  "MTRB-K65_YLS-inbound-1": {
+    "record_id": "MTRB-K65_YLS-inbound-1",
+    "company": "MTRB",
+    "route_id": "K65_YLS",
     "route": "K65",
     "bound": "inbound",
     "service_type": "1",
@@ -539,17 +557,17 @@
       "sc": "元朗站"
     }
   },
-  "MTRB-K65-outbound-1": {
-    "record_id": "MTRB-K65-outbound-1",
+  "MTRB-K65A_LFS-outbound-1": {
+    "record_id": "MTRB-K65A_LFS-outbound-1",
     "company": "MTRB",
-    "route_id": "K65",
-    "route": "K65",
+    "route_id": "K65A_LFS",
+    "route": "K65A",
     "bound": "outbound",
     "service_type": "1",
     "origin": {
-      "en": "Yuen Long Station",
-      "tc": "元朗站",
-      "sc": "元朗站"
+      "en": "Tin Shui Wai Station",
+      "tc": "天水圍站",
+      "sc": "天水圍站"
     },
     "destination": {
       "en": "Lau Fau Shan",
@@ -557,10 +575,10 @@
       "sc": "流浮山"
     }
   },
-  "MTRB-K65A-inbound-1": {
-    "record_id": "MTRB-K65A-inbound-1",
+  "MTRB-K65A_TSWS-inbound-1": {
+    "record_id": "MTRB-K65A_TSWS-inbound-1",
     "company": "MTRB",
-    "route_id": "K65A",
+    "route_id": "K65A_TSWS",
     "route": "K65A",
     "bound": "inbound",
     "service_type": "1",
@@ -575,30 +593,12 @@
       "sc": "天水圍站"
     }
   },
-  "MTRB-K65A-outbound-1": {
-    "record_id": "MTRB-K65A-outbound-1",
+  "MTRB-K66_LP-inbound-1": {
+    "record_id": "MTRB-K66_LP-inbound-1",
     "company": "MTRB",
-    "route_id": "K65A",
-    "route": "K65A",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tin Shui Wai Station",
-      "tc": "天水圍站",
-      "sc": "天水圍站"
-    },
-    "destination": {
-      "en": "Lau Fau Shan",
-      "tc": "流浮山",
-      "sc": "流浮山"
-    }
-  },
-  "MTRB-K66-1-outbound-1": {
-    "record_id": "MTRB-K66-1-outbound-1",
-    "company": "MTRB",
-    "route_id": "K66-1",
+    "route_id": "K66_LP",
     "route": "K66",
-    "bound": "outbound",
+    "bound": "inbound",
     "service_type": "1",
     "origin": {
       "en": "Tai Tong Wong Nai Tun Tsuen",
@@ -606,36 +606,18 @@
       "sc": "大棠黃泥墩村"
     },
     "destination": {
-      "en": "Yuet Ping House, Long Ping Estate",
-      "tc": "朗屏邨悅屏樓",
-      "sc": "朗屏邨悅屏樓"
+      "en": "Long Ping",
+      "tc": "朗屏",
+      "sc": "朗屏"
     }
   },
-  "MTRB-K66-2-outbound-1": {
-    "record_id": "MTRB-K66-2-outbound-1",
+  "MTRB-K66_NHP_LP-outbound-2": {
+    "record_id": "MTRB-K66_NHP_LP-outbound-2",
     "company": "MTRB",
-    "route_id": "K66-2",
+    "route_id": "K66_NHP_LP",
     "route": "K66",
     "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tai Tong Wong Nai Tun Tsuen",
-      "tc": "大棠黃泥墩村",
-      "sc": "大棠黃泥墩村"
-    },
-    "destination": {
-      "en": "On Hong Road",
-      "tc": "安康路",
-      "sc": "安康路"
-    }
-  },
-  "MTRB-K66-3-outbound-1": {
-    "record_id": "MTRB-K66-3-outbound-1",
-    "company": "MTRB",
-    "route_id": "K66-3",
-    "route": "K66",
-    "bound": "outbound",
-    "service_type": "1",
+    "service_type": "2",
     "origin": {
       "en": "Nam Hang Pai",
       "tc": "南坑排",
@@ -647,28 +629,46 @@
       "sc": "朗屏"
     }
   },
-  "MTRB-K66-inbound-1": {
-    "record_id": "MTRB-K66-inbound-1",
+  "MTRB-K66_TT_OHR-outbound-2": {
+    "record_id": "MTRB-K66_TT_OHR-outbound-2",
     "company": "MTRB",
-    "route_id": "K66",
+    "route_id": "K66_TT_OHR",
     "route": "K66",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "outbound",
+    "service_type": "2",
     "origin": {
       "en": "Tai Tong Wong Nai Tun Tsuen",
       "tc": "大棠黃泥墩村",
       "sc": "大棠黃泥墩村"
     },
     "destination": {
-      "en": "Long Ping",
-      "tc": "朗屏",
-      "sc": "朗屏"
+      "en": "On Hong Road",
+      "tc": "安康路",
+      "sc": "安康路"
     }
   },
-  "MTRB-K66-outbound-1": {
-    "record_id": "MTRB-K66-outbound-1",
+  "MTRB-K66_TT_YPH-outbound-2": {
+    "record_id": "MTRB-K66_TT_YPH-outbound-2",
     "company": "MTRB",
-    "route_id": "K66",
+    "route_id": "K66_TT_YPH",
+    "route": "K66",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Tai Tong Wong Nai Tun Tsuen",
+      "tc": "大棠黃泥墩村",
+      "sc": "大棠黃泥墩村"
+    },
+    "destination": {
+      "en": "Yuet Ping House, Long Ping Estate",
+      "tc": "朗屏邨悅屏樓",
+      "sc": "朗屏邨悅屏樓"
+    }
+  },
+  "MTRB-K66_TTWNTT-outbound-1": {
+    "record_id": "MTRB-K66_TTWNTT-outbound-1",
+    "company": "MTRB",
+    "route_id": "K66_TTWNTT",
     "route": "K66",
     "bound": "outbound",
     "service_type": "1",
@@ -683,82 +683,10 @@
       "sc": "大棠黃泥墩村"
     }
   },
-  "MTRB-K68-1-outbound-1": {
-    "record_id": "MTRB-K68-1-outbound-1",
+  "MTRB-K68_CIR-outbound-1": {
+    "record_id": "MTRB-K68_CIR-outbound-1",
     "company": "MTRB",
-    "route_id": "K68-1",
-    "route": "K68",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Silver Field Garden",
-      "tc": "銀田花園",
-      "sc": "銀田花園"
-    },
-    "destination": {
-      "en": "Yuen Long Industrial Estate",
-      "tc": "元朗工業邨",
-      "sc": "元朗工業邨"
-    }
-  },
-  "MTRB-K68-2-outbound-1": {
-    "record_id": "MTRB-K68-2-outbound-1",
-    "company": "MTRB",
-    "route_id": "K68-2",
-    "route": "K68",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Yuen Long Plaza",
-      "tc": "元朗廣場",
-      "sc": "元朗廣場"
-    },
-    "destination": {
-      "en": "Yuen Long Industrial Estate",
-      "tc": "元朗工業邨",
-      "sc": "元朗工業邨"
-    }
-  },
-  "MTRB-K68-3-outbound-1": {
-    "record_id": "MTRB-K68-3-outbound-1",
-    "company": "MTRB",
-    "route_id": "K68-3",
-    "route": "K68",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tai Kiu Tsuen",
-      "tc": "大橋村",
-      "sc": "大橋村"
-    },
-    "destination": {
-      "en": "Yuen Long Industrial Estate",
-      "tc": "元朗工業邨",
-      "sc": "元朗工業邨"
-    }
-  },
-  "MTRB-K68-4-outbound-1": {
-    "record_id": "MTRB-K68-4-outbound-1",
-    "company": "MTRB",
-    "route_id": "K68-4",
-    "route": "K68",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Yuen Long Industrial Estate",
-      "tc": "元朗工業邨",
-      "sc": "元朗工業邨"
-    },
-    "destination": {
-      "en": "Tai Kiu Tsuen",
-      "tc": "大橋村",
-      "sc": "大橋村"
-    }
-  },
-  "MTRB-K68-outbound-1": {
-    "record_id": "MTRB-K68-outbound-1",
-    "company": "MTRB",
-    "route_id": "K68",
+    "route_id": "K68_CIR",
     "route": "K68",
     "bound": "outbound",
     "service_type": "1",
@@ -773,31 +701,85 @@
       "sc": "元朗公園 (循環線)"
     }
   },
-  "MTRB-K73-1-outbound-1": {
-    "record_id": "MTRB-K73-1-outbound-1",
+  "MTRB-K68_SFG_YLIE-outbound-2": {
+    "record_id": "MTRB-K68_SFG_YLIE-outbound-2",
     "company": "MTRB",
-    "route_id": "K73-1",
-    "route": "K73",
+    "route_id": "K68_SFG_YLIE",
+    "route": "K68",
     "bound": "outbound",
-    "service_type": "1",
+    "service_type": "2",
     "origin": {
-      "en": "Tin Yan",
-      "tc": "天恩",
-      "sc": "天恩"
+      "en": "Silver Field Garden",
+      "tc": "銀田花園",
+      "sc": "銀田花園"
     },
     "destination": {
-      "en": "Yuen Long West",
-      "tc": "元朗西",
-      "sc": "元朗西"
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
     }
   },
-  "MTRB-K73-2-outbound-1": {
-    "record_id": "MTRB-K73-2-outbound-1",
+  "MTRB-K68_TKT_YLIE-outbound-2": {
+    "record_id": "MTRB-K68_TKT_YLIE-outbound-2",
     "company": "MTRB",
-    "route_id": "K73-2",
+    "route_id": "K68_TKT_YLIE",
+    "route": "K68",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Tai Kiu Tsuen",
+      "tc": "大橋村",
+      "sc": "大橋村"
+    },
+    "destination": {
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
+    }
+  },
+  "MTRB-K68_YLIE_TKT-outbound-2": {
+    "record_id": "MTRB-K68_YLIE_TKT-outbound-2",
+    "company": "MTRB",
+    "route_id": "K68_YLIE_TKT",
+    "route": "K68",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
+    },
+    "destination": {
+      "en": "Tai Kiu Tsuen",
+      "tc": "大橋村",
+      "sc": "大橋村"
+    }
+  },
+  "MTRB-K68_YLP_YLIE-outbound-2": {
+    "record_id": "MTRB-K68_YLP_YLIE-outbound-2",
+    "company": "MTRB",
+    "route_id": "K68_YLP_YLIE",
+    "route": "K68",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Yuen Long Plaza",
+      "tc": "元朗廣場",
+      "sc": "元朗廣場"
+    },
+    "destination": {
+      "en": "Yuen Long Industrial Estate",
+      "tc": "元朗工業邨",
+      "sc": "元朗工業邨"
+    }
+  },
+  "MTRB-K73_HKFYG_YLW-outbound-2": {
+    "record_id": "MTRB-K73_HKFYG_YLW-outbound-2",
+    "company": "MTRB",
+    "route_id": "K73_HKFYG_YLW",
     "route": "K73",
     "bound": "outbound",
-    "service_type": "1",
+    "service_type": "2",
     "origin": {
       "en": "HKFYG Lee Shau Kee College",
       "tc": "香港青年協會李兆基書院",
@@ -809,10 +791,10 @@
       "sc": "元朗西"
     }
   },
-  "MTRB-K73-inbound-1": {
-    "record_id": "MTRB-K73-inbound-1",
+  "MTRB-K73_TH-inbound-1": {
+    "record_id": "MTRB-K73_TH-inbound-1",
     "company": "MTRB",
-    "route_id": "K73",
+    "route_id": "K73_TH",
     "route": "K73",
     "bound": "inbound",
     "service_type": "1",
@@ -827,10 +809,28 @@
       "sc": "天恆"
     }
   },
-  "MTRB-K73-outbound-1": {
-    "record_id": "MTRB-K73-outbound-1",
+  "MTRB-K73_TY_YLW-outbound-2": {
+    "record_id": "MTRB-K73_TY_YLW-outbound-2",
     "company": "MTRB",
-    "route_id": "K73",
+    "route_id": "K73_TY_YLW",
+    "route": "K73",
+    "bound": "outbound",
+    "service_type": "2",
+    "origin": {
+      "en": "Tin Yan",
+      "tc": "天恩",
+      "sc": "天恩"
+    },
+    "destination": {
+      "en": "Yuen Long West",
+      "tc": "元朗西",
+      "sc": "元朗西"
+    }
+  },
+  "MTRB-K73_YLW-outbound-1": {
+    "record_id": "MTRB-K73_YLW-outbound-1",
+    "company": "MTRB",
+    "route_id": "K73_YLW",
     "route": "K73",
     "bound": "outbound",
     "service_type": "1",
@@ -845,10 +845,10 @@
       "sc": "元朗西"
     }
   },
-  "MTRB-K74-outbound-1": {
-    "record_id": "MTRB-K74-outbound-1",
+  "MTRB-K74_POH_CIR-outbound-1": {
+    "record_id": "MTRB-K74_POH_CIR-outbound-1",
     "company": "MTRB",
-    "route_id": "K74",
+    "route_id": "K74_POH_CIR",
     "route": "K74",
     "bound": "outbound",
     "service_type": "1",
@@ -863,10 +863,10 @@
       "sc": "凹頭 (循環線)"
     }
   },
-  "MTRB-K75A-outbound-1": {
-    "record_id": "MTRB-K75A-outbound-1",
+  "MTRB-K75A_CIR-outbound-1": {
+    "record_id": "MTRB-K75A_CIR-outbound-1",
     "company": "MTRB",
-    "route_id": "K75A",
+    "route_id": "K75A_CIR",
     "route": "K75A",
     "bound": "outbound",
     "service_type": "1",
@@ -881,10 +881,10 @@
       "sc": "洪水橋 (循環線)"
     }
   },
-  "MTRB-K75P-outbound-1": {
-    "record_id": "MTRB-K75P-outbound-1",
+  "MTRB-K75P_CIR-outbound-1": {
+    "record_id": "MTRB-K75P_CIR-outbound-1",
     "company": "MTRB",
-    "route_id": "K75P",
+    "route_id": "K75P_CIR",
     "route": "K75P",
     "bound": "outbound",
     "service_type": "1",
@@ -899,10 +899,10 @@
       "sc": "洪水橋 (循環線)"
     }
   },
-  "MTRB-K75P1-outbound-1": {
-    "record_id": "MTRB-K75P1-outbound-1",
+  "MTRB-K75P_HSKBD_TS-outbound-1": {
+    "record_id": "MTRB-K75P_HSKBD_TS-outbound-1",
     "company": "MTRB",
-    "route_id": "K75P1",
+    "route_id": "K75P_HSKBD_TS",
     "route": "K75P",
     "bound": "outbound",
     "service_type": "1",
@@ -917,10 +917,10 @@
       "sc": "天瑞"
     }
   },
-  "MTRB-K75S-outbound-1": {
-    "record_id": "MTRB-K75S-outbound-1",
+  "MTRB-K75S_CIR-outbound-1": {
+    "record_id": "MTRB-K75S_CIR-outbound-1",
     "company": "MTRB",
-    "route_id": "K75S",
+    "route_id": "K75S_CIR",
     "route": "K75S",
     "bound": "outbound",
     "service_type": "1",
@@ -935,10 +935,10 @@
       "sc": "洪福邨 (循環線)"
     }
   },
-  "MTRB-K75S1-outbound-1": {
-    "record_id": "MTRB-K75S1-outbound-1",
+  "MTRB-K75S_HSKBD_TSWS-outbound-1": {
+    "record_id": "MTRB-K75S_HSKBD_TSWS-outbound-1",
     "company": "MTRB",
-    "route_id": "K75S1",
+    "route_id": "K75S_HSKBD_TSWS",
     "route": "K75S",
     "bound": "outbound",
     "service_type": "1",
@@ -953,10 +953,10 @@
       "sc": "天水圍站"
     }
   },
-  "MTRB-K76-inbound-1": {
-    "record_id": "MTRB-K76-inbound-1",
+  "MTRB-K76_TH-inbound-1": {
+    "record_id": "MTRB-K76_TH-inbound-1",
     "company": "MTRB",
-    "route_id": "K76",
+    "route_id": "K76_TH",
     "route": "K76",
     "bound": "inbound",
     "service_type": "1",
@@ -971,10 +971,10 @@
       "sc": "天恆"
     }
   },
-  "MTRB-K76-outbound-1": {
-    "record_id": "MTRB-K76-outbound-1",
+  "MTRB-K76_TSWS-outbound-1": {
+    "record_id": "MTRB-K76_TSWS-outbound-1",
     "company": "MTRB",
-    "route_id": "K76",
+    "route_id": "K76_TSWS",
     "route": "K76",
     "bound": "outbound",
     "service_type": "1",
@@ -989,10 +989,10 @@
       "sc": "天水圍站"
     }
   },
-  "MTRB-K76S-inbound-1": {
-    "record_id": "MTRB-K76S-inbound-1",
+  "MTRB-K76S_HKWP-inbound-1": {
+    "record_id": "MTRB-K76S_HKWP-inbound-1",
     "company": "MTRB",
-    "route_id": "K76S",
+    "route_id": "K76S_HKWP",
     "route": "K76S",
     "bound": "inbound",
     "service_type": "1",
@@ -1007,10 +1007,10 @@
       "sc": "濕地公園路(近天葵路)"
     }
   },
-  "MTRB-K76S-outbound-1": {
-    "record_id": "MTRB-K76S-outbound-1",
+  "MTRB-K76S_TSC-outbound-1": {
+    "record_id": "MTRB-K76S_TSC-outbound-1",
     "company": "MTRB",
-    "route_id": "K76S",
+    "route_id": "K76S_TSC",
     "route": "K76S",
     "bound": "outbound",
     "service_type": "1",
