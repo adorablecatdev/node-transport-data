@@ -1,6 +1,6 @@
 {
-  "MTR-AEL-inbound-1": {
-    "record_id": "MTR-AEL-inbound-1",
+  "MTR-AEL-DT": {
+    "record_id": "MTR-AEL-DT",
     "company": "MTR",
     "route_id": "AEL",
     "route": {
@@ -8,77 +8,7 @@
       "tc": "機場快線",
       "sc": "機場快線"
     },
-    "bound": "inbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "HOK",
-        "name": {
-          "en": "Hong Kong",
-          "tc": "香港",
-          "sc": "香港"
-        },
-        "lat": 22.284686041552774,
-        "long": 114.1581835231989
-      },
-      {
-        "seq": 2,
-        "stop_id": "KOW",
-        "name": {
-          "en": "Kowloon",
-          "tc": "九龍",
-          "sc": "九龍"
-        },
-        "lat": 22.304305691035957,
-        "long": 114.16146960967275
-      },
-      {
-        "seq": 3,
-        "stop_id": "TSY",
-        "name": {
-          "en": "Tsing Yi",
-          "tc": "青衣",
-          "sc": "青衣"
-        },
-        "lat": 22.358512438555145,
-        "long": 114.1076584909509
-      },
-      {
-        "seq": 4,
-        "stop_id": "AIR",
-        "name": {
-          "en": "Airport",
-          "tc": "機場",
-          "sc": "機場"
-        },
-        "lat": 22.315887699100532,
-        "long": 113.93653626138268
-      },
-      {
-        "seq": 5,
-        "stop_id": "AWE",
-        "name": {
-          "en": "AsiaWorld-Expo",
-          "tc": "博覽館",
-          "sc": "博覽館"
-        },
-        "lat": 22.320878236308904,
-        "long": 113.94183805092442
-      }
-    ]
-  },
-  "MTR-AEL-outbound-1": {
-    "record_id": "MTR-AEL-outbound-1",
-    "company": "MTR",
-    "route_id": "AEL",
-    "route": {
-      "en": "Airport Express",
-      "tc": "機場快線",
-      "sc": "機場快線"
-    },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "stops": [
       {
         "seq": 1,
@@ -137,8 +67,76 @@
       }
     ]
   },
-  "MTR-DRL-inbound-1": {
-    "record_id": "MTR-DRL-inbound-1",
+  "MTR-AEL-UT": {
+    "record_id": "MTR-AEL-UT",
+    "company": "MTR",
+    "route_id": "AEL",
+    "route": {
+      "en": "Airport Express",
+      "tc": "機場快線",
+      "sc": "機場快線"
+    },
+    "bound": "UT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "HOK",
+        "name": {
+          "en": "Hong Kong",
+          "tc": "香港",
+          "sc": "香港"
+        },
+        "lat": 22.284686041552774,
+        "long": 114.1581835231989
+      },
+      {
+        "seq": 2,
+        "stop_id": "KOW",
+        "name": {
+          "en": "Kowloon",
+          "tc": "九龍",
+          "sc": "九龍"
+        },
+        "lat": 22.304305691035957,
+        "long": 114.16146960967275
+      },
+      {
+        "seq": 3,
+        "stop_id": "TSY",
+        "name": {
+          "en": "Tsing Yi",
+          "tc": "青衣",
+          "sc": "青衣"
+        },
+        "lat": 22.358512438555145,
+        "long": 114.1076584909509
+      },
+      {
+        "seq": 4,
+        "stop_id": "AIR",
+        "name": {
+          "en": "Airport",
+          "tc": "機場",
+          "sc": "機場"
+        },
+        "lat": 22.315887699100532,
+        "long": 113.93653626138268
+      },
+      {
+        "seq": 5,
+        "stop_id": "AWE",
+        "name": {
+          "en": "AsiaWorld-Expo",
+          "tc": "博覽館",
+          "sc": "博覽館"
+        },
+        "lat": 22.320878236308904,
+        "long": 113.94183805092442
+      }
+    ]
+  },
+  "MTR-DRL-DT": {
+    "record_id": "MTR-DRL-DT",
     "company": "MTR",
     "route_id": "DRL",
     "route": {
@@ -146,8 +144,42 @@
       "tc": "迪士尼線",
       "sc": "迪士尼線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "DT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "SUN",
+        "name": {
+          "en": "Sunny Bay",
+          "tc": "欣澳",
+          "sc": "欣澳"
+        },
+        "lat": 22.3317354599028,
+        "long": 114.02895721169688
+      },
+      {
+        "seq": 2,
+        "stop_id": "DIS",
+        "name": {
+          "en": "Disneyland Resort",
+          "tc": "迪士尼",
+          "sc": "迪士尼"
+        },
+        "lat": 22.315365307772986,
+        "long": 114.04519982865285
+      }
+    ]
+  },
+  "MTR-DRL-UT": {
+    "record_id": "MTR-DRL-UT",
+    "company": "MTR",
+    "route_id": "DRL",
+    "route": {
+      "en": "Disneyland Resort Line",
+      "tc": "迪士尼線",
+      "sc": "迪士尼線"
+    },
+    "bound": "UT",
     "stops": [
       {
         "seq": 1,
@@ -173,44 +205,8 @@
       }
     ]
   },
-  "MTR-DRL-outbound-1": {
-    "record_id": "MTR-DRL-outbound-1",
-    "company": "MTR",
-    "route_id": "DRL",
-    "route": {
-      "en": "Disneyland Resort Line",
-      "tc": "迪士尼線",
-      "sc": "迪士尼線"
-    },
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "SUN",
-        "name": {
-          "en": "Sunny Bay",
-          "tc": "欣澳",
-          "sc": "欣澳"
-        },
-        "lat": 22.3317354599028,
-        "long": 114.02895721169688
-      },
-      {
-        "seq": 2,
-        "stop_id": "DIS",
-        "name": {
-          "en": "Disneyland Resort",
-          "tc": "迪士尼",
-          "sc": "迪士尼"
-        },
-        "lat": 22.315365307772986,
-        "long": 114.04519982865285
-      }
-    ]
-  },
-  "MTR-EAL-inbound-1": {
-    "record_id": "MTR-EAL-inbound-1",
+  "MTR-EAL-DT": {
+    "record_id": "MTR-EAL-DT",
     "company": "MTR",
     "route_id": "EAL",
     "route": {
@@ -218,512 +214,7 @@
       "tc": "東鐵線",
       "sc": "東鐵線"
     },
-    "bound": "inbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "ADM",
-        "name": {
-          "en": "Admiralty",
-          "tc": "金鐘",
-          "sc": "金鐘"
-        },
-        "lat": 22.27941347850174,
-        "long": 114.16454079886108
-      },
-      {
-        "seq": 2,
-        "stop_id": "EXC",
-        "name": {
-          "en": "Exhibition Centre",
-          "tc": "會展",
-          "sc": "會展"
-        },
-        "lat": 22.282142689799905,
-        "long": 114.17550763679316
-      },
-      {
-        "seq": 3,
-        "stop_id": "HUH",
-        "name": {
-          "en": "Hung Hom",
-          "tc": "紅磡",
-          "sc": "紅磡"
-        },
-        "lat": 22.302887952681683,
-        "long": 114.18209861366228
-      },
-      {
-        "seq": 4,
-        "stop_id": "MKK",
-        "name": {
-          "en": "Mong Kok East",
-          "tc": "旺角東",
-          "sc": "旺角東"
-        },
-        "lat": 22.322051289988806,
-        "long": 114.17259435000571
-      },
-      {
-        "seq": 5,
-        "stop_id": "KOT",
-        "name": {
-          "en": "Kowloon Tong",
-          "tc": "九龍塘",
-          "sc": "九龍塘"
-        },
-        "lat": 22.337157232807026,
-        "long": 114.17607888953131
-      },
-      {
-        "seq": 6,
-        "stop_id": "TAW",
-        "name": {
-          "en": "Tai Wai",
-          "tc": "大圍",
-          "sc": "大圍"
-        },
-        "lat": 22.372720123411025,
-        "long": 114.17861754006417
-      },
-      {
-        "seq": 7,
-        "stop_id": "SHT",
-        "name": {
-          "en": "Sha Tin",
-          "tc": "沙田",
-          "sc": "沙田"
-        },
-        "lat": 22.377029786125398,
-        "long": 114.19497999430553
-      },
-      {
-        "seq": 8,
-        "stop_id": "FOT",
-        "name": {
-          "en": "Fo Tan",
-          "tc": "火炭",
-          "sc": "火炭"
-        },
-        "lat": 22.39508453881388,
-        "long": 114.1981218996912
-      },
-      {
-        "seq": 9,
-        "stop_id": "UNI",
-        "name": {
-          "en": "University",
-          "tc": "大學",
-          "sc": "大學"
-        },
-        "lat": 22.41315618988642,
-        "long": 114.20995245326851
-      },
-      {
-        "seq": 10,
-        "stop_id": "TAP",
-        "name": {
-          "en": "Tai Po Market",
-          "tc": "大埔墟",
-          "sc": "大埔墟"
-        },
-        "lat": 22.44455631766727,
-        "long": 114.17047883009643
-      },
-      {
-        "seq": 11,
-        "stop_id": "TWO",
-        "name": {
-          "en": "Tai Wo",
-          "tc": "太和",
-          "sc": "太和"
-        },
-        "lat": 22.451006269056442,
-        "long": 114.16121353349389
-      },
-      {
-        "seq": 12,
-        "stop_id": "FAN",
-        "name": {
-          "en": "Fanling",
-          "tc": "粉嶺",
-          "sc": "粉嶺"
-        },
-        "lat": 22.492066994773943,
-        "long": 114.13867606389636
-      },
-      {
-        "seq": 13,
-        "stop_id": "SHS",
-        "name": {
-          "en": "Sheung Shui",
-          "tc": "上水",
-          "sc": "上水"
-        },
-        "lat": 22.50126167696661,
-        "long": 114.127935366744
-      },
-      {
-        "seq": 14,
-        "stop_id": "LOW",
-        "name": {
-          "en": "Lo Wu",
-          "tc": "羅湖",
-          "sc": "羅湖"
-        },
-        "lat": 22.528160500810174,
-        "long": 114.11340862227986
-      }
-    ]
-  },
-  "MTR-EAL-LMC-inbound-1": {
-    "record_id": "MTR-EAL-LMC-inbound-1",
-    "company": "MTR",
-    "route_id": "EAL-LMC",
-    "route": {
-      "en": "East Rail Line Lok Ma Chau",
-      "tc": "東鐵線 落馬洲",
-      "sc": "東鐵線 落馬洲"
-    },
-    "bound": "inbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "ADM",
-        "name": {
-          "en": "Admiralty",
-          "tc": "金鐘",
-          "sc": "金鐘"
-        },
-        "lat": 22.27941347850174,
-        "long": 114.16454079886108
-      },
-      {
-        "seq": 2,
-        "stop_id": "EXC",
-        "name": {
-          "en": "Exhibition Centre",
-          "tc": "會展",
-          "sc": "會展"
-        },
-        "lat": 22.282142689799905,
-        "long": 114.17550763679316
-      },
-      {
-        "seq": 3,
-        "stop_id": "HUH",
-        "name": {
-          "en": "Hung Hom",
-          "tc": "紅磡",
-          "sc": "紅磡"
-        },
-        "lat": 22.302887952681683,
-        "long": 114.18209861366228
-      },
-      {
-        "seq": 4,
-        "stop_id": "MKK",
-        "name": {
-          "en": "Mong Kok East",
-          "tc": "旺角東",
-          "sc": "旺角東"
-        },
-        "lat": 22.322051289988806,
-        "long": 114.17259435000571
-      },
-      {
-        "seq": 5,
-        "stop_id": "KOT",
-        "name": {
-          "en": "Kowloon Tong",
-          "tc": "九龍塘",
-          "sc": "九龍塘"
-        },
-        "lat": 22.337157232807026,
-        "long": 114.17607888953131
-      },
-      {
-        "seq": 6,
-        "stop_id": "TAW",
-        "name": {
-          "en": "Tai Wai",
-          "tc": "大圍",
-          "sc": "大圍"
-        },
-        "lat": 22.372720123411025,
-        "long": 114.17861754006417
-      },
-      {
-        "seq": 7,
-        "stop_id": "SHT",
-        "name": {
-          "en": "Sha Tin",
-          "tc": "沙田",
-          "sc": "沙田"
-        },
-        "lat": 22.377029786125398,
-        "long": 114.19497999430553
-      },
-      {
-        "seq": 8,
-        "stop_id": "FOT",
-        "name": {
-          "en": "Fo Tan",
-          "tc": "火炭",
-          "sc": "火炭"
-        },
-        "lat": 22.39508453881388,
-        "long": 114.1981218996912
-      },
-      {
-        "seq": 9,
-        "stop_id": "UNI",
-        "name": {
-          "en": "University",
-          "tc": "大學",
-          "sc": "大學"
-        },
-        "lat": 22.41315618988642,
-        "long": 114.20995245326851
-      },
-      {
-        "seq": 10,
-        "stop_id": "TAP",
-        "name": {
-          "en": "Tai Po Market",
-          "tc": "大埔墟",
-          "sc": "大埔墟"
-        },
-        "lat": 22.44455631766727,
-        "long": 114.17047883009643
-      },
-      {
-        "seq": 11,
-        "stop_id": "TWO",
-        "name": {
-          "en": "Tai Wo",
-          "tc": "太和",
-          "sc": "太和"
-        },
-        "lat": 22.451006269056442,
-        "long": 114.16121353349389
-      },
-      {
-        "seq": 12,
-        "stop_id": "FAN",
-        "name": {
-          "en": "Fanling",
-          "tc": "粉嶺",
-          "sc": "粉嶺"
-        },
-        "lat": 22.492066994773943,
-        "long": 114.13867606389636
-      },
-      {
-        "seq": 13,
-        "stop_id": "SHS",
-        "name": {
-          "en": "Sheung Shui",
-          "tc": "上水",
-          "sc": "上水"
-        },
-        "lat": 22.50126167696661,
-        "long": 114.127935366744
-      },
-      {
-        "seq": 14,
-        "stop_id": "LMC",
-        "name": {
-          "en": "Lok Ma Chau",
-          "tc": "落馬洲",
-          "sc": "落馬洲"
-        },
-        "lat": 22.514862030460808,
-        "long": 114.06560724246171
-      }
-    ]
-  },
-  "MTR-EAL-LMC-outbound-1": {
-    "record_id": "MTR-EAL-LMC-outbound-1",
-    "company": "MTR",
-    "route_id": "EAL-LMC",
-    "route": {
-      "en": "East Rail Line Lok Ma Chau",
-      "tc": "東鐵線 落馬洲",
-      "sc": "東鐵線 落馬洲"
-    },
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "LMC",
-        "name": {
-          "en": "Lok Ma Chau",
-          "tc": "落馬洲",
-          "sc": "落馬洲"
-        },
-        "lat": 22.514862030460808,
-        "long": 114.06560724246171
-      },
-      {
-        "seq": 2,
-        "stop_id": "SHS",
-        "name": {
-          "en": "Sheung Shui",
-          "tc": "上水",
-          "sc": "上水"
-        },
-        "lat": 22.50126167696661,
-        "long": 114.127935366744
-      },
-      {
-        "seq": 3,
-        "stop_id": "FAN",
-        "name": {
-          "en": "Fanling",
-          "tc": "粉嶺",
-          "sc": "粉嶺"
-        },
-        "lat": 22.492066994773943,
-        "long": 114.13867606389636
-      },
-      {
-        "seq": 4,
-        "stop_id": "TWO",
-        "name": {
-          "en": "Tai Wo",
-          "tc": "太和",
-          "sc": "太和"
-        },
-        "lat": 22.451006269056442,
-        "long": 114.16121353349389
-      },
-      {
-        "seq": 5,
-        "stop_id": "TAP",
-        "name": {
-          "en": "Tai Po Market",
-          "tc": "大埔墟",
-          "sc": "大埔墟"
-        },
-        "lat": 22.44455631766727,
-        "long": 114.17047883009643
-      },
-      {
-        "seq": 6,
-        "stop_id": "UNI",
-        "name": {
-          "en": "University",
-          "tc": "大學",
-          "sc": "大學"
-        },
-        "lat": 22.41315618988642,
-        "long": 114.20995245326851
-      },
-      {
-        "seq": 7,
-        "stop_id": "FOT",
-        "name": {
-          "en": "Fo Tan",
-          "tc": "火炭",
-          "sc": "火炭"
-        },
-        "lat": 22.39508453881388,
-        "long": 114.1981218996912
-      },
-      {
-        "seq": 8,
-        "stop_id": "SHT",
-        "name": {
-          "en": "Sha Tin",
-          "tc": "沙田",
-          "sc": "沙田"
-        },
-        "lat": 22.377029786125398,
-        "long": 114.19497999430553
-      },
-      {
-        "seq": 9,
-        "stop_id": "TAW",
-        "name": {
-          "en": "Tai Wai",
-          "tc": "大圍",
-          "sc": "大圍"
-        },
-        "lat": 22.372720123411025,
-        "long": 114.17861754006417
-      },
-      {
-        "seq": 10,
-        "stop_id": "KOT",
-        "name": {
-          "en": "Kowloon Tong",
-          "tc": "九龍塘",
-          "sc": "九龍塘"
-        },
-        "lat": 22.337157232807026,
-        "long": 114.17607888953131
-      },
-      {
-        "seq": 11,
-        "stop_id": "MKK",
-        "name": {
-          "en": "Mong Kok East",
-          "tc": "旺角東",
-          "sc": "旺角東"
-        },
-        "lat": 22.322051289988806,
-        "long": 114.17259435000571
-      },
-      {
-        "seq": 12,
-        "stop_id": "HUH",
-        "name": {
-          "en": "Hung Hom",
-          "tc": "紅磡",
-          "sc": "紅磡"
-        },
-        "lat": 22.302887952681683,
-        "long": 114.18209861366228
-      },
-      {
-        "seq": 13,
-        "stop_id": "EXC",
-        "name": {
-          "en": "Exhibition Centre",
-          "tc": "會展",
-          "sc": "會展"
-        },
-        "lat": 22.282142689799905,
-        "long": 114.17550763679316
-      },
-      {
-        "seq": 14,
-        "stop_id": "ADM",
-        "name": {
-          "en": "Admiralty",
-          "tc": "金鐘",
-          "sc": "金鐘"
-        },
-        "lat": 22.27941347850174,
-        "long": 114.16454079886108
-      }
-    ]
-  },
-  "MTR-EAL-outbound-1": {
-    "record_id": "MTR-EAL-outbound-1",
-    "company": "MTR",
-    "route_id": "EAL",
-    "route": {
-      "en": "East Rail Line",
-      "tc": "東鐵線",
-      "sc": "東鐵線"
-    },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "stops": [
       {
         "seq": 1,
@@ -881,75 +372,186 @@
       }
     ]
   },
-  "MTR-ISL-inbound-1": {
-    "record_id": "MTR-ISL-inbound-1",
+  "MTR-EAL-LMC-DT": {
+    "record_id": "MTR-EAL-LMC-DT",
     "company": "MTR",
-    "route_id": "ISL",
+    "route_id": "EAL",
     "route": {
-      "en": "Island Line",
-      "tc": "港島線",
-      "sc": "港島線"
+      "en": "East Rail Line",
+      "tc": "東鐵線",
+      "sc": "東鐵線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "LMC-DT",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "KET",
+        "stop_id": "LMC",
         "name": {
-          "en": "Kennedy Town",
-          "tc": "堅尼地城",
-          "sc": "堅尼地城"
+          "en": "Lok Ma Chau",
+          "tc": "落馬洲",
+          "sc": "落馬洲"
         },
-        "lat": 22.281254513132996,
-        "long": 114.12886955093184
+        "lat": 22.514862030460808,
+        "long": 114.06560724246171
       },
       {
         "seq": 2,
-        "stop_id": "HKU",
+        "stop_id": "SHS",
         "name": {
-          "en": "HKU",
-          "tc": "香港大學",
-          "sc": "香港大學"
+          "en": "Sheung Shui",
+          "tc": "上水",
+          "sc": "上水"
         },
-        "lat": 22.283989111988046,
-        "long": 114.13504248066513
+        "lat": 22.50126167696661,
+        "long": 114.127935366744
       },
       {
         "seq": 3,
-        "stop_id": "SYP",
+        "stop_id": "FAN",
         "name": {
-          "en": "Sai Ying Pun",
-          "tc": "西營盤",
-          "sc": "西營盤"
+          "en": "Fanling",
+          "tc": "粉嶺",
+          "sc": "粉嶺"
         },
-        "lat": 22.285534362394475,
-        "long": 114.1427312069917
+        "lat": 22.492066994773943,
+        "long": 114.13867606389636
       },
       {
         "seq": 4,
-        "stop_id": "SHW",
+        "stop_id": "TWO",
         "name": {
-          "en": "Sheung Wan",
-          "tc": "上環",
-          "sc": "上環"
+          "en": "Tai Wo",
+          "tc": "太和",
+          "sc": "太和"
         },
-        "lat": 22.28655704471235,
-        "long": 114.15186949667333
+        "lat": 22.451006269056442,
+        "long": 114.16121353349389
       },
       {
         "seq": 5,
-        "stop_id": "CEN",
+        "stop_id": "TAP",
         "name": {
-          "en": "Central",
-          "tc": "中環",
-          "sc": "中環"
+          "en": "Tai Po Market",
+          "tc": "大埔墟",
+          "sc": "大埔墟"
         },
-        "lat": 22.281971521983756,
-        "long": 114.15816083856758
+        "lat": 22.44455631766727,
+        "long": 114.17047883009643
       },
       {
         "seq": 6,
+        "stop_id": "UNI",
+        "name": {
+          "en": "University",
+          "tc": "大學",
+          "sc": "大學"
+        },
+        "lat": 22.41315618988642,
+        "long": 114.20995245326851
+      },
+      {
+        "seq": 7,
+        "stop_id": "FOT",
+        "name": {
+          "en": "Fo Tan",
+          "tc": "火炭",
+          "sc": "火炭"
+        },
+        "lat": 22.39508453881388,
+        "long": 114.1981218996912
+      },
+      {
+        "seq": 8,
+        "stop_id": "SHT",
+        "name": {
+          "en": "Sha Tin",
+          "tc": "沙田",
+          "sc": "沙田"
+        },
+        "lat": 22.377029786125398,
+        "long": 114.19497999430553
+      },
+      {
+        "seq": 9,
+        "stop_id": "TAW",
+        "name": {
+          "en": "Tai Wai",
+          "tc": "大圍",
+          "sc": "大圍"
+        },
+        "lat": 22.372720123411025,
+        "long": 114.17861754006417
+      },
+      {
+        "seq": 10,
+        "stop_id": "KOT",
+        "name": {
+          "en": "Kowloon Tong",
+          "tc": "九龍塘",
+          "sc": "九龍塘"
+        },
+        "lat": 22.337157232807026,
+        "long": 114.17607888953131
+      },
+      {
+        "seq": 11,
+        "stop_id": "MKK",
+        "name": {
+          "en": "Mong Kok East",
+          "tc": "旺角東",
+          "sc": "旺角東"
+        },
+        "lat": 22.322051289988806,
+        "long": 114.17259435000571
+      },
+      {
+        "seq": 12,
+        "stop_id": "HUH",
+        "name": {
+          "en": "Hung Hom",
+          "tc": "紅磡",
+          "sc": "紅磡"
+        },
+        "lat": 22.302887952681683,
+        "long": 114.18209861366228
+      },
+      {
+        "seq": 13,
+        "stop_id": "EXC",
+        "name": {
+          "en": "Exhibition Centre",
+          "tc": "會展",
+          "sc": "會展"
+        },
+        "lat": 22.282142689799905,
+        "long": 114.17550763679316
+      },
+      {
+        "seq": 14,
+        "stop_id": "ADM",
+        "name": {
+          "en": "Admiralty",
+          "tc": "金鐘",
+          "sc": "金鐘"
+        },
+        "lat": 22.27941347850174,
+        "long": 114.16454079886108
+      }
+    ]
+  },
+  "MTR-EAL-LMC-UT": {
+    "record_id": "MTR-EAL-LMC-UT",
+    "company": "MTR",
+    "route_id": "EAL",
+    "route": {
+      "en": "East Rail Line",
+      "tc": "東鐵線",
+      "sc": "東鐵線"
+    },
+    "bound": "LMC-UT",
+    "stops": [
+      {
+        "seq": 1,
         "stop_id": "ADM",
         "name": {
           "en": "Admiralty",
@@ -960,130 +562,319 @@
         "long": 114.16454079886108
       },
       {
-        "seq": 7,
-        "stop_id": "WAC",
+        "seq": 2,
+        "stop_id": "EXC",
         "name": {
-          "en": "Wan Chai",
-          "tc": "灣仔",
-          "sc": "灣仔"
+          "en": "Exhibition Centre",
+          "tc": "會展",
+          "sc": "會展"
         },
-        "lat": 22.27754715548959,
-        "long": 114.17313920143442
+        "lat": 22.282142689799905,
+        "long": 114.17550763679316
+      },
+      {
+        "seq": 3,
+        "stop_id": "HUH",
+        "name": {
+          "en": "Hung Hom",
+          "tc": "紅磡",
+          "sc": "紅磡"
+        },
+        "lat": 22.302887952681683,
+        "long": 114.18209861366228
+      },
+      {
+        "seq": 4,
+        "stop_id": "MKK",
+        "name": {
+          "en": "Mong Kok East",
+          "tc": "旺角東",
+          "sc": "旺角東"
+        },
+        "lat": 22.322051289988806,
+        "long": 114.17259435000571
+      },
+      {
+        "seq": 5,
+        "stop_id": "KOT",
+        "name": {
+          "en": "Kowloon Tong",
+          "tc": "九龍塘",
+          "sc": "九龍塘"
+        },
+        "lat": 22.337157232807026,
+        "long": 114.17607888953131
+      },
+      {
+        "seq": 6,
+        "stop_id": "TAW",
+        "name": {
+          "en": "Tai Wai",
+          "tc": "大圍",
+          "sc": "大圍"
+        },
+        "lat": 22.372720123411025,
+        "long": 114.17861754006417
+      },
+      {
+        "seq": 7,
+        "stop_id": "SHT",
+        "name": {
+          "en": "Sha Tin",
+          "tc": "沙田",
+          "sc": "沙田"
+        },
+        "lat": 22.377029786125398,
+        "long": 114.19497999430553
       },
       {
         "seq": 8,
-        "stop_id": "CAB",
+        "stop_id": "FOT",
         "name": {
-          "en": "Causeway Bay",
-          "tc": "銅鑼灣",
-          "sc": "銅鑼灣"
+          "en": "Fo Tan",
+          "tc": "火炭",
+          "sc": "火炭"
         },
-        "lat": 22.280359023707057,
-        "long": 114.18501164417222
+        "lat": 22.39508453881388,
+        "long": 114.1981218996912
       },
       {
         "seq": 9,
-        "stop_id": "TIH",
+        "stop_id": "UNI",
         "name": {
-          "en": "Tin Hau",
-          "tc": "天后",
-          "sc": "天后"
+          "en": "University",
+          "tc": "大學",
+          "sc": "大學"
         },
-        "lat": 22.28242687923294,
-        "long": 114.19172322416357
+        "lat": 22.41315618988642,
+        "long": 114.20995245326851
       },
       {
         "seq": 10,
-        "stop_id": "FOH",
+        "stop_id": "TAP",
         "name": {
-          "en": "Fortress Hill",
-          "tc": "炮台山",
-          "sc": "炮台山"
+          "en": "Tai Po Market",
+          "tc": "大埔墟",
+          "sc": "大埔墟"
         },
-        "lat": 22.288000955461854,
-        "long": 114.19355937220712
+        "lat": 22.44455631766727,
+        "long": 114.17047883009643
       },
       {
         "seq": 11,
-        "stop_id": "NOP",
+        "stop_id": "TWO",
         "name": {
-          "en": "North Point",
-          "tc": "北角",
-          "sc": "北角"
+          "en": "Tai Wo",
+          "tc": "太和",
+          "sc": "太和"
         },
-        "lat": 22.291273822302585,
-        "long": 114.20049547448032
+        "lat": 22.451006269056442,
+        "long": 114.16121353349389
       },
       {
         "seq": 12,
-        "stop_id": "QUB",
+        "stop_id": "FAN",
         "name": {
-          "en": "Quarry Bay",
-          "tc": "鰂魚涌",
-          "sc": "鰂魚涌"
+          "en": "Fanling",
+          "tc": "粉嶺",
+          "sc": "粉嶺"
         },
-        "lat": 22.287895141433584,
-        "long": 114.20973827897926
+        "lat": 22.492066994773943,
+        "long": 114.13867606389636
       },
       {
         "seq": 13,
-        "stop_id": "TAK",
+        "stop_id": "SHS",
         "name": {
-          "en": "Tai Koo",
-          "tc": "太古",
-          "sc": "太古"
+          "en": "Sheung Shui",
+          "tc": "上水",
+          "sc": "上水"
         },
-        "lat": 22.28465233543782,
-        "long": 114.2163521682177
+        "lat": 22.50126167696661,
+        "long": 114.127935366744
       },
       {
         "seq": 14,
-        "stop_id": "SWH",
+        "stop_id": "LMC",
         "name": {
-          "en": "Sai Wan Ho",
-          "tc": "西灣河",
-          "sc": "西灣河"
+          "en": "Lok Ma Chau",
+          "tc": "落馬洲",
+          "sc": "落馬洲"
         },
-        "lat": 22.282101626935496,
-        "long": 114.22190062047952
-      },
-      {
-        "seq": 15,
-        "stop_id": "SKW",
-        "name": {
-          "en": "Shau Kei Wan",
-          "tc": "筲箕灣",
-          "sc": "筲箕灣"
-        },
-        "lat": 22.27924497260521,
-        "long": 114.22887798758194
-      },
-      {
-        "seq": 16,
-        "stop_id": "HFC",
-        "name": {
-          "en": "Heng Fa Chuen",
-          "tc": "杏花邨",
-          "sc": "杏花邨"
-        },
-        "lat": 22.27680699745514,
-        "long": 114.23990751041266
-      },
-      {
-        "seq": 17,
-        "stop_id": "CHW",
-        "name": {
-          "en": "Chai Wan",
-          "tc": "柴灣",
-          "sc": "柴灣"
-        },
-        "lat": 22.26464042081212,
-        "long": 114.23704614340492
+        "lat": 22.514862030460808,
+        "long": 114.06560724246171
       }
     ]
   },
-  "MTR-ISL-outbound-1": {
-    "record_id": "MTR-ISL-outbound-1",
+  "MTR-EAL-UT": {
+    "record_id": "MTR-EAL-UT",
+    "company": "MTR",
+    "route_id": "EAL",
+    "route": {
+      "en": "East Rail Line",
+      "tc": "東鐵線",
+      "sc": "東鐵線"
+    },
+    "bound": "UT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "ADM",
+        "name": {
+          "en": "Admiralty",
+          "tc": "金鐘",
+          "sc": "金鐘"
+        },
+        "lat": 22.27941347850174,
+        "long": 114.16454079886108
+      },
+      {
+        "seq": 2,
+        "stop_id": "EXC",
+        "name": {
+          "en": "Exhibition Centre",
+          "tc": "會展",
+          "sc": "會展"
+        },
+        "lat": 22.282142689799905,
+        "long": 114.17550763679316
+      },
+      {
+        "seq": 3,
+        "stop_id": "HUH",
+        "name": {
+          "en": "Hung Hom",
+          "tc": "紅磡",
+          "sc": "紅磡"
+        },
+        "lat": 22.302887952681683,
+        "long": 114.18209861366228
+      },
+      {
+        "seq": 4,
+        "stop_id": "MKK",
+        "name": {
+          "en": "Mong Kok East",
+          "tc": "旺角東",
+          "sc": "旺角東"
+        },
+        "lat": 22.322051289988806,
+        "long": 114.17259435000571
+      },
+      {
+        "seq": 5,
+        "stop_id": "KOT",
+        "name": {
+          "en": "Kowloon Tong",
+          "tc": "九龍塘",
+          "sc": "九龍塘"
+        },
+        "lat": 22.337157232807026,
+        "long": 114.17607888953131
+      },
+      {
+        "seq": 6,
+        "stop_id": "TAW",
+        "name": {
+          "en": "Tai Wai",
+          "tc": "大圍",
+          "sc": "大圍"
+        },
+        "lat": 22.372720123411025,
+        "long": 114.17861754006417
+      },
+      {
+        "seq": 7,
+        "stop_id": "SHT",
+        "name": {
+          "en": "Sha Tin",
+          "tc": "沙田",
+          "sc": "沙田"
+        },
+        "lat": 22.377029786125398,
+        "long": 114.19497999430553
+      },
+      {
+        "seq": 8,
+        "stop_id": "FOT",
+        "name": {
+          "en": "Fo Tan",
+          "tc": "火炭",
+          "sc": "火炭"
+        },
+        "lat": 22.39508453881388,
+        "long": 114.1981218996912
+      },
+      {
+        "seq": 9,
+        "stop_id": "UNI",
+        "name": {
+          "en": "University",
+          "tc": "大學",
+          "sc": "大學"
+        },
+        "lat": 22.41315618988642,
+        "long": 114.20995245326851
+      },
+      {
+        "seq": 10,
+        "stop_id": "TAP",
+        "name": {
+          "en": "Tai Po Market",
+          "tc": "大埔墟",
+          "sc": "大埔墟"
+        },
+        "lat": 22.44455631766727,
+        "long": 114.17047883009643
+      },
+      {
+        "seq": 11,
+        "stop_id": "TWO",
+        "name": {
+          "en": "Tai Wo",
+          "tc": "太和",
+          "sc": "太和"
+        },
+        "lat": 22.451006269056442,
+        "long": 114.16121353349389
+      },
+      {
+        "seq": 12,
+        "stop_id": "FAN",
+        "name": {
+          "en": "Fanling",
+          "tc": "粉嶺",
+          "sc": "粉嶺"
+        },
+        "lat": 22.492066994773943,
+        "long": 114.13867606389636
+      },
+      {
+        "seq": 13,
+        "stop_id": "SHS",
+        "name": {
+          "en": "Sheung Shui",
+          "tc": "上水",
+          "sc": "上水"
+        },
+        "lat": 22.50126167696661,
+        "long": 114.127935366744
+      },
+      {
+        "seq": 14,
+        "stop_id": "LOW",
+        "name": {
+          "en": "Lo Wu",
+          "tc": "羅湖",
+          "sc": "羅湖"
+        },
+        "lat": 22.528160500810174,
+        "long": 114.11340862227986
+      }
+    ]
+  },
+  "MTR-ISL-DT": {
+    "record_id": "MTR-ISL-DT",
     "company": "MTR",
     "route_id": "ISL",
     "route": {
@@ -1091,8 +882,7 @@
       "tc": "港島線",
       "sc": "港島線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "stops": [
       {
         "seq": 1,
@@ -1283,8 +1073,208 @@
       }
     ]
   },
-  "MTR-KTL-inbound-1": {
-    "record_id": "MTR-KTL-inbound-1",
+  "MTR-ISL-UT": {
+    "record_id": "MTR-ISL-UT",
+    "company": "MTR",
+    "route_id": "ISL",
+    "route": {
+      "en": "Island Line",
+      "tc": "港島線",
+      "sc": "港島線"
+    },
+    "bound": "UT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "KET",
+        "name": {
+          "en": "Kennedy Town",
+          "tc": "堅尼地城",
+          "sc": "堅尼地城"
+        },
+        "lat": 22.281254513132996,
+        "long": 114.12886955093184
+      },
+      {
+        "seq": 2,
+        "stop_id": "HKU",
+        "name": {
+          "en": "HKU",
+          "tc": "香港大學",
+          "sc": "香港大學"
+        },
+        "lat": 22.283989111988046,
+        "long": 114.13504248066513
+      },
+      {
+        "seq": 3,
+        "stop_id": "SYP",
+        "name": {
+          "en": "Sai Ying Pun",
+          "tc": "西營盤",
+          "sc": "西營盤"
+        },
+        "lat": 22.285534362394475,
+        "long": 114.1427312069917
+      },
+      {
+        "seq": 4,
+        "stop_id": "SHW",
+        "name": {
+          "en": "Sheung Wan",
+          "tc": "上環",
+          "sc": "上環"
+        },
+        "lat": 22.28655704471235,
+        "long": 114.15186949667333
+      },
+      {
+        "seq": 5,
+        "stop_id": "CEN",
+        "name": {
+          "en": "Central",
+          "tc": "中環",
+          "sc": "中環"
+        },
+        "lat": 22.281971521983756,
+        "long": 114.15816083856758
+      },
+      {
+        "seq": 6,
+        "stop_id": "ADM",
+        "name": {
+          "en": "Admiralty",
+          "tc": "金鐘",
+          "sc": "金鐘"
+        },
+        "lat": 22.27941347850174,
+        "long": 114.16454079886108
+      },
+      {
+        "seq": 7,
+        "stop_id": "WAC",
+        "name": {
+          "en": "Wan Chai",
+          "tc": "灣仔",
+          "sc": "灣仔"
+        },
+        "lat": 22.27754715548959,
+        "long": 114.17313920143442
+      },
+      {
+        "seq": 8,
+        "stop_id": "CAB",
+        "name": {
+          "en": "Causeway Bay",
+          "tc": "銅鑼灣",
+          "sc": "銅鑼灣"
+        },
+        "lat": 22.280359023707057,
+        "long": 114.18501164417222
+      },
+      {
+        "seq": 9,
+        "stop_id": "TIH",
+        "name": {
+          "en": "Tin Hau",
+          "tc": "天后",
+          "sc": "天后"
+        },
+        "lat": 22.28242687923294,
+        "long": 114.19172322416357
+      },
+      {
+        "seq": 10,
+        "stop_id": "FOH",
+        "name": {
+          "en": "Fortress Hill",
+          "tc": "炮台山",
+          "sc": "炮台山"
+        },
+        "lat": 22.288000955461854,
+        "long": 114.19355937220712
+      },
+      {
+        "seq": 11,
+        "stop_id": "NOP",
+        "name": {
+          "en": "North Point",
+          "tc": "北角",
+          "sc": "北角"
+        },
+        "lat": 22.291273822302585,
+        "long": 114.20049547448032
+      },
+      {
+        "seq": 12,
+        "stop_id": "QUB",
+        "name": {
+          "en": "Quarry Bay",
+          "tc": "鰂魚涌",
+          "sc": "鰂魚涌"
+        },
+        "lat": 22.287895141433584,
+        "long": 114.20973827897926
+      },
+      {
+        "seq": 13,
+        "stop_id": "TAK",
+        "name": {
+          "en": "Tai Koo",
+          "tc": "太古",
+          "sc": "太古"
+        },
+        "lat": 22.28465233543782,
+        "long": 114.2163521682177
+      },
+      {
+        "seq": 14,
+        "stop_id": "SWH",
+        "name": {
+          "en": "Sai Wan Ho",
+          "tc": "西灣河",
+          "sc": "西灣河"
+        },
+        "lat": 22.282101626935496,
+        "long": 114.22190062047952
+      },
+      {
+        "seq": 15,
+        "stop_id": "SKW",
+        "name": {
+          "en": "Shau Kei Wan",
+          "tc": "筲箕灣",
+          "sc": "筲箕灣"
+        },
+        "lat": 22.27924497260521,
+        "long": 114.22887798758194
+      },
+      {
+        "seq": 16,
+        "stop_id": "HFC",
+        "name": {
+          "en": "Heng Fa Chuen",
+          "tc": "杏花邨",
+          "sc": "杏花邨"
+        },
+        "lat": 22.27680699745514,
+        "long": 114.23990751041266
+      },
+      {
+        "seq": 17,
+        "stop_id": "CHW",
+        "name": {
+          "en": "Chai Wan",
+          "tc": "柴灣",
+          "sc": "柴灣"
+        },
+        "lat": 22.26464042081212,
+        "long": 114.23704614340492
+      }
+    ]
+  },
+  "MTR-KTL-DT": {
+    "record_id": "MTR-KTL-DT",
     "company": "MTR",
     "route_id": "KTL",
     "route": {
@@ -1292,8 +1282,207 @@
       "tc": "觀塘線",
       "sc": "觀塘線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "DT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "TIK",
+        "name": {
+          "en": "Tiu Keng Leng",
+          "tc": "調景嶺",
+          "sc": "調景嶺"
+        },
+        "lat": 22.304490152839893,
+        "long": 114.25286490472735
+      },
+      {
+        "seq": 2,
+        "stop_id": "YAT",
+        "name": {
+          "en": "Yau Tong",
+          "tc": "油塘",
+          "sc": "油塘"
+        },
+        "lat": 22.298125763304675,
+        "long": 114.23695974817399
+      },
+      {
+        "seq": 3,
+        "stop_id": "LAT",
+        "name": {
+          "en": "Lam Tin",
+          "tc": "藍田",
+          "sc": "藍田"
+        },
+        "lat": 22.306858633362157,
+        "long": 114.23272055814525
+      },
+      {
+        "seq": 4,
+        "stop_id": "KWT",
+        "name": {
+          "en": "Kwun Tong",
+          "tc": "觀塘",
+          "sc": "觀塘"
+        },
+        "lat": 22.312223396214144,
+        "long": 114.22635138125507
+      },
+      {
+        "seq": 5,
+        "stop_id": "NTK",
+        "name": {
+          "en": "Ngau Tau Kok",
+          "tc": "牛頭角",
+          "sc": "牛頭角"
+        },
+        "lat": 22.315567816937776,
+        "long": 114.2189749122765
+      },
+      {
+        "seq": 6,
+        "stop_id": "KOB",
+        "name": {
+          "en": "Kowloon Bay",
+          "tc": "九龍灣",
+          "sc": "九龍灣"
+        },
+        "lat": 22.32326707367571,
+        "long": 114.21391374901927
+      },
+      {
+        "seq": 7,
+        "stop_id": "CHH",
+        "name": {
+          "en": "Choi Hung",
+          "tc": "彩虹",
+          "sc": "彩虹"
+        },
+        "lat": 22.334912782552024,
+        "long": 114.20898099935908
+      },
+      {
+        "seq": 8,
+        "stop_id": "DIH",
+        "name": {
+          "en": "Diamond Hill",
+          "tc": "鑽石山",
+          "sc": "鑽石山"
+        },
+        "lat": 22.340034436033115,
+        "long": 114.20167546798106
+      },
+      {
+        "seq": 9,
+        "stop_id": "WTS",
+        "name": {
+          "en": "Wong Tai Sin",
+          "tc": "黃大仙",
+          "sc": "黃大仙"
+        },
+        "lat": 22.34166165387438,
+        "long": 114.19383467444433
+      },
+      {
+        "seq": 10,
+        "stop_id": "LOF",
+        "name": {
+          "en": "Lok Fu",
+          "tc": "樂富",
+          "sc": "樂富"
+        },
+        "lat": 22.338025824423116,
+        "long": 114.18700694755367
+      },
+      {
+        "seq": 11,
+        "stop_id": "KOT",
+        "name": {
+          "en": "Kowloon Tong",
+          "tc": "九龍塘",
+          "sc": "九龍塘"
+        },
+        "lat": 22.337157232807026,
+        "long": 114.17607888953131
+      },
+      {
+        "seq": 12,
+        "stop_id": "SKM",
+        "name": {
+          "en": "Shek Kip Mei",
+          "tc": "石硤尾",
+          "sc": "石硤尾"
+        },
+        "lat": 22.332118560190942,
+        "long": 114.16879740289232
+      },
+      {
+        "seq": 13,
+        "stop_id": "PRE",
+        "name": {
+          "en": "Prince Edward",
+          "tc": "太子",
+          "sc": "太子"
+        },
+        "lat": 22.325082944366997,
+        "long": 114.16837815943852
+      },
+      {
+        "seq": 14,
+        "stop_id": "MOK",
+        "name": {
+          "en": "Mong Kok",
+          "tc": "旺角",
+          "sc": "旺角"
+        },
+        "lat": 22.319258594594153,
+        "long": 114.16935185528698
+      },
+      {
+        "seq": 15,
+        "stop_id": "YMT",
+        "name": {
+          "en": "Yau Ma Tei",
+          "tc": "油麻地",
+          "sc": "油麻地"
+        },
+        "lat": 22.312833814188053,
+        "long": 114.17067121017935
+      },
+      {
+        "seq": 16,
+        "stop_id": "HOM",
+        "name": {
+          "en": "Ho Man Tin",
+          "tc": "何文田",
+          "sc": "何文田"
+        },
+        "lat": 22.309366947586355,
+        "long": 114.18272213374736
+      },
+      {
+        "seq": 17,
+        "stop_id": "WHA",
+        "name": {
+          "en": "Whampoa",
+          "tc": "黃埔",
+          "sc": "黃埔"
+        },
+        "lat": 22.305047975088126,
+        "long": 114.18955297439268
+      }
+    ]
+  },
+  "MTR-KTL-UT": {
+    "record_id": "MTR-KTL-UT",
+    "company": "MTR",
+    "route_id": "KTL",
+    "route": {
+      "en": "Kwun Tong Line",
+      "tc": "觀塘線",
+      "sc": "觀塘線"
+    },
+    "bound": "UT",
     "stops": [
       {
         "seq": 1,
@@ -1484,209 +1673,8 @@
       }
     ]
   },
-  "MTR-KTL-outbound-1": {
-    "record_id": "MTR-KTL-outbound-1",
-    "company": "MTR",
-    "route_id": "KTL",
-    "route": {
-      "en": "Kwun Tong Line",
-      "tc": "觀塘線",
-      "sc": "觀塘線"
-    },
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "TIK",
-        "name": {
-          "en": "Tiu Keng Leng",
-          "tc": "調景嶺",
-          "sc": "調景嶺"
-        },
-        "lat": 22.304490152839893,
-        "long": 114.25286490472735
-      },
-      {
-        "seq": 2,
-        "stop_id": "YAT",
-        "name": {
-          "en": "Yau Tong",
-          "tc": "油塘",
-          "sc": "油塘"
-        },
-        "lat": 22.298125763304675,
-        "long": 114.23695974817399
-      },
-      {
-        "seq": 3,
-        "stop_id": "LAT",
-        "name": {
-          "en": "Lam Tin",
-          "tc": "藍田",
-          "sc": "藍田"
-        },
-        "lat": 22.306858633362157,
-        "long": 114.23272055814525
-      },
-      {
-        "seq": 4,
-        "stop_id": "KWT",
-        "name": {
-          "en": "Kwun Tong",
-          "tc": "觀塘",
-          "sc": "觀塘"
-        },
-        "lat": 22.312223396214144,
-        "long": 114.22635138125507
-      },
-      {
-        "seq": 5,
-        "stop_id": "NTK",
-        "name": {
-          "en": "Ngau Tau Kok",
-          "tc": "牛頭角",
-          "sc": "牛頭角"
-        },
-        "lat": 22.315567816937776,
-        "long": 114.2189749122765
-      },
-      {
-        "seq": 6,
-        "stop_id": "KOB",
-        "name": {
-          "en": "Kowloon Bay",
-          "tc": "九龍灣",
-          "sc": "九龍灣"
-        },
-        "lat": 22.32326707367571,
-        "long": 114.21391374901927
-      },
-      {
-        "seq": 7,
-        "stop_id": "CHH",
-        "name": {
-          "en": "Choi Hung",
-          "tc": "彩虹",
-          "sc": "彩虹"
-        },
-        "lat": 22.334912782552024,
-        "long": 114.20898099935908
-      },
-      {
-        "seq": 8,
-        "stop_id": "DIH",
-        "name": {
-          "en": "Diamond Hill",
-          "tc": "鑽石山",
-          "sc": "鑽石山"
-        },
-        "lat": 22.340034436033115,
-        "long": 114.20167546798106
-      },
-      {
-        "seq": 9,
-        "stop_id": "WTS",
-        "name": {
-          "en": "Wong Tai Sin",
-          "tc": "黃大仙",
-          "sc": "黃大仙"
-        },
-        "lat": 22.34166165387438,
-        "long": 114.19383467444433
-      },
-      {
-        "seq": 10,
-        "stop_id": "LOF",
-        "name": {
-          "en": "Lok Fu",
-          "tc": "樂富",
-          "sc": "樂富"
-        },
-        "lat": 22.338025824423116,
-        "long": 114.18700694755367
-      },
-      {
-        "seq": 11,
-        "stop_id": "KOT",
-        "name": {
-          "en": "Kowloon Tong",
-          "tc": "九龍塘",
-          "sc": "九龍塘"
-        },
-        "lat": 22.337157232807026,
-        "long": 114.17607888953131
-      },
-      {
-        "seq": 12,
-        "stop_id": "SKM",
-        "name": {
-          "en": "Shek Kip Mei",
-          "tc": "石硤尾",
-          "sc": "石硤尾"
-        },
-        "lat": 22.332118560190942,
-        "long": 114.16879740289232
-      },
-      {
-        "seq": 13,
-        "stop_id": "PRE",
-        "name": {
-          "en": "Prince Edward",
-          "tc": "太子",
-          "sc": "太子"
-        },
-        "lat": 22.325082944366997,
-        "long": 114.16837815943852
-      },
-      {
-        "seq": 14,
-        "stop_id": "MOK",
-        "name": {
-          "en": "Mong Kok",
-          "tc": "旺角",
-          "sc": "旺角"
-        },
-        "lat": 22.319258594594153,
-        "long": 114.16935185528698
-      },
-      {
-        "seq": 15,
-        "stop_id": "YMT",
-        "name": {
-          "en": "Yau Ma Tei",
-          "tc": "油麻地",
-          "sc": "油麻地"
-        },
-        "lat": 22.312833814188053,
-        "long": 114.17067121017935
-      },
-      {
-        "seq": 16,
-        "stop_id": "HOM",
-        "name": {
-          "en": "Ho Man Tin",
-          "tc": "何文田",
-          "sc": "何文田"
-        },
-        "lat": 22.309366947586355,
-        "long": 114.18272213374736
-      },
-      {
-        "seq": 17,
-        "stop_id": "WHA",
-        "name": {
-          "en": "Whampoa",
-          "tc": "黃埔",
-          "sc": "黃埔"
-        },
-        "lat": 22.305047975088126,
-        "long": 114.18955297439268
-      }
-    ]
-  },
-  "MTR-SIL-inbound-1": {
-    "record_id": "MTR-SIL-inbound-1",
+  "MTR-SIL-DT": {
+    "record_id": "MTR-SIL-DT",
     "company": "MTR",
     "route_id": "SIL",
     "route": {
@@ -1694,77 +1682,7 @@
       "tc": "南港島線",
       "sc": "南港島線"
     },
-    "bound": "inbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "ADM",
-        "name": {
-          "en": "Admiralty",
-          "tc": "金鐘",
-          "sc": "金鐘"
-        },
-        "lat": 22.27941347850174,
-        "long": 114.16454079886108
-      },
-      {
-        "seq": 2,
-        "stop_id": "OCP",
-        "name": {
-          "en": "Ocean Park",
-          "tc": "海洋公園",
-          "sc": "海洋公園"
-        },
-        "lat": 22.24870195517299,
-        "long": 114.1744394035013
-      },
-      {
-        "seq": 3,
-        "stop_id": "WCH",
-        "name": {
-          "en": "Wong Chuk Hang",
-          "tc": "黃竹坑",
-          "sc": "黃竹坑"
-        },
-        "lat": 22.247985763992077,
-        "long": 114.16802387032658
-      },
-      {
-        "seq": 4,
-        "stop_id": "LET",
-        "name": {
-          "en": "Lei Tung",
-          "tc": "利東",
-          "sc": "利東"
-        },
-        "lat": 22.24194981669075,
-        "long": 114.15609453361536
-      },
-      {
-        "seq": 5,
-        "stop_id": "SOH",
-        "name": {
-          "en": "South Horizons",
-          "tc": "海怡半島",
-          "sc": "海怡半島"
-        },
-        "lat": 22.24285853157453,
-        "long": 114.1487462466504
-      }
-    ]
-  },
-  "MTR-SIL-outbound-1": {
-    "record_id": "MTR-SIL-outbound-1",
-    "company": "MTR",
-    "route_id": "SIL",
-    "route": {
-      "en": "South Island Line",
-      "tc": "南港島線",
-      "sc": "南港島線"
-    },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "stops": [
       {
         "seq": 1,
@@ -1823,110 +1741,76 @@
       }
     ]
   },
-  "MTR-TCL-inbound-1": {
-    "record_id": "MTR-TCL-inbound-1",
+  "MTR-SIL-UT": {
+    "record_id": "MTR-SIL-UT",
     "company": "MTR",
-    "route_id": "TCL",
+    "route_id": "SIL",
     "route": {
-      "en": "Tung Chung Line",
-      "tc": "東涌線",
-      "sc": "東涌線"
+      "en": "South Island Line",
+      "tc": "南港島線",
+      "sc": "南港島線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "HOK",
+        "stop_id": "ADM",
         "name": {
-          "en": "Hong Kong",
-          "tc": "香港",
-          "sc": "香港"
+          "en": "Admiralty",
+          "tc": "金鐘",
+          "sc": "金鐘"
         },
-        "lat": 22.284686041552774,
-        "long": 114.1581835231989
+        "lat": 22.27941347850174,
+        "long": 114.16454079886108
       },
       {
         "seq": 2,
-        "stop_id": "KOW",
+        "stop_id": "OCP",
         "name": {
-          "en": "Kowloon",
-          "tc": "九龍",
-          "sc": "九龍"
+          "en": "Ocean Park",
+          "tc": "海洋公園",
+          "sc": "海洋公園"
         },
-        "lat": 22.304305691035957,
-        "long": 114.16146960967275
+        "lat": 22.24870195517299,
+        "long": 114.1744394035013
       },
       {
         "seq": 3,
-        "stop_id": "OLY",
+        "stop_id": "WCH",
         "name": {
-          "en": "Olympic",
-          "tc": "奧運",
-          "sc": "奧運"
+          "en": "Wong Chuk Hang",
+          "tc": "黃竹坑",
+          "sc": "黃竹坑"
         },
-        "lat": 22.317850059137903,
-        "long": 114.16011858185531
+        "lat": 22.247985763992077,
+        "long": 114.16802387032658
       },
       {
         "seq": 4,
-        "stop_id": "NAC",
+        "stop_id": "LET",
         "name": {
-          "en": "Nam Cheong",
-          "tc": "南昌",
-          "sc": "南昌"
+          "en": "Lei Tung",
+          "tc": "利東",
+          "sc": "利東"
         },
-        "lat": 22.326782033013238,
-        "long": 114.15367678937884
+        "lat": 22.24194981669075,
+        "long": 114.15609453361536
       },
       {
         "seq": 5,
-        "stop_id": "LAK",
+        "stop_id": "SOH",
         "name": {
-          "en": "Lai King",
-          "tc": "茘景",
-          "sc": "茘景"
+          "en": "South Horizons",
+          "tc": "海怡半島",
+          "sc": "海怡半島"
         },
-        "lat": 22.34844982624764,
-        "long": 114.12611921705636
-      },
-      {
-        "seq": 6,
-        "stop_id": "TSY",
-        "name": {
-          "en": "Tsing Yi",
-          "tc": "青衣",
-          "sc": "青衣"
-        },
-        "lat": 22.358512438555145,
-        "long": 114.1076584909509
-      },
-      {
-        "seq": 7,
-        "stop_id": "SUN",
-        "name": {
-          "en": "Sunny Bay",
-          "tc": "欣澳",
-          "sc": "欣澳"
-        },
-        "lat": 22.3317354599028,
-        "long": 114.02895721169688
-      },
-      {
-        "seq": 8,
-        "stop_id": "TUC",
-        "name": {
-          "en": "Tung Chung",
-          "tc": "東涌",
-          "sc": "東涌"
-        },
-        "lat": 22.289264799472594,
-        "long": 113.94144947559154
+        "lat": 22.24285853157453,
+        "long": 114.1487462466504
       }
     ]
   },
-  "MTR-TCL-outbound-1": {
-    "record_id": "MTR-TCL-outbound-1",
+  "MTR-TCL-DT": {
+    "record_id": "MTR-TCL-DT",
     "company": "MTR",
     "route_id": "TCL",
     "route": {
@@ -1934,8 +1818,7 @@
       "tc": "東涌線",
       "sc": "東涌線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "stops": [
       {
         "seq": 1,
@@ -2027,494 +1910,52 @@
       }
     ]
   },
-  "MTR-TKL-inbound-1": {
-    "record_id": "MTR-TKL-inbound-1",
+  "MTR-TCL-UT": {
+    "record_id": "MTR-TCL-UT",
     "company": "MTR",
-    "route_id": "TKL",
+    "route_id": "TCL",
     "route": {
-      "en": "Tseung Kwan O Line",
-      "tc": "將軍澳線",
-      "sc": "將軍澳線"
+      "en": "Tung Chung Line",
+      "tc": "東涌線",
+      "sc": "東涌線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "NOP",
+        "stop_id": "HOK",
         "name": {
-          "en": "North Point",
-          "tc": "北角",
-          "sc": "北角"
+          "en": "Hong Kong",
+          "tc": "香港",
+          "sc": "香港"
         },
-        "lat": 22.291273822302585,
-        "long": 114.20049547448032
+        "lat": 22.284686041552774,
+        "long": 114.1581835231989
       },
       {
         "seq": 2,
-        "stop_id": "QUB",
+        "stop_id": "KOW",
         "name": {
-          "en": "Quarry Bay",
-          "tc": "鰂魚涌",
-          "sc": "鰂魚涌"
+          "en": "Kowloon",
+          "tc": "九龍",
+          "sc": "九龍"
         },
-        "lat": 22.287895141433584,
-        "long": 114.20973827897926
+        "lat": 22.304305691035957,
+        "long": 114.16146960967275
       },
       {
         "seq": 3,
-        "stop_id": "YAT",
+        "stop_id": "OLY",
         "name": {
-          "en": "Yau Tong",
-          "tc": "油塘",
-          "sc": "油塘"
+          "en": "Olympic",
+          "tc": "奧運",
+          "sc": "奧運"
         },
-        "lat": 22.298125763304675,
-        "long": 114.23695974817399
+        "lat": 22.317850059137903,
+        "long": 114.16011858185531
       },
       {
         "seq": 4,
-        "stop_id": "TIK",
-        "name": {
-          "en": "Tiu Keng Leng",
-          "tc": "調景嶺",
-          "sc": "調景嶺"
-        },
-        "lat": 22.304490152839893,
-        "long": 114.25286490472735
-      },
-      {
-        "seq": 5,
-        "stop_id": "TKO",
-        "name": {
-          "en": "Tseung Kwan O",
-          "tc": "將軍澳",
-          "sc": "將軍澳"
-        },
-        "lat": 22.307458173854403,
-        "long": 114.26000940100057
-      },
-      {
-        "seq": 6,
-        "stop_id": "HAH",
-        "name": {
-          "en": "Hang Hau",
-          "tc": "坑口",
-          "sc": "坑口"
-        },
-        "lat": 22.315606041301333,
-        "long": 114.26438457028505
-      },
-      {
-        "seq": 7,
-        "stop_id": "POA",
-        "name": {
-          "en": "Po Lam",
-          "tc": "寶琳",
-          "sc": "寶琳"
-        },
-        "lat": 22.32251355834842,
-        "long": 114.257807139147
-      }
-    ]
-  },
-  "MTR-TKL-outbound-1": {
-    "record_id": "MTR-TKL-outbound-1",
-    "company": "MTR",
-    "route_id": "TKL",
-    "route": {
-      "en": "Tseung Kwan O Line",
-      "tc": "將軍澳線",
-      "sc": "將軍澳線"
-    },
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "POA",
-        "name": {
-          "en": "Po Lam",
-          "tc": "寶琳",
-          "sc": "寶琳"
-        },
-        "lat": 22.32251355834842,
-        "long": 114.257807139147
-      },
-      {
-        "seq": 2,
-        "stop_id": "HAH",
-        "name": {
-          "en": "Hang Hau",
-          "tc": "坑口",
-          "sc": "坑口"
-        },
-        "lat": 22.315606041301333,
-        "long": 114.26438457028505
-      },
-      {
-        "seq": 3,
-        "stop_id": "TKO",
-        "name": {
-          "en": "Tseung Kwan O",
-          "tc": "將軍澳",
-          "sc": "將軍澳"
-        },
-        "lat": 22.307458173854403,
-        "long": 114.26000940100057
-      },
-      {
-        "seq": 4,
-        "stop_id": "TIK",
-        "name": {
-          "en": "Tiu Keng Leng",
-          "tc": "調景嶺",
-          "sc": "調景嶺"
-        },
-        "lat": 22.304490152839893,
-        "long": 114.25286490472735
-      },
-      {
-        "seq": 5,
-        "stop_id": "YAT",
-        "name": {
-          "en": "Yau Tong",
-          "tc": "油塘",
-          "sc": "油塘"
-        },
-        "lat": 22.298125763304675,
-        "long": 114.23695974817399
-      },
-      {
-        "seq": 6,
-        "stop_id": "QUB",
-        "name": {
-          "en": "Quarry Bay",
-          "tc": "鰂魚涌",
-          "sc": "鰂魚涌"
-        },
-        "lat": 22.287895141433584,
-        "long": 114.20973827897926
-      },
-      {
-        "seq": 7,
-        "stop_id": "NOP",
-        "name": {
-          "en": "North Point",
-          "tc": "北角",
-          "sc": "北角"
-        },
-        "lat": 22.291273822302585,
-        "long": 114.20049547448032
-      }
-    ]
-  },
-  "MTR-TKL-TKS-inbound-1": {
-    "record_id": "MTR-TKL-TKS-inbound-1",
-    "company": "MTR",
-    "route_id": "TKL-TKS",
-    "route": {
-      "en": "Tseung Kwan O Line LOHAS Park",
-      "tc": "將軍澳線 康城",
-      "sc": "將軍澳線 康城"
-    },
-    "bound": "inbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "TIK",
-        "name": {
-          "en": "Tiu Keng Leng",
-          "tc": "調景嶺",
-          "sc": "調景嶺"
-        },
-        "lat": 22.304490152839893,
-        "long": 114.25286490472735
-      },
-      {
-        "seq": 2,
-        "stop_id": "TKO",
-        "name": {
-          "en": "Tseung Kwan O",
-          "tc": "將軍澳",
-          "sc": "將軍澳"
-        },
-        "lat": 22.307458173854403,
-        "long": 114.26000940100057
-      },
-      {
-        "seq": 3,
-        "stop_id": "LHP",
-        "name": {
-          "en": "LOHAS Park",
-          "tc": "康城",
-          "sc": "康城"
-        },
-        "lat": 22.29633343745856,
-        "long": 114.26961556452899
-      }
-    ]
-  },
-  "MTR-TKL-TKS-outbound-1": {
-    "record_id": "MTR-TKL-TKS-outbound-1",
-    "company": "MTR",
-    "route_id": "TKL-TKS",
-    "route": {
-      "en": "Tseung Kwan O Line LOHAS Park",
-      "tc": "將軍澳線 康城",
-      "sc": "將軍澳線 康城"
-    },
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "LHP",
-        "name": {
-          "en": "LOHAS Park",
-          "tc": "康城",
-          "sc": "康城"
-        },
-        "lat": 22.29633343745856,
-        "long": 114.26961556452899
-      },
-      {
-        "seq": 2,
-        "stop_id": "TKO",
-        "name": {
-          "en": "Tseung Kwan O",
-          "tc": "將軍澳",
-          "sc": "將軍澳"
-        },
-        "lat": 22.307458173854403,
-        "long": 114.26000940100057
-      },
-      {
-        "seq": 3,
-        "stop_id": "TIK",
-        "name": {
-          "en": "Tiu Keng Leng",
-          "tc": "調景嶺",
-          "sc": "調景嶺"
-        },
-        "lat": 22.304490152839893,
-        "long": 114.25286490472735
-      }
-    ]
-  },
-  "MTR-TML-inbound-1": {
-    "record_id": "MTR-TML-inbound-1",
-    "company": "MTR",
-    "route_id": "TML",
-    "route": {
-      "en": "Tuen Ma Line",
-      "tc": "屯馬線",
-      "sc": "屯馬線"
-    },
-    "bound": "inbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "WKS",
-        "name": {
-          "en": "Wu Kai Sha",
-          "tc": "烏溪沙",
-          "sc": "烏溪沙"
-        },
-        "lat": 22.429142096379305,
-        "long": 114.24383872030143
-      },
-      {
-        "seq": 2,
-        "stop_id": "MOS",
-        "name": {
-          "en": "Ma On Shan",
-          "tc": "馬鞍山",
-          "sc": "馬鞍山"
-        },
-        "lat": 22.42484297563646,
-        "long": 114.23162820404592
-      },
-      {
-        "seq": 3,
-        "stop_id": "HEO",
-        "name": {
-          "en": "Heng On",
-          "tc": "恆安",
-          "sc": "恆安"
-        },
-        "lat": 22.417324859679667,
-        "long": 114.22568692657686
-      },
-      {
-        "seq": 4,
-        "stop_id": "TSH",
-        "name": {
-          "en": "Tai Shui Hang",
-          "tc": "大水坑",
-          "sc": "大水坑"
-        },
-        "lat": 22.40843062035457,
-        "long": 114.22269507754658
-      },
-      {
-        "seq": 5,
-        "stop_id": "SHM",
-        "name": {
-          "en": "Shek Mun",
-          "tc": "石門",
-          "sc": "石門"
-        },
-        "lat": 22.387698752784242,
-        "long": 114.20834416871683
-      },
-      {
-        "seq": 6,
-        "stop_id": "CIO",
-        "name": {
-          "en": "City One",
-          "tc": "第一城",
-          "sc": "第一城"
-        },
-        "lat": 22.382906005180228,
-        "long": 114.20368488382796
-      },
-      {
-        "seq": 7,
-        "stop_id": "STW",
-        "name": {
-          "en": "Sha Tin Wai",
-          "tc": "沙田圍",
-          "sc": "沙田圍"
-        },
-        "lat": 22.377030177117238,
-        "long": 114.19497063808957
-      },
-      {
-        "seq": 8,
-        "stop_id": "CKT",
-        "name": {
-          "en": "Che Kung Temple",
-          "tc": "車公廟",
-          "sc": "車公廟"
-        },
-        "lat": 22.374784638691928,
-        "long": 114.18593254281242
-      },
-      {
-        "seq": 9,
-        "stop_id": "TAW",
-        "name": {
-          "en": "Tai Wai",
-          "tc": "大圍",
-          "sc": "大圍"
-        },
-        "lat": 22.372720123411025,
-        "long": 114.17861754006417
-      },
-      {
-        "seq": 10,
-        "stop_id": "HIK",
-        "name": {
-          "en": "Hin Keng",
-          "tc": "顯徑",
-          "sc": "顯徑"
-        },
-        "lat": 22.363844169755378,
-        "long": 114.1707736631676
-      },
-      {
-        "seq": 11,
-        "stop_id": "DIH",
-        "name": {
-          "en": "Diamond Hill",
-          "tc": "鑽石山",
-          "sc": "鑽石山"
-        },
-        "lat": 22.340034436033115,
-        "long": 114.20167546798106
-      },
-      {
-        "seq": 12,
-        "stop_id": "KAT",
-        "name": {
-          "en": "Kai Tak",
-          "tc": "啟德",
-          "sc": "啟德"
-        },
-        "lat": 22.330574454154288,
-        "long": 114.19953858425268
-      },
-      {
-        "seq": 13,
-        "stop_id": "SUW",
-        "name": {
-          "en": "Sung Wong Toi",
-          "tc": "宋皇臺",
-          "sc": "宋皇臺"
-        },
-        "lat": 22.325922309979273,
-        "long": 114.19126542597317
-      },
-      {
-        "seq": 14,
-        "stop_id": "TKW",
-        "name": {
-          "en": "To Kwa Wan",
-          "tc": "土瓜灣",
-          "sc": "土瓜灣"
-        },
-        "lat": 22.317318453672414,
-        "long": 114.18758831815998
-      },
-      {
-        "seq": 15,
-        "stop_id": "HOM",
-        "name": {
-          "en": "Ho Man Tin",
-          "tc": "何文田",
-          "sc": "何文田"
-        },
-        "lat": 22.309366947586355,
-        "long": 114.18272213374736
-      },
-      {
-        "seq": 16,
-        "stop_id": "HUH",
-        "name": {
-          "en": "Hung Hom",
-          "tc": "紅磡",
-          "sc": "紅磡"
-        },
-        "lat": 22.302887952681683,
-        "long": 114.18209861366228
-      },
-      {
-        "seq": 17,
-        "stop_id": "ETS",
-        "name": {
-          "en": "East Tsim Sha Tsui",
-          "tc": "尖東",
-          "sc": "尖東"
-        },
-        "lat": 22.294822911176247,
-        "long": 114.17341494441476
-      },
-      {
-        "seq": 18,
-        "stop_id": "AUS",
-        "name": {
-          "en": "Austin",
-          "tc": "柯士甸",
-          "sc": "柯士甸"
-        },
-        "lat": 22.305326500469896,
-        "long": 114.16607446349632
-      },
-      {
-        "seq": 19,
         "stop_id": "NAC",
         "name": {
           "en": "Nam Cheong",
@@ -2525,97 +1966,325 @@
         "long": 114.15367678937884
       },
       {
-        "seq": 20,
-        "stop_id": "MEF",
+        "seq": 5,
+        "stop_id": "LAK",
         "name": {
-          "en": "Mei Foo",
-          "tc": "美孚",
-          "sc": "美孚"
+          "en": "Lai King",
+          "tc": "茘景",
+          "sc": "茘景"
         },
-        "lat": 22.337577436973817,
-        "long": 114.1379514829665
+        "lat": 22.34844982624764,
+        "long": 114.12611921705636
       },
       {
-        "seq": 21,
-        "stop_id": "TWW",
+        "seq": 6,
+        "stop_id": "TSY",
         "name": {
-          "en": "Tsuen Wan West",
-          "tc": "荃灣西",
-          "sc": "荃灣西"
+          "en": "Tsing Yi",
+          "tc": "青衣",
+          "sc": "青衣"
         },
-        "lat": 22.368444405929967,
-        "long": 114.10969641052833
+        "lat": 22.358512438555145,
+        "long": 114.1076584909509
       },
       {
-        "seq": 22,
-        "stop_id": "KSR",
+        "seq": 7,
+        "stop_id": "SUN",
         "name": {
-          "en": "Kam Sheung Road",
-          "tc": "錦上路",
-          "sc": "錦上路"
+          "en": "Sunny Bay",
+          "tc": "欣澳",
+          "sc": "欣澳"
         },
-        "lat": 22.434800406382877,
-        "long": 114.06353375971406
+        "lat": 22.3317354599028,
+        "long": 114.02895721169688
       },
       {
-        "seq": 23,
-        "stop_id": "YUL",
+        "seq": 8,
+        "stop_id": "TUC",
         "name": {
-          "en": "Yuen Long",
-          "tc": "元朗",
-          "sc": "元朗"
+          "en": "Tung Chung",
+          "tc": "東涌",
+          "sc": "東涌"
         },
-        "lat": 22.446090550908657,
-        "long": 114.03475254069534
-      },
-      {
-        "seq": 24,
-        "stop_id": "LOP",
-        "name": {
-          "en": "Long Ping",
-          "tc": "朗屏",
-          "sc": "朗屏"
-        },
-        "lat": 22.44770716466467,
-        "long": 114.02544493342202
-      },
-      {
-        "seq": 25,
-        "stop_id": "TIS",
-        "name": {
-          "en": "Tin Shui Wai",
-          "tc": "天水圍",
-          "sc": "天水圍"
-        },
-        "lat": 22.448230864422307,
-        "long": 114.00474497385187
-      },
-      {
-        "seq": 26,
-        "stop_id": "SIH",
-        "name": {
-          "en": "Siu Hong",
-          "tc": "兆康",
-          "sc": "兆康"
-        },
-        "lat": 22.41176144681082,
-        "long": 113.97897944619517
-      },
-      {
-        "seq": 27,
-        "stop_id": "TUM",
-        "name": {
-          "en": "Tuen Mun",
-          "tc": "屯門",
-          "sc": "屯門"
-        },
-        "lat": 22.394890205578516,
-        "long": 113.97312554969494
+        "lat": 22.289264799472594,
+        "long": 113.94144947559154
       }
     ]
   },
-  "MTR-TML-outbound-1": {
-    "record_id": "MTR-TML-outbound-1",
+  "MTR-TKL-DT": {
+    "record_id": "MTR-TKL-DT",
+    "company": "MTR",
+    "route_id": "TKL",
+    "route": {
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
+    },
+    "bound": "DT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "POA",
+        "name": {
+          "en": "Po Lam",
+          "tc": "寶琳",
+          "sc": "寶琳"
+        },
+        "lat": 22.32251355834842,
+        "long": 114.257807139147
+      },
+      {
+        "seq": 2,
+        "stop_id": "HAH",
+        "name": {
+          "en": "Hang Hau",
+          "tc": "坑口",
+          "sc": "坑口"
+        },
+        "lat": 22.315606041301333,
+        "long": 114.26438457028505
+      },
+      {
+        "seq": 3,
+        "stop_id": "TKO",
+        "name": {
+          "en": "Tseung Kwan O",
+          "tc": "將軍澳",
+          "sc": "將軍澳"
+        },
+        "lat": 22.307458173854403,
+        "long": 114.26000940100057
+      },
+      {
+        "seq": 4,
+        "stop_id": "TIK",
+        "name": {
+          "en": "Tiu Keng Leng",
+          "tc": "調景嶺",
+          "sc": "調景嶺"
+        },
+        "lat": 22.304490152839893,
+        "long": 114.25286490472735
+      },
+      {
+        "seq": 5,
+        "stop_id": "YAT",
+        "name": {
+          "en": "Yau Tong",
+          "tc": "油塘",
+          "sc": "油塘"
+        },
+        "lat": 22.298125763304675,
+        "long": 114.23695974817399
+      },
+      {
+        "seq": 6,
+        "stop_id": "QUB",
+        "name": {
+          "en": "Quarry Bay",
+          "tc": "鰂魚涌",
+          "sc": "鰂魚涌"
+        },
+        "lat": 22.287895141433584,
+        "long": 114.20973827897926
+      },
+      {
+        "seq": 7,
+        "stop_id": "NOP",
+        "name": {
+          "en": "North Point",
+          "tc": "北角",
+          "sc": "北角"
+        },
+        "lat": 22.291273822302585,
+        "long": 114.20049547448032
+      }
+    ]
+  },
+  "MTR-TKL-TKS-DT": {
+    "record_id": "MTR-TKL-TKS-DT",
+    "company": "MTR",
+    "route_id": "TKL",
+    "route": {
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
+    },
+    "bound": "TKS-DT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "LHP",
+        "name": {
+          "en": "LOHAS Park",
+          "tc": "康城",
+          "sc": "康城"
+        },
+        "lat": 22.29633343745856,
+        "long": 114.26961556452899
+      },
+      {
+        "seq": 2,
+        "stop_id": "TKO",
+        "name": {
+          "en": "Tseung Kwan O",
+          "tc": "將軍澳",
+          "sc": "將軍澳"
+        },
+        "lat": 22.307458173854403,
+        "long": 114.26000940100057
+      },
+      {
+        "seq": 3,
+        "stop_id": "TIK",
+        "name": {
+          "en": "Tiu Keng Leng",
+          "tc": "調景嶺",
+          "sc": "調景嶺"
+        },
+        "lat": 22.304490152839893,
+        "long": 114.25286490472735
+      }
+    ]
+  },
+  "MTR-TKL-TKS-UT": {
+    "record_id": "MTR-TKL-TKS-UT",
+    "company": "MTR",
+    "route_id": "TKL",
+    "route": {
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
+    },
+    "bound": "TKS-UT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "TIK",
+        "name": {
+          "en": "Tiu Keng Leng",
+          "tc": "調景嶺",
+          "sc": "調景嶺"
+        },
+        "lat": 22.304490152839893,
+        "long": 114.25286490472735
+      },
+      {
+        "seq": 2,
+        "stop_id": "TKO",
+        "name": {
+          "en": "Tseung Kwan O",
+          "tc": "將軍澳",
+          "sc": "將軍澳"
+        },
+        "lat": 22.307458173854403,
+        "long": 114.26000940100057
+      },
+      {
+        "seq": 3,
+        "stop_id": "LHP",
+        "name": {
+          "en": "LOHAS Park",
+          "tc": "康城",
+          "sc": "康城"
+        },
+        "lat": 22.29633343745856,
+        "long": 114.26961556452899
+      }
+    ]
+  },
+  "MTR-TKL-UT": {
+    "record_id": "MTR-TKL-UT",
+    "company": "MTR",
+    "route_id": "TKL",
+    "route": {
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
+    },
+    "bound": "UT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "NOP",
+        "name": {
+          "en": "North Point",
+          "tc": "北角",
+          "sc": "北角"
+        },
+        "lat": 22.291273822302585,
+        "long": 114.20049547448032
+      },
+      {
+        "seq": 2,
+        "stop_id": "QUB",
+        "name": {
+          "en": "Quarry Bay",
+          "tc": "鰂魚涌",
+          "sc": "鰂魚涌"
+        },
+        "lat": 22.287895141433584,
+        "long": 114.20973827897926
+      },
+      {
+        "seq": 3,
+        "stop_id": "YAT",
+        "name": {
+          "en": "Yau Tong",
+          "tc": "油塘",
+          "sc": "油塘"
+        },
+        "lat": 22.298125763304675,
+        "long": 114.23695974817399
+      },
+      {
+        "seq": 4,
+        "stop_id": "TIK",
+        "name": {
+          "en": "Tiu Keng Leng",
+          "tc": "調景嶺",
+          "sc": "調景嶺"
+        },
+        "lat": 22.304490152839893,
+        "long": 114.25286490472735
+      },
+      {
+        "seq": 5,
+        "stop_id": "TKO",
+        "name": {
+          "en": "Tseung Kwan O",
+          "tc": "將軍澳",
+          "sc": "將軍澳"
+        },
+        "lat": 22.307458173854403,
+        "long": 114.26000940100057
+      },
+      {
+        "seq": 6,
+        "stop_id": "HAH",
+        "name": {
+          "en": "Hang Hau",
+          "tc": "坑口",
+          "sc": "坑口"
+        },
+        "lat": 22.315606041301333,
+        "long": 114.26438457028505
+      },
+      {
+        "seq": 7,
+        "stop_id": "POA",
+        "name": {
+          "en": "Po Lam",
+          "tc": "寶琳",
+          "sc": "寶琳"
+        },
+        "lat": 22.32251355834842,
+        "long": 114.257807139147
+      }
+    ]
+  },
+  "MTR-TML-DT": {
+    "record_id": "MTR-TML-DT",
     "company": "MTR",
     "route_id": "TML",
     "route": {
@@ -2623,8 +2292,7 @@
       "tc": "屯馬線",
       "sc": "屯馬線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "stops": [
       {
         "seq": 1,
@@ -2925,130 +2593,228 @@
       }
     ]
   },
-  "MTR-TWL-inbound-1": {
-    "record_id": "MTR-TWL-inbound-1",
+  "MTR-TML-UT": {
+    "record_id": "MTR-TML-UT",
     "company": "MTR",
-    "route_id": "TWL",
+    "route_id": "TML",
     "route": {
-      "en": "Tsuen Wan Line",
-      "tc": "荃灣線",
-      "sc": "荃灣線"
+      "en": "Tuen Ma Line",
+      "tc": "屯馬線",
+      "sc": "屯馬線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "CEN",
+        "stop_id": "WKS",
         "name": {
-          "en": "Central",
-          "tc": "中環",
-          "sc": "中環"
+          "en": "Wu Kai Sha",
+          "tc": "烏溪沙",
+          "sc": "烏溪沙"
         },
-        "lat": 22.281971521983756,
-        "long": 114.15816083856758
+        "lat": 22.429142096379305,
+        "long": 114.24383872030143
       },
       {
         "seq": 2,
-        "stop_id": "ADM",
+        "stop_id": "MOS",
         "name": {
-          "en": "Admiralty",
-          "tc": "金鐘",
-          "sc": "金鐘"
+          "en": "Ma On Shan",
+          "tc": "馬鞍山",
+          "sc": "馬鞍山"
         },
-        "lat": 22.27941347850174,
-        "long": 114.16454079886108
+        "lat": 22.42484297563646,
+        "long": 114.23162820404592
       },
       {
         "seq": 3,
-        "stop_id": "TST",
+        "stop_id": "HEO",
         "name": {
-          "en": "Tsim Sha Tsui",
-          "tc": "尖沙咀",
-          "sc": "尖沙咀"
+          "en": "Heng On",
+          "tc": "恆安",
+          "sc": "恆安"
         },
-        "lat": 22.297573414532636,
-        "long": 114.1721906217891
+        "lat": 22.417324859679667,
+        "long": 114.22568692657686
       },
       {
         "seq": 4,
-        "stop_id": "JOR",
+        "stop_id": "TSH",
         "name": {
-          "en": "Jordan",
-          "tc": "佐敦",
-          "sc": "佐敦"
+          "en": "Tai Shui Hang",
+          "tc": "大水坑",
+          "sc": "大水坑"
         },
-        "lat": 22.304801819392154,
-        "long": 114.17164288302433
+        "lat": 22.40843062035457,
+        "long": 114.22269507754658
       },
       {
         "seq": 5,
-        "stop_id": "YMT",
+        "stop_id": "SHM",
         "name": {
-          "en": "Yau Ma Tei",
-          "tc": "油麻地",
-          "sc": "油麻地"
+          "en": "Shek Mun",
+          "tc": "石門",
+          "sc": "石門"
         },
-        "lat": 22.312833814188053,
-        "long": 114.17067121017935
+        "lat": 22.387698752784242,
+        "long": 114.20834416871683
       },
       {
         "seq": 6,
-        "stop_id": "MOK",
+        "stop_id": "CIO",
         "name": {
-          "en": "Mong Kok",
-          "tc": "旺角",
-          "sc": "旺角"
+          "en": "City One",
+          "tc": "第一城",
+          "sc": "第一城"
         },
-        "lat": 22.319258594594153,
-        "long": 114.16935185528698
+        "lat": 22.382906005180228,
+        "long": 114.20368488382796
       },
       {
         "seq": 7,
-        "stop_id": "PRE",
+        "stop_id": "STW",
         "name": {
-          "en": "Prince Edward",
-          "tc": "太子",
-          "sc": "太子"
+          "en": "Sha Tin Wai",
+          "tc": "沙田圍",
+          "sc": "沙田圍"
         },
-        "lat": 22.325082944366997,
-        "long": 114.16837815943852
+        "lat": 22.377030177117238,
+        "long": 114.19497063808957
       },
       {
         "seq": 8,
-        "stop_id": "SSP",
+        "stop_id": "CKT",
         "name": {
-          "en": "Sham Shui Po",
-          "tc": "深水埗",
-          "sc": "深水埗"
+          "en": "Che Kung Temple",
+          "tc": "車公廟",
+          "sc": "車公廟"
         },
-        "lat": 22.33078435522741,
-        "long": 114.16226261655537
+        "lat": 22.374784638691928,
+        "long": 114.18593254281242
       },
       {
         "seq": 9,
-        "stop_id": "CSW",
+        "stop_id": "TAW",
         "name": {
-          "en": "Cheung Sha Wan",
-          "tc": "長沙灣",
-          "sc": "長沙灣"
+          "en": "Tai Wai",
+          "tc": "大圍",
+          "sc": "大圍"
         },
-        "lat": 22.335607894741607,
-        "long": 114.15597323531726
+        "lat": 22.372720123411025,
+        "long": 114.17861754006417
       },
       {
         "seq": 10,
-        "stop_id": "LCK",
+        "stop_id": "HIK",
         "name": {
-          "en": "Lai Chi Kok",
-          "tc": "茘枝角",
-          "sc": "茘枝角"
+          "en": "Hin Keng",
+          "tc": "顯徑",
+          "sc": "顯徑"
         },
-        "lat": 22.337261709729844,
-        "long": 114.14802230475041
+        "lat": 22.363844169755378,
+        "long": 114.1707736631676
       },
       {
         "seq": 11,
+        "stop_id": "DIH",
+        "name": {
+          "en": "Diamond Hill",
+          "tc": "鑽石山",
+          "sc": "鑽石山"
+        },
+        "lat": 22.340034436033115,
+        "long": 114.20167546798106
+      },
+      {
+        "seq": 12,
+        "stop_id": "KAT",
+        "name": {
+          "en": "Kai Tak",
+          "tc": "啟德",
+          "sc": "啟德"
+        },
+        "lat": 22.330574454154288,
+        "long": 114.19953858425268
+      },
+      {
+        "seq": 13,
+        "stop_id": "SUW",
+        "name": {
+          "en": "Sung Wong Toi",
+          "tc": "宋皇臺",
+          "sc": "宋皇臺"
+        },
+        "lat": 22.325922309979273,
+        "long": 114.19126542597317
+      },
+      {
+        "seq": 14,
+        "stop_id": "TKW",
+        "name": {
+          "en": "To Kwa Wan",
+          "tc": "土瓜灣",
+          "sc": "土瓜灣"
+        },
+        "lat": 22.317318453672414,
+        "long": 114.18758831815998
+      },
+      {
+        "seq": 15,
+        "stop_id": "HOM",
+        "name": {
+          "en": "Ho Man Tin",
+          "tc": "何文田",
+          "sc": "何文田"
+        },
+        "lat": 22.309366947586355,
+        "long": 114.18272213374736
+      },
+      {
+        "seq": 16,
+        "stop_id": "HUH",
+        "name": {
+          "en": "Hung Hom",
+          "tc": "紅磡",
+          "sc": "紅磡"
+        },
+        "lat": 22.302887952681683,
+        "long": 114.18209861366228
+      },
+      {
+        "seq": 17,
+        "stop_id": "ETS",
+        "name": {
+          "en": "East Tsim Sha Tsui",
+          "tc": "尖東",
+          "sc": "尖東"
+        },
+        "lat": 22.294822911176247,
+        "long": 114.17341494441476
+      },
+      {
+        "seq": 18,
+        "stop_id": "AUS",
+        "name": {
+          "en": "Austin",
+          "tc": "柯士甸",
+          "sc": "柯士甸"
+        },
+        "lat": 22.305326500469896,
+        "long": 114.16607446349632
+      },
+      {
+        "seq": 19,
+        "stop_id": "NAC",
+        "name": {
+          "en": "Nam Cheong",
+          "tc": "南昌",
+          "sc": "南昌"
+        },
+        "lat": 22.326782033013238,
+        "long": 114.15367678937884
+      },
+      {
+        "seq": 20,
         "stop_id": "MEF",
         "name": {
           "en": "Mei Foo",
@@ -3059,64 +2825,86 @@
         "long": 114.1379514829665
       },
       {
-        "seq": 12,
-        "stop_id": "LAK",
+        "seq": 21,
+        "stop_id": "TWW",
         "name": {
-          "en": "Lai King",
-          "tc": "茘景",
-          "sc": "茘景"
+          "en": "Tsuen Wan West",
+          "tc": "荃灣西",
+          "sc": "荃灣西"
         },
-        "lat": 22.34844982624764,
-        "long": 114.12611921705636
+        "lat": 22.368444405929967,
+        "long": 114.10969641052833
       },
       {
-        "seq": 13,
-        "stop_id": "KWF",
+        "seq": 22,
+        "stop_id": "KSR",
         "name": {
-          "en": "Kwai Fong",
-          "tc": "葵芳",
-          "sc": "葵芳"
+          "en": "Kam Sheung Road",
+          "tc": "錦上路",
+          "sc": "錦上路"
         },
-        "lat": 22.356809467454518,
-        "long": 114.12781374177064
+        "lat": 22.434800406382877,
+        "long": 114.06353375971406
       },
       {
-        "seq": 14,
-        "stop_id": "KWH",
+        "seq": 23,
+        "stop_id": "YUL",
         "name": {
-          "en": "Kwai Hing",
-          "tc": "葵興",
-          "sc": "葵興"
+          "en": "Yuen Long",
+          "tc": "元朗",
+          "sc": "元朗"
         },
-        "lat": 22.36306623072197,
-        "long": 114.13122163978066
+        "lat": 22.446090550908657,
+        "long": 114.03475254069534
       },
       {
-        "seq": 15,
-        "stop_id": "TWH",
+        "seq": 24,
+        "stop_id": "LOP",
         "name": {
-          "en": "Tai Wo Hau",
-          "tc": "大窩口",
-          "sc": "大窩口"
+          "en": "Long Ping",
+          "tc": "朗屏",
+          "sc": "朗屏"
         },
-        "lat": 22.370797058298546,
-        "long": 114.12505399887957
+        "lat": 22.44770716466467,
+        "long": 114.02544493342202
       },
       {
-        "seq": 16,
-        "stop_id": "TSW",
+        "seq": 25,
+        "stop_id": "TIS",
         "name": {
-          "en": "Tsuen Wan",
-          "tc": "荃灣",
-          "sc": "荃灣"
+          "en": "Tin Shui Wai",
+          "tc": "天水圍",
+          "sc": "天水圍"
         },
-        "lat": 22.373684186886283,
-        "long": 114.11771585522605
+        "lat": 22.448230864422307,
+        "long": 114.00474497385187
+      },
+      {
+        "seq": 26,
+        "stop_id": "SIH",
+        "name": {
+          "en": "Siu Hong",
+          "tc": "兆康",
+          "sc": "兆康"
+        },
+        "lat": 22.41176144681082,
+        "long": 113.97897944619517
+      },
+      {
+        "seq": 27,
+        "stop_id": "TUM",
+        "name": {
+          "en": "Tuen Mun",
+          "tc": "屯門",
+          "sc": "屯門"
+        },
+        "lat": 22.394890205578516,
+        "long": 113.97312554969494
       }
     ]
   },
-  "MTR-TWL-outbound-1": {
-    "record_id": "MTR-TWL-outbound-1",
+  "MTR-TWL-DT": {
+    "record_id": "MTR-TWL-DT",
     "company": "MTR",
     "route_id": "TWL",
     "route": {
@@ -3124,8 +2912,7 @@
       "tc": "荃灣線",
       "sc": "荃灣線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "stops": [
       {
         "seq": 1,
@@ -3302,6 +3089,195 @@
         },
         "lat": 22.281971521983756,
         "long": 114.15816083856758
+      }
+    ]
+  },
+  "MTR-TWL-UT": {
+    "record_id": "MTR-TWL-UT",
+    "company": "MTR",
+    "route_id": "TWL",
+    "route": {
+      "en": "Tsuen Wan Line",
+      "tc": "荃灣線",
+      "sc": "荃灣線"
+    },
+    "bound": "UT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "CEN",
+        "name": {
+          "en": "Central",
+          "tc": "中環",
+          "sc": "中環"
+        },
+        "lat": 22.281971521983756,
+        "long": 114.15816083856758
+      },
+      {
+        "seq": 2,
+        "stop_id": "ADM",
+        "name": {
+          "en": "Admiralty",
+          "tc": "金鐘",
+          "sc": "金鐘"
+        },
+        "lat": 22.27941347850174,
+        "long": 114.16454079886108
+      },
+      {
+        "seq": 3,
+        "stop_id": "TST",
+        "name": {
+          "en": "Tsim Sha Tsui",
+          "tc": "尖沙咀",
+          "sc": "尖沙咀"
+        },
+        "lat": 22.297573414532636,
+        "long": 114.1721906217891
+      },
+      {
+        "seq": 4,
+        "stop_id": "JOR",
+        "name": {
+          "en": "Jordan",
+          "tc": "佐敦",
+          "sc": "佐敦"
+        },
+        "lat": 22.304801819392154,
+        "long": 114.17164288302433
+      },
+      {
+        "seq": 5,
+        "stop_id": "YMT",
+        "name": {
+          "en": "Yau Ma Tei",
+          "tc": "油麻地",
+          "sc": "油麻地"
+        },
+        "lat": 22.312833814188053,
+        "long": 114.17067121017935
+      },
+      {
+        "seq": 6,
+        "stop_id": "MOK",
+        "name": {
+          "en": "Mong Kok",
+          "tc": "旺角",
+          "sc": "旺角"
+        },
+        "lat": 22.319258594594153,
+        "long": 114.16935185528698
+      },
+      {
+        "seq": 7,
+        "stop_id": "PRE",
+        "name": {
+          "en": "Prince Edward",
+          "tc": "太子",
+          "sc": "太子"
+        },
+        "lat": 22.325082944366997,
+        "long": 114.16837815943852
+      },
+      {
+        "seq": 8,
+        "stop_id": "SSP",
+        "name": {
+          "en": "Sham Shui Po",
+          "tc": "深水埗",
+          "sc": "深水埗"
+        },
+        "lat": 22.33078435522741,
+        "long": 114.16226261655537
+      },
+      {
+        "seq": 9,
+        "stop_id": "CSW",
+        "name": {
+          "en": "Cheung Sha Wan",
+          "tc": "長沙灣",
+          "sc": "長沙灣"
+        },
+        "lat": 22.335607894741607,
+        "long": 114.15597323531726
+      },
+      {
+        "seq": 10,
+        "stop_id": "LCK",
+        "name": {
+          "en": "Lai Chi Kok",
+          "tc": "茘枝角",
+          "sc": "茘枝角"
+        },
+        "lat": 22.337261709729844,
+        "long": 114.14802230475041
+      },
+      {
+        "seq": 11,
+        "stop_id": "MEF",
+        "name": {
+          "en": "Mei Foo",
+          "tc": "美孚",
+          "sc": "美孚"
+        },
+        "lat": 22.337577436973817,
+        "long": 114.1379514829665
+      },
+      {
+        "seq": 12,
+        "stop_id": "LAK",
+        "name": {
+          "en": "Lai King",
+          "tc": "茘景",
+          "sc": "茘景"
+        },
+        "lat": 22.34844982624764,
+        "long": 114.12611921705636
+      },
+      {
+        "seq": 13,
+        "stop_id": "KWF",
+        "name": {
+          "en": "Kwai Fong",
+          "tc": "葵芳",
+          "sc": "葵芳"
+        },
+        "lat": 22.356809467454518,
+        "long": 114.12781374177064
+      },
+      {
+        "seq": 14,
+        "stop_id": "KWH",
+        "name": {
+          "en": "Kwai Hing",
+          "tc": "葵興",
+          "sc": "葵興"
+        },
+        "lat": 22.36306623072197,
+        "long": 114.13122163978066
+      },
+      {
+        "seq": 15,
+        "stop_id": "TWH",
+        "name": {
+          "en": "Tai Wo Hau",
+          "tc": "大窩口",
+          "sc": "大窩口"
+        },
+        "lat": 22.370797058298546,
+        "long": 114.12505399887957
+      },
+      {
+        "seq": 16,
+        "stop_id": "TSW",
+        "name": {
+          "en": "Tsuen Wan",
+          "tc": "荃灣",
+          "sc": "荃灣"
+        },
+        "lat": 22.373684186886283,
+        "long": 114.11771585522605
       }
     ]
   }
