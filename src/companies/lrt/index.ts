@@ -2,7 +2,7 @@ import { writeJson } from "../../lib/io.js";
 import { fetchRouteStops } from "./api.js";
 import { transformRouteStops, transformRoutes } from "./transform.js";
 
-const OUT_DIR = "out/lightrail";
+const OUT_DIR = "out/lrt";
 
 function keyByRecordId<T extends { record_id: string }>(items: T[]): Record<string, T> {
   const out: Record<string, T> = {};

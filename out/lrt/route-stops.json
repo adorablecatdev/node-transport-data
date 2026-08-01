@@ -1,15 +1,13 @@
 {
-  "LRT-505-inbound-1": {
-    "record_id": "LRT-505-inbound-1",
+  "LRT-505-sam_shing": {
+    "record_id": "LRT-505-sam_shing",
     "company": "LRT",
-    "route_id": "505",
     "route": "505",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "sam_shing",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -20,7 +18,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "CHC",
+        "stop_id": "120",
         "name": {
           "en": "Ching Chung",
           "tc": "青松",
@@ -31,7 +29,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "KIS",
+        "stop_id": "130",
         "name": {
           "en": "Kin Sang",
           "tc": "建生",
@@ -42,7 +40,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "TNK",
+        "stop_id": "140",
         "name": {
           "en": "Tin King",
           "tc": "田景",
@@ -53,7 +51,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "LEK",
+        "stop_id": "150",
         "name": {
           "en": "Leung King",
           "tc": "良景",
@@ -64,7 +62,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "SAW",
+        "stop_id": "160",
         "name": {
           "en": "San Wai",
           "tc": "新圍",
@@ -75,7 +73,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "SHP",
+        "stop_id": "170",
         "name": {
           "en": "Shek Pai",
           "tc": "石排",
@@ -86,7 +84,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "MIK",
+        "stop_id": "200",
         "name": {
           "en": "Ming Kum",
           "tc": "鳴琴",
@@ -97,18 +95,18 @@
       },
       {
         "seq": 9,
-        "stop_id": "KIO",
+        "stop_id": "60",
         "name": {
           "en": "Kin On",
           "tc": "建安",
           "sc": "建安"
         },
-        "lat": 22.395168540714835,
-        "long": 113.96895674973761
+        "lat": null,
+        "long": null
       },
       {
         "seq": 10,
-        "stop_id": "TML",
+        "stop_id": "295",
         "name": {
           "en": "Tuen Mun",
           "tc": "屯門",
@@ -119,7 +117,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "TOC",
+        "stop_id": "280",
         "name": {
           "en": "Town Centre",
           "tc": "市中心",
@@ -130,7 +128,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "ONT",
+        "stop_id": "270",
         "name": {
           "en": "On Ting",
           "tc": "安定",
@@ -141,7 +139,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "SIL",
+        "stop_id": "265",
         "name": {
           "en": "Siu Lun",
           "tc": "兆麟",
@@ -152,7 +150,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "SAS",
+        "stop_id": "920",
         "name": {
           "en": "Sam Shing",
           "tc": "三聖",
@@ -163,17 +161,15 @@
       }
     ]
   },
-  "LRT-505-outbound-1": {
-    "record_id": "LRT-505-outbound-1",
+  "LRT-505-siu_hong": {
+    "record_id": "LRT-505-siu_hong",
     "company": "LRT",
-    "route_id": "505",
     "route": "505",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "SAS",
+        "stop_id": "920",
         "name": {
           "en": "Sam Shing",
           "tc": "三聖",
@@ -184,7 +180,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "SIL",
+        "stop_id": "265",
         "name": {
           "en": "Siu Lun",
           "tc": "兆麟",
@@ -195,7 +191,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "ONT",
+        "stop_id": "270",
         "name": {
           "en": "On Ting",
           "tc": "安定",
@@ -206,7 +202,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "TOC",
+        "stop_id": "280",
         "name": {
           "en": "Town Centre",
           "tc": "市中心",
@@ -217,7 +213,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "TML",
+        "stop_id": "295",
         "name": {
           "en": "Tuen Mun",
           "tc": "屯門",
@@ -228,18 +224,18 @@
       },
       {
         "seq": 6,
-        "stop_id": "KIO",
+        "stop_id": "60",
         "name": {
           "en": "Kin On",
           "tc": "建安",
           "sc": "建安"
         },
-        "lat": 22.395168540714835,
-        "long": 113.96895674973761
+        "lat": null,
+        "long": null
       },
       {
         "seq": 7,
-        "stop_id": "SKS",
+        "stop_id": "190",
         "name": {
           "en": "Shan King (South)",
           "tc": "山景(南)",
@@ -250,7 +246,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "SKN",
+        "stop_id": "180",
         "name": {
           "en": "Shan King (North)",
           "tc": "山景(北)",
@@ -261,7 +257,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "SHP",
+        "stop_id": "170",
         "name": {
           "en": "Shek Pai",
           "tc": "石排",
@@ -272,7 +268,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "SAW",
+        "stop_id": "160",
         "name": {
           "en": "San Wai",
           "tc": "新圍",
@@ -283,7 +279,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "LEK",
+        "stop_id": "150",
         "name": {
           "en": "Leung King",
           "tc": "良景",
@@ -294,7 +290,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "TNK",
+        "stop_id": "140",
         "name": {
           "en": "Tin King",
           "tc": "田景",
@@ -305,7 +301,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "KIS",
+        "stop_id": "130",
         "name": {
           "en": "Kin Sang",
           "tc": "建生",
@@ -316,7 +312,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "CHC",
+        "stop_id": "120",
         "name": {
           "en": "Ching Chung",
           "tc": "青松",
@@ -327,7 +323,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "KEL",
+        "stop_id": "110",
         "name": {
           "en": "Kei Lun",
           "tc": "麒麟",
@@ -338,7 +334,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -349,225 +345,26 @@
       }
     ]
   },
-  "LRT-507-inbound-1": {
-    "record_id": "LRT-507-inbound-1",
+  "LRT-507-tin_king": {
+    "record_id": "LRT-507-tin_king",
     "company": "LRT",
-    "route_id": "507",
     "route": "507",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_king",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "TNK",
-        "name": {
-          "en": "Tin King",
-          "tc": "田景",
-          "sc": "田景"
-        },
-        "lat": 22.407717568381717,
-        "long": 113.96645971354037
-      },
-      {
-        "seq": 2,
-        "stop_id": "TNK",
-        "name": {
-          "en": "Tin King",
-          "tc": "田景",
-          "sc": "田景"
-        },
-        "lat": 22.407717568381717,
-        "long": 113.96645971354037
-      },
-      {
-        "seq": 3,
-        "stop_id": "LEK",
-        "name": {
-          "en": "Leung King",
-          "tc": "良景",
-          "sc": "良景"
-        },
-        "lat": 22.406693088005227,
-        "long": 113.96363572581039
-      },
-      {
-        "seq": 4,
-        "stop_id": "SAW",
-        "name": {
-          "en": "San Wai",
-          "tc": "新圍",
-          "sc": "新圍"
-        },
-        "lat": 22.405252263976568,
-        "long": 113.964477937456
-      },
-      {
-        "seq": 5,
-        "stop_id": "THN",
-        "name": {
-          "en": "Tai Hing (North)",
-          "tc": "大興(北)",
-          "sc": "大興(北)"
-        },
-        "lat": 22.40462033696919,
-        "long": 113.96999658182479
-      },
-      {
-        "seq": 6,
-        "stop_id": "THS",
-        "name": {
-          "en": "Tai Hing (South)",
-          "tc": "大興(南)",
-          "sc": "大興(南)"
-        },
-        "lat": 22.402758951523516,
-        "long": 113.97201007890632
-      },
-      {
-        "seq": 7,
-        "stop_id": "NGW",
-        "name": {
-          "en": "Ngan Wai",
-          "tc": "銀圍",
-          "sc": "銀圍"
-        },
-        "lat": 22.402618583687897,
-        "long": 113.97437711366553
-      },
-      {
-        "seq": 8,
-        "stop_id": "CYB",
-        "name": {
-          "en": "Choy Yee Bridge",
-          "tc": "蔡意橋",
-          "sc": "蔡意橋"
-        },
-        "lat": 22.399834107895764,
-        "long": 113.97409314701522
-      },
-      {
-        "seq": 9,
-        "stop_id": "HOT",
-        "name": {
-          "en": "Ho Tin",
-          "tc": "河田",
-          "sc": "河田"
-        },
-        "lat": 22.397427652017043,
-        "long": 113.97314292839391
-      },
-      {
-        "seq": 10,
-        "stop_id": "TML",
-        "name": {
-          "en": "Tuen Mun",
-          "tc": "屯門",
-          "sc": "屯門"
-        },
-        "lat": 22.3938471407472,
-        "long": 113.9729225260239
-      },
-      {
-        "seq": 11,
-        "stop_id": "TOC",
-        "name": {
-          "en": "Town Centre",
-          "tc": "市中心",
-          "sc": "市中心"
-        },
-        "lat": 22.391447022134532,
-        "long": 113.97494325091752
-      },
-      {
-        "seq": 12,
-        "stop_id": "ONT",
-        "name": {
-          "en": "On Ting",
-          "tc": "安定",
-          "sc": "安定"
-        },
-        "lat": 22.38782798372733,
-        "long": 113.97514935037465
-      },
-      {
-        "seq": 13,
-        "stop_id": "SIL",
-        "name": {
-          "en": "Siu Lun",
-          "tc": "兆麟",
-          "sc": "兆麟"
-        },
-        "lat": 22.38460303361812,
-        "long": 113.97503814933248
-      },
-      {
-        "seq": 14,
-        "stop_id": "GOG",
-        "name": {
-          "en": "Goodview Garden",
-          "tc": "豐景園",
-          "sc": "豐景園"
-        },
-        "lat": 22.38337521610658,
-        "long": 113.97299892505947
-      },
-      {
-        "seq": 15,
-        "stop_id": "TSP",
-        "name": {
-          "en": "Hoi Wong Road",
-          "tc": "海皇路",
-          "sc": "海皇路"
-        },
-        "lat": 22.38116669122154,
-        "long": 113.97038582126864
-      },
-      {
-        "seq": 16,
-        "stop_id": "SHE",
-        "name": {
-          "en": "Siu Hei",
-          "tc": "兆禧",
-          "sc": "兆禧"
-        },
-        "lat": 22.375247051965697,
-        "long": 113.96685422488123
-      },
-      {
-        "seq": 17,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
-      }
-    ]
-  },
-  "LRT-507-outbound-1": {
-    "record_id": "LRT-507-outbound-1",
-    "company": "LRT",
-    "route_id": "507",
-    "route": "507",
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "FEP",
-        "name": {
-          "en": "Tuen Mun Ferry Pier",
-          "tc": "屯門碼頭",
-          "sc": "屯門碼頭"
-        },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       },
       {
         "seq": 2,
-        "stop_id": "SHE",
+        "stop_id": "240",
         "name": {
           "en": "Siu Hei",
           "tc": "兆禧",
@@ -578,7 +375,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "TSP",
+        "stop_id": "250",
         "name": {
           "en": "Hoi Wong Road",
           "tc": "海皇路",
@@ -589,7 +386,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "GOG",
+        "stop_id": "260",
         "name": {
           "en": "Goodview Garden",
           "tc": "豐景園",
@@ -600,7 +397,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "SIL",
+        "stop_id": "265",
         "name": {
           "en": "Siu Lun",
           "tc": "兆麟",
@@ -611,7 +408,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "ONT",
+        "stop_id": "270",
         "name": {
           "en": "On Ting",
           "tc": "安定",
@@ -622,7 +419,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TOC",
+        "stop_id": "280",
         "name": {
           "en": "Town Centre",
           "tc": "市中心",
@@ -633,7 +430,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "TML",
+        "stop_id": "295",
         "name": {
           "en": "Tuen Mun",
           "tc": "屯門",
@@ -644,29 +441,29 @@
       },
       {
         "seq": 9,
-        "stop_id": "HOT",
+        "stop_id": "70",
         "name": {
           "en": "Ho Tin",
           "tc": "河田",
           "sc": "河田"
         },
-        "lat": 22.397427652017043,
-        "long": 113.97314292839391
+        "lat": null,
+        "long": null
       },
       {
         "seq": 10,
-        "stop_id": "CYB",
+        "stop_id": "75",
         "name": {
           "en": "Choy Yee Bridge",
           "tc": "蔡意橋",
           "sc": "蔡意橋"
         },
-        "lat": 22.399834107895764,
-        "long": 113.97409314701522
+        "lat": null,
+        "long": null
       },
       {
         "seq": 11,
-        "stop_id": "NGW",
+        "stop_id": "230",
         "name": {
           "en": "Ngan Wai",
           "tc": "銀圍",
@@ -677,7 +474,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "THS",
+        "stop_id": "220",
         "name": {
           "en": "Tai Hing (South)",
           "tc": "大興(南)",
@@ -688,7 +485,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "THN",
+        "stop_id": "212",
         "name": {
           "en": "Tai Hing (North)",
           "tc": "大興(北)",
@@ -699,7 +496,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "SAW",
+        "stop_id": "160",
         "name": {
           "en": "San Wai",
           "tc": "新圍",
@@ -710,7 +507,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "LEK",
+        "stop_id": "150",
         "name": {
           "en": "Leung King",
           "tc": "良景",
@@ -721,7 +518,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "TNK",
+        "stop_id": "140",
         "name": {
           "en": "Tin King",
           "tc": "田景",
@@ -732,17 +529,210 @@
       }
     ]
   },
-  "LRT-610-inbound-1": {
-    "record_id": "LRT-610-inbound-1",
+  "LRT-507-tuen_mun_ferry_pier": {
+    "record_id": "LRT-507-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "610",
-    "route": "610",
-    "bound": "inbound",
-    "service_type": "1",
+    "route": "507",
+    "bound": "tuen_mun_ferry_pier",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "YLL",
+        "stop_id": "140",
+        "name": {
+          "en": "Tin King",
+          "tc": "田景",
+          "sc": "田景"
+        },
+        "lat": 22.407717568381717,
+        "long": 113.96645971354037
+      },
+      {
+        "seq": 2,
+        "stop_id": "140",
+        "name": {
+          "en": "Tin King",
+          "tc": "田景",
+          "sc": "田景"
+        },
+        "lat": 22.407717568381717,
+        "long": 113.96645971354037
+      },
+      {
+        "seq": 3,
+        "stop_id": "150",
+        "name": {
+          "en": "Leung King",
+          "tc": "良景",
+          "sc": "良景"
+        },
+        "lat": 22.406693088005227,
+        "long": 113.96363572581039
+      },
+      {
+        "seq": 4,
+        "stop_id": "160",
+        "name": {
+          "en": "San Wai",
+          "tc": "新圍",
+          "sc": "新圍"
+        },
+        "lat": 22.405252263976568,
+        "long": 113.964477937456
+      },
+      {
+        "seq": 5,
+        "stop_id": "212",
+        "name": {
+          "en": "Tai Hing (North)",
+          "tc": "大興(北)",
+          "sc": "大興(北)"
+        },
+        "lat": 22.40462033696919,
+        "long": 113.96999658182479
+      },
+      {
+        "seq": 6,
+        "stop_id": "220",
+        "name": {
+          "en": "Tai Hing (South)",
+          "tc": "大興(南)",
+          "sc": "大興(南)"
+        },
+        "lat": 22.402758951523516,
+        "long": 113.97201007890632
+      },
+      {
+        "seq": 7,
+        "stop_id": "230",
+        "name": {
+          "en": "Ngan Wai",
+          "tc": "銀圍",
+          "sc": "銀圍"
+        },
+        "lat": 22.402618583687897,
+        "long": 113.97437711366553
+      },
+      {
+        "seq": 8,
+        "stop_id": "75",
+        "name": {
+          "en": "Choy Yee Bridge",
+          "tc": "蔡意橋",
+          "sc": "蔡意橋"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 9,
+        "stop_id": "70",
+        "name": {
+          "en": "Ho Tin",
+          "tc": "河田",
+          "sc": "河田"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 10,
+        "stop_id": "295",
+        "name": {
+          "en": "Tuen Mun",
+          "tc": "屯門",
+          "sc": "屯門"
+        },
+        "lat": 22.3938471407472,
+        "long": 113.9729225260239
+      },
+      {
+        "seq": 11,
+        "stop_id": "280",
+        "name": {
+          "en": "Town Centre",
+          "tc": "市中心",
+          "sc": "市中心"
+        },
+        "lat": 22.391447022134532,
+        "long": 113.97494325091752
+      },
+      {
+        "seq": 12,
+        "stop_id": "270",
+        "name": {
+          "en": "On Ting",
+          "tc": "安定",
+          "sc": "安定"
+        },
+        "lat": 22.38782798372733,
+        "long": 113.97514935037465
+      },
+      {
+        "seq": 13,
+        "stop_id": "265",
+        "name": {
+          "en": "Siu Lun",
+          "tc": "兆麟",
+          "sc": "兆麟"
+        },
+        "lat": 22.38460303361812,
+        "long": 113.97503814933248
+      },
+      {
+        "seq": 14,
+        "stop_id": "260",
+        "name": {
+          "en": "Goodview Garden",
+          "tc": "豐景園",
+          "sc": "豐景園"
+        },
+        "lat": 22.38337521610658,
+        "long": 113.97299892505947
+      },
+      {
+        "seq": 15,
+        "stop_id": "250",
+        "name": {
+          "en": "Hoi Wong Road",
+          "tc": "海皇路",
+          "sc": "海皇路"
+        },
+        "lat": 22.38116669122154,
+        "long": 113.97038582126864
+      },
+      {
+        "seq": 16,
+        "stop_id": "240",
+        "name": {
+          "en": "Siu Hei",
+          "tc": "兆禧",
+          "sc": "兆禧"
+        },
+        "lat": 22.375247051965697,
+        "long": 113.96685422488123
+      },
+      {
+        "seq": 17,
+        "stop_id": "1",
+        "name": {
+          "en": "Tuen Mun Ferry Pier",
+          "tc": "屯門碼頭",
+          "sc": "屯門碼頭"
+        },
+        "lat": null,
+        "long": null
+      }
+    ]
+  },
+  "LRT-610-tuen_mun_ferry_pier": {
+    "record_id": "LRT-610-tuen_mun_ferry_pier",
+    "company": "LRT",
+    "route": "610",
+    "bound": "tuen_mun_ferry_pier",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "600",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -753,7 +743,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "TTR",
+        "stop_id": "590",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -764,7 +754,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "HLR",
+        "stop_id": "580",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -775,7 +765,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "FNR",
+        "stop_id": "570",
         "name": {
           "en": "Fung Nin Road",
           "tc": "豐年路",
@@ -786,7 +776,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "SPW",
+        "stop_id": "560",
         "name": {
           "en": "Shui Pin Wai",
           "tc": "水邊圍",
@@ -797,7 +787,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "PIS",
+        "stop_id": "400",
         "name": {
           "en": "Ping Shan",
           "tc": "屏山",
@@ -808,7 +798,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TOF",
+        "stop_id": "390",
         "name": {
           "en": "Tong Fong Tsuen",
           "tc": "塘坊村",
@@ -819,7 +809,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "HSK",
+        "stop_id": "380",
         "name": {
           "en": "Hung Shui Kiu",
           "tc": "洪水橋",
@@ -830,7 +820,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "CUT",
+        "stop_id": "370",
         "name": {
           "en": "Chung Uk Tsuen",
           "tc": "鍾屋村",
@@ -841,7 +831,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "NAW",
+        "stop_id": "360",
         "name": {
           "en": "Nai Wai",
           "tc": "泥圍",
@@ -852,7 +842,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "LTE",
+        "stop_id": "350",
         "name": {
           "en": "Lam Tei",
           "tc": "藍地",
@@ -863,7 +853,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -874,29 +864,29 @@
       },
       {
         "seq": 13,
-        "stop_id": "TMH",
+        "stop_id": "90",
         "name": {
           "en": "Tuen Mun Hospital",
           "tc": "屯門醫院",
           "sc": "屯門醫院"
         },
-        "lat": 22.407776596666693,
-        "long": 113.97713110089131
+        "lat": null,
+        "long": null
       },
       {
         "seq": 14,
-        "stop_id": "AFF",
+        "stop_id": "80",
         "name": {
           "en": "Affluence",
           "tc": "澤豐",
           "sc": "澤豐"
         },
-        "lat": 22.40350694388482,
-        "long": 113.97588959318725
+        "lat": null,
+        "long": null
       },
       {
         "seq": 15,
-        "stop_id": "NGW",
+        "stop_id": "230",
         "name": {
           "en": "Ngan Wai",
           "tc": "銀圍",
@@ -907,7 +897,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "THS",
+        "stop_id": "220",
         "name": {
           "en": "Tai Hing (South)",
           "tc": "大興(南)",
@@ -918,7 +908,7 @@
       },
       {
         "seq": 17,
-        "stop_id": "THN",
+        "stop_id": "212",
         "name": {
           "en": "Tai Hing (North)",
           "tc": "大興(北)",
@@ -929,7 +919,7 @@
       },
       {
         "seq": 18,
-        "stop_id": "SHP",
+        "stop_id": "170",
         "name": {
           "en": "Shek Pai",
           "tc": "石排",
@@ -940,7 +930,7 @@
       },
       {
         "seq": 19,
-        "stop_id": "MIK",
+        "stop_id": "200",
         "name": {
           "en": "Ming Kum",
           "tc": "鳴琴",
@@ -951,171 +941,169 @@
       },
       {
         "seq": 20,
-        "stop_id": "TWN",
+        "stop_id": "50",
         "name": {
           "en": "Tsing Wun",
           "tc": "青雲",
           "sc": "青雲"
         },
-        "lat": 22.394328333718814,
-        "long": 113.96743476399848
+        "lat": null,
+        "long": null
       },
       {
         "seq": 21,
-        "stop_id": "TSS",
+        "stop_id": "40",
         "name": {
           "en": "Tsing Shan Tsuen",
           "tc": "青山村",
           "sc": "青山村"
         },
-        "lat": 22.390961150464634,
-        "long": 113.96728137335539
+        "lat": null,
+        "long": null
       },
       {
         "seq": 22,
-        "stop_id": "LUM",
+        "stop_id": "30",
         "name": {
           "en": "Lung Mun",
           "tc": "龍門",
           "sc": "龍門"
         },
-        "lat": 22.385270483125957,
-        "long": 113.96503791697323
+        "lat": null,
+        "long": null
       },
       {
         "seq": 23,
-        "stop_id": "LRD",
+        "stop_id": "20",
         "name": {
           "en": "Light Rail Depot",
           "tc": "輕鐵車廠",
           "sc": "輕鐵車廠"
         },
-        "lat": 22.381820786801207,
-        "long": 113.96338397421808
+        "lat": null,
+        "long": null
       },
       {
         "seq": 24,
-        "stop_id": "BUT",
+        "stop_id": "15",
         "name": {
           "en": "Butterfly",
           "tc": "蝴蝶",
           "sc": "蝴蝶"
         },
-        "lat": 22.378140576753168,
-        "long": 113.96167747586145
+        "lat": null,
+        "long": null
       },
       {
         "seq": 25,
-        "stop_id": "MEG",
+        "stop_id": "10",
         "name": {
           "en": "Melody Garden",
           "tc": "美樂",
           "sc": "美樂"
         },
-        "lat": 22.375093665653637,
-        "long": 113.9611422207736
+        "lat": null,
+        "long": null
       },
       {
         "seq": 26,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       }
     ]
   },
-  "LRT-610-outbound-1": {
-    "record_id": "LRT-610-outbound-1",
+  "LRT-610-yuen_long": {
+    "record_id": "LRT-610-yuen_long",
     "company": "LRT",
-    "route_id": "610",
     "route": "610",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       },
       {
         "seq": 2,
-        "stop_id": "MEG",
+        "stop_id": "10",
         "name": {
           "en": "Melody Garden",
           "tc": "美樂",
           "sc": "美樂"
         },
-        "lat": 22.375093665653637,
-        "long": 113.9611422207736
+        "lat": null,
+        "long": null
       },
       {
         "seq": 3,
-        "stop_id": "BUT",
+        "stop_id": "15",
         "name": {
           "en": "Butterfly",
           "tc": "蝴蝶",
           "sc": "蝴蝶"
         },
-        "lat": 22.378140576753168,
-        "long": 113.96167747586145
+        "lat": null,
+        "long": null
       },
       {
         "seq": 4,
-        "stop_id": "LRD",
+        "stop_id": "20",
         "name": {
           "en": "Light Rail Depot",
           "tc": "輕鐵車廠",
           "sc": "輕鐵車廠"
         },
-        "lat": 22.381820786801207,
-        "long": 113.96338397421808
+        "lat": null,
+        "long": null
       },
       {
         "seq": 5,
-        "stop_id": "LUM",
+        "stop_id": "30",
         "name": {
           "en": "Lung Mun",
           "tc": "龍門",
           "sc": "龍門"
         },
-        "lat": 22.385270483125957,
-        "long": 113.96503791697323
+        "lat": null,
+        "long": null
       },
       {
         "seq": 6,
-        "stop_id": "TSS",
+        "stop_id": "40",
         "name": {
           "en": "Tsing Shan Tsuen",
           "tc": "青山村",
           "sc": "青山村"
         },
-        "lat": 22.390961150464634,
-        "long": 113.96728137335539
+        "lat": null,
+        "long": null
       },
       {
         "seq": 7,
-        "stop_id": "TWN",
+        "stop_id": "50",
         "name": {
           "en": "Tsing Wun",
           "tc": "青雲",
           "sc": "青雲"
         },
-        "lat": 22.394328333718814,
-        "long": 113.96743476399848
+        "lat": null,
+        "long": null
       },
       {
         "seq": 8,
-        "stop_id": "MIK",
+        "stop_id": "200",
         "name": {
           "en": "Ming Kum",
           "tc": "鳴琴",
@@ -1126,7 +1114,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "SHP",
+        "stop_id": "170",
         "name": {
           "en": "Shek Pai",
           "tc": "石排",
@@ -1137,7 +1125,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "THN",
+        "stop_id": "212",
         "name": {
           "en": "Tai Hing (North)",
           "tc": "大興(北)",
@@ -1148,7 +1136,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "THS",
+        "stop_id": "220",
         "name": {
           "en": "Tai Hing (South)",
           "tc": "大興(南)",
@@ -1159,7 +1147,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "NGW",
+        "stop_id": "230",
         "name": {
           "en": "Ngan Wai",
           "tc": "銀圍",
@@ -1170,29 +1158,29 @@
       },
       {
         "seq": 13,
-        "stop_id": "AFF",
+        "stop_id": "80",
         "name": {
           "en": "Affluence",
           "tc": "澤豐",
           "sc": "澤豐"
         },
-        "lat": 22.40350694388482,
-        "long": 113.97588959318725
+        "lat": null,
+        "long": null
       },
       {
         "seq": 14,
-        "stop_id": "TMH",
+        "stop_id": "90",
         "name": {
           "en": "Tuen Mun Hospital",
           "tc": "屯門醫院",
           "sc": "屯門醫院"
         },
-        "lat": 22.407776596666693,
-        "long": 113.97713110089131
+        "lat": null,
+        "long": null
       },
       {
         "seq": 15,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -1203,7 +1191,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "LTE",
+        "stop_id": "350",
         "name": {
           "en": "Lam Tei",
           "tc": "藍地",
@@ -1214,7 +1202,7 @@
       },
       {
         "seq": 17,
-        "stop_id": "NAW",
+        "stop_id": "360",
         "name": {
           "en": "Nai Wai",
           "tc": "泥圍",
@@ -1225,7 +1213,7 @@
       },
       {
         "seq": 18,
-        "stop_id": "CUT",
+        "stop_id": "370",
         "name": {
           "en": "Chung Uk Tsuen",
           "tc": "鍾屋村",
@@ -1236,7 +1224,7 @@
       },
       {
         "seq": 19,
-        "stop_id": "HSK",
+        "stop_id": "380",
         "name": {
           "en": "Hung Shui Kiu",
           "tc": "洪水橋",
@@ -1247,7 +1235,7 @@
       },
       {
         "seq": 20,
-        "stop_id": "TOF",
+        "stop_id": "390",
         "name": {
           "en": "Tong Fong Tsuen",
           "tc": "塘坊村",
@@ -1258,7 +1246,7 @@
       },
       {
         "seq": 21,
-        "stop_id": "PIS",
+        "stop_id": "400",
         "name": {
           "en": "Ping Shan",
           "tc": "屏山",
@@ -1269,7 +1257,7 @@
       },
       {
         "seq": 22,
-        "stop_id": "SPW",
+        "stop_id": "560",
         "name": {
           "en": "Shui Pin Wai",
           "tc": "水邊圍",
@@ -1280,7 +1268,7 @@
       },
       {
         "seq": 23,
-        "stop_id": "FNR",
+        "stop_id": "570",
         "name": {
           "en": "Fung Nin Road",
           "tc": "豐年路",
@@ -1291,7 +1279,7 @@
       },
       {
         "seq": 24,
-        "stop_id": "HLR",
+        "stop_id": "580",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -1302,7 +1290,7 @@
       },
       {
         "seq": 25,
-        "stop_id": "TTR",
+        "stop_id": "590",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -1313,7 +1301,7 @@
       },
       {
         "seq": 26,
-        "stop_id": "YLL",
+        "stop_id": "600",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -1324,17 +1312,15 @@
       }
     ]
   },
-  "LRT-614-inbound-1": {
-    "record_id": "LRT-614-inbound-1",
+  "LRT-614-tuen_mun_ferry_pier": {
+    "record_id": "LRT-614-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "614",
     "route": "614",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "YLL",
+        "stop_id": "600",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -1345,7 +1331,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "TTR",
+        "stop_id": "590",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -1356,7 +1342,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "HLR",
+        "stop_id": "580",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -1367,7 +1353,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "FNR",
+        "stop_id": "570",
         "name": {
           "en": "Fung Nin Road",
           "tc": "豐年路",
@@ -1378,7 +1364,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "SPW",
+        "stop_id": "560",
         "name": {
           "en": "Shui Pin Wai",
           "tc": "水邊圍",
@@ -1389,7 +1375,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "PIS",
+        "stop_id": "400",
         "name": {
           "en": "Ping Shan",
           "tc": "屏山",
@@ -1400,7 +1386,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TOF",
+        "stop_id": "390",
         "name": {
           "en": "Tong Fong Tsuen",
           "tc": "塘坊村",
@@ -1411,7 +1397,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "HSK",
+        "stop_id": "380",
         "name": {
           "en": "Hung Shui Kiu",
           "tc": "洪水橋",
@@ -1422,7 +1408,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "CUT",
+        "stop_id": "370",
         "name": {
           "en": "Chung Uk Tsuen",
           "tc": "鍾屋村",
@@ -1433,7 +1419,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "NAW",
+        "stop_id": "360",
         "name": {
           "en": "Nai Wai",
           "tc": "泥圍",
@@ -1444,7 +1430,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "LTE",
+        "stop_id": "350",
         "name": {
           "en": "Lam Tei",
           "tc": "藍地",
@@ -1455,7 +1441,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -1466,7 +1452,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "FUT",
+        "stop_id": "340",
         "name": {
           "en": "Fung Tei",
           "tc": "鳳地",
@@ -1477,7 +1463,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "PRV",
+        "stop_id": "330",
         "name": {
           "en": "Prime View",
           "tc": "景峰",
@@ -1488,7 +1474,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "SAH",
+        "stop_id": "320",
         "name": {
           "en": "San Hui",
           "tc": "新墟",
@@ -1499,7 +1485,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "HFT",
+        "stop_id": "310",
         "name": {
           "en": "Hoh Fuk Tong",
           "tc": "何福堂",
@@ -1510,7 +1496,7 @@
       },
       {
         "seq": 17,
-        "stop_id": "PUT",
+        "stop_id": "300",
         "name": {
           "en": "Pui To",
           "tc": "杯渡",
@@ -1521,7 +1507,7 @@
       },
       {
         "seq": 18,
-        "stop_id": "TOC",
+        "stop_id": "280",
         "name": {
           "en": "Town Centre",
           "tc": "市中心",
@@ -1532,7 +1518,7 @@
       },
       {
         "seq": 19,
-        "stop_id": "ONT",
+        "stop_id": "270",
         "name": {
           "en": "On Ting",
           "tc": "安定",
@@ -1543,7 +1529,7 @@
       },
       {
         "seq": 20,
-        "stop_id": "SIL",
+        "stop_id": "265",
         "name": {
           "en": "Siu Lun",
           "tc": "兆麟",
@@ -1554,7 +1540,7 @@
       },
       {
         "seq": 21,
-        "stop_id": "GOG",
+        "stop_id": "260",
         "name": {
           "en": "Goodview Garden",
           "tc": "豐景園",
@@ -1565,7 +1551,7 @@
       },
       {
         "seq": 22,
-        "stop_id": "TSP",
+        "stop_id": "250",
         "name": {
           "en": "Hoi Wong Road",
           "tc": "海皇路",
@@ -1576,7 +1562,7 @@
       },
       {
         "seq": 23,
-        "stop_id": "SHE",
+        "stop_id": "240",
         "name": {
           "en": "Siu Hei",
           "tc": "兆禧",
@@ -1587,39 +1573,37 @@
       },
       {
         "seq": 24,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       }
     ]
   },
-  "LRT-614-outbound-1": {
-    "record_id": "LRT-614-outbound-1",
+  "LRT-614-yuen_long": {
+    "record_id": "LRT-614-yuen_long",
     "company": "LRT",
-    "route_id": "614",
     "route": "614",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       },
       {
         "seq": 2,
-        "stop_id": "SHE",
+        "stop_id": "240",
         "name": {
           "en": "Siu Hei",
           "tc": "兆禧",
@@ -1630,7 +1614,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "TSP",
+        "stop_id": "250",
         "name": {
           "en": "Hoi Wong Road",
           "tc": "海皇路",
@@ -1641,7 +1625,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "GOG",
+        "stop_id": "260",
         "name": {
           "en": "Goodview Garden",
           "tc": "豐景園",
@@ -1652,7 +1636,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "SIL",
+        "stop_id": "265",
         "name": {
           "en": "Siu Lun",
           "tc": "兆麟",
@@ -1663,7 +1647,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "ONT",
+        "stop_id": "270",
         "name": {
           "en": "On Ting",
           "tc": "安定",
@@ -1674,7 +1658,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TOC",
+        "stop_id": "280",
         "name": {
           "en": "Town Centre",
           "tc": "市中心",
@@ -1685,7 +1669,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "PUT",
+        "stop_id": "300",
         "name": {
           "en": "Pui To",
           "tc": "杯渡",
@@ -1696,7 +1680,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "HFT",
+        "stop_id": "310",
         "name": {
           "en": "Hoh Fuk Tong",
           "tc": "何福堂",
@@ -1707,7 +1691,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "SAH",
+        "stop_id": "320",
         "name": {
           "en": "San Hui",
           "tc": "新墟",
@@ -1718,7 +1702,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "PRV",
+        "stop_id": "330",
         "name": {
           "en": "Prime View",
           "tc": "景峰",
@@ -1729,7 +1713,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "FUT",
+        "stop_id": "340",
         "name": {
           "en": "Fung Tei",
           "tc": "鳳地",
@@ -1740,7 +1724,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -1751,7 +1735,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "LTE",
+        "stop_id": "350",
         "name": {
           "en": "Lam Tei",
           "tc": "藍地",
@@ -1762,7 +1746,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "NAW",
+        "stop_id": "360",
         "name": {
           "en": "Nai Wai",
           "tc": "泥圍",
@@ -1773,7 +1757,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "CUT",
+        "stop_id": "370",
         "name": {
           "en": "Chung Uk Tsuen",
           "tc": "鍾屋村",
@@ -1784,7 +1768,7 @@
       },
       {
         "seq": 17,
-        "stop_id": "HSK",
+        "stop_id": "380",
         "name": {
           "en": "Hung Shui Kiu",
           "tc": "洪水橋",
@@ -1795,7 +1779,7 @@
       },
       {
         "seq": 18,
-        "stop_id": "TOF",
+        "stop_id": "390",
         "name": {
           "en": "Tong Fong Tsuen",
           "tc": "塘坊村",
@@ -1806,7 +1790,7 @@
       },
       {
         "seq": 19,
-        "stop_id": "PIS",
+        "stop_id": "400",
         "name": {
           "en": "Ping Shan",
           "tc": "屏山",
@@ -1817,7 +1801,7 @@
       },
       {
         "seq": 20,
-        "stop_id": "SPW",
+        "stop_id": "560",
         "name": {
           "en": "Shui Pin Wai",
           "tc": "水邊圍",
@@ -1828,7 +1812,7 @@
       },
       {
         "seq": 21,
-        "stop_id": "FNR",
+        "stop_id": "570",
         "name": {
           "en": "Fung Nin Road",
           "tc": "豐年路",
@@ -1839,7 +1823,7 @@
       },
       {
         "seq": 22,
-        "stop_id": "HLR",
+        "stop_id": "580",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -1850,7 +1834,7 @@
       },
       {
         "seq": 23,
-        "stop_id": "TTR",
+        "stop_id": "590",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -1861,7 +1845,7 @@
       },
       {
         "seq": 24,
-        "stop_id": "YLL",
+        "stop_id": "600",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -1872,181 +1856,26 @@
       }
     ]
   },
-  "LRT-614P-inbound-1": {
-    "record_id": "LRT-614P-inbound-1",
+  "LRT-614P-siu_hong": {
+    "record_id": "LRT-614P-siu_hong",
     "company": "LRT",
-    "route_id": "614P",
     "route": "614P",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "SHL",
-        "name": {
-          "en": "Siu Hong",
-          "tc": "兆康",
-          "sc": "兆康"
-        },
-        "lat": 22.411995316874915,
-        "long": 113.97841040836525
-      },
-      {
-        "seq": 2,
-        "stop_id": "FUT",
-        "name": {
-          "en": "Fung Tei",
-          "tc": "鳳地",
-          "sc": "鳳地"
-        },
-        "lat": 22.40673775650465,
-        "long": 113.97879636603842
-      },
-      {
-        "seq": 3,
-        "stop_id": "PRV",
-        "name": {
-          "en": "Prime View",
-          "tc": "景峰",
-          "sc": "景峰"
-        },
-        "lat": 22.40317370625533,
-        "long": 113.97945492992541
-      },
-      {
-        "seq": 4,
-        "stop_id": "SAH",
-        "name": {
-          "en": "San Hui",
-          "tc": "新墟",
-          "sc": "新墟"
-        },
-        "lat": 22.40021695840975,
-        "long": 113.97797948289265
-      },
-      {
-        "seq": 5,
-        "stop_id": "HFT",
-        "name": {
-          "en": "Hoh Fuk Tong",
-          "tc": "何福堂",
-          "sc": "何福堂"
-        },
-        "lat": 22.397421563387617,
-        "long": 113.97741928760341
-      },
-      {
-        "seq": 6,
-        "stop_id": "PUT",
-        "name": {
-          "en": "Pui To",
-          "tc": "杯渡",
-          "sc": "杯渡"
-        },
-        "lat": 22.394628872058515,
-        "long": 113.97666238427041
-      },
-      {
-        "seq": 7,
-        "stop_id": "TOC",
-        "name": {
-          "en": "Town Centre",
-          "tc": "市中心",
-          "sc": "市中心"
-        },
-        "lat": 22.391447022134532,
-        "long": 113.97494325091752
-      },
-      {
-        "seq": 8,
-        "stop_id": "ONT",
-        "name": {
-          "en": "On Ting",
-          "tc": "安定",
-          "sc": "安定"
-        },
-        "lat": 22.38782798372733,
-        "long": 113.97514935037465
-      },
-      {
-        "seq": 9,
-        "stop_id": "SIL",
-        "name": {
-          "en": "Siu Lun",
-          "tc": "兆麟",
-          "sc": "兆麟"
-        },
-        "lat": 22.38460303361812,
-        "long": 113.97503814933248
-      },
-      {
-        "seq": 10,
-        "stop_id": "GOG",
-        "name": {
-          "en": "Goodview Garden",
-          "tc": "豐景園",
-          "sc": "豐景園"
-        },
-        "lat": 22.38337521610658,
-        "long": 113.97299892505947
-      },
-      {
-        "seq": 11,
-        "stop_id": "TSP",
-        "name": {
-          "en": "Hoi Wong Road",
-          "tc": "海皇路",
-          "sc": "海皇路"
-        },
-        "lat": 22.38116669122154,
-        "long": 113.97038582126864
-      },
-      {
-        "seq": 12,
-        "stop_id": "SHE",
-        "name": {
-          "en": "Siu Hei",
-          "tc": "兆禧",
-          "sc": "兆禧"
-        },
-        "lat": 22.375247051965697,
-        "long": 113.96685422488123
-      },
-      {
-        "seq": 13,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
-      }
-    ]
-  },
-  "LRT-614P-outbound-1": {
-    "record_id": "LRT-614P-outbound-1",
-    "company": "LRT",
-    "route_id": "614P",
-    "route": "614P",
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "FEP",
-        "name": {
-          "en": "Tuen Mun Ferry Pier",
-          "tc": "屯門碼頭",
-          "sc": "屯門碼頭"
-        },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       },
       {
         "seq": 2,
-        "stop_id": "SHE",
+        "stop_id": "240",
         "name": {
           "en": "Siu Hei",
           "tc": "兆禧",
@@ -2057,7 +1886,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "TSP",
+        "stop_id": "250",
         "name": {
           "en": "Hoi Wong Road",
           "tc": "海皇路",
@@ -2068,7 +1897,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "GOG",
+        "stop_id": "260",
         "name": {
           "en": "Goodview Garden",
           "tc": "豐景園",
@@ -2079,7 +1908,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "SIL",
+        "stop_id": "265",
         "name": {
           "en": "Siu Lun",
           "tc": "兆麟",
@@ -2090,7 +1919,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "ONT",
+        "stop_id": "270",
         "name": {
           "en": "On Ting",
           "tc": "安定",
@@ -2101,7 +1930,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TOC",
+        "stop_id": "280",
         "name": {
           "en": "Town Centre",
           "tc": "市中心",
@@ -2112,7 +1941,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "PUT",
+        "stop_id": "300",
         "name": {
           "en": "Pui To",
           "tc": "杯渡",
@@ -2123,7 +1952,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "HFT",
+        "stop_id": "310",
         "name": {
           "en": "Hoh Fuk Tong",
           "tc": "何福堂",
@@ -2134,7 +1963,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "SAH",
+        "stop_id": "320",
         "name": {
           "en": "San Hui",
           "tc": "新墟",
@@ -2145,7 +1974,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "PRV",
+        "stop_id": "330",
         "name": {
           "en": "Prime View",
           "tc": "景峰",
@@ -2156,7 +1985,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "FUT",
+        "stop_id": "340",
         "name": {
           "en": "Fung Tei",
           "tc": "鳳地",
@@ -2167,7 +1996,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -2178,17 +2007,166 @@
       }
     ]
   },
-  "LRT-615-inbound-1": {
-    "record_id": "LRT-615-inbound-1",
+  "LRT-614P-tuen_mun_ferry_pier": {
+    "record_id": "LRT-614P-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "615",
+    "route": "614P",
+    "bound": "tuen_mun_ferry_pier",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "100",
+        "name": {
+          "en": "Siu Hong",
+          "tc": "兆康",
+          "sc": "兆康"
+        },
+        "lat": 22.411995316874915,
+        "long": 113.97841040836525
+      },
+      {
+        "seq": 2,
+        "stop_id": "340",
+        "name": {
+          "en": "Fung Tei",
+          "tc": "鳳地",
+          "sc": "鳳地"
+        },
+        "lat": 22.40673775650465,
+        "long": 113.97879636603842
+      },
+      {
+        "seq": 3,
+        "stop_id": "330",
+        "name": {
+          "en": "Prime View",
+          "tc": "景峰",
+          "sc": "景峰"
+        },
+        "lat": 22.40317370625533,
+        "long": 113.97945492992541
+      },
+      {
+        "seq": 4,
+        "stop_id": "320",
+        "name": {
+          "en": "San Hui",
+          "tc": "新墟",
+          "sc": "新墟"
+        },
+        "lat": 22.40021695840975,
+        "long": 113.97797948289265
+      },
+      {
+        "seq": 5,
+        "stop_id": "310",
+        "name": {
+          "en": "Hoh Fuk Tong",
+          "tc": "何福堂",
+          "sc": "何福堂"
+        },
+        "lat": 22.397421563387617,
+        "long": 113.97741928760341
+      },
+      {
+        "seq": 6,
+        "stop_id": "300",
+        "name": {
+          "en": "Pui To",
+          "tc": "杯渡",
+          "sc": "杯渡"
+        },
+        "lat": 22.394628872058515,
+        "long": 113.97666238427041
+      },
+      {
+        "seq": 7,
+        "stop_id": "280",
+        "name": {
+          "en": "Town Centre",
+          "tc": "市中心",
+          "sc": "市中心"
+        },
+        "lat": 22.391447022134532,
+        "long": 113.97494325091752
+      },
+      {
+        "seq": 8,
+        "stop_id": "270",
+        "name": {
+          "en": "On Ting",
+          "tc": "安定",
+          "sc": "安定"
+        },
+        "lat": 22.38782798372733,
+        "long": 113.97514935037465
+      },
+      {
+        "seq": 9,
+        "stop_id": "265",
+        "name": {
+          "en": "Siu Lun",
+          "tc": "兆麟",
+          "sc": "兆麟"
+        },
+        "lat": 22.38460303361812,
+        "long": 113.97503814933248
+      },
+      {
+        "seq": 10,
+        "stop_id": "260",
+        "name": {
+          "en": "Goodview Garden",
+          "tc": "豐景園",
+          "sc": "豐景園"
+        },
+        "lat": 22.38337521610658,
+        "long": 113.97299892505947
+      },
+      {
+        "seq": 11,
+        "stop_id": "250",
+        "name": {
+          "en": "Hoi Wong Road",
+          "tc": "海皇路",
+          "sc": "海皇路"
+        },
+        "lat": 22.38116669122154,
+        "long": 113.97038582126864
+      },
+      {
+        "seq": 12,
+        "stop_id": "240",
+        "name": {
+          "en": "Siu Hei",
+          "tc": "兆禧",
+          "sc": "兆禧"
+        },
+        "lat": 22.375247051965697,
+        "long": 113.96685422488123
+      },
+      {
+        "seq": 13,
+        "stop_id": "1",
+        "name": {
+          "en": "Tuen Mun Ferry Pier",
+          "tc": "屯門碼頭",
+          "sc": "屯門碼頭"
+        },
+        "lat": null,
+        "long": null
+      }
+    ]
+  },
+  "LRT-615-tuen_mun_ferry_pier": {
+    "record_id": "LRT-615-tuen_mun_ferry_pier",
+    "company": "LRT",
     "route": "615",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "YLL",
+        "stop_id": "600",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -2199,7 +2177,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "TTR",
+        "stop_id": "590",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -2210,7 +2188,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "HLR",
+        "stop_id": "580",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -2221,7 +2199,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "FNR",
+        "stop_id": "570",
         "name": {
           "en": "Fung Nin Road",
           "tc": "豐年路",
@@ -2232,7 +2210,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "SPW",
+        "stop_id": "560",
         "name": {
           "en": "Shui Pin Wai",
           "tc": "水邊圍",
@@ -2243,7 +2221,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "PIS",
+        "stop_id": "400",
         "name": {
           "en": "Ping Shan",
           "tc": "屏山",
@@ -2254,7 +2232,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TOF",
+        "stop_id": "390",
         "name": {
           "en": "Tong Fong Tsuen",
           "tc": "塘坊村",
@@ -2265,7 +2243,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "HSK",
+        "stop_id": "380",
         "name": {
           "en": "Hung Shui Kiu",
           "tc": "洪水橋",
@@ -2276,7 +2254,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "CUT",
+        "stop_id": "370",
         "name": {
           "en": "Chung Uk Tsuen",
           "tc": "鍾屋村",
@@ -2287,7 +2265,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "NAW",
+        "stop_id": "360",
         "name": {
           "en": "Nai Wai",
           "tc": "泥圍",
@@ -2298,7 +2276,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "LTE",
+        "stop_id": "350",
         "name": {
           "en": "Lam Tei",
           "tc": "藍地",
@@ -2309,7 +2287,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -2320,7 +2298,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "CHC",
+        "stop_id": "120",
         "name": {
           "en": "Ching Chung",
           "tc": "青松",
@@ -2331,7 +2309,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "KIS",
+        "stop_id": "130",
         "name": {
           "en": "Kin Sang",
           "tc": "建生",
@@ -2342,7 +2320,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "TNK",
+        "stop_id": "140",
         "name": {
           "en": "Tin King",
           "tc": "田景",
@@ -2353,7 +2331,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "LEK",
+        "stop_id": "150",
         "name": {
           "en": "Leung King",
           "tc": "良景",
@@ -2364,7 +2342,7 @@
       },
       {
         "seq": 17,
-        "stop_id": "SAW",
+        "stop_id": "160",
         "name": {
           "en": "San Wai",
           "tc": "新圍",
@@ -2375,7 +2353,7 @@
       },
       {
         "seq": 18,
-        "stop_id": "SHP",
+        "stop_id": "170",
         "name": {
           "en": "Shek Pai",
           "tc": "石排",
@@ -2386,7 +2364,7 @@
       },
       {
         "seq": 19,
-        "stop_id": "MIK",
+        "stop_id": "200",
         "name": {
           "en": "Ming Kum",
           "tc": "鳴琴",
@@ -2397,171 +2375,169 @@
       },
       {
         "seq": 20,
-        "stop_id": "TWN",
+        "stop_id": "50",
         "name": {
           "en": "Tsing Wun",
           "tc": "青雲",
           "sc": "青雲"
         },
-        "lat": 22.394328333718814,
-        "long": 113.96743476399848
+        "lat": null,
+        "long": null
       },
       {
         "seq": 21,
-        "stop_id": "TSS",
+        "stop_id": "40",
         "name": {
           "en": "Tsing Shan Tsuen",
           "tc": "青山村",
           "sc": "青山村"
         },
-        "lat": 22.390961150464634,
-        "long": 113.96728137335539
+        "lat": null,
+        "long": null
       },
       {
         "seq": 22,
-        "stop_id": "LUM",
+        "stop_id": "30",
         "name": {
           "en": "Lung Mun",
           "tc": "龍門",
           "sc": "龍門"
         },
-        "lat": 22.385270483125957,
-        "long": 113.96503791697323
+        "lat": null,
+        "long": null
       },
       {
         "seq": 23,
-        "stop_id": "LRD",
+        "stop_id": "20",
         "name": {
           "en": "Light Rail Depot",
           "tc": "輕鐵車廠",
           "sc": "輕鐵車廠"
         },
-        "lat": 22.381820786801207,
-        "long": 113.96338397421808
+        "lat": null,
+        "long": null
       },
       {
         "seq": 24,
-        "stop_id": "BUT",
+        "stop_id": "15",
         "name": {
           "en": "Butterfly",
           "tc": "蝴蝶",
           "sc": "蝴蝶"
         },
-        "lat": 22.378140576753168,
-        "long": 113.96167747586145
+        "lat": null,
+        "long": null
       },
       {
         "seq": 25,
-        "stop_id": "MEG",
+        "stop_id": "10",
         "name": {
           "en": "Melody Garden",
           "tc": "美樂",
           "sc": "美樂"
         },
-        "lat": 22.375093665653637,
-        "long": 113.9611422207736
+        "lat": null,
+        "long": null
       },
       {
         "seq": 26,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       }
     ]
   },
-  "LRT-615-outbound-1": {
-    "record_id": "LRT-615-outbound-1",
+  "LRT-615-yuen_long": {
+    "record_id": "LRT-615-yuen_long",
     "company": "LRT",
-    "route_id": "615",
     "route": "615",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       },
       {
         "seq": 2,
-        "stop_id": "MEG",
+        "stop_id": "10",
         "name": {
           "en": "Melody Garden",
           "tc": "美樂",
           "sc": "美樂"
         },
-        "lat": 22.375093665653637,
-        "long": 113.9611422207736
+        "lat": null,
+        "long": null
       },
       {
         "seq": 3,
-        "stop_id": "BUT",
+        "stop_id": "15",
         "name": {
           "en": "Butterfly",
           "tc": "蝴蝶",
           "sc": "蝴蝶"
         },
-        "lat": 22.378140576753168,
-        "long": 113.96167747586145
+        "lat": null,
+        "long": null
       },
       {
         "seq": 4,
-        "stop_id": "LRD",
+        "stop_id": "20",
         "name": {
           "en": "Light Rail Depot",
           "tc": "輕鐵車廠",
           "sc": "輕鐵車廠"
         },
-        "lat": 22.381820786801207,
-        "long": 113.96338397421808
+        "lat": null,
+        "long": null
       },
       {
         "seq": 5,
-        "stop_id": "LUM",
+        "stop_id": "30",
         "name": {
           "en": "Lung Mun",
           "tc": "龍門",
           "sc": "龍門"
         },
-        "lat": 22.385270483125957,
-        "long": 113.96503791697323
+        "lat": null,
+        "long": null
       },
       {
         "seq": 6,
-        "stop_id": "TSS",
+        "stop_id": "40",
         "name": {
           "en": "Tsing Shan Tsuen",
           "tc": "青山村",
           "sc": "青山村"
         },
-        "lat": 22.390961150464634,
-        "long": 113.96728137335539
+        "lat": null,
+        "long": null
       },
       {
         "seq": 7,
-        "stop_id": "TWN",
+        "stop_id": "50",
         "name": {
           "en": "Tsing Wun",
           "tc": "青雲",
           "sc": "青雲"
         },
-        "lat": 22.394328333718814,
-        "long": 113.96743476399848
+        "lat": null,
+        "long": null
       },
       {
         "seq": 8,
-        "stop_id": "MIK",
+        "stop_id": "200",
         "name": {
           "en": "Ming Kum",
           "tc": "鳴琴",
@@ -2572,7 +2548,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "SHP",
+        "stop_id": "170",
         "name": {
           "en": "Shek Pai",
           "tc": "石排",
@@ -2583,7 +2559,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "SAW",
+        "stop_id": "160",
         "name": {
           "en": "San Wai",
           "tc": "新圍",
@@ -2594,7 +2570,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "LEK",
+        "stop_id": "150",
         "name": {
           "en": "Leung King",
           "tc": "良景",
@@ -2605,7 +2581,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "TNK",
+        "stop_id": "140",
         "name": {
           "en": "Tin King",
           "tc": "田景",
@@ -2616,7 +2592,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "KIS",
+        "stop_id": "130",
         "name": {
           "en": "Kin Sang",
           "tc": "建生",
@@ -2627,7 +2603,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "CHC",
+        "stop_id": "120",
         "name": {
           "en": "Ching Chung",
           "tc": "青松",
@@ -2638,7 +2614,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -2649,7 +2625,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "LTE",
+        "stop_id": "350",
         "name": {
           "en": "Lam Tei",
           "tc": "藍地",
@@ -2660,7 +2636,7 @@
       },
       {
         "seq": 17,
-        "stop_id": "NAW",
+        "stop_id": "360",
         "name": {
           "en": "Nai Wai",
           "tc": "泥圍",
@@ -2671,7 +2647,7 @@
       },
       {
         "seq": 18,
-        "stop_id": "CUT",
+        "stop_id": "370",
         "name": {
           "en": "Chung Uk Tsuen",
           "tc": "鍾屋村",
@@ -2682,7 +2658,7 @@
       },
       {
         "seq": 19,
-        "stop_id": "HSK",
+        "stop_id": "380",
         "name": {
           "en": "Hung Shui Kiu",
           "tc": "洪水橋",
@@ -2693,7 +2669,7 @@
       },
       {
         "seq": 20,
-        "stop_id": "TOF",
+        "stop_id": "390",
         "name": {
           "en": "Tong Fong Tsuen",
           "tc": "塘坊村",
@@ -2704,7 +2680,7 @@
       },
       {
         "seq": 21,
-        "stop_id": "PIS",
+        "stop_id": "400",
         "name": {
           "en": "Ping Shan",
           "tc": "屏山",
@@ -2715,7 +2691,7 @@
       },
       {
         "seq": 22,
-        "stop_id": "SPW",
+        "stop_id": "560",
         "name": {
           "en": "Shui Pin Wai",
           "tc": "水邊圍",
@@ -2726,7 +2702,7 @@
       },
       {
         "seq": 23,
-        "stop_id": "FNR",
+        "stop_id": "570",
         "name": {
           "en": "Fung Nin Road",
           "tc": "豐年路",
@@ -2737,7 +2713,7 @@
       },
       {
         "seq": 24,
-        "stop_id": "HLR",
+        "stop_id": "580",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -2748,7 +2724,7 @@
       },
       {
         "seq": 25,
-        "stop_id": "TTR",
+        "stop_id": "590",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -2759,7 +2735,7 @@
       },
       {
         "seq": 26,
-        "stop_id": "YLL",
+        "stop_id": "600",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -2770,280 +2746,92 @@
       }
     ]
   },
-  "LRT-615P-inbound-1": {
-    "record_id": "LRT-615P-inbound-1",
+  "LRT-615P-siu_hong": {
+    "record_id": "LRT-615P-siu_hong",
     "company": "LRT",
-    "route_id": "615P",
     "route": "615P",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "SHL",
-        "name": {
-          "en": "Siu Hong",
-          "tc": "兆康",
-          "sc": "兆康"
-        },
-        "lat": 22.411995316874915,
-        "long": 113.97841040836525
-      },
-      {
-        "seq": 2,
-        "stop_id": "KEL",
-        "name": {
-          "en": "Kei Lun",
-          "tc": "麒麟",
-          "sc": "麒麟"
-        },
-        "lat": 22.41105934839742,
-        "long": 113.97634286000374
-      },
-      {
-        "seq": 3,
-        "stop_id": "CHC",
-        "name": {
-          "en": "Ching Chung",
-          "tc": "青松",
-          "sc": "青松"
-        },
-        "lat": 22.407302433889217,
-        "long": 113.97256784383946
-      },
-      {
-        "seq": 4,
-        "stop_id": "KIS",
-        "name": {
-          "en": "Kin Sang",
-          "tc": "建生",
-          "sc": "建生"
-        },
-        "lat": 22.406757745678096,
-        "long": 113.96920200519148
-      },
-      {
-        "seq": 5,
-        "stop_id": "TNK",
-        "name": {
-          "en": "Tin King",
-          "tc": "田景",
-          "sc": "田景"
-        },
-        "lat": 22.407717568381717,
-        "long": 113.96645971354037
-      },
-      {
-        "seq": 6,
-        "stop_id": "LEK",
-        "name": {
-          "en": "Leung King",
-          "tc": "良景",
-          "sc": "良景"
-        },
-        "lat": 22.406693088005227,
-        "long": 113.96363572581039
-      },
-      {
-        "seq": 7,
-        "stop_id": "SAW",
-        "name": {
-          "en": "San Wai",
-          "tc": "新圍",
-          "sc": "新圍"
-        },
-        "lat": 22.405252263976568,
-        "long": 113.964477937456
-      },
-      {
-        "seq": 8,
-        "stop_id": "SHP",
-        "name": {
-          "en": "Shek Pai",
-          "tc": "石排",
-          "sc": "石排"
-        },
-        "lat": 22.401405922464285,
-        "long": 113.96775762972126
-      },
-      {
-        "seq": 9,
-        "stop_id": "MIK",
-        "name": {
-          "en": "Ming Kum",
-          "tc": "鳴琴",
-          "sc": "鳴琴"
-        },
-        "lat": 22.39711528576553,
-        "long": 113.96730111084477
-      },
-      {
-        "seq": 10,
-        "stop_id": "TWN",
-        "name": {
-          "en": "Tsing Wun",
-          "tc": "青雲",
-          "sc": "青雲"
-        },
-        "lat": 22.394328333718814,
-        "long": 113.96743476399848
-      },
-      {
-        "seq": 11,
-        "stop_id": "TSS",
-        "name": {
-          "en": "Tsing Shan Tsuen",
-          "tc": "青山村",
-          "sc": "青山村"
-        },
-        "lat": 22.390961150464634,
-        "long": 113.96728137335539
-      },
-      {
-        "seq": 12,
-        "stop_id": "LUM",
-        "name": {
-          "en": "Lung Mun",
-          "tc": "龍門",
-          "sc": "龍門"
-        },
-        "lat": 22.385270483125957,
-        "long": 113.96503791697323
-      },
-      {
-        "seq": 13,
-        "stop_id": "LRD",
-        "name": {
-          "en": "Light Rail Depot",
-          "tc": "輕鐵車廠",
-          "sc": "輕鐵車廠"
-        },
-        "lat": 22.381820786801207,
-        "long": 113.96338397421808
-      },
-      {
-        "seq": 14,
-        "stop_id": "BUT",
-        "name": {
-          "en": "Butterfly",
-          "tc": "蝴蝶",
-          "sc": "蝴蝶"
-        },
-        "lat": 22.378140576753168,
-        "long": 113.96167747586145
-      },
-      {
-        "seq": 15,
-        "stop_id": "MEG",
-        "name": {
-          "en": "Melody Garden",
-          "tc": "美樂",
-          "sc": "美樂"
-        },
-        "lat": 22.375093665653637,
-        "long": 113.9611422207736
-      },
-      {
-        "seq": 16,
-        "stop_id": "FEP",
+        "stop_id": "1",
         "name": {
           "en": "Tuen Mun Ferry Pier",
           "tc": "屯門碼頭",
           "sc": "屯門碼頭"
         },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
-      }
-    ]
-  },
-  "LRT-615P-outbound-1": {
-    "record_id": "LRT-615P-outbound-1",
-    "company": "LRT",
-    "route_id": "615P",
-    "route": "615P",
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "FEP",
-        "name": {
-          "en": "Tuen Mun Ferry Pier",
-          "tc": "屯門碼頭",
-          "sc": "屯門碼頭"
-        },
-        "lat": 22.37300812563571,
-        "long": 113.96611138057152
+        "lat": null,
+        "long": null
       },
       {
         "seq": 2,
-        "stop_id": "MEG",
+        "stop_id": "10",
         "name": {
           "en": "Melody Garden",
           "tc": "美樂",
           "sc": "美樂"
         },
-        "lat": 22.375093665653637,
-        "long": 113.9611422207736
+        "lat": null,
+        "long": null
       },
       {
         "seq": 3,
-        "stop_id": "BUT",
+        "stop_id": "15",
         "name": {
           "en": "Butterfly",
           "tc": "蝴蝶",
           "sc": "蝴蝶"
         },
-        "lat": 22.378140576753168,
-        "long": 113.96167747586145
+        "lat": null,
+        "long": null
       },
       {
         "seq": 4,
-        "stop_id": "LRD",
+        "stop_id": "20",
         "name": {
           "en": "Light Rail Depot",
           "tc": "輕鐵車廠",
           "sc": "輕鐵車廠"
         },
-        "lat": 22.381820786801207,
-        "long": 113.96338397421808
+        "lat": null,
+        "long": null
       },
       {
         "seq": 5,
-        "stop_id": "LUM",
+        "stop_id": "30",
         "name": {
           "en": "Lung Mun",
           "tc": "龍門",
           "sc": "龍門"
         },
-        "lat": 22.385270483125957,
-        "long": 113.96503791697323
+        "lat": null,
+        "long": null
       },
       {
         "seq": 6,
-        "stop_id": "TSS",
+        "stop_id": "40",
         "name": {
           "en": "Tsing Shan Tsuen",
           "tc": "青山村",
           "sc": "青山村"
         },
-        "lat": 22.390961150464634,
-        "long": 113.96728137335539
+        "lat": null,
+        "long": null
       },
       {
         "seq": 7,
-        "stop_id": "TWN",
+        "stop_id": "50",
         "name": {
           "en": "Tsing Wun",
           "tc": "青雲",
           "sc": "青雲"
         },
-        "lat": 22.394328333718814,
-        "long": 113.96743476399848
+        "lat": null,
+        "long": null
       },
       {
         "seq": 8,
-        "stop_id": "MIK",
+        "stop_id": "200",
         "name": {
           "en": "Ming Kum",
           "tc": "鳴琴",
@@ -3054,7 +2842,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "SHP",
+        "stop_id": "170",
         "name": {
           "en": "Shek Pai",
           "tc": "石排",
@@ -3065,7 +2853,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "SAW",
+        "stop_id": "160",
         "name": {
           "en": "San Wai",
           "tc": "新圍",
@@ -3076,7 +2864,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "LEK",
+        "stop_id": "150",
         "name": {
           "en": "Leung King",
           "tc": "良景",
@@ -3087,7 +2875,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "TNK",
+        "stop_id": "140",
         "name": {
           "en": "Tin King",
           "tc": "田景",
@@ -3098,7 +2886,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "KIS",
+        "stop_id": "130",
         "name": {
           "en": "Kin Sang",
           "tc": "建生",
@@ -3109,7 +2897,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "CHC",
+        "stop_id": "120",
         "name": {
           "en": "Ching Chung",
           "tc": "青松",
@@ -3120,7 +2908,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "KEL",
+        "stop_id": "110",
         "name": {
           "en": "Kei Lun",
           "tc": "麒麟",
@@ -3131,7 +2919,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -3142,17 +2930,199 @@
       }
     ]
   },
-  "LRT-705-inbound-1": {
-    "record_id": "LRT-705-inbound-1",
+  "LRT-615P-tuen_mun_ferry_pier": {
+    "record_id": "LRT-615P-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "705",
+    "route": "615P",
+    "bound": "tuen_mun_ferry_pier",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "100",
+        "name": {
+          "en": "Siu Hong",
+          "tc": "兆康",
+          "sc": "兆康"
+        },
+        "lat": 22.411995316874915,
+        "long": 113.97841040836525
+      },
+      {
+        "seq": 2,
+        "stop_id": "110",
+        "name": {
+          "en": "Kei Lun",
+          "tc": "麒麟",
+          "sc": "麒麟"
+        },
+        "lat": 22.41105934839742,
+        "long": 113.97634286000374
+      },
+      {
+        "seq": 3,
+        "stop_id": "120",
+        "name": {
+          "en": "Ching Chung",
+          "tc": "青松",
+          "sc": "青松"
+        },
+        "lat": 22.407302433889217,
+        "long": 113.97256784383946
+      },
+      {
+        "seq": 4,
+        "stop_id": "130",
+        "name": {
+          "en": "Kin Sang",
+          "tc": "建生",
+          "sc": "建生"
+        },
+        "lat": 22.406757745678096,
+        "long": 113.96920200519148
+      },
+      {
+        "seq": 5,
+        "stop_id": "140",
+        "name": {
+          "en": "Tin King",
+          "tc": "田景",
+          "sc": "田景"
+        },
+        "lat": 22.407717568381717,
+        "long": 113.96645971354037
+      },
+      {
+        "seq": 6,
+        "stop_id": "150",
+        "name": {
+          "en": "Leung King",
+          "tc": "良景",
+          "sc": "良景"
+        },
+        "lat": 22.406693088005227,
+        "long": 113.96363572581039
+      },
+      {
+        "seq": 7,
+        "stop_id": "160",
+        "name": {
+          "en": "San Wai",
+          "tc": "新圍",
+          "sc": "新圍"
+        },
+        "lat": 22.405252263976568,
+        "long": 113.964477937456
+      },
+      {
+        "seq": 8,
+        "stop_id": "170",
+        "name": {
+          "en": "Shek Pai",
+          "tc": "石排",
+          "sc": "石排"
+        },
+        "lat": 22.401405922464285,
+        "long": 113.96775762972126
+      },
+      {
+        "seq": 9,
+        "stop_id": "200",
+        "name": {
+          "en": "Ming Kum",
+          "tc": "鳴琴",
+          "sc": "鳴琴"
+        },
+        "lat": 22.39711528576553,
+        "long": 113.96730111084477
+      },
+      {
+        "seq": 10,
+        "stop_id": "50",
+        "name": {
+          "en": "Tsing Wun",
+          "tc": "青雲",
+          "sc": "青雲"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 11,
+        "stop_id": "40",
+        "name": {
+          "en": "Tsing Shan Tsuen",
+          "tc": "青山村",
+          "sc": "青山村"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 12,
+        "stop_id": "30",
+        "name": {
+          "en": "Lung Mun",
+          "tc": "龍門",
+          "sc": "龍門"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 13,
+        "stop_id": "20",
+        "name": {
+          "en": "Light Rail Depot",
+          "tc": "輕鐵車廠",
+          "sc": "輕鐵車廠"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 14,
+        "stop_id": "15",
+        "name": {
+          "en": "Butterfly",
+          "tc": "蝴蝶",
+          "sc": "蝴蝶"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 15,
+        "stop_id": "10",
+        "name": {
+          "en": "Melody Garden",
+          "tc": "美樂",
+          "sc": "美樂"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 16,
+        "stop_id": "1",
+        "name": {
+          "en": "Tuen Mun Ferry Pier",
+          "tc": "屯門碼頭",
+          "sc": "屯門碼頭"
+        },
+        "lat": null,
+        "long": null
+      }
+    ]
+  },
+  "LRT-705-tin_shui_wai": {
+    "record_id": "LRT-705-tin_shui_wai",
+    "company": "LRT",
     "route": "705",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_shui_wai",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "TWI",
+        "stop_id": "500",
         "name": {
           "en": "Tin Wing",
           "tc": "天榮",
@@ -3163,7 +3133,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "TYU",
+        "stop_id": "510",
         "name": {
           "en": "Tin Yuet",
           "tc": "天悅",
@@ -3174,7 +3144,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "TSA",
+        "stop_id": "520",
         "name": {
           "en": "Tin Sau",
           "tc": "天秀",
@@ -3185,7 +3155,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "WEP",
+        "stop_id": "530",
         "name": {
           "en": "Wetland Park",
           "tc": "濕地公園",
@@ -3196,7 +3166,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "THE",
+        "stop_id": "540",
         "name": {
           "en": "Tin Heng",
           "tc": "天恒",
@@ -3207,7 +3177,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "TYA",
+        "stop_id": "550",
         "name": {
           "en": "Tin Yat",
           "tc": "天逸",
@@ -3218,7 +3188,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TFU",
+        "stop_id": "480",
         "name": {
           "en": "Tin Fu",
           "tc": "天富",
@@ -3229,7 +3199,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "CHF",
+        "stop_id": "468",
         "name": {
           "en": "Chung Fu",
           "tc": "頌富",
@@ -3240,7 +3210,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "TSU",
+        "stop_id": "460",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -3251,7 +3221,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "LOC",
+        "stop_id": "448",
         "name": {
           "en": "Locwood",
           "tc": "樂湖",
@@ -3262,7 +3232,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "TIY",
+        "stop_id": "445",
         "name": {
           "en": "Tin Yiu",
           "tc": "天耀",
@@ -3273,7 +3243,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "TSL",
+        "stop_id": "430",
         "name": {
           "en": "Tin Shui Wai",
           "tc": "天水圍",
@@ -3284,17 +3254,15 @@
       }
     ]
   },
-  "LRT-705-outbound-1": {
-    "record_id": "LRT-705-outbound-1",
+  "LRT-705-tin_wing": {
+    "record_id": "LRT-705-tin_wing",
     "company": "LRT",
-    "route_id": "705",
     "route": "705",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_wing",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "TSL",
+        "stop_id": "430",
         "name": {
           "en": "Tin Shui Wai",
           "tc": "天水圍",
@@ -3305,7 +3273,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "TIT",
+        "stop_id": "435",
         "name": {
           "en": "Tin Tsz",
           "tc": "天慈",
@@ -3316,7 +3284,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "TWU",
+        "stop_id": "450",
         "name": {
           "en": "Tin Wu",
           "tc": "天湖",
@@ -3327,7 +3295,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "GIN",
+        "stop_id": "455",
         "name": {
           "en": "Ginza",
           "tc": "銀座",
@@ -3338,7 +3306,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "TWI",
+        "stop_id": "500",
         "name": {
           "en": "Tin Wing",
           "tc": "天榮",
@@ -3349,17 +3317,15 @@
       }
     ]
   },
-  "LRT-706-inbound-1": {
-    "record_id": "LRT-706-inbound-1",
+  "LRT-706-tin_shui_wai": {
+    "record_id": "LRT-706-tin_shui_wai",
     "company": "LRT",
-    "route_id": "706",
     "route": "706",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_shui_wai",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "TWI",
+        "stop_id": "500",
         "name": {
           "en": "Tin Wing",
           "tc": "天榮",
@@ -3370,7 +3336,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "GIN",
+        "stop_id": "455",
         "name": {
           "en": "Ginza",
           "tc": "銀座",
@@ -3381,7 +3347,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "TWU",
+        "stop_id": "450",
         "name": {
           "en": "Tin Wu",
           "tc": "天湖",
@@ -3392,7 +3358,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "TIT",
+        "stop_id": "435",
         "name": {
           "en": "Tin Tsz",
           "tc": "天慈",
@@ -3403,7 +3369,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "TSL",
+        "stop_id": "430",
         "name": {
           "en": "Tin Shui Wai",
           "tc": "天水圍",
@@ -3414,17 +3380,15 @@
       }
     ]
   },
-  "LRT-706-outbound-1": {
-    "record_id": "LRT-706-outbound-1",
+  "LRT-706-tin_wing": {
+    "record_id": "LRT-706-tin_wing",
     "company": "LRT",
-    "route_id": "706",
     "route": "706",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_wing",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "TSL",
+        "stop_id": "430",
         "name": {
           "en": "Tin Shui Wai",
           "tc": "天水圍",
@@ -3435,7 +3399,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "TIY",
+        "stop_id": "445",
         "name": {
           "en": "Tin Yiu",
           "tc": "天耀",
@@ -3446,7 +3410,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "LOC",
+        "stop_id": "448",
         "name": {
           "en": "Locwood",
           "tc": "樂湖",
@@ -3457,7 +3421,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "TSU",
+        "stop_id": "460",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -3468,7 +3432,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "CHF",
+        "stop_id": "468",
         "name": {
           "en": "Chung Fu",
           "tc": "頌富",
@@ -3479,7 +3443,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "TFU",
+        "stop_id": "480",
         "name": {
           "en": "Tin Fu",
           "tc": "天富",
@@ -3490,7 +3454,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TYA",
+        "stop_id": "550",
         "name": {
           "en": "Tin Yat",
           "tc": "天逸",
@@ -3501,7 +3465,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "THE",
+        "stop_id": "540",
         "name": {
           "en": "Tin Heng",
           "tc": "天恒",
@@ -3512,7 +3476,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "WEP",
+        "stop_id": "530",
         "name": {
           "en": "Wetland Park",
           "tc": "濕地公園",
@@ -3523,7 +3487,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "TSA",
+        "stop_id": "520",
         "name": {
           "en": "Tin Sau",
           "tc": "天秀",
@@ -3534,7 +3498,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "TYU",
+        "stop_id": "510",
         "name": {
           "en": "Tin Yuet",
           "tc": "天悅",
@@ -3545,7 +3509,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "TWI",
+        "stop_id": "500",
         "name": {
           "en": "Tin Wing",
           "tc": "天榮",
@@ -3556,269 +3520,15 @@
       }
     ]
   },
-  "LRT-751-inbound-1": {
-    "record_id": "LRT-751-inbound-1",
+  "LRT-751-tin_yat": {
+    "record_id": "LRT-751-tin_yat",
     "company": "LRT",
-    "route_id": "751",
     "route": "751",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_yat",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "TYA",
-        "name": {
-          "en": "Tin Yat",
-          "tc": "天逸",
-          "sc": "天逸"
-        },
-        "lat": 22.466784857183164,
-        "long": 113.9991460383975
-      },
-      {
-        "seq": 2,
-        "stop_id": "TFU",
-        "name": {
-          "en": "Tin Fu",
-          "tc": "天富",
-          "sc": "天富"
-        },
-        "lat": 22.464499842057915,
-        "long": 113.99769049714631
-      },
-      {
-        "seq": 3,
-        "stop_id": "CHF",
-        "name": {
-          "en": "Chung Fu",
-          "tc": "頌富",
-          "sc": "頌富"
-        },
-        "lat": 22.461907140037894,
-        "long": 113.99701190580804
-      },
-      {
-        "seq": 4,
-        "stop_id": "CHE",
-        "name": {
-          "en": "Chestwood",
-          "tc": "翠湖",
-          "sc": "翠湖"
-        },
-        "lat": 22.45957331263312,
-        "long": 113.99960348609814
-      },
-      {
-        "seq": 5,
-        "stop_id": "TWI",
-        "name": {
-          "en": "Tin Wing",
-          "tc": "天榮",
-          "sc": "天榮"
-        },
-        "lat": 22.45953456620289,
-        "long": 114.0027713066728
-      },
-      {
-        "seq": 6,
-        "stop_id": "GIN",
-        "name": {
-          "en": "Ginza",
-          "tc": "銀座",
-          "sc": "銀座"
-        },
-        "lat": 22.457547233584954,
-        "long": 114.00496360503314
-      },
-      {
-        "seq": 7,
-        "stop_id": "TWU",
-        "name": {
-          "en": "Tin Wu",
-          "tc": "天湖",
-          "sc": "天湖"
-        },
-        "lat": 22.455002374609354,
-        "long": 114.00570958158129
-      },
-      {
-        "seq": 8,
-        "stop_id": "TIT",
-        "name": {
-          "en": "Tin Tsz",
-          "tc": "天慈",
-          "sc": "天慈"
-        },
-        "lat": 22.452652107215986,
-        "long": 114.00612442850446
-      },
-      {
-        "seq": 9,
-        "stop_id": "TSL",
-        "name": {
-          "en": "Tin Shui Wai",
-          "tc": "天水圍",
-          "sc": "天水圍"
-        },
-        "lat": 22.448161593180853,
-        "long": 114.00464582229806
-      },
-      {
-        "seq": 10,
-        "stop_id": "HMT",
-        "name": {
-          "en": "Hang Mei Tsuen",
-          "tc": "坑尾村",
-          "sc": "坑尾村"
-        },
-        "lat": 22.445116485308223,
-        "long": 114.00562005875874
-      },
-      {
-        "seq": 11,
-        "stop_id": "HSK",
-        "name": {
-          "en": "Hung Shui Kiu",
-          "tc": "洪水橋",
-          "sc": "洪水橋"
-        },
-        "lat": 22.433595283388364,
-        "long": 113.99747625618892
-      },
-      {
-        "seq": 12,
-        "stop_id": "CUT",
-        "name": {
-          "en": "Chung Uk Tsuen",
-          "tc": "鍾屋村",
-          "sc": "鍾屋村"
-        },
-        "lat": 22.429681122166134,
-        "long": 113.9922299665861
-      },
-      {
-        "seq": 13,
-        "stop_id": "NAW",
-        "name": {
-          "en": "Nai Wai",
-          "tc": "泥圍",
-          "sc": "泥圍"
-        },
-        "lat": 22.424016760082534,
-        "long": 113.98679768383471
-      },
-      {
-        "seq": 14,
-        "stop_id": "LTE",
-        "name": {
-          "en": "Lam Tei",
-          "tc": "藍地",
-          "sc": "藍地"
-        },
-        "lat": 22.41718982456163,
-        "long": 113.98122492373894
-      },
-      {
-        "seq": 15,
-        "stop_id": "SHL",
-        "name": {
-          "en": "Siu Hong",
-          "tc": "兆康",
-          "sc": "兆康"
-        },
-        "lat": 22.411995316874915,
-        "long": 113.97841040836525
-      },
-      {
-        "seq": 16,
-        "stop_id": "TMH",
-        "name": {
-          "en": "Tuen Mun Hospital",
-          "tc": "屯門醫院",
-          "sc": "屯門醫院"
-        },
-        "lat": 22.407776596666693,
-        "long": 113.97713110089131
-      },
-      {
-        "seq": 17,
-        "stop_id": "AFF",
-        "name": {
-          "en": "Affluence",
-          "tc": "澤豐",
-          "sc": "澤豐"
-        },
-        "lat": 22.40350694388482,
-        "long": 113.97588959318725
-      },
-      {
-        "seq": 18,
-        "stop_id": "CYB",
-        "name": {
-          "en": "Choy Yee Bridge",
-          "tc": "蔡意橋",
-          "sc": "蔡意橋"
-        },
-        "lat": 22.399834107895764,
-        "long": 113.97409314701522
-      },
-      {
-        "seq": 19,
-        "stop_id": "HOT",
-        "name": {
-          "en": "Ho Tin",
-          "tc": "河田",
-          "sc": "河田"
-        },
-        "lat": 22.397427652017043,
-        "long": 113.97314292839391
-      },
-      {
-        "seq": 20,
-        "stop_id": "TML",
-        "name": {
-          "en": "Tuen Mun",
-          "tc": "屯門",
-          "sc": "屯門"
-        },
-        "lat": 22.3938471407472,
-        "long": 113.9729225260239
-      },
-      {
-        "seq": 21,
-        "stop_id": "TOC",
-        "name": {
-          "en": "Town Centre",
-          "tc": "市中心",
-          "sc": "市中心"
-        },
-        "lat": 22.391447022134532,
-        "long": 113.97494325091752
-      },
-      {
-        "seq": 22,
-        "stop_id": "YAO",
-        "name": {
-          "en": "Yau Oi",
-          "tc": "友愛",
-          "sc": "友愛"
-        },
-        "lat": 22.38672209949898,
-        "long": 113.97354533999778
-      }
-    ]
-  },
-  "LRT-751-outbound-1": {
-    "record_id": "LRT-751-outbound-1",
-    "company": "LRT",
-    "route_id": "751",
-    "route": "751",
-    "bound": "outbound",
-    "service_type": "1",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "YAO",
+        "stop_id": "275",
         "name": {
           "en": "Yau Oi",
           "tc": "友愛",
@@ -3829,7 +3539,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "ONT",
+        "stop_id": "270",
         "name": {
           "en": "On Ting",
           "tc": "安定",
@@ -3840,7 +3550,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "TOC",
+        "stop_id": "280",
         "name": {
           "en": "Town Centre",
           "tc": "市中心",
@@ -3851,7 +3561,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "TML",
+        "stop_id": "295",
         "name": {
           "en": "Tuen Mun",
           "tc": "屯門",
@@ -3862,51 +3572,51 @@
       },
       {
         "seq": 5,
-        "stop_id": "HOT",
+        "stop_id": "70",
         "name": {
           "en": "Ho Tin",
           "tc": "河田",
           "sc": "河田"
         },
-        "lat": 22.397427652017043,
-        "long": 113.97314292839391
+        "lat": null,
+        "long": null
       },
       {
         "seq": 6,
-        "stop_id": "CYB",
+        "stop_id": "75",
         "name": {
           "en": "Choy Yee Bridge",
           "tc": "蔡意橋",
           "sc": "蔡意橋"
         },
-        "lat": 22.399834107895764,
-        "long": 113.97409314701522
+        "lat": null,
+        "long": null
       },
       {
         "seq": 7,
-        "stop_id": "AFF",
+        "stop_id": "80",
         "name": {
           "en": "Affluence",
           "tc": "澤豐",
           "sc": "澤豐"
         },
-        "lat": 22.40350694388482,
-        "long": 113.97588959318725
+        "lat": null,
+        "long": null
       },
       {
         "seq": 8,
-        "stop_id": "TMH",
+        "stop_id": "90",
         "name": {
           "en": "Tuen Mun Hospital",
           "tc": "屯門醫院",
           "sc": "屯門醫院"
         },
-        "lat": 22.407776596666693,
-        "long": 113.97713110089131
+        "lat": null,
+        "long": null
       },
       {
         "seq": 9,
-        "stop_id": "SHL",
+        "stop_id": "100",
         "name": {
           "en": "Siu Hong",
           "tc": "兆康",
@@ -3917,7 +3627,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "LTE",
+        "stop_id": "350",
         "name": {
           "en": "Lam Tei",
           "tc": "藍地",
@@ -3928,7 +3638,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "NAW",
+        "stop_id": "360",
         "name": {
           "en": "Nai Wai",
           "tc": "泥圍",
@@ -3939,7 +3649,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "CUT",
+        "stop_id": "370",
         "name": {
           "en": "Chung Uk Tsuen",
           "tc": "鍾屋村",
@@ -3950,7 +3660,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "HSK",
+        "stop_id": "380",
         "name": {
           "en": "Hung Shui Kiu",
           "tc": "洪水橋",
@@ -3961,7 +3671,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "HMT",
+        "stop_id": "425",
         "name": {
           "en": "Hang Mei Tsuen",
           "tc": "坑尾村",
@@ -3972,7 +3682,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "TSL",
+        "stop_id": "430",
         "name": {
           "en": "Tin Shui Wai",
           "tc": "天水圍",
@@ -3983,7 +3693,7 @@
       },
       {
         "seq": 16,
-        "stop_id": "TIT",
+        "stop_id": "435",
         "name": {
           "en": "Tin Tsz",
           "tc": "天慈",
@@ -3994,7 +3704,7 @@
       },
       {
         "seq": 17,
-        "stop_id": "TWU",
+        "stop_id": "450",
         "name": {
           "en": "Tin Wu",
           "tc": "天湖",
@@ -4005,7 +3715,7 @@
       },
       {
         "seq": 18,
-        "stop_id": "GIN",
+        "stop_id": "455",
         "name": {
           "en": "Ginza",
           "tc": "銀座",
@@ -4016,7 +3726,7 @@
       },
       {
         "seq": 19,
-        "stop_id": "TWI",
+        "stop_id": "500",
         "name": {
           "en": "Tin Wing",
           "tc": "天榮",
@@ -4027,7 +3737,7 @@
       },
       {
         "seq": 20,
-        "stop_id": "CHE",
+        "stop_id": "490",
         "name": {
           "en": "Chestwood",
           "tc": "翠湖",
@@ -4038,7 +3748,7 @@
       },
       {
         "seq": 21,
-        "stop_id": "CHF",
+        "stop_id": "468",
         "name": {
           "en": "Chung Fu",
           "tc": "頌富",
@@ -4049,7 +3759,7 @@
       },
       {
         "seq": 22,
-        "stop_id": "TFU",
+        "stop_id": "480",
         "name": {
           "en": "Tin Fu",
           "tc": "天富",
@@ -4060,7 +3770,7 @@
       },
       {
         "seq": 23,
-        "stop_id": "TYA",
+        "stop_id": "550",
         "name": {
           "en": "Tin Yat",
           "tc": "天逸",
@@ -4071,7 +3781,7 @@
       },
       {
         "seq": 24,
-        "stop_id": "TYA",
+        "stop_id": "550",
         "name": {
           "en": "Tin Yat",
           "tc": "天逸",
@@ -4082,17 +3792,265 @@
       }
     ]
   },
-  "LRT-761P-inbound-1": {
-    "record_id": "LRT-761P-inbound-1",
+  "LRT-751-yau_oi": {
+    "record_id": "LRT-751-yau_oi",
     "company": "LRT",
-    "route_id": "761P",
-    "route": "761P",
-    "bound": "inbound",
-    "service_type": "1",
+    "route": "751",
+    "bound": "yau_oi",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "YLL",
+        "stop_id": "550",
+        "name": {
+          "en": "Tin Yat",
+          "tc": "天逸",
+          "sc": "天逸"
+        },
+        "lat": 22.466784857183164,
+        "long": 113.9991460383975
+      },
+      {
+        "seq": 2,
+        "stop_id": "480",
+        "name": {
+          "en": "Tin Fu",
+          "tc": "天富",
+          "sc": "天富"
+        },
+        "lat": 22.464499842057915,
+        "long": 113.99769049714631
+      },
+      {
+        "seq": 3,
+        "stop_id": "468",
+        "name": {
+          "en": "Chung Fu",
+          "tc": "頌富",
+          "sc": "頌富"
+        },
+        "lat": 22.461907140037894,
+        "long": 113.99701190580804
+      },
+      {
+        "seq": 4,
+        "stop_id": "490",
+        "name": {
+          "en": "Chestwood",
+          "tc": "翠湖",
+          "sc": "翠湖"
+        },
+        "lat": 22.45957331263312,
+        "long": 113.99960348609814
+      },
+      {
+        "seq": 5,
+        "stop_id": "500",
+        "name": {
+          "en": "Tin Wing",
+          "tc": "天榮",
+          "sc": "天榮"
+        },
+        "lat": 22.45953456620289,
+        "long": 114.0027713066728
+      },
+      {
+        "seq": 6,
+        "stop_id": "455",
+        "name": {
+          "en": "Ginza",
+          "tc": "銀座",
+          "sc": "銀座"
+        },
+        "lat": 22.457547233584954,
+        "long": 114.00496360503314
+      },
+      {
+        "seq": 7,
+        "stop_id": "450",
+        "name": {
+          "en": "Tin Wu",
+          "tc": "天湖",
+          "sc": "天湖"
+        },
+        "lat": 22.455002374609354,
+        "long": 114.00570958158129
+      },
+      {
+        "seq": 8,
+        "stop_id": "435",
+        "name": {
+          "en": "Tin Tsz",
+          "tc": "天慈",
+          "sc": "天慈"
+        },
+        "lat": 22.452652107215986,
+        "long": 114.00612442850446
+      },
+      {
+        "seq": 9,
+        "stop_id": "430",
+        "name": {
+          "en": "Tin Shui Wai",
+          "tc": "天水圍",
+          "sc": "天水圍"
+        },
+        "lat": 22.448161593180853,
+        "long": 114.00464582229806
+      },
+      {
+        "seq": 10,
+        "stop_id": "425",
+        "name": {
+          "en": "Hang Mei Tsuen",
+          "tc": "坑尾村",
+          "sc": "坑尾村"
+        },
+        "lat": 22.445116485308223,
+        "long": 114.00562005875874
+      },
+      {
+        "seq": 11,
+        "stop_id": "380",
+        "name": {
+          "en": "Hung Shui Kiu",
+          "tc": "洪水橋",
+          "sc": "洪水橋"
+        },
+        "lat": 22.433595283388364,
+        "long": 113.99747625618892
+      },
+      {
+        "seq": 12,
+        "stop_id": "370",
+        "name": {
+          "en": "Chung Uk Tsuen",
+          "tc": "鍾屋村",
+          "sc": "鍾屋村"
+        },
+        "lat": 22.429681122166134,
+        "long": 113.9922299665861
+      },
+      {
+        "seq": 13,
+        "stop_id": "360",
+        "name": {
+          "en": "Nai Wai",
+          "tc": "泥圍",
+          "sc": "泥圍"
+        },
+        "lat": 22.424016760082534,
+        "long": 113.98679768383471
+      },
+      {
+        "seq": 14,
+        "stop_id": "350",
+        "name": {
+          "en": "Lam Tei",
+          "tc": "藍地",
+          "sc": "藍地"
+        },
+        "lat": 22.41718982456163,
+        "long": 113.98122492373894
+      },
+      {
+        "seq": 15,
+        "stop_id": "100",
+        "name": {
+          "en": "Siu Hong",
+          "tc": "兆康",
+          "sc": "兆康"
+        },
+        "lat": 22.411995316874915,
+        "long": 113.97841040836525
+      },
+      {
+        "seq": 16,
+        "stop_id": "90",
+        "name": {
+          "en": "Tuen Mun Hospital",
+          "tc": "屯門醫院",
+          "sc": "屯門醫院"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 17,
+        "stop_id": "80",
+        "name": {
+          "en": "Affluence",
+          "tc": "澤豐",
+          "sc": "澤豐"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 18,
+        "stop_id": "75",
+        "name": {
+          "en": "Choy Yee Bridge",
+          "tc": "蔡意橋",
+          "sc": "蔡意橋"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 19,
+        "stop_id": "70",
+        "name": {
+          "en": "Ho Tin",
+          "tc": "河田",
+          "sc": "河田"
+        },
+        "lat": null,
+        "long": null
+      },
+      {
+        "seq": 20,
+        "stop_id": "295",
+        "name": {
+          "en": "Tuen Mun",
+          "tc": "屯門",
+          "sc": "屯門"
+        },
+        "lat": 22.3938471407472,
+        "long": 113.9729225260239
+      },
+      {
+        "seq": 21,
+        "stop_id": "280",
+        "name": {
+          "en": "Town Centre",
+          "tc": "市中心",
+          "sc": "市中心"
+        },
+        "lat": 22.391447022134532,
+        "long": 113.97494325091752
+      },
+      {
+        "seq": 22,
+        "stop_id": "275",
+        "name": {
+          "en": "Yau Oi",
+          "tc": "友愛",
+          "sc": "友愛"
+        },
+        "lat": 22.38672209949898,
+        "long": 113.97354533999778
+      }
+    ]
+  },
+  "LRT-761P-tin_yat": {
+    "record_id": "LRT-761P-tin_yat",
+    "company": "LRT",
+    "route": "761P",
+    "bound": "tin_yat",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "600",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",
@@ -4103,7 +4061,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "TTR",
+        "stop_id": "590",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -4114,7 +4072,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "HLR",
+        "stop_id": "580",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -4125,7 +4083,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "FNR",
+        "stop_id": "570",
         "name": {
           "en": "Fung Nin Road",
           "tc": "豐年路",
@@ -4136,7 +4094,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "SPW",
+        "stop_id": "560",
         "name": {
           "en": "Shui Pin Wai",
           "tc": "水邊圍",
@@ -4147,7 +4105,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "PIS",
+        "stop_id": "400",
         "name": {
           "en": "Ping Shan",
           "tc": "屏山",
@@ -4158,7 +4116,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "TOF",
+        "stop_id": "390",
         "name": {
           "en": "Tong Fong Tsuen",
           "tc": "塘坊村",
@@ -4169,7 +4127,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "HMT",
+        "stop_id": "425",
         "name": {
           "en": "Hang Mei Tsuen",
           "tc": "坑尾村",
@@ -4180,7 +4138,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "TIY",
+        "stop_id": "445",
         "name": {
           "en": "Tin Yiu",
           "tc": "天耀",
@@ -4191,7 +4149,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "LOC",
+        "stop_id": "448",
         "name": {
           "en": "Locwood",
           "tc": "樂湖",
@@ -4202,7 +4160,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "TSU",
+        "stop_id": "460",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -4213,7 +4171,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "CHF",
+        "stop_id": "468",
         "name": {
           "en": "Chung Fu",
           "tc": "頌富",
@@ -4224,7 +4182,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "TFU",
+        "stop_id": "480",
         "name": {
           "en": "Tin Fu",
           "tc": "天富",
@@ -4235,7 +4193,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "TYA",
+        "stop_id": "550",
         "name": {
           "en": "Tin Yat",
           "tc": "天逸",
@@ -4246,7 +4204,7 @@
       },
       {
         "seq": 15,
-        "stop_id": "TYA",
+        "stop_id": "550",
         "name": {
           "en": "Tin Yat",
           "tc": "天逸",
@@ -4257,17 +4215,15 @@
       }
     ]
   },
-  "LRT-761P-outbound-1": {
-    "record_id": "LRT-761P-outbound-1",
+  "LRT-761P-yuen_long": {
+    "record_id": "LRT-761P-yuen_long",
     "company": "LRT",
-    "route_id": "761P",
     "route": "761P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "TYA",
+        "stop_id": "550",
         "name": {
           "en": "Tin Yat",
           "tc": "天逸",
@@ -4278,7 +4234,7 @@
       },
       {
         "seq": 2,
-        "stop_id": "TFU",
+        "stop_id": "480",
         "name": {
           "en": "Tin Fu",
           "tc": "天富",
@@ -4289,7 +4245,7 @@
       },
       {
         "seq": 3,
-        "stop_id": "CHF",
+        "stop_id": "468",
         "name": {
           "en": "Chung Fu",
           "tc": "頌富",
@@ -4300,7 +4256,7 @@
       },
       {
         "seq": 4,
-        "stop_id": "TSU",
+        "stop_id": "460",
         "name": {
           "en": "Tin Shui",
           "tc": "天瑞",
@@ -4311,7 +4267,7 @@
       },
       {
         "seq": 5,
-        "stop_id": "LOC",
+        "stop_id": "448",
         "name": {
           "en": "Locwood",
           "tc": "樂湖",
@@ -4322,7 +4278,7 @@
       },
       {
         "seq": 6,
-        "stop_id": "TIY",
+        "stop_id": "445",
         "name": {
           "en": "Tin Yiu",
           "tc": "天耀",
@@ -4333,7 +4289,7 @@
       },
       {
         "seq": 7,
-        "stop_id": "HMT",
+        "stop_id": "425",
         "name": {
           "en": "Hang Mei Tsuen",
           "tc": "坑尾村",
@@ -4344,7 +4300,7 @@
       },
       {
         "seq": 8,
-        "stop_id": "TOF",
+        "stop_id": "390",
         "name": {
           "en": "Tong Fong Tsuen",
           "tc": "塘坊村",
@@ -4355,7 +4311,7 @@
       },
       {
         "seq": 9,
-        "stop_id": "PIS",
+        "stop_id": "400",
         "name": {
           "en": "Ping Shan",
           "tc": "屏山",
@@ -4366,7 +4322,7 @@
       },
       {
         "seq": 10,
-        "stop_id": "SPW",
+        "stop_id": "560",
         "name": {
           "en": "Shui Pin Wai",
           "tc": "水邊圍",
@@ -4377,7 +4333,7 @@
       },
       {
         "seq": 11,
-        "stop_id": "FNR",
+        "stop_id": "570",
         "name": {
           "en": "Fung Nin Road",
           "tc": "豐年路",
@@ -4388,7 +4344,7 @@
       },
       {
         "seq": 12,
-        "stop_id": "HLR",
+        "stop_id": "580",
         "name": {
           "en": "Hong Lok Road",
           "tc": "康樂路",
@@ -4399,7 +4355,7 @@
       },
       {
         "seq": 13,
-        "stop_id": "TTR",
+        "stop_id": "590",
         "name": {
           "en": "Tai Tong Road",
           "tc": "大棠路",
@@ -4410,7 +4366,7 @@
       },
       {
         "seq": 14,
-        "stop_id": "YLL",
+        "stop_id": "600",
         "name": {
           "en": "Yuen Long",
           "tc": "元朗",

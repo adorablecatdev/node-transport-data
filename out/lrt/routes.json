@@ -1,11 +1,9 @@
 {
-  "LRT-505-inbound-1": {
-    "record_id": "LRT-505-inbound-1",
+  "LRT-505-sam_shing": {
+    "record_id": "LRT-505-sam_shing",
     "company": "LRT",
-    "route_id": "505",
     "route": "505",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "sam_shing",
     "origin": {
       "en": "Siu Hong",
       "tc": "兆康",
@@ -17,13 +15,11 @@
       "sc": "三聖"
     }
   },
-  "LRT-505-outbound-1": {
-    "record_id": "LRT-505-outbound-1",
+  "LRT-505-siu_hong": {
+    "record_id": "LRT-505-siu_hong",
     "company": "LRT",
-    "route_id": "505",
     "route": "505",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "origin": {
       "en": "Sam Shing",
       "tc": "三聖",
@@ -35,31 +31,11 @@
       "sc": "兆康"
     }
   },
-  "LRT-507-inbound-1": {
-    "record_id": "LRT-507-inbound-1",
+  "LRT-507-tin_king": {
+    "record_id": "LRT-507-tin_king",
     "company": "LRT",
-    "route_id": "507",
     "route": "507",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tin King",
-      "tc": "田景",
-      "sc": "田景"
-    },
-    "destination": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯門碼頭"
-    }
-  },
-  "LRT-507-outbound-1": {
-    "record_id": "LRT-507-outbound-1",
-    "company": "LRT",
-    "route_id": "507",
-    "route": "507",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_king",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -71,13 +47,27 @@
       "sc": "田景"
     }
   },
-  "LRT-610-inbound-1": {
-    "record_id": "LRT-610-inbound-1",
+  "LRT-507-tuen_mun_ferry_pier": {
+    "record_id": "LRT-507-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "610",
+    "route": "507",
+    "bound": "tuen_mun_ferry_pier",
+    "origin": {
+      "en": "Tin King",
+      "tc": "田景",
+      "sc": "田景"
+    },
+    "destination": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
+    }
+  },
+  "LRT-610-tuen_mun_ferry_pier": {
+    "record_id": "LRT-610-tuen_mun_ferry_pier",
+    "company": "LRT",
     "route": "610",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "origin": {
       "en": "Yuen Long",
       "tc": "元朗",
@@ -89,13 +79,11 @@
       "sc": "屯門碼頭"
     }
   },
-  "LRT-610-outbound-1": {
-    "record_id": "LRT-610-outbound-1",
+  "LRT-610-yuen_long": {
+    "record_id": "LRT-610-yuen_long",
     "company": "LRT",
-    "route_id": "610",
     "route": "610",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -107,13 +95,11 @@
       "sc": "元朗"
     }
   },
-  "LRT-614-inbound-1": {
-    "record_id": "LRT-614-inbound-1",
+  "LRT-614-tuen_mun_ferry_pier": {
+    "record_id": "LRT-614-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "614",
     "route": "614",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "origin": {
       "en": "Yuen Long",
       "tc": "元朗",
@@ -125,13 +111,11 @@
       "sc": "屯門碼頭"
     }
   },
-  "LRT-614-outbound-1": {
-    "record_id": "LRT-614-outbound-1",
+  "LRT-614-yuen_long": {
+    "record_id": "LRT-614-yuen_long",
     "company": "LRT",
-    "route_id": "614",
     "route": "614",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -143,49 +127,43 @@
       "sc": "元朗"
     }
   },
-  "LRT-614P-inbound-1": {
-    "record_id": "LRT-614P-inbound-1",
+  "LRT-614P-siu_hong": {
+    "record_id": "LRT-614P-siu_hong",
     "company": "LRT",
-    "route_id": "614P",
     "route": "614P",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "origin": {
-      "en": "Siu Hong",
-      "tc": "兆康",
-      "sc": "兆康"
-    },
-    "destination": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
       "sc": "屯門碼頭"
+    },
+    "destination": {
+      "en": "Siu Hong",
+      "tc": "兆康",
+      "sc": "兆康"
     }
   },
-  "LRT-614P-outbound-1": {
-    "record_id": "LRT-614P-outbound-1",
+  "LRT-614P-tuen_mun_ferry_pier": {
+    "record_id": "LRT-614P-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "614P",
     "route": "614P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "origin": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯門碼頭"
-    },
-    "destination": {
       "en": "Siu Hong",
       "tc": "兆康",
       "sc": "兆康"
+    },
+    "destination": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
     }
   },
-  "LRT-615-inbound-1": {
-    "record_id": "LRT-615-inbound-1",
+  "LRT-615-tuen_mun_ferry_pier": {
+    "record_id": "LRT-615-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "615",
     "route": "615",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "origin": {
       "en": "Yuen Long",
       "tc": "元朗",
@@ -197,13 +175,11 @@
       "sc": "屯門碼頭"
     }
   },
-  "LRT-615-outbound-1": {
-    "record_id": "LRT-615-outbound-1",
+  "LRT-615-yuen_long": {
+    "record_id": "LRT-615-yuen_long",
     "company": "LRT",
-    "route_id": "615",
     "route": "615",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -215,31 +191,11 @@
       "sc": "元朗"
     }
   },
-  "LRT-615P-inbound-1": {
-    "record_id": "LRT-615P-inbound-1",
+  "LRT-615P-siu_hong": {
+    "record_id": "LRT-615P-siu_hong",
     "company": "LRT",
-    "route_id": "615P",
     "route": "615P",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Siu Hong",
-      "tc": "兆康",
-      "sc": "兆康"
-    },
-    "destination": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯門碼頭"
-    }
-  },
-  "LRT-615P-outbound-1": {
-    "record_id": "LRT-615P-outbound-1",
-    "company": "LRT",
-    "route_id": "615P",
-    "route": "615P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -251,13 +207,27 @@
       "sc": "兆康"
     }
   },
-  "LRT-705-inbound-1": {
-    "record_id": "LRT-705-inbound-1",
+  "LRT-615P-tuen_mun_ferry_pier": {
+    "record_id": "LRT-615P-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "705",
+    "route": "615P",
+    "bound": "tuen_mun_ferry_pier",
+    "origin": {
+      "en": "Siu Hong",
+      "tc": "兆康",
+      "sc": "兆康"
+    },
+    "destination": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
+    }
+  },
+  "LRT-705-tin_shui_wai": {
+    "record_id": "LRT-705-tin_shui_wai",
+    "company": "LRT",
     "route": "705",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_shui_wai",
     "origin": {
       "en": "Tin Wing",
       "tc": "天榮",
@@ -269,13 +239,11 @@
       "sc": "天水圍"
     }
   },
-  "LRT-705-outbound-1": {
-    "record_id": "LRT-705-outbound-1",
+  "LRT-705-tin_wing": {
+    "record_id": "LRT-705-tin_wing",
     "company": "LRT",
-    "route_id": "705",
     "route": "705",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_wing",
     "origin": {
       "en": "Tin Shui Wai",
       "tc": "天水圍",
@@ -287,13 +255,11 @@
       "sc": "天榮"
     }
   },
-  "LRT-706-inbound-1": {
-    "record_id": "LRT-706-inbound-1",
+  "LRT-706-tin_shui_wai": {
+    "record_id": "LRT-706-tin_shui_wai",
     "company": "LRT",
-    "route_id": "706",
     "route": "706",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_shui_wai",
     "origin": {
       "en": "Tin Wing",
       "tc": "天榮",
@@ -305,13 +271,11 @@
       "sc": "天水圍"
     }
   },
-  "LRT-706-outbound-1": {
-    "record_id": "LRT-706-outbound-1",
+  "LRT-706-tin_wing": {
+    "record_id": "LRT-706-tin_wing",
     "company": "LRT",
-    "route_id": "706",
     "route": "706",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_wing",
     "origin": {
       "en": "Tin Shui Wai",
       "tc": "天水圍",
@@ -323,31 +287,11 @@
       "sc": "天榮"
     }
   },
-  "LRT-751-inbound-1": {
-    "record_id": "LRT-751-inbound-1",
+  "LRT-751-tin_yat": {
+    "record_id": "LRT-751-tin_yat",
     "company": "LRT",
-    "route_id": "751",
     "route": "751",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tin Yat",
-      "tc": "天逸",
-      "sc": "天逸"
-    },
-    "destination": {
-      "en": "Yau Oi",
-      "tc": "友愛",
-      "sc": "友愛"
-    }
-  },
-  "LRT-751-outbound-1": {
-    "record_id": "LRT-751-outbound-1",
-    "company": "LRT",
-    "route_id": "751",
-    "route": "751",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_yat",
     "origin": {
       "en": "Yau Oi",
       "tc": "友愛",
@@ -359,13 +303,27 @@
       "sc": "天逸"
     }
   },
-  "LRT-761P-inbound-1": {
-    "record_id": "LRT-761P-inbound-1",
+  "LRT-751-yau_oi": {
+    "record_id": "LRT-751-yau_oi",
     "company": "LRT",
-    "route_id": "761P",
+    "route": "751",
+    "bound": "yau_oi",
+    "origin": {
+      "en": "Tin Yat",
+      "tc": "天逸",
+      "sc": "天逸"
+    },
+    "destination": {
+      "en": "Yau Oi",
+      "tc": "友愛",
+      "sc": "友愛"
+    }
+  },
+  "LRT-761P-tin_yat": {
+    "record_id": "LRT-761P-tin_yat",
+    "company": "LRT",
     "route": "761P",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_yat",
     "origin": {
       "en": "Yuen Long",
       "tc": "元朗",
@@ -377,13 +335,11 @@
       "sc": "天逸"
     }
   },
-  "LRT-761P-outbound-1": {
-    "record_id": "LRT-761P-outbound-1",
+  "LRT-761P-yuen_long": {
+    "record_id": "LRT-761P-yuen_long",
     "company": "LRT",
-    "route_id": "761P",
     "route": "761P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "origin": {
       "en": "Tin Yat",
       "tc": "天逸",

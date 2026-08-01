@@ -12,7 +12,7 @@ const COMPANY_DIRS = [
   "kmbctb",
   "mtrbus",
   "mtr",
-  "lightrail",
+  "lrt",
   "gmbhki",
   "gmbkln",
   "gmbnt",

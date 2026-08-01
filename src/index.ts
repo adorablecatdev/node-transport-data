@@ -2,7 +2,7 @@ import { run as runCtb } from "./companies/ctb/index.js";
 import { runHKI as runGmbHKI, runKLN as runGmbKLN, runNT as runGmbNT } from "./companies/gmb/index.js";
 import { run as runKmb } from "./companies/kmb/index.js";
 import { run as runKmbCtb } from "./companies/kmbctb/index.js";
-import { run as runLightrail } from "./companies/lightrail/index.js";
+import { run as runLrt } from "./companies/lrt/index.js";
 import { run as runMtr } from "./companies/mtr/index.js";
 import { run as runMtrbus } from "./companies/mtrbus/index.js";
 import { run as runNlb } from "./companies/nlb/index.js";
@@ -18,7 +18,7 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   kmbctb: () => runKmbCtb(),
   mtrbus: () => runMtrbus(),
   mtr: () => runMtr(),
-  lightrail: () => runLightrail(),
+  lrt: () => runLrt(),
   gmbhki: (options) => runGmbHKI(options),
   gmbkln: (options) => runGmbKLN(options),
   gmbnt: (options) => runGmbNT(options),
