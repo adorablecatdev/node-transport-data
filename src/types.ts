@@ -21,10 +21,10 @@ export type Localized = { en: string; tc: string; sc: string };
 export type RouteOutput<TRoute = string> = {
   record_id: string;
   company: Company;
-  route_id: string;
+  route_id?: string;
   route: TRoute;
   bound: Bound;
-  service_type: string;
+  service_type?: string;
   origin: Localized;
   destination: Localized;
   ctb_bound?: Bound;
@@ -42,10 +42,10 @@ export type StopOutput = {
 export type RouteStopsOutput<TRoute = string> = {
   record_id: string;
   company: Company;
-  route_id: string;
+  route_id?: string;
   route: TRoute;
   bound: Bound;
-  service_type: string;
+  service_type?: string;
   stops: StopOutput[];
   ctb_bound?: Bound;
 };

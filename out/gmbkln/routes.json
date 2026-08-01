@@ -1,29 +1,11 @@
 {
-  "GMBKLN-12-inbound-1": {
-    "record_id": "GMBKLN-12-inbound-1",
+  "GMBKLN-12-2002329-1": {
+    "record_id": "GMBKLN-12-2002329-1",
     "company": "GMBKLN",
     "route_id": "2002329",
     "route": "12",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mong Kok East Station",
-      "tc": "旺角東站",
-      "sc": "旺角东站"
-    },
-    "destination": {
-      "en": "Pak Tin",
-      "tc": "白田",
-      "sc": "白田"
-    }
-  },
-  "GMBKLN-12-outbound-1": {
-    "record_id": "GMBKLN-12-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2002329",
-    "route": "12",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Pak Tin",
       "tc": "白田",
@@ -35,13 +17,49 @@
       "sc": "旺角东站"
     }
   },
-  "GMBKLN-12A-inbound-1": {
-    "record_id": "GMBKLN-12A-inbound-1",
+  "GMBKLN-12-2002329-2": {
+    "record_id": "GMBKLN-12-2002329-2",
+    "company": "GMBKLN",
+    "route_id": "2002329",
+    "route": "12",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Mong Kok East Station",
+      "tc": "旺角東站",
+      "sc": "旺角东站"
+    },
+    "destination": {
+      "en": "Pak Tin",
+      "tc": "白田",
+      "sc": "白田"
+    }
+  },
+  "GMBKLN-12A-2002331-1": {
+    "record_id": "GMBKLN-12A-2002331-1",
     "company": "GMBKLN",
     "route_id": "2002331",
     "route": "12A",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Mong Kok East Station",
+      "tc": "旺角東站",
+      "sc": "旺角东站"
+    },
+    "destination": {
+      "en": "Cosmopolitan Estates",
+      "tc": "大同新邨",
+      "sc": "大同新邨"
+    }
+  },
+  "GMBKLN-12A-2002331-2": {
+    "record_id": "GMBKLN-12A-2002331-2",
+    "company": "GMBKLN",
+    "route_id": "2002331",
+    "route": "12A",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Cosmopolitan Estates",
       "tc": "大同新邨",
@@ -53,49 +71,13 @@
       "sc": "旺角东站"
     }
   },
-  "GMBKLN-12A-outbound-1": {
-    "record_id": "GMBKLN-12A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2002331",
-    "route": "12A",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mong Kok East Station",
-      "tc": "旺角東站",
-      "sc": "旺角东站"
-    },
-    "destination": {
-      "en": "Cosmopolitan Estates",
-      "tc": "大同新邨",
-      "sc": "大同新邨"
-    }
-  },
-  "GMBKLN-12B-inbound-1": {
-    "record_id": "GMBKLN-12B-inbound-1",
+  "GMBKLN-12B-2002333-1": {
+    "record_id": "GMBKLN-12B-2002333-1",
     "company": "GMBKLN",
     "route_id": "2002333",
     "route": "12B",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Metro Harbour View",
-      "tc": "港灣豪庭",
-      "sc": "港湾豪庭"
-    },
-    "destination": {
-      "en": "Mong Kok East Station",
-      "tc": "旺角東站",
-      "sc": "旺角东站"
-    }
-  },
-  "GMBKLN-12B-outbound-1": {
-    "record_id": "GMBKLN-12B-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2002333",
-    "route": "12B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Mong Kok East Station",
       "tc": "旺角東站",
@@ -107,13 +89,31 @@
       "sc": "港湾豪庭"
     }
   },
-  "GMBKLN-12B-outbound-2": {
-    "record_id": "GMBKLN-12B-outbound-2",
+  "GMBKLN-12B-2002333-2": {
+    "record_id": "GMBKLN-12B-2002333-2",
+    "company": "GMBKLN",
+    "route_id": "2002333",
+    "route": "12B",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Metro Harbour View",
+      "tc": "港灣豪庭",
+      "sc": "港湾豪庭"
+    },
+    "destination": {
+      "en": "Mong Kok East Station",
+      "tc": "旺角東站",
+      "sc": "旺角东站"
+    }
+  },
+  "GMBKLN-12B-2002335-1": {
+    "record_id": "GMBKLN-12B-2002335-1",
     "company": "GMBKLN",
     "route_id": "2002335",
     "route": "12B",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Metro Harbour View",
       "tc": "港灣豪庭",
@@ -125,13 +125,13 @@
       "sc": "西洋菜南街"
     }
   },
-  "GMBKLN-12S-outbound-1": {
-    "record_id": "GMBKLN-12S-outbound-1",
+  "GMBKLN-12S-2002336-1": {
+    "record_id": "GMBKLN-12S-2002336-1",
     "company": "GMBKLN",
     "route_id": "2002336",
     "route": "12S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tai Kok Tsui (Cherry Street)",
       "tc": "大角咀(櫻桃街)",
@@ -143,31 +143,13 @@
       "sc": "旺角东站(循环线)"
     }
   },
-  "GMBKLN-13-inbound-1": {
-    "record_id": "GMBKLN-13-inbound-1",
+  "GMBKLN-13-2003571-1": {
+    "record_id": "GMBKLN-13-2003571-1",
     "company": "GMBKLN",
     "route_id": "2003571",
     "route": "13",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hung Hom (Hung Luen Road)",
-      "tc": "紅磡(紅鸞道)",
-      "sc": "红磡(红鸾道)"
-    },
-    "destination": {
-      "en": "Kowloon Tong (Broadcast Drive)",
-      "tc": "九龍塘(廣播道)",
-      "sc": "九龙塘(广播道)"
-    }
-  },
-  "GMBKLN-13-outbound-1": {
-    "record_id": "GMBKLN-13-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2003571",
-    "route": "13",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Tong (Broadcast Drive)",
       "tc": "九龍塘(廣播道)",
@@ -179,31 +161,31 @@
       "sc": "红磡(红鸾道)"
     }
   },
-  "GMBKLN-13A-inbound-1": {
-    "record_id": "GMBKLN-13A-inbound-1",
+  "GMBKLN-13-2003571-2": {
+    "record_id": "GMBKLN-13-2003571-2",
+    "company": "GMBKLN",
+    "route_id": "2003571",
+    "route": "13",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Hung Hom (Hung Luen Road)",
+      "tc": "紅磡(紅鸞道)",
+      "sc": "红磡(红鸾道)"
+    },
+    "destination": {
+      "en": "Kowloon Tong (Broadcast Drive)",
+      "tc": "九龍塘(廣播道)",
+      "sc": "九龙塘(广播道)"
+    }
+  },
+  "GMBKLN-13A-2003604-1": {
+    "record_id": "GMBKLN-13A-2003604-1",
     "company": "GMBKLN",
     "route_id": "2003604",
     "route": "13A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Lok Fu",
-      "tc": "樂富",
-      "sc": "乐富"
-    },
-    "destination": {
-      "en": "Kowloon Tong (Broadcast Drive)",
-      "tc": "九龍塘(廣播道)",
-      "sc": "九龙塘(广播道)"
-    }
-  },
-  "GMBKLN-13A-inbound-2": {
-    "record_id": "GMBKLN-13A-inbound-2",
-    "company": "GMBKLN",
-    "route_id": "2003606",
-    "route": "13A",
-    "bound": "inbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Tong (Broadcast Drive)",
       "tc": "九龍塘(廣播道)",
@@ -215,31 +197,31 @@
       "sc": "乐富"
     }
   },
-  "GMBKLN-13A-outbound-1": {
-    "record_id": "GMBKLN-13A-outbound-1",
+  "GMBKLN-13A-2003604-2": {
+    "record_id": "GMBKLN-13A-2003604-2",
     "company": "GMBKLN",
     "route_id": "2003604",
     "route": "13A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
-      "en": "Kowloon Tong (Broadcast Drive)",
-      "tc": "九龍塘(廣播道)",
-      "sc": "九龙塘(广播道)"
-    },
-    "destination": {
       "en": "Lok Fu",
       "tc": "樂富",
       "sc": "乐富"
+    },
+    "destination": {
+      "en": "Kowloon Tong (Broadcast Drive)",
+      "tc": "九龍塘(廣播道)",
+      "sc": "九龙塘(广播道)"
     }
   },
-  "GMBKLN-13A-outbound-2": {
-    "record_id": "GMBKLN-13A-outbound-2",
+  "GMBKLN-13A-2003606-1": {
+    "record_id": "GMBKLN-13A-2003606-1",
     "company": "GMBKLN",
     "route_id": "2003606",
     "route": "13A",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Fu",
       "tc": "樂富",
@@ -251,13 +233,31 @@
       "sc": "九龙塘(广播道)"
     }
   },
-  "GMBKLN-13M-outbound-1": {
-    "record_id": "GMBKLN-13M-outbound-1",
+  "GMBKLN-13A-2003606-2": {
+    "record_id": "GMBKLN-13A-2003606-2",
+    "company": "GMBKLN",
+    "route_id": "2003606",
+    "route": "13A",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Kowloon Tong (Broadcast Drive)",
+      "tc": "九龍塘(廣播道)",
+      "sc": "九龙塘(广播道)"
+    },
+    "destination": {
+      "en": "Lok Fu",
+      "tc": "樂富",
+      "sc": "乐富"
+    }
+  },
+  "GMBKLN-13M-2003603-1": {
+    "record_id": "GMBKLN-13M-2003603-1",
     "company": "GMBKLN",
     "route_id": "2003603",
     "route": "13M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hung Hom (Hung Luen Road)",
       "tc": "紅磡(紅鸞道)",
@@ -269,13 +269,13 @@
       "sc": "红磡站(循环线)"
     }
   },
-  "GMBKLN-16-outbound-1": {
-    "record_id": "GMBKLN-16-outbound-1",
+  "GMBKLN-16-2004629-1": {
+    "record_id": "GMBKLN-16-2004629-1",
     "company": "GMBKLN",
     "route_id": "2004629",
     "route": "16",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Jat's Incline (Choi Wan Estate)",
       "tc": "扎山道(彩雲邨)",
@@ -287,13 +287,13 @@
       "sc": "坪石邨(循环线)"
     }
   },
-  "GMBKLN-16A-outbound-1": {
-    "record_id": "GMBKLN-16A-outbound-1",
+  "GMBKLN-16A-2004630-1": {
+    "record_id": "GMBKLN-16A-2004630-1",
     "company": "GMBKLN",
     "route_id": "2004630",
     "route": "16A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Fung Shing Street",
       "tc": "豐盛街",
@@ -305,31 +305,13 @@
       "sc": "坪石邨(循环线)"
     }
   },
-  "GMBKLN-16B-inbound-1": {
-    "record_id": "GMBKLN-16B-inbound-1",
+  "GMBKLN-16B-2004632-1": {
+    "record_id": "GMBKLN-16B-2004632-1",
     "company": "GMBKLN",
     "route_id": "2004632",
     "route": "16B",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ping Shek Public Transport Interchange 1/F",
-      "tc": "坪石公共運輸交匯處一樓",
-      "sc": "坪石公共运输交汇处一楼"
-    },
-    "destination": {
-      "en": "Scenic View",
-      "tc": "曉暉花園",
-      "sc": "曉暉花園"
-    }
-  },
-  "GMBKLN-16B-outbound-1": {
-    "record_id": "GMBKLN-16B-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2004632",
-    "route": "16B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Scenic View",
       "tc": "曉暉花園",
@@ -341,13 +323,31 @@
       "sc": "坪石公共运输交汇处一楼"
     }
   },
-  "GMBKLN-16S-outbound-1": {
-    "record_id": "GMBKLN-16S-outbound-1",
+  "GMBKLN-16B-2004632-2": {
+    "record_id": "GMBKLN-16B-2004632-2",
+    "company": "GMBKLN",
+    "route_id": "2004632",
+    "route": "16B",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Ping Shek Public Transport Interchange 1/F",
+      "tc": "坪石公共運輸交匯處一樓",
+      "sc": "坪石公共运输交汇处一楼"
+    },
+    "destination": {
+      "en": "Scenic View",
+      "tc": "曉暉花園",
+      "sc": "曉暉花園"
+    }
+  },
+  "GMBKLN-16S-2004631-1": {
+    "record_id": "GMBKLN-16S-2004631-1",
     "company": "GMBKLN",
     "route_id": "2004631",
     "route": "16S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Aria",
       "tc": "峻弦",
@@ -359,13 +359,13 @@
       "sc": "坪石邨(循环线)"
     }
   },
-  "GMBKLN-17M-outbound-1": {
-    "record_id": "GMBKLN-17M-outbound-1",
+  "GMBKLN-17M-2006677-1": {
+    "record_id": "GMBKLN-17M-2006677-1",
     "company": "GMBKLN",
     "route_id": "2006677",
     "route": "17M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Prince Edward Station",
       "tc": "太子站",
@@ -377,13 +377,13 @@
       "sc": "九龙医院 "
     }
   },
-  "GMBKLN-17M-outbound-2": {
-    "record_id": "GMBKLN-17M-outbound-2",
+  "GMBKLN-17M-2006679-1": {
+    "record_id": "GMBKLN-17M-2006679-1",
     "company": "GMBKLN",
     "route_id": "2006679",
     "route": "17M",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Hospital",
       "tc": "九龍醫院",
@@ -395,31 +395,13 @@
       "sc": "通菜街 "
     }
   },
-  "GMBKLN-18M-inbound-1": {
-    "record_id": "GMBKLN-18M-inbound-1",
+  "GMBKLN-18M-2002085-1": {
+    "record_id": "GMBKLN-18M-2002085-1",
     "company": "GMBKLN",
     "route_id": "2002085",
     "route": "18M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tsz Wan Shan (North)",
-      "tc": "慈雲山(北)",
-      "sc": "慈云山(北)"
-    },
-    "destination": {
-      "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
-      "tc": "黃大仙公共小型巴士(專綫)服務總站",
-      "sc": "黄大仙公共小型巴士(专线)服务总站"
-    }
-  },
-  "GMBKLN-18M-outbound-1": {
-    "record_id": "GMBKLN-18M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2002085",
-    "route": "18M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
       "tc": "黃大仙公共小型巴士(專綫)服務總站",
@@ -431,31 +413,31 @@
       "sc": "慈云山(北)"
     }
   },
-  "GMBKLN-19-inbound-1": {
-    "record_id": "GMBKLN-19-inbound-1",
+  "GMBKLN-18M-2002085-2": {
+    "record_id": "GMBKLN-18M-2002085-2",
     "company": "GMBKLN",
-    "route_id": "2002087",
-    "route": "19",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "2002085",
+    "route": "18M",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
-      "en": "Tsz Wan Shan Road (Shatin Pass Estate)",
-      "tc": "慈雲山道(沙田坳邨)",
-      "sc": "慈云山道(沙田坳邨)"
+      "en": "Tsz Wan Shan (North)",
+      "tc": "慈雲山(北)",
+      "sc": "慈云山(北)"
     },
     "destination": {
-      "en": "San Po Kong",
-      "tc": "新蒲崗",
-      "sc": "新蒲岗"
+      "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
+      "tc": "黃大仙公共小型巴士(專綫)服務總站",
+      "sc": "黄大仙公共小型巴士(专线)服务总站"
     }
   },
-  "GMBKLN-19-outbound-1": {
-    "record_id": "GMBKLN-19-outbound-1",
+  "GMBKLN-19-2002087-1": {
+    "record_id": "GMBKLN-19-2002087-1",
     "company": "GMBKLN",
     "route_id": "2002087",
     "route": "19",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "San Po Kong",
       "tc": "新蒲崗",
@@ -467,13 +449,31 @@
       "sc": "慈云山道(沙田坳邨)"
     }
   },
-  "GMBKLN-19-outbound-2": {
-    "record_id": "GMBKLN-19-outbound-2",
+  "GMBKLN-19-2002087-2": {
+    "record_id": "GMBKLN-19-2002087-2",
+    "company": "GMBKLN",
+    "route_id": "2002087",
+    "route": "19",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Tsz Wan Shan Road (Shatin Pass Estate)",
+      "tc": "慈雲山道(沙田坳邨)",
+      "sc": "慈云山道(沙田坳邨)"
+    },
+    "destination": {
+      "en": "San Po Kong",
+      "tc": "新蒲崗",
+      "sc": "新蒲岗"
+    }
+  },
+  "GMBKLN-19-2002151-1": {
+    "record_id": "GMBKLN-19-2002151-1",
     "company": "GMBKLN",
     "route_id": "2002151",
     "route": "19",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Fu Shan Public Transport Interchange",
       "tc": "富山公共交通總站",
@@ -485,13 +485,13 @@
       "sc": "钻石山站公共交通交汇处"
     }
   },
-  "GMBKLN-19A-outbound-1": {
-    "record_id": "GMBKLN-19A-outbound-1",
+  "GMBKLN-19A-2002091-1": {
+    "record_id": "GMBKLN-19A-2002091-1",
     "company": "GMBKLN",
     "route_id": "2002091",
     "route": "19A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Diamond Hill Station Public Transport Interchange",
       "tc": "鑽石山站公共運輸交匯處",
@@ -503,31 +503,13 @@
       "sc": "宏景花园(循环线)"
     }
   },
-  "GMBKLN-19M-inbound-1": {
-    "record_id": "GMBKLN-19M-inbound-1",
+  "GMBKLN-19M-2002092-1": {
+    "record_id": "GMBKLN-19M-2002092-1",
     "company": "GMBKLN",
     "route_id": "2002092",
     "route": "19M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tsz Wan Shan Road (Shatin Pass Estate)",
-      "tc": "慈雲山道(沙田坳邨)",
-      "sc": "慈云山道(沙田坳邨)"
-    },
-    "destination": {
-      "en": "Diamond Hill Station Public Transport Interchange",
-      "tc": "鑽石山站公共運輸交匯處",
-      "sc": "钻石山站公共运输交汇处"
-    }
-  },
-  "GMBKLN-19M-outbound-1": {
-    "record_id": "GMBKLN-19M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2002092",
-    "route": "19M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Diamond Hill Station Public Transport Interchange",
       "tc": "鑽石山站公共運輸交匯處",
@@ -539,13 +521,49 @@
       "sc": "慈云山道(沙田坳邨)"
     }
   },
-  "GMBKLN-19S-inbound-1": {
-    "record_id": "GMBKLN-19S-inbound-1",
+  "GMBKLN-19M-2002092-2": {
+    "record_id": "GMBKLN-19M-2002092-2",
+    "company": "GMBKLN",
+    "route_id": "2002092",
+    "route": "19M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Tsz Wan Shan Road (Shatin Pass Estate)",
+      "tc": "慈雲山道(沙田坳邨)",
+      "sc": "慈云山道(沙田坳邨)"
+    },
+    "destination": {
+      "en": "Diamond Hill Station Public Transport Interchange",
+      "tc": "鑽石山站公共運輸交匯處",
+      "sc": "钻石山站公共运输交汇处"
+    }
+  },
+  "GMBKLN-19S-2002118-1": {
+    "record_id": "GMBKLN-19S-2002118-1",
     "company": "GMBKLN",
     "route_id": "2002118",
     "route": "19S",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Diamond Hill Station Public Transport Interchange",
+      "tc": "鑽石山站公共運輸交匯處",
+      "sc": "钻石山站公共运输交汇处"
+    },
+    "destination": {
+      "en": "Tsz Wan Shan Shopping Centre",
+      "tc": "慈雲山購物中心",
+      "sc": "慈云山购物中心"
+    }
+  },
+  "GMBKLN-19S-2002118-2": {
+    "record_id": "GMBKLN-19S-2002118-2",
+    "company": "GMBKLN",
+    "route_id": "2002118",
+    "route": "19S",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Tsz Wan Shan Shopping Centre",
       "tc": "慈雲山購物中心",
@@ -557,49 +575,13 @@
       "sc": "钻石山站公共运输交汇处"
     }
   },
-  "GMBKLN-19S-outbound-1": {
-    "record_id": "GMBKLN-19S-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2002118",
-    "route": "19S",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Diamond Hill Station Public Transport Interchange",
-      "tc": "鑽石山站公共運輸交匯處",
-      "sc": "钻石山站公共运输交汇处"
-    },
-    "destination": {
-      "en": "Tsz Wan Shan Shopping Centre",
-      "tc": "慈雲山購物中心",
-      "sc": "慈云山购物中心"
-    }
-  },
-  "GMBKLN-2-inbound-1": {
-    "record_id": "GMBKLN-2-inbound-1",
+  "GMBKLN-2-2009246-1": {
+    "record_id": "GMBKLN-2-2009246-1",
     "company": "GMBKLN",
     "route_id": "2009246",
     "route": "2",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Festival Walk Public Transport Interchange",
-      "tc": "又一城公共交通交匯處",
-      "sc": "又一城公共交通交汇处"
-    },
-    "destination": {
-      "en": "Whampoa Garden Public Transport Interchange",
-      "tc": "黃埔花園公共運輸交匯處",
-      "sc": "黄埔花园公共运输交汇处"
-    }
-  },
-  "GMBKLN-2-outbound-1": {
-    "record_id": "GMBKLN-2-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2009246",
-    "route": "2",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Whampoa Garden Public Transport Interchange",
       "tc": "黃埔花園公共運輸交匯處",
@@ -611,13 +593,31 @@
       "sc": "又一城公共交通交汇处"
     }
   },
-  "GMBKLN-20-outbound-1": {
-    "record_id": "GMBKLN-20-outbound-1",
+  "GMBKLN-2-2009246-2": {
+    "record_id": "GMBKLN-2-2009246-2",
+    "company": "GMBKLN",
+    "route_id": "2009246",
+    "route": "2",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Festival Walk Public Transport Interchange",
+      "tc": "又一城公共交通交匯處",
+      "sc": "又一城公共交通交汇处"
+    },
+    "destination": {
+      "en": "Whampoa Garden Public Transport Interchange",
+      "tc": "黃埔花園公共運輸交匯處",
+      "sc": "黄埔花园公共运输交汇处"
+    }
+  },
+  "GMBKLN-20-2004989-1": {
+    "record_id": "GMBKLN-20-2004989-1",
     "company": "GMBKLN",
     "route_id": "2004989",
     "route": "20",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "San Po Kong",
       "tc": "新蒲崗",
@@ -629,13 +629,31 @@
       "sc": "慈云山(北)(循环线)"
     }
   },
-  "GMBKLN-20M-inbound-1": {
-    "record_id": "GMBKLN-20M-inbound-1",
+  "GMBKLN-20M-2004990-1": {
+    "record_id": "GMBKLN-20M-2004990-1",
     "company": "GMBKLN",
     "route_id": "2004990",
     "route": "20M",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "San Po Kong",
+      "tc": "新蒲崗",
+      "sc": "新蒲岗"
+    },
+    "destination": {
+      "en": "Wong Tai Sin Station",
+      "tc": "黃大仙站",
+      "sc": "黄大仙站"
+    }
+  },
+  "GMBKLN-20M-2004990-2": {
+    "record_id": "GMBKLN-20M-2004990-2",
+    "company": "GMBKLN",
+    "route_id": "2004990",
+    "route": "20M",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Wong Tai Sin Station",
       "tc": "黄大仙站",
@@ -647,31 +665,13 @@
       "sc": "San Po Kong"
     }
   },
-  "GMBKLN-20M-outbound-1": {
-    "record_id": "GMBKLN-20M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2004990",
-    "route": "20M",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "San Po Kong",
-      "tc": "新蒲崗",
-      "sc": "新蒲岗"
-    },
-    "destination": {
-      "en": "Wong Tai Sin Station",
-      "tc": "黃大仙站",
-      "sc": "黄大仙站"
-    }
-  },
-  "GMBKLN-22A-outbound-1": {
-    "record_id": "GMBKLN-22A-outbound-1",
+  "GMBKLN-22A-2005782-1": {
+    "record_id": "GMBKLN-22A-2005782-1",
     "company": "GMBKLN",
     "route_id": "2005782",
     "route": "22A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Wah Estate",
       "tc": "樂華邨",
@@ -683,13 +683,13 @@
       "sc": "观塘码头"
     }
   },
-  "GMBKLN-22A-outbound-2": {
-    "record_id": "GMBKLN-22A-outbound-2",
+  "GMBKLN-22A-2005783-1": {
+    "record_id": "GMBKLN-22A-2005783-1",
     "company": "GMBKLN",
     "route_id": "2005783",
     "route": "22A",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Wah Estate",
       "tc": "樂華邨",
@@ -701,31 +701,13 @@
       "sc": "观塘码头"
     }
   },
-  "GMBKLN-22M-inbound-1": {
-    "record_id": "GMBKLN-22M-inbound-1",
+  "GMBKLN-22M-2009048-1": {
+    "record_id": "GMBKLN-22M-2009048-1",
     "company": "GMBKLN",
     "route_id": "2009048",
     "route": "22M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Yue Man Square Public Transport Interchange",
-      "tc": "裕民坊公共運輸交匯處",
-      "sc": "裕民坊公共运输交汇处"
-    },
-    "destination": {
-      "en": "Lok Wah Estate",
-      "tc": "樂華邨",
-      "sc": "乐华邨"
-    }
-  },
-  "GMBKLN-22M-outbound-1": {
-    "record_id": "GMBKLN-22M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2009048",
-    "route": "22M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Wah Estate",
       "tc": "樂華邨",
@@ -737,13 +719,49 @@
       "sc": "裕民坊公共运输交汇处"
     }
   },
-  "GMBKLN-23-inbound-1": {
-    "record_id": "GMBKLN-23-inbound-1",
+  "GMBKLN-22M-2009048-2": {
+    "record_id": "GMBKLN-22M-2009048-2",
+    "company": "GMBKLN",
+    "route_id": "2009048",
+    "route": "22M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Yue Man Square Public Transport Interchange",
+      "tc": "裕民坊公共運輸交匯處",
+      "sc": "裕民坊公共运输交汇处"
+    },
+    "destination": {
+      "en": "Lok Wah Estate",
+      "tc": "樂華邨",
+      "sc": "乐华邨"
+    }
+  },
+  "GMBKLN-23-2008322-1": {
+    "record_id": "GMBKLN-23-2008322-1",
     "company": "GMBKLN",
     "route_id": "2008322",
     "route": "23",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Kwun Tong (Wan Hon Street)",
+      "tc": "觀塘 (雲漢街)",
+      "sc": "观塘 (云汉街)"
+    },
+    "destination": {
+      "en": "Yue Man Square Public Transport Interchange",
+      "tc": "裕民坊公共運輸交匯處",
+      "sc": "裕民坊公共运输交汇处"
+    }
+  },
+  "GMBKLN-23-2008322-2": {
+    "record_id": "GMBKLN-23-2008322-2",
+    "company": "GMBKLN",
+    "route_id": "2008322",
+    "route": "23",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Yue Man Square Public Transport Interchange",
       "tc": "裕民坊公共運輸交匯處",
@@ -755,49 +773,13 @@
       "sc": "观塘 (云汉街)"
     }
   },
-  "GMBKLN-23-outbound-1": {
-    "record_id": "GMBKLN-23-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008322",
-    "route": "23",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Kwun Tong (Wan Hon Street)",
-      "tc": "觀塘 (雲漢街)",
-      "sc": "观塘 (云汉街)"
-    },
-    "destination": {
-      "en": "Yue Man Square Public Transport Interchange",
-      "tc": "裕民坊公共運輸交匯處",
-      "sc": "裕民坊公共运输交汇处"
-    }
-  },
-  "GMBKLN-23B-inbound-1": {
-    "record_id": "GMBKLN-23B-inbound-1",
+  "GMBKLN-23B-2008355-1": {
+    "record_id": "GMBKLN-23B-2008355-1",
     "company": "GMBKLN",
     "route_id": "2008355",
     "route": "23B",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Cha Kwo Ling",
-      "tc": "茶果嶺",
-      "sc": "茶果岭"
-    },
-    "destination": {
-      "en": "Yue Man Square Public Transport Interchange",
-      "tc": "裕民坊公共運輸交匯處",
-      "sc": "裕民坊公共运输交汇处"
-    }
-  },
-  "GMBKLN-23B-outbound-1": {
-    "record_id": "GMBKLN-23B-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008355",
-    "route": "23B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Yue Man Square Public Transport Interchange",
       "tc": "裕民坊公共運輸交匯處",
@@ -809,13 +791,31 @@
       "sc": "茶果岭"
     }
   },
-  "GMBKLN-23C-outbound-1": {
-    "record_id": "GMBKLN-23C-outbound-1",
+  "GMBKLN-23B-2008355-2": {
+    "record_id": "GMBKLN-23B-2008355-2",
+    "company": "GMBKLN",
+    "route_id": "2008355",
+    "route": "23B",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Cha Kwo Ling",
+      "tc": "茶果嶺",
+      "sc": "茶果岭"
+    },
+    "destination": {
+      "en": "Yue Man Square Public Transport Interchange",
+      "tc": "裕民坊公共運輸交匯處",
+      "sc": "裕民坊公共运输交汇处"
+    }
+  },
+  "GMBKLN-23C-2008391-1": {
+    "record_id": "GMBKLN-23C-2008391-1",
     "company": "GMBKLN",
     "route_id": "2008391",
     "route": "23C",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lam Tin Station (Sin Fat Road)",
       "tc": "藍田站 (茜發道)",
@@ -827,31 +827,13 @@
       "sc": "油塘站 (茶果岭道)(循环线)"
     }
   },
-  "GMBKLN-23M-inbound-1": {
-    "record_id": "GMBKLN-23M-inbound-1",
+  "GMBKLN-23M-2008389-1": {
+    "record_id": "GMBKLN-23M-2008389-1",
     "company": "GMBKLN",
     "route_id": "2008389",
     "route": "23M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Lam Tin Station (Sin Fat Road)",
-      "tc": "藍田站 (茜發道)",
-      "sc": "蓝田站 (茜发道)"
-    },
-    "destination": {
-      "en": "Yue Man Square Public Transport Interchange",
-      "tc": "裕民坊公共運輸交匯處",
-      "sc": "裕民坊公共运输交汇处"
-    }
-  },
-  "GMBKLN-23M-outbound-1": {
-    "record_id": "GMBKLN-23M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008389",
-    "route": "23M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Yue Man Square Public Transport Interchange",
       "tc": "裕民坊公共運輸交匯處",
@@ -863,13 +845,49 @@
       "sc": "蓝田站 (茜发道)"
     }
   },
-  "GMBKLN-23P-inbound-1": {
-    "record_id": "GMBKLN-23P-inbound-1",
+  "GMBKLN-23M-2008389-2": {
+    "record_id": "GMBKLN-23M-2008389-2",
+    "company": "GMBKLN",
+    "route_id": "2008389",
+    "route": "23M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Lam Tin Station (Sin Fat Road)",
+      "tc": "藍田站 (茜發道)",
+      "sc": "蓝田站 (茜发道)"
+    },
+    "destination": {
+      "en": "Yue Man Square Public Transport Interchange",
+      "tc": "裕民坊公共運輸交匯處",
+      "sc": "裕民坊公共运输交汇处"
+    }
+  },
+  "GMBKLN-23P-2009477-1": {
+    "record_id": "GMBKLN-23P-2009477-1",
     "company": "GMBKLN",
     "route_id": "2009477",
     "route": "23P",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Ko Ling Road",
+      "tc": "高嶺道",
+      "sc": "高岭道"
+    },
+    "destination": {
+      "en": "Lam Tin Station (Sin Fat Road)",
+      "tc": "藍田站 (茜發道)",
+      "sc": "蓝田站 (茜发道)"
+    }
+  },
+  "GMBKLN-23P-2009477-2": {
+    "record_id": "GMBKLN-23P-2009477-2",
+    "company": "GMBKLN",
+    "route_id": "2009477",
+    "route": "23P",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Lam Tin Station (Sin Fat Road)",
       "tc": "藍田站 (茜發道)",
@@ -881,31 +899,13 @@
       "sc": "高岭道"
     }
   },
-  "GMBKLN-23P-outbound-1": {
-    "record_id": "GMBKLN-23P-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2009477",
-    "route": "23P",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ko Ling Road",
-      "tc": "高嶺道",
-      "sc": "高岭道"
-    },
-    "destination": {
-      "en": "Lam Tin Station (Sin Fat Road)",
-      "tc": "藍田站 (茜發道)",
-      "sc": "蓝田站 (茜发道)"
-    }
-  },
-  "GMBKLN-23S-outbound-1": {
-    "record_id": "GMBKLN-23S-outbound-1",
+  "GMBKLN-23S-2008393-1": {
+    "record_id": "GMBKLN-23S-2008393-1",
     "company": "GMBKLN",
     "route_id": "2008393",
     "route": "23S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Laguna City (Phase 2)",
       "tc": "麗港城 (第二期)",
@@ -917,13 +917,13 @@
       "sc": "蓝田站 (茜发道)"
     }
   },
-  "GMBKLN-24-outbound-1": {
-    "record_id": "GMBKLN-24-outbound-1",
+  "GMBKLN-24-2008421-1": {
+    "record_id": "GMBKLN-24-2008421-1",
     "company": "GMBKLN",
     "route_id": "2008421",
     "route": "24",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lam Tin (Ping Tin Public Transport Interchange)",
       "tc": "藍田 (平田公共運輸交匯處)",
@@ -935,31 +935,13 @@
       "sc": "三家村码头 (循环线)"
     }
   },
-  "GMBKLN-24M-inbound-1": {
-    "record_id": "GMBKLN-24M-inbound-1",
+  "GMBKLN-24M-2008454-1": {
+    "record_id": "GMBKLN-24M-2008454-1",
     "company": "GMBKLN",
     "route_id": "2008454",
     "route": "24M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Yau Tong Public Transport Interchange",
-      "tc": "油塘公共運輸交匯處",
-      "sc": "油塘公共运输交汇处"
-    },
-    "destination": {
-      "en": "Hing Tin (Pik Wan Road)",
-      "tc": "興田 (碧雲道)",
-      "sc": "兴田 (碧云道)"
-    }
-  },
-  "GMBKLN-24M-outbound-1": {
-    "record_id": "GMBKLN-24M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008454",
-    "route": "24M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hing Tin (Pik Wan Road)",
       "tc": "興田 (碧雲道)",
@@ -971,13 +953,49 @@
       "sc": "油塘公共运输交汇处"
     }
   },
-  "GMBKLN-25A-inbound-1": {
-    "record_id": "GMBKLN-25A-inbound-1",
+  "GMBKLN-24M-2008454-2": {
+    "record_id": "GMBKLN-24M-2008454-2",
+    "company": "GMBKLN",
+    "route_id": "2008454",
+    "route": "24M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Yau Tong Public Transport Interchange",
+      "tc": "油塘公共運輸交匯處",
+      "sc": "油塘公共运输交汇处"
+    },
+    "destination": {
+      "en": "Hing Tin (Pik Wan Road)",
+      "tc": "興田 (碧雲道)",
+      "sc": "兴田 (碧云道)"
+    }
+  },
+  "GMBKLN-25A-2006045-1": {
+    "record_id": "GMBKLN-25A-2006045-1",
     "company": "GMBKLN",
     "route_id": "2006045",
     "route": "25A",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
+      "tc": "九龍塘(沙福道)公共交通交匯處",
+      "sc": "九龙塘(沙福道)公共交通交汇处"
+    },
+    "destination": {
+      "en": "Tung Tau Estate (Tung Lung Road)",
+      "tc": "東頭邨(東隆道)",
+      "sc": "东头邨(东隆道)"
+    }
+  },
+  "GMBKLN-25A-2006045-2": {
+    "record_id": "GMBKLN-25A-2006045-2",
+    "company": "GMBKLN",
+    "route_id": "2006045",
+    "route": "25A",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Tung Tau Estate (Tung Lung Road)",
       "tc": "東頭邨(東隆道)",
@@ -989,31 +1007,31 @@
       "sc": "九龙塘(沙福道)公共交通交汇处"
     }
   },
-  "GMBKLN-25A-outbound-1": {
-    "record_id": "GMBKLN-25A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2006045",
-    "route": "25A",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
-      "tc": "九龍塘(沙福道)公共交通交匯處",
-      "sc": "九龙塘(沙福道)公共交通交汇处"
-    },
-    "destination": {
-      "en": "Tung Tau Estate (Tung Lung Road)",
-      "tc": "東頭邨(東隆道)",
-      "sc": "东头邨(东隆道)"
-    }
-  },
-  "GMBKLN-25B-inbound-1": {
-    "record_id": "GMBKLN-25B-inbound-1",
+  "GMBKLN-25B-2006078-1": {
+    "record_id": "GMBKLN-25B-2006078-1",
     "company": "GMBKLN",
     "route_id": "2006078",
     "route": "25B",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "SAN PO KONG(THE LATITUDE)",
+      "tc": "新蒲崗(譽.港灣)",
+      "sc": "新蒲岗(誉.港湾)"
+    },
+    "destination": {
+      "en": "KOWLOON TONG (SUFFOLK ROAD) PUBLIC TRANSPORT INTERCHANGE",
+      "tc": "九龍塘(沙福道)公共交通交匯處",
+      "sc": "九龙塘(沙福道)公共交通交汇处"
+    }
+  },
+  "GMBKLN-25B-2006078-2": {
+    "record_id": "GMBKLN-25B-2006078-2",
+    "company": "GMBKLN",
+    "route_id": "2006078",
+    "route": "25B",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "KOWLOON TONG (SUFFOLK ROAD) PUBLIC TRANSPORT INTERCHANGE",
       "tc": "九龍塘(沙福道)公共交通交匯處",
@@ -1025,49 +1043,13 @@
       "sc": "新蒲岗(誉.港湾)"
     }
   },
-  "GMBKLN-25B-outbound-1": {
-    "record_id": "GMBKLN-25B-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2006078",
-    "route": "25B",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "SAN PO KONG(THE LATITUDE)",
-      "tc": "新蒲崗(譽.港灣)",
-      "sc": "新蒲岗(誉.港湾)"
-    },
-    "destination": {
-      "en": "KOWLOON TONG (SUFFOLK ROAD) PUBLIC TRANSPORT INTERCHANGE",
-      "tc": "九龍塘(沙福道)公共交通交匯處",
-      "sc": "九龙塘(沙福道)公共交通交汇处"
-    }
-  },
-  "GMBKLN-25M-inbound-1": {
-    "record_id": "GMBKLN-25M-inbound-1",
+  "GMBKLN-25M-2006079-1": {
+    "record_id": "GMBKLN-25M-2006079-1",
     "company": "GMBKLN",
     "route_id": "2006079",
     "route": "25M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tung Tau Estate (Tung Lung Road)",
-      "tc": "東頭邨(東隆道)",
-      "sc": "东头邨(东隆道)"
-    },
-    "destination": {
-      "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
-      "tc": "九龍塘(沙福道)公共交通交匯處",
-      "sc": "九龙塘(沙福道)公共交通交汇处"
-    }
-  },
-  "GMBKLN-25M-outbound-1": {
-    "record_id": "GMBKLN-25M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2006079",
-    "route": "25M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
       "tc": "九龍塘(沙福道)公共交通交匯處",
@@ -1079,13 +1061,31 @@
       "sc": "东头邨(东隆道)"
     }
   },
-  "GMBKLN-25M-outbound-2": {
-    "record_id": "GMBKLN-25M-outbound-2",
+  "GMBKLN-25M-2006079-2": {
+    "record_id": "GMBKLN-25M-2006079-2",
+    "company": "GMBKLN",
+    "route_id": "2006079",
+    "route": "25M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Tung Tau Estate (Tung Lung Road)",
+      "tc": "東頭邨(東隆道)",
+      "sc": "东头邨(东隆道)"
+    },
+    "destination": {
+      "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
+      "tc": "九龍塘(沙福道)公共交通交匯處",
+      "sc": "九龙塘(沙福道)公共交通交汇处"
+    }
+  },
+  "GMBKLN-25M-2006111-1": {
+    "record_id": "GMBKLN-25M-2006111-1",
     "company": "GMBKLN",
     "route_id": "2006111",
     "route": "25M",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
       "tc": "九龍塘(沙福道)公共交通交匯處",
@@ -1097,13 +1097,13 @@
       "sc": "喇沙利道"
     }
   },
-  "GMBKLN-25MS-outbound-1": {
-    "record_id": "GMBKLN-25MS-outbound-1",
+  "GMBKLN-25MS-2006112-1": {
+    "record_id": "GMBKLN-25MS-2006112-1",
     "company": "GMBKLN",
     "route_id": "2006112",
     "route": "25MS",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
       "tc": "九龍塘(沙福道)公共交通交匯處",
@@ -1115,31 +1115,13 @@
       "sc": "香港浸会大学(循环线)"
     }
   },
-  "GMBKLN-26-inbound-1": {
-    "record_id": "GMBKLN-26-inbound-1",
+  "GMBKLN-26-2002815-1": {
+    "record_id": "GMBKLN-26-2002815-1",
     "company": "GMBKLN",
     "route_id": "2002815",
     "route": "26",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Kowloon Station",
-      "tc": "九龍站",
-      "sc": "九龙站"
-    },
-    "destination": {
-      "en": "To Kwa Wan (Chi Kiang Street)",
-      "tc": "土瓜灣(浙江街)",
-      "sc": "土瓜湾(浙江街）"
-    }
-  },
-  "GMBKLN-26-outbound-1": {
-    "record_id": "GMBKLN-26-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2002815",
-    "route": "26",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "To Kwa Wan (Chi Kiang Street)",
       "tc": "土瓜灣(浙江街)",
@@ -1151,13 +1133,31 @@
       "sc": "九龙站"
     }
   },
-  "GMBKLN-26A-outbound-1": {
-    "record_id": "GMBKLN-26A-outbound-1",
+  "GMBKLN-26-2002815-2": {
+    "record_id": "GMBKLN-26-2002815-2",
+    "company": "GMBKLN",
+    "route_id": "2002815",
+    "route": "26",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Kowloon Station",
+      "tc": "九龍站",
+      "sc": "九龙站"
+    },
+    "destination": {
+      "en": "To Kwa Wan (Chi Kiang Street)",
+      "tc": "土瓜灣(浙江街)",
+      "sc": "土瓜湾(浙江街）"
+    }
+  },
+  "GMBKLN-26A-2002846-1": {
+    "record_id": "GMBKLN-26A-2002846-1",
     "company": "GMBKLN",
     "route_id": "2002846",
     "route": "26A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Whampoa Garden Public Transport Interchange",
       "tc": "黃埔花園公共運輸交匯處",
@@ -1169,13 +1169,13 @@
       "sc": "尖沙咀 (广东道) (循环线)"
     }
   },
-  "GMBKLN-26H-outbound-1": {
-    "record_id": "GMBKLN-26H-outbound-1",
+  "GMBKLN-26H-2002849-1": {
+    "record_id": "GMBKLN-26H-2002849-1",
     "company": "GMBKLN",
     "route_id": "2002849",
     "route": "26H",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Queen Elizabeth Hospital",
       "tc": "伊利沙伯醫院",
@@ -1187,13 +1187,13 @@
       "sc": "红磡站（循环线）"
     }
   },
-  "GMBKLN-26W-outbound-1": {
-    "record_id": "GMBKLN-26W-outbound-1",
+  "GMBKLN-26W-2002844-1": {
+    "record_id": "GMBKLN-26W-2002844-1",
     "company": "GMBKLN",
     "route_id": "2002844",
     "route": "26W",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Laguna Verde",
       "tc": "海逸豪園",
@@ -1205,13 +1205,13 @@
       "sc": "红磡站(循环线)"
     }
   },
-  "GMBKLN-26W-outbound-2": {
-    "record_id": "GMBKLN-26W-outbound-2",
+  "GMBKLN-26W-2002845-1": {
+    "record_id": "GMBKLN-26W-2002845-1",
     "company": "GMBKLN",
     "route_id": "2002845",
     "route": "26W",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Laguna Verde",
       "tc": "海逸豪園",
@@ -1223,13 +1223,13 @@
       "sc": "红磡站(循环线)"
     }
   },
-  "GMBKLN-26X-outbound-1": {
-    "record_id": "GMBKLN-26X-outbound-1",
+  "GMBKLN-26X-2002850-1": {
+    "record_id": "GMBKLN-26X-2002850-1",
     "company": "GMBKLN",
     "route_id": "2002850",
     "route": "26X",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Laguna Verde",
       "tc": "海逸豪園",
@@ -1241,31 +1241,13 @@
       "sc": "佐敦(渡船街)(循环线)"
     }
   },
-  "GMBKLN-27M-inbound-1": {
-    "record_id": "GMBKLN-27M-inbound-1",
+  "GMBKLN-27M-2000998-1": {
+    "record_id": "GMBKLN-27M-2000998-1",
     "company": "GMBKLN",
     "route_id": "2000998",
     "route": "27M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mong Kok Station",
-      "tc": "旺角站",
-      "sc": "旺角站"
-    },
-    "destination": {
-      "en": "Lok Man Sun Chuen (Maidstone Road)",
-      "tc": "樂民新村(美善同道)",
-      "sc": "乐民新村(美善同道)"
-    }
-  },
-  "GMBKLN-27M-outbound-1": {
-    "record_id": "GMBKLN-27M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2000998",
-    "route": "27M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Man Sun Chuen (Maidstone Road)",
       "tc": "樂民新村(美善同道)",
@@ -1277,13 +1259,31 @@
       "sc": "旺角站"
     }
   },
-  "GMBKLN-27M-outbound-2": {
-    "record_id": "GMBKLN-27M-outbound-2",
+  "GMBKLN-27M-2000998-2": {
+    "record_id": "GMBKLN-27M-2000998-2",
+    "company": "GMBKLN",
+    "route_id": "2000998",
+    "route": "27M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Mong Kok Station",
+      "tc": "旺角站",
+      "sc": "旺角站"
+    },
+    "destination": {
+      "en": "Lok Man Sun Chuen (Maidstone Road)",
+      "tc": "樂民新村(美善同道)",
+      "sc": "乐民新村(美善同道)"
+    }
+  },
+  "GMBKLN-27M-2001000-1": {
+    "record_id": "GMBKLN-27M-2001000-1",
     "company": "GMBKLN",
     "route_id": "2001000",
     "route": "27M",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Man Sun Chuen (Maidstone Road)",
       "tc": "樂民新村(美善同道)",
@@ -1295,13 +1295,13 @@
       "sc": "旺角站"
     }
   },
-  "GMBKLN-27M-outbound-3": {
-    "record_id": "GMBKLN-27M-outbound-3",
+  "GMBKLN-27M-2003108-1": {
+    "record_id": "GMBKLN-27M-2003108-1",
     "company": "GMBKLN",
     "route_id": "2003108",
     "route": "27M",
-    "bound": "outbound",
-    "service_type": "3",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Man Sun Chuen (Maidstone Road)",
       "tc": "樂民新村(美善同道)",
@@ -1313,13 +1313,13 @@
       "sc": "旺角站"
     }
   },
-  "GMBKLN-27MS-outbound-1": {
-    "record_id": "GMBKLN-27MS-outbound-1",
+  "GMBKLN-27MS-2001001-1": {
+    "record_id": "GMBKLN-27MS-2001001-1",
     "company": "GMBKLN",
     "route_id": "2001001",
     "route": "27MS",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Mong Kok Station",
       "tc": "旺角站",
@@ -1331,13 +1331,13 @@
       "sc": "何文田（常乐街） (循环线)"
     }
   },
-  "GMBKLN-27MS-outbound-2": {
-    "record_id": "GMBKLN-27MS-outbound-2",
+  "GMBKLN-27MS-2001002-1": {
+    "record_id": "GMBKLN-27MS-2001002-1",
     "company": "GMBKLN",
     "route_id": "2001002",
     "route": "27MS",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Mong Kok Station",
       "tc": "旺角站",
@@ -1349,31 +1349,13 @@
       "sc": "何文田（常乐街） (循环线)"
     }
   },
-  "GMBKLN-28M-inbound-1": {
-    "record_id": "GMBKLN-28M-inbound-1",
+  "GMBKLN-28M-2001003-1": {
+    "record_id": "GMBKLN-28M-2001003-1",
     "company": "GMBKLN",
     "route_id": "2001003",
     "route": "28M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mong Kok Station",
-      "tc": "旺角站",
-      "sc": "旺角站"
-    },
-    "destination": {
-      "en": "Kowloon City (Wyler Gardens)",
-      "tc": "九龍城（偉恒昌新邨）",
-      "sc": "九龙城（伟恒昌新邨）"
-    }
-  },
-  "GMBKLN-28M-outbound-1": {
-    "record_id": "GMBKLN-28M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2001003",
-    "route": "28M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon City (Wyler Gardens)",
       "tc": "九龍城（偉恒昌新邨）",
@@ -1385,13 +1367,31 @@
       "sc": "旺角站"
     }
   },
-  "GMBKLN-28MS-outbound-1": {
-    "record_id": "GMBKLN-28MS-outbound-1",
+  "GMBKLN-28M-2001003-2": {
+    "record_id": "GMBKLN-28M-2001003-2",
+    "company": "GMBKLN",
+    "route_id": "2001003",
+    "route": "28M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Mong Kok Station",
+      "tc": "旺角站",
+      "sc": "旺角站"
+    },
+    "destination": {
+      "en": "Kowloon City (Wyler Gardens)",
+      "tc": "九龍城（偉恒昌新邨）",
+      "sc": "九龙城（伟恒昌新邨）"
+    }
+  },
+  "GMBKLN-28MS-2001005-1": {
+    "record_id": "GMBKLN-28MS-2001005-1",
     "company": "GMBKLN",
     "route_id": "2001005",
     "route": "28MS",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon City (Wyler Gardens)",
       "tc": "九龍城(偉恒昌新邨)",
@@ -1403,13 +1403,13 @@
       "sc": "何文田站 (循环线)"
     }
   },
-  "GMBKLN-29A-outbound-1": {
-    "record_id": "GMBKLN-29A-outbound-1",
+  "GMBKLN-29A-2001006-1": {
+    "record_id": "GMBKLN-29A-2001006-1",
     "company": "GMBKLN",
     "route_id": "2001006",
     "route": "29A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
       "tc": "九龍塘(沙福道)公共交通交匯處",
@@ -1421,13 +1421,13 @@
       "sc": "广播道 (循环线)"
     }
   },
-  "GMBKLN-29B-outbound-1": {
-    "record_id": "GMBKLN-29B-outbound-1",
+  "GMBKLN-29B-2001007-1": {
+    "record_id": "GMBKLN-29B-2001007-1",
     "company": "GMBKLN",
     "route_id": "2001007",
     "route": "29B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Tong (Suffolk Road) Public Transport Interchange",
       "tc": "九龍塘(沙福道)公共交通交匯處",
@@ -1439,31 +1439,13 @@
       "sc": "笔架山 (循环线)"
     }
   },
-  "GMBKLN-2A-inbound-1": {
-    "record_id": "GMBKLN-2A-inbound-1",
+  "GMBKLN-2A-2009247-1": {
+    "record_id": "GMBKLN-2A-2009247-1",
     "company": "GMBKLN",
     "route_id": "2009247",
     "route": "2A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Festival Walk Public Transport Interchange",
-      "tc": "又一城公共交通交匯處",
-      "sc": "又一城公共交通交汇处"
-    },
-    "destination": {
-      "en": "Whampoa Garden Public Transport Interchange",
-      "tc": "黃埔花園公共運輸交匯處",
-      "sc": "黄埔花园公共运输交汇处"
-    }
-  },
-  "GMBKLN-2A-outbound-1": {
-    "record_id": "GMBKLN-2A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2009247",
-    "route": "2A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Whampoa Garden Public Transport Interchange",
       "tc": "黃埔花園公共運輸交匯處",
@@ -1475,13 +1457,49 @@
       "sc": "又一城公共交通交汇处"
     }
   },
-  "GMBKLN-3-inbound-1": {
-    "record_id": "GMBKLN-3-inbound-1",
+  "GMBKLN-2A-2009247-2": {
+    "record_id": "GMBKLN-2A-2009247-2",
+    "company": "GMBKLN",
+    "route_id": "2009247",
+    "route": "2A",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Festival Walk Public Transport Interchange",
+      "tc": "又一城公共交通交匯處",
+      "sc": "又一城公共交通交汇处"
+    },
+    "destination": {
+      "en": "Whampoa Garden Public Transport Interchange",
+      "tc": "黃埔花園公共運輸交匯處",
+      "sc": "黄埔花园公共运输交汇处"
+    }
+  },
+  "GMBKLN-3-2006276-1": {
+    "record_id": "GMBKLN-3-2006276-1",
     "company": "GMBKLN",
     "route_id": "2006276",
     "route": "3",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Tsim Sha Tsui (Ashley Road)",
+      "tc": "尖沙咀(亞士厘道)",
+      "sc": "尖沙咀(亚士厘道)"
+    },
+    "destination": {
+      "en": "Cosmopolitan Estates",
+      "tc": "大同新邨",
+      "sc": "大同新邨"
+    }
+  },
+  "GMBKLN-3-2006276-2": {
+    "record_id": "GMBKLN-3-2006276-2",
+    "company": "GMBKLN",
+    "route_id": "2006276",
+    "route": "3",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Cosmopolitan Estates",
       "tc": "大同新邨",
@@ -1493,31 +1511,13 @@
       "sc": "尖沙咀(亚士厘道)"
     }
   },
-  "GMBKLN-3-outbound-1": {
-    "record_id": "GMBKLN-3-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2006276",
-    "route": "3",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tsim Sha Tsui (Ashley Road)",
-      "tc": "尖沙咀(亞士厘道)",
-      "sc": "尖沙咀(亚士厘道)"
-    },
-    "destination": {
-      "en": "Cosmopolitan Estates",
-      "tc": "大同新邨",
-      "sc": "大同新邨"
-    }
-  },
-  "GMBKLN-3-outbound-2": {
-    "record_id": "GMBKLN-3-outbound-2",
+  "GMBKLN-3-2006283-1": {
+    "record_id": "GMBKLN-3-2006283-1",
     "company": "GMBKLN",
     "route_id": "2006283",
     "route": "3",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsim Sha Tsui (Ashley Road)",
       "tc": "尖沙咀(亞士厘道)",
@@ -1529,31 +1529,13 @@
       "sc": "大同新邨"
     }
   },
-  "GMBKLN-30A-inbound-1": {
-    "record_id": "GMBKLN-30A-inbound-1",
+  "GMBKLN-30A-2000996-1": {
+    "record_id": "GMBKLN-30A-2000996-1",
     "company": "GMBKLN",
     "route_id": "2000996",
     "route": "30A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mong Kok Station",
-      "tc": "旺角站",
-      "sc": "旺角站"
-    },
-    "destination": {
-      "en": "Chak On Estate",
-      "tc": "澤安邨",
-      "sc": "泽安邨"
-    }
-  },
-  "GMBKLN-30A-outbound-1": {
-    "record_id": "GMBKLN-30A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2000996",
-    "route": "30A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Chak On Estate",
       "tc": "澤安邨",
@@ -1565,13 +1547,31 @@
       "sc": "旺角站"
     }
   },
-  "GMBKLN-30B-outbound-1": {
-    "record_id": "GMBKLN-30B-outbound-1",
+  "GMBKLN-30A-2000996-2": {
+    "record_id": "GMBKLN-30A-2000996-2",
+    "company": "GMBKLN",
+    "route_id": "2000996",
+    "route": "30A",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Mong Kok Station",
+      "tc": "旺角站",
+      "sc": "旺角站"
+    },
+    "destination": {
+      "en": "Chak On Estate",
+      "tc": "澤安邨",
+      "sc": "泽安邨"
+    }
+  },
+  "GMBKLN-30B-2000995-1": {
+    "record_id": "GMBKLN-30B-2000995-1",
     "company": "GMBKLN",
     "route_id": "2000995",
     "route": "30B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Chak On Estate",
       "tc": "澤安邨",
@@ -1583,13 +1583,13 @@
       "sc": "石硖尾站 (循环线)"
     }
   },
-  "GMBKLN-32M-outbound-1": {
-    "record_id": "GMBKLN-32M-outbound-1",
+  "GMBKLN-32M-2000992-1": {
+    "record_id": "GMBKLN-32M-2000992-1",
     "company": "GMBKLN",
     "route_id": "2000992",
     "route": "32M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lung Ping Road",
       "tc": "龍坪道",
@@ -1601,31 +1601,13 @@
       "sc": "石硖尾 (循环线)"
     }
   },
-  "GMBKLN-33A-inbound-1": {
-    "record_id": "GMBKLN-33A-inbound-1",
+  "GMBKLN-33A-2001008-1": {
+    "record_id": "GMBKLN-33A-2001008-1",
     "company": "GMBKLN",
     "route_id": "2001008",
     "route": "33A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Diamond Hill Station",
-      "tc": "鑽石山站",
-      "sc": "钻石山站"
-    },
-    "destination": {
-      "en": "Hilltop Garden",
-      "tc": "海港花園",
-      "sc": "海港花园"
-    }
-  },
-  "GMBKLN-33A-outbound-1": {
-    "record_id": "GMBKLN-33A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2001008",
-    "route": "33A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hilltop Garden",
       "tc": "海港花園",
@@ -1637,13 +1619,49 @@
       "sc": "钻石山站"
     }
   },
-  "GMBKLN-33M-inbound-1": {
-    "record_id": "GMBKLN-33M-inbound-1",
+  "GMBKLN-33A-2001008-2": {
+    "record_id": "GMBKLN-33A-2001008-2",
+    "company": "GMBKLN",
+    "route_id": "2001008",
+    "route": "33A",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Diamond Hill Station",
+      "tc": "鑽石山站",
+      "sc": "钻石山站"
+    },
+    "destination": {
+      "en": "Hilltop Garden",
+      "tc": "海港花園",
+      "sc": "海港花园"
+    }
+  },
+  "GMBKLN-33M-2001010-1": {
+    "record_id": "GMBKLN-33M-2001010-1",
     "company": "GMBKLN",
     "route_id": "2001010",
     "route": "33M",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Hilltop Garden",
+      "tc": "海港花園",
+      "sc": "海港花园"
+    },
+    "destination": {
+      "en": "Wong Tai Sin Station",
+      "tc": "黃大仙站",
+      "sc": "黄大仙站"
+    }
+  },
+  "GMBKLN-33M-2001010-2": {
+    "record_id": "GMBKLN-33M-2001010-2",
+    "company": "GMBKLN",
+    "route_id": "2001010",
+    "route": "33M",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Wong Tai Sin Station",
       "tc": "黃大仙站",
@@ -1655,31 +1673,13 @@
       "sc": "海港花园"
     }
   },
-  "GMBKLN-33M-outbound-1": {
-    "record_id": "GMBKLN-33M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2001010",
-    "route": "33M",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hilltop Garden",
-      "tc": "海港花園",
-      "sc": "海港花园"
-    },
-    "destination": {
-      "en": "Wong Tai Sin Station",
-      "tc": "黃大仙站",
-      "sc": "黄大仙站"
-    }
-  },
-  "GMBKLN-34M-outbound-1": {
-    "record_id": "GMBKLN-34M-outbound-1",
+  "GMBKLN-34M-2005946-1": {
+    "record_id": "GMBKLN-34M-2005946-1",
     "company": "GMBKLN",
     "route_id": "2005946",
     "route": "34M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hiu Lai Court",
       "tc": "曉麗苑",
@@ -1691,13 +1691,13 @@
       "sc": "裕民坊公共运输交汇处"
     }
   },
-  "GMBKLN-34S-outbound-1": {
-    "record_id": "GMBKLN-34S-outbound-1",
+  "GMBKLN-34S-2005947-1": {
+    "record_id": "GMBKLN-34S-2005947-1",
     "company": "GMBKLN",
     "route_id": "2005947",
     "route": "34S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sau Mau Ping (Upper) Bus Terminus",
       "tc": "秀茂坪(上)巴士總站",
@@ -1709,13 +1709,13 @@
       "sc": "裕民坊公共运输交汇处"
     }
   },
-  "GMBKLN-34S-outbound-2": {
-    "record_id": "GMBKLN-34S-outbound-2",
+  "GMBKLN-34S-2005949-1": {
+    "record_id": "GMBKLN-34S-2005949-1",
     "company": "GMBKLN",
     "route_id": "2005949",
     "route": "34S",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hiu Kwong Street",
       "tc": "曉光街",
@@ -1727,31 +1727,13 @@
       "sc": "裕民坊公共运输交汇处"
     }
   },
-  "GMBKLN-35-inbound-1": {
-    "record_id": "GMBKLN-35-inbound-1",
+  "GMBKLN-35-2005814-1": {
+    "record_id": "GMBKLN-35-2005814-1",
     "company": "GMBKLN",
     "route_id": "2005814",
     "route": "35",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hong Lee Court",
-      "tc": "康利苑",
-      "sc": "康利苑"
-    },
-    "destination": {
-      "en": "Choi Ha Estate",
-      "tc": "彩霞邨",
-      "sc": "彩霞邨"
-    }
-  },
-  "GMBKLN-35-outbound-1": {
-    "record_id": "GMBKLN-35-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2005814",
-    "route": "35",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Choi Ha Estate",
       "tc": "彩霞邨",
@@ -1763,13 +1745,31 @@
       "sc": "康利苑"
     }
   },
-  "GMBKLN-36A-outbound-1": {
-    "record_id": "GMBKLN-36A-outbound-1",
+  "GMBKLN-35-2005814-2": {
+    "record_id": "GMBKLN-35-2005814-2",
+    "company": "GMBKLN",
+    "route_id": "2005814",
+    "route": "35",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Hong Lee Court",
+      "tc": "康利苑",
+      "sc": "康利苑"
+    },
+    "destination": {
+      "en": "Choi Ha Estate",
+      "tc": "彩霞邨",
+      "sc": "彩霞邨"
+    }
+  },
+  "GMBKLN-36A-2005913-1": {
+    "record_id": "GMBKLN-36A-2005913-1",
     "company": "GMBKLN",
     "route_id": "2005913",
     "route": "36A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Crocodile Hill (Hong Lee Court)",
       "tc": "鱷魚山(康利苑)",
@@ -1781,13 +1781,13 @@
       "sc": "裕民坊公共运输交汇处"
     }
   },
-  "GMBKLN-36A-outbound-2": {
-    "record_id": "GMBKLN-36A-outbound-2",
+  "GMBKLN-36A-2005914-1": {
+    "record_id": "GMBKLN-36A-2005914-1",
     "company": "GMBKLN",
     "route_id": "2005914",
     "route": "36A",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Crocodile Hill (Hong Lee Court)",
       "tc": "鱷魚山(康利苑)",
@@ -1799,31 +1799,13 @@
       "sc": "裕民坊公共运输交汇处"
     }
   },
-  "GMBKLN-37A-inbound-1": {
-    "record_id": "GMBKLN-37A-inbound-1",
+  "GMBKLN-37A-2003504-1": {
+    "record_id": "GMBKLN-37A-2003504-1",
     "company": "GMBKLN",
     "route_id": "2003504",
     "route": "37A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tsz Wan Shan (North)",
-      "tc": "慈雲山(北)",
-      "sc": "慈云山(北)"
-    },
-    "destination": {
-      "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
-      "tc": "黃大仙公共小型巴士(專綫)服務總站",
-      "sc": "黄大仙公共小型巴士(专线)服务总站"
-    }
-  },
-  "GMBKLN-37A-outbound-1": {
-    "record_id": "GMBKLN-37A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2003504",
-    "route": "37A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
       "tc": "黃大仙公共小型巴士(專綫)服務總站",
@@ -1835,13 +1817,31 @@
       "sc": "慈云山(北)"
     }
   },
-  "GMBKLN-37M-outbound-1": {
-    "record_id": "GMBKLN-37M-outbound-1",
+  "GMBKLN-37A-2003504-2": {
+    "record_id": "GMBKLN-37A-2003504-2",
+    "company": "GMBKLN",
+    "route_id": "2003504",
+    "route": "37A",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Tsz Wan Shan (North)",
+      "tc": "慈雲山(北)",
+      "sc": "慈云山(北)"
+    },
+    "destination": {
+      "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
+      "tc": "黃大仙公共小型巴士(專綫)服務總站",
+      "sc": "黄大仙公共小型巴士(专线)服务总站"
+    }
+  },
+  "GMBKLN-37M-2003505-1": {
+    "record_id": "GMBKLN-37M-2003505-1",
     "company": "GMBKLN",
     "route_id": "2003505",
     "route": "37M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
       "tc": "黃大仙公共小型巴士(專綫)服務總站",
@@ -1853,31 +1853,13 @@
       "sc": "慈民邨(循环线)"
     }
   },
-  "GMBKLN-38M-inbound-1": {
-    "record_id": "GMBKLN-38M-inbound-1",
+  "GMBKLN-38M-2004659-1": {
+    "record_id": "GMBKLN-38M-2004659-1",
     "company": "GMBKLN",
     "route_id": "2004659",
     "route": "38M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
-      "tc": "黃大仙公共小型巴士(專線)服務總站",
-      "sc": "黄大仙公共小型巴士(专线)服务总站"
-    },
-    "destination": {
-      "en": "Chuk Yuen (North) Estate",
-      "tc": "竹園(北)邨",
-      "sc": "竹园(北)邨"
-    }
-  },
-  "GMBKLN-38M-outbound-1": {
-    "record_id": "GMBKLN-38M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2004659",
-    "route": "38M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Chuk Yuen (North) Estate",
       "tc": "竹園(北)邨",
@@ -1889,13 +1871,31 @@
       "sc": "黄大仙公共小型巴士(专线)服务总站"
     }
   },
-  "GMBKLN-39M-outbound-1": {
-    "record_id": "GMBKLN-39M-outbound-1",
+  "GMBKLN-38M-2004659-2": {
+    "record_id": "GMBKLN-38M-2004659-2",
+    "company": "GMBKLN",
+    "route_id": "2004659",
+    "route": "38M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Wong Tai Sin Public Light Bus (Scheduled) Service Terminus",
+      "tc": "黃大仙公共小型巴士(專線)服務總站",
+      "sc": "黄大仙公共小型巴士(专线)服务总站"
+    },
+    "destination": {
+      "en": "Chuk Yuen (North) Estate",
+      "tc": "竹園(北)邨",
+      "sc": "竹园(北)邨"
+    }
+  },
+  "GMBKLN-39M-2004660-1": {
+    "record_id": "GMBKLN-39M-2004660-1",
     "company": "GMBKLN",
     "route_id": "2004660",
     "route": "39M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Fu",
       "tc": "樂富",
@@ -1907,13 +1907,13 @@
       "sc": "东头(循环线)"
     }
   },
-  "GMBKLN-39M-outbound-2": {
-    "record_id": "GMBKLN-39M-outbound-2",
+  "GMBKLN-39M-2004661-1": {
+    "record_id": "GMBKLN-39M-2004661-1",
     "company": "GMBKLN",
     "route_id": "2004661",
     "route": "39M",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Fu",
       "tc": "樂富",
@@ -1925,13 +1925,13 @@
       "sc": "东头(循环线)"
     }
   },
-  "GMBKLN-41A-outbound-1": {
-    "record_id": "GMBKLN-41A-outbound-1",
+  "GMBKLN-41A-2005687-1": {
+    "record_id": "GMBKLN-41A-2005687-1",
     "company": "GMBKLN",
     "route_id": "2005687",
     "route": "41A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Yau Yat Tsuen",
       "tc": "又一村",
@@ -1943,13 +1943,13 @@
       "sc": "石硖尾站(循环线)"
     }
   },
-  "GMBKLN-41M-outbound-1": {
-    "record_id": "GMBKLN-41M-outbound-1",
+  "GMBKLN-41M-2005686-1": {
+    "record_id": "GMBKLN-41M-2005686-1",
     "company": "GMBKLN",
     "route_id": "2005686",
     "route": "41M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Yau Yat Tsuen",
       "tc": "又一村",
@@ -1961,31 +1961,13 @@
       "sc": "石硖尾站(循环线)"
     }
   },
-  "GMBKLN-42-inbound-1": {
-    "record_id": "GMBKLN-42-inbound-1",
+  "GMBKLN-42-2005690-1": {
+    "record_id": "GMBKLN-42-2005690-1",
     "company": "GMBKLN",
     "route_id": "2005690",
     "route": "42",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Chak On Estate",
-      "tc": "澤安邨",
-      "sc": "泽安邨"
-    },
-    "destination": {
-      "en": "Cheung Sha Wan (Yu Chau West Street)",
-      "tc": "長沙灣(汝州西街)",
-      "sc": "长沙湾(汝州西街)"
-    }
-  },
-  "GMBKLN-42-outbound-1": {
-    "record_id": "GMBKLN-42-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2005690",
-    "route": "42",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Cheung Sha Wan (Yu Chau West Street)",
       "tc": "長沙灣(汝州西街)",
@@ -1997,13 +1979,31 @@
       "sc": "泽安邨"
     }
   },
-  "GMBKLN-43M-outbound-1": {
-    "record_id": "GMBKLN-43M-outbound-1",
+  "GMBKLN-42-2005690-2": {
+    "record_id": "GMBKLN-42-2005690-2",
+    "company": "GMBKLN",
+    "route_id": "2005690",
+    "route": "42",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Chak On Estate",
+      "tc": "澤安邨",
+      "sc": "泽安邨"
+    },
+    "destination": {
+      "en": "Cheung Sha Wan (Yu Chau West Street)",
+      "tc": "長沙灣(汝州西街)",
+      "sc": "长沙湾(汝州西街)"
+    }
+  },
+  "GMBKLN-43M-2000976-1": {
+    "record_id": "GMBKLN-43M-2000976-1",
     "company": "GMBKLN",
     "route_id": "2000976",
     "route": "43M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tai Kok Tsui (Cherry Street)",
       "tc": "大角咀(櫻桃街)",
@@ -2015,13 +2015,13 @@
       "sc": "油麻地港铁站(循环线)"
     }
   },
-  "GMBKLN-43M-outbound-2": {
-    "record_id": "GMBKLN-43M-outbound-2",
+  "GMBKLN-43M-2000977-1": {
+    "record_id": "GMBKLN-43M-2000977-1",
     "company": "GMBKLN",
     "route_id": "2000977",
     "route": "43M",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Mong Kok (Park Avenue) Bus Terminus",
       "tc": "旺角(柏景灣)巴士總站",
@@ -2033,13 +2033,13 @@
       "sc": "油麻地港铁站(循环线)"
     }
   },
-  "GMBKLN-43M-outbound-3": {
-    "record_id": "GMBKLN-43M-outbound-3",
+  "GMBKLN-43M-2000978-1": {
+    "record_id": "GMBKLN-43M-2000978-1",
     "company": "GMBKLN",
     "route_id": "2000978",
     "route": "43M",
-    "bound": "outbound",
-    "service_type": "3",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Mong Kok (Park Avenue) Bus Terminus",
       "tc": "旺角(柏景灣)巴士總站",
@@ -2051,13 +2051,13 @@
       "sc": "油麻地港铁站(循环线)"
     }
   },
-  "GMBKLN-43M-outbound-4": {
-    "record_id": "GMBKLN-43M-outbound-4",
+  "GMBKLN-43M-2000981-1": {
+    "record_id": "GMBKLN-43M-2000981-1",
     "company": "GMBKLN",
     "route_id": "2000981",
     "route": "43M",
-    "bound": "outbound",
-    "service_type": "4",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Mong Kok (Park Avenue) Bus Terminus",
       "tc": "旺角(柏景灣)巴士總站",
@@ -2069,13 +2069,13 @@
       "sc": "油麻地港铁站(循环线)"
     }
   },
-  "GMBKLN-43M-outbound-5": {
-    "record_id": "GMBKLN-43M-outbound-5",
+  "GMBKLN-43M-2000982-1": {
+    "record_id": "GMBKLN-43M-2000982-1",
     "company": "GMBKLN",
     "route_id": "2000982",
     "route": "43M",
-    "bound": "outbound",
-    "service_type": "5",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Mong Kok (Park Avenue) Bus Terminus",
       "tc": "旺角(柏景灣)巴士總站",
@@ -2087,13 +2087,13 @@
       "sc": "油麻地港铁站(循环线)"
     }
   },
-  "GMBKLN-43M-outbound-6": {
-    "record_id": "GMBKLN-43M-outbound-6",
+  "GMBKLN-43M-2000983-1": {
+    "record_id": "GMBKLN-43M-2000983-1",
     "company": "GMBKLN",
     "route_id": "2000983",
     "route": "43M",
-    "bound": "outbound",
-    "service_type": "6",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Yan Cheung Road (The Coronation)",
       "tc": "欣翔道(御金國峯)",
@@ -2105,13 +2105,13 @@
       "sc": "油麻地港铁站(循环线)"
     }
   },
-  "GMBKLN-43M-outbound-7": {
-    "record_id": "GMBKLN-43M-outbound-7",
+  "GMBKLN-43M-2000985-1": {
+    "record_id": "GMBKLN-43M-2000985-1",
     "company": "GMBKLN",
     "route_id": "2000985",
     "route": "43M",
-    "bound": "outbound",
-    "service_type": "7",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Yau Ma Tei MTR Station",
       "tc": "油麻地港鐵站",
@@ -2123,13 +2123,13 @@
       "sc": "海庭道(西九龙政府合署)"
     }
   },
-  "GMBKLN-43M-outbound-8": {
-    "record_id": "GMBKLN-43M-outbound-8",
+  "GMBKLN-43M-2000986-1": {
+    "record_id": "GMBKLN-43M-2000986-1",
     "company": "GMBKLN",
     "route_id": "2000986",
     "route": "43M",
-    "bound": "outbound",
-    "service_type": "8",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hoi Ting Road (West Kowloon Government Offices)",
       "tc": "海庭道(西九龍政府合署)",
@@ -2141,13 +2141,13 @@
       "sc": "油麻地港铁站"
     }
   },
-  "GMBKLN-44-outbound-1": {
-    "record_id": "GMBKLN-44-outbound-1",
+  "GMBKLN-44-2010104-1": {
+    "record_id": "GMBKLN-44-2010104-1",
     "company": "GMBKLN",
     "route_id": "2010104",
     "route": "44",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Cheung Sha Wan (Castle Peak Road)",
       "tc": "長沙灣 (青山道)",
@@ -2159,13 +2159,13 @@
       "sc": "海盈村 (循环线)"
     }
   },
-  "GMBKLN-44-outbound-2": {
-    "record_id": "GMBKLN-44-outbound-2",
+  "GMBKLN-44-2010137-1": {
+    "record_id": "GMBKLN-44-2010137-1",
     "company": "GMBKLN",
     "route_id": "2010137",
     "route": "44",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Cheung Sha Wan (Castle Peak Road)",
       "tc": "長沙灣 (青山道)",
@@ -2177,31 +2177,13 @@
       "sc": "海盈村 (循环线)"
     }
   },
-  "GMBKLN-44A-inbound-1": {
-    "record_id": "GMBKLN-44A-inbound-1",
+  "GMBKLN-44A-2004599-1": {
+    "record_id": "GMBKLN-44A-2004599-1",
     "company": "GMBKLN",
     "route_id": "2004599",
     "route": "44A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hoi Lai Estate",
-      "tc": "海麗邨",
-      "sc": "海丽邨"
-    },
-    "destination": {
-      "en": "Cheung Sha Wan Plaza",
-      "tc": "長沙灣廣場",
-      "sc": "长沙湾广场"
-    }
-  },
-  "GMBKLN-44A-outbound-1": {
-    "record_id": "GMBKLN-44A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2004599",
-    "route": "44A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Cheung Sha Wan Plaza",
       "tc": "長沙灣廣場",
@@ -2213,13 +2195,31 @@
       "sc": "海丽邨"
     }
   },
-  "GMBKLN-44A-outbound-2": {
-    "record_id": "GMBKLN-44A-outbound-2",
+  "GMBKLN-44A-2004599-2": {
+    "record_id": "GMBKLN-44A-2004599-2",
+    "company": "GMBKLN",
+    "route_id": "2004599",
+    "route": "44A",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Hoi Lai Estate",
+      "tc": "海麗邨",
+      "sc": "海丽邨"
+    },
+    "destination": {
+      "en": "Cheung Sha Wan Plaza",
+      "tc": "長沙灣廣場",
+      "sc": "长沙湾广场"
+    }
+  },
+  "GMBKLN-44A-2004626-1": {
+    "record_id": "GMBKLN-44A-2004626-1",
     "company": "GMBKLN",
     "route_id": "2004626",
     "route": "44A",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Cheung Sha Wan Plaza",
       "tc": "長沙灣廣場",
@@ -2231,31 +2231,13 @@
       "sc": "海盈村(循环线) "
     }
   },
-  "GMBKLN-44M-inbound-1": {
-    "record_id": "GMBKLN-44M-inbound-1",
+  "GMBKLN-44M-2004593-1": {
+    "record_id": "GMBKLN-44M-2004593-1",
     "company": "GMBKLN",
     "route_id": "2004593",
     "route": "44M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Cheung Sha Wan (Cheung Shun Street)",
-      "tc": "長沙灣(長順街)",
-      "sc": "长沙湾(长顺街)"
-    },
-    "destination": {
-      "en": "Stonecutters Island",
-      "tc": "昂船洲",
-      "sc": "昂船洲"
-    }
-  },
-  "GMBKLN-44M-outbound-1": {
-    "record_id": "GMBKLN-44M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2004593",
-    "route": "44M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Stonecutters Island",
       "tc": "昂船洲",
@@ -2267,13 +2249,31 @@
       "sc": "长沙湾(长顺街)"
     }
   },
-  "GMBKLN-44M-outbound-2": {
-    "record_id": "GMBKLN-44M-outbound-2",
+  "GMBKLN-44M-2004593-2": {
+    "record_id": "GMBKLN-44M-2004593-2",
+    "company": "GMBKLN",
+    "route_id": "2004593",
+    "route": "44M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Cheung Sha Wan (Cheung Shun Street)",
+      "tc": "長沙灣(長順街)",
+      "sc": "长沙湾(长顺街)"
+    },
+    "destination": {
+      "en": "Stonecutters Island",
+      "tc": "昂船洲",
+      "sc": "昂船洲"
+    }
+  },
+  "GMBKLN-44M-2004595-1": {
+    "record_id": "GMBKLN-44M-2004595-1",
     "company": "GMBKLN",
     "route_id": "2004595",
     "route": "44M",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Stonecutters Island",
       "tc": "昂船洲",
@@ -2285,13 +2285,13 @@
       "sc": "长沙湾(长顺街)"
     }
   },
-  "GMBKLN-44M-outbound-3": {
-    "record_id": "GMBKLN-44M-outbound-3",
+  "GMBKLN-44M-2005022-1": {
+    "record_id": "GMBKLN-44M-2005022-1",
     "company": "GMBKLN",
     "route_id": "2005022",
     "route": "44M",
-    "bound": "outbound",
-    "service_type": "3",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Cheung Sha Wan (Cheung Shun Street)",
       "tc": "長沙灣(長順街)",
@@ -2303,13 +2303,13 @@
       "sc": "昂船洲"
     }
   },
-  "GMBKLN-44S-outbound-1": {
-    "record_id": "GMBKLN-44S-outbound-1",
+  "GMBKLN-44S-2004627-1": {
+    "record_id": "GMBKLN-44S-2004627-1",
     "company": "GMBKLN",
     "route_id": "2004627",
     "route": "44S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hoi Lai Estate",
       "tc": "海麗邨",
@@ -2321,31 +2321,13 @@
       "sc": "青山道(循环线)"
     }
   },
-  "GMBKLN-45M-inbound-1": {
-    "record_id": "GMBKLN-45M-inbound-1",
+  "GMBKLN-45M-2011327-1": {
+    "record_id": "GMBKLN-45M-2011327-1",
     "company": "GMBKLN",
     "route_id": "2011327",
     "route": "45M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Sham Shui Po (Yu Chau Street)",
-      "tc": "深水埗(汝州街)",
-      "sc": "深水埗(汝州街)"
-    },
-    "destination": {
-      "en": "Caritas Medical Centre",
-      "tc": "明愛醫院",
-      "sc": "明爱医院"
-    }
-  },
-  "GMBKLN-45M-outbound-1": {
-    "record_id": "GMBKLN-45M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2011327",
-    "route": "45M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Caritas Medical Centre",
       "tc": "明愛醫院",
@@ -2357,13 +2339,49 @@
       "sc": "深水埗(汝州街)"
     }
   },
-  "GMBKLN-46-inbound-1": {
-    "record_id": "GMBKLN-46-inbound-1",
+  "GMBKLN-45M-2011327-2": {
+    "record_id": "GMBKLN-45M-2011327-2",
+    "company": "GMBKLN",
+    "route_id": "2011327",
+    "route": "45M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Sham Shui Po (Yu Chau Street)",
+      "tc": "深水埗(汝州街)",
+      "sc": "深水埗(汝州街)"
+    },
+    "destination": {
+      "en": "Caritas Medical Centre",
+      "tc": "明愛醫院",
+      "sc": "明爱医院"
+    }
+  },
+  "GMBKLN-46-2007233-1": {
+    "record_id": "GMBKLN-46-2007233-1",
     "company": "GMBKLN",
     "route_id": "2007233",
     "route": "46",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Richland Gardens",
+      "tc": "麗晶花園",
+      "sc": "丽晶花园"
+    },
+    "destination": {
+      "en": "Tai Kok Tsui (Olympic Station)",
+      "tc": "大角咀( 奧運站)",
+      "sc": "大角咀( 奥运站)"
+    }
+  },
+  "GMBKLN-46-2007233-2": {
+    "record_id": "GMBKLN-46-2007233-2",
+    "company": "GMBKLN",
+    "route_id": "2007233",
+    "route": "46",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Tai Kok Tsui (Olympic Station)",
       "tc": "大角咀( 奧運站)",
@@ -2375,31 +2393,13 @@
       "sc": "丽晶花园"
     }
   },
-  "GMBKLN-46-outbound-1": {
-    "record_id": "GMBKLN-46-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2007233",
-    "route": "46",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Richland Gardens",
-      "tc": "麗晶花園",
-      "sc": "丽晶花园"
-    },
-    "destination": {
-      "en": "Tai Kok Tsui (Olympic Station)",
-      "tc": "大角咀( 奧運站)",
-      "sc": "大角咀( 奥运站)"
-    }
-  },
-  "GMBKLN-46-outbound-2": {
-    "record_id": "GMBKLN-46-outbound-2",
+  "GMBKLN-46-2007234-1": {
+    "record_id": "GMBKLN-46-2007234-1",
     "company": "GMBKLN",
     "route_id": "2007234",
     "route": "46",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sham Mong Road",
       "tc": "深旺道",
@@ -2411,31 +2411,13 @@
       "sc": "丽晶花园"
     }
   },
-  "GMBKLN-47-inbound-1": {
-    "record_id": "GMBKLN-47-inbound-1",
+  "GMBKLN-47-2010368-1": {
+    "record_id": "GMBKLN-47-2010368-1",
     "company": "GMBKLN",
     "route_id": "2010368",
     "route": "47",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tsui Ping (Fuk Tong Road)",
-      "tc": "翠屏(福塘道)",
-      "sc": "翠屏(福塘道)"
-    },
-    "destination": {
-      "en": "Shun Lee",
-      "tc": "順利",
-      "sc": "顺利"
-    }
-  },
-  "GMBKLN-47-outbound-1": {
-    "record_id": "GMBKLN-47-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2010368",
-    "route": "47",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Shun Lee",
       "tc": "順利",
@@ -2447,13 +2429,31 @@
       "sc": "翠屏(福塘道)"
     }
   },
-  "GMBKLN-48-outbound-1": {
-    "record_id": "GMBKLN-48-outbound-1",
+  "GMBKLN-47-2010368-2": {
+    "record_id": "GMBKLN-47-2010368-2",
+    "company": "GMBKLN",
+    "route_id": "2010368",
+    "route": "47",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Tsui Ping (Fuk Tong Road)",
+      "tc": "翠屏(福塘道)",
+      "sc": "翠屏(福塘道)"
+    },
+    "destination": {
+      "en": "Shun Lee",
+      "tc": "順利",
+      "sc": "顺利"
+    }
+  },
+  "GMBKLN-48-2007267-1": {
+    "record_id": "GMBKLN-48-2007267-1",
     "company": "GMBKLN",
     "route_id": "2007267",
     "route": "48",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Shun Lee",
       "tc": "順利",
@@ -2465,13 +2465,13 @@
       "sc": "九龙湾(循环线)"
     }
   },
-  "GMBKLN-48-outbound-2": {
-    "record_id": "GMBKLN-48-outbound-2",
+  "GMBKLN-48-2007332-1": {
+    "record_id": "GMBKLN-48-2007332-1",
     "company": "GMBKLN",
     "route_id": "2007332",
     "route": "48",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Shun Lee",
       "tc": "順利",
@@ -2483,13 +2483,13 @@
       "sc": "九龙湾(循环线)"
     }
   },
-  "GMBKLN-49-outbound-1": {
-    "record_id": "GMBKLN-49-outbound-1",
+  "GMBKLN-49-2007299-1": {
+    "record_id": "GMBKLN-49-2007299-1",
     "company": "GMBKLN",
     "route_id": "2007299",
     "route": "49",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Shun Tin",
       "tc": "順天",
@@ -2501,13 +2501,13 @@
       "sc": "九龙城渡轮码头(循环线)"
     }
   },
-  "GMBKLN-49M-outbound-1": {
-    "record_id": "GMBKLN-49M-outbound-1",
+  "GMBKLN-49M-2007300-1": {
+    "record_id": "GMBKLN-49M-2007300-1",
     "company": "GMBKLN",
     "route_id": "2007300",
     "route": "49M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "顺天",
       "tc": "順天",
@@ -2519,13 +2519,13 @@
       "sc": "坪石(循环线)"
     }
   },
-  "GMBKLN-50-outbound-1": {
-    "record_id": "GMBKLN-50-outbound-1",
+  "GMBKLN-50-2008487-1": {
+    "record_id": "GMBKLN-50-2008487-1",
     "company": "GMBKLN",
     "route_id": "2008487",
     "route": "50",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "United Christian Hospital",
       "tc": "基督教聯合醫院",
@@ -2537,13 +2537,13 @@
       "sc": "裕民坊公共运输交汇处 (循环线)"
     }
   },
-  "GMBKLN-51M-outbound-1": {
-    "record_id": "GMBKLN-51M-outbound-1",
+  "GMBKLN-51M-2007500-1": {
+    "record_id": "GMBKLN-51M-2007500-1",
     "company": "GMBKLN",
     "route_id": "2007500",
     "route": "51M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Richland Gardens",
       "tc": "麗晶花園",
@@ -2555,31 +2555,13 @@
       "sc": "九龙湾站(循环线)"
     }
   },
-  "GMBKLN-52-inbound-1": {
-    "record_id": "GMBKLN-52-inbound-1",
+  "GMBKLN-52-2008000-1": {
+    "record_id": "GMBKLN-52-2008000-1",
     "company": "GMBKLN",
     "route_id": "2008000",
     "route": "52",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "San Po Kong",
-      "tc": "新蒲崗",
-      "sc": "新蒲岗"
-    },
-    "destination": {
-      "en": "Chuk Yuen Estate",
-      "tc": "竹園邨",
-      "sc": "竹园邨"
-    }
-  },
-  "GMBKLN-52-outbound-1": {
-    "record_id": "GMBKLN-52-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008000",
-    "route": "52",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Chuk Yuen Estate",
       "tc": "竹園邨",
@@ -2591,13 +2573,31 @@
       "sc": "新蒲岗"
     }
   },
-  "GMBKLN-53M-outbound-1": {
-    "record_id": "GMBKLN-53M-outbound-1",
+  "GMBKLN-52-2008000-2": {
+    "record_id": "GMBKLN-52-2008000-2",
+    "company": "GMBKLN",
+    "route_id": "2008000",
+    "route": "52",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "San Po Kong",
+      "tc": "新蒲崗",
+      "sc": "新蒲岗"
+    },
+    "destination": {
+      "en": "Chuk Yuen Estate",
+      "tc": "竹園邨",
+      "sc": "竹园邨"
+    }
+  },
+  "GMBKLN-53M-2008001-1": {
+    "record_id": "GMBKLN-53M-2008001-1",
     "company": "GMBKLN",
     "route_id": "2008001",
     "route": "53M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lok Fu Station",
       "tc": "樂富站",
@@ -2609,31 +2609,13 @@
       "sc": "天马苑(金竹里)(循环线)"
     }
   },
-  "GMBKLN-54-inbound-1": {
-    "record_id": "GMBKLN-54-inbound-1",
+  "GMBKLN-54-2003174-1": {
+    "record_id": "GMBKLN-54-2003174-1",
     "company": "GMBKLN",
     "route_id": "2003174",
     "route": "54",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Lok Fu",
-      "tc": "樂富",
-      "sc": "乐富"
-    },
-    "destination": {
-      "en": "Shun Tin",
-      "tc": "順天",
-      "sc": "顺天"
-    }
-  },
-  "GMBKLN-54-outbound-1": {
-    "record_id": "GMBKLN-54-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2003174",
-    "route": "54",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Shun Tin",
       "tc": "順天",
@@ -2645,13 +2627,31 @@
       "sc": "乐富"
     }
   },
-  "GMBKLN-54M-outbound-1": {
-    "record_id": "GMBKLN-54M-outbound-1",
+  "GMBKLN-54-2003174-2": {
+    "record_id": "GMBKLN-54-2003174-2",
+    "company": "GMBKLN",
+    "route_id": "2003174",
+    "route": "54",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Lok Fu",
+      "tc": "樂富",
+      "sc": "乐富"
+    },
+    "destination": {
+      "en": "Shun Tin",
+      "tc": "順天",
+      "sc": "顺天"
+    }
+  },
+  "GMBKLN-54M-2003177-1": {
+    "record_id": "GMBKLN-54M-2003177-1",
     "company": "GMBKLN",
     "route_id": "2003177",
     "route": "54M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Shun Tin",
       "tc": "順天",
@@ -2663,13 +2663,13 @@
       "sc": "坪石(循环线)"
     }
   },
-  "GMBKLN-54S-outbound-1": {
-    "record_id": "GMBKLN-54S-outbound-1",
+  "GMBKLN-54S-2003179-1": {
+    "record_id": "GMBKLN-54S-2003179-1",
     "company": "GMBKLN",
     "route_id": "2003179",
     "route": "54S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Shun Lee Disciplined Services Quarters",
       "tc": "順利紀律部隊宿舍",
@@ -2681,31 +2681,13 @@
       "sc": "黄大仙(沙田坳道)(循环线)"
     }
   },
-  "GMBKLN-56-inbound-1": {
-    "record_id": "GMBKLN-56-inbound-1",
+  "GMBKLN-56-2001524-1": {
+    "record_id": "GMBKLN-56-2001524-1",
     "company": "GMBKLN",
     "route_id": "2001524",
     "route": "56",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Shung Yan Street",
-      "tc": "崇仁街",
-      "sc": "崇仁街"
-    },
-    "destination": {
-      "en": "Richland Gardens",
-      "tc": "麗晶花園",
-      "sc": "丽晶花园"
-    }
-  },
-  "GMBKLN-56-outbound-1": {
-    "record_id": "GMBKLN-56-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2001524",
-    "route": "56",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Richland Gardens",
       "tc": "麗晶花園",
@@ -2717,13 +2699,49 @@
       "sc": "崇仁街"
     }
   },
-  "GMBKLN-57M-inbound-1": {
-    "record_id": "GMBKLN-57M-inbound-1",
+  "GMBKLN-56-2001524-2": {
+    "record_id": "GMBKLN-56-2001524-2",
+    "company": "GMBKLN",
+    "route_id": "2001524",
+    "route": "56",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Shung Yan Street",
+      "tc": "崇仁街",
+      "sc": "崇仁街"
+    },
+    "destination": {
+      "en": "Richland Gardens",
+      "tc": "麗晶花園",
+      "sc": "丽晶花园"
+    }
+  },
+  "GMBKLN-57M-2004463-1": {
+    "record_id": "GMBKLN-57M-2004463-1",
     "company": "GMBKLN",
     "route_id": "2004463",
     "route": "57M",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Jordan Station (Nanking Street)",
+      "tc": "佐敦站(南京街)",
+      "sc": "佐敦站(南京街)"
+    },
+    "destination": {
+      "en": "Queen Elizabeth Hospital",
+      "tc": "伊利沙伯醫院",
+      "sc": "伊利沙伯医院"
+    }
+  },
+  "GMBKLN-57M-2004463-2": {
+    "record_id": "GMBKLN-57M-2004463-2",
+    "company": "GMBKLN",
+    "route_id": "2004463",
+    "route": "57M",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Queen Elizabeth Hospital",
       "tc": "伊利沙伯醫院",
@@ -2735,31 +2753,13 @@
       "sc": "佐敦站(南京街)"
     }
   },
-  "GMBKLN-57M-outbound-1": {
-    "record_id": "GMBKLN-57M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2004463",
-    "route": "57M",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Jordan Station (Nanking Street)",
-      "tc": "佐敦站(南京街)",
-      "sc": "佐敦站(南京街)"
-    },
-    "destination": {
-      "en": "Queen Elizabeth Hospital",
-      "tc": "伊利沙伯醫院",
-      "sc": "伊利沙伯医院"
-    }
-  },
-  "GMBKLN-59-outbound-1": {
-    "record_id": "GMBKLN-59-outbound-1",
+  "GMBKLN-59-2004397-1": {
+    "record_id": "GMBKLN-59-2004397-1",
     "company": "GMBKLN",
     "route_id": "2004397",
     "route": "59",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsui Ping Estate South",
       "tc": "翠屏南邨",
@@ -2771,13 +2771,13 @@
       "sc": "协和街(循环线)"
     }
   },
-  "GMBKLN-59-outbound-2": {
-    "record_id": "GMBKLN-59-outbound-2",
+  "GMBKLN-59-2004857-1": {
+    "record_id": "GMBKLN-59-2004857-1",
     "company": "GMBKLN",
     "route_id": "2004857",
     "route": "59",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsui Ping Estate South",
       "tc": "翠屏南邨",
@@ -2789,13 +2789,13 @@
       "sc": "协和街(循环线)"
     }
   },
-  "GMBKLN-59M-outbound-1": {
-    "record_id": "GMBKLN-59M-outbound-1",
+  "GMBKLN-59M-2004398-1": {
+    "record_id": "GMBKLN-59M-2004398-1",
     "company": "GMBKLN",
     "route_id": "2004398",
     "route": "59M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsui Ping Estate South",
       "tc": "翠屏南邨",
@@ -2807,13 +2807,13 @@
       "sc": "福塘道(循环线)"
     }
   },
-  "GMBKLN-5M-outbound-1": {
-    "record_id": "GMBKLN-5M-outbound-1",
+  "GMBKLN-5M-2003537-1": {
+    "record_id": "GMBKLN-5M-2003537-1",
     "company": "GMBKLN",
     "route_id": "2003537",
     "route": "5M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Waterloo Hill (Hok Yu Lane)",
       "tc": "窩打老道山(學餘里)",
@@ -2825,13 +2825,13 @@
       "sc": "旺角站(循环线)"
     }
   },
-  "GMBKLN-5M-outbound-2": {
-    "record_id": "GMBKLN-5M-outbound-2",
+  "GMBKLN-5M-2003538-1": {
+    "record_id": "GMBKLN-5M-2003538-1",
     "company": "GMBKLN",
     "route_id": "2003538",
     "route": "5M",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Waterloo Hill (Hok Yu Lane)",
       "tc": "窩打老道山(學餘里)",
@@ -2843,13 +2843,13 @@
       "sc": "旺角站(循环线)(经花园街)"
     }
   },
-  "GMBKLN-5M-outbound-3": {
-    "record_id": "GMBKLN-5M-outbound-3",
+  "GMBKLN-5M-2003570-1": {
+    "record_id": "GMBKLN-5M-2003570-1",
     "company": "GMBKLN",
     "route_id": "2003570",
     "route": "5M",
-    "bound": "outbound",
-    "service_type": "3",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Waterloo Hill (Hok Yu Lane)",
       "tc": "窩打老道山(學餘里)",
@@ -2861,13 +2861,13 @@
       "sc": "旺角站(循环线)(经亚皆老街)"
     }
   },
-  "GMBKLN-60-outbound-1": {
-    "record_id": "GMBKLN-60-outbound-1",
+  "GMBKLN-60-2006012-1": {
+    "record_id": "GMBKLN-60-2006012-1",
     "company": "GMBKLN",
     "route_id": "2006012",
     "route": "60",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lam Tin",
       "tc": "藍田",
@@ -2879,31 +2879,13 @@
       "sc": "顺利邨(循环线)"
     }
   },
-  "GMBKLN-62S-inbound-1": {
-    "record_id": "GMBKLN-62S-inbound-1",
+  "GMBKLN-62S-2004395-1": {
+    "record_id": "GMBKLN-62S-2004395-1",
     "company": "GMBKLN",
     "route_id": "2004395",
     "route": "62S",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tsim Sha Tsui",
-      "tc": "尖沙咀",
-      "sc": "尖沙咀"
-    },
-    "destination": {
-      "en": "Lam Tin (Kwong Tin Estate)",
-      "tc": "藍田(廣田邨)",
-      "sc": "蓝田(广田邨)"
-    }
-  },
-  "GMBKLN-62S-outbound-1": {
-    "record_id": "GMBKLN-62S-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2004395",
-    "route": "62S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lam Tin (Kwong Tin Estate)",
       "tc": "藍田(廣田邨)",
@@ -2915,13 +2897,31 @@
       "sc": "尖沙咀"
     }
   },
-  "GMBKLN-63-outbound-1": {
-    "record_id": "GMBKLN-63-outbound-1",
+  "GMBKLN-62S-2004395-2": {
+    "record_id": "GMBKLN-62S-2004395-2",
+    "company": "GMBKLN",
+    "route_id": "2004395",
+    "route": "62S",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Tsim Sha Tsui",
+      "tc": "尖沙咀",
+      "sc": "尖沙咀"
+    },
+    "destination": {
+      "en": "Lam Tin (Kwong Tin Estate)",
+      "tc": "藍田(廣田邨)",
+      "sc": "蓝田(广田邨)"
+    }
+  },
+  "GMBKLN-63-2004396-1": {
+    "record_id": "GMBKLN-63-2004396-1",
     "company": "GMBKLN",
     "route_id": "2004396",
     "route": "63",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lam Tin (Kwong Tin Estate)",
       "tc": "藍田(廣田邨)",
@@ -2933,31 +2933,13 @@
       "sc": "裕民坊公共运输交汇处 (循环线)"
     }
   },
-  "GMBKLN-66S-inbound-1": {
-    "record_id": "GMBKLN-66S-inbound-1",
+  "GMBKLN-66S-2007433-1": {
+    "record_id": "GMBKLN-66S-2007433-1",
     "company": "GMBKLN",
     "route_id": "2007433",
     "route": "66S",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mong Kok",
-      "tc": "旺角",
-      "sc": "旺角"
-    },
-    "destination": {
-      "en": "Hammer Hill Road",
-      "tc": "斧山道",
-      "sc": "斧山道"
-    }
-  },
-  "GMBKLN-66S-outbound-1": {
-    "record_id": "GMBKLN-66S-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2007433",
-    "route": "66S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hammer Hill Road",
       "tc": "斧山道",
@@ -2969,13 +2951,31 @@
       "sc": "旺角"
     }
   },
-  "GMBKLN-68-outbound-1": {
-    "record_id": "GMBKLN-68-outbound-1",
+  "GMBKLN-66S-2007433-2": {
+    "record_id": "GMBKLN-66S-2007433-2",
+    "company": "GMBKLN",
+    "route_id": "2007433",
+    "route": "66S",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Mong Kok",
+      "tc": "旺角",
+      "sc": "旺角"
+    },
+    "destination": {
+      "en": "Hammer Hill Road",
+      "tc": "斧山道",
+      "sc": "斧山道"
+    }
+  },
+  "GMBKLN-68-2011358-1": {
+    "record_id": "GMBKLN-68-2011358-1",
     "company": "GMBKLN",
     "route_id": "2011358",
     "route": "68",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Choi Wan Estate",
       "tc": "彩雲邨",
@@ -2987,49 +2987,13 @@
       "sc": "九龙湾(循环线)"
     }
   },
-  "GMBKLN-69-inbound-1": {
-    "record_id": "GMBKLN-69-inbound-1",
+  "GMBKLN-69-2006936-1": {
+    "record_id": "GMBKLN-69-2006936-1",
     "company": "GMBKLN",
     "route_id": "2006936",
     "route": "69",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Kowloon City (Lion Rock Road)",
-      "tc": "九龍城(獅子石道)",
-      "sc": "九龙城(狮子石道)"
-    },
-    "destination": {
-      "en": "Laguna City",
-      "tc": "麗港城",
-      "sc": "丽港城"
-    }
-  },
-  "GMBKLN-69-inbound-3": {
-    "record_id": "GMBKLN-69-inbound-3",
-    "company": "GMBKLN",
-    "route_id": "2007169",
-    "route": "69",
-    "bound": "inbound",
-    "service_type": "3",
-    "origin": {
-      "en": "Kowloon Bay (Zero Carbon Building)",
-      "tc": "九龍灣 (零碳天地)",
-      "sc": "九龙湾 (零碳天地)"
-    },
-    "destination": {
-      "en": "Laguna City",
-      "tc": "麗港城",
-      "sc": "丽港城"
-    }
-  },
-  "GMBKLN-69-outbound-1": {
-    "record_id": "GMBKLN-69-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2006936",
-    "route": "69",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Laguna City",
       "tc": "麗港城",
@@ -3041,13 +3005,31 @@
       "sc": "九龙城(狮子石道)"
     }
   },
-  "GMBKLN-69-outbound-2": {
-    "record_id": "GMBKLN-69-outbound-2",
+  "GMBKLN-69-2006936-2": {
+    "record_id": "GMBKLN-69-2006936-2",
+    "company": "GMBKLN",
+    "route_id": "2006936",
+    "route": "69",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Kowloon City (Lion Rock Road)",
+      "tc": "九龍城(獅子石道)",
+      "sc": "九龙城(狮子石道)"
+    },
+    "destination": {
+      "en": "Laguna City",
+      "tc": "麗港城",
+      "sc": "丽港城"
+    }
+  },
+  "GMBKLN-69-2007035-1": {
+    "record_id": "GMBKLN-69-2007035-1",
     "company": "GMBKLN",
     "route_id": "2007035",
     "route": "69",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Laguna City",
       "tc": "麗港城",
@@ -3059,13 +3041,13 @@
       "sc": "九龙城(狮子石道)"
     }
   },
-  "GMBKLN-69-outbound-3": {
-    "record_id": "GMBKLN-69-outbound-3",
+  "GMBKLN-69-2007169-1": {
+    "record_id": "GMBKLN-69-2007169-1",
     "company": "GMBKLN",
     "route_id": "2007169",
     "route": "69",
-    "bound": "outbound",
-    "service_type": "3",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Laguna City",
       "tc": "麗港城",
@@ -3077,13 +3059,49 @@
       "sc": "九龙湾 (零碳天地)"
     }
   },
-  "GMBKLN-69A-inbound-1": {
-    "record_id": "GMBKLN-69A-inbound-1",
+  "GMBKLN-69-2007169-2": {
+    "record_id": "GMBKLN-69-2007169-2",
+    "company": "GMBKLN",
+    "route_id": "2007169",
+    "route": "69",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Kowloon Bay (Zero Carbon Building)",
+      "tc": "九龍灣 (零碳天地)",
+      "sc": "九龙湾 (零碳天地)"
+    },
+    "destination": {
+      "en": "Laguna City",
+      "tc": "麗港城",
+      "sc": "丽港城"
+    }
+  },
+  "GMBKLN-69A-2007068-1": {
+    "record_id": "GMBKLN-69A-2007068-1",
     "company": "GMBKLN",
     "route_id": "2007068",
     "route": "69A",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Laguna City",
+      "tc": "麗港城",
+      "sc": "丽港城"
+    },
+    "destination": {
+      "en": "Tung Choi Street",
+      "tc": "通菜街",
+      "sc": "通菜街"
+    }
+  },
+  "GMBKLN-69A-2007068-2": {
+    "record_id": "GMBKLN-69A-2007068-2",
+    "company": "GMBKLN",
+    "route_id": "2007068",
+    "route": "69A",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Tung Choi Street",
       "tc": "通菜街",
@@ -3095,31 +3113,13 @@
       "sc": "丽港城"
     }
   },
-  "GMBKLN-69A-outbound-1": {
-    "record_id": "GMBKLN-69A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2007068",
-    "route": "69A",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Laguna City",
-      "tc": "麗港城",
-      "sc": "丽港城"
-    },
-    "destination": {
-      "en": "Tung Choi Street",
-      "tc": "通菜街",
-      "sc": "通菜街"
-    }
-  },
-  "GMBKLN-69A-outbound-2": {
-    "record_id": "GMBKLN-69A-outbound-2",
+  "GMBKLN-69A-2007168-1": {
+    "record_id": "GMBKLN-69A-2007168-1",
     "company": "GMBKLN",
     "route_id": "2007168",
     "route": "69A",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Laguna City",
       "tc": "麗港城",
@@ -3131,31 +3131,13 @@
       "sc": "通菜街"
     }
   },
-  "GMBKLN-70-inbound-1": {
-    "record_id": "GMBKLN-70-inbound-1",
+  "GMBKLN-70-2008850-1": {
+    "record_id": "GMBKLN-70-2008850-1",
     "company": "GMBKLN",
     "route_id": "2008850",
     "route": "70",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tai Kok Tsui (Island Harbourview)",
-      "tc": "大角咀(維港灣)",
-      "sc": "大角咀(维港湾)"
-    },
-    "destination": {
-      "en": "Diamond Hill Station Public Transport Interchange",
-      "tc": "鑽石山站公共運輸交匯處",
-      "sc": "钻石山站公共运输交汇处"
-    }
-  },
-  "GMBKLN-70-outbound-1": {
-    "record_id": "GMBKLN-70-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008850",
-    "route": "70",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Diamond Hill Station Public Transport Interchange",
       "tc": "鑽石山站公共運輸交匯處",
@@ -3167,13 +3149,49 @@
       "sc": "大角咀(维港湾)"
     }
   },
-  "GMBKLN-70A-inbound-1": {
-    "record_id": "GMBKLN-70A-inbound-1",
+  "GMBKLN-70-2008850-2": {
+    "record_id": "GMBKLN-70-2008850-2",
+    "company": "GMBKLN",
+    "route_id": "2008850",
+    "route": "70",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Tai Kok Tsui (Island Harbourview)",
+      "tc": "大角咀(維港灣)",
+      "sc": "大角咀(维港湾)"
+    },
+    "destination": {
+      "en": "Diamond Hill Station Public Transport Interchange",
+      "tc": "鑽石山站公共運輸交匯處",
+      "sc": "钻石山站公共运输交汇处"
+    }
+  },
+  "GMBKLN-70A-2008883-1": {
+    "record_id": "GMBKLN-70A-2008883-1",
     "company": "GMBKLN",
     "route_id": "2008883",
     "route": "70A",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Diamond Hill Station Public Transport Interchange",
+      "tc": "鑽石山站公共運輸交匯處",
+      "sc": "钻石山站公共运输交汇处"
+    },
+    "destination": {
+      "en": "Olympic Station Public Transport Interchange",
+      "tc": "奧運站交通交匯處",
+      "sc": "奥运站交通交汇处"
+    }
+  },
+  "GMBKLN-70A-2008883-2": {
+    "record_id": "GMBKLN-70A-2008883-2",
+    "company": "GMBKLN",
+    "route_id": "2008883",
+    "route": "70A",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Olympic Station Public Transport Interchange",
       "tc": "奧運站交通交匯處",
@@ -3185,31 +3203,13 @@
       "sc": "钻石山站公共运输交汇处"
     }
   },
-  "GMBKLN-70A-outbound-1": {
-    "record_id": "GMBKLN-70A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008883",
-    "route": "70A",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Diamond Hill Station Public Transport Interchange",
-      "tc": "鑽石山站公共運輸交匯處",
-      "sc": "钻石山站公共运输交汇处"
-    },
-    "destination": {
-      "en": "Olympic Station Public Transport Interchange",
-      "tc": "奧運站交通交匯處",
-      "sc": "奥运站交通交汇处"
-    }
-  },
-  "GMBKLN-71A-outbound-1": {
-    "record_id": "GMBKLN-71A-outbound-1",
+  "GMBKLN-71A-2008289-1": {
+    "record_id": "GMBKLN-71A-2008289-1",
     "company": "GMBKLN",
     "route_id": "2008289",
     "route": "71A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Po Tat Estate",
       "tc": "寶達邨",
@@ -3221,31 +3221,13 @@
       "sc": "蓝田站 (循环线)"
     }
   },
-  "GMBKLN-71B-inbound-1": {
-    "record_id": "GMBKLN-71B-inbound-1",
+  "GMBKLN-71B-2008291-1": {
+    "record_id": "GMBKLN-71B-2008291-1",
     "company": "GMBKLN",
     "route_id": "2008291",
     "route": "71B",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Lam Tin Station",
-      "tc": "藍田站",
-      "sc": "蓝田站"
-    },
-    "destination": {
-      "en": "Sau Mau Ping Estate (Phase 5)",
-      "tc": "秀茂坪邨 (第5期)",
-      "sc": "秀茂坪村 (第5期)"
-    }
-  },
-  "GMBKLN-71B-outbound-1": {
-    "record_id": "GMBKLN-71B-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008291",
-    "route": "71B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sau Mau Ping Estate (Phase 5)",
       "tc": "秀茂坪邨 (第5期)",
@@ -3257,13 +3239,49 @@
       "sc": "蓝田站"
     }
   },
-  "GMBKLN-72-inbound-1": {
-    "record_id": "GMBKLN-72-inbound-1",
+  "GMBKLN-71B-2008291-2": {
+    "record_id": "GMBKLN-71B-2008291-2",
+    "company": "GMBKLN",
+    "route_id": "2008291",
+    "route": "71B",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Lam Tin Station",
+      "tc": "藍田站",
+      "sc": "蓝田站"
+    },
+    "destination": {
+      "en": "Sau Mau Ping Estate (Phase 5)",
+      "tc": "秀茂坪邨 (第5期)",
+      "sc": "秀茂坪村 (第5期)"
+    }
+  },
+  "GMBKLN-72-2005880-1": {
+    "record_id": "GMBKLN-72-2005880-1",
     "company": "GMBKLN",
     "route_id": "2005880",
     "route": "72",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Grand View Garden",
+      "tc": "宏景花園",
+      "sc": "宏景花园"
+    },
+    "destination": {
+      "en": "Festival Walk Public Transport Terminus",
+      "tc": "又一城公共交通總站",
+      "sc": "又一城公共交通总站"
+    }
+  },
+  "GMBKLN-72-2005880-2": {
+    "record_id": "GMBKLN-72-2005880-2",
+    "company": "GMBKLN",
+    "route_id": "2005880",
+    "route": "72",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Festival Walk Public Transport Terminus",
       "tc": "又一城公共交通總站",
@@ -3275,31 +3293,13 @@
       "sc": "宏景花园"
     }
   },
-  "GMBKLN-72-outbound-1": {
-    "record_id": "GMBKLN-72-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2005880",
-    "route": "72",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Grand View Garden",
-      "tc": "宏景花園",
-      "sc": "宏景花园"
-    },
-    "destination": {
-      "en": "Festival Walk Public Transport Terminus",
-      "tc": "又一城公共交通總站",
-      "sc": "又一城公共交通总站"
-    }
-  },
-  "GMBKLN-73-outbound-1": {
-    "record_id": "GMBKLN-73-outbound-1",
+  "GMBKLN-73-2008916-1": {
+    "record_id": "GMBKLN-73-2008916-1",
     "company": "GMBKLN",
     "route_id": "2008916",
     "route": "73",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Festival Walk Public Transport Terminus",
       "tc": "又一城公共交通總站",
@@ -3311,13 +3311,13 @@
       "sc": "慈云山中心 (循环线)"
     }
   },
-  "GMBKLN-74-outbound-1": {
-    "record_id": "GMBKLN-74-outbound-1",
+  "GMBKLN-74-2011424-1": {
+    "record_id": "GMBKLN-74-2011424-1",
     "company": "GMBKLN",
     "route_id": "2011424",
     "route": "74",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Station",
       "tc": "九龍站",
@@ -3329,13 +3329,13 @@
       "sc": "旺角(联运街)(循环线) "
     }
   },
-  "GMBKLN-75-outbound-1": {
-    "record_id": "GMBKLN-75-outbound-1",
+  "GMBKLN-75-2003372-1": {
+    "record_id": "GMBKLN-75-2003372-1",
     "company": "GMBKLN",
     "route_id": "2003372",
     "route": "75",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sham Shui Po (Fu Cheong Estate)",
       "tc": "深水埗(富昌邨)",
@@ -3347,13 +3347,13 @@
       "sc": "长沙湾(青山道)(循环线)"
     }
   },
-  "GMBKLN-75A-outbound-1": {
-    "record_id": "GMBKLN-75A-outbound-1",
+  "GMBKLN-75A-2003373-1": {
+    "record_id": "GMBKLN-75A-2003373-1",
     "company": "GMBKLN",
     "route_id": "2003373",
     "route": "75A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sham Shui Po (Fu Cheong Estate)",
       "tc": "深水埗(富昌邨)",
@@ -3365,13 +3365,13 @@
       "sc": "桂林街(循环线)"
     }
   },
-  "GMBKLN-75X-outbound-1": {
-    "record_id": "GMBKLN-75X-outbound-1",
+  "GMBKLN-75X-2011391-1": {
+    "record_id": "GMBKLN-75X-2011391-1",
     "company": "GMBKLN",
     "route_id": "2011391",
     "route": "75X",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sham Shui Po (Fu Cheong Estate)",
       "tc": "深水埗(富昌邨)",
@@ -3383,13 +3383,13 @@
       "sc": "长沙湾(青山道)(循环线)"
     }
   },
-  "GMBKLN-76A-outbound-1": {
-    "record_id": "GMBKLN-76A-outbound-1",
+  "GMBKLN-76A-2006969-1": {
+    "record_id": "GMBKLN-76A-2006969-1",
     "company": "GMBKLN",
     "route_id": "2006969",
     "route": "76A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kwong Tin",
       "tc": "廣田",
@@ -3401,13 +3401,13 @@
       "sc": "基督教联合医院(循环线)"
     }
   },
-  "GMBKLN-76A-outbound-2": {
-    "record_id": "GMBKLN-76A-outbound-2",
+  "GMBKLN-76A-2010335-1": {
+    "record_id": "GMBKLN-76A-2010335-1",
     "company": "GMBKLN",
     "route_id": "2010335",
     "route": "76A",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kwong Tin",
       "tc": "廣田",
@@ -3419,31 +3419,13 @@
       "sc": "基督教联合医院(循环线)"
     }
   },
-  "GMBKLN-76B-inbound-1": {
-    "record_id": "GMBKLN-76B-inbound-1",
+  "GMBKLN-76B-2007002-1": {
+    "record_id": "GMBKLN-76B-2007002-1",
     "company": "GMBKLN",
     "route_id": "2007002",
     "route": "76B",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Yau Tong Public Transport Interchange",
-      "tc": "油塘公共運輸交匯處",
-      "sc": "油塘公共运输交汇处"
-    },
-    "destination": {
-      "en": "United Christian Hospital",
-      "tc": "基督教聯合醫院",
-      "sc": "基督教联合医院"
-    }
-  },
-  "GMBKLN-76B-outbound-1": {
-    "record_id": "GMBKLN-76B-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2007002",
-    "route": "76B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "United Christian Hospital",
       "tc": "基督教聯合醫院",
@@ -3455,13 +3437,31 @@
       "sc": "油塘公共运输交汇处"
     }
   },
-  "GMBKLN-77M-outbound-1": {
-    "record_id": "GMBKLN-77M-outbound-1",
+  "GMBKLN-76B-2007002-2": {
+    "record_id": "GMBKLN-76B-2007002-2",
+    "company": "GMBKLN",
+    "route_id": "2007002",
+    "route": "76B",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Yau Tong Public Transport Interchange",
+      "tc": "油塘公共運輸交匯處",
+      "sc": "油塘公共运输交汇处"
+    },
+    "destination": {
+      "en": "United Christian Hospital",
+      "tc": "基督教聯合醫院",
+      "sc": "基督教联合医院"
+    }
+  },
+  "GMBKLN-77M-2003339-1": {
+    "record_id": "GMBKLN-77M-2003339-1",
     "company": "GMBKLN",
     "route_id": "2003339",
     "route": "77M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kowloon Station",
       "tc": "九龍站",
@@ -3473,13 +3473,13 @@
       "sc": "尖东(循环线)"
     }
   },
-  "GMBKLN-78-outbound-1": {
-    "record_id": "GMBKLN-78-outbound-1",
+  "GMBKLN-78-2003438-1": {
+    "record_id": "GMBKLN-78-2003438-1",
     "company": "GMBKLN",
     "route_id": "2003438",
     "route": "78",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tai Kok Tsui(Island Harbourview) Public Transport Interchange",
       "tc": "大角咀(維港灣)公共運輸交匯處",
@@ -3491,13 +3491,13 @@
       "sc": "尖沙咀(北京道)(循环线)"
     }
   },
-  "GMBKLN-78A-outbound-1": {
-    "record_id": "GMBKLN-78A-outbound-1",
+  "GMBKLN-78A-2003471-1": {
+    "record_id": "GMBKLN-78A-2003471-1",
     "company": "GMBKLN",
     "route_id": "2003471",
     "route": "78A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tai Kok Tsui(Island Harbourview) Public Transport Interchange",
       "tc": "大角咀(維港灣)公共運輸交匯處",
@@ -3509,13 +3509,13 @@
       "sc": "尖沙咀(北京道)"
     }
   },
-  "GMBKLN-79K-outbound-1": {
-    "record_id": "GMBKLN-79K-outbound-1",
+  "GMBKLN-79K-2004725-1": {
+    "record_id": "GMBKLN-79K-2004725-1",
     "company": "GMBKLN",
     "route_id": "2004725",
     "route": "79K",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Mong Kok (Park Avenue)",
       "tc": "旺角(柏景灣)",
@@ -3527,31 +3527,13 @@
       "sc": "旺角东站(循环线)"
     }
   },
-  "GMBKLN-79M-inbound-1": {
-    "record_id": "GMBKLN-79M-inbound-1",
+  "GMBKLN-79M-2004759-1": {
+    "record_id": "GMBKLN-79M-2004759-1",
     "company": "GMBKLN",
     "route_id": "2004759",
     "route": "79M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Wong Tai Sin Station",
-      "tc": "黃大仙站",
-      "sc": "黄大仙站"
-    },
-    "destination": {
-      "en": "King Tung Street",
-      "tc": "瓊東街",
-      "sc": "琼东街"
-    }
-  },
-  "GMBKLN-79M-outbound-1": {
-    "record_id": "GMBKLN-79M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2004759",
-    "route": "79M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "King Tung Street",
       "tc": "瓊東街",
@@ -3563,13 +3545,31 @@
       "sc": "黄大仙站"
     }
   },
-  "GMBKLN-79S-outbound-1": {
-    "record_id": "GMBKLN-79S-outbound-1",
+  "GMBKLN-79M-2004759-2": {
+    "record_id": "GMBKLN-79M-2004759-2",
+    "company": "GMBKLN",
+    "route_id": "2004759",
+    "route": "79M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Wong Tai Sin Station",
+      "tc": "黃大仙站",
+      "sc": "黄大仙站"
+    },
+    "destination": {
+      "en": "King Tung Street",
+      "tc": "瓊東街",
+      "sc": "琼东街"
+    }
+  },
+  "GMBKLN-79S-2004760-1": {
+    "record_id": "GMBKLN-79S-2004760-1",
     "company": "GMBKLN",
     "route_id": "2004760",
     "route": "79S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "King Tung Street",
       "tc": "瓊東街",
@@ -3581,49 +3581,13 @@
       "sc": "龙翔道(钻石山站)(循环线)"
     }
   },
-  "GMBKLN-8-inbound-1": {
-    "record_id": "GMBKLN-8-inbound-1",
+  "GMBKLN-8-2006309-1": {
+    "record_id": "GMBKLN-8-2006309-1",
     "company": "GMBKLN",
     "route_id": "2006309",
     "route": "8",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ho Man Tin Estate",
-      "tc": "何文田邨",
-      "sc": "何文田邨"
-    },
-    "destination": {
-      "en": "Tsim Sha Tsui (Hankow Road)",
-      "tc": "尖沙咀(漢口道)",
-      "sc": "尖沙咀(汉口道)"
-    }
-  },
-  "GMBKLN-8-inbound-2": {
-    "record_id": "GMBKLN-8-inbound-2",
-    "company": "GMBKLN",
-    "route_id": "2006312",
-    "route": "8",
-    "bound": "inbound",
-    "service_type": "2",
-    "origin": {
-      "en": "Ho Man Tin (Chung Hau Street)",
-      "tc": "何文田(忠孝街)",
-      "sc": "何文田(忠孝街)"
-    },
-    "destination": {
-      "en": "Tsim Sha Tsui (Hankow Road)",
-      "tc": "尖沙咀(漢口道)",
-      "sc": "尖沙咀(汉口道)"
-    }
-  },
-  "GMBKLN-8-outbound-1": {
-    "record_id": "GMBKLN-8-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2006309",
-    "route": "8",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsim Sha Tsui (Hankow Road)",
       "tc": "尖沙咀(漢口道)",
@@ -3635,13 +3599,31 @@
       "sc": "何文田邨"
     }
   },
-  "GMBKLN-8-outbound-2": {
-    "record_id": "GMBKLN-8-outbound-2",
+  "GMBKLN-8-2006309-2": {
+    "record_id": "GMBKLN-8-2006309-2",
+    "company": "GMBKLN",
+    "route_id": "2006309",
+    "route": "8",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Ho Man Tin Estate",
+      "tc": "何文田邨",
+      "sc": "何文田邨"
+    },
+    "destination": {
+      "en": "Tsim Sha Tsui (Hankow Road)",
+      "tc": "尖沙咀(漢口道)",
+      "sc": "尖沙咀(汉口道)"
+    }
+  },
+  "GMBKLN-8-2006312-1": {
+    "record_id": "GMBKLN-8-2006312-1",
     "company": "GMBKLN",
     "route_id": "2006312",
     "route": "8",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsim Sha Tsui (Hankow Road)",
       "tc": "尖沙咀(漢口道)",
@@ -3653,13 +3635,31 @@
       "sc": "何文田(忠孝街)"
     }
   },
-  "GMBKLN-8-outbound-3": {
-    "record_id": "GMBKLN-8-outbound-3",
+  "GMBKLN-8-2006312-2": {
+    "record_id": "GMBKLN-8-2006312-2",
+    "company": "GMBKLN",
+    "route_id": "2006312",
+    "route": "8",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Ho Man Tin (Chung Hau Street)",
+      "tc": "何文田(忠孝街)",
+      "sc": "何文田(忠孝街)"
+    },
+    "destination": {
+      "en": "Tsim Sha Tsui (Hankow Road)",
+      "tc": "尖沙咀(漢口道)",
+      "sc": "尖沙咀(汉口道)"
+    }
+  },
+  "GMBKLN-8-2006314-1": {
+    "record_id": "GMBKLN-8-2006314-1",
     "company": "GMBKLN",
     "route_id": "2006314",
     "route": "8",
-    "bound": "outbound",
-    "service_type": "3",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsim Sha Tsui (Hankow Road)",
       "tc": "尖沙咀(漢口道)",
@@ -3671,13 +3671,13 @@
       "sc": "何文田邨"
     }
   },
-  "GMBKLN-80M-outbound-1": {
-    "record_id": "GMBKLN-80M-outbound-1",
+  "GMBKLN-80M-2001557-1": {
+    "record_id": "GMBKLN-80M-2001557-1",
     "company": "GMBKLN",
     "route_id": "2001557",
     "route": "80M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Parc Palais",
       "tc": "君頤峰",
@@ -3689,13 +3689,13 @@
       "sc": "佐敦站 (循环线)"
     }
   },
-  "GMBKLN-81K-outbound-1": {
-    "record_id": "GMBKLN-81K-outbound-1",
+  "GMBKLN-81K-2001755-1": {
+    "record_id": "GMBKLN-81K-2001755-1",
     "company": "GMBKLN",
     "route_id": "2001755",
     "route": "81K",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sham Shui Po (Hoi Lai Estate)",
       "tc": "深水埗海麗邨",
@@ -3707,31 +3707,13 @@
       "sc": "美孚站(循环线) "
     }
   },
-  "GMBKLN-82-inbound-1": {
-    "record_id": "GMBKLN-82-inbound-1",
+  "GMBKLN-82-2001558-1": {
+    "record_id": "GMBKLN-82-2001558-1",
     "company": "GMBKLN",
     "route_id": "2001558",
     "route": "82",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Kai Tak",
-      "tc": "啟德",
-      "sc": "启德"
-    },
-    "destination": {
-      "en": "Caritas Mother Teresa School",
-      "tc": "明愛樂恩學校",
-      "sc": "明爱乐恩学校"
-    }
-  },
-  "GMBKLN-82-outbound-1": {
-    "record_id": "GMBKLN-82-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2001558",
-    "route": "82",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Caritas Mother Teresa School",
       "tc": "明愛樂恩學校",
@@ -3743,13 +3725,31 @@
       "sc": "启德"
     }
   },
-  "GMBKLN-82-outbound-2": {
-    "record_id": "GMBKLN-82-outbound-2",
+  "GMBKLN-82-2001558-2": {
+    "record_id": "GMBKLN-82-2001558-2",
+    "company": "GMBKLN",
+    "route_id": "2001558",
+    "route": "82",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Kai Tak",
+      "tc": "啟德",
+      "sc": "启德"
+    },
+    "destination": {
+      "en": "Caritas Mother Teresa School",
+      "tc": "明愛樂恩學校",
+      "sc": "明爱乐恩学校"
+    }
+  },
+  "GMBKLN-82-2010038-1": {
+    "record_id": "GMBKLN-82-2010038-1",
     "company": "GMBKLN",
     "route_id": "2010038",
     "route": "82",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Choi Hing Court",
       "tc": "彩興苑",
@@ -3761,31 +3761,13 @@
       "sc": "坪石公共运输交汇处一楼"
     }
   },
-  "GMBKLN-83A-inbound-1": {
-    "record_id": "GMBKLN-83A-inbound-1",
+  "GMBKLN-83A-2008818-1": {
+    "record_id": "GMBKLN-83A-2008818-1",
     "company": "GMBKLN",
     "route_id": "2008818",
     "route": "83A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ping Shek",
-      "tc": "坪石",
-      "sc": "坪石"
-    },
-    "destination": {
-      "en": "Choi Fook Estate",
-      "tc": "彩福邨",
-      "sc": "彩福邨"
-    }
-  },
-  "GMBKLN-83A-outbound-1": {
-    "record_id": "GMBKLN-83A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008818",
-    "route": "83A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Choi Fook Estate",
       "tc": "彩福邨",
@@ -3797,13 +3779,49 @@
       "sc": "坪石"
     }
   },
-  "GMBKLN-83B-inbound-1": {
-    "record_id": "GMBKLN-83B-inbound-1",
+  "GMBKLN-83A-2008818-2": {
+    "record_id": "GMBKLN-83A-2008818-2",
+    "company": "GMBKLN",
+    "route_id": "2008818",
+    "route": "83A",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Ping Shek",
+      "tc": "坪石",
+      "sc": "坪石"
+    },
+    "destination": {
+      "en": "Choi Fook Estate",
+      "tc": "彩福邨",
+      "sc": "彩福邨"
+    }
+  },
+  "GMBKLN-83B-2010962-1": {
+    "record_id": "GMBKLN-83B-2010962-1",
     "company": "GMBKLN",
     "route_id": "2010962",
     "route": "83B",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Choi Hing Road Light Public Housing",
+      "tc": "彩興路簡約公屋",
+      "sc": "彩兴路简约公屋"
+    },
+    "destination": {
+      "en": "Ping Shek",
+      "tc": "坪石",
+      "sc": "坪石"
+    }
+  },
+  "GMBKLN-83B-2010962-2": {
+    "record_id": "GMBKLN-83B-2010962-2",
+    "company": "GMBKLN",
+    "route_id": "2010962",
+    "route": "83B",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Ping Shek",
       "tc": "坪石",
@@ -3815,49 +3833,13 @@
       "sc": "彩兴路简约公屋"
     }
   },
-  "GMBKLN-83B-outbound-1": {
-    "record_id": "GMBKLN-83B-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2010962",
-    "route": "83B",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Choi Hing Road Light Public Housing",
-      "tc": "彩興路簡約公屋",
-      "sc": "彩兴路简约公屋"
-    },
-    "destination": {
-      "en": "Ping Shek",
-      "tc": "坪石",
-      "sc": "坪石"
-    }
-  },
-  "GMBKLN-83M-inbound-1": {
-    "record_id": "GMBKLN-83M-inbound-1",
+  "GMBKLN-83M-2008817-1": {
+    "record_id": "GMBKLN-83M-2008817-1",
     "company": "GMBKLN",
     "route_id": "2008817",
     "route": "83M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ping Shek",
-      "tc": "坪石",
-      "sc": "坪石"
-    },
-    "destination": {
-      "en": "Ngau Tau Kok (On Wah Street)",
-      "tc": "牛頭角(安華街)",
-      "sc": "牛头角(安华街)"
-    }
-  },
-  "GMBKLN-83M-outbound-1": {
-    "record_id": "GMBKLN-83M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008817",
-    "route": "83M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Ngau Tau Kok (On Wah Street)",
       "tc": "牛頭角(安華街)",
@@ -3869,13 +3851,31 @@
       "sc": "坪石"
     }
   },
-  "GMBKLN-86-outbound-1": {
-    "record_id": "GMBKLN-86-outbound-1",
+  "GMBKLN-83M-2008817-2": {
+    "record_id": "GMBKLN-83M-2008817-2",
+    "company": "GMBKLN",
+    "route_id": "2008817",
+    "route": "83M",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Ping Shek",
+      "tc": "坪石",
+      "sc": "坪石"
+    },
+    "destination": {
+      "en": "Ngau Tau Kok (On Wah Street)",
+      "tc": "牛頭角(安華街)",
+      "sc": "牛头角(安华街)"
+    }
+  },
+  "GMBKLN-86-2005319-1": {
+    "record_id": "GMBKLN-86-2005319-1",
     "company": "GMBKLN",
     "route_id": "2005319",
     "route": "86",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Cruise Terminal",
       "tc": "郵輪碼頭",
@@ -3887,13 +3887,13 @@
       "sc": "九龙湾(德福花园)(循环线)"
     }
   },
-  "GMBKLN-87-outbound-1": {
-    "record_id": "GMBKLN-87-outbound-1",
+  "GMBKLN-87-2008520-1": {
+    "record_id": "GMBKLN-87-2008520-1",
     "company": "GMBKLN",
     "route_id": "2008520",
     "route": "87",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Lei Yue Mun Estate",
       "tc": "鯉魚門邨",
@@ -3905,13 +3905,13 @@
       "sc": "九龙湾(启仁街)(循环线)"
     }
   },
-  "GMBKLN-88-outbound-1": {
-    "record_id": "GMBKLN-88-outbound-1",
+  "GMBKLN-88-2004428-1": {
+    "record_id": "GMBKLN-88-2004428-1",
     "company": "GMBKLN",
     "route_id": "2004428",
     "route": "88",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kai Ching Estate (Kai Tak)",
       "tc": "啟晴邨(啟德)",
@@ -3923,13 +3923,13 @@
       "sc": "黄大仙站(循环线)"
     }
   },
-  "GMBKLN-88A-outbound-1": {
-    "record_id": "GMBKLN-88A-outbound-1",
+  "GMBKLN-88A-2010797-1": {
+    "record_id": "GMBKLN-88A-2010797-1",
     "company": "GMBKLN",
     "route_id": "2010797",
     "route": "88A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Wong Tai Sin Station",
       "tc": "黃大仙站",
@@ -3941,13 +3941,13 @@
       "sc": "香港儿童医院(循环线)"
     }
   },
-  "GMBKLN-88A-outbound-2": {
-    "record_id": "GMBKLN-88A-outbound-2",
+  "GMBKLN-88A-2010798-1": {
+    "record_id": "GMBKLN-88A-2010798-1",
     "company": "GMBKLN",
     "route_id": "2010798",
     "route": "88A",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Kai Ching Estate",
       "tc": "啟晴邨",
@@ -3959,31 +3959,13 @@
       "sc": "香港儿童医院(循环线)"
     }
   },
-  "GMBKLN-89A-inbound-1": {
-    "record_id": "GMBKLN-89A-inbound-1",
+  "GMBKLN-89A-2001031-1": {
+    "record_id": "GMBKLN-89A-2001031-1",
     "company": "GMBKLN",
     "route_id": "2001031",
     "route": "89A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ngau Tau Kok Bus Terminus",
-      "tc": "牛頭角總站",
-      "sc": "牛头角总站"
-    },
-    "destination": {
-      "en": "On Tai Estate",
-      "tc": "安泰邨",
-      "sc": "安泰邨"
-    }
-  },
-  "GMBKLN-89A-outbound-1": {
-    "record_id": "GMBKLN-89A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2001031",
-    "route": "89A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "On Tai Estate",
       "tc": "安泰邨",
@@ -3995,17 +3977,17 @@
       "sc": "牛头角总站"
     }
   },
-  "GMBKLN-89B-inbound-1": {
-    "record_id": "GMBKLN-89B-inbound-1",
+  "GMBKLN-89A-2001031-2": {
+    "record_id": "GMBKLN-89A-2001031-2",
     "company": "GMBKLN",
-    "route_id": "2000974",
-    "route": "89B",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "2001031",
+    "route": "89A",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
-      "en": "Kowloon Bay (Zero Carbon Building)",
-      "tc": "九龍灣（零碳天地）",
-      "sc": "九龙湾（零碳天地）"
+      "en": "Ngau Tau Kok Bus Terminus",
+      "tc": "牛頭角總站",
+      "sc": "牛头角总站"
     },
     "destination": {
       "en": "On Tai Estate",
@@ -4013,13 +3995,13 @@
       "sc": "安泰邨"
     }
   },
-  "GMBKLN-89B-outbound-1": {
-    "record_id": "GMBKLN-89B-outbound-1",
+  "GMBKLN-89B-2000974-1": {
+    "record_id": "GMBKLN-89B-2000974-1",
     "company": "GMBKLN",
     "route_id": "2000974",
     "route": "89B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "On Tai Estate",
       "tc": "安泰邨",
@@ -4031,67 +4013,67 @@
       "sc": "九龙湾（零碳天地）"
     }
   },
-  "GMBKLN-89C-inbound-1": {
-    "record_id": "GMBKLN-89C-inbound-1",
+  "GMBKLN-89B-2000974-2": {
+    "record_id": "GMBKLN-89B-2000974-2",
+    "company": "GMBKLN",
+    "route_id": "2000974",
+    "route": "89B",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Kowloon Bay (Zero Carbon Building)",
+      "tc": "九龍灣（零碳天地）",
+      "sc": "九龙湾（零碳天地）"
+    },
+    "destination": {
+      "en": "On Tai Estate",
+      "tc": "安泰邨",
+      "sc": "安泰邨"
+    }
+  },
+  "GMBKLN-89C-2001033-1": {
+    "record_id": "GMBKLN-89C-2001033-1",
     "company": "GMBKLN",
     "route_id": "2001033",
     "route": "89C",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
-      "en": "Ngau Tau Kok Bus Terminus",
-      "tc": "牛頭角總站",
-      "sc": "牛头角总站"
-    },
-    "destination": {
       "en": "On Tat Estate",
       "tc": "安達邨",
       "sc": "安达邨"
-    }
-  },
-  "GMBKLN-89C-inbound-2": {
-    "record_id": "GMBKLN-89C-inbound-2",
-    "company": "GMBKLN",
-    "route_id": "2001035",
-    "route": "89C",
-    "bound": "inbound",
-    "service_type": "2",
-    "origin": {
+    },
+    "destination": {
       "en": "Ngau Tau Kok Bus Terminus",
       "tc": "牛頭角總站",
       "sc": "牛头角总站"
-    },
-    "destination": {
-      "en": "On Tat Estate",
-      "tc": "安達邨",
-      "sc": "安达邨"
     }
   },
-  "GMBKLN-89C-outbound-1": {
-    "record_id": "GMBKLN-89C-outbound-1",
+  "GMBKLN-89C-2001033-2": {
+    "record_id": "GMBKLN-89C-2001033-2",
     "company": "GMBKLN",
     "route_id": "2001033",
     "route": "89C",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
-      "en": "On Tat Estate",
-      "tc": "安達邨",
-      "sc": "安达邨"
-    },
-    "destination": {
       "en": "Ngau Tau Kok Bus Terminus",
       "tc": "牛頭角總站",
       "sc": "牛头角总站"
+    },
+    "destination": {
+      "en": "On Tat Estate",
+      "tc": "安達邨",
+      "sc": "安达邨"
     }
   },
-  "GMBKLN-89C-outbound-2": {
-    "record_id": "GMBKLN-89C-outbound-2",
+  "GMBKLN-89C-2001035-1": {
+    "record_id": "GMBKLN-89C-2001035-1",
     "company": "GMBKLN",
     "route_id": "2001035",
     "route": "89C",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "On Tat Estate",
       "tc": "安達邨",
@@ -4103,13 +4085,49 @@
       "sc": "牛头角总站"
     }
   },
-  "GMBKLN-8M-inbound-1": {
-    "record_id": "GMBKLN-8M-inbound-1",
+  "GMBKLN-89C-2001035-2": {
+    "record_id": "GMBKLN-89C-2001035-2",
+    "company": "GMBKLN",
+    "route_id": "2001035",
+    "route": "89C",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Ngau Tau Kok Bus Terminus",
+      "tc": "牛頭角總站",
+      "sc": "牛头角总站"
+    },
+    "destination": {
+      "en": "On Tat Estate",
+      "tc": "安達邨",
+      "sc": "安达邨"
+    }
+  },
+  "GMBKLN-8M-2006318-1": {
+    "record_id": "GMBKLN-8M-2006318-1",
     "company": "GMBKLN",
     "route_id": "2006318",
     "route": "8M",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Ho Man Tin (Sheung Wo Street)",
+      "tc": "何文田(常和街)",
+      "sc": "何文田(常和街)"
+    },
+    "destination": {
+      "en": "Ho Man Tin Station",
+      "tc": "何文田站",
+      "sc": "何文田站"
+    }
+  },
+  "GMBKLN-8M-2006318-2": {
+    "record_id": "GMBKLN-8M-2006318-2",
+    "company": "GMBKLN",
+    "route_id": "2006318",
+    "route": "8M",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Ho Man Tin Station",
       "tc": "何文田站",
@@ -4121,49 +4139,13 @@
       "sc": "何文田(常和街)"
     }
   },
-  "GMBKLN-8M-outbound-1": {
-    "record_id": "GMBKLN-8M-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2006318",
-    "route": "8M",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ho Man Tin (Sheung Wo Street)",
-      "tc": "何文田(常和街)",
-      "sc": "何文田(常和街)"
-    },
-    "destination": {
-      "en": "Ho Man Tin Station",
-      "tc": "何文田站",
-      "sc": "何文田站"
-    }
-  },
-  "GMBKLN-8S-inbound-1": {
-    "record_id": "GMBKLN-8S-inbound-1",
+  "GMBKLN-8S-2006315-1": {
+    "record_id": "GMBKLN-8S-2006315-1",
     "company": "GMBKLN",
     "route_id": "2006315",
     "route": "8S",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ho Man Tin (Sheung Foo Street)",
-      "tc": "何文田(常富街)",
-      "sc": "何文田(常富街)"
-    },
-    "destination": {
-      "en": "Tsim Sha Tsui (Hankow Road)",
-      "tc": "尖沙咀(漢口道)",
-      "sc": "何尖沙咀(汉口道)"
-    }
-  },
-  "GMBKLN-8S-outbound-1": {
-    "record_id": "GMBKLN-8S-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2006315",
-    "route": "8S",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsim Sha Tsui (Hankow Road)",
       "tc": "尖沙咀(漢口道)",
@@ -4175,13 +4157,31 @@
       "sc": "何文田(常富街)"
     }
   },
-  "GMBKLN-8S-outbound-2": {
-    "record_id": "GMBKLN-8S-outbound-2",
+  "GMBKLN-8S-2006315-2": {
+    "record_id": "GMBKLN-8S-2006315-2",
+    "company": "GMBKLN",
+    "route_id": "2006315",
+    "route": "8S",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Ho Man Tin (Sheung Foo Street)",
+      "tc": "何文田(常富街)",
+      "sc": "何文田(常富街)"
+    },
+    "destination": {
+      "en": "Tsim Sha Tsui (Hankow Road)",
+      "tc": "尖沙咀(漢口道)",
+      "sc": "何尖沙咀(汉口道)"
+    }
+  },
+  "GMBKLN-8S-2006317-1": {
+    "record_id": "GMBKLN-8S-2006317-1",
     "company": "GMBKLN",
     "route_id": "2006317",
     "route": "8S",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Tsim Sha Tsui (Hankow Road)",
       "tc": "尖沙咀(漢口道)",
@@ -4193,31 +4193,13 @@
       "sc": "何文田(常富街)"
     }
   },
-  "GMBKLN-90A-inbound-1": {
-    "record_id": "GMBKLN-90A-inbound-1",
+  "GMBKLN-90A-2008586-1": {
+    "record_id": "GMBKLN-90A-2008586-1",
     "company": "GMBKLN",
     "route_id": "2008586",
     "route": "90A",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hong Kong Children's Hospital",
-      "tc": "香港兒童醫院",
-      "sc": "香港儿童医院"
-    },
-    "destination": {
-      "en": "Yau Tong (Yau Lai Estate)",
-      "tc": "油塘 (油麗邨)",
-      "sc": "油塘 (油丽邨)"
-    }
-  },
-  "GMBKLN-90A-outbound-1": {
-    "record_id": "GMBKLN-90A-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008586",
-    "route": "90A",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Yau Tong (Yau Lai Estate)",
       "tc": "油塘 (油麗邨)",
@@ -4229,13 +4211,31 @@
       "sc": "香港儿童医院"
     }
   },
-  "GMBKLN-90A-outbound-2": {
-    "record_id": "GMBKLN-90A-outbound-2",
+  "GMBKLN-90A-2008586-2": {
+    "record_id": "GMBKLN-90A-2008586-2",
+    "company": "GMBKLN",
+    "route_id": "2008586",
+    "route": "90A",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Hong Kong Children's Hospital",
+      "tc": "香港兒童醫院",
+      "sc": "香港儿童医院"
+    },
+    "destination": {
+      "en": "Yau Tong (Yau Lai Estate)",
+      "tc": "油塘 (油麗邨)",
+      "sc": "油塘 (油丽邨)"
+    }
+  },
+  "GMBKLN-90A-2008590-1": {
+    "record_id": "GMBKLN-90A-2008590-1",
     "company": "GMBKLN",
     "route_id": "2008590",
     "route": "90A",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Hong Kong Children's Hospital",
       "tc": "香港兒童醫院",
@@ -4247,31 +4247,13 @@
       "sc": "油塘 (油丽邨) 经高超道及鲤鱼门道"
     }
   },
-  "GMBKLN-90B-inbound-1": {
-    "record_id": "GMBKLN-90B-inbound-1",
+  "GMBKLN-90B-2008592-1": {
+    "record_id": "GMBKLN-90B-2008592-1",
     "company": "GMBKLN",
     "route_id": "2008592",
     "route": "90B",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hong Kong Children's Hospital",
-      "tc": "香港兒童醫院",
-      "sc": "香港儿童医院"
-    },
-    "destination": {
-      "en": "Sau Mau Ping",
-      "tc": "秀茂坪",
-      "sc": "秀茂坪"
-    }
-  },
-  "GMBKLN-90B-outbound-1": {
-    "record_id": "GMBKLN-90B-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2008592",
-    "route": "90B",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sau Mau Ping",
       "tc": "秀茂坪",
@@ -4283,13 +4265,49 @@
       "sc": "香港儿童医院"
     }
   },
-  "GMBKLN-91-inbound-1": {
-    "record_id": "GMBKLN-91-inbound-1",
+  "GMBKLN-90B-2008592-2": {
+    "record_id": "GMBKLN-90B-2008592-2",
+    "company": "GMBKLN",
+    "route_id": "2008592",
+    "route": "90B",
+    "route_seq": 2,
+    "region": "KLN",
+    "origin": {
+      "en": "Hong Kong Children's Hospital",
+      "tc": "香港兒童醫院",
+      "sc": "香港儿童医院"
+    },
+    "destination": {
+      "en": "Sau Mau Ping",
+      "tc": "秀茂坪",
+      "sc": "秀茂坪"
+    }
+  },
+  "GMBKLN-91-2010698-1": {
+    "record_id": "GMBKLN-91-2010698-1",
     "company": "GMBKLN",
     "route_id": "2010698",
     "route": "91",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Sau Mau Ping (Hiu Kwong Street)",
+      "tc": "秀茂坪(曉光街)",
+      "sc": "秀茂坪(晓光街)"
+    },
+    "destination": {
+      "en": "Jordan (Pak Hoi Street)",
+      "tc": "佐敦(北海街)",
+      "sc": "佐敦(北海街)"
+    }
+  },
+  "GMBKLN-91-2010698-2": {
+    "record_id": "GMBKLN-91-2010698-2",
+    "company": "GMBKLN",
+    "route_id": "2010698",
+    "route": "91",
+    "route_seq": 2,
+    "region": "KLN",
     "origin": {
       "en": "Jordan (Pak Hoi Street)",
       "tc": "佐敦(北海街)",
@@ -4301,31 +4319,13 @@
       "sc": "秀茂坪(晓光街)"
     }
   },
-  "GMBKLN-91-outbound-1": {
-    "record_id": "GMBKLN-91-outbound-1",
-    "company": "GMBKLN",
-    "route_id": "2010698",
-    "route": "91",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Sau Mau Ping (Hiu Kwong Street)",
-      "tc": "秀茂坪(曉光街)",
-      "sc": "秀茂坪(晓光街)"
-    },
-    "destination": {
-      "en": "Jordan (Pak Hoi Street)",
-      "tc": "佐敦(北海街)",
-      "sc": "佐敦(北海街)"
-    }
-  },
-  "GMBKLN-91-outbound-2": {
-    "record_id": "GMBKLN-91-outbound-2",
+  "GMBKLN-91-2010731-1": {
+    "record_id": "GMBKLN-91-2010731-1",
     "company": "GMBKLN",
     "route_id": "2010731",
     "route": "91",
-    "bound": "outbound",
-    "service_type": "2",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Sau Mau Ping (Hiu Kwong Street)",
       "tc": "秀茂坪(曉光街)",
@@ -4337,13 +4337,13 @@
       "sc": "佐敦(南京街)"
     }
   },
-  "GMBKLN-91-outbound-3": {
-    "record_id": "GMBKLN-91-outbound-3",
+  "GMBKLN-91-2010764-1": {
+    "record_id": "GMBKLN-91-2010764-1",
     "company": "GMBKLN",
     "route_id": "2010764",
     "route": "91",
-    "bound": "outbound",
-    "service_type": "3",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Jordan (Pak Hoi Street)",
       "tc": "佐敦(北海街)",
@@ -4355,13 +4355,13 @@
       "sc": "秀茂坪(晓光街)(循环线)"
     }
   },
-  "GMBKLN-9M-outbound-1": {
-    "record_id": "GMBKLN-9M-outbound-1",
+  "GMBKLN-9M-2004362-1": {
+    "record_id": "GMBKLN-9M-2004362-1",
     "company": "GMBKLN",
     "route_id": "2004362",
     "route": "9M",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "Upper Pak Tin Estate",
       "tc": "白田上邨",
@@ -4373,13 +4373,13 @@
       "sc": "石硖尾站(循环线)"
     }
   },
-  "GMBKLN-CX1-outbound-1": {
-    "record_id": "GMBKLN-CX1-outbound-1",
+  "GMBKLN-CX1-2009642-1": {
+    "record_id": "GMBKLN-CX1-2009642-1",
     "company": "GMBKLN",
     "route_id": "2009642",
     "route": "CX1",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_seq": 1,
+    "region": "KLN",
     "origin": {
       "en": "AUSTIN STATION ",
       "tc": "柯士甸站",

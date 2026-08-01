@@ -1,14 +1,27 @@
-import {
-  Bound,
-  Company,
-  compositeId,
-  type RouteOutput,
-  type RouteStopsOutput,
-} from "../../types.js";
+import { Company, type Localized, type StopOutput } from "../../types.js";
 import type { KmbBound, KmbRoute, KmbRouteStop, KmbStop } from "./api.js";
 
-function toBound(b: KmbBound): Bound {
-  return b === "O" ? Bound.Outbound : Bound.Inbound;
+export type KmbRouteOutput = {
+  record_id: string;
+  company: Company;
+  route: string;
+  bound: KmbBound;
+  service_type: string;
+  origin: Localized;
+  destination: Localized;
+};
+
+export type KmbRouteStopsOutput = {
+  record_id: string;
+  company: Company;
+  route: string;
+  bound: KmbBound;
+  service_type: string;
+  stops: StopOutput[];
+};
+
+function kmbCompositeId(route: string, bound: KmbBound, service_type: string): string {
+  return `${Company.KMB}-${route}-${bound}-${service_type}`;
 }
 
 function isBlank(v: unknown): boolean {
@@ -34,22 +47,20 @@ const ROUTE_FIELDS = [
 
 const ROUTE_STOP_FIELDS = ["route", "bound", "service_type", "seq", "stop"] as const;
 
-export function transformRoutes(routes: KmbRoute[]): RouteOutput[] {
+export function transformRoutes(routes: KmbRoute[]): KmbRouteOutput[] {
   let skipped = 0;
-  const out: RouteOutput[] = [];
+  const out: KmbRouteOutput[] = [];
   for (const r of routes) {
     if (!hasAllFields(r, ROUTE_FIELDS)) {
       skipped++;
       continue;
     }
-    const bound = toBound(r.bound);
-    const id = compositeId(Company.KMB, r.route, bound, r.service_type);
+    const id = kmbCompositeId(r.route, r.bound, r.service_type);
     out.push({
       record_id: id,
       company: Company.KMB,
-      route_id: r.route,
       route: r.route,
-      bound,
+      bound: r.bound,
       service_type: r.service_type,
       origin: { en: r.orig_en, tc: r.orig_tc, sc: r.orig_sc },
       destination: { en: r.dest_en, tc: r.dest_tc, sc: r.dest_sc },
@@ -62,9 +73,9 @@ export function transformRoutes(routes: KmbRoute[]): RouteOutput[] {
 export function transformRouteStops(
   routeStops: KmbRouteStop[],
   stops: KmbStop[],
-): RouteStopsOutput[] {
+): KmbRouteStopsOutput[] {
   const stopById = new Map(stops.map((s) => [s.stop, s]));
-  const groups = new Map<string, RouteStopsOutput>();
+  const groups = new Map<string, KmbRouteStopsOutput>();
   let skipped = 0;
 
   for (const rs of routeStops) {
@@ -72,16 +83,14 @@ export function transformRouteStops(
       skipped++;
       continue;
     }
-    const bound = toBound(rs.bound);
-    const id = compositeId(Company.KMB, rs.route, bound, rs.service_type);
+    const id = kmbCompositeId(rs.route, rs.bound, rs.service_type);
     let group = groups.get(id);
     if (!group) {
       group = {
         record_id: id,
         company: Company.KMB,
-        route_id: rs.route,
         route: rs.route,
-        bound,
+        bound: rs.bound,
         service_type: rs.service_type,
         stops: [],
       };

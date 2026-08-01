@@ -1,11 +1,4 @@
-import {
-  Bound,
-  Company,
-  compositeId,
-  type RouteOutput,
-  type RouteStopsOutput,
-  type StopOutput,
-} from "../../types.js";
+import { Company, type Localized, type StopOutput } from "../../types.js";
 import type { GmbRegion, GmbRouteInfo, GmbRouteStop, GmbStop, RouteStopGroup } from "./api.js";
 
 export function regionToCompany(region: GmbRegion): Company {
@@ -19,10 +12,34 @@ export function regionToCompany(region: GmbRegion): Company {
   }
 }
 
-function routeSeqToBound(seq: number): Bound | null {
-  if (seq === 1) return Bound.Outbound;
-  if (seq === 2) return Bound.Inbound;
-  return null;
+export type GmbRouteOutput = {
+  record_id: string;
+  company: Company;
+  route_id: string;
+  route: string;
+  route_seq: number;
+  region: GmbRegion;
+  origin: Localized;
+  destination: Localized;
+};
+
+export type GmbRouteStopsOutput = {
+  record_id: string;
+  company: Company;
+  route_id: string;
+  route: string;
+  route_seq: number;
+  region: GmbRegion;
+  stops: StopOutput[];
+};
+
+function gmbCompositeId(
+  company: Company,
+  route: string,
+  route_id: string | number,
+  route_seq: number,
+): string {
+  return `${company}-${route}-${route_id}-${route_seq}`;
 }
 
 function isBlank(v: unknown): boolean {
@@ -50,36 +67,30 @@ export function transformRoutes(
   region: GmbRegion,
   variants: VariantIndex[],
   routeStopGroups: RouteStopGroup[],
-): RouteOutput[] {
+): GmbRouteOutput[] {
   const company = regionToCompany(region);
   const nonEmpty = new Set<string>();
   for (const g of routeStopGroups) {
     if (g.stops.length > 0) nonEmpty.add(`${g.route_id}|${g.route_seq}`);
   }
 
-  const out: RouteOutput[] = [];
+  const out: GmbRouteOutput[] = [];
   let skippedNoStops = 0;
-  let skippedOddSeq = 0;
 
   for (const v of variants) {
-    const service_type = String(v.variant_index);
     for (const dir of v.info.directions) {
-      const bound = routeSeqToBound(dir.route_seq);
-      if (!bound) {
-        skippedOddSeq++;
-        continue;
-      }
       if (!nonEmpty.has(`${v.route_id}|${dir.route_seq}`)) {
         skippedNoStops++;
         continue;
       }
+      const route_id = String(v.route_id);
       out.push({
-        record_id: compositeId(company, v.route_code, bound, service_type),
+        record_id: gmbCompositeId(company, v.route_code, route_id, dir.route_seq),
         company,
-        route_id: String(v.route_id),
+        route_id,
         route: v.route_code,
-        bound,
-        service_type,
+        route_seq: dir.route_seq,
+        region,
         origin: { en: dir.orig_en, tc: dir.orig_tc, sc: dir.orig_sc },
         destination: { en: dir.dest_en, tc: dir.dest_tc, sc: dir.dest_sc },
       });
@@ -89,8 +100,6 @@ export function transformRoutes(
   const tag = `gmb-${region.toLowerCase()}`;
   if (skippedNoStops > 0)
     console.warn(`[${tag}] skipped ${skippedNoStops} direction(s) with no stops`);
-  if (skippedOddSeq > 0)
-    console.warn(`[${tag}] skipped ${skippedOddSeq} direction(s) with unsupported route_seq (>2)`);
   return out.sort((a, b) => a.record_id.localeCompare(b.record_id));
 }
 
@@ -108,21 +117,15 @@ export function transformRouteStops(
   region: GmbRegion,
   routeStopGroups: RouteStopGroup[],
   stopsById: Map<number, GmbStop>,
-): RouteStopsOutput[] {
+): GmbRouteStopsOutput[] {
   const company = regionToCompany(region);
-  const out: RouteStopsOutput[] = [];
-  let skippedOddSeq = 0;
+  const out: GmbRouteStopsOutput[] = [];
   let skippedMissingFields = 0;
 
   for (const g of routeStopGroups) {
     if (g.stops.length === 0) continue;
-    const bound = routeSeqToBound(g.route_seq);
-    if (!bound) {
-      skippedOddSeq++;
-      continue;
-    }
-    const service_type = String(g.variant_index);
-    const record_id = compositeId(company, g.route_code, bound, service_type);
+    const route_id = String(g.route_id);
+    const record_id = gmbCompositeId(company, g.route_code, route_id, g.route_seq);
     const stops: StopOutput[] = [];
 
     for (const rs of g.stops) {
@@ -145,17 +148,15 @@ export function transformRouteStops(
     out.push({
       record_id,
       company,
-      route_id: String(g.route_id),
+      route_id,
       route: g.route_code,
-      bound,
-      service_type,
+      route_seq: g.route_seq,
+      region,
       stops,
     });
   }
 
   const tag = `gmb-${region.toLowerCase()}`;
-  if (skippedOddSeq > 0)
-    console.warn(`[${tag}] skipped ${skippedOddSeq} group(s) with unsupported route_seq`);
   if (skippedMissingFields > 0)
     console.warn(`[${tag}] skipped ${skippedMissingFields} route-stop(s) with missing fields`);
   return out.sort((a, b) => a.record_id.localeCompare(b.record_id));

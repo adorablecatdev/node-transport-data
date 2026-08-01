@@ -1,4 +1,4 @@
-import { run as runCitybus } from "./companies/citybus/index.js";
+import { run as runCtb } from "./companies/ctb/index.js";
 import { runHKI as runGmbHKI, runKLN as runGmbKLN, runNT as runGmbNT } from "./companies/gmb/index.js";
 import { run as runKmb } from "./companies/kmb/index.js";
 import { run as runKmbCtb } from "./companies/kmbctb/index.js";
@@ -14,7 +14,7 @@ type RunOptions = { fresh?: boolean; test?: boolean };
 
 const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   kmb: () => runKmb(),
-  citybus: (options) => runCitybus(options),
+  ctb: (options) => runCtb(options),
   kmbctb: () => runKmbCtb(),
   mtrbus: () => runMtrbus(),
   mtr: () => runMtr(),

@@ -1,17 +1,18 @@
 import { readJsonIfExists, writeJson } from "../../lib/io.js";
-import type { RouteOutput, RouteStopsOutput } from "../../types.js";
+import type { CtbRouteOutput, CtbRouteStopsOutput } from "../ctb/transform.js";
+import type { KmbRouteOutput, KmbRouteStopsOutput } from "../kmb/transform.js";
 import { transformKmbCtb } from "./transform.js";
 
 const KMB_DIR = "out/kmb";
-const CTB_DIR = "out/citybus";
+const CTB_DIR = "out/ctb";
 const OUT_DIR = "out/kmbctb";
 
-async function loadCompany(dir: string): Promise<{
-  routes: Record<string, RouteOutput>;
-  routeStops: Record<string, RouteStopsOutput>;
+async function loadCompany<TR, TS>(dir: string): Promise<{
+  routes: Record<string, TR>;
+  routeStops: Record<string, TS>;
 } | null> {
-  const routes = await readJsonIfExists<Record<string, RouteOutput>>(`${dir}/routes.json`);
-  const routeStops = await readJsonIfExists<Record<string, RouteStopsOutput>>(
+  const routes = await readJsonIfExists<Record<string, TR>>(`${dir}/routes.json`);
+  const routeStops = await readJsonIfExists<Record<string, TS>>(
     `${dir}/route-stops.json`,
   );
   if (!routes || !routeStops) return null;
@@ -19,12 +20,15 @@ async function loadCompany(dir: string): Promise<{
 }
 
 export async function run(): Promise<void> {
-  console.log("[kmbctb] loading kmb + citybus outputs");
-  const [kmb, ctb] = await Promise.all([loadCompany(KMB_DIR), loadCompany(CTB_DIR)]);
+  console.log("[kmbctb] loading kmb + ctb outputs");
+  const [kmb, ctb] = await Promise.all([
+    loadCompany<KmbRouteOutput, KmbRouteStopsOutput>(KMB_DIR),
+    loadCompany<CtbRouteOutput, CtbRouteStopsOutput>(CTB_DIR),
+  ]);
 
   if (!kmb || !ctb) {
     throw new Error(
-      `[kmbctb] missing prerequisite outputs — run kmb and citybus first (need ${KMB_DIR}/*.json and ${CTB_DIR}/*.json)`,
+      `[kmbctb] missing prerequisite outputs — run kmb and ctb first (need ${KMB_DIR}/*.json and ${CTB_DIR}/*.json)`,
     );
   }
 
