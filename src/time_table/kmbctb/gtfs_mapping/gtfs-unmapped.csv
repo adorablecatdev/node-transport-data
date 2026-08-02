@@ -1,0 +1,4 @@
+route_id,route_short_name,gtfs_from,gtfs_to,matched_key,kmbctb_origin_tc,kmbctb_destination_tc,orientation,sim_from,sim_to,avg,reason
+8124,914P,海麗邨,銅鑼灣(天后),,,,,,,,no-candidate
+1000355,690S,坑口,中環 (交易廣場)(經日出康城),,,,,,,,no-candidate
+1000562,907D,大埔 (汀太路),小西灣運動場,,,,,,,,no-candidate

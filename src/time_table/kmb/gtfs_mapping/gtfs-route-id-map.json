@@ -1,0 +1,4322 @@
+{
+  "1001": {
+    "record_id": "KMB-1-O-1",
+    "origin": "竹園邨",
+    "destination": "尖沙咀碼頭"
+  },
+  "1002": {
+    "record_id": "KMB-10-O-1",
+    "origin": "彩雲",
+    "destination": "大角咀(循環線)"
+  },
+  "1014": {
+    "record_id": "KMB-108-O-1",
+    "origin": "啟業",
+    "destination": "寶馬山"
+  },
+  "1016": {
+    "record_id": "KMB-11-O-1",
+    "origin": "鑽石山站",
+    "destination": "九龍站"
+  },
+  "1027": {
+    "record_id": "KMB-11B-O-1",
+    "origin": "觀塘(翠屏道)",
+    "destination": "九龍城碼頭"
+  },
+  "1028": {
+    "record_id": "KMB-11C-O-1",
+    "origin": "竹園邨",
+    "destination": "上秀茂坪"
+  },
+  "1029": {
+    "record_id": "KMB-11D-O-1",
+    "origin": "樂富",
+    "destination": "觀塘碼頭"
+  },
+  "1030": {
+    "record_id": "KMB-11K-O-1",
+    "origin": "竹園邨",
+    "destination": "紅磡站"
+  },
+  "1031": {
+    "record_id": "KMB-11X-O-1",
+    "origin": "安泰(北)",
+    "destination": "紅磡站"
+  },
+  "1032": {
+    "record_id": "KMB-12-O-1",
+    "origin": "海麗邨",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1033": {
+    "record_id": "KMB-12A-O-1",
+    "origin": "黃埔花園",
+    "destination": "長沙灣(海達邨)"
+  },
+  "1034": {
+    "record_id": "KMB-13D-O-1",
+    "origin": "寶達",
+    "destination": "維港灣"
+  },
+  "1035": {
+    "record_id": "KMB-13M-O-1",
+    "origin": "觀塘(雅麗道)",
+    "destination": "寶達(循環線)"
+  },
+  "1036": {
+    "record_id": "KMB-13P-O-1",
+    "origin": "寶達",
+    "destination": "長沙灣(麗閣邨)"
+  },
+  "1037": {
+    "record_id": "KMB-13X-O-1",
+    "origin": "寶達",
+    "destination": "尖沙咀東"
+  },
+  "1038": {
+    "record_id": "KMB-14-O-1",
+    "origin": "鯉魚門邨",
+    "destination": "中港碼頭"
+  },
+  "1039": {
+    "record_id": "KMB-14B-O-1",
+    "origin": "牛頭角",
+    "destination": "藍田(廣田邨)"
+  },
+  "1040": {
+    "record_id": "KMB-14X-O-1",
+    "origin": "油塘(祟德圍)",
+    "destination": "尖沙咀(循環線)"
+  },
+  "1041": {
+    "record_id": "KMB-15-O-1",
+    "origin": "平田",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1042": {
+    "record_id": "KMB-15A-O-1",
+    "origin": "平田",
+    "destination": "慈雲山(北)"
+  },
+  "1044": {
+    "record_id": "KMB-16-O-1",
+    "origin": "藍田(廣田邨)",
+    "destination": "旺角(柏景灣)"
+  },
+  "1045": {
+    "record_id": "KMB-16M-O-1",
+    "origin": "觀塘(裕民坊)",
+    "destination": "藍田(康華苑) (循環線)"
+  },
+  "1046": {
+    "record_id": "KMB-17-O-1",
+    "origin": "觀塘(裕民坊)",
+    "destination": "何文田(愛民邨)"
+  },
+  "1050": {
+    "record_id": "KMB-18-O-1",
+    "origin": "往長沙灣(海達邨)",
+    "destination": "愛民(循環線)"
+  },
+  "1053": {
+    "record_id": "KMB-1A-O-1",
+    "origin": "中秀茂坪",
+    "destination": "尖沙咀碼頭"
+  },
+  "1054": {
+    "record_id": "KMB-2-O-1",
+    "origin": "尖沙咀碼頭",
+    "destination": "長沙灣(蘇屋邨)"
+  },
+  "1056": {
+    "record_id": "KMB-203E-O-1",
+    "origin": "彩虹",
+    "destination": "九龍站"
+  },
+  "1057": {
+    "record_id": "KMB-208-O-1",
+    "origin": "廣播道",
+    "destination": "尖沙咀東"
+  },
+  "1058": {
+    "record_id": "KMB-21-O-1",
+    "origin": "彩雲",
+    "destination": "紅磡站"
+  },
+  "1059": {
+    "record_id": "KMB-211-O-1",
+    "origin": "翠竹花園",
+    "destination": "黃大仙站(循環線)"
+  },
+  "1061": {
+    "record_id": "KMB-215X-O-1",
+    "origin": "藍田(廣田邨)",
+    "destination": "九龍站"
+  },
+  "1062": {
+    "record_id": "KMB-216M-O-1",
+    "origin": "藍田站",
+    "destination": "油塘站(循環線)"
+  },
+  "1064": {
+    "record_id": "KMB-219X-O-1",
+    "origin": "麗港城",
+    "destination": "尖沙咀(循環線)"
+  },
+  "1066": {
+    "record_id": "KMB-224X-O-1",
+    "origin": "啟業",
+    "destination": "尖沙咀東(循環線)"
+  },
+  "1067": {
+    "record_id": "KMB-23-O-1",
+    "origin": "觀塘碼頭",
+    "destination": "順利(循環線)"
+  },
+  "1068": {
+    "record_id": "KMB-230X-O-1",
+    "origin": "荃灣(荃威花園)",
+    "destination": "黃埔花園"
+  },
+  "1069": {
+    "record_id": "KMB-234A-O-1",
+    "origin": "深井(浪翠園)",
+    "destination": "荃灣西站"
+  },
+  "1070": {
+    "record_id": "KMB-234B-O-1",
+    "origin": "荃灣西站",
+    "destination": "深井(浪翠園)"
+  },
+  "1071": {
+    "record_id": "KMB-234P-O-1",
+    "origin": "荃灣(灣景花園)",
+    "destination": "尖沙咀碼頭"
+  },
+  "1073": {
+    "record_id": "KMB-234X-O-1",
+    "origin": "尖沙咀東(麼地道)",
+    "destination": "荃灣(灣景花園)"
+  },
+  "1074": {
+    "record_id": "KMB-235-O-1",
+    "origin": "葵涌(安蔭邨)",
+    "destination": "荃灣(循環線)"
+  },
+  "1075": {
+    "record_id": "KMB-235M-O-1",
+    "origin": "葵涌安蔭邨",
+    "destination": "葵芳站"
+  },
+  "1077": {
+    "record_id": "KMB-238M-O-1",
+    "origin": "荃灣(海濱花園)",
+    "destination": "荃灣站"
+  },
+  "1078": {
+    "record_id": "KMB-238P-O-1",
+    "origin": "荃灣(海濱花園)",
+    "destination": "中港碼頭"
+  },
+  "1079": {
+    "record_id": "KMB-238X-O-1",
+    "origin": "荃灣(海濱花園)",
+    "destination": "中港碼頭"
+  },
+  "1081": {
+    "record_id": "KMB-24-O-1",
+    "origin": "啟業",
+    "destination": "旺角(循環線)"
+  },
+  "1083": {
+    "record_id": "KMB-243M-O-1",
+    "origin": "青衣(美景花園)",
+    "destination": "荃灣(愉景新城)"
+  },
+  "1084": {
+    "record_id": "KMB-243P-O-1",
+    "origin": "青衣(美景花園)",
+    "destination": "荃灣(荃威花園)"
+  },
+  "1085": {
+    "record_id": "KMB-248M-O-1",
+    "origin": "青衣站",
+    "destination": "長宏(循環線)"
+  },
+  "1087": {
+    "record_id": "KMB-249M-O-1",
+    "origin": "青衣站",
+    "destination": "美景花園(循環線)"
+  },
+  "1088": {
+    "record_id": "KMB-249X-O-1",
+    "origin": "博康",
+    "destination": "青衣站"
+  },
+  "1089": {
+    "record_id": "KMB-252B-O-1",
+    "origin": "恒順園",
+    "destination": "尖沙咀"
+  },
+  "1090": {
+    "record_id": "KMB-258P-O-1",
+    "origin": "洪水橋(洪福邨)",
+    "destination": "藍田站"
+  },
+  "1091": {
+    "record_id": "KMB-258D-O-1",
+    "origin": "屯門(寶田邨)",
+    "destination": "藍田站"
+  },
+  "1092": {
+    "record_id": "KMB-259B-O-1",
+    "origin": "屯門碼頭",
+    "destination": "尖沙咀"
+  },
+  "1093": {
+    "record_id": "KMB-259C-O-1",
+    "origin": "新屯門中心",
+    "destination": "尖沙咀"
+  },
+  "1094": {
+    "record_id": "KMB-259D-O-1",
+    "origin": "屯門(龍門居)",
+    "destination": "鯉魚門邨"
+  },
+  "1096": {
+    "record_id": "KMB-26-O-1",
+    "origin": "順天",
+    "destination": "尖沙咀東"
+  },
+  "1098": {
+    "record_id": "KMB-260B-O-1",
+    "origin": "屯門市中心",
+    "destination": "尖沙咀"
+  },
+  "1099": {
+    "record_id": "KMB-260C-O-1",
+    "origin": "屯門(三聖邨)",
+    "destination": "葵芳站"
+  },
+  "1101": {
+    "record_id": "KMB-260X-O-1",
+    "origin": "屯門(寶田邨)",
+    "destination": "紅磡站"
+  },
+  "1102": {
+    "record_id": "KMB-261-O-1",
+    "origin": "屯門(三聖邨)",
+    "destination": "粉嶺(祥華)"
+  },
+  "1103": {
+    "record_id": "KMB-261B-O-1",
+    "origin": "屯門(三聖邨)",
+    "destination": "九龍站"
+  },
+  "1104": {
+    "record_id": "KMB-261P-O-1",
+    "origin": "屯門(兆康苑)",
+    "destination": "上水(天平)"
+  },
+  "1105": {
+    "record_id": "KMB-263-O-1",
+    "origin": "屯門站",
+    "destination": "沙田站"
+  },
+  "1108": {
+    "record_id": "KMB-265B-O-1",
+    "origin": "天恒邨",
+    "destination": "旺角(柏景灣)"
+  },
+  "1109": {
+    "record_id": "KMB-265M-O-1",
+    "origin": "天恒邨",
+    "destination": "葵涌(麗瑤邨)"
+  },
+  "1111": {
+    "record_id": "KMB-265S-O-1",
+    "origin": "天水圍市中心",
+    "destination": "香港教育大學"
+  },
+  "1113": {
+    "record_id": "KMB-268B-O-1",
+    "origin": "朗屏站",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1114": {
+    "record_id": "KMB-268C-O-1",
+    "origin": "朗屏站",
+    "destination": "觀塘碼頭"
+  },
+  "1115": {
+    "record_id": "KMB-269B-O-1",
+    "origin": "天水圍市中心",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1116": {
+    "record_id": "KMB-269C-O-1",
+    "origin": "天水圍市中心",
+    "destination": "觀塘碼頭"
+  },
+  "1117": {
+    "record_id": "KMB-269D-O-1",
+    "origin": "天富",
+    "destination": "瀝源"
+  },
+  "1118": {
+    "record_id": "KMB-269M-O-1",
+    "origin": "天恩邨",
+    "destination": "祖堯"
+  },
+  "1119": {
+    "record_id": "KMB-26M-O-1",
+    "origin": "彩虹",
+    "destination": "觀塘(循環線)"
+  },
+  "1120": {
+    "record_id": "KMB-27-O-1",
+    "origin": "順天",
+    "destination": "旺角(循環線)"
+  },
+  "1121": {
+    "record_id": "KMB-270-O-1",
+    "origin": "翠麗花園",
+    "destination": "天平(循環線)"
+  },
+  "1122": {
+    "record_id": "KMB-270A-O-1",
+    "origin": "上水",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1123": {
+    "record_id": "KMB-271-O-1",
+    "origin": "大埔(富亨)",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1124": {
+    "record_id": "KMB-272K-O-1",
+    "origin": "大學站",
+    "destination": "香港科學園(循環線)"
+  },
+  "1125": {
+    "record_id": "KMB-272P-O-1",
+    "origin": "大埔(富亨)",
+    "destination": "葵興站"
+  },
+  "1126": {
+    "record_id": "KMB-272S-O-1",
+    "origin": "鑽石山站",
+    "destination": "香港科學園"
+  },
+  "1127": {
+    "record_id": "KMB-273-O-1",
+    "origin": "粉嶺(華明)",
+    "destination": "粉嶺站(循環線)"
+  },
+  "1128": {
+    "record_id": "KMB-273A-O-1",
+    "origin": "上水(彩園)",
+    "destination": "華明(循環線)"
+  },
+  "1129": {
+    "record_id": "KMB-273B-O-1",
+    "origin": "上水(清河)",
+    "destination": "上水站(循環線)"
+  },
+  "1130": {
+    "record_id": "KMB-273C-O-1",
+    "origin": "九龍坑",
+    "destination": "荃灣西站"
+  },
+  "1131": {
+    "record_id": "KMB-273P-O-1",
+    "origin": "大埔(太和)",
+    "destination": "荃灣西站"
+  },
+  "1132": {
+    "record_id": "KMB-273S-O-1",
+    "origin": "粉嶺(暉明路)",
+    "destination": "粉嶺站"
+  },
+  "1133": {
+    "record_id": "KMB-274P-O-1",
+    "origin": "烏溪沙站",
+    "destination": "大埔工業邨"
+  },
+  "1135": {
+    "record_id": "KMB-275R-O-1",
+    "origin": "大埔墟站",
+    "destination": "烏蛟騰"
+  },
+  "1137": {
+    "record_id": "KMB-276-O-1",
+    "origin": "天慈",
+    "destination": "上水"
+  },
+  "1138": {
+    "record_id": "KMB-276A-O-1",
+    "origin": "天恒邨",
+    "destination": "上水(太平)"
+  },
+  "1139": {
+    "record_id": "KMB-276B-O-1",
+    "origin": "天富",
+    "destination": "上水(彩園)"
+  },
+  "1140": {
+    "record_id": "KMB-276P-O-1",
+    "origin": "天水圍站",
+    "destination": "上水"
+  },
+  "1141": {
+    "record_id": "KMB-273D-O-1",
+    "origin": "上水",
+    "destination": "華明(循環線)(經清河邨)"
+  },
+  "1142": {
+    "record_id": "KMB-277X-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "藍田站"
+  },
+  "1143": {
+    "record_id": "KMB-278K-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "粉嶺站(循環線)"
+  },
+  "1144": {
+    "record_id": "KMB-278P-O-1",
+    "origin": "上水(太平)",
+    "destination": "荃灣(如心廣場)"
+  },
+  "1145": {
+    "record_id": "KMB-278X-O-1",
+    "origin": "上水",
+    "destination": "荃灣(如心廣場)"
+  },
+  "1146": {
+    "record_id": "KMB-279X-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "青衣站"
+  },
+  "1147": {
+    "record_id": "KMB-28-O-1",
+    "origin": "樂華",
+    "destination": "尖沙咀碼頭"
+  },
+  "1149": {
+    "record_id": "KMB-281A-O-1",
+    "origin": "廣源",
+    "destination": "九龍站"
+  },
+  "1150": {
+    "record_id": "KMB-282-O-1",
+    "origin": "沙田市中心",
+    "destination": "新田圍(循環線)"
+  },
+  "1151": {
+    "record_id": "KMB-283-O-1",
+    "origin": "沙田市中心",
+    "destination": "美松苑(循環線)"
+  },
+  "1152": {
+    "record_id": "KMB-284-O-1",
+    "origin": "沙田市中心",
+    "destination": "濱景花園(循環線)"
+  },
+  "1154": {
+    "record_id": "KMB-289K-O-1",
+    "origin": "大學站",
+    "destination": "富安花園(循環線)"
+  },
+  "1156": {
+    "record_id": "KMB-292P-O-1",
+    "origin": "西貢",
+    "destination": "觀塘"
+  },
+  "1157": {
+    "record_id": "KMB-296A-O-1",
+    "origin": "尚德",
+    "destination": "牛頭角站(循環線)"
+  },
+  "1158": {
+    "record_id": "KMB-296C-O-1",
+    "origin": "尚德",
+    "destination": "長沙灣(海盈邨)"
+  },
+  "1160": {
+    "record_id": "KMB-296M-O-1",
+    "origin": "康盛花園",
+    "destination": "坑口站"
+  },
+  "1161": {
+    "record_id": "KMB-297-O-1",
+    "origin": "寶林",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1162": {
+    "record_id": "KMB-298E-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "將軍澳工業邨(循環線)"
+  },
+  "1163": {
+    "record_id": "KMB-299X-O-1",
+    "origin": "沙田市中心",
+    "destination": "西貢"
+  },
+  "1164": {
+    "record_id": "KMB-29M-O-1",
+    "origin": "順利",
+    "destination": "新蒲崗(循環線)"
+  },
+  "1165": {
+    "record_id": "KMB-2A-O-1",
+    "origin": "樂華",
+    "destination": "美孚"
+  },
+  "1166": {
+    "record_id": "KMB-2B-O-1",
+    "origin": "竹園邨",
+    "destination": "長沙灣"
+  },
+  "1168": {
+    "record_id": "KMB-2D-O-1",
+    "origin": "澤安邨",
+    "destination": "黃大仙"
+  },
+  "1169": {
+    "record_id": "KMB-2E-I-1",
+    "origin": "白田(北)",
+    "destination": "九龍城碼頭"
+  },
+  "1170": {
+    "record_id": "KMB-2F-O-1",
+    "origin": "慈雲山(北)",
+    "destination": "長沙灣"
+  },
+  "1171": {
+    "record_id": "KMB-30-O-1",
+    "origin": "荃灣(荃威花園)",
+    "destination": "長沙灣"
+  },
+  "1176": {
+    "record_id": "KMB-30X-O-1",
+    "origin": "荃灣(荃威花園)",
+    "destination": "黃埔花園"
+  },
+  "1177": {
+    "record_id": "KMB-31-O-1",
+    "origin": "荃灣西站",
+    "destination": "石籬(循環線)"
+  },
+  "1178": {
+    "record_id": "KMB-31B-O-1",
+    "origin": "石籬(大隴街)",
+    "destination": "奧運站"
+  },
+  "1179": {
+    "record_id": "KMB-31M-O-1",
+    "origin": "石籬(梨貝街)",
+    "destination": "葵芳站"
+  },
+  "1180": {
+    "record_id": "KMB-32-O-1",
+    "origin": "荃灣(石圍角)",
+    "destination": "奧運站"
+  },
+  "1182": {
+    "record_id": "KMB-32M-O-1",
+    "origin": "葵芳站",
+    "destination": "象山(循環線)"
+  },
+  "1184": {
+    "record_id": "KMB-33A-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "旺角(柏景灣)"
+  },
+  "1185": {
+    "record_id": "KMB-34-O-1",
+    "origin": "葵盛(中)",
+    "destination": "荃灣(灣景花園)"
+  },
+  "1186": {
+    "record_id": "KMB-34M-O-1",
+    "origin": "荃灣(灣景花園)",
+    "destination": "荃灣站(循環線)"
+  },
+  "1187": {
+    "record_id": "KMB-35A-O-1",
+    "origin": "葵涌(安蔭邨)",
+    "destination": "尖沙咀東"
+  },
+  "1189": {
+    "record_id": "KMB-36-O-1",
+    "origin": "荃灣西站",
+    "destination": "梨木樹(循環線)"
+  },
+  "1191": {
+    "record_id": "KMB-36B-O-1",
+    "origin": "梨木樹",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1192": {
+    "record_id": "KMB-36M-O-1",
+    "origin": "梨木樹",
+    "destination": "葵芳站"
+  },
+  "1193": {
+    "record_id": "KMB-37-O-1",
+    "origin": "奧運站",
+    "destination": "葵盛(中)"
+  },
+  "1194": {
+    "record_id": "KMB-373-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "中環(香港站)"
+  },
+  "1195": {
+    "record_id": "KMB-978-O-1",
+    "origin": "粉嶺(華明)",
+    "destination": "會展站"
+  },
+  "1196": {
+    "record_id": "KMB-37M-O-1",
+    "origin": "葵興站",
+    "destination": "葵盛(中)(循環線)"
+  },
+  "1197": {
+    "record_id": "KMB-38-O-1",
+    "origin": "葵盛(東)",
+    "destination": "平田"
+  },
+  "1198": {
+    "record_id": "KMB-38A-O-1",
+    "origin": "荃灣(海濱花園)",
+    "destination": "美孚"
+  },
+  "1200": {
+    "record_id": "KMB-39A-O-1",
+    "origin": "荃灣西站",
+    "destination": "荃威花園(循環線)"
+  },
+  "1201": {
+    "record_id": "KMB-39M-O-1",
+    "origin": "荃灣(荃威花園)",
+    "destination": "荃灣站(循環線)"
+  },
+  "1202": {
+    "record_id": "KMB-3B-O-1",
+    "origin": "慈雲山(中)",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1203": {
+    "record_id": "KMB-3C-O-1",
+    "origin": "慈雲山(北)",
+    "destination": "中港碼頭"
+  },
+  "1204": {
+    "record_id": "KMB-3D-O-1",
+    "origin": "慈雲山(中)",
+    "destination": "觀塘(裕民坊)"
+  },
+  "1205": {
+    "record_id": "KMB-3M-O-1",
+    "origin": "慈雲山(北)",
+    "destination": "彩雲"
+  },
+  "1207": {
+    "record_id": "KMB-40-O-1",
+    "origin": "荃灣(麗城花園)",
+    "destination": "麗港城"
+  },
+  "1208": {
+    "record_id": "KMB-40X-O-1",
+    "origin": "烏溪沙站",
+    "destination": "葵涌邨"
+  },
+  "1210": {
+    "record_id": "KMB-41A-O-1",
+    "origin": "青衣(長安邨)",
+    "destination": "尖沙咀東"
+  },
+  "1211": {
+    "record_id": "KMB-41M-O-1",
+    "origin": "青衣碼頭",
+    "destination": "荃灣站"
+  },
+  "1213": {
+    "record_id": "KMB-42-O-1",
+    "origin": "青衣(長康邨)",
+    "destination": "順利"
+  },
+  "1214": {
+    "record_id": "KMB-42A-O-1",
+    "origin": "青衣(長亨邨)",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1215": {
+    "record_id": "KMB-42C-O-1",
+    "origin": "青衣(長亨邨)",
+    "destination": "藍田站"
+  },
+  "1216": {
+    "record_id": "KMB-42M-O-1",
+    "origin": "青衣(長宏邨)",
+    "destination": "荃灣(愉景新城)"
+  },
+  "1217": {
+    "record_id": "KMB-43-O-1",
+    "origin": "青衣(長康邨)",
+    "destination": "荃灣西站"
+  },
+  "1218": {
+    "record_id": "KMB-43A-O-1",
+    "origin": "青衣(長宏邨)",
+    "destination": "石籬(大隴街)"
+  },
+  "1219": {
+    "record_id": "KMB-43B-O-1",
+    "origin": "青衣長青邨",
+    "destination": "荃灣西站"
+  },
+  "1220": {
+    "record_id": "KMB-43C-O-1",
+    "origin": "青衣(長康邨)",
+    "destination": "維港灣"
+  },
+  "1221": {
+    "record_id": "KMB-43M-O-1",
+    "origin": "葵芳站",
+    "destination": "長青(循環線)"
+  },
+  "1222": {
+    "record_id": "KMB-43P-O-1",
+    "origin": "荃灣西站",
+    "destination": "香港科學園"
+  },
+  "1223": {
+    "record_id": "KMB-43X-O-1",
+    "origin": "耀安",
+    "destination": "荃灣西站"
+  },
+  "1224": {
+    "record_id": "KMB-44-O-1",
+    "origin": "青衣邨",
+    "destination": "旺角東站"
+  },
+  "1225": {
+    "record_id": "KMB-44M-O-1",
+    "origin": "青衣站",
+    "destination": "葵涌邨"
+  },
+  "1228": {
+    "record_id": "KMB-45-O-1",
+    "origin": "九龍城碼頭",
+    "destination": "葵涌(麗瑤邨)"
+  },
+  "1229": {
+    "record_id": "KMB-46-O-1",
+    "origin": "佐敦(西九龍站)",
+    "destination": "葵涌(麗瑤邨)"
+  },
+  "1232": {
+    "record_id": "KMB-46X-O-1",
+    "origin": "顯徑",
+    "destination": "美孚"
+  },
+  "1233": {
+    "record_id": "KMB-47X-O-1",
+    "origin": "秦石",
+    "destination": "葵盛(東)"
+  },
+  "1234": {
+    "record_id": "KMB-48X-O-1",
+    "origin": "禾輋",
+    "destination": "荃灣(灣景花園)"
+  },
+  "1235": {
+    "record_id": "KMB-49P-O-1",
+    "origin": "沙田市中心",
+    "destination": "青衣碼頭"
+  },
+  "1236": {
+    "record_id": "KMB-49X-O-1",
+    "origin": "廣源",
+    "destination": "青衣碼頭"
+  },
+  "1237": {
+    "record_id": "KMB-5-O-1",
+    "origin": "富山邨",
+    "destination": "尖沙咀碼頭"
+  },
+  "1238": {
+    "record_id": "KMB-51-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "上村(循環線)"
+  },
+  "1239": {
+    "record_id": "KMB-52X-O-1",
+    "origin": "屯門市中心",
+    "destination": "旺角(柏景灣)"
+  },
+  "1240": {
+    "record_id": "KMB-53-O-1",
+    "origin": "元朗 形點",
+    "destination": "荃灣(如心廣場)"
+  },
+  "1242": {
+    "record_id": "KMB-57M-O-1",
+    "origin": "屯門(山景邨)",
+    "destination": "荔景(北)"
+  },
+  "1243": {
+    "record_id": "KMB-58M-O-1",
+    "origin": "屯門(良景邨)",
+    "destination": "葵芳站"
+  },
+  "1244": {
+    "record_id": "KMB-58P-O-1",
+    "origin": "葵芳站",
+    "destination": "田景邨(田裕樓)"
+  },
+  "1245": {
+    "record_id": "KMB-58X-O-1",
+    "origin": "屯門(良景邨)",
+    "destination": "旺角東站"
+  },
+  "1246": {
+    "record_id": "KMB-59A-O-1",
+    "origin": "屯門碼頭",
+    "destination": "葵芳(葵翠邨)"
+  },
+  "1247": {
+    "record_id": "KMB-59M-O-1",
+    "origin": "屯門碼頭",
+    "destination": "荃灣站"
+  },
+  "1249": {
+    "record_id": "KMB-59X-O-1",
+    "origin": "屯門碼頭",
+    "destination": "旺角東站"
+  },
+  "1250": {
+    "record_id": "KMB-5A-O-1",
+    "origin": "啟德(啟晴邨)",
+    "destination": "尖沙咀碼頭"
+  },
+  "1251": {
+    "record_id": "KMB-5C-O-1",
+    "origin": "慈雲山(中)",
+    "destination": "尖沙咀碼頭"
+  },
+  "1252": {
+    "record_id": "KMB-5D-O-1",
+    "origin": "德福花園",
+    "destination": "紅磡(循環線)"
+  },
+  "1253": {
+    "record_id": "KMB-6-O-1",
+    "origin": "尖沙咀碼頭",
+    "destination": "荔枝角"
+  },
+  "1256": {
+    "record_id": "KMB-603-O-1",
+    "origin": "平田",
+    "destination": "中環(渡輪碼頭)"
+  },
+  "1257": {
+    "record_id": "KMB-603P-O-1",
+    "origin": "中環渡輪碼頭",
+    "destination": "平田"
+  },
+  "1258": {
+    "record_id": "KMB-603S-O-1",
+    "origin": "平田",
+    "destination": "中環(機利文街)"
+  },
+  "1261": {
+    "record_id": "KMB-60M-O-1",
+    "origin": "屯門站",
+    "destination": "荃灣站"
+  },
+  "1262": {
+    "record_id": "KMB-60X-O-1",
+    "origin": "屯門市中心",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1265": {
+    "record_id": "KMB-61M-O-1",
+    "origin": "屯門(海榮路)",
+    "destination": "荔景(北)"
+  },
+  "1266": {
+    "record_id": "KMB-61X-O-1",
+    "origin": "屯門市中心",
+    "destination": "九龍城碼頭"
+  },
+  "1268": {
+    "record_id": "KMB-62X-O-1",
+    "origin": "兆康站(南)",
+    "destination": "鯉魚門邨"
+  },
+  "1269": {
+    "record_id": "KMB-63X-O-1",
+    "origin": "洪水橋(洪福邨)",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1273": {
+    "record_id": "KMB-65K-O-1",
+    "origin": "梧桐寨(白牛石)",
+    "destination": "大埔中心"
+  },
+  "1275": {
+    "record_id": "KMB-66M-O-1",
+    "origin": "屯門(大興邨)",
+    "destination": "荃灣(如心廣場)"
+  },
+  "1277": {
+    "record_id": "KMB-66X-O-1",
+    "origin": "屯門(大興邨)",
+    "destination": "奧運站"
+  },
+  "1279": {
+    "record_id": "KMB-67M-O-1",
+    "origin": "屯門(兆康苑)",
+    "destination": "葵芳站"
+  },
+  "1280": {
+    "record_id": "KMB-67X-O-1",
+    "origin": "屯門(兆康苑)",
+    "destination": "旺角東站"
+  },
+  "1286": {
+    "record_id": "KMB-68A-O-1",
+    "origin": "朗屏邨",
+    "destination": "青衣站"
+  },
+  "1287": {
+    "record_id": "KMB-68M-O-1",
+    "origin": "荃灣站",
+    "destination": "元朗(西)總站"
+  },
+  "1288": {
+    "record_id": "KMB-68X-O-1",
+    "origin": "洪水橋(洪福邨)",
+    "destination": "旺角(柏景灣)"
+  },
+  "1293": {
+    "record_id": "KMB-69M-O-1",
+    "origin": "葵芳站",
+    "destination": "天水圍市中心"
+  },
+  "1294": {
+    "record_id": "KMB-69P-O-1",
+    "origin": "天水圍站",
+    "destination": "葵芳站"
+  },
+  "1295": {
+    "record_id": "KMB-69X-O-1",
+    "origin": "天瑞邨",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1297": {
+    "record_id": "KMB-6C-O-1",
+    "origin": "九龍城碼頭",
+    "destination": "美孚"
+  },
+  "1298": {
+    "record_id": "KMB-6D-O-1",
+    "origin": "牛頭角",
+    "destination": "美孚"
+  },
+  "1299": {
+    "record_id": "KMB-6F-O-1",
+    "origin": "九龍城碼頭",
+    "destination": "長沙灣(麗閣邨)"
+  },
+  "1300": {
+    "record_id": "KMB-7-O-1",
+    "origin": "尖沙咀碼頭",
+    "destination": "樂富"
+  },
+  "1302": {
+    "record_id": "KMB-70K-O-1",
+    "origin": "粉嶺(華明)",
+    "destination": "清河(循環線)"
+  },
+  "1304": {
+    "record_id": "KMB-71A-O-1",
+    "origin": "大埔(富亨)",
+    "destination": "大埔墟站"
+  },
+  "1305": {
+    "record_id": "KMB-71B-O-1",
+    "origin": "大埔(富亨)",
+    "destination": "大埔中心(循環線)"
+  },
+  "1306": {
+    "record_id": "KMB-71K-O-1",
+    "origin": "大埔(太和)",
+    "destination": "大埔墟站"
+  },
+  "1307": {
+    "record_id": "KMB-71S-O-1",
+    "origin": "大埔(富善)",
+    "destination": "廣福(循環線)"
+  },
+  "1308": {
+    "record_id": "KMB-72-O-1",
+    "origin": "大埔(太和)",
+    "destination": "長沙灣"
+  },
+  "1309": {
+    "record_id": "KMB-72A-O-1",
+    "origin": "大圍站",
+    "destination": "大埔工業邨"
+  },
+  "1310": {
+    "record_id": "KMB-72X-O-1",
+    "origin": "富蝶",
+    "destination": "旺角(柏景灣)"
+  },
+  "1311": {
+    "record_id": "KMB-73-O-1",
+    "origin": "粉嶺(華明)",
+    "destination": "大埔工業邨"
+  },
+  "1312": {
+    "record_id": "KMB-73A-O-1",
+    "origin": "粉嶺(華明)",
+    "destination": "愉翠苑"
+  },
+  "1313": {
+    "record_id": "KMB-73K-O-1",
+    "origin": "上水",
+    "destination": "文錦渡(新屋嶺)"
+  },
+  "1314": {
+    "record_id": "KMB-73X-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "大埔(富善)"
+  },
+  "1315": {
+    "record_id": "KMB-74A-O-1",
+    "origin": "大埔(太和)",
+    "destination": "啟業"
+  },
+  "1316": {
+    "record_id": "KMB-74K-O-1",
+    "origin": "大埔墟站",
+    "destination": "三門仔(循環線)(先經香港教育大學)"
+  },
+  "1317": {
+    "record_id": "KMB-74X-O-1",
+    "origin": "大埔中心",
+    "destination": "觀塘碼頭"
+  },
+  "1318": {
+    "record_id": "KMB-75K-O-1",
+    "origin": "大美督",
+    "destination": "大埔墟站"
+  },
+  "1319": {
+    "record_id": "KMB-75X-O-1",
+    "origin": "大埔(富善)",
+    "destination": "九龍城碼頭"
+  },
+  "1320": {
+    "record_id": "KMB-76K-O-1",
+    "origin": "上水(清河)",
+    "destination": "朗屏邨"
+  },
+  "1322": {
+    "record_id": "KMB-78K-O-1",
+    "origin": "上水(太平)",
+    "destination": "沙頭角"
+  },
+  "1323": {
+    "record_id": "KMB-79K-O-1",
+    "origin": "彩石邨",
+    "destination": "打鼓嶺(松園下)"
+  },
+  "1324": {
+    "record_id": "KMB-7B-O-1",
+    "origin": "紅磡(紅鸞道)",
+    "destination": "樂富"
+  },
+  "1325": {
+    "record_id": "KMB-7M-O-1",
+    "origin": "樂富",
+    "destination": "竹園邨(循環線)"
+  },
+  "1326": {
+    "record_id": "KMB-8-O-1",
+    "origin": "尖沙咀碼頭",
+    "destination": "九龍站"
+  },
+  "1327": {
+    "record_id": "KMB-80-O-1",
+    "origin": "美林",
+    "destination": "觀塘碼頭"
+  },
+  "1330": {
+    "record_id": "KMB-80K-O-1",
+    "origin": "新翠",
+    "destination": "愉翠苑"
+  },
+  "1332": {
+    "record_id": "KMB-80P-O-1",
+    "origin": "顯徑",
+    "destination": "觀塘碼頭"
+  },
+  "1333": {
+    "record_id": "KMB-80X-O-1",
+    "origin": "秦石",
+    "destination": "觀塘碼頭"
+  },
+  "1334": {
+    "record_id": "KMB-81-O-1",
+    "origin": "禾輋",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1336": {
+    "record_id": "KMB-81C-O-1",
+    "origin": "耀安",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1337": {
+    "record_id": "KMB-81K-O-1",
+    "origin": "新田圍",
+    "destination": "穗禾苑"
+  },
+  "1341": {
+    "record_id": "KMB-82K-O-1",
+    "origin": "美田",
+    "destination": "愉翠苑"
+  },
+  "1345": {
+    "record_id": "KMB-82X-O-1",
+    "origin": "濱景花園",
+    "destination": "黃大仙(循環線)"
+  },
+  "1346": {
+    "record_id": "KMB-83K-O-1",
+    "origin": "黃泥頭",
+    "destination": "沙田市中心(循環線)"
+  },
+  "1347": {
+    "record_id": "KMB-83S-O-1",
+    "origin": "黃泥頭",
+    "destination": "沙田市中心"
+  },
+  "1348": {
+    "record_id": "KMB-83X-O-2",
+    "origin": "黃泥頭",
+    "destination": "觀塘碼頭"
+  },
+  "1349": {
+    "record_id": "KMB-84M-O-1",
+    "origin": "富安花園",
+    "destination": "樂富(繁忙時段班次)"
+  },
+  "1350": {
+    "record_id": "KMB-85-O-1",
+    "origin": "火炭駿洋邨",
+    "destination": "九龍城碼頭"
+  },
+  "1351": {
+    "record_id": "KMB-85A-O-1",
+    "origin": "廣源",
+    "destination": "九龍城碼頭"
+  },
+  "1352": {
+    "record_id": "KMB-85B-O-1",
+    "origin": "秦石",
+    "destination": "九龍城碼頭"
+  },
+  "1354": {
+    "record_id": "KMB-85K-O-1",
+    "origin": "恒安",
+    "destination": "沙田站"
+  },
+  "1355": {
+    "record_id": "KMB-85M-O-1",
+    "origin": "錦英苑",
+    "destination": "黃大仙(循環線)"
+  },
+  "1356": {
+    "record_id": "KMB-85S-O-1",
+    "origin": "耀安",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1357": {
+    "record_id": "KMB-85X-O-1",
+    "origin": "馬鞍山市中心",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1358": {
+    "record_id": "KMB-86-O-1",
+    "origin": "黃泥頭",
+    "destination": "美孚"
+  },
+  "1361": {
+    "record_id": "KMB-86A-O-1",
+    "origin": "沙田圍",
+    "destination": "長沙灣(甘泉街)"
+  },
+  "1363": {
+    "record_id": "KMB-86C-O-1",
+    "origin": "利安",
+    "destination": "長沙灣"
+  },
+  "1364": {
+    "record_id": "KMB-86K-O-1",
+    "origin": "錦英苑",
+    "destination": "沙田站"
+  },
+  "1366": {
+    "record_id": "KMB-86S-O-1",
+    "origin": "錦英苑",
+    "destination": "沙田站"
+  },
+  "1370": {
+    "record_id": "KMB-87B-O-1",
+    "origin": "新田圍",
+    "destination": "維港灣"
+  },
+  "1371": {
+    "record_id": "KMB-87D-O-1",
+    "origin": "錦英苑",
+    "destination": "紅磡站"
+  },
+  "1372": {
+    "record_id": "KMB-87K-O-1",
+    "origin": "大學站",
+    "destination": "錦英苑(循環線)"
+  },
+  "1373": {
+    "record_id": "KMB-87P-O-1",
+    "origin": "利安",
+    "destination": "頌安"
+  },
+  "1374": {
+    "record_id": "KMB-87S-O-1",
+    "origin": "大學站",
+    "destination": "錦英苑(循環線)"
+  },
+  "1380": {
+    "record_id": "KMB-88K-O-1",
+    "origin": "顯徑",
+    "destination": "駿景園"
+  },
+  "1382": {
+    "record_id": "KMB-89-O-1",
+    "origin": "瀝源",
+    "destination": "觀塘(翠屏北邨)"
+  },
+  "1385": {
+    "record_id": "KMB-89B-O-1",
+    "origin": "沙田圍",
+    "destination": "牛頭角"
+  },
+  "1386": {
+    "record_id": "KMB-89C-O-1",
+    "origin": "恒安",
+    "destination": "觀塘(翠屏道)"
+  },
+  "1387": {
+    "record_id": "KMB-89D-O-1",
+    "origin": "烏溪沙站",
+    "destination": "藍田站"
+  },
+  "1388": {
+    "record_id": "KMB-89P-O-1",
+    "origin": "馬鞍山市中心",
+    "destination": "藍田站"
+  },
+  "1389": {
+    "record_id": "KMB-89X-O-1",
+    "origin": "沙田站",
+    "destination": "觀塘(翠屏道)"
+  },
+  "1390": {
+    "record_id": "KMB-8A-O-1",
+    "origin": "黃埔花園",
+    "destination": "尖沙咀(循環線)"
+  },
+  "1391": {
+    "record_id": "KMB-8P-O-1",
+    "origin": "海逸豪園",
+    "destination": "尖沙咀(循環線)"
+  },
+  "1392": {
+    "record_id": "KMB-9-O-1",
+    "origin": "彩福",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1395": {
+    "record_id": "KMB-91-O-1",
+    "origin": "清水灣",
+    "destination": "鑽石山站"
+  },
+  "1398": {
+    "record_id": "KMB-91M-O-1",
+    "origin": "寶林",
+    "destination": "鑽石山站"
+  },
+  "1399": {
+    "record_id": "KMB-92-O-1",
+    "origin": "西貢",
+    "destination": "鑽石山站"
+  },
+  "1400": {
+    "record_id": "KMB-934-O-1",
+    "origin": "荃灣(灣景花園)",
+    "destination": "灣仔(菲林明道)"
+  },
+  "1401": {
+    "record_id": "KMB-935-O-1",
+    "origin": "石籬(大隴街)",
+    "destination": "灣仔(菲林明道)"
+  },
+  "1402": {
+    "record_id": "KMB-93A-O-1",
+    "origin": "寶林",
+    "destination": "觀塘碼頭"
+  },
+  "1403": {
+    "record_id": "KMB-93K-O-1",
+    "origin": "寶林",
+    "destination": "旺角東站"
+  },
+  "1404": {
+    "record_id": "KMB-93M-O-1",
+    "origin": "將軍澳(彩明)",
+    "destination": "寶林"
+  },
+  "1405": {
+    "record_id": "KMB-94-O-1",
+    "origin": "黃石碼頭",
+    "destination": "西貢"
+  },
+  "1408": {
+    "record_id": "KMB-95-O-1",
+    "origin": "翠林",
+    "destination": "九龍站"
+  },
+  "1409": {
+    "record_id": "KMB-95M-O-1",
+    "origin": "翠林",
+    "destination": "觀塘(雅麗道)"
+  },
+  "1410": {
+    "record_id": "KMB-960-O-1",
+    "origin": "屯門(建生邨)",
+    "destination": "會展站"
+  },
+  "1411": {
+    "record_id": "KMB-960A-O-1",
+    "origin": "中環",
+    "destination": "富泰邨"
+  },
+  "1412": {
+    "record_id": "KMB-960P-O-1",
+    "origin": "洪水橋(洪元路)",
+    "destination": "銅鑼灣(維園)"
+  },
+  "1413": {
+    "record_id": "KMB-960S-O-1",
+    "origin": "屯門(富泰邨)",
+    "destination": "銅鑼灣(維園)"
+  },
+  "1414": {
+    "record_id": "KMB-961-O-1",
+    "origin": "屯門(山景邨)",
+    "destination": "灣仔(會展)"
+  },
+  "1415": {
+    "record_id": "KMB-968-O-1",
+    "origin": "元朗(西)",
+    "destination": "銅鑼灣(天后)"
+  },
+  "1416": {
+    "record_id": "KMB-96R-O-1",
+    "origin": "鑽石山站",
+    "destination": "黃石碼頭"
+  },
+  "1417": {
+    "record_id": "KMB-98A-O-1",
+    "origin": "坑口(北) (將軍澳醫院)",
+    "destination": "牛頭角站(循環線)"
+  },
+  "1418": {
+    "record_id": "KMB-98C-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "美孚"
+  },
+  "1419": {
+    "record_id": "KMB-98D-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "尖沙咀東"
+  },
+  "1420": {
+    "record_id": "KMB-98P-O-1",
+    "origin": "康盛花園",
+    "destination": "尖沙咀東"
+  },
+  "1421": {
+    "record_id": "KMB-98S-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "美孚"
+  },
+  "1422": {
+    "record_id": "KMB-99-O-1",
+    "origin": "恒安",
+    "destination": "西貢"
+  },
+  "1423": {
+    "record_id": "KMB-98D-O-3",
+    "origin": "康城站",
+    "destination": "尖沙咀東"
+  },
+  "1435": {
+    "record_id": "KMB-N216-O-1",
+    "origin": "油塘",
+    "destination": "紅磡站"
+  },
+  "1436": {
+    "record_id": "KMB-N237-O-1",
+    "origin": "美孚",
+    "destination": "葵盛(循環線)"
+  },
+  "1437": {
+    "record_id": "KMB-N241-O-1",
+    "origin": "紅磡站",
+    "destination": "青衣(長宏邨)"
+  },
+  "1438": {
+    "record_id": "KMB-N260-O-1",
+    "origin": "屯門碼頭",
+    "destination": "美孚"
+  },
+  "1439": {
+    "record_id": "KMB-N269-O-1",
+    "origin": "天慈",
+    "destination": "美孚"
+  },
+  "1441": {
+    "record_id": "KMB-N271-O-1",
+    "origin": "大埔(富亨)",
+    "destination": "紅磡站"
+  },
+  "1443": {
+    "record_id": "KMB-N281-O-1",
+    "origin": "錦英苑",
+    "destination": "紅磡站"
+  },
+  "1444": {
+    "record_id": "KMB-N293-O-1",
+    "origin": "尚德",
+    "destination": "旺角(柏景灣)"
+  },
+  "1450": {
+    "record_id": "KMB-S64P-O-1",
+    "origin": "翔東邨",
+    "destination": "機場(貨運及航膳區)(循環線)(經東涌發展碼頭)"
+  },
+  "1451": {
+    "record_id": "KMB-S64-O-1",
+    "origin": "東涌(逸東)",
+    "destination": "機場(循環線)"
+  },
+  "1457": {
+    "record_id": "KMB-N42A-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "東涌站"
+  },
+  "1458": {
+    "record_id": "KMB-N42-O-1",
+    "origin": "耀安巴士總站",
+    "destination": "東涌站"
+  },
+  "1459": {
+    "record_id": "KMB-N31-O-1",
+    "origin": "荃灣(愉景新城)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1460": {
+    "record_id": "KMB-N30-O-1",
+    "origin": "元朗站",
+    "destination": "機場(暢達路)"
+  },
+  "1461": {
+    "record_id": "KMB-E42-O-1",
+    "origin": "博康",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1462": {
+    "record_id": "KMB-E41-O-1",
+    "origin": "大埔頭",
+    "destination": "航天城"
+  },
+  "1466": {
+    "record_id": "KMB-E33-O-1",
+    "origin": "屯門市中心",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1467": {
+    "record_id": "KMB-E32-O-1",
+    "origin": "葵芳(南)",
+    "destination": "航天城"
+  },
+  "1468": {
+    "record_id": "KMB-E31-O-1",
+    "origin": "荃灣(愉景新城)",
+    "destination": "東涌(逸東)"
+  },
+  "1469": {
+    "record_id": "KMB-A43-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1470": {
+    "record_id": "KMB-A41P-O-1",
+    "origin": "烏溪沙站",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1473": {
+    "record_id": "KMB-A31-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1474": {
+    "record_id": "KMB-E33P-O-1",
+    "origin": "兆康站(南)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1815": {
+    "record_id": "KMB-E42P-I-1",
+    "origin": "東涌(逸東)",
+    "destination": "火炭(山尾街)"
+  },
+  "1816": {
+    "record_id": "KMB-N64-O-1",
+    "origin": "機場(地面運輸中心)",
+    "destination": "東涌(逸東)"
+  },
+  "1817": {
+    "record_id": "KMB-A43-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "機場(地面運輸中心)(經國泰城)"
+  },
+  "1818": {
+    "record_id": "KMB-271P-O-1",
+    "origin": "九龍坑",
+    "destination": "尖沙咀(廣東道)"
+  },
+  "1850": {
+    "record_id": "KMB-64K-O-1",
+    "origin": "元朗(西)",
+    "destination": "大埔墟站"
+  },
+  "1851": {
+    "record_id": "KMB-77K-O-1",
+    "origin": "上水",
+    "destination": "元朗(鳳翔路)"
+  },
+  "1852": {
+    "record_id": "KMB-251M-O-1",
+    "origin": "上村",
+    "destination": "荃灣"
+  },
+  "1854": {
+    "record_id": "KMB-251A-O-1",
+    "origin": "錦上路站",
+    "destination": "上村(循環線)"
+  },
+  "1855": {
+    "record_id": "KMB-B1-O-1",
+    "origin": "天慈",
+    "destination": "落馬洲站(福田)"
+  },
+  "1892": {
+    "record_id": "KMB-N368-O-1",
+    "origin": "元朗(西)",
+    "destination": "中環(港澳碼頭)"
+  },
+  "1951": {
+    "record_id": "KMB-960B-O-1",
+    "origin": "鰂魚涌(英皇道)",
+    "destination": "屯門(建生)"
+  },
+  "1952": {
+    "record_id": "KMB-54-O-1",
+    "origin": "元朗(西)",
+    "destination": "上村(循環線)"
+  },
+  "1953": {
+    "record_id": "KMB-40P-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "觀塘碼頭"
+  },
+  "1955": {
+    "record_id": "KMB-23M-O-1",
+    "origin": "樂華",
+    "destination": "順利(循環線)"
+  },
+  "8009": {
+    "record_id": "KMB-203S-O-1",
+    "origin": "澤安邨",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8012": {
+    "record_id": "KMB-242X-O-1",
+    "origin": "青衣(長亨邨)",
+    "destination": "尖沙咀"
+  },
+  "8064": {
+    "record_id": "KMB-16-O-2",
+    "origin": "平田",
+    "destination": "旺角(柏景灣)"
+  },
+  "8073": {
+    "record_id": "KMB-935-O-2",
+    "origin": "葵涌(安蔭邨)",
+    "destination": "灣仔(菲林明道)"
+  },
+  "8092": {
+    "record_id": "KMB-14D-O-1",
+    "origin": "油塘",
+    "destination": "彩虹"
+  },
+  "8093": {
+    "record_id": "KMB-91P-O-1",
+    "origin": "鑽石山站",
+    "destination": "香港科技大學(北)"
+  },
+  "8094": {
+    "record_id": "KMB-961P-O-1",
+    "origin": "屯門(良景邨)",
+    "destination": "銅鑼灣(維園)"
+  },
+  "8096": {
+    "record_id": "KMB-14D-O-2",
+    "origin": "藍田(廣田邨)",
+    "destination": "彩虹"
+  },
+  "8097": {
+    "record_id": "KMB-270P-O-1",
+    "origin": "上水",
+    "destination": "九龍站"
+  },
+  "8099": {
+    "record_id": "KMB-258S-O-1",
+    "origin": "屯門(山景邨)",
+    "destination": "藍田站"
+  },
+  "8100": {
+    "record_id": "KMB-960X-O-1",
+    "origin": "洪水橋(洪元路)",
+    "destination": "鰂魚涌(英皇道)"
+  },
+  "8114": {
+    "record_id": "KMB-5P-O-1",
+    "origin": "慈雲山(中)",
+    "destination": "尖沙咀碼頭"
+  },
+  "8115": {
+    "record_id": "KMB-215P-O-1",
+    "origin": "藍田(廣田邨)",
+    "destination": "九龍站"
+  },
+  "8126": {
+    "record_id": "KMB-281B-O-1",
+    "origin": "碩門邨",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8127": {
+    "record_id": "KMB-281X-O-1",
+    "origin": "耀安",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8128": {
+    "record_id": "KMB-286X-O-1",
+    "origin": "顯徑",
+    "destination": "深水埗(循環線)"
+  },
+  "8130": {
+    "record_id": "KMB-15X-O-1",
+    "origin": "藍田(廣田邨)",
+    "destination": "紅磡站"
+  },
+  "8131": {
+    "record_id": "KMB-968X-O-1",
+    "origin": "元朗(德業街)",
+    "destination": "鰂魚涌(英皇道)"
+  },
+  "8134": {
+    "record_id": "KMB-272A-O-1",
+    "origin": "大學站",
+    "destination": "博研路(循環線)(經創新路)"
+  },
+  "8136": {
+    "record_id": "KMB-68E-O-1",
+    "origin": "元朗公園",
+    "destination": "青衣站"
+  },
+  "8137": {
+    "record_id": "KMB-268C-O-2",
+    "origin": "銀田花園",
+    "destination": "觀塘碼頭"
+  },
+  "8144": {
+    "record_id": "KMB-5M-O-1",
+    "origin": "啟德(德朗邨)",
+    "destination": "九龍灣站(循環線)"
+  },
+  "8145": {
+    "record_id": "KMB-28B-O-1",
+    "origin": "彩福",
+    "destination": "啟德(啟晴邨)"
+  },
+  "8146": {
+    "record_id": "KMB-28S-O-1",
+    "origin": "觀塘(裕民坊)",
+    "destination": "樂華"
+  },
+  "8148": {
+    "record_id": "KMB-259D-O-3",
+    "origin": "悅湖山莊",
+    "destination": "鯉魚門邨"
+  },
+  "8149": {
+    "record_id": "KMB-270B-I-2",
+    "origin": "深水埗",
+    "destination": "上水"
+  },
+  "8150": {
+    "record_id": "KMB-270S-O-1",
+    "origin": "尖沙咀東(麼地道)",
+    "destination": "粉嶺(聯和墟)"
+  },
+  "8151": {
+    "record_id": "KMB-78K-I-3",
+    "origin": "沙頭角",
+    "destination": "粉嶺(華明)"
+  },
+  "8152": {
+    "record_id": "KMB-73-O-2",
+    "origin": "粉嶺(華明)",
+    "destination": "大埔中心"
+  },
+  "8153": {
+    "record_id": "KMB-74C-O-1",
+    "origin": "九龍坑",
+    "destination": "觀塘碼頭"
+  },
+  "8154": {
+    "record_id": "KMB-77K-O-2",
+    "origin": "上水",
+    "destination": "元朗(西)"
+  },
+  "8155": {
+    "record_id": "KMB-277E-O-1",
+    "origin": "上水(天平)",
+    "destination": "藍田站"
+  },
+  "8156": {
+    "record_id": "KMB-277P-O-1",
+    "origin": "上水(天平)",
+    "destination": "藍田站"
+  },
+  "8157": {
+    "record_id": "KMB-277X-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "藍田站(不經華明)"
+  },
+  "8158": {
+    "record_id": "KMB-277X-O-3",
+    "origin": "粉嶺(華明)",
+    "destination": "藍田站"
+  },
+  "8159": {
+    "record_id": "KMB-297P-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "8163": {
+    "record_id": "KMB-234C-O-1",
+    "origin": "深井",
+    "destination": "觀塘(翠屏北邨)"
+  },
+  "8164": {
+    "record_id": "KMB-75P-O-1",
+    "origin": "大美督",
+    "destination": "大埔墟站"
+  },
+  "8166": {
+    "record_id": "KMB-76K-O-2",
+    "origin": "粉嶺(華明)",
+    "destination": "朗屏邨"
+  },
+  "8167": {
+    "record_id": "KMB-273A-O-1",
+    "origin": "上水(彩園)",
+    "destination": "華明(循環線)(經風采中學)"
+  },
+  "8169": {
+    "record_id": "KMB-5R-O-1",
+    "origin": "啟德郵輪碼頭",
+    "destination": "觀塘(APM)(循環線)"
+  },
+  "8178": {
+    "record_id": "KMB-46P-O-1",
+    "origin": "美田",
+    "destination": "葵芳站"
+  },
+  "8183": {
+    "record_id": "KMB-N73-O-1",
+    "origin": "沙田市中心",
+    "destination": "落馬洲"
+  },
+  "8185": {
+    "record_id": "KMB-82B-O-1",
+    "origin": "美田",
+    "destination": "大圍站"
+  },
+  "8189": {
+    "record_id": "KMB-99R-I-1",
+    "origin": "西貢北(西貢警署)",
+    "destination": "大學站"
+  },
+  "8191": {
+    "record_id": "KMB-17-O-2",
+    "origin": "九龍灣站",
+    "destination": "何文田(愛民邨)"
+  },
+  "8192": {
+    "record_id": "KMB-74B-O-1",
+    "origin": "九龍灣",
+    "destination": "大埔中心"
+  },
+  "8195": {
+    "record_id": "KMB-88X-O-1",
+    "origin": "穗禾苑",
+    "destination": "平田(平田方向經觀塘道，火炭方向經觀塘繞道)"
+  },
+  "8196": {
+    "record_id": "KMB-88X-O-1",
+    "origin": "穗禾苑",
+    "destination": "平田(平田方向經觀塘繞道，火炭方向經觀塘道)"
+  },
+  "8197": {
+    "record_id": "KMB-82C-O-1",
+    "origin": "廣源",
+    "destination": "香港科學園"
+  },
+  "8198": {
+    "record_id": "KMB-287X-O-1",
+    "origin": "水泉澳",
+    "destination": "佐敦(循環線)"
+  },
+  "8199": {
+    "record_id": "KMB-T270-O-1",
+    "origin": "粉嶺(祥華)",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8200": {
+    "record_id": "KMB-T277-O-1",
+    "origin": "上水",
+    "destination": "藍田站"
+  },
+  "8201": {
+    "record_id": "KMB-2F-O-1",
+    "origin": "慈雲山(北)",
+    "destination": "長沙灣(星期一至五早上繁忙時間服務)"
+  },
+  "8202": {
+    "record_id": "KMB-273D-O-1",
+    "origin": "上水",
+    "destination": "華明(循環線)"
+  },
+  "8203": {
+    "record_id": "KMB-268X-O-1",
+    "origin": "洪水橋(洪福邨)",
+    "destination": "佐敦(西九龍站)"
+  },
+  "8204": {
+    "record_id": "KMB-270-O-2",
+    "origin": "上水(天平)",
+    "destination": "翠麗花園"
+  },
+  "8207": {
+    "record_id": "KMB-64S-O-1",
+    "origin": "上村球場",
+    "destination": "錦上路站"
+  },
+  "8208": {
+    "record_id": "KMB-251B-O-1",
+    "origin": "八鄉路",
+    "destination": "上村(循環線)"
+  },
+  "8209": {
+    "record_id": "KMB-274X-O-1",
+    "origin": "觀塘碼頭",
+    "destination": "大埔中心"
+  },
+  "8210": {
+    "record_id": "KMB-299X-O-1",
+    "origin": "沙田市中心(經沙角尾)",
+    "destination": "西貢"
+  },
+  "8213": {
+    "record_id": "KMB-269P-I-1",
+    "origin": "天恩邨",
+    "destination": "葵涌(葵芳邨)"
+  },
+  "8214": {
+    "record_id": "KMB-269P-O-1",
+    "origin": "葵涌(葵芳邨)",
+    "destination": "天恩邨"
+  },
+  "8215": {
+    "record_id": "KMB-286C-O-1",
+    "origin": "利安",
+    "destination": "長沙灣(海達邨)"
+  },
+  "8222": {
+    "record_id": "KMB-240X-O-1",
+    "origin": "黃泥頭",
+    "destination": "葵興站"
+  },
+  "8224": {
+    "record_id": "KMB-74D-O-1",
+    "origin": "九龍坑",
+    "destination": "觀塘碼頭"
+  },
+  "8225": {
+    "record_id": "KMB-74P-O-1",
+    "origin": "觀塘碼頭",
+    "destination": "大埔中心"
+  },
+  "8226": {
+    "record_id": "KMB-72C-O-1",
+    "origin": "大美督",
+    "destination": "大埔墟站"
+  },
+  "8229": {
+    "record_id": "KMB-280X-O-1",
+    "origin": "穗禾苑",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8230": {
+    "record_id": "KMB-X42C-O-1",
+    "origin": "青衣(長亨邨)",
+    "destination": "油塘(經青富苑)"
+  },
+  "8231": {
+    "record_id": "KMB-28B-O-1",
+    "origin": "彩福(經牛頭角總站)",
+    "destination": "啟德(啟晴邨)"
+  },
+  "8240": {
+    "record_id": "KMB-87D-O-1",
+    "origin": "錦英苑",
+    "destination": "紅磡站(不經馬鞍山市中心)"
+  },
+  "8242": {
+    "record_id": "KMB-87D-O-3",
+    "origin": "馬鞍山市中心",
+    "destination": "紅磡站"
+  },
+  "8243": {
+    "record_id": "KMB-35X-O-1",
+    "origin": "葵涌(安蔭邨)",
+    "destination": "尖沙咀東"
+  },
+  "8244": {
+    "record_id": "KMB-290-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "荃灣西站"
+  },
+  "8245": {
+    "record_id": "KMB-290A-O-1",
+    "origin": "將軍澳(彩明)",
+    "destination": "荃灣西站"
+  },
+  "8247": {
+    "record_id": "KMB-98D-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "尖沙咀東(不經重華路及培成路)"
+  },
+  "8248": {
+    "record_id": "KMB-98D-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "尖沙咀東(經寶順路)"
+  },
+  "8249": {
+    "record_id": "KMB-98P-I-1",
+    "origin": "尖沙咀東",
+    "destination": "坑口(北)(將軍澳醫院)"
+  },
+  "8251": {
+    "record_id": "KMB-288-O-1",
+    "origin": "水泉澳(上)",
+    "destination": "沙田市中心(循環線)"
+  },
+  "8261": {
+    "record_id": "KMB-286X-O-1",
+    "origin": "顯徑",
+    "destination": "深水埗(循環線)(不經美田及美林)"
+  },
+  "8262": {
+    "record_id": "KMB-286P-O-1",
+    "origin": "美松苑",
+    "destination": "長沙灣"
+  },
+  "8263": {
+    "record_id": "KMB-91R-O-1",
+    "origin": "清水灣",
+    "destination": "將軍澳(彩明)"
+  },
+  "8264": {
+    "record_id": "KMB-36X-O-1",
+    "origin": "梨木樹",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8273": {
+    "record_id": "KMB-978A-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "會展站"
+  },
+  "8274": {
+    "record_id": "KMB-978B-O-1",
+    "origin": "粉嶺置福圍",
+    "destination": "會展站"
+  },
+  "8278": {
+    "record_id": "KMB-673-O-1",
+    "origin": "上水",
+    "destination": "中環(香港站)"
+  },
+  "8281": {
+    "record_id": "KMB-268P-O-1",
+    "origin": "媽橫路(山水樓)",
+    "destination": "觀塘碼頭"
+  },
+  "8282": {
+    "record_id": "KMB-69C-O-1",
+    "origin": "天恩邨",
+    "destination": "觀塘碼頭"
+  },
+  "8283": {
+    "record_id": "KMB-269C-O-5",
+    "origin": "天慈",
+    "destination": "觀塘碼頭"
+  },
+  "8288": {
+    "record_id": "KMB-83A-O-1",
+    "origin": "水泉澳",
+    "destination": "觀塘碼頭"
+  },
+  "8291": {
+    "record_id": "KMB-934A-O-1",
+    "origin": "荃灣(荃威花園)",
+    "destination": "灣仔(菲林明道)"
+  },
+  "8293": {
+    "record_id": "KMB-A43P-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8295": {
+    "record_id": "KMB-A36-O-1",
+    "origin": "錦上路站",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8302": {
+    "record_id": "KMB-NA33-O-1",
+    "origin": "國泰城",
+    "destination": "屯門(富泰邨)"
+  },
+  "8306": {
+    "record_id": "KMB-264X-O-1",
+    "origin": "大埔墟站",
+    "destination": "天耀"
+  },
+  "8309": {
+    "record_id": "KMB-2X-O-1",
+    "origin": "彩福",
+    "destination": "美孚"
+  },
+  "8311": {
+    "record_id": "KMB-259X-O-1",
+    "origin": "屯門(龍門居)",
+    "destination": "觀塘碼頭"
+  },
+  "8312": {
+    "record_id": "KMB-16X-O-1",
+    "origin": "藍田(廣田邨)",
+    "destination": "旺角(柏景灣)"
+  },
+  "8313": {
+    "record_id": "KMB-N36-O-1",
+    "origin": "荃灣站",
+    "destination": "梨木樹(循環線)"
+  },
+  "8314": {
+    "record_id": "KMB-N39-O-1",
+    "origin": "荃灣站",
+    "destination": "荃威花園(循環線)"
+  },
+  "8317": {
+    "record_id": "KMB-603-O-2",
+    "origin": "平田",
+    "destination": "金鐘(海富中心)"
+  },
+  "8318": {
+    "record_id": "KMB-87E-O-1",
+    "origin": "泥涌",
+    "destination": "尖沙咀"
+  },
+  "8319": {
+    "record_id": "KMB-298-O-1",
+    "origin": "坑口站",
+    "destination": "百勝角(循環線)"
+  },
+  "8320": {
+    "record_id": "KMB-S64C-O-1",
+    "origin": "東涌(逸東)",
+    "destination": "航膳東路(循環線)"
+  },
+  "8321": {
+    "record_id": "KMB-S64X-O-1",
+    "origin": "東涌(滿東)",
+    "destination": "機場(循環線)"
+  },
+  "8322": {
+    "record_id": "KMB-S64X-O-1",
+    "origin": "東涌(滿東)",
+    "destination": "機場(循環線)(經機場博覽館)"
+  },
+  "8328": {
+    "record_id": "KMB-40-O-1",
+    "origin": "荃灣(麗城花園)",
+    "destination": "麗港城(經長沙灣)"
+  },
+  "8332": {
+    "record_id": "KMB-270C-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8343": {
+    "record_id": "KMB-213M-O-1",
+    "origin": "安泰",
+    "destination": "藍田站(循環線)"
+  },
+  "8345": {
+    "record_id": "KMB-270D-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "深水埗"
+  },
+  "8347": {
+    "record_id": "KMB-S64P-O-1",
+    "origin": "翔東邨",
+    "destination": "機場(貨運及航膳區)(循環線)"
+  },
+  "8348": {
+    "record_id": "KMB-68F-O-1",
+    "origin": "峻巒",
+    "destination": "元朗公園(循環線)"
+  },
+  "8349": {
+    "record_id": "KMB-A37-O-1",
+    "origin": "朗屏站",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8352": {
+    "record_id": "KMB-213X-O-1",
+    "origin": "安泰(南)(恒泰樓)",
+    "destination": "尖沙咀(循環線)"
+  },
+  "8353": {
+    "record_id": "KMB-6P-O-1",
+    "origin": "長沙灣(蘇屋邨)",
+    "destination": "鯉魚門邨"
+  },
+  "8354": {
+    "record_id": "KMB-214-O-1",
+    "origin": "油塘",
+    "destination": "長沙灣(甘泉街)"
+  },
+  "8357": {
+    "record_id": "KMB-213D-O-1",
+    "origin": "中秀茂坪",
+    "destination": "旺角(循環線)"
+  },
+  "8359": {
+    "record_id": "KMB-288A-O-1",
+    "origin": "水泉澳",
+    "destination": "沙田市中心"
+  },
+  "8361": {
+    "record_id": "KMB-A47X-O-1",
+    "origin": "大埔(太和)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8363": {
+    "record_id": "KMB-91S-O-1",
+    "origin": "清水灣",
+    "destination": "觀塘"
+  },
+  "8365": {
+    "record_id": "KMB-269S-O-1",
+    "origin": "天水圍市中心",
+    "destination": "觀塘碼頭"
+  },
+  "8368": {
+    "record_id": "KMB-E32-O-1",
+    "origin": "葵芳(南)",
+    "destination": "航天城(經青衣中/南)"
+  },
+  "8369": {
+    "record_id": "KMB-A36-O-1",
+    "origin": "錦上路站",
+    "destination": "機場(地面運輸中心)(經國泰城)"
+  },
+  "8372": {
+    "record_id": "KMB-A33X-O-1",
+    "origin": "屯門(富泰邨)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8373": {
+    "record_id": "KMB-A33X-O-1",
+    "origin": "屯門(富泰邨)",
+    "destination": "機場(地面運輸中心)(經國泰城)"
+  },
+  "8374": {
+    "record_id": "KMB-44M-O-2",
+    "origin": "青衣(長安邨)",
+    "destination": "葵興站"
+  },
+  "8376": {
+    "record_id": "KMB-258X-O-1",
+    "origin": "屯門(寶田邨)",
+    "destination": "觀塘碼頭"
+  },
+  "8377": {
+    "record_id": "KMB-267X-O-1",
+    "origin": "屯門(兆康苑)",
+    "destination": "藍田站"
+  },
+  "8378": {
+    "record_id": "KMB-673P-O-1",
+    "origin": "上水",
+    "destination": "中環(林士街)"
+  },
+  "8379": {
+    "record_id": "KMB-3X-O-1",
+    "origin": "慈雲山(北)",
+    "destination": "中港碼頭(經富山)"
+  },
+  "8380": {
+    "record_id": "KMB-43C-I-1",
+    "origin": "維港灣",
+    "destination": "青衣(長亨邨)"
+  },
+  "8381": {
+    "record_id": "KMB-A32-O-1",
+    "origin": "葵涌邨",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8382": {
+    "record_id": "KMB-47X-O-1",
+    "origin": "秦石",
+    "destination": "葵盛(東)(不經沙田市中心)"
+  },
+  "8384": {
+    "record_id": "KMB-74E-O-1",
+    "origin": "大美督",
+    "destination": "觀塘碼頭"
+  },
+  "8385": {
+    "record_id": "KMB-74B-I-1",
+    "origin": "大埔中心",
+    "destination": "觀塘碼頭"
+  },
+  "8390": {
+    "record_id": "KMB-74X-O-3",
+    "origin": "廣福邨",
+    "destination": "觀塘碼頭"
+  },
+  "8391": {
+    "record_id": "KMB-74X-O-2",
+    "origin": "運頭塘邨",
+    "destination": "觀塘碼頭"
+  },
+  "8393": {
+    "record_id": "KMB-968-O-2",
+    "origin": "元朗公園",
+    "destination": "銅鑼灣(天后)"
+  },
+  "8394": {
+    "record_id": "KMB-A38-O-1",
+    "origin": "荃灣(荃威花園)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8396": {
+    "record_id": "KMB-A47X-O-1",
+    "origin": "大埔(太和)",
+    "destination": "機場(地面運輸中心)(經白石角及國泰城)"
+  },
+  "8397": {
+    "record_id": "KMB-NA43-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "港珠澳大橋香港口岸"
+  },
+  "8398": {
+    "record_id": "KMB-NA41-O-1",
+    "origin": "水泉澳",
+    "destination": "港珠澳大橋香港口岸"
+  },
+  "8399": {
+    "record_id": "KMB-NA40-O-1",
+    "origin": "烏溪沙站",
+    "destination": "港珠澳大橋香港口岸"
+  },
+  "8400": {
+    "record_id": "KMB-N283-O-1",
+    "origin": "尖沙咀東(麼地道)",
+    "destination": "黃泥頭"
+  },
+  "8401": {
+    "record_id": "KMB-47A-O-1",
+    "origin": "水泉澳",
+    "destination": "葵芳(南)"
+  },
+  "8409": {
+    "record_id": "KMB-290X-O-1",
+    "origin": "康城站",
+    "destination": "荃灣西站"
+  },
+  "8413": {
+    "record_id": "KMB-271B-O-1",
+    "origin": "大埔(富亨)",
+    "destination": "佐敦(西九龍站)"
+  },
+  "8414": {
+    "record_id": "KMB-271X-O-1",
+    "origin": "佐敦(西九龍站)",
+    "destination": "大埔(富亨)"
+  },
+  "8415": {
+    "record_id": "KMB-271-O-1",
+    "origin": "大埔(富亨)(不經大埔太和路)",
+    "destination": "佐敦(西九龍站)"
+  },
+  "8420": {
+    "record_id": "KMB-296M-I-2",
+    "origin": "唐明苑",
+    "destination": "康盛花園"
+  },
+  "8425": {
+    "record_id": "KMB-91M-I-2",
+    "origin": "香港科技大學(北)",
+    "destination": "寶林"
+  },
+  "8426": {
+    "record_id": "KMB-91P-I-1",
+    "origin": "香港科技大學(南)",
+    "destination": "坪石 / 彩虹站"
+  },
+  "8431": {
+    "record_id": "KMB-E32A-O-1",
+    "origin": "葵芳(南)",
+    "destination": "東涌發展碼頭"
+  },
+  "8432": {
+    "record_id": "KMB-75X-O-1",
+    "origin": "大埔(富善)(經大埔中心總站)",
+    "destination": "九龍城碼頭"
+  },
+  "8435": {
+    "record_id": "KMB-613-O-1",
+    "origin": "安泰(西)(和泰樓)",
+    "destination": "筲箕灣"
+  },
+  "8436": {
+    "record_id": "KMB-3D-O-2",
+    "origin": "慈雲山(南)",
+    "destination": "觀塘(裕民坊)"
+  },
+  "8437": {
+    "record_id": "KMB-3D-O-3",
+    "origin": "正康樓",
+    "destination": "觀塘(裕民坊)"
+  },
+  "8440": {
+    "record_id": "KMB-3M-I-2",
+    "origin": "彩雲",
+    "destination": "慈雲山(南)"
+  },
+  "8459": {
+    "record_id": "KMB-48P-O-1",
+    "origin": "火炭駿洋邨",
+    "destination": "青龍頭"
+  },
+  "8469": {
+    "record_id": "KMB-B1-O-2",
+    "origin": "媽橫路(山水樓)",
+    "destination": "落馬洲站(福田)"
+  },
+  "8472": {
+    "record_id": "KMB-213S-O-1",
+    "origin": "安達",
+    "destination": "藍田站(循環線)"
+  },
+  "8473": {
+    "record_id": "KMB-88-O-1",
+    "origin": "中秀茂坪",
+    "destination": "大圍站"
+  },
+  "8480": {
+    "record_id": "KMB-278A-O-1",
+    "origin": "皇后山",
+    "destination": "荃灣(如心廣場)"
+  },
+  "8482": {
+    "record_id": "KMB-224X-O-3",
+    "origin": "啟德巴士總站",
+    "destination": "尖沙咀東(循環線)"
+  },
+  "8491": {
+    "record_id": "KMB-279A-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "青衣站"
+  },
+  "8492": {
+    "record_id": "KMB-83X-O-1",
+    "origin": "水泉澳",
+    "destination": "觀塘碼頭"
+  },
+  "8493": {
+    "record_id": "KMB-49X-O-2",
+    "origin": "碩門邨",
+    "destination": "青衣碼頭"
+  },
+  "8494": {
+    "record_id": "KMB-49X-O-1",
+    "origin": "廣源",
+    "destination": "青衣碼頭(不經沙田市中心)"
+  },
+  "8496": {
+    "record_id": "KMB-214-O-2",
+    "origin": "寶達",
+    "destination": "荔枝角站"
+  },
+  "8497": {
+    "record_id": "KMB-80-O-1",
+    "origin": "美林",
+    "destination": "觀塘碼頭(不經顯徑)"
+  },
+  "8498": {
+    "record_id": "KMB-80A-O-1",
+    "origin": "美林",
+    "destination": "觀塘碼頭"
+  },
+  "8500": {
+    "record_id": "KMB-43D-O-1",
+    "origin": "青衣(長宏邨)",
+    "destination": "葵盛"
+  },
+  "8503": {
+    "record_id": "KMB-252X-O-1",
+    "origin": "恒順園",
+    "destination": "藍田站"
+  },
+  "8504": {
+    "record_id": "KMB-87S-I-1",
+    "origin": "錦英苑",
+    "destination": "大學站(循環線)"
+  },
+  "8505": {
+    "record_id": "KMB-272E-O-1",
+    "origin": "大埔(太和)",
+    "destination": "旺角(柏景灣)"
+  },
+  "8509": {
+    "record_id": "KMB-288B-O-1",
+    "origin": "水泉澳",
+    "destination": "火炭駿洋邨"
+  },
+  "8510": {
+    "record_id": "KMB-280X-O-2",
+    "origin": "駿景園",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8511": {
+    "record_id": "KMB-N41X-O-1",
+    "origin": "紅磡站",
+    "destination": "青衣(長宏邨)"
+  },
+  "8512": {
+    "record_id": "KMB-296P-O-1",
+    "origin": "尚德",
+    "destination": "荔枝角站"
+  },
+  "8513": {
+    "record_id": "KMB-N287-O-1",
+    "origin": "尖沙咀東(麼地道)",
+    "destination": "烏溪沙站"
+  },
+  "8514": {
+    "record_id": "KMB-64K-O-2",
+    "origin": "梧桐寨(白牛石)",
+    "destination": "大埔(太和)"
+  },
+  "8517": {
+    "record_id": "KMB-89D-O-1",
+    "origin": "烏溪沙站(不經彩虹)",
+    "destination": "藍田站"
+  },
+  "8518": {
+    "record_id": "KMB-89S-O-1",
+    "origin": "水泉澳",
+    "destination": "烏溪沙站"
+  },
+  "8519": {
+    "record_id": "KMB-89S-O-1",
+    "origin": "水泉澳",
+    "destination": "烏溪沙站(不經圓洲角及耀沙路)"
+  },
+  "8520": {
+    "record_id": "KMB-89P-O-2",
+    "origin": "恒康街",
+    "destination": "藍田站"
+  },
+  "8521": {
+    "record_id": "KMB-936-O-1",
+    "origin": "荃灣(石圍角)",
+    "destination": "銅鑼灣(棉花路)"
+  },
+  "8522": {
+    "record_id": "KMB-293S-O-1",
+    "origin": "坑口(銀澳路)",
+    "destination": "美孚"
+  },
+  "8523": {
+    "record_id": "KMB-968A-O-1",
+    "origin": "元朗(西)",
+    "destination": "銅鑼灣(天后)"
+  },
+  "8524": {
+    "record_id": "KMB-40A-O-1",
+    "origin": "葵興站",
+    "destination": "平田"
+  },
+  "8525": {
+    "record_id": "KMB-234D-O-1",
+    "origin": "青龍頭",
+    "destination": "觀塘(翠屏北邨)"
+  },
+  "8526": {
+    "record_id": "KMB-268A-O-1",
+    "origin": "朗屏邨",
+    "destination": "觀塘碼頭"
+  },
+  "8527": {
+    "record_id": "KMB-NA47-O-1",
+    "origin": "大埔(太和)",
+    "destination": "港珠澳大橋香港口岸"
+  },
+  "8532": {
+    "record_id": "KMB-X42P-O-1",
+    "origin": "青衣站",
+    "destination": "藍田站"
+  },
+  "8534": {
+    "record_id": "KMB-603A-O-1",
+    "origin": "平田",
+    "destination": "中環街市"
+  },
+  "8537": {
+    "record_id": "KMB-38B-O-1",
+    "origin": "荃灣(海濱花園)",
+    "destination": "碩門邨"
+  },
+  "8538": {
+    "record_id": "KMB-271S-O-1",
+    "origin": "紅磡站",
+    "destination": "大埔(太和)"
+  },
+  "8539": {
+    "record_id": "KMB-X89D-O-1",
+    "origin": "泥涌",
+    "destination": "觀塘碼頭"
+  },
+  "8540": {
+    "record_id": "KMB-X42C-O-2",
+    "origin": "長康邨康祥樓",
+    "destination": "油塘"
+  },
+  "8543": {
+    "record_id": "KMB-38P-O-1",
+    "origin": "葵盛(中)",
+    "destination": "平田"
+  },
+  "8544": {
+    "record_id": "KMB-5C-O-2",
+    "origin": "毓華街",
+    "destination": "尖沙咀碼頭"
+  },
+  "8546": {
+    "record_id": "KMB-52P-O-1",
+    "origin": "掃管笏",
+    "destination": "旺角(柏景灣)"
+  },
+  "8548": {
+    "record_id": "KMB-261B-O-2",
+    "origin": "掃管笏",
+    "destination": "九龍站"
+  },
+  "8549": {
+    "record_id": "KMB-3B-O-1",
+    "origin": "慈雲山(中)(不停正暉樓)",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "8551": {
+    "record_id": "KMB-5C-O-1",
+    "origin": "慈雲山(中)(不停正暉樓)",
+    "destination": "尖沙咀碼頭"
+  },
+  "8552": {
+    "record_id": "KMB-263A-O-1",
+    "origin": "屯門站",
+    "destination": "香港科學園"
+  },
+  "8553": {
+    "record_id": "KMB-14H-O-1",
+    "origin": "油塘",
+    "destination": "順利(循環線)"
+  },
+  "8556": {
+    "record_id": "KMB-32H-O-1",
+    "origin": "象山",
+    "destination": "荔枝角"
+  },
+  "8557": {
+    "record_id": "KMB-258A-O-1",
+    "origin": "洪水橋(洪福邨)",
+    "destination": "藍田站"
+  },
+  "8558": {
+    "record_id": "KMB-258P-I-1",
+    "origin": "藍田站",
+    "destination": "洪天路洪福邨"
+  },
+  "8559": {
+    "record_id": "KMB-960C-O-1",
+    "origin": "屯門(富泰邨)",
+    "destination": "銅鑼灣(維園)"
+  },
+  "8578": {
+    "record_id": "KMB-268P-I-1",
+    "origin": "觀塘碼頭",
+    "destination": "朗屏站"
+  },
+  "8579": {
+    "record_id": "KMB-3X-O-1",
+    "origin": "慈雲山(北)",
+    "destination": "中港碼頭"
+  },
+  "8595": {
+    "record_id": "KMB-252-O-1",
+    "origin": "屯門公路轉車站",
+    "destination": "掃管笏(循環線)"
+  },
+  "8605": {
+    "record_id": "KMB-211A-O-1",
+    "origin": "樂富",
+    "destination": "翠竹花園(循環線)"
+  },
+  "8607": {
+    "record_id": "KMB-N290-O-1",
+    "origin": "荃灣西站",
+    "destination": "康城站"
+  },
+  "8608": {
+    "record_id": "KMB-261P-I-1",
+    "origin": "上水(天平)",
+    "destination": "屯門(兆康苑)"
+  },
+  "8610": {
+    "record_id": "KMB-58M-O-2",
+    "origin": "屯門(建生邨)",
+    "destination": "葵芳站"
+  },
+  "8611": {
+    "record_id": "KMB-58M-O-3",
+    "origin": "屯門(寶田邨)",
+    "destination": "葵芳站"
+  },
+  "8612": {
+    "record_id": "KMB-59M-O-3",
+    "origin": "新屯門中心",
+    "destination": "荃灣站"
+  },
+  "8613": {
+    "record_id": "KMB-59M-O-2",
+    "origin": "悅湖山莊",
+    "destination": "荃灣站"
+  },
+  "8614": {
+    "record_id": "KMB-59X-O-2",
+    "origin": "新屯門中心",
+    "destination": "旺角東站"
+  },
+  "8615": {
+    "record_id": "KMB-59X-O-3",
+    "origin": "屯門(龍門居)",
+    "destination": "旺角東站"
+  },
+  "8617": {
+    "record_id": "KMB-269B-O-4",
+    "origin": "天恩邨",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "8618": {
+    "record_id": "KMB-260X-O-3",
+    "origin": "屯門(大興邨)",
+    "destination": "紅磡站"
+  },
+  "8619": {
+    "record_id": "KMB-69X-O-2",
+    "origin": "天耀",
+    "destination": "佐敦(西九龍站)"
+  },
+  "8626": {
+    "record_id": "KMB-N373-O-1",
+    "origin": "粉嶺 (聯和墟)",
+    "destination": "中環 (港澳碼頭)"
+  },
+  "8627": {
+    "record_id": "KMB-N3D-O-1",
+    "origin": "觀塘(裕民坊)",
+    "destination": "慈雲山(中)"
+  },
+  "8628": {
+    "record_id": "KMB-274-O-1",
+    "origin": "上水(太平)",
+    "destination": "烏溪沙站"
+  },
+  "8637": {
+    "record_id": "KMB-936A-O-1",
+    "origin": "荃灣(石圍角)",
+    "destination": "銅鑼灣(棉花路)"
+  },
+  "8638": {
+    "record_id": "KMB-NA31-I-1",
+    "origin": "港珠澳大橋香港口岸",
+    "destination": "荃灣(如心廣場)"
+  },
+  "8639": {
+    "record_id": "KMB-NA32-I-1",
+    "origin": "港珠澳大橋香港口岸",
+    "destination": "葵涌邨"
+  },
+  "8640": {
+    "record_id": "KMB-A36-O-1",
+    "origin": "錦上路站",
+    "destination": "機場(地面運輸中心)(經國泰城及民航處總部)"
+  },
+  "8642": {
+    "record_id": "KMB-26X-I-1",
+    "origin": "尖沙咀東",
+    "destination": "順天"
+  },
+  "8643": {
+    "record_id": "KMB-213X-O-1",
+    "origin": "安泰(南)(恒泰樓)",
+    "destination": "尖沙咀(循環線)(經觀塘繞道)"
+  },
+  "8649": {
+    "record_id": "KMB-E33P-O-2",
+    "origin": "寶怡花園",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8650": {
+    "record_id": "KMB-S64C-O-3",
+    "origin": "超級一號貨站",
+    "destination": "東涌(逸東)"
+  },
+  "8652": {
+    "record_id": "KMB-68-O-1",
+    "origin": "峻巒",
+    "destination": "形點(循環線)"
+  },
+  "8657": {
+    "record_id": "KMB-73X-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "大埔(富善)(經大埔中心)"
+  },
+  "8668": {
+    "record_id": "KMB-73B-O-1",
+    "origin": "全安路(那打素醫院)",
+    "destination": "上水(循環線)"
+  },
+  "8669": {
+    "record_id": "KMB-270B-O-1",
+    "origin": "上水",
+    "destination": "奧運站"
+  },
+  "8670": {
+    "record_id": "KMB-270B-O-2",
+    "origin": "上水",
+    "destination": "富榮花園"
+  },
+  "8677": {
+    "record_id": "KMB-261X-O-1",
+    "origin": "掃管笏",
+    "destination": "粉嶺(祥華)"
+  },
+  "8679": {
+    "record_id": "KMB-31P-O-1",
+    "origin": "石籬商場",
+    "destination": "葵芳站"
+  },
+  "8680": {
+    "record_id": "KMB-290X-O-1",
+    "origin": "康城站(經消防及救護學院)",
+    "destination": "荃灣西站"
+  },
+  "8681": {
+    "record_id": "KMB-290A-O-2",
+    "origin": "上秀茂坪",
+    "destination": "荃灣西站"
+  },
+  "8683": {
+    "record_id": "KMB-98A-O-3",
+    "origin": "牛頭角站",
+    "destination": "坑口(北) (將軍澳醫院)(夜間繁忙時間特別服務)"
+  },
+  "8689": {
+    "record_id": "KMB-213A-O-1",
+    "origin": "安達",
+    "destination": "坪石 / 彩虹站"
+  },
+  "8694": {
+    "record_id": "KMB-64P-O-1",
+    "origin": "大埔墟站",
+    "destination": "嘉道理農場"
+  },
+  "8695": {
+    "record_id": "KMB-289R-O-1",
+    "origin": "黃石碼頭",
+    "destination": "沙田巿中心"
+  },
+  "8696": {
+    "record_id": "KMB-213B-O-1",
+    "origin": "安泰",
+    "destination": "觀塘"
+  },
+  "8699": {
+    "record_id": "KMB-N252-O-1",
+    "origin": "美孚",
+    "destination": "屯門(三聖邨)"
+  },
+  "8703": {
+    "record_id": "KMB-263C-O-1",
+    "origin": "屯門站",
+    "destination": "香港教育大學"
+  },
+  "8708": {
+    "record_id": "KMB-47X-O-4",
+    "origin": "新田圍",
+    "destination": "葵盛(東)"
+  },
+  "8709": {
+    "record_id": "KMB-47A-O-1",
+    "origin": "水泉澳",
+    "destination": "葵芳(南)(不經沙田市中心)"
+  },
+  "8710": {
+    "record_id": "KMB-291P-O-1",
+    "origin": "香港科技大學(南)",
+    "destination": "旺角"
+  },
+  "8711": {
+    "record_id": "KMB-77K-O-3",
+    "origin": "上水",
+    "destination": "八鄉路"
+  },
+  "8716": {
+    "record_id": "KMB-33-O-1",
+    "origin": "荃灣西站",
+    "destination": "油塘"
+  },
+  "8717": {
+    "record_id": "KMB-261S-O-1",
+    "origin": "屯門(寶田邨)",
+    "destination": "上水(天平)"
+  },
+  "8718": {
+    "record_id": "KMB-252X-O-2",
+    "origin": "掃管笏",
+    "destination": "藍田站"
+  },
+  "8720": {
+    "record_id": "KMB-288C-O-1",
+    "origin": "水泉澳",
+    "destination": "顯徑"
+  },
+  "8721": {
+    "record_id": "KMB-24-O-1",
+    "origin": "啟業",
+    "destination": "旺角(循環線)(星期一至五上午繁忙時間服務)"
+  },
+  "8728": {
+    "record_id": "KMB-T74-O-1",
+    "origin": "梧桐寨(白牛石)",
+    "destination": "觀塘碼頭"
+  },
+  "8729": {
+    "record_id": "KMB-69C-O-1",
+    "origin": "天恩邨",
+    "destination": "觀塘碼頭(不經濕地公園路)"
+  },
+  "8731": {
+    "record_id": "KMB-269D-O-2",
+    "origin": "天水圍站",
+    "destination": "瀝源"
+  },
+  "8733": {
+    "record_id": "KMB-277A-O-1",
+    "origin": "沙頭角",
+    "destination": "藍田站"
+  },
+  "8736": {
+    "record_id": "KMB-N213-O-1",
+    "origin": "尖沙咀東(麼地道)",
+    "destination": "安泰(西)"
+  },
+  "8738": {
+    "record_id": "KMB-214P-O-1",
+    "origin": "安秀道",
+    "destination": "荔枝角站"
+  },
+  "8743": {
+    "record_id": "KMB-92R-O-1",
+    "origin": "西貢",
+    "destination": "尖沙咀碼頭"
+  },
+  "8744": {
+    "record_id": "KMB-73P-I-1",
+    "origin": "大美督",
+    "destination": "荃灣(如心廣場)"
+  },
+  "8747": {
+    "record_id": "KMB-82D-I-1",
+    "origin": "大圍站",
+    "destination": "白石角"
+  },
+  "8749": {
+    "record_id": "KMB-74F-O-1",
+    "origin": "觀塘碼頭",
+    "destination": "香港教育大學"
+  },
+  "8756": {
+    "record_id": "KMB-W3-O-1",
+    "origin": "上水",
+    "destination": "佐敦(西九龍站)"
+  },
+  "8758": {
+    "record_id": "KMB-276C-O-1",
+    "origin": "天水圍站",
+    "destination": "粉嶺(祥華)"
+  },
+  "8760": {
+    "record_id": "KMB-23M-O-1",
+    "origin": "樂華",
+    "destination": "順利(循環線)(經九龍灣)"
+  },
+  "8764": {
+    "record_id": "KMB-NA37-O-1",
+    "origin": "天水圍市中心",
+    "destination": "國泰城"
+  },
+  "8768": {
+    "record_id": "KMB-73D-I-1",
+    "origin": "廣福街市",
+    "destination": "荃灣(如心廣場)"
+  },
+  "8771": {
+    "record_id": "KMB-46S-O-1",
+    "origin": "顯徑",
+    "destination": "荃灣(如心廣場)"
+  },
+  "8772": {
+    "record_id": "KMB-83P-O-1",
+    "origin": "黃泥頭",
+    "destination": "禾輋"
+  },
+  "8773": {
+    "record_id": "KMB-108-O-3",
+    "origin": "九龍城(盛德街)",
+    "destination": "銅鑼灣(邊寧頓街)"
+  },
+  "8778": {
+    "record_id": "KMB-A33-O-1",
+    "origin": "屯門公路轉車站",
+    "destination": "機場(地面運輸中心)(經博覽館)"
+  },
+  "8779": {
+    "record_id": "KMB-A37-O-1",
+    "origin": "朗屏站",
+    "destination": "機場(地面運輸中心)(經博覽館)"
+  },
+  "8781": {
+    "record_id": "KMB-287D-O-1",
+    "origin": "紅磡站",
+    "destination": "錦英苑"
+  },
+  "8786": {
+    "record_id": "KMB-73D-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "大埔(富善)"
+  },
+  "8787": {
+    "record_id": "KMB-285-O-1",
+    "origin": "火炭駿洋邨",
+    "destination": "沙田市中心(循環線)"
+  },
+  "8788": {
+    "record_id": "KMB-285A-O-1",
+    "origin": "火炭駿洋邨",
+    "destination": "火炭站 (循環線)(上午班次)"
+  },
+  "8791": {
+    "record_id": "KMB-98-O-1",
+    "origin": "將軍澳工業邨",
+    "destination": "牛頭角站(循環線)"
+  },
+  "8798": {
+    "record_id": "KMB-13D-O-1",
+    "origin": "寶達",
+    "destination": "維港灣(不經深旺道)"
+  },
+  "8799": {
+    "record_id": "KMB-13M-O-2",
+    "origin": "寶達",
+    "destination": "觀塘站"
+  },
+  "8800": {
+    "record_id": "KMB-13X-O-1",
+    "origin": "寶達",
+    "destination": "尖沙咀東(不經麗晶花園及啟業)"
+  },
+  "8801": {
+    "record_id": "KMB-13X-O-1",
+    "origin": "寶達",
+    "destination": "尖沙咀東(不經麗晶花園及啟業, 不停曲街)"
+  },
+  "8802": {
+    "record_id": "KMB-13X-O-3",
+    "origin": "彩褔",
+    "destination": "尖沙咀東"
+  },
+  "8803": {
+    "record_id": "KMB-A34-O-1",
+    "origin": "洪水橋(洪元路)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8804": {
+    "record_id": "KMB-A34-O-2",
+    "origin": "兆康路",
+    "destination": "機場(地面運輸中心)"
+  },
+  "8805": {
+    "record_id": "KMB-A33-O-1",
+    "origin": "屯門公路轉車站",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000001": {
+    "record_id": "KMB-43S-O-1",
+    "origin": "石蔭",
+    "destination": "香港科學園"
+  },
+  "1000002": {
+    "record_id": "KMB-74P-I-2",
+    "origin": "香港科學園",
+    "destination": "觀塘碼頭"
+  },
+  "1000007": {
+    "record_id": "KMB-215X-O-1",
+    "origin": "藍田(廣田邨)",
+    "destination": "九龍站(不停曲街)"
+  },
+  "1000008": {
+    "record_id": "KMB-3X-I-1",
+    "origin": "中港碼頭",
+    "destination": "慈雲山(北)"
+  },
+  "1000011": {
+    "record_id": "KMB-A43P-O-1",
+    "origin": "粉嶺(聯和墟)(經亞洲國際博覽館)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000016": {
+    "record_id": "KMB-900-O-1",
+    "origin": "白石角",
+    "destination": "灣仔(會展)"
+  },
+  "1000021": {
+    "record_id": "KMB-298F-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "將軍澳工業邨(循環線)"
+  },
+  "1000022": {
+    "record_id": "KMB-E43-O-1",
+    "origin": "粉嶺(華明)",
+    "destination": "東涌發展碼頭"
+  },
+  "1000023": {
+    "record_id": "KMB-A41P-O-1",
+    "origin": "烏溪沙站",
+    "destination": "機場(地面運輸中心)(經亞洲國際博覽館)"
+  },
+  "1000024": {
+    "record_id": "KMB-249X-I-2",
+    "origin": "青衣站",
+    "destination": "大圍站"
+  },
+  "1000025": {
+    "record_id": "KMB-E36-O-1",
+    "origin": "八鄉路",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000026": {
+    "record_id": "KMB-E36A-O-1",
+    "origin": "元朗(德業街)",
+    "destination": "東涌(逸東)"
+  },
+  "1000027": {
+    "record_id": "KMB-E36P-O-1",
+    "origin": "上村",
+    "destination": "航天城"
+  },
+  "1000028": {
+    "record_id": "KMB-E37-O-1",
+    "origin": "天水圍市中心",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000029": {
+    "record_id": "KMB-NA36-I-1",
+    "origin": "錦上路站",
+    "destination": "國泰城"
+  },
+  "1000031": {
+    "record_id": "KMB-E37-O-1",
+    "origin": "天水圍市中心",
+    "destination": "機場(地面運輸中心)(不經天水圍北)"
+  },
+  "1000033": {
+    "record_id": "KMB-E37-O-3",
+    "origin": "天頌苑頌棋閣",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000035": {
+    "record_id": "KMB-287P-O-1",
+    "origin": "水泉澳",
+    "destination": "油麻地"
+  },
+  "1000037": {
+    "record_id": "KMB-N214-O-1",
+    "origin": "油塘",
+    "destination": "美孚"
+  },
+  "1000044": {
+    "record_id": "KMB-P960-O-1",
+    "origin": "兆康站(北)",
+    "destination": "會展站"
+  },
+  "1000045": {
+    "record_id": "KMB-P968-O-1",
+    "origin": "元朗(西)",
+    "destination": "銅鑼灣(天后)"
+  },
+  "1000046": {
+    "record_id": "KMB-P968-O-2",
+    "origin": "朗屏站",
+    "destination": "銅鑼灣(天后)"
+  },
+  "1000047": {
+    "record_id": "KMB-A34-O-1",
+    "origin": "洪水橋(洪元路)",
+    "destination": "機場(地面運輸中心)(經亞洲國際博覽館)"
+  },
+  "1000048": {
+    "record_id": "KMB-87E-I-1",
+    "origin": "尖沙咀東(麼地道)",
+    "destination": "泥涌"
+  },
+  "1000049": {
+    "record_id": "KMB-A34-O-2",
+    "origin": "兆康路",
+    "destination": "機場(地面運輸中心)(經亞洲國際博覽館)"
+  },
+  "1000059": {
+    "record_id": "KMB-X6C-O-1",
+    "origin": "美孚",
+    "destination": "香港兒童醫院"
+  },
+  "1000063": {
+    "record_id": "KMB-613A-O-1",
+    "origin": "安泰(西)",
+    "destination": "杏花邨"
+  },
+  "1000064": {
+    "record_id": "KMB-265S-O-1",
+    "origin": "天水圍市中心",
+    "destination": "香港教育大學(經元朗)"
+  },
+  "1000065": {
+    "record_id": "KMB-E36S-O-1",
+    "origin": "元朗(媽橫路)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000068": {
+    "record_id": "KMB-14B-O-3",
+    "origin": "樂華",
+    "destination": "藍田(廣田邨)"
+  },
+  "1000075": {
+    "record_id": "KMB-961S-O-1",
+    "origin": "屯門(良景邨)",
+    "destination": "銅鑼灣(維園)"
+  },
+  "1000077": {
+    "record_id": "KMB-603A-I-1",
+    "origin": "中環(林士街)",
+    "destination": "平田"
+  },
+  "1000081": {
+    "record_id": "KMB-281-O-1",
+    "origin": "大圍站",
+    "destination": "新田圍 (循環線)"
+  },
+  "1000085": {
+    "record_id": "KMB-33B-O-1",
+    "origin": "荃灣西站",
+    "destination": "油塘"
+  },
+  "1000086": {
+    "record_id": "KMB-78-O-1",
+    "origin": "沙頭角",
+    "destination": "上水(太平)"
+  },
+  "1000088": {
+    "record_id": "KMB-A31-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "機場(地面運輸中心)(經亞洲國際博覽館)"
+  },
+  "1000095": {
+    "record_id": "KMB-5R-O-2",
+    "origin": "啟德郵輪碼頭",
+    "destination": "觀塘 (APM)"
+  },
+  "1000096": {
+    "record_id": "KMB-36-O-2",
+    "origin": "梨木樹",
+    "destination": "荃灣西站"
+  },
+  "1000097": {
+    "record_id": "KMB-43X-O-2",
+    "origin": "保泰街",
+    "destination": "荃灣西站"
+  },
+  "1000099": {
+    "record_id": "KMB-58X-O-2",
+    "origin": "屯門(建生邨)",
+    "destination": "旺角東站"
+  },
+  "1000100": {
+    "record_id": "KMB-74K-O-1",
+    "origin": "大埔墟站",
+    "destination": "三門仔(循環線)(先經三門仔)"
+  },
+  "1000102": {
+    "record_id": "KMB-80X-O-2",
+    "origin": "乙明邨街",
+    "destination": "觀塘碼頭"
+  },
+  "1000103": {
+    "record_id": "KMB-86S-O-2",
+    "origin": "馬鞍山市中心",
+    "destination": "沙田站"
+  },
+  "1000104": {
+    "record_id": "KMB-87K-O-1",
+    "origin": "大學站",
+    "destination": "錦英苑(循環線)(不入頌安總站)"
+  },
+  "1000105": {
+    "record_id": "KMB-87K-O-3",
+    "origin": "錦英苑",
+    "destination": "大學站"
+  },
+  "1000106": {
+    "record_id": "KMB-87K-O-4",
+    "origin": "馬鞍山市中心",
+    "destination": "大學站"
+  },
+  "1000116": {
+    "record_id": "KMB-89C-O-1",
+    "origin": "恒安",
+    "destination": "觀塘(翠屏道)(不經小瀝源及彩虹)"
+  },
+  "1000117": {
+    "record_id": "KMB-91-I-2",
+    "origin": "彩虹轉車站",
+    "destination": "碧海樓 - 清水灣"
+  },
+  "1000142": {
+    "record_id": "KMB-224X-O-1",
+    "origin": "啟業",
+    "destination": "尖沙咀東(循環線)(不停曲街)"
+  },
+  "1000149": {
+    "record_id": "KMB-273A-O-3",
+    "origin": "粉嶺(華明)",
+    "destination": "上水(彩園)"
+  },
+  "1000150": {
+    "record_id": "KMB-276A-O-2",
+    "origin": "天富苑欣富閣",
+    "destination": "上水(太平)"
+  },
+  "1000152": {
+    "record_id": "KMB-289K-O-2",
+    "origin": "富安花園",
+    "destination": "大學站"
+  },
+  "1000190": {
+    "record_id": "KMB-87K-O-5",
+    "origin": "大學站",
+    "destination": "利安"
+  },
+  "1000192": {
+    "record_id": "KMB-296D-O-1",
+    "origin": "尚德",
+    "destination": "九龍站(途經M+)"
+  },
+  "1000195": {
+    "record_id": "KMB-X89D-O-1",
+    "origin": "泥涌",
+    "destination": "觀塘碼頭(經耀沙路)"
+  },
+  "1000196": {
+    "record_id": "KMB-40E-O-1",
+    "origin": "泥涌",
+    "destination": "葵涌(葵芳邨)"
+  },
+  "1000197": {
+    "record_id": "KMB-78A-O-1",
+    "origin": "皇后山",
+    "destination": "粉嶺站(循環線)"
+  },
+  "1000200": {
+    "record_id": "KMB-N78-O-1",
+    "origin": "上水",
+    "destination": "沙頭角"
+  },
+  "1000201": {
+    "record_id": "KMB-5R-O-3",
+    "origin": "牛頭角站",
+    "destination": "啟德郵輪碼頭"
+  },
+  "1000203": {
+    "record_id": "KMB-279B-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "葵興站"
+  },
+  "1000206": {
+    "record_id": "KMB-62P-O-1",
+    "origin": "屯門巿中心",
+    "destination": "鯉魚門邨"
+  },
+  "1000209": {
+    "record_id": "KMB-E37C-O-1",
+    "origin": "天水圍市中心",
+    "destination": "飛機維修區"
+  },
+  "1000210": {
+    "record_id": "KMB-E42C-O-1",
+    "origin": "博康",
+    "destination": "飛機維修區"
+  },
+  "1000212": {
+    "record_id": "KMB-64X-O-1",
+    "origin": "洪水橋(洪元路)",
+    "destination": "香港科學園"
+  },
+  "1000213": {
+    "record_id": "KMB-65X-O-1",
+    "origin": "天恩邨",
+    "destination": "香港科學園"
+  },
+  "1000215": {
+    "record_id": "KMB-31A-O-1",
+    "origin": "葵涌邨",
+    "destination": "石籬(大隴街)"
+  },
+  "1000220": {
+    "record_id": "KMB-281E-O-1",
+    "origin": "尖沙咀海防道",
+    "destination": "廣源"
+  },
+  "1000221": {
+    "record_id": "KMB-A36-O-1",
+    "origin": "錦上路站(經民航處)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000225": {
+    "record_id": "KMB-24-O-1",
+    "origin": "啟業",
+    "destination": "旺角(循環線)(星期一至五下午繁忙時間服務)"
+  },
+  "1000228": {
+    "record_id": "KMB-259S-O-1",
+    "origin": "屯門 (龍門居)",
+    "destination": "觀塘碼頭"
+  },
+  "1000231": {
+    "record_id": "KMB-269X-O-1",
+    "origin": "天瑞",
+    "destination": "佐敦西九龍站"
+  },
+  "1000233": {
+    "record_id": "KMB-78A-O-3",
+    "origin": "皇后山",
+    "destination": "粉嶺站(循環線)(不經山麗苑)"
+  },
+  "1000234": {
+    "record_id": "KMB-78A-O-5",
+    "origin": "山麗苑",
+    "destination": "粉嶺名都"
+  },
+  "1000237": {
+    "record_id": "KMB-73B-O-2",
+    "origin": "海聯廣場",
+    "destination": "全安路(那打素醫院)"
+  },
+  "1000238": {
+    "record_id": "KMB-73B-O-3",
+    "origin": "全安路(那打素醫院)",
+    "destination": "上水站"
+  },
+  "1000239": {
+    "record_id": "KMB-61P-O-1",
+    "origin": "掃管笏",
+    "destination": "荃灣站"
+  },
+  "1000240": {
+    "record_id": "KMB-960X-O-1",
+    "origin": "洪水橋(洪福邨)",
+    "destination": "鰂魚涌(英皇道)"
+  },
+  "1000242": {
+    "record_id": "KMB-67A-O-1",
+    "origin": "屯門(寶田邨)",
+    "destination": "葵芳(葵翠邨)"
+  },
+  "1000260": {
+    "record_id": "KMB-268C-O-1",
+    "origin": "朗屏站(不經四美街)",
+    "destination": "觀塘碼頭"
+  },
+  "1000265": {
+    "record_id": "KMB-93P-O-1",
+    "origin": "寶林",
+    "destination": "旺角(柏景灣)"
+  },
+  "1000269": {
+    "record_id": "KMB-81K-O-1",
+    "origin": "新田圍(經駿洋邨)",
+    "destination": "穗禾苑"
+  },
+  "1000270": {
+    "record_id": "KMB-83K-O-2",
+    "origin": "碩門邨",
+    "destination": "沙田市中心"
+  },
+  "1000271": {
+    "record_id": "KMB-961-O-1",
+    "origin": "屯門(山景邨)",
+    "destination": "灣仔(會展)(經銅鑼灣)"
+  },
+  "1000273": {
+    "record_id": "KMB-78B-O-1",
+    "origin": "皇后山",
+    "destination": "上水(彩園)"
+  },
+  "1000285": {
+    "record_id": "KMB-90-O-1",
+    "origin": "碩門邨",
+    "destination": "將軍澳(彩明)"
+  },
+  "1000286": {
+    "record_id": "KMB-97-O-1",
+    "origin": "烏溪沙站",
+    "destination": "康盛花園"
+  },
+  "1000290": {
+    "record_id": "KMB-272X-O-1",
+    "origin": "大埔中心",
+    "destination": "旺角東站"
+  },
+  "1000292": {
+    "record_id": "KMB-252X-I-1",
+    "origin": "藍田站",
+    "destination": "屯門(置樂花園)"
+  },
+  "1000294": {
+    "record_id": "KMB-263B-O-1",
+    "origin": "屯門站",
+    "destination": "火炭(山尾街)"
+  },
+  "1000306": {
+    "record_id": "KMB-78A-O-6",
+    "origin": "粉嶺中心",
+    "destination": "皇后山"
+  },
+  "1000309": {
+    "record_id": "KMB-R33-I-1",
+    "origin": "屯門站",
+    "destination": "迪士尼樂園"
+  },
+  "1000310": {
+    "record_id": "KMB-R33-O-1",
+    "origin": "迪士尼樂園(經迪欣湖)",
+    "destination": "屯門站"
+  },
+  "1000311": {
+    "record_id": "KMB-R42-I-1",
+    "origin": "大圍站",
+    "destination": "迪士尼樂園"
+  },
+  "1000314": {
+    "record_id": "KMB-96-O-1",
+    "origin": "康盛花園",
+    "destination": "大埔工業邨"
+  },
+  "1000315": {
+    "record_id": "KMB-290E-O-1",
+    "origin": "將軍澳工業邨",
+    "destination": "荃灣西站"
+  },
+  "1000316": {
+    "record_id": "KMB-298X-O-1",
+    "origin": "坑口(北)(將軍澳醫院)",
+    "destination": "美孚"
+  },
+  "1000322": {
+    "record_id": "KMB-74R-O-1",
+    "origin": "大埔(太和)",
+    "destination": "北潭涌"
+  },
+  "1000323": {
+    "record_id": "KMB-33R-O-1",
+    "origin": "荃灣(愉景新城)",
+    "destination": "北潭涌"
+  },
+  "1000324": {
+    "record_id": "KMB-69-O-1",
+    "origin": "天水圍市中心",
+    "destination": "元朗(德業街)"
+  },
+  "1000327": {
+    "record_id": "KMB-288B-I-1",
+    "origin": "火炭駿洋邨",
+    "destination": "水泉澳"
+  },
+  "1000329": {
+    "record_id": "KMB-W2-O-1",
+    "origin": "佐敦(西九龍站)",
+    "destination": "觀塘(循環線)"
+  },
+  "1000330": {
+    "record_id": "KMB-W2-O-2",
+    "origin": "佐敦(西九龍站)",
+    "destination": "麗港公園"
+  },
+  "1000331": {
+    "record_id": "KMB-W2-O-3",
+    "origin": "創紀之城",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1000332": {
+    "record_id": "KMB-68X-O-4",
+    "origin": "朗屏邨悅屏樓",
+    "destination": "旺角(柏景灣)"
+  },
+  "1000333": {
+    "record_id": "KMB-268X-O-3",
+    "origin": "朗屏邨悅屏樓",
+    "destination": "佐敦(西九龍站)"
+  },
+  "1000334": {
+    "record_id": "KMB-203C-O-1",
+    "origin": "深水埗(大坑東)",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1000335": {
+    "record_id": "KMB-203C-O-1",
+    "origin": "深水埗(大坑東)(不經牡丹路及海棠路)",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1000337": {
+    "record_id": "KMB-17-O-3",
+    "origin": "麗晶花園",
+    "destination": "何文田(愛民邨)"
+  },
+  "1000341": {
+    "record_id": "KMB-B9-O-1",
+    "origin": "屯門站",
+    "destination": "香園圍口岸(蓮塘)"
+  },
+  "1000342": {
+    "record_id": "KMB-64K-O-1",
+    "origin": "元朗(西)",
+    "destination": "上村球場"
+  },
+  "1000351": {
+    "record_id": "KMB-273S-I-1",
+    "origin": "粉嶺站",
+    "destination": "粉嶺(華明)"
+  },
+  "1000352": {
+    "record_id": "KMB-2P-O-1",
+    "origin": "長沙灣",
+    "destination": "慈雲山(北)"
+  },
+  "1000353": {
+    "record_id": "KMB-68X-O-3",
+    "origin": "元朗(西)",
+    "destination": "旺角(柏景灣)"
+  },
+  "1000356": {
+    "record_id": "KMB-49M-O-1",
+    "origin": "青衣(青富苑)",
+    "destination": "青衣站 (循環線)"
+  },
+  "1000357": {
+    "record_id": "KMB-269D-O-1",
+    "origin": "天富",
+    "destination": "瀝源(經濕地公園路, 不經元朗)"
+  },
+  "1000365": {
+    "record_id": "KMB-960C-I-1",
+    "origin": "銅鑼灣",
+    "destination": "富泰邨"
+  },
+  "1000366": {
+    "record_id": "KMB-960P-I-1",
+    "origin": "銅鑼灣",
+    "destination": "洪水橋"
+  },
+  "1000367": {
+    "record_id": "KMB-960S-I-1",
+    "origin": "銅鑼灣",
+    "destination": "屯門(富泰邨)"
+  },
+  "1000368": {
+    "record_id": "KMB-241X-O-1",
+    "origin": "青衣(長青邨)",
+    "destination": "九龍城碼頭"
+  },
+  "1000369": {
+    "record_id": "KMB-673A-O-1",
+    "origin": "上水",
+    "destination": "中環(林士街)"
+  },
+  "1000370": {
+    "record_id": "KMB-673A-I-1",
+    "origin": "中環(香港站)",
+    "destination": "上水"
+  },
+  "1000371": {
+    "record_id": "KMB-900-O-1",
+    "origin": "白石角(經大學站)",
+    "destination": "灣仔(會展)"
+  },
+  "1000372": {
+    "record_id": "KMB-N960-O-1",
+    "origin": "屯門(建生邨)",
+    "destination": "灣仔(會展站)"
+  },
+  "1000373": {
+    "record_id": "KMB-80X-O-3",
+    "origin": "新田圍",
+    "destination": "觀塘碼頭"
+  },
+  "1000376": {
+    "record_id": "KMB-252-O-2",
+    "origin": "屯門公路轉車站",
+    "destination": "管翠路"
+  },
+  "1000377": {
+    "record_id": "KMB-252-O-3",
+    "origin": "星堤",
+    "destination": "屯門公路轉車站"
+  },
+  "1000382": {
+    "record_id": "KMB-98-O-1",
+    "origin": "將軍澳工業邨",
+    "destination": "牛頭角站(短程班次)"
+  },
+  "1000383": {
+    "record_id": "KMB-A30-O-1",
+    "origin": "梨木樹",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000384": {
+    "record_id": "KMB-A30-O-1",
+    "origin": "梨木樹",
+    "destination": "機場(地面運輸中心)(經亞洲國際博覽館)"
+  },
+  "1000385": {
+    "record_id": "KMB-936A-I-1",
+    "origin": "銅鑼灣(棉花路)",
+    "destination": "梨木樹"
+  },
+  "1000386": {
+    "record_id": "KMB-98E-O-1",
+    "origin": "坑口(北)",
+    "destination": "美孚"
+  },
+  "1000388": {
+    "record_id": "KMB-272A-O-3",
+    "origin": "白石角",
+    "destination": "大學站"
+  },
+  "1000389": {
+    "record_id": "KMB-272A-O-2",
+    "origin": "大學站",
+    "destination": "博研路"
+  },
+  "1000390": {
+    "record_id": "KMB-36A-O-1",
+    "origin": "梨木樹",
+    "destination": "長沙灣(海達邨)(循環線)"
+  },
+  "1000392": {
+    "record_id": "KMB-275X-O-1",
+    "origin": "大埔(富善)",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1000408": {
+    "record_id": "KMB-78B-O-1",
+    "origin": "皇后山",
+    "destination": "上水(彩園)(不經粉嶺南)"
+  },
+  "1000409": {
+    "record_id": "KMB-79K-O-2",
+    "origin": "粉嶺站",
+    "destination": "打鼓嶺(松園下)"
+  },
+  "1000412": {
+    "record_id": "KMB-49-O-1",
+    "origin": "青富苑",
+    "destination": "將軍澳工業邨"
+  },
+  "1000418": {
+    "record_id": "KMB-251C-O-1",
+    "origin": "江夏圍",
+    "destination": "元朗"
+  },
+  "1000420": {
+    "record_id": "KMB-285A-I-1",
+    "origin": "火炭站",
+    "destination": "火炭駿洋邨(循環線)(下午班次)"
+  },
+  "1000421": {
+    "record_id": "KMB-285A-I-1",
+    "origin": "火炭站",
+    "destination": "火炭駿洋邨(以駿洋邨為終點)"
+  },
+  "1000439": {
+    "record_id": "KMB-219X-O-4",
+    "origin": "高嶺道",
+    "destination": "尖沙咀 (循環線)"
+  },
+  "1000441": {
+    "record_id": "KMB-16P-I-1",
+    "origin": "旺角(柏景灣)",
+    "destination": "觀塘碼頭"
+  },
+  "1000443": {
+    "record_id": "KMB-79K-O-2",
+    "origin": "粉嶺站",
+    "destination": "打鼓嶺(松園下)"
+  },
+  "1000444": {
+    "record_id": "KMB-A41-O-1",
+    "origin": "碩門邨",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000445": {
+    "record_id": "KMB-A41-O-1",
+    "origin": "碩門邨",
+    "destination": "機場(地面運輸中心)(經國泰城及民航處)"
+  },
+  "1000446": {
+    "record_id": "KMB-A41-O-1",
+    "origin": "碩門邨(經民航處)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000447": {
+    "record_id": "KMB-A42-O-1",
+    "origin": "黃泥頭",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000448": {
+    "record_id": "KMB-A46-O-1",
+    "origin": "火炭(駿景園)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000450": {
+    "record_id": "KMB-46P-I-1",
+    "origin": "葵芳站",
+    "destination": "美田"
+  },
+  "1000452": {
+    "record_id": "KMB-A33X-I-2",
+    "origin": "國泰城",
+    "destination": "屯門(富泰邨)"
+  },
+  "1000453": {
+    "record_id": "KMB-73F-O-1",
+    "origin": "荃灣(如心廣場)",
+    "destination": "香港教育大學"
+  },
+  "1000461": {
+    "record_id": "KMB-30X-O-1",
+    "origin": "荃灣(荃威花園)(經祈德尊新邨)",
+    "destination": "黃埔花園"
+  },
+  "1000466": {
+    "record_id": "KMB-78S-O-1",
+    "origin": "上水",
+    "destination": "沙頭角"
+  },
+  "1000467": {
+    "record_id": "KMB-27X-O-1",
+    "origin": "順天",
+    "destination": "奧運站"
+  },
+  "1000473": {
+    "record_id": "KMB-230R-O-1",
+    "origin": "九龍站",
+    "destination": "馬灣(珀欣路)"
+  },
+  "1000487": {
+    "record_id": "KMB-72K-O-1",
+    "origin": "富蝶總站",
+    "destination": "太和(循環線)"
+  },
+  "1000490": {
+    "record_id": "KMB-40B-O-1",
+    "origin": "葵涌邨",
+    "destination": "平田"
+  },
+  "1000492": {
+    "record_id": "KMB-259X-I-3",
+    "origin": "臨華街遊樂場",
+    "destination": "屯門(龍門居)"
+  },
+  "1000505": {
+    "record_id": "KMB-B9A-O-1",
+    "origin": "元朗(西)",
+    "destination": "香園圍口岸(蓮塘)"
+  },
+  "1000506": {
+    "record_id": "KMB-286A-O-1",
+    "origin": "沙田圍",
+    "destination": "長沙灣(循環線)"
+  },
+  "1000512": {
+    "record_id": "KMB-290X-O-2",
+    "origin": "調景嶺站",
+    "destination": "荃灣西站"
+  },
+  "1000514": {
+    "record_id": "KMB-961S-O-1",
+    "origin": "屯門(良景邨)",
+    "destination": "銅鑼灣(維園)(經業旺邨)"
+  },
+  "1000519": {
+    "record_id": "KMB-74-O-1",
+    "origin": "富蝶總站",
+    "destination": "油塘"
+  },
+  "1000522": {
+    "record_id": "KMB-271A-O-1",
+    "origin": "富蝶總站",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1000529": {
+    "record_id": "KMB-269S-O-1",
+    "origin": "天水圍市中心",
+    "destination": "觀塘碼頭(繞經天水圍北)"
+  },
+  "1000530": {
+    "record_id": "KMB-92-O-1",
+    "origin": "西貢",
+    "destination": "鑽石山站(星期六，日及公眾假期特別班次)"
+  },
+  "1000532": {
+    "record_id": "KMB-37X-O-1",
+    "origin": "葵涌邨",
+    "destination": "油麻地"
+  },
+  "1000533": {
+    "record_id": "KMB-85P-O-1",
+    "origin": "泥涌",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1000534": {
+    "record_id": "KMB-40X-O-3",
+    "origin": "烏溪沙站",
+    "destination": "葵芳(南)"
+  },
+  "1000537": {
+    "record_id": "KMB-272P-O-2",
+    "origin": "富蝶總站",
+    "destination": "葵興站"
+  },
+  "1000539": {
+    "record_id": "KMB-273B-O-1",
+    "origin": "上水(清河)",
+    "destination": "上水站(特別班次)"
+  },
+  "1000542": {
+    "record_id": "KMB-HK1-O-1",
+    "origin": "尖沙咀碼頭",
+    "destination": "尖沙咀, 旺角及黃大仙(循環線)"
+  },
+  "1000543": {
+    "record_id": "KMB-96-O-2",
+    "origin": "將軍澳中心",
+    "destination": "大埔工業邨"
+  },
+  "1000545": {
+    "record_id": "KMB-265P-O-1",
+    "origin": "天恩",
+    "destination": "荃灣"
+  },
+  "1000546": {
+    "record_id": "KMB-265S-I-1",
+    "origin": "大埔工業邨",
+    "destination": "天水圍市中心"
+  },
+  "1000551": {
+    "record_id": "KMB-6E-O-1",
+    "origin": "長沙灣(蘇屋邨)",
+    "destination": "鯉魚門邨"
+  },
+  "1000554": {
+    "record_id": "KMB-A47X-O-1",
+    "origin": "大埔(太和)",
+    "destination": "機場(地面運輸中心)(經白石角)"
+  },
+  "1000555": {
+    "record_id": "KMB-A47X-O-1",
+    "origin": "大埔(太和)(經白石角及國泰城)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000563": {
+    "record_id": "KMB-268M-O-1",
+    "origin": "峻巒",
+    "destination": "荃灣西站"
+  },
+  "1000564": {
+    "record_id": "KMB-49A-O-1",
+    "origin": "青富苑",
+    "destination": "荃灣西站"
+  },
+  "1000566": {
+    "record_id": "KMB-234A-O-2",
+    "origin": "青龍頭村",
+    "destination": "荃灣西站"
+  },
+  "1000567": {
+    "record_id": "KMB-NA30-O-1",
+    "origin": "梨木樹邨",
+    "destination": "港珠澳大橋香港口岸"
+  },
+  "1000569": {
+    "record_id": "KMB-40P-O-2",
+    "origin": "石蔭東邨",
+    "destination": "觀塘碼頭"
+  },
+  "1000570": {
+    "record_id": "KMB-89P-O-1",
+    "origin": "馬鞍山市中心",
+    "destination": "藍田站(不經亞公角)"
+  },
+  "1000574": {
+    "record_id": "KMB-E36C-O-1",
+    "origin": "元朗(德業街)",
+    "destination": "飛機維修區"
+  },
+  "1000575": {
+    "record_id": "KMB-272A-O-1",
+    "origin": "大學站",
+    "destination": "博研路(循環線)(經科技大道西)"
+  },
+  "1000587": {
+    "record_id": "KMB-270B-O-1",
+    "origin": "上水(不經粉嶺)",
+    "destination": "奧運站"
+  },
+  "1000588": {
+    "record_id": "KMB-T80-O-1",
+    "origin": "美田",
+    "destination": "九龍灣"
+  },
+  "1000589": {
+    "record_id": "KMB-T80-O-2",
+    "origin": "顯徑",
+    "destination": "九龍灣"
+  },
+  "1000590": {
+    "record_id": "KMB-270D-O-1",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "深水埗"
+  },
+  "1000592": {
+    "record_id": "KMB-268B-O-3",
+    "origin": "洪元路(洪福邨)",
+    "destination": "紅磡(紅鸞道)"
+  },
+  "1000597": {
+    "record_id": "KMB-81X-O-1",
+    "origin": "美田",
+    "destination": "旺角(弼街)"
+  },
+  "1000598": {
+    "record_id": "KMB-T74-I-1",
+    "origin": "觀塘碼頭",
+    "destination": "梧桐寨(白牛石)"
+  },
+  "1000601": {
+    "record_id": "KMB-19-O-1",
+    "origin": "安達臣",
+    "destination": "鑽石山(啟翔苑)"
+  },
+  "1000602": {
+    "record_id": "KMB-600-O-1",
+    "origin": "安達臣",
+    "destination": "中環(林士街)"
+  },
+  "1000606": {
+    "record_id": "KMB-76-O-1",
+    "origin": "攸壆路簡約公屋 (南)",
+    "destination": "上水站 (彩園路) (循環線)"
+  },
+  "1000607": {
+    "record_id": "KMB-268-O-1",
+    "origin": "攸壆路簡約公屋 (南)",
+    "destination": "八鄉路"
+  },
+  "1000612": {
+    "record_id": "KMB-87C-O-1",
+    "origin": "錦英苑",
+    "destination": "紅磡站"
+  },
+  "1000614": {
+    "record_id": "KMB-286D-O-1",
+    "origin": "馬鞍山市中心",
+    "destination": "深水埗"
+  },
+  "1000615": {
+    "record_id": "KMB-E37C-O-2",
+    "origin": "屯門(紅橋)",
+    "destination": "飛機維修區"
+  },
+  "1000623": {
+    "record_id": "KMB-900X-O-1",
+    "origin": "白石角",
+    "destination": "灣仔(會展)"
+  },
+  "1000624": {
+    "record_id": "KMB-81K-O-1",
+    "origin": "新田圍(經大圍站)",
+    "destination": "穗禾苑"
+  },
+  "1000625": {
+    "record_id": "KMB-277E-O-1",
+    "origin": "上水(天平)",
+    "destination": "藍田站(不經清河邨)"
+  },
+  "1000626": {
+    "record_id": "KMB-HK1-O-2",
+    "origin": "尖沙咀碼頭",
+    "destination": "尖沙咀及旺角(循環線)(特別班次)"
+  },
+  "1000632": {
+    "record_id": "KMB-13-O-1",
+    "origin": "安達臣",
+    "destination": "深水埗(欽州街)"
+  },
+  "1000633": {
+    "record_id": "KMB-213E-O-1",
+    "origin": "安達臣",
+    "destination": "九龍站"
+  },
+  "1000634": {
+    "record_id": "KMB-84M-O-2",
+    "origin": "富安花園",
+    "destination": "黃大仙，樂富，廣源，富安花園(循環線)(非繁忙時段班次)"
+  },
+  "1000635": {
+    "record_id": "KMB-A43P-O-3",
+    "origin": "皇后山",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000636": {
+    "record_id": "KMB-A43P-O-3",
+    "origin": "皇后山(經亞洲國際博覽館)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000638": {
+    "record_id": "KMB-278K-O-2",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "粉嶺站(循環線)(往粉嶺站方向途經粉嶺樓路站)"
+  },
+  "1000639": {
+    "record_id": "KMB-278K-O-2",
+    "origin": "粉嶺(聯和墟)",
+    "destination": "粉嶺站(循環線)(往聯和墟方向途經粉嶺樓路站)"
+  },
+  "1000641": {
+    "record_id": "KMB-W4-O-1",
+    "origin": "高鐵(西九龍站)",
+    "destination": "西九文化區 ‧ 尖沙咀 ‧ 高鐵站(循環線)"
+  },
+  "1000642": {
+    "record_id": "KMB-269D-O-1",
+    "origin": "天富",
+    "destination": "瀝源(不經天秀路)"
+  },
+  "1000643": {
+    "record_id": "KMB-NA52-O-1",
+    "origin": "國泰城",
+    "destination": "屯門公路轉車站"
+  },
+  "1000645": {
+    "record_id": "KMB-X42C-O-1",
+    "origin": "青衣(長亨邨)",
+    "destination": "油塘(不經青富苑)"
+  },
+  "1000647": {
+    "record_id": "KMB-270E-O-1",
+    "origin": "尖沙咀東(麼地道)",
+    "destination": "粉嶺(聯和墟)"
+  },
+  "1000651": {
+    "record_id": "KMB-290X-O-1",
+    "origin": "康城站",
+    "destination": "荃灣西站(經消防及救護學院)"
+  },
+  "1000653": {
+    "record_id": "KMB-A41P-O-3",
+    "origin": "西沙灣交通交匯處",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000663": {
+    "record_id": "KMB-33X-O-1",
+    "origin": "荃灣西站",
+    "destination": "油塘"
+  },
+  "1000664": {
+    "record_id": "KMB-252S-O-1",
+    "origin": "恒順園",
+    "destination": "觀塘碼頭"
+  },
+  "1000666": {
+    "record_id": "KMB-259S-I-1",
+    "origin": "觀塘碼頭",
+    "destination": "屯門 (龍門居)"
+  },
+  "1000667": {
+    "record_id": "KMB-B1-O-1",
+    "origin": "天慈",
+    "destination": "落馬洲站(福田)(不經元朗)"
+  },
+  "1000671": {
+    "record_id": "KMB-252S-I-1",
+    "origin": "觀塘碼頭",
+    "destination": "屯門(置樂花園)"
+  },
+  "1000672": {
+    "record_id": "KMB-251C-O-2",
+    "origin": "江夏圍",
+    "destination": "元朗(康樂路)"
+  },
+  "1000674": {
+    "record_id": "KMB-288D-O-1",
+    "origin": "濱景花園",
+    "destination": "水泉澳"
+  },
+  "1000676": {
+    "record_id": "KMB-273A-O-4",
+    "origin": "彩石邨",
+    "destination": "華明(循環線)"
+  },
+  "1000677": {
+    "record_id": "KMB-273A-O-4",
+    "origin": "彩石邨",
+    "destination": "華明(循環線)(經風采中學)"
+  },
+  "1000678": {
+    "record_id": "KMB-287-O-1",
+    "origin": "大學站",
+    "destination": "西沙灣交通交匯處"
+  },
+  "1000679": {
+    "record_id": "KMB-277B-O-1",
+    "origin": "上水(缸瓦甫)",
+    "destination": "藍田站"
+  },
+  "1000680": {
+    "record_id": "KMB-73K-O-1",
+    "origin": "上水",
+    "destination": "文錦渡(新屋嶺)(經缸瓦甫)"
+  },
+  "1000684": {
+    "record_id": "KMB-63-O-1",
+    "origin": "朗天苑",
+    "destination": "屯門公路轉車站"
+  },
+  "1000685": {
+    "record_id": "KMB-63-O-1",
+    "origin": "朗天苑",
+    "destination": "屯門公路轉車站(經唐人新村)"
+  },
+  "1000689": {
+    "record_id": "KMB-HK2-O-1",
+    "origin": "九龍站",
+    "destination": "尖沙咀及青馬大橋"
+  },
+  "1000697": {
+    "record_id": "KMB-A32-O-1",
+    "origin": "葵涌邨(經博覽館)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1000698": {
+    "record_id": "KMB-A47X-O-1",
+    "origin": "大埔(太和)(經亞洲國際博覽館)",
+    "destination": "機場(地面運輸中心)"
+  }
+}

@@ -9,6 +9,9 @@ import { run as runNlb } from "./companies/nlb/index.js";
 import { run as runFare } from "./fare/index.js";
 import { parseAll } from "./parse.js";
 import { run as runTimetable } from "./time_table/index.js";
+import { run as runCtbTimetable } from "./time_table/ctb/index.js";
+import { run as runKmbTimetable } from "./time_table/kmb/index.js";
+import { run as runKmbctbTimetable } from "./time_table/kmbctb/index.js";
 
 type RunOptions = { fresh?: boolean; test?: boolean };
 
@@ -24,6 +27,9 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   gmbnt: (options) => runGmbNT(options),
   nlb: (options) => runNlb(options),
   timetable: () => runTimetable(),
+  "kmb-timetable": (options) => runKmbTimetable({ fresh: options.fresh }),
+  "ctb-timetable": (options) => runCtbTimetable({ fresh: options.fresh }),
+  "kmbctb-timetable": (options) => runKmbctbTimetable({ fresh: options.fresh }),
   fare: () => runFare(),
 };
 

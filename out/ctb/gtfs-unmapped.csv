@@ -1,0 +1,27 @@
+route_id,route_short_name,gtfs_from,gtfs_to,matched_key,ctb_origin_tc,ctb_destination_tc,orientation,sim_from,sim_to,avg,reason
+1000458,A28,機場,日出康城(經航天城東路),CTB-A28-I,機場 (經港珠澳大橋香港口岸),日出康城,forward,0.167,0.400,0.283,below-threshold
+8601,15,中環(中環渡輪碼頭),山頂(不經文輝道),CTB-15-I,山頂,中環,swapped,0.250,0.286,0.268,below-threshold
+1781,91,海怡半島(第18座),中環碼頭(不經利東),CTB-91-I,中環碼頭,鴨脷洲邨,swapped,0.000,0.500,0.250,below-threshold
+8179,99X,鴨脷洲 (鴨脷洲大街),西灣河(太康街),CTB-99X-O,海怡半島,西灣河,forward,0.000,0.500,0.250,below-threshold
+8122,702,欽州街,海麗邨,CTB-702-I,九龍塘 (又一城),海麗邨／南昌站,forward,0.000,0.500,0.250,below-threshold
+1000305,38,銅鑼灣(中央圖書館),置富,CTB-38-I,北角碼頭,置富花園,forward,0.000,0.500,0.250,below-threshold
+8386,48,深灣,華富(循環線)(經華富往海洋公園),CTB-48-I,華富 (北),深灣／海洋公園,swapped,0.333,0.154,0.244,below-threshold
+1000394,15,中環(中環渡輪碼頭),山頂(經中環天星碼頭),CTB-15-I,山頂,中環,swapped,0.250,0.222,0.236,below-threshold
+8256,4X,上環,華富(南)(途經林士街天橋),CTB-4X-I,中環 (交易廣場),華富 (南),forward,0.167,0.300,0.233,below-threshold
+8755,A17,深灣,機場,CTB-A17-I,機場 (經港珠澳大橋香港口岸),深灣 (經海洋公園),swapped,0.286,0.167,0.226,below-threshold
+1000494,95C,鴨脷洲邨,香港仔(洛陽街)(循環線),CTB-95C-I,置富花園,鴨脷洲邨 / 利南工業區,swapped,0.444,0.000,0.222,below-threshold
+1000495,95C,鴨脷洲邨,香港仔(洛陽街) (循環線)(以鴨脷洲工業區為終點),CTB-95C-I,置富花園,鴨脷洲邨 / 利南工業區,swapped,0.444,0.000,0.222,below-threshold
+8272,9,大浪灣,筲箕灣(泳季班次),CTB-9-I,石澳,筲箕灣,forward,0.000,0.429,0.214,below-threshold
+8740,930,金鐘 (金鐘道),荃灣西站,CTB-930-I,會展站,荃灣 (愉景新城／荃灣西站),forward,0.000,0.400,0.200,below-threshold
+8794,797,日出康城,新蒲崗 (循環線),CTB-797-I,啟德,日出康城／將軍澳工業邨,swapped,0.400,0.000,0.200,below-threshold
+1000393,15,中環(中環渡輪碼頭),山頂(經中環天星碼頭，不經文輝道),CTB-15-I,山頂,中環,swapped,0.250,0.143,0.196,below-threshold
+1000252,930A,菲林明道,荃灣 (愉景新城),CTB-930A-I,會展站,荃灣西站,forward,0.000,0.333,0.167,below-threshold
+1000246,952,青龍頭(嘉龍村),金鐘(西),CTB-952-I,銅鑼灣 (摩頓台)／金鐘 (西),屯門 (置樂花園),swapped,0.000,0.333,0.167,below-threshold
+1000211,797,將軍澳站,新蒲崗,CTB-797-I,啟德,日出康城／將軍澳工業邨,swapped,0.300,0.000,0.150,below-threshold
+1620,796X,將軍澳站,尖沙咀東,CTB-796X-I,紅磡及土瓜灣,日出康城,forward,0.000,0.000,0.000,below-threshold
+8090,796X,將軍澳工業邨,尖沙咀東,CTB-796X-I,紅磡及土瓜灣,日出康城,forward,0.000,0.000,0.000,below-threshold
+8116,702,泓景臺,民樂樓,CTB-702-I,九龍塘 (又一城),海麗邨／南昌站,forward,0.000,0.000,0.000,below-threshold
+8629,77A,筲箕灣,田灣邨,,,,,,,,no-candidate
+1000091,NR61,沙田第一城,藍田站,,,,,,,,no-candidate
+1000093,NR88,沙田第一城,中環,,,,,,,,no-candidate
+1000094,NR88,沙田第一城,中環(經西區海底隧道),,,,,,,,no-candidate

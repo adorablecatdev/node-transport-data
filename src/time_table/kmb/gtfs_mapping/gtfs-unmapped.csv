@@ -1,0 +1,8 @@
+route_id,route_short_name,gtfs_from,gtfs_to,matched_key,kmb_origin_tc,kmb_destination_tc,orientation,sim_from,sim_to,avg,reason
+1095,259E,屯門(龍門居),荃灣站,,,,,,,,no-candidate
+1428,K18,廣福,大埔墟站,,,,,,,,no-candidate
+1424,K12,八號花園,大埔墟站,,,,,,,,no-candidate
+1425,K14,大埔太和路,大埔墟站,,,,,,,,no-candidate
+1427,K17,大埔(富善),大埔墟站,,,,,,,,no-candidate
+8797,12P,海麗邨,紅磡站,,,,,,,,no-candidate
+8732,61A,屯門(海榮路),屯門轉車站-市區方向,,,,,,,,no-candidate

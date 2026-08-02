@@ -1,0 +1,2272 @@
+{
+  "1475": {
+    "record_id": "CTB-H1-O",
+    "origin": "中環 (天星碼頭)",
+    "destination": "尖沙咀"
+  },
+  "1480": {
+    "record_id": "CTB-1-O",
+    "origin": "中環 (港澳碼頭)",
+    "destination": "跑馬地(上)"
+  },
+  "1495": {
+    "record_id": "CTB-11-I",
+    "origin": "渣甸山(循環線)(星期日及公眾假期班次，不經雪廠街)",
+    "destination": "中環碼頭"
+  },
+  "1507": {
+    "record_id": "CTB-12A-O",
+    "origin": "金鐘(添馬街)",
+    "destination": "麥當奴道(循環線)"
+  },
+  "1508": {
+    "record_id": "CTB-12M-O",
+    "origin": "金鐘(添馬街)",
+    "destination": "柏道(循環線)"
+  },
+  "1509": {
+    "record_id": "CTB-13-I",
+    "origin": "旭龢道",
+    "destination": "金鐘 (添馬街)"
+  },
+  "1511": {
+    "record_id": "CTB-15C-I",
+    "origin": "花園道(山頂纜車總站)",
+    "destination": "中環 (香港摩天輪)"
+  },
+  "1516": {
+    "record_id": "CTB-18-I",
+    "origin": "上環",
+    "destination": "北角(健康中街)"
+  },
+  "1519": {
+    "record_id": "CTB-2-O",
+    "origin": "嘉亨灣",
+    "destination": "中環 (港澳碼頭)"
+  },
+  "1520": {
+    "record_id": "CTB-23-O",
+    "origin": "北角碼頭",
+    "destination": "蒲飛路"
+  },
+  "1522": {
+    "record_id": "CTB-25-I",
+    "origin": "寶馬山(循環線)",
+    "destination": "中環 (3 號碼頭)"
+  },
+  "1523": {
+    "record_id": "CTB-25A-I",
+    "origin": "寶馬山(循環線)",
+    "destination": "會展站"
+  },
+  "1525": {
+    "record_id": "CTB-26-I",
+    "origin": "荷李活道(循環線)",
+    "destination": "勵德邨"
+  },
+  "1526": {
+    "record_id": "CTB-260-O",
+    "origin": "中環(交易廣場)",
+    "destination": "赤柱市場"
+  },
+  "1527": {
+    "record_id": "CTB-27-I",
+    "origin": "寶馬山(循環線)",
+    "destination": "北角碼頭"
+  },
+  "1528": {
+    "record_id": "CTB-2A-O",
+    "origin": "耀東邨",
+    "destination": "會展站"
+  },
+  "1529": {
+    "record_id": "CTB-2X-O",
+    "origin": "嘉亨灣",
+    "destination": "會展站"
+  },
+  "1534": {
+    "record_id": "CTB-314-I",
+    "origin": "赤柱(循環線)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1537": {
+    "record_id": "CTB-37A-O",
+    "origin": "置富花園",
+    "destination": "金鐘(循環線)"
+  },
+  "1538": {
+    "record_id": "CTB-37B-O",
+    "origin": "置富花園",
+    "destination": "中環(循環線)"
+  },
+  "1539": {
+    "record_id": "CTB-37X-O",
+    "origin": "置富花園",
+    "destination": "中環(循環線)"
+  },
+  "1540": {
+    "record_id": "CTB-38-I",
+    "origin": "北角碼頭(不經華富)",
+    "destination": "置富花園"
+  },
+  "1543": {
+    "record_id": "CTB-3A-O",
+    "origin": "中環(天星碼頭)",
+    "destination": "摩星嶺"
+  },
+  "1545": {
+    "record_id": "CTB-4-I",
+    "origin": "中環",
+    "destination": "華富(南)"
+  },
+  "1546": {
+    "record_id": "CTB-40M-O",
+    "origin": "華富(北)",
+    "destination": "會展站"
+  },
+  "1547": {
+    "record_id": "CTB-42-O",
+    "origin": "華富(南)",
+    "destination": "北角碼頭"
+  },
+  "1550": {
+    "record_id": "CTB-47P-O",
+    "origin": "堅尼地城 (卑路乍灣)",
+    "destination": "黃竹坑"
+  },
+  "1552": {
+    "record_id": "CTB-511-O",
+    "origin": "大坑徑",
+    "destination": "中環 (中環碼頭)"
+  },
+  "1553": {
+    "record_id": "CTB-85P-I",
+    "origin": "寶馬山",
+    "destination": "小西灣 (富欣花園)"
+  },
+  "1555": {
+    "record_id": "CTB-592-O",
+    "origin": "海怡半島",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1556": {
+    "record_id": "CTB-595-I",
+    "origin": "石排灣 (循環線)",
+    "destination": "海怡半島"
+  },
+  "1557": {
+    "record_id": "CTB-5B-I",
+    "origin": "香港大球場",
+    "destination": "摩星嶺"
+  },
+  "1561": {
+    "record_id": "CTB-5X-O",
+    "origin": "堅尼地城",
+    "destination": "銅鑼灣(威非路道)"
+  },
+  "1562": {
+    "record_id": "CTB-702A-O",
+    "origin": "海盈邨",
+    "destination": "白田邨"
+  },
+  "1571": {
+    "record_id": "CTB-4-I",
+    "origin": "中環(途經中環碼頭)",
+    "destination": "黃竹坑"
+  },
+  "1572": {
+    "record_id": "CTB-42C-O",
+    "origin": "數碼港",
+    "destination": "北角碼頭"
+  },
+  "1573": {
+    "record_id": "CTB-63-O",
+    "origin": "北角碼頭",
+    "destination": "赤柱市場"
+  },
+  "1576": {
+    "record_id": "CTB-66-I",
+    "origin": "馬坑邨",
+    "destination": "中環(交易廣場)"
+  },
+  "1583": {
+    "record_id": "CTB-682-I",
+    "origin": "利安",
+    "destination": "柴灣(東)"
+  },
+  "1585": {
+    "record_id": "CTB-40P-O",
+    "origin": "華富(北)",
+    "destination": "羅便臣道"
+  },
+  "1586": {
+    "record_id": "CTB-40P-O",
+    "origin": "深灣公共交通總站",
+    "destination": "羅便臣道"
+  },
+  "1587": {
+    "record_id": "CTB-40P-O",
+    "origin": "香港仔",
+    "destination": "羅便臣道"
+  },
+  "1589": {
+    "record_id": "CTB-694-O",
+    "origin": "小西灣邨",
+    "destination": "調景嶺站"
+  },
+  "1591": {
+    "record_id": "CTB-6A-O",
+    "origin": "中環(交易廣場)",
+    "destination": "赤柱炮台(閘口)"
+  },
+  "1592": {
+    "record_id": "CTB-6X-O",
+    "origin": "中環(交易廣場)",
+    "destination": "赤柱市場"
+  },
+  "1593": {
+    "record_id": "CTB-7-O",
+    "origin": "石排灣",
+    "destination": "中環碼頭"
+  },
+  "1594": {
+    "record_id": "CTB-70-I",
+    "origin": "中環(交易廣場)",
+    "destination": "華貴"
+  },
+  "1595": {
+    "record_id": "CTB-701-I",
+    "origin": "旺角(循環線)",
+    "destination": "海麗邨"
+  },
+  "1596": {
+    "record_id": "CTB-702-I",
+    "origin": "九龍塘 (又一城)(循環線)",
+    "destination": "海麗邨"
+  },
+  "1598": {
+    "record_id": "CTB-702S-I",
+    "origin": "長沙灣(深盛路)/富昌邨(循環線)",
+    "destination": "蘇屋"
+  },
+  "1600": {
+    "record_id": "CTB-71-O",
+    "origin": "黃竹坑",
+    "destination": "中環 (林士街)"
+  },
+  "1601": {
+    "record_id": "CTB-71P-O",
+    "origin": "深灣公共交通總站",
+    "destination": "中環碼頭"
+  },
+  "1602": {
+    "record_id": "CTB-72-I",
+    "origin": "銅鑼灣(摩頓台)",
+    "destination": "華貴"
+  },
+  "1603": {
+    "record_id": "CTB-720P-I",
+    "origin": "中環(永和街)(循環線)",
+    "destination": "太古城"
+  },
+  "1604": {
+    "record_id": "CTB-72A-I",
+    "origin": "銅鑼灣(摩頓台)",
+    "destination": "深灣公共交通總站"
+  },
+  "1605": {
+    "record_id": "CTB-73-I",
+    "origin": "赤柱市場",
+    "destination": "數碼港"
+  },
+  "1606": {
+    "record_id": "CTB-73P-O",
+    "origin": "深灣",
+    "destination": "數碼港"
+  },
+  "1607": {
+    "record_id": "CTB-75-O",
+    "origin": "深灣",
+    "destination": "中環(交易廣場)"
+  },
+  "1608": {
+    "record_id": "CTB-76-I",
+    "origin": "銅鑼灣(邊寧頓街)(循環線)",
+    "destination": "石排灣"
+  },
+  "1609": {
+    "record_id": "CTB-77-I",
+    "origin": "筲箕灣",
+    "destination": "田灣邨"
+  },
+  "1610": {
+    "record_id": "CTB-78-I",
+    "origin": "華貴邨(循環線)",
+    "destination": "黃竹坑"
+  },
+  "1611": {
+    "record_id": "CTB-780-I",
+    "origin": "中環(中環渡輪碼頭)",
+    "destination": "柴灣(東)"
+  },
+  "1612": {
+    "record_id": "CTB-780P-O",
+    "origin": "柴灣(興華邨)",
+    "destination": "中環碼頭"
+  },
+  "1613": {
+    "record_id": "CTB-788-O",
+    "origin": "小西灣(藍灣半島)",
+    "destination": "中環(港澳碼頭)"
+  },
+  "1614": {
+    "record_id": "CTB-789-O",
+    "origin": "小西灣(藍灣半島)",
+    "destination": "金鐘(樂禮街)"
+  },
+  "1616": {
+    "record_id": "CTB-792M-O",
+    "origin": "將軍澳站",
+    "destination": "西貢"
+  },
+  "1619": {
+    "record_id": "CTB-796S-I",
+    "origin": "牛頭角站(循環線)",
+    "destination": "將軍澳站"
+  },
+  "1621": {
+    "record_id": "CTB-798-I",
+    "origin": "火炭 (駿洋邨)",
+    "destination": "調景嶺站"
+  },
+  "1622": {
+    "record_id": "CTB-8-O",
+    "origin": "杏花邨",
+    "destination": "會展站"
+  },
+  "1625": {
+    "record_id": "CTB-81-O",
+    "origin": "興華邨",
+    "destination": "勵德邨"
+  },
+  "1627": {
+    "record_id": "CTB-81A-I",
+    "origin": "勵德邨",
+    "destination": "柴灣(興華邨)"
+  },
+  "1629": {
+    "record_id": "CTB-82-O",
+    "origin": "小西灣(藍灣半島)",
+    "destination": "北角碼頭"
+  },
+  "1631": {
+    "record_id": "CTB-85-I",
+    "origin": "寶馬山(循環線)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1632": {
+    "record_id": "CTB-82X-I",
+    "origin": "北角(循環線)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1634": {
+    "record_id": "CTB-8P-O",
+    "origin": "小西灣(藍灣半島)",
+    "destination": "會展站"
+  },
+  "1636": {
+    "record_id": "CTB-8X-O",
+    "origin": "小西灣(藍灣半島)",
+    "destination": "跑馬地(上)"
+  },
+  "1637": {
+    "record_id": "CTB-9-O",
+    "origin": "筲箕灣",
+    "destination": "石澳"
+  },
+  "1638": {
+    "record_id": "CTB-90-I",
+    "origin": "中環(交易廣場)(不經利東)",
+    "destination": "鴨脷洲邨"
+  },
+  "1639": {
+    "record_id": "CTB-B3-O",
+    "origin": "屯門碼頭",
+    "destination": "深圳灣口岸"
+  },
+  "1640": {
+    "record_id": "CTB-B3X-O",
+    "origin": "屯門市中心",
+    "destination": "深圳灣口岸"
+  },
+  "1641": {
+    "record_id": "CTB-90B-I",
+    "origin": "金鐘站(東)",
+    "destination": "海怡半島"
+  },
+  "1642": {
+    "record_id": "CTB-90C-O",
+    "origin": "鴨脷洲 (鴨脷洲大街)",
+    "destination": "中環 (怡和大廈)"
+  },
+  "1646": {
+    "record_id": "CTB-930-I",
+    "origin": "會展站",
+    "destination": "荃灣(愉景新城)"
+  },
+  "1647": {
+    "record_id": "CTB-93A-O",
+    "origin": "利東邨",
+    "destination": "羅便臣道"
+  },
+  "1650": {
+    "record_id": "CTB-94A-I",
+    "origin": "利東邨(循環線)",
+    "destination": "華富(中)"
+  },
+  "1652": {
+    "record_id": "CTB-95C-I",
+    "origin": "置富花園(循環線)",
+    "destination": "鴨脷洲邨"
+  },
+  "1653": {
+    "record_id": "CTB-95P-O",
+    "origin": "田灣邨",
+    "destination": "鴨脷洲邨"
+  },
+  "1655": {
+    "record_id": "CTB-962-O",
+    "origin": "屯門(龍門居)",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1656": {
+    "record_id": "CTB-962A-O",
+    "origin": "屯門(悅湖山莊)",
+    "destination": "金鐘"
+  },
+  "1657": {
+    "record_id": "CTB-952-I",
+    "origin": "銅鑼灣(摩頓台)",
+    "destination": "屯門(置樂花園)"
+  },
+  "1658": {
+    "record_id": "CTB-962P-O",
+    "origin": "屯門(龍門居)",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1659": {
+    "record_id": "CTB-952P-O",
+    "origin": "屯門(置樂花園)",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1660": {
+    "record_id": "CTB-962X-O",
+    "origin": "屯門(龍門居)",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1661": {
+    "record_id": "CTB-967-I",
+    "origin": "金鐘站(西)",
+    "destination": "天水圍(天恩邨)"
+  },
+  "1663": {
+    "record_id": "CTB-969X-O",
+    "origin": "天水圍市中心",
+    "destination": "銅鑼灣(禮頓中心)"
+  },
+  "1664": {
+    "record_id": "CTB-97-O",
+    "origin": "利東邨",
+    "destination": "中環(交易廣場)"
+  },
+  "1665": {
+    "record_id": "CTB-970-O",
+    "origin": "數碼港",
+    "destination": "蘇屋邨"
+  },
+  "1667": {
+    "record_id": "CTB-973-I",
+    "origin": "赤柱",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1669": {
+    "record_id": "CTB-98-O",
+    "origin": "利東邨",
+    "destination": "香港仔(成都道)"
+  },
+  "1670": {
+    "record_id": "CTB-99-O",
+    "origin": "海怡半島",
+    "destination": "筲箕灣"
+  },
+  "1671": {
+    "record_id": "CTB-A10-I",
+    "origin": "機場(地面運輸中心)",
+    "destination": "鴨脷洲 (利樂街)"
+  },
+  "1672": {
+    "record_id": "CTB-A11-I",
+    "origin": "機場(地面運輸中心)",
+    "destination": "北角碼頭"
+  },
+  "1673": {
+    "record_id": "CTB-A21-I",
+    "origin": "機場(地面運輸中心)",
+    "destination": "紅磡站"
+  },
+  "1674": {
+    "record_id": "CTB-E11-O",
+    "origin": "天后站",
+    "destination": "航天城"
+  },
+  "1675": {
+    "record_id": "CTB-E21-O",
+    "origin": "大角咀(維港灣)",
+    "destination": "航天城"
+  },
+  "1676": {
+    "record_id": "CTB-E21A-O",
+    "origin": "何文田(愛民邨)",
+    "destination": "東涌(逸東邨)"
+  },
+  "1677": {
+    "record_id": "CTB-E21X-O",
+    "origin": "東涌 (滿東邨)",
+    "destination": "紅磡站"
+  },
+  "1678": {
+    "record_id": "CTB-E22-O",
+    "origin": "藍田(北)",
+    "destination": "航天城"
+  },
+  "1679": {
+    "record_id": "CTB-E22A-O",
+    "origin": "將軍澳(康盛花園)",
+    "destination": "航天城"
+  },
+  "1680": {
+    "record_id": "CTB-A29-I",
+    "origin": "機場",
+    "destination": "將軍澳(寶林)"
+  },
+  "1681": {
+    "record_id": "CTB-E22P-O",
+    "origin": "油塘",
+    "destination": "航天城"
+  },
+  "1682": {
+    "record_id": "CTB-E23-O",
+    "origin": "慈雲山(南)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1683": {
+    "record_id": "CTB-E22S-O",
+    "origin": "東涌 (滿東邨)",
+    "destination": "將軍澳 (寶琳)"
+  },
+  "1686": {
+    "record_id": "CTB-722-I",
+    "origin": "中環(交易廣場)(循環線)",
+    "destination": "耀東邨"
+  },
+  "1687": {
+    "record_id": "CTB-722-I",
+    "origin": "中環碼頭(循環線)",
+    "destination": "耀東邨"
+  },
+  "1688": {
+    "record_id": "CTB-N11-O",
+    "origin": "中環(港澳碼頭)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1690": {
+    "record_id": "CTB-B3A-O",
+    "origin": "山景邨",
+    "destination": "深圳灣口岸"
+  },
+  "1695": {
+    "record_id": "CTB-N21-O",
+    "origin": "尖沙咀(天星碼頭)",
+    "destination": "機場(地面運輸中心)"
+  },
+  "1696": {
+    "record_id": "CTB-N21A-O",
+    "origin": "尖沙咀(天星碼頭)",
+    "destination": "機場(經逸東邨)"
+  },
+  "1697": {
+    "record_id": "CTB-N23-O",
+    "origin": "慈雲山(北)",
+    "destination": "東涌站"
+  },
+  "1698": {
+    "record_id": "CTB-N26-O",
+    "origin": "油塘",
+    "destination": "東涌站"
+  },
+  "1703": {
+    "record_id": "CTB-N72-I",
+    "origin": "鰂魚涌(海澤街)",
+    "destination": "華貴"
+  },
+  "1707": {
+    "record_id": "CTB-N8P-I",
+    "origin": "灣仔(港灣道)(循環線)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1708": {
+    "record_id": "CTB-N8X-O",
+    "origin": "小西灣(藍灣半島)",
+    "destination": "堅尼地城"
+  },
+  "1709": {
+    "record_id": "CTB-N90-O",
+    "origin": "海怡半島",
+    "destination": "中環(港澳碼頭)"
+  },
+  "1710": {
+    "record_id": "CTB-N962-O",
+    "origin": "屯門(龍門居)",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1711": {
+    "record_id": "CTB-N969-O",
+    "origin": "天水圍市中心",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1716": {
+    "record_id": "CTB-629-O",
+    "origin": "中環(天星碼頭)",
+    "destination": "海洋公園 (正門／水上樂園)"
+  },
+  "1722": {
+    "record_id": "CTB-X962-O",
+    "origin": "金鐘 (西)",
+    "destination": "屯門(龍門居)"
+  },
+  "1739": {
+    "record_id": "CTB-6-I",
+    "origin": "赤柱市場(經馬坑)",
+    "destination": "中環(交易廣場)"
+  },
+  "1740": {
+    "record_id": "CTB-6-I",
+    "origin": "赤柱市場(經舂磡角及馬坑)",
+    "destination": "中環(交易廣場)"
+  },
+  "1741": {
+    "record_id": "CTB-14-I",
+    "origin": "赤柱砲台 (閘口)(經赤柱村)",
+    "destination": "嘉亨灣"
+  },
+  "1743": {
+    "record_id": "CTB-15-I",
+    "origin": "山頂",
+    "destination": "中環(中環渡輪碼頭)"
+  },
+  "1744": {
+    "record_id": "CTB-15-I",
+    "origin": "山頂",
+    "destination": "中環(交易廣場)"
+  },
+  "1749": {
+    "record_id": "CTB-12-I",
+    "origin": "羅便臣道/柏道(循環線)(不經金鐘、柏道)",
+    "destination": "中環(中環渡輪碼頭3號)"
+  },
+  "1750": {
+    "record_id": "CTB-12-I",
+    "origin": "羅便臣道/柏道(循環線)",
+    "destination": "中環(中環渡輪碼頭3號)"
+  },
+  "1751": {
+    "record_id": "CTB-18P-O",
+    "origin": "堅尼地城(卑路乍灣)",
+    "destination": "北角(健康中街)"
+  },
+  "1755": {
+    "record_id": "CTB-23B-O",
+    "origin": "寶馬山",
+    "destination": "柏道 / 羅便臣道"
+  },
+  "1762": {
+    "record_id": "CTB-40-O",
+    "origin": "華富(北)",
+    "destination": "會展站"
+  },
+  "1763": {
+    "record_id": "CTB-41A-O",
+    "origin": "華富(中)",
+    "destination": "北角碼頭"
+  },
+  "1764": {
+    "record_id": "CTB-41A-I",
+    "origin": "北角碼頭(途經寶馬山)",
+    "destination": "華富(中)"
+  },
+  "1765": {
+    "record_id": "CTB-48-I",
+    "origin": "華富(海洋公園為終點站)(循環線)",
+    "destination": "海洋公園"
+  },
+  "1766": {
+    "record_id": "CTB-48-I",
+    "origin": "華富(循環線)",
+    "destination": "深灣"
+  },
+  "1768": {
+    "record_id": "CTB-85A-I",
+    "origin": "寶馬山",
+    "destination": "愛賢街"
+  },
+  "1775": {
+    "record_id": "CTB-720-I",
+    "origin": "中環 (永和街)(循環線)",
+    "destination": "嘉亨灣"
+  },
+  "1776": {
+    "record_id": "CTB-720-I",
+    "origin": "中環 (港澳碼頭)",
+    "destination": "嘉亨灣"
+  },
+  "1777": {
+    "record_id": "CTB-720A-O",
+    "origin": "嘉亨灣",
+    "destination": "金鐘 (海富中心)"
+  },
+  "1782": {
+    "record_id": "CTB-91-O",
+    "origin": "鴨脷洲邨",
+    "destination": "中環碼頭"
+  },
+  "1785": {
+    "record_id": "CTB-91A-O",
+    "origin": "鴨脷洲邨",
+    "destination": "華富(南)"
+  },
+  "1786": {
+    "record_id": "CTB-93-O",
+    "origin": "鴨脷洲邨",
+    "destination": "羅便臣道"
+  },
+  "1787": {
+    "record_id": "CTB-93-O",
+    "origin": "海怡半島",
+    "destination": "羅便臣道"
+  },
+  "1788": {
+    "record_id": "CTB-93C-O",
+    "origin": "鴨脷洲大街",
+    "destination": "堅道"
+  },
+  "1789": {
+    "record_id": "CTB-93C-O",
+    "origin": "田灣邨巴士總站",
+    "destination": "堅道"
+  },
+  "1795": {
+    "record_id": "CTB-967X-O",
+    "origin": "天水圍(天恩邨)",
+    "destination": "銅鑼灣(經天水圍北)"
+  },
+  "1796": {
+    "record_id": "CTB-969-O",
+    "origin": "天水圍市中心",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1799": {
+    "record_id": "CTB-969B-O",
+    "origin": "天水圍市中心",
+    "destination": "灣仔"
+  },
+  "1800": {
+    "record_id": "CTB-969B-I",
+    "origin": "灣仔",
+    "destination": "樂湖居"
+  },
+  "1801": {
+    "record_id": "CTB-970X-I",
+    "origin": "長沙灣 (甘泉街)",
+    "destination": "田灣"
+  },
+  "1802": {
+    "record_id": "CTB-970X-O",
+    "origin": "香港仔",
+    "destination": "長沙灣 (甘泉街)"
+  },
+  "1805": {
+    "record_id": "CTB-A12-I",
+    "origin": "機場",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1806": {
+    "record_id": "CTB-A12-I",
+    "origin": "機場(經西環/國泰城/民航處總部)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1807": {
+    "record_id": "CTB-A22-I",
+    "origin": "機場(地面運輸中心)",
+    "destination": "藍田站"
+  },
+  "1808": {
+    "record_id": "CTB-A22-I",
+    "origin": "機場(地面運輸中心)(經國泰城)",
+    "destination": "藍田站"
+  },
+  "1861": {
+    "record_id": "CTB-701S-I",
+    "origin": "旺角(循環線)",
+    "destination": "海麗邨"
+  },
+  "1887": {
+    "record_id": "CTB-967X-I",
+    "origin": "銅鑼灣(摩頓台)",
+    "destination": "天水圍(天恩邨)(不經海富中心)"
+  },
+  "1890": {
+    "record_id": "CTB-30X-O",
+    "origin": "數碼港",
+    "destination": "金鐘(東)"
+  },
+  "1891": {
+    "record_id": "CTB-4X-I",
+    "origin": "上環",
+    "destination": "華富(南)"
+  },
+  "1893": {
+    "record_id": "CTB-N29-O",
+    "origin": "將軍澳 (康盛花園)",
+    "destination": "東涌站"
+  },
+  "1894": {
+    "record_id": "CTB-S52-O",
+    "origin": "東涌(逸東邨)",
+    "destination": "飛機維修區"
+  },
+  "1895": {
+    "record_id": "CTB-S52P-O",
+    "origin": "東涌(逸東邨公共運輸總站)",
+    "destination": "駿坪路(亞洲空運中心)(循環線)"
+  },
+  "1897": {
+    "record_id": "CTB-930A-I",
+    "origin": "會展站",
+    "destination": "荃灣西站/荃灣(愉景新城)"
+  },
+  "1898": {
+    "record_id": "CTB-65-I",
+    "origin": "赤柱市集",
+    "destination": "北角碼頭"
+  },
+  "1956": {
+    "record_id": "CTB-70P-I",
+    "origin": "中環(交易廣場)",
+    "destination": "石排灣"
+  },
+  "1957": {
+    "record_id": "CTB-962C-I",
+    "origin": "鰂魚涌",
+    "destination": "屯門(龍門居)"
+  },
+  "1958": {
+    "record_id": "CTB-969C-I",
+    "origin": "鰂魚涌",
+    "destination": "天水圍(天瑞)"
+  },
+  "8043": {
+    "record_id": "CTB-77X-O",
+    "origin": "華貴邨",
+    "destination": "西灣河(太康街)"
+  },
+  "8091": {
+    "record_id": "CTB-796P-O",
+    "origin": "將軍澳站",
+    "destination": "尖沙咀(東)"
+  },
+  "8101": {
+    "record_id": "CTB-E11S-O",
+    "origin": "東涌 (滿東邨)",
+    "destination": "天后站"
+  },
+  "8102": {
+    "record_id": "CTB-99X-O",
+    "origin": "海怡半島",
+    "destination": "西灣河(太康街)"
+  },
+  "8108": {
+    "record_id": "CTB-14-I",
+    "origin": "赤柱廣場 (循環線)(經赤柱村、赤柱炮台)",
+    "destination": "嘉亨灣"
+  },
+  "8109": {
+    "record_id": "CTB-6-I",
+    "origin": "赤柱市場(不經馬坑)",
+    "destination": "中環(交易廣場)"
+  },
+  "8110": {
+    "record_id": "CTB-14-I",
+    "origin": "赤柱廣場(晨早班次經馬坑)",
+    "destination": "嘉亨灣"
+  },
+  "8111": {
+    "record_id": "CTB-14-I",
+    "origin": "赤柱砲台(閘口)(經赤柱村、赤柱監獄)",
+    "destination": "嘉亨灣"
+  },
+  "8112": {
+    "record_id": "CTB-14-I",
+    "origin": "赤柱監獄(經赤柱村)",
+    "destination": "嘉亨灣"
+  },
+  "8113": {
+    "record_id": "CTB-14-I",
+    "origin": "赤柱廣場(循環線)(經赤柱村、赤柱炮台、赤柱監獄)",
+    "destination": "嘉亨灣"
+  },
+  "8118": {
+    "record_id": "CTB-702S-I",
+    "origin": "海盈邨",
+    "destination": "蘇屋邨"
+  },
+  "8133": {
+    "record_id": "CTB-19P-O",
+    "origin": "筲箕灣",
+    "destination": "大坑道"
+  },
+  "8138": {
+    "record_id": "CTB-85-I",
+    "origin": "北角碼頭",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "8139": {
+    "record_id": "CTB-85A-I",
+    "origin": "北角碼頭",
+    "destination": "筲箕灣"
+  },
+  "8141": {
+    "record_id": "CTB-18X-O",
+    "origin": "筲箕灣",
+    "destination": "堅尼地城(卑路乍灣)"
+  },
+  "8142": {
+    "record_id": "CTB-720-I",
+    "origin": "中環 (港澳碼頭)",
+    "destination": "嘉亨灣(經金鐘道和駱克道)"
+  },
+  "8143": {
+    "record_id": "CTB-B3M-O",
+    "origin": "深圳灣口岸",
+    "destination": "屯門站(循環線)"
+  },
+  "8161": {
+    "record_id": "CTB-952-I",
+    "origin": "金鐘(西)",
+    "destination": "屯門(置樂花園)"
+  },
+  "8168": {
+    "record_id": "CTB-682A-O",
+    "origin": "馬鞍山市中心",
+    "destination": "柴灣(東)"
+  },
+  "8181": {
+    "record_id": "CTB-682P-O",
+    "origin": "烏溪沙站",
+    "destination": "柴灣(東)"
+  },
+  "8182": {
+    "record_id": "CTB-682B-O",
+    "origin": "水泉澳邨",
+    "destination": "柴灣(東)"
+  },
+  "8206": {
+    "record_id": "CTB-682-I",
+    "origin": "烏溪沙站",
+    "destination": "柴灣(東)"
+  },
+  "8220": {
+    "record_id": "CTB-H1-O",
+    "origin": "中環 (天星碼頭)",
+    "destination": "尖沙咀(不經遮打道)"
+  },
+  "8221": {
+    "record_id": "CTB-H2-I",
+    "origin": "尖沙咀",
+    "destination": "中環 (天星碼頭)"
+  },
+  "8236": {
+    "record_id": "CTB-E22X-O",
+    "origin": "油塘",
+    "destination": "航天城"
+  },
+  "8252": {
+    "record_id": "CTB-1P-O",
+    "origin": "黃泥涌道 (樂活道)",
+    "destination": "中環"
+  },
+  "8254": {
+    "record_id": "CTB-4-I",
+    "origin": "中環",
+    "destination": "田灣"
+  },
+  "8257": {
+    "record_id": "CTB-4X-I",
+    "origin": "中環",
+    "destination": "華富(南)"
+  },
+  "8258": {
+    "record_id": "CTB-70-I",
+    "origin": "中環(交易廣場)(經田灣)",
+    "destination": "華貴"
+  },
+  "8266": {
+    "record_id": "CTB-930X-I",
+    "origin": "銅鑼灣 (摩頓台)",
+    "destination": "荃灣 (愉景新城)(銅鑼灣方向途經如心廣場)"
+  },
+  "8267": {
+    "record_id": "CTB-NA29-I",
+    "origin": "機場 / 港珠澳大橋香港口岸",
+    "destination": "將軍澳(寶林)"
+  },
+  "8269": {
+    "record_id": "CTB-37B-O",
+    "origin": "置富花園",
+    "destination": "中環 (交易廣場)"
+  },
+  "8270": {
+    "record_id": "CTB-7-I",
+    "origin": "中環碼頭(經華富)",
+    "destination": "石排灣"
+  },
+  "8271": {
+    "record_id": "CTB-7-I",
+    "origin": "中環碼頭(經置富花園)",
+    "destination": "石排灣"
+  },
+  "8276": {
+    "record_id": "CTB-682A-I",
+    "origin": "柴灣(東)",
+    "destination": "泥涌"
+  },
+  "8277": {
+    "record_id": "CTB-796P-I",
+    "origin": "尖沙咀(東)",
+    "destination": "將軍澳站"
+  },
+  "8279": {
+    "record_id": "CTB-E11A-I",
+    "origin": "航天城",
+    "destination": "天后站"
+  },
+  "8287": {
+    "record_id": "CTB-E22C-O",
+    "origin": "調景嶺站",
+    "destination": "飛機維修區"
+  },
+  "8292": {
+    "record_id": "CTB-962C-O",
+    "origin": "屯門(龍門居)",
+    "destination": "太古(康怡廣場)"
+  },
+  "8299": {
+    "record_id": "CTB-798A-O",
+    "origin": "將軍澳 (康盛花園)",
+    "destination": "沙田站"
+  },
+  "8310": {
+    "record_id": "CTB-85A-O",
+    "origin": "筲箕灣",
+    "destination": "寶馬山"
+  },
+  "8324": {
+    "record_id": "CTB-S56-O",
+    "origin": "東涌站巴士總站",
+    "destination": "機場(客運大樓)(循環線)"
+  },
+  "8326": {
+    "record_id": "CTB-S56-O",
+    "origin": "東涌站巴士總站",
+    "destination": "機場(客運大樓)(以裕雅商場為終點)"
+  },
+  "8330": {
+    "record_id": "CTB-789-I",
+    "origin": "金鐘(樂禮街)(不停富景花園)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "8336": {
+    "record_id": "CTB-5B-I",
+    "origin": "銅鑼灣",
+    "destination": "堅尼地城"
+  },
+  "8337": {
+    "record_id": "CTB-5B-I",
+    "origin": "香港大球場(不經遮打道)",
+    "destination": "摩星嶺"
+  },
+  "8338": {
+    "record_id": "CTB-5B-I",
+    "origin": "銅鑼灣(不經遮打道)",
+    "destination": "堅尼地城"
+  },
+  "8339": {
+    "record_id": "CTB-5B-I",
+    "origin": "銅鑼灣",
+    "destination": "堅尼地城"
+  },
+  "8346": {
+    "record_id": "CTB-NA11-I",
+    "origin": "港珠澳大橋香港口岸",
+    "destination": "北角碼頭"
+  },
+  "8355": {
+    "record_id": "CTB-88X-O",
+    "origin": "小西灣(藍灣半島)",
+    "destination": "堅尼地城(卑路乍灣)"
+  },
+  "8358": {
+    "record_id": "CTB-E21C-O",
+    "origin": "大角咀(維港灣)",
+    "destination": "飛機維修區"
+  },
+  "8360": {
+    "record_id": "CTB-930-I",
+    "origin": "會展站",
+    "destination": "荃灣西站"
+  },
+  "8383": {
+    "record_id": "CTB-82-I",
+    "origin": "北角碼頭",
+    "destination": "小西灣(藍灣半島)(經柴灣東工業區)"
+  },
+  "8387": {
+    "record_id": "CTB-48-I",
+    "origin": "華富",
+    "destination": "深灣"
+  },
+  "8388": {
+    "record_id": "CTB-48-I",
+    "origin": "華富(深灣為終點站)(循環線)",
+    "destination": "海洋公園"
+  },
+  "8389": {
+    "record_id": "CTB-78-I",
+    "origin": "華貴邨",
+    "destination": "黃竹坑"
+  },
+  "8419": {
+    "record_id": "CTB-722-I",
+    "origin": "中環(交易廣場)",
+    "destination": "耀東邨"
+  },
+  "8427": {
+    "record_id": "CTB-A20-I",
+    "origin": "機場(地面運輸中心)",
+    "destination": "紅磡站"
+  },
+  "8428": {
+    "record_id": "CTB-N796-I",
+    "origin": "尖沙咀東(漆咸道南)",
+    "destination": "日出康城"
+  },
+  "8445": {
+    "record_id": "CTB-11-I",
+    "origin": "大坑徑",
+    "destination": "中環碼頭"
+  },
+  "8446": {
+    "record_id": "CTB-11-I",
+    "origin": "大坑徑(上課日加開班次)",
+    "destination": "中環碼頭"
+  },
+  "8447": {
+    "record_id": "CTB-11-I",
+    "origin": "渣甸山(深夜班次)",
+    "destination": "中環碼頭"
+  },
+  "8455": {
+    "record_id": "CTB-592-I",
+    "origin": "銅鑼灣(摩頓台)(經黃竹坑天橋)",
+    "destination": "海怡半島"
+  },
+  "8474": {
+    "record_id": "CTB-NA12-I",
+    "origin": "港珠澳大橋香港口岸",
+    "destination": "杏花邨"
+  },
+  "8475": {
+    "record_id": "CTB-969C-I",
+    "origin": "太古 (康怡廣場)",
+    "destination": "天水圍 (美湖居)"
+  },
+  "8476": {
+    "record_id": "CTB-973-I",
+    "origin": "赤柱",
+    "destination": "尖沙咀東(麼地道)(經深灣)"
+  },
+  "8477": {
+    "record_id": "CTB-973-I",
+    "origin": "赤柱(經西九文化區及海洋公園)",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "8478": {
+    "record_id": "CTB-8H-O",
+    "origin": "柴灣(東)",
+    "destination": "東華東院"
+  },
+  "8483": {
+    "record_id": "CTB-12A-O",
+    "origin": "金鐘(添馬街)",
+    "destination": "麥當奴道(循環線)(不經遮打道)"
+  },
+  "8484": {
+    "record_id": "CTB-12A-O",
+    "origin": "金鐘(添馬街)",
+    "destination": "麥當勞道(循環線)(不經中環)"
+  },
+  "8486": {
+    "record_id": "CTB-9-I",
+    "origin": "石澳(經鶴咀及大浪灣)",
+    "destination": "筲箕灣"
+  },
+  "8487": {
+    "record_id": "CTB-9-I",
+    "origin": "石澳(不經鶴咀及大浪灣)",
+    "destination": "筲箕灣"
+  },
+  "8488": {
+    "record_id": "CTB-9-I",
+    "origin": "石澳(經大浪灣, 不經鶴咀)",
+    "destination": "筲箕灣"
+  },
+  "8490": {
+    "record_id": "CTB-682B-I",
+    "origin": "柴灣(東)(經沙田第一城)",
+    "destination": "水泉澳邨"
+  },
+  "8501": {
+    "record_id": "CTB-18X-I",
+    "origin": "堅尼地城(卑路乍灣)",
+    "destination": "柴灣站"
+  },
+  "8545": {
+    "record_id": "CTB-N796-I",
+    "origin": "尖沙咀(循環線)",
+    "destination": "日出康城"
+  },
+  "8554": {
+    "record_id": "CTB-952C-O",
+    "origin": "掃管笏",
+    "destination": "太古(康怡廣場)"
+  },
+  "8555": {
+    "record_id": "CTB-952C-I",
+    "origin": "鰂魚涌",
+    "destination": "掃管笏"
+  },
+  "8576": {
+    "record_id": "CTB-20-O",
+    "origin": "啟德(沐安街)",
+    "destination": "長沙灣(海達)"
+  },
+  "8580": {
+    "record_id": "CTB-4-I",
+    "origin": "中環",
+    "destination": "華富(南)"
+  },
+  "8581": {
+    "record_id": "CTB-4-I",
+    "origin": "中環",
+    "destination": "黃竹坑(星期日及假期班次)"
+  },
+  "8582": {
+    "record_id": "CTB-30X-I",
+    "origin": "中環(交易廣場)",
+    "destination": "數碼港"
+  },
+  "8583": {
+    "record_id": "CTB-6-I",
+    "origin": "赤柱監獄",
+    "destination": "中環(交易廣場)(經馬坑)"
+  },
+  "8584": {
+    "record_id": "CTB-6-I",
+    "origin": "赤柱監獄",
+    "destination": "中環(交易廣場)(不經馬坑)"
+  },
+  "8585": {
+    "record_id": "CTB-6-I",
+    "origin": "赤柱監獄",
+    "destination": "中環(交易廣場)(經舂磡角及馬坑)"
+  },
+  "8586": {
+    "record_id": "CTB-6X-I",
+    "origin": "赤柱監獄",
+    "destination": "中環(交易廣場)"
+  },
+  "8587": {
+    "record_id": "CTB-73-I",
+    "origin": "赤柱市場",
+    "destination": "華富(北)"
+  },
+  "8588": {
+    "record_id": "CTB-73-I",
+    "origin": "赤柱監獄",
+    "destination": "華富(北)"
+  },
+  "8589": {
+    "record_id": "CTB-73-I",
+    "origin": "赤柱監獄",
+    "destination": "數碼港"
+  },
+  "8590": {
+    "record_id": "CTB-260-I",
+    "origin": "赤柱監獄",
+    "destination": "中環(交易廣場)"
+  },
+  "8593": {
+    "record_id": "CTB-22-O",
+    "origin": "啟德郵輪碼頭",
+    "destination": "九龍塘(又一城)"
+  },
+  "8594": {
+    "record_id": "CTB-63-I",
+    "origin": "赤柱監獄",
+    "destination": "北角碼頭"
+  },
+  "8596": {
+    "record_id": "CTB-788-I",
+    "origin": "中環(港澳碼頭)(不經富景花園)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "8597": {
+    "record_id": "CTB-788-I",
+    "origin": "中環(港澳碼頭)",
+    "destination": "小西灣(藍灣半島)(不經灣仔碼頭)"
+  },
+  "8598": {
+    "record_id": "CTB-788-I",
+    "origin": "中環(港澳碼頭)(途經金鐘)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "8600": {
+    "record_id": "CTB-NA20-I",
+    "origin": "港珠澳大橋香港口岸",
+    "destination": "黃埔花園"
+  },
+  "8602": {
+    "record_id": "CTB-15-I",
+    "origin": "山頂(不經文輝道)",
+    "destination": "中環(交易廣場)"
+  },
+  "8606": {
+    "record_id": "CTB-X970-O",
+    "origin": "海怡半島",
+    "destination": "長沙灣 (甘泉街)"
+  },
+  "8609": {
+    "record_id": "CTB-26-I",
+    "origin": "荷李活道(循環線)(不經遮打道)",
+    "destination": "勵德邨"
+  },
+  "8623": {
+    "record_id": "CTB-2A-I",
+    "origin": "銅鑼灣(希慎廣場)",
+    "destination": "耀東邨"
+  },
+  "8625": {
+    "record_id": "CTB-608-O",
+    "origin": "馬頭圍邨",
+    "destination": "筲箕灣"
+  },
+  "8634": {
+    "record_id": "CTB-B5-O",
+    "origin": "港珠澳大橋香港口岸",
+    "destination": "欣澳站"
+  },
+  "8636": {
+    "record_id": "CTB-B5-I",
+    "origin": "欣澳站(不經迪士尼樂園)",
+    "destination": "港珠澳大橋香港口岸"
+  },
+  "8653": {
+    "record_id": "CTB-99-I",
+    "origin": "筲箕灣(不經海怡路)",
+    "destination": "海怡半島"
+  },
+  "8654": {
+    "record_id": "CTB-720P-I",
+    "origin": "中環(永和街)(以永和街為終點班次)",
+    "destination": "太古城"
+  },
+  "8655": {
+    "record_id": "CTB-27-O",
+    "origin": "北角碼頭",
+    "destination": "寶馬山"
+  },
+  "8666": {
+    "record_id": "CTB-E23A-I",
+    "origin": "機場(地面運輸中心)(經東涌北)",
+    "destination": "慈雲山(南)"
+  },
+  "8667": {
+    "record_id": "CTB-930-I",
+    "origin": "會展站",
+    "destination": "荃灣西站"
+  },
+  "8678": {
+    "record_id": "CTB-720X-O",
+    "origin": "西灣河(嘉亨灣)",
+    "destination": "中環(林士街)"
+  },
+  "8684": {
+    "record_id": "CTB-40M-O",
+    "origin": "華富(北)",
+    "destination": "會展站(不經遮打道)"
+  },
+  "8686": {
+    "record_id": "CTB-969P-O",
+    "origin": "天水圍市中心",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "8687": {
+    "record_id": "CTB-962C-I",
+    "origin": "太古(康怡廣場)",
+    "destination": "屯門(三聖)"
+  },
+  "8688": {
+    "record_id": "CTB-969B-I",
+    "origin": "灣仔",
+    "destination": "天水圍站"
+  },
+  "8691": {
+    "record_id": "CTB-701A-I",
+    "origin": "旺角(循環線)",
+    "destination": "海盈邨"
+  },
+  "8693": {
+    "record_id": "CTB-962G-O",
+    "origin": "銅鑼灣 (摩頓台)",
+    "destination": "屯門 (悅湖山莊)"
+  },
+  "8698": {
+    "record_id": "CTB-33X-O",
+    "origin": "數碼港",
+    "destination": "筲箕灣"
+  },
+  "8700": {
+    "record_id": "CTB-X15-I",
+    "origin": "山頂",
+    "destination": "中環(中環6號碼頭)"
+  },
+  "8706": {
+    "record_id": "CTB-S52A-I",
+    "origin": "飛機維修區",
+    "destination": "東涌北"
+  },
+  "8715": {
+    "record_id": "CTB-970-I",
+    "origin": "旺角 (弼街)",
+    "destination": "數碼港"
+  },
+  "8727": {
+    "record_id": "CTB-N952-O",
+    "origin": "屯門(置樂花園)",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "8730": {
+    "record_id": "CTB-N930-O",
+    "origin": "荃灣 (愉景新城)",
+    "destination": "銅鑼灣 (摩頓台)"
+  },
+  "8748": {
+    "record_id": "CTB-18-I",
+    "origin": "堅尼地城 (卑路乍灣)",
+    "destination": "北角 (健康中街)"
+  },
+  "8750": {
+    "record_id": "CTB-969C-I",
+    "origin": "太古 (康怡廣場)(經天水圍北及天慈)",
+    "destination": "天水圍市中心"
+  },
+  "8751": {
+    "record_id": "CTB-A23-I",
+    "origin": "機場",
+    "destination": "慈雲山 (北)"
+  },
+  "8752": {
+    "record_id": "CTB-S52-I",
+    "origin": "飛機維修區(不經國泰城及貨運區)",
+    "destination": "東涌 (逸東邨)"
+  },
+  "8753": {
+    "record_id": "CTB-S52-I",
+    "origin": "飛機維修區(不經國泰城及貨運區)",
+    "destination": "東堤灣畔, 順東路"
+  },
+  "8754": {
+    "record_id": "CTB-S52-I",
+    "origin": "飛機維修區",
+    "destination": "東涌站(不經國泰城及貨運區)"
+  },
+  "8765": {
+    "record_id": "CTB-22M-I",
+    "origin": "土瓜灣(循環線)",
+    "destination": "啟德郵輪碼頭"
+  },
+  "8782": {
+    "record_id": "CTB-702B-I",
+    "origin": "海盈邨 (循環線)",
+    "destination": "白田 (北)"
+  },
+  "8784": {
+    "record_id": "CTB-N20-O",
+    "origin": "維港灣",
+    "destination": "啟德 (沐安街)"
+  },
+  "8785": {
+    "record_id": "CTB-608-I",
+    "origin": "筲箕灣(經啟福道)",
+    "destination": "馬頭圍邨"
+  },
+  "8789": {
+    "record_id": "CTB-85P-I",
+    "origin": "寶馬山",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "8792": {
+    "record_id": "CTB-970X-I",
+    "origin": "長沙灣 (甘泉街)",
+    "destination": "香港仔(經華富)"
+  },
+  "8793": {
+    "record_id": "CTB-970X-I",
+    "origin": "旺角",
+    "destination": "香港仔"
+  },
+  "8795": {
+    "record_id": "CTB-797-I",
+    "origin": "新蒲崗 (循環線)",
+    "destination": "日出康城 / 將軍澳工業邨"
+  },
+  "8796": {
+    "record_id": "CTB-49X-O",
+    "origin": "柴灣(東)",
+    "destination": "數碼港"
+  },
+  "1000006": {
+    "record_id": "CTB-5B-I",
+    "origin": "銅鑼灣 (銅鑼灣道)",
+    "destination": "摩星嶺"
+  },
+  "1000009": {
+    "record_id": "CTB-952P-O",
+    "origin": "掃管笏",
+    "destination": "銅鑼灣 (摩頓台)"
+  },
+  "1000013": {
+    "record_id": "CTB-933-O",
+    "origin": "荃灣西站",
+    "destination": "西灣河"
+  },
+  "1000014": {
+    "record_id": "CTB-976-O",
+    "origin": "落馬洲 (新田)",
+    "destination": "西灣河"
+  },
+  "1000015": {
+    "record_id": "CTB-989-O",
+    "origin": "火炭 (駿洋邨)",
+    "destination": "西灣河"
+  },
+  "1000052": {
+    "record_id": "CTB-969C-I",
+    "origin": "太古 (康怡廣場)(經天耀)",
+    "destination": "天水圍市中心"
+  },
+  "1000053": {
+    "record_id": "CTB-967X-I",
+    "origin": "銅鑼灣(摩頓台)",
+    "destination": "天水圍(天恩邨)"
+  },
+  "1000054": {
+    "record_id": "CTB-969-I",
+    "origin": "銅鑼灣(摩頓台)",
+    "destination": "天恩邨"
+  },
+  "1000055": {
+    "record_id": "CTB-969N-O",
+    "origin": "天水圍市中心",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1000061": {
+    "record_id": "CTB-969-I",
+    "origin": "銅鑼灣(摩頓台)(不經美湖居及景湖居)",
+    "destination": "天水圍市中心"
+  },
+  "1000071": {
+    "record_id": "CTB-25-I",
+    "origin": "協同中學",
+    "destination": "中環 (3 號碼頭)"
+  },
+  "1000073": {
+    "record_id": "CTB-82X-I",
+    "origin": "健康村",
+    "destination": "小西灣 (藍灣半島)"
+  },
+  "1000074": {
+    "record_id": "CTB-E11B-O",
+    "origin": "天后站",
+    "destination": "東涌 (滿東邨)"
+  },
+  "1000079": {
+    "record_id": "CTB-A29-I",
+    "origin": "機場(經博覽館)",
+    "destination": "將軍澳(寶琳)"
+  },
+  "1000082": {
+    "record_id": "CTB-6X-I",
+    "origin": "赤柱炮台",
+    "destination": "中環 (交易廣場)"
+  },
+  "1000083": {
+    "record_id": "CTB-4-I",
+    "origin": "中環",
+    "destination": "黃竹坑"
+  },
+  "1000084": {
+    "record_id": "CTB-4-I",
+    "origin": "中環",
+    "destination": "黃竹坑"
+  },
+  "1000089": {
+    "record_id": "CTB-608P-I",
+    "origin": "啟德(AIRSIDE)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000090": {
+    "record_id": "CTB-X8-O",
+    "origin": "跑馬地 (上)",
+    "destination": "小西灣 (藍灣半島)"
+  },
+  "1000198": {
+    "record_id": "CTB-78X-O",
+    "origin": "粉嶺皇后山",
+    "destination": "啟德"
+  },
+  "1000199": {
+    "record_id": "CTB-79X-I",
+    "origin": "長沙灣(甘泉街)",
+    "destination": "粉嶺皇后山"
+  },
+  "1000204": {
+    "record_id": "CTB-930B-O",
+    "origin": "葵盛圍",
+    "destination": "銅鑼灣(摩頓台)(不經葵芳)"
+  },
+  "1000205": {
+    "record_id": "CTB-930X-I",
+    "origin": "銅鑼灣 (摩頓台)(不停如心廣場)",
+    "destination": "荃灣 (愉景新城)"
+  },
+  "1000216": {
+    "record_id": "CTB-679-O",
+    "origin": "粉嶺皇后山",
+    "destination": "中環 (香港站)"
+  },
+  "1000217": {
+    "record_id": "CTB-979-O",
+    "origin": "粉嶺皇后山",
+    "destination": "中環 (香港站)"
+  },
+  "1000223": {
+    "record_id": "CTB-795X-I",
+    "origin": "蘇屋",
+    "destination": "清水灣半島"
+  },
+  "1000229": {
+    "record_id": "CTB-982C-O",
+    "origin": "碩門邨",
+    "destination": "西灣河"
+  },
+  "1000230": {
+    "record_id": "CTB-1M-I",
+    "origin": "黃泥涌峽(循環線)",
+    "destination": "會展站"
+  },
+  "1000236": {
+    "record_id": "CTB-973-I",
+    "origin": "赤柱(經西九文化區)",
+    "destination": "尖沙咀東(麼地道)"
+  },
+  "1000241": {
+    "record_id": "CTB-50M-I",
+    "origin": "屯門站(循環線)",
+    "destination": "和田邨"
+  },
+  "1000243": {
+    "record_id": "CTB-50-O",
+    "origin": "屯門 (菁田及和田)",
+    "destination": "尖沙咀(九龍站)"
+  },
+  "1000244": {
+    "record_id": "CTB-55-O",
+    "origin": "屯門 (菁田及和田)",
+    "destination": "觀塘碼頭"
+  },
+  "1000245": {
+    "record_id": "CTB-56-I",
+    "origin": "上水 (天平邨)",
+    "destination": "屯門 (菁田及和田)"
+  },
+  "1000248": {
+    "record_id": "CTB-962-I",
+    "origin": "銅鑼灣(摩頓台)",
+    "destination": "屯門(龍門居)(經掃管笏)"
+  },
+  "1000249": {
+    "record_id": "CTB-952P-O",
+    "origin": "黃金海岸",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1000251": {
+    "record_id": "CTB-976A-O",
+    "origin": "落馬洲 (新田)",
+    "destination": "小西灣 (藍灣半島)"
+  },
+  "1000254": {
+    "record_id": "CTB-13-I",
+    "origin": "旭龢道",
+    "destination": "金鐘 (添馬街)(不經雪廠街)"
+  },
+  "1000256": {
+    "record_id": "CTB-793-I",
+    "origin": "蘇屋(經消防及救護學院)",
+    "destination": "將軍澳工業邨"
+  },
+  "1000257": {
+    "record_id": "CTB-8X-I",
+    "origin": "摩頓台",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000258": {
+    "record_id": "CTB-8X-I",
+    "origin": "維多利亞公園",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000259": {
+    "record_id": "CTB-15C-I",
+    "origin": "花園道(山頂纜車總站)",
+    "destination": "中環 (香港摩天輪)(不經雪廠街)"
+  },
+  "1000261": {
+    "record_id": "CTB-E21B-I",
+    "origin": "東涌(逸東邨)",
+    "destination": "何文田(愛民邨)"
+  },
+  "1000262": {
+    "record_id": "CTB-E21D-I",
+    "origin": "航天城",
+    "destination": "大角咀(維港灣)"
+  },
+  "1000263": {
+    "record_id": "CTB-91-I",
+    "origin": "中環碼頭",
+    "destination": "海怡半島(第18座)"
+  },
+  "1000264": {
+    "record_id": "CTB-91-I",
+    "origin": "中環碼頭",
+    "destination": "利東邨"
+  },
+  "1000272": {
+    "record_id": "CTB-23X-O",
+    "origin": "蒲飛路",
+    "destination": "西灣河"
+  },
+  "1000274": {
+    "record_id": "CTB-76-I",
+    "origin": "銅鑼灣(邊寧頓街)(循環線)",
+    "destination": "黃竹坑站"
+  },
+  "1000275": {
+    "record_id": "CTB-25-I",
+    "origin": "炮台山道",
+    "destination": "中環 (3 號碼頭)"
+  },
+  "1000276": {
+    "record_id": "CTB-11-I",
+    "origin": "渣甸山(循環線)",
+    "destination": "中環碼頭"
+  },
+  "1000277": {
+    "record_id": "CTB-76-I",
+    "origin": "銅鑼灣(邊寧頓街)(上課日加開班次)",
+    "destination": "石排灣"
+  },
+  "1000278": {
+    "record_id": "CTB-76-I",
+    "origin": "銅鑼灣(邊寧頓街)(上課日加開班次)",
+    "destination": "黃竹坑站"
+  },
+  "1000279": {
+    "record_id": "CTB-720A-O",
+    "origin": "嘉亨灣",
+    "destination": "中環 (畢打街)"
+  },
+  "1000281": {
+    "record_id": "CTB-720-I",
+    "origin": "中環 (永和街)(以永和街為終點班次)",
+    "destination": "嘉亨灣"
+  },
+  "1000283": {
+    "record_id": "CTB-950-O",
+    "origin": "屯門 (菁田及和田)",
+    "destination": "會展站"
+  },
+  "1000284": {
+    "record_id": "CTB-56A-I",
+    "origin": "粉嶺皇后山(經上水站)",
+    "destination": "屯門 (菁田及和田)"
+  },
+  "1000287": {
+    "record_id": "CTB-798P-O",
+    "origin": "將軍澳工業邨",
+    "destination": "大圍站(經沙田)"
+  },
+  "1000288": {
+    "record_id": "CTB-798X-I",
+    "origin": "火炭 (駿洋邨)",
+    "destination": "將軍澳工業邨"
+  },
+  "1000289": {
+    "record_id": "CTB-986-O",
+    "origin": "沙田圍",
+    "destination": "西灣河"
+  },
+  "1000293": {
+    "record_id": "CTB-967-I",
+    "origin": "金鐘站(西)(不停美湖居)",
+    "destination": "天水圍(天恩邨)"
+  },
+  "1000295": {
+    "record_id": "CTB-10-I",
+    "origin": "北角碼頭(不經遮打道)",
+    "destination": "堅尼地城"
+  },
+  "1000296": {
+    "record_id": "CTB-10-I",
+    "origin": "北角碼頭",
+    "destination": "堅尼地城"
+  },
+  "1000300": {
+    "record_id": "CTB-955-O",
+    "origin": "屯門 (菁田及和田)",
+    "destination": "西灣河"
+  },
+  "1000304": {
+    "record_id": "CTB-38-I",
+    "origin": "北角碼頭(經華富)",
+    "destination": "置富花園"
+  },
+  "1000307": {
+    "record_id": "CTB-42-I",
+    "origin": "北角碼頭(經黃竹坑道天橋)",
+    "destination": "華富(南)"
+  },
+  "1000308": {
+    "record_id": "CTB-22X-I",
+    "origin": "啟德站 (循環線)",
+    "destination": "維港1號"
+  },
+  "1000312": {
+    "record_id": "CTB-790-I",
+    "origin": "尖沙咀(麼地道)",
+    "destination": "清水灣半島"
+  },
+  "1000313": {
+    "record_id": "CTB-795-I",
+    "origin": "長沙灣(海達)",
+    "destination": "將軍澳工業邨"
+  },
+  "1000325": {
+    "record_id": "CTB-NA10-O",
+    "origin": "鴨脷洲 (利樂街)",
+    "destination": "機場 / 港珠澳大橋香港口岸"
+  },
+  "1000326": {
+    "record_id": "CTB-1-I",
+    "origin": "跑馬地(上)(不經遮打道)",
+    "destination": "中環 (港澳碼頭)"
+  },
+  "1000339": {
+    "record_id": "CTB-B7-I",
+    "origin": "香園圍口岸",
+    "destination": "上水(寶運路)"
+  },
+  "1000340": {
+    "record_id": "CTB-B8-I",
+    "origin": "香園圍口岸",
+    "destination": "大圍站"
+  },
+  "1000343": {
+    "record_id": "CTB-94A-I",
+    "origin": "利東邨(利東街市為終站)",
+    "destination": "華富(中)"
+  },
+  "1000344": {
+    "record_id": "CTB-20-I",
+    "origin": "長沙灣(海達)",
+    "destination": "啟德(沐安街)(不停廣東道)"
+  },
+  "1000345": {
+    "record_id": "CTB-5X-I",
+    "origin": "銅鑼灣(威非路道)",
+    "destination": "堅尼地城"
+  },
+  "1000346": {
+    "record_id": "CTB-5X-I",
+    "origin": "銅鑼灣(威非路道)",
+    "destination": "堅尼地城(不經雪廠街)"
+  },
+  "1000349": {
+    "record_id": "CTB-8P-I",
+    "origin": "會展站(不停富景花園)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000350": {
+    "record_id": "CTB-8P-I",
+    "origin": "銅鑼灣 (希慎廣場)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000354": {
+    "record_id": "CTB-694S-I",
+    "origin": "調景嶺站",
+    "destination": "小西灣邨(經日出康城)"
+  },
+  "1000360": {
+    "record_id": "CTB-A25-I",
+    "origin": "機場(經尖沙咀及港珠澳大橋香港口岸)",
+    "destination": "啟德"
+  },
+  "1000374": {
+    "record_id": "CTB-22D-I",
+    "origin": "啟德跑道區(循環線)",
+    "destination": "啟德站"
+  },
+  "1000378": {
+    "record_id": "CTB-25-I",
+    "origin": "寶馬山(循環線)(經中環天星碼頭)",
+    "destination": "中環 (3 號碼頭)"
+  },
+  "1000381": {
+    "record_id": "CTB-73-I",
+    "origin": "赤柱市場",
+    "destination": "黃竹坑體育館(短途班次)"
+  },
+  "1000395": {
+    "record_id": "CTB-789-I",
+    "origin": "金鐘(樂禮街)(不停富景花園及曉翠街)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000396": {
+    "record_id": "CTB-789-I",
+    "origin": "金鐘(樂禮街)(不停曉翠街)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000397": {
+    "record_id": "CTB-788-I",
+    "origin": "中環(港澳碼頭)(不停富景花園，經金鐘)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000398": {
+    "record_id": "CTB-788-I",
+    "origin": "中環(港澳碼頭)(不停富景花園，曉翠街及國際調解院)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000399": {
+    "record_id": "CTB-788-I",
+    "origin": "中環(港澳碼頭)(不停曉翠街及國際調解院)",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000402": {
+    "record_id": "CTB-78C-I",
+    "origin": "啟德",
+    "destination": "粉嶺皇后山"
+  },
+  "1000403": {
+    "record_id": "CTB-79P-O",
+    "origin": "粉嶺皇后山",
+    "destination": "高鐵西九龍站"
+  },
+  "1000405": {
+    "record_id": "CTB-20A-I",
+    "origin": "高鐵西九龍站",
+    "destination": "啟德郵輪碼頭"
+  },
+  "1000406": {
+    "record_id": "CTB-20A-I",
+    "origin": "高鐵西九龍站",
+    "destination": "啟德郵輪碼頭(經沐安街)"
+  },
+  "1000410": {
+    "record_id": "CTB-50M-I",
+    "origin": "屯門站(上課日加開班次)",
+    "destination": "和田邨"
+  },
+  "1000413": {
+    "record_id": "CTB-33X-I",
+    "origin": "筲箕灣",
+    "destination": "數碼港"
+  },
+  "1000419": {
+    "record_id": "CTB-B3-I",
+    "origin": "深圳灣口岸",
+    "destination": "屯門碼頭(停紅橋)"
+  },
+  "1000425": {
+    "record_id": "CTB-82S-O",
+    "origin": "小西灣(藍灣半島)",
+    "destination": "耀東 (惠亨街)"
+  },
+  "1000437": {
+    "record_id": "CTB-H2K-I",
+    "origin": "西九文化區(循環線)",
+    "destination": "中環(天星碼頭)"
+  },
+  "1000454": {
+    "record_id": "CTB-N50-O",
+    "origin": "屯門 (菁田及和田)",
+    "destination": "尖沙咀 (九龍站)"
+  },
+  "1000455": {
+    "record_id": "CTB-A28-I",
+    "origin": "機場",
+    "destination": "日出康城"
+  },
+  "1000456": {
+    "record_id": "CTB-A28-I",
+    "origin": "機場(經國泰城)",
+    "destination": "日出康城"
+  },
+  "1000457": {
+    "record_id": "CTB-A28-I",
+    "origin": "機場(經國泰城及航天城東路)",
+    "destination": "日出康城"
+  },
+  "1000459": {
+    "record_id": "CTB-A26-I",
+    "origin": "機場",
+    "destination": "油塘"
+  },
+  "1000460": {
+    "record_id": "CTB-A26-I",
+    "origin": "機場(經航天城東路)",
+    "destination": "油塘"
+  },
+  "1000462": {
+    "record_id": "CTB-A26-I",
+    "origin": "機場(經國泰城)",
+    "destination": "油塘"
+  },
+  "1000463": {
+    "record_id": "CTB-A26-I",
+    "origin": "機場(經國泰城及航天城東路)",
+    "destination": "油塘"
+  },
+  "1000485": {
+    "record_id": "CTB-78P-O",
+    "origin": "粉嶺皇后山",
+    "destination": "觀塘 (鯉魚門道)"
+  },
+  "1000493": {
+    "record_id": "CTB-95C-I",
+    "origin": "置富花園(循環線)",
+    "destination": "鴨脷洲(利南道工業區)"
+  },
+  "1000496": {
+    "record_id": "CTB-95C-I",
+    "origin": "置富花園(循環線)(以鴨脷洲工業區為終點)",
+    "destination": "鴨脷洲邨"
+  },
+  "1000497": {
+    "record_id": "CTB-95C-I",
+    "origin": "置富花園(循環線)(以鴨脷洲邨為終點)",
+    "destination": "鴨脷洲(利南道工業區)"
+  },
+  "1000499": {
+    "record_id": "CTB-581-I",
+    "origin": "馬鞍山市中心",
+    "destination": "西沙GO PARK"
+  },
+  "1000500": {
+    "record_id": "CTB-582-I",
+    "origin": "西沙GO PARK(循環線)",
+    "destination": "白石角"
+  },
+  "1000513": {
+    "record_id": "CTB-962P-O",
+    "origin": "業旺邨",
+    "destination": "銅鑼灣(摩頓台)"
+  },
+  "1000523": {
+    "record_id": "CTB-NA21-I",
+    "origin": "大角咀 (海輝道) (循環線)",
+    "destination": "港珠澳大橋香港口岸"
+  },
+  "1000527": {
+    "record_id": "CTB-A12-I",
+    "origin": "機場",
+    "destination": "小西灣(藍灣半島)(經西環)"
+  },
+  "1000535": {
+    "record_id": "CTB-987-O",
+    "origin": "西灣河",
+    "destination": "火炭(駿洋邨)"
+  },
+  "1000536": {
+    "record_id": "CTB-79-I",
+    "origin": "大圍站",
+    "destination": "粉嶺皇后山"
+  },
+  "1000547": {
+    "record_id": "CTB-85-I",
+    "origin": "寶馬山",
+    "destination": "小西灣(藍灣半島)"
+  },
+  "1000550": {
+    "record_id": "CTB-X9-I",
+    "origin": "石澳",
+    "destination": "中環 (天星碼頭)"
+  },
+  "1000552": {
+    "record_id": "CTB-15B-I",
+    "origin": "山頂",
+    "destination": "灣仔 (會展新翼)"
+  },
+  "1000553": {
+    "record_id": "CTB-90-I",
+    "origin": "中環(交易廣場)(經利東)",
+    "destination": "鴨脷洲邨"
+  },
+  "1000594": {
+    "record_id": "CTB-N8-I",
+    "origin": "鰂魚涌(循環線)",
+    "destination": "杏花邨 (城巴創富道車廠)"
+  },
+  "1000595": {
+    "record_id": "CTB-N8-I",
+    "origin": "康怡廣場",
+    "destination": "杏花邨 (城巴創富道車廠)"
+  },
+  "1000596": {
+    "record_id": "CTB-N8-I",
+    "origin": "康怡廣場",
+    "destination": "杏花邨 (城巴創富道車廠)"
+  },
+  "1000603": {
+    "record_id": "CTB-580-I",
+    "origin": "沙田市中心",
+    "destination": "西沙GO PARK"
+  },
+  "1000608": {
+    "record_id": "CTB-H3-O",
+    "origin": "中環 (香港摩天輪)",
+    "destination": "赤柱村 / 赤柱市集"
+  },
+  "1000609": {
+    "record_id": "CTB-H4-O",
+    "origin": "赤柱村 / 赤柱市集",
+    "destination": "香港摩天輪 / 中環碼頭 - 天星小輪"
+  },
+  "1000619": {
+    "record_id": "CTB-NA12-I",
+    "origin": "港珠澳大橋香港口岸",
+    "destination": "杏花邨"
+  },
+  "1000637": {
+    "record_id": "CTB-B3A-I",
+    "origin": "深圳灣口岸",
+    "destination": "富泰邨"
+  },
+  "1000640": {
+    "record_id": "CTB-382-I",
+    "origin": "泥涌",
+    "destination": "柴灣 (東)"
+  },
+  "1000648": {
+    "record_id": "CTB-55-I",
+    "origin": "觀塘碼頭(經觀塘道班次)",
+    "destination": "屯門 (菁田及和田)"
+  },
+  "1000650": {
+    "record_id": "CTB-979-I",
+    "origin": "北角碼頭",
+    "destination": "粉嶺皇后山"
+  },
+  "1000654": {
+    "record_id": "CTB-586-I",
+    "origin": "荃灣站",
+    "destination": "西沙GO PARK"
+  },
+  "1000655": {
+    "record_id": "CTB-587-I",
+    "origin": "尖沙咀(麼地道)",
+    "destination": "西沙GO PARK"
+  },
+  "1000656": {
+    "record_id": "CTB-589-I",
+    "origin": "九龍灣",
+    "destination": "西沙GO PARK"
+  },
+  "1000662": {
+    "record_id": "CTB-798X-I",
+    "origin": "火炭 (駿洋邨)",
+    "destination": "將軍澳工業邨(經香港中醫醫院班次)"
+  },
+  "1000665": {
+    "record_id": "CTB-A28X-O",
+    "origin": "將軍澳站",
+    "destination": "機場"
+  },
+  "1000682": {
+    "record_id": "CTB-S56-O",
+    "origin": "東涌站巴士總站",
+    "destination": "機場(客運大樓)"
+  },
+  "1000687": {
+    "record_id": "CTB-971-O",
+    "origin": "香港仔 (石排灣)",
+    "destination": "海麗邨"
+  },
+  "1000688": {
+    "record_id": "CTB-795X-I",
+    "origin": "蘇屋(經入境事務處總部)",
+    "destination": "清水灣半島"
+  },
+  "1000690": {
+    "record_id": "CTB-E18-O",
+    "origin": "東涌 (翔東邨)",
+    "destination": "北角碼頭"
+  },
+  "1000691": {
+    "record_id": "CTB-E28-O",
+    "origin": "東涌 (翔東邨)",
+    "destination": "將軍澳工業邨"
+  },
+  "1000692": {
+    "record_id": "CTB-702A-I",
+    "origin": "白田(北)",
+    "destination": "海盈邨"
+  },
+  "1000693": {
+    "record_id": "CTB-47P-O",
+    "origin": "堅尼地城",
+    "destination": "黃竹坑"
+  },
+  "1000695": {
+    "record_id": "CTB-73X-O",
+    "origin": "數碼港",
+    "destination": "黃竹坑站"
+  }
+}
