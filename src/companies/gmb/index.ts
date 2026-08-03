@@ -6,13 +6,14 @@ import {
   fetchStopsById,
   type GmbRegion,
 } from "./api.js";
-import type { RouteOutput, RouteStopsOutput } from "../../types.js";
 import {
   buildRouteStopTasks,
   collectStopIds,
   indexVariants,
   transformRouteStops,
   transformRoutes,
+  type GmbRouteOutput,
+  type GmbRouteStopsOutput,
 } from "./transform.js";
 
 function keyByRecordId<T extends { record_id: string }>(items: T[]): Record<string, T> {
@@ -65,10 +66,10 @@ export async function runRegion(
   console.log(`[${tag}] fetching ${stopIds.length} unique stops`);
   const stopsById = await fetchStopsById(stopIds, region, { cachePath: stopsCache });
 
-  const routesOut: Record<string, RouteOutput> = keyByRecordId(
+  const routesOut: Record<string, GmbRouteOutput> = keyByRecordId(
     transformRoutes(region, variants, routeStopGroups),
   );
-  const routeStopsOut: Record<string, RouteStopsOutput> = keyByRecordId(
+  const routeStopsOut: Record<string, GmbRouteStopsOutput> = keyByRecordId(
     transformRouteStops(region, routeStopGroups, stopsById),
   );
 

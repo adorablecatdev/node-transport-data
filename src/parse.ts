@@ -8,11 +8,11 @@ const FINAL_DIR = path.join(OUT_DIR, "final");
 
 const COMPANY_DIRS = [
   "kmb",
-  "citybus",
+  "ctb",
   "kmbctb",
   "mtrbus",
   "mtr",
-  "lightrail",
+  "lrt",
   "gmbhki",
   "gmbkln",
   "gmbnt",
@@ -22,10 +22,12 @@ const COMPANY_DIRS = [
 type RouteSource = {
   record_id: string;
   company: Company;
-  route_id: string;
+  route_id?: string;
   route: string | Localized;
-  bound: string;
-  service_type: string;
+  bound?: string;
+  service_type?: string;
+  route_seq?: number;
+  region?: string;
   origin: Localized;
   destination: Localized;
   ctb_bound?: string;
@@ -47,10 +49,12 @@ type RouteStopsSource = {
 type RouteFinal = {
   record_id: string;
   company: Company;
-  route_id: string;
+  route_id?: string;
   route: string | Localized;
-  bound: string;
-  service_type: string;
+  bound?: string;
+  service_type?: string;
+  route_seq?: number;
+  region?: string;
   origin: Localized;
   destination: Localized;
   stop_ids: string[];
@@ -119,10 +123,10 @@ async function readJsonIfExists<T>(filePath: string): Promise<T | null> {
 }
 
 function isJointKmbOrCtbRoute(route: RouteSource): boolean {
-  return (
-    (route.company === Company.KMB || route.company === Company.CTB) &&
-    JOINTLY_OPERATED_ROUTES.has(route.route_id)
-  );
+  if (route.company !== Company.KMB && route.company !== Company.CTB) return false;
+  const routeNo =
+    route.route_id ?? (typeof route.route === "string" ? route.route : undefined);
+  return routeNo !== undefined && JOINTLY_OPERATED_ROUTES.has(routeNo);
 }
 
 export async function parseAll(): Promise<void> {
@@ -236,6 +240,8 @@ export async function parseAll(): Promise<void> {
         route: route.route,
         bound: route.bound,
         service_type: route.service_type,
+        route_seq: route.route_seq,
+        region: route.region,
         origin: route.origin,
         destination: route.destination,
         stop_ids: stop_ids,

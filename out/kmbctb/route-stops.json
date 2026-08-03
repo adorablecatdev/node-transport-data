@@ -1,11 +1,10 @@
 {
-  "KMBCTB-101-outbound-1": {
-    "record_id": "KMBCTB-101-outbound-1",
+  "KMBCTB-101-O-1": {
+    "record_id": "KMBCTB-101-O-1",
     "company": "KMBCTB",
-    "route_id": "101",
     "route": "101",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -430,13 +429,12 @@
       }
     ]
   },
-  "KMBCTB-101-outbound-2": {
-    "record_id": "KMBCTB-101-outbound-2",
+  "KMBCTB-101-O-2": {
+    "record_id": "KMBCTB-101-O-2",
     "company": "KMBCTB",
-    "route_id": "101",
     "route": "101",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -705,13 +703,12 @@
       }
     ]
   },
-  "KMBCTB-101-outbound-3": {
-    "record_id": "KMBCTB-101-outbound-3",
+  "KMBCTB-101-O-3": {
+    "record_id": "KMBCTB-101-O-3",
     "company": "KMBCTB",
-    "route_id": "101",
     "route": "101",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "3",
     "stops": [
       {
@@ -1112,13 +1109,12 @@
       }
     ]
   },
-  "KMBCTB-101-outbound-9": {
-    "record_id": "KMBCTB-101-outbound-9",
+  "KMBCTB-101-O-9": {
+    "record_id": "KMBCTB-101-O-9",
     "company": "KMBCTB",
-    "route_id": "101",
     "route": "101",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "9",
     "stops": [
       {
@@ -1423,13 +1419,12 @@
       }
     ]
   },
-  "KMBCTB-101-inbound-1": {
-    "record_id": "KMBCTB-101-inbound-1",
+  "KMBCTB-101-I-1": {
+    "record_id": "KMBCTB-101-I-1",
     "company": "KMBCTB",
-    "route_id": "101",
     "route": "101",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -1854,13 +1849,12 @@
       }
     ]
   },
-  "KMBCTB-101-inbound-2": {
-    "record_id": "KMBCTB-101-inbound-2",
+  "KMBCTB-101-I-2": {
+    "record_id": "KMBCTB-101-I-2",
     "company": "KMBCTB",
-    "route_id": "101",
     "route": "101",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -2165,13 +2159,12 @@
       }
     ]
   },
-  "KMBCTB-101X-outbound-1": {
-    "record_id": "KMBCTB-101X-outbound-1",
+  "KMBCTB-101X-O-1": {
+    "record_id": "KMBCTB-101X-O-1",
     "company": "KMBCTB",
-    "route_id": "101X",
     "route": "101X",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -2380,13 +2373,12 @@
       }
     ]
   },
-  "KMBCTB-101X-outbound-2": {
-    "record_id": "KMBCTB-101X-outbound-2",
+  "KMBCTB-101X-O-2": {
+    "record_id": "KMBCTB-101X-O-2",
     "company": "KMBCTB",
-    "route_id": "101X",
     "route": "101X",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -2619,13 +2611,12 @@
       }
     ]
   },
-  "KMBCTB-101X-inbound-1": {
-    "record_id": "KMBCTB-101X-inbound-1",
+  "KMBCTB-101X-I-1": {
+    "record_id": "KMBCTB-101X-I-1",
     "company": "KMBCTB",
-    "route_id": "101X",
     "route": "101X",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -2858,13 +2849,12 @@
       }
     ]
   },
-  "KMBCTB-102-outbound-1": {
-    "record_id": "KMBCTB-102-outbound-1",
+  "KMBCTB-102-O-1": {
+    "record_id": "KMBCTB-102-O-1",
     "company": "KMBCTB",
-    "route_id": "102",
     "route": "102",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -3241,13 +3231,12 @@
       }
     ]
   },
-  "KMBCTB-102-inbound-1": {
-    "record_id": "KMBCTB-102-inbound-1",
+  "KMBCTB-102-I-1": {
+    "record_id": "KMBCTB-102-I-1",
     "company": "KMBCTB",
-    "route_id": "102",
     "route": "102",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -3660,13 +3649,12 @@
       }
     ]
   },
-  "KMBCTB-102P-outbound-1": {
-    "record_id": "KMBCTB-102P-outbound-1",
+  "KMBCTB-102P-O-1": {
+    "record_id": "KMBCTB-102P-O-1",
     "company": "KMBCTB",
-    "route_id": "102P",
     "route": "102P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -3983,13 +3971,12 @@
       }
     ]
   },
-  "KMBCTB-102P-inbound-1": {
-    "record_id": "KMBCTB-102P-inbound-1",
+  "KMBCTB-102P-I-1": {
+    "record_id": "KMBCTB-102P-I-1",
     "company": "KMBCTB",
-    "route_id": "102P",
     "route": "102P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -4306,13 +4293,12 @@
       }
     ]
   },
-  "KMBCTB-102P-inbound-3": {
-    "record_id": "KMBCTB-102P-inbound-3",
+  "KMBCTB-102P-I-3": {
+    "record_id": "KMBCTB-102P-I-3",
     "company": "KMBCTB",
-    "route_id": "102P",
     "route": "102P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "3",
     "stops": [
       {
@@ -4449,13 +4435,12 @@
       }
     ]
   },
-  "KMBCTB-103-outbound-1": {
-    "record_id": "KMBCTB-103-outbound-1",
+  "KMBCTB-103-O-1": {
+    "record_id": "KMBCTB-103-O-1",
     "company": "KMBCTB",
-    "route_id": "103",
     "route": "103",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -4892,13 +4877,12 @@
       }
     ]
   },
-  "KMBCTB-103-inbound-1": {
-    "record_id": "KMBCTB-103-inbound-1",
+  "KMBCTB-103-I-1": {
+    "record_id": "KMBCTB-103-I-1",
     "company": "KMBCTB",
-    "route_id": "103",
     "route": "103",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -5395,13 +5379,12 @@
       }
     ]
   },
-  "KMBCTB-104-outbound-1": {
-    "record_id": "KMBCTB-104-outbound-1",
+  "KMBCTB-104-O-1": {
+    "record_id": "KMBCTB-104-O-1",
     "company": "KMBCTB",
-    "route_id": "104",
     "route": "104",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -5802,13 +5785,12 @@
       }
     ]
   },
-  "KMBCTB-104-inbound-1": {
-    "record_id": "KMBCTB-104-inbound-1",
+  "KMBCTB-104-I-1": {
+    "record_id": "KMBCTB-104-I-1",
     "company": "KMBCTB",
-    "route_id": "104",
     "route": "104",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -6257,13 +6239,12 @@
       }
     ]
   },
-  "KMBCTB-106-outbound-1": {
-    "record_id": "KMBCTB-106-outbound-1",
+  "KMBCTB-106-O-1": {
+    "record_id": "KMBCTB-106-O-1",
     "company": "KMBCTB",
-    "route_id": "106",
     "route": "106",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -6844,13 +6825,12 @@
       }
     ]
   },
-  "KMBCTB-106-inbound-1": {
-    "record_id": "KMBCTB-106-inbound-1",
+  "KMBCTB-106-I-1": {
+    "record_id": "KMBCTB-106-I-1",
     "company": "KMBCTB",
-    "route_id": "106",
     "route": "106",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -7419,13 +7399,12 @@
       }
     ]
   },
-  "KMBCTB-106A-outbound-1": {
-    "record_id": "KMBCTB-106A-outbound-1",
+  "KMBCTB-106A-O-1": {
+    "record_id": "KMBCTB-106A-O-1",
     "company": "KMBCTB",
-    "route_id": "106A",
     "route": "106A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -7682,13 +7661,12 @@
       }
     ]
   },
-  "KMBCTB-106P-outbound-1": {
-    "record_id": "KMBCTB-106P-outbound-1",
+  "KMBCTB-106P-O-1": {
+    "record_id": "KMBCTB-106P-O-1",
     "company": "KMBCTB",
-    "route_id": "106P",
     "route": "106P",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -8173,13 +8151,12 @@
       }
     ]
   },
-  "KMBCTB-106P-inbound-1": {
-    "record_id": "KMBCTB-106P-inbound-1",
+  "KMBCTB-106P-I-1": {
+    "record_id": "KMBCTB-106P-I-1",
     "company": "KMBCTB",
-    "route_id": "106P",
     "route": "106P",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -8604,13 +8581,12 @@
       }
     ]
   },
-  "KMBCTB-106P-inbound-2": {
-    "record_id": "KMBCTB-106P-inbound-2",
+  "KMBCTB-106P-I-2": {
+    "record_id": "KMBCTB-106P-I-2",
     "company": "KMBCTB",
-    "route_id": "106P",
     "route": "106P",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -9095,13 +9071,12 @@
       }
     ]
   },
-  "KMBCTB-107-outbound-1": {
-    "record_id": "KMBCTB-107-outbound-1",
+  "KMBCTB-107-O-1": {
+    "record_id": "KMBCTB-107-O-1",
     "company": "KMBCTB",
-    "route_id": "107",
     "route": "107",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -9502,13 +9477,12 @@
       }
     ]
   },
-  "KMBCTB-107-outbound-2": {
-    "record_id": "KMBCTB-107-outbound-2",
+  "KMBCTB-107-O-2": {
+    "record_id": "KMBCTB-107-O-2",
     "company": "KMBCTB",
-    "route_id": "107",
     "route": "107",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -9921,13 +9895,12 @@
       }
     ]
   },
-  "KMBCTB-107-inbound-1": {
-    "record_id": "KMBCTB-107-inbound-1",
+  "KMBCTB-107-I-1": {
+    "record_id": "KMBCTB-107-I-1",
     "company": "KMBCTB",
-    "route_id": "107",
     "route": "107",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -10316,13 +10289,12 @@
       }
     ]
   },
-  "KMBCTB-107-inbound-2": {
-    "record_id": "KMBCTB-107-inbound-2",
+  "KMBCTB-107-I-2": {
+    "record_id": "KMBCTB-107-I-2",
     "company": "KMBCTB",
-    "route_id": "107",
     "route": "107",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -10723,13 +10695,12 @@
       }
     ]
   },
-  "KMBCTB-107P-outbound-1": {
-    "record_id": "KMBCTB-107P-outbound-1",
+  "KMBCTB-107P-O-1": {
+    "record_id": "KMBCTB-107P-O-1",
     "company": "KMBCTB",
-    "route_id": "107P",
     "route": "107P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -10986,13 +10957,12 @@
       }
     ]
   },
-  "KMBCTB-107P-inbound-1": {
-    "record_id": "KMBCTB-107P-inbound-1",
+  "KMBCTB-107P-I-1": {
+    "record_id": "KMBCTB-107P-I-1",
     "company": "KMBCTB",
-    "route_id": "107P",
     "route": "107P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -11237,13 +11207,12 @@
       }
     ]
   },
-  "KMBCTB-109-outbound-1": {
-    "record_id": "KMBCTB-109-outbound-1",
+  "KMBCTB-109-O-1": {
+    "record_id": "KMBCTB-109-O-1",
     "company": "KMBCTB",
-    "route_id": "109",
     "route": "109",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -11476,13 +11445,12 @@
       }
     ]
   },
-  "KMBCTB-109-inbound-1": {
-    "record_id": "KMBCTB-109-inbound-1",
+  "KMBCTB-109-I-1": {
+    "record_id": "KMBCTB-109-I-1",
     "company": "KMBCTB",
-    "route_id": "109",
     "route": "109",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -11727,13 +11695,12 @@
       }
     ]
   },
-  "KMBCTB-110-outbound-1": {
-    "record_id": "KMBCTB-110-outbound-1",
+  "KMBCTB-110-O-1": {
+    "record_id": "KMBCTB-110-O-1",
     "company": "KMBCTB",
-    "route_id": "110",
     "route": "110",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -12302,13 +12269,12 @@
       }
     ]
   },
-  "KMBCTB-110-outbound-2": {
-    "record_id": "KMBCTB-110-outbound-2",
+  "KMBCTB-110-O-2": {
+    "record_id": "KMBCTB-110-O-2",
     "company": "KMBCTB",
-    "route_id": "110",
     "route": "110",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -12577,13 +12543,12 @@
       }
     ]
   },
-  "KMBCTB-110-outbound-5": {
-    "record_id": "KMBCTB-110-outbound-5",
+  "KMBCTB-110-O-5": {
+    "record_id": "KMBCTB-110-O-5",
     "company": "KMBCTB",
-    "route_id": "110",
     "route": "110",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "5",
     "stops": [
       {
@@ -13164,13 +13129,12 @@
       }
     ]
   },
-  "KMBCTB-110-outbound-6": {
-    "record_id": "KMBCTB-110-outbound-6",
+  "KMBCTB-110-O-6": {
+    "record_id": "KMBCTB-110-O-6",
     "company": "KMBCTB",
-    "route_id": "110",
     "route": "110",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "6",
     "stops": [
       {
@@ -13451,13 +13415,12 @@
       }
     ]
   },
-  "KMBCTB-111-outbound-1": {
-    "record_id": "KMBCTB-111-outbound-1",
+  "KMBCTB-111-O-1": {
+    "record_id": "KMBCTB-111-O-1",
     "company": "KMBCTB",
-    "route_id": "111",
     "route": "111",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -13714,13 +13677,12 @@
       }
     ]
   },
-  "KMBCTB-111-inbound-1": {
-    "record_id": "KMBCTB-111-inbound-1",
+  "KMBCTB-111-I-1": {
+    "record_id": "KMBCTB-111-I-1",
     "company": "KMBCTB",
-    "route_id": "111",
     "route": "111",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -14013,13 +13975,12 @@
       }
     ]
   },
-  "KMBCTB-111P-outbound-1": {
-    "record_id": "KMBCTB-111P-outbound-1",
+  "KMBCTB-111P-O-1": {
+    "record_id": "KMBCTB-111P-O-1",
     "company": "KMBCTB",
-    "route_id": "111P",
     "route": "111P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -14240,13 +14201,12 @@
       }
     ]
   },
-  "KMBCTB-111P-inbound-1": {
-    "record_id": "KMBCTB-111P-inbound-1",
+  "KMBCTB-111P-I-1": {
+    "record_id": "KMBCTB-111P-I-1",
     "company": "KMBCTB",
-    "route_id": "111P",
     "route": "111P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -14563,13 +14523,12 @@
       }
     ]
   },
-  "KMBCTB-112-outbound-1": {
-    "record_id": "KMBCTB-112-outbound-1",
+  "KMBCTB-112-O-1": {
+    "record_id": "KMBCTB-112-O-1",
     "company": "KMBCTB",
-    "route_id": "112",
     "route": "112",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -14850,13 +14809,12 @@
       }
     ]
   },
-  "KMBCTB-112-inbound-1": {
-    "record_id": "KMBCTB-112-inbound-1",
+  "KMBCTB-112-I-1": {
+    "record_id": "KMBCTB-112-I-1",
     "company": "KMBCTB",
-    "route_id": "112",
     "route": "112",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -15149,13 +15107,12 @@
       }
     ]
   },
-  "KMBCTB-113-outbound-1": {
-    "record_id": "KMBCTB-113-outbound-1",
+  "KMBCTB-113-O-1": {
+    "record_id": "KMBCTB-113-O-1",
     "company": "KMBCTB",
-    "route_id": "113",
     "route": "113",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -15640,13 +15597,12 @@
       }
     ]
   },
-  "KMBCTB-113-inbound-1": {
-    "record_id": "KMBCTB-113-inbound-1",
+  "KMBCTB-113-I-1": {
+    "record_id": "KMBCTB-113-I-1",
     "company": "KMBCTB",
-    "route_id": "113",
     "route": "113",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -16119,13 +16075,12 @@
       }
     ]
   },
-  "KMBCTB-115-outbound-1": {
-    "record_id": "KMBCTB-115-outbound-1",
+  "KMBCTB-115-O-1": {
+    "record_id": "KMBCTB-115-O-1",
     "company": "KMBCTB",
-    "route_id": "115",
     "route": "115",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -16370,13 +16325,12 @@
       }
     ]
   },
-  "KMBCTB-115-inbound-1": {
-    "record_id": "KMBCTB-115-inbound-1",
+  "KMBCTB-115-I-1": {
+    "record_id": "KMBCTB-115-I-1",
     "company": "KMBCTB",
-    "route_id": "115",
     "route": "115",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -16645,13 +16599,12 @@
       }
     ]
   },
-  "KMBCTB-115P-outbound-1": {
-    "record_id": "KMBCTB-115P-outbound-1",
+  "KMBCTB-115P-O-1": {
+    "record_id": "KMBCTB-115P-O-1",
     "company": "KMBCTB",
-    "route_id": "115P",
     "route": "115P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -16812,13 +16765,12 @@
       }
     ]
   },
-  "KMBCTB-116-outbound-1": {
-    "record_id": "KMBCTB-116-outbound-1",
+  "KMBCTB-116-O-1": {
+    "record_id": "KMBCTB-116-O-1",
     "company": "KMBCTB",
-    "route_id": "116",
     "route": "116",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -17195,13 +17147,12 @@
       }
     ]
   },
-  "KMBCTB-116-inbound-1": {
-    "record_id": "KMBCTB-116-inbound-1",
+  "KMBCTB-116-I-1": {
+    "record_id": "KMBCTB-116-I-1",
     "company": "KMBCTB",
-    "route_id": "116",
     "route": "116",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -17590,13 +17541,12 @@
       }
     ]
   },
-  "KMBCTB-116-inbound-2": {
-    "record_id": "KMBCTB-116-inbound-2",
+  "KMBCTB-116-I-2": {
+    "record_id": "KMBCTB-116-I-2",
     "company": "KMBCTB",
-    "route_id": "116",
     "route": "116",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -17901,13 +17851,12 @@
       }
     ]
   },
-  "KMBCTB-117-outbound-1": {
-    "record_id": "KMBCTB-117-outbound-1",
+  "KMBCTB-117-O-1": {
+    "record_id": "KMBCTB-117-O-1",
     "company": "KMBCTB",
-    "route_id": "117",
     "route": "117",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -18164,13 +18113,12 @@
       }
     ]
   },
-  "KMBCTB-117-inbound-1": {
-    "record_id": "KMBCTB-117-inbound-1",
+  "KMBCTB-117-I-1": {
+    "record_id": "KMBCTB-117-I-1",
     "company": "KMBCTB",
-    "route_id": "117",
     "route": "117",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -18403,13 +18351,12 @@
       }
     ]
   },
-  "KMBCTB-118-outbound-1": {
-    "record_id": "KMBCTB-118-outbound-1",
+  "KMBCTB-118-O-1": {
+    "record_id": "KMBCTB-118-O-1",
     "company": "KMBCTB",
-    "route_id": "118",
     "route": "118",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -18786,13 +18733,12 @@
       }
     ]
   },
-  "KMBCTB-118-outbound-2": {
-    "record_id": "KMBCTB-118-outbound-2",
+  "KMBCTB-118-O-2": {
+    "record_id": "KMBCTB-118-O-2",
     "company": "KMBCTB",
-    "route_id": "118",
     "route": "118",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -19049,13 +18995,12 @@
       }
     ]
   },
-  "KMBCTB-118-outbound-3": {
-    "record_id": "KMBCTB-118-outbound-3",
+  "KMBCTB-118-O-3": {
+    "record_id": "KMBCTB-118-O-3",
     "company": "KMBCTB",
-    "route_id": "118",
     "route": "118",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "3",
     "stops": [
       {
@@ -19252,13 +19197,12 @@
       }
     ]
   },
-  "KMBCTB-118-inbound-1": {
-    "record_id": "KMBCTB-118-inbound-1",
+  "KMBCTB-118-I-1": {
+    "record_id": "KMBCTB-118-I-1",
     "company": "KMBCTB",
-    "route_id": "118",
     "route": "118",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -19623,13 +19567,12 @@
       }
     ]
   },
-  "KMBCTB-118-inbound-3": {
-    "record_id": "KMBCTB-118-inbound-3",
+  "KMBCTB-118-I-3": {
+    "record_id": "KMBCTB-118-I-3",
     "company": "KMBCTB",
-    "route_id": "118",
     "route": "118",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "3",
     "stops": [
       {
@@ -19898,13 +19841,12 @@
       }
     ]
   },
-  "KMBCTB-118P-outbound-1": {
-    "record_id": "KMBCTB-118P-outbound-1",
+  "KMBCTB-118P-O-1": {
+    "record_id": "KMBCTB-118P-O-1",
     "company": "KMBCTB",
-    "route_id": "118P",
     "route": "118P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -20185,13 +20127,12 @@
       }
     ]
   },
-  "KMBCTB-118P-outbound-4": {
-    "record_id": "KMBCTB-118P-outbound-4",
+  "KMBCTB-118P-O-4": {
+    "record_id": "KMBCTB-118P-O-4",
     "company": "KMBCTB",
-    "route_id": "118P",
     "route": "118P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "4",
     "stops": [
       {
@@ -20364,13 +20305,12 @@
       }
     ]
   },
-  "KMBCTB-118P-inbound-1": {
-    "record_id": "KMBCTB-118P-inbound-1",
+  "KMBCTB-118P-I-1": {
+    "record_id": "KMBCTB-118P-I-1",
     "company": "KMBCTB",
-    "route_id": "118P",
     "route": "118P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -20651,13 +20591,12 @@
       }
     ]
   },
-  "KMBCTB-170-outbound-1": {
-    "record_id": "KMBCTB-170-outbound-1",
+  "KMBCTB-170-O-1": {
+    "record_id": "KMBCTB-170-O-1",
     "company": "KMBCTB",
-    "route_id": "170",
     "route": "170",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -21022,13 +20961,12 @@
       }
     ]
   },
-  "KMBCTB-170-outbound-2": {
-    "record_id": "KMBCTB-170-outbound-2",
+  "KMBCTB-170-O-2": {
+    "record_id": "KMBCTB-170-O-2",
     "company": "KMBCTB",
-    "route_id": "170",
     "route": "170",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -21405,13 +21343,12 @@
       }
     ]
   },
-  "KMBCTB-170-inbound-1": {
-    "record_id": "KMBCTB-170-inbound-1",
+  "KMBCTB-170-I-1": {
+    "record_id": "KMBCTB-170-I-1",
     "company": "KMBCTB",
-    "route_id": "170",
     "route": "170",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -21848,13 +21785,12 @@
       }
     ]
   },
-  "KMBCTB-170-inbound-2": {
-    "record_id": "KMBCTB-170-inbound-2",
+  "KMBCTB-170-I-2": {
+    "record_id": "KMBCTB-170-I-2",
     "company": "KMBCTB",
-    "route_id": "170",
     "route": "170",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -22303,13 +22239,12 @@
       }
     ]
   },
-  "KMBCTB-171-outbound-1": {
-    "record_id": "KMBCTB-171-outbound-1",
+  "KMBCTB-171-O-1": {
+    "record_id": "KMBCTB-171-O-1",
     "company": "KMBCTB",
-    "route_id": "171",
     "route": "171",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -22698,13 +22633,12 @@
       }
     ]
   },
-  "KMBCTB-171-outbound-2": {
-    "record_id": "KMBCTB-171-outbound-2",
+  "KMBCTB-171-O-2": {
+    "record_id": "KMBCTB-171-O-2",
     "company": "KMBCTB",
-    "route_id": "171",
     "route": "171",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -23105,13 +23039,12 @@
       }
     ]
   },
-  "KMBCTB-171-outbound-7": {
-    "record_id": "KMBCTB-171-outbound-7",
+  "KMBCTB-171-O-7": {
+    "record_id": "KMBCTB-171-O-7",
     "company": "KMBCTB",
-    "route_id": "171",
     "route": "171",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "7",
     "stops": [
       {
@@ -23476,13 +23409,12 @@
       }
     ]
   },
-  "KMBCTB-171-inbound-1": {
-    "record_id": "KMBCTB-171-inbound-1",
+  "KMBCTB-171-I-1": {
+    "record_id": "KMBCTB-171-I-1",
     "company": "KMBCTB",
-    "route_id": "171",
     "route": "171",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -23847,13 +23779,12 @@
       }
     ]
   },
-  "KMBCTB-171-inbound-2": {
-    "record_id": "KMBCTB-171-inbound-2",
+  "KMBCTB-171-I-2": {
+    "record_id": "KMBCTB-171-I-2",
     "company": "KMBCTB",
-    "route_id": "171",
     "route": "171",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -24230,13 +24161,12 @@
       }
     ]
   },
-  "KMBCTB-171-inbound-9": {
-    "record_id": "KMBCTB-171-inbound-9",
+  "KMBCTB-171-I-9": {
+    "record_id": "KMBCTB-171-I-9",
     "company": "KMBCTB",
-    "route_id": "171",
     "route": "171",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "9",
     "stops": [
       {
@@ -24577,13 +24507,12 @@
       }
     ]
   },
-  "KMBCTB-171A-outbound-1": {
-    "record_id": "KMBCTB-171A-outbound-1",
+  "KMBCTB-171A-O-1": {
+    "record_id": "KMBCTB-171A-O-1",
     "company": "KMBCTB",
-    "route_id": "171A",
     "route": "171A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -24876,13 +24805,12 @@
       }
     ]
   },
-  "KMBCTB-171P-outbound-1": {
-    "record_id": "KMBCTB-171P-outbound-1",
+  "KMBCTB-171P-O-1": {
+    "record_id": "KMBCTB-171P-O-1",
     "company": "KMBCTB",
-    "route_id": "171P",
     "route": "171P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -25187,13 +25115,12 @@
       }
     ]
   },
-  "KMBCTB-182-outbound-1": {
-    "record_id": "KMBCTB-182-outbound-1",
+  "KMBCTB-182-O-1": {
+    "record_id": "KMBCTB-182-O-1",
     "company": "KMBCTB",
-    "route_id": "182",
     "route": "182",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -25534,13 +25461,12 @@
       }
     ]
   },
-  "KMBCTB-182-inbound-1": {
-    "record_id": "KMBCTB-182-inbound-1",
+  "KMBCTB-182-I-1": {
+    "record_id": "KMBCTB-182-I-1",
     "company": "KMBCTB",
-    "route_id": "182",
     "route": "182",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -25917,13 +25843,12 @@
       }
     ]
   },
-  "KMBCTB-182X-outbound-1": {
-    "record_id": "KMBCTB-182X-outbound-1",
+  "KMBCTB-182X-O-1": {
+    "record_id": "KMBCTB-182X-O-1",
     "company": "KMBCTB",
-    "route_id": "182X",
     "route": "182X",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -26180,13 +26105,12 @@
       }
     ]
   },
-  "KMBCTB-302-outbound-1": {
-    "record_id": "KMBCTB-302-outbound-1",
+  "KMBCTB-302-O-1": {
+    "record_id": "KMBCTB-302-O-1",
     "company": "KMBCTB",
-    "route_id": "302",
     "route": "302",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -26419,13 +26343,12 @@
       }
     ]
   },
-  "KMBCTB-302A-outbound-1": {
-    "record_id": "KMBCTB-302A-outbound-1",
+  "KMBCTB-302A-O-1": {
+    "record_id": "KMBCTB-302A-O-1",
     "company": "KMBCTB",
-    "route_id": "302A",
     "route": "302A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -26658,13 +26581,12 @@
       }
     ]
   },
-  "KMBCTB-307-outbound-1": {
-    "record_id": "KMBCTB-307-outbound-1",
+  "KMBCTB-307-O-1": {
+    "record_id": "KMBCTB-307-O-1",
     "company": "KMBCTB",
-    "route_id": "307",
     "route": "307",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -26849,13 +26771,12 @@
       }
     ]
   },
-  "KMBCTB-307-outbound-3": {
-    "record_id": "KMBCTB-307-outbound-3",
+  "KMBCTB-307-O-3": {
+    "record_id": "KMBCTB-307-O-3",
     "company": "KMBCTB",
-    "route_id": "307",
     "route": "307",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "3",
     "stops": [
       {
@@ -27016,13 +26937,12 @@
       }
     ]
   },
-  "KMBCTB-307-inbound-1": {
-    "record_id": "KMBCTB-307-inbound-1",
+  "KMBCTB-307-I-1": {
+    "record_id": "KMBCTB-307-I-1",
     "company": "KMBCTB",
-    "route_id": "307",
     "route": "307",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -27207,13 +27127,12 @@
       }
     ]
   },
-  "KMBCTB-307A-outbound-1": {
-    "record_id": "KMBCTB-307A-outbound-1",
+  "KMBCTB-307A-O-1": {
+    "record_id": "KMBCTB-307A-O-1",
     "company": "KMBCTB",
-    "route_id": "307A",
     "route": "307A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -27362,13 +27281,12 @@
       }
     ]
   },
-  "KMBCTB-307P-outbound-1": {
-    "record_id": "KMBCTB-307P-outbound-1",
+  "KMBCTB-307P-O-1": {
+    "record_id": "KMBCTB-307P-O-1",
     "company": "KMBCTB",
-    "route_id": "307P",
     "route": "307P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -27661,13 +27579,12 @@
       }
     ]
   },
-  "KMBCTB-307P-outbound-2": {
-    "record_id": "KMBCTB-307P-outbound-2",
+  "KMBCTB-307P-O-2": {
+    "record_id": "KMBCTB-307P-O-2",
     "company": "KMBCTB",
-    "route_id": "307P",
     "route": "307P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -27972,13 +27889,12 @@
       }
     ]
   },
-  "KMBCTB-307P-inbound-1": {
-    "record_id": "KMBCTB-307P-inbound-1",
+  "KMBCTB-307P-I-1": {
+    "record_id": "KMBCTB-307P-I-1",
     "company": "KMBCTB",
-    "route_id": "307P",
     "route": "307P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -28235,13 +28151,12 @@
       }
     ]
   },
-  "KMBCTB-307P-inbound-2": {
-    "record_id": "KMBCTB-307P-inbound-2",
+  "KMBCTB-307P-I-2": {
+    "record_id": "KMBCTB-307P-I-2",
     "company": "KMBCTB",
-    "route_id": "307P",
     "route": "307P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -28558,13 +28473,12 @@
       }
     ]
   },
-  "KMBCTB-601-outbound-1": {
-    "record_id": "KMBCTB-601-outbound-1",
+  "KMBCTB-601-O-1": {
+    "record_id": "KMBCTB-601-O-1",
     "company": "KMBCTB",
-    "route_id": "601",
     "route": "601",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -28905,13 +28819,12 @@
       }
     ]
   },
-  "KMBCTB-601-inbound-1": {
-    "record_id": "KMBCTB-601-inbound-1",
+  "KMBCTB-601-I-1": {
+    "record_id": "KMBCTB-601-I-1",
     "company": "KMBCTB",
-    "route_id": "601",
     "route": "601",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -29252,13 +29165,12 @@
       }
     ]
   },
-  "KMBCTB-601P-outbound-1": {
-    "record_id": "KMBCTB-601P-outbound-1",
+  "KMBCTB-601P-O-1": {
+    "record_id": "KMBCTB-601P-O-1",
     "company": "KMBCTB",
-    "route_id": "601P",
     "route": "601P",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -29515,13 +29427,12 @@
       }
     ]
   },
-  "KMBCTB-601P-outbound-2": {
-    "record_id": "KMBCTB-601P-outbound-2",
+  "KMBCTB-601P-O-2": {
+    "record_id": "KMBCTB-601P-O-2",
     "company": "KMBCTB",
-    "route_id": "601P",
     "route": "601P",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -29682,13 +29593,12 @@
       }
     ]
   },
-  "KMBCTB-601P-inbound-1": {
-    "record_id": "KMBCTB-601P-inbound-1",
+  "KMBCTB-601P-I-1": {
+    "record_id": "KMBCTB-601P-I-1",
     "company": "KMBCTB",
-    "route_id": "601P",
     "route": "601P",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -30029,13 +29939,12 @@
       }
     ]
   },
-  "KMBCTB-606-outbound-1": {
-    "record_id": "KMBCTB-606-outbound-1",
+  "KMBCTB-606-O-1": {
+    "record_id": "KMBCTB-606-O-1",
     "company": "KMBCTB",
-    "route_id": "606",
     "route": "606",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -30580,13 +30489,12 @@
       }
     ]
   },
-  "KMBCTB-606-outbound-4": {
-    "record_id": "KMBCTB-606-outbound-4",
+  "KMBCTB-606-O-4": {
+    "record_id": "KMBCTB-606-O-4",
     "company": "KMBCTB",
-    "route_id": "606",
     "route": "606",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "4",
     "stops": [
       {
@@ -31179,13 +31087,12 @@
       }
     ]
   },
-  "KMBCTB-606-inbound-1": {
-    "record_id": "KMBCTB-606-inbound-1",
+  "KMBCTB-606-I-1": {
+    "record_id": "KMBCTB-606-I-1",
     "company": "KMBCTB",
-    "route_id": "606",
     "route": "606",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -31682,13 +31589,12 @@
       }
     ]
   },
-  "KMBCTB-606A-outbound-1": {
-    "record_id": "KMBCTB-606A-outbound-1",
+  "KMBCTB-606A-O-1": {
+    "record_id": "KMBCTB-606A-O-1",
     "company": "KMBCTB",
-    "route_id": "606A",
     "route": "606A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -32065,13 +31971,12 @@
       }
     ]
   },
-  "KMBCTB-606A-inbound-1": {
-    "record_id": "KMBCTB-606A-inbound-1",
+  "KMBCTB-606A-I-1": {
+    "record_id": "KMBCTB-606A-I-1",
     "company": "KMBCTB",
-    "route_id": "606A",
     "route": "606A",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -32340,13 +32245,12 @@
       }
     ]
   },
-  "KMBCTB-606X-outbound-1": {
-    "record_id": "KMBCTB-606X-outbound-1",
+  "KMBCTB-606X-O-1": {
+    "record_id": "KMBCTB-606X-O-1",
     "company": "KMBCTB",
-    "route_id": "606X",
     "route": "606X",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -32615,13 +32519,12 @@
       }
     ]
   },
-  "KMBCTB-606X-outbound-2": {
-    "record_id": "KMBCTB-606X-outbound-2",
+  "KMBCTB-606X-O-2": {
+    "record_id": "KMBCTB-606X-O-2",
     "company": "KMBCTB",
-    "route_id": "606X",
     "route": "606X",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -32902,13 +32805,12 @@
       }
     ]
   },
-  "KMBCTB-606X-outbound-3": {
-    "record_id": "KMBCTB-606X-outbound-3",
+  "KMBCTB-606X-O-3": {
+    "record_id": "KMBCTB-606X-O-3",
     "company": "KMBCTB",
-    "route_id": "606X",
     "route": "606X",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "3",
     "stops": [
       {
@@ -33201,13 +33103,12 @@
       }
     ]
   },
-  "KMBCTB-606X-inbound-1": {
-    "record_id": "KMBCTB-606X-inbound-1",
+  "KMBCTB-606X-I-1": {
+    "record_id": "KMBCTB-606X-I-1",
     "company": "KMBCTB",
-    "route_id": "606X",
     "route": "606X",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -33488,13 +33389,12 @@
       }
     ]
   },
-  "KMBCTB-619-outbound-1": {
-    "record_id": "KMBCTB-619-outbound-1",
+  "KMBCTB-619-O-1": {
+    "record_id": "KMBCTB-619-O-1",
     "company": "KMBCTB",
-    "route_id": "619",
     "route": "619",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -33883,13 +33783,12 @@
       }
     ]
   },
-  "KMBCTB-619-inbound-1": {
-    "record_id": "KMBCTB-619-inbound-1",
+  "KMBCTB-619-I-1": {
+    "record_id": "KMBCTB-619-I-1",
     "company": "KMBCTB",
-    "route_id": "619",
     "route": "619",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -34278,13 +34177,12 @@
       }
     ]
   },
-  "KMBCTB-619P-outbound-1": {
-    "record_id": "KMBCTB-619P-outbound-1",
+  "KMBCTB-619P-O-1": {
+    "record_id": "KMBCTB-619P-O-1",
     "company": "KMBCTB",
-    "route_id": "619P",
     "route": "619P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -34589,13 +34487,12 @@
       }
     ]
   },
-  "KMBCTB-619X-outbound-1": {
-    "record_id": "KMBCTB-619X-outbound-1",
+  "KMBCTB-619X-O-1": {
+    "record_id": "KMBCTB-619X-O-1",
     "company": "KMBCTB",
-    "route_id": "619X",
     "route": "619X",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -34828,13 +34725,12 @@
       }
     ]
   },
-  "KMBCTB-619X-inbound-1": {
-    "record_id": "KMBCTB-619X-inbound-1",
+  "KMBCTB-619X-I-1": {
+    "record_id": "KMBCTB-619X-I-1",
     "company": "KMBCTB",
-    "route_id": "619X",
     "route": "619X",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -35163,13 +35059,12 @@
       }
     ]
   },
-  "KMBCTB-621-outbound-1": {
-    "record_id": "KMBCTB-621-outbound-1",
+  "KMBCTB-621-O-1": {
+    "record_id": "KMBCTB-621-O-1",
     "company": "KMBCTB",
-    "route_id": "621",
     "route": "621",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -35294,13 +35189,12 @@
       }
     ]
   },
-  "KMBCTB-621-inbound-1": {
-    "record_id": "KMBCTB-621-inbound-1",
+  "KMBCTB-621-I-1": {
+    "record_id": "KMBCTB-621-I-1",
     "company": "KMBCTB",
-    "route_id": "621",
     "route": "621",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -35545,13 +35439,12 @@
       }
     ]
   },
-  "KMBCTB-641-outbound-1": {
-    "record_id": "KMBCTB-641-outbound-1",
+  "KMBCTB-641-O-1": {
+    "record_id": "KMBCTB-641-O-1",
     "company": "KMBCTB",
-    "route_id": "641",
     "route": "641",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -35808,13 +35701,12 @@
       }
     ]
   },
-  "KMBCTB-641-inbound-1": {
-    "record_id": "KMBCTB-641-inbound-1",
+  "KMBCTB-641-I-1": {
+    "record_id": "KMBCTB-641-I-1",
     "company": "KMBCTB",
-    "route_id": "641",
     "route": "641",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -36083,13 +35975,12 @@
       }
     ]
   },
-  "KMBCTB-671-outbound-1": {
-    "record_id": "KMBCTB-671-outbound-1",
+  "KMBCTB-671-O-1": {
+    "record_id": "KMBCTB-671-O-1",
     "company": "KMBCTB",
-    "route_id": "671",
     "route": "671",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -36538,13 +36429,12 @@
       }
     ]
   },
-  "KMBCTB-671-inbound-1": {
-    "record_id": "KMBCTB-671-inbound-1",
+  "KMBCTB-671-I-1": {
+    "record_id": "KMBCTB-671-I-1",
     "company": "KMBCTB",
-    "route_id": "671",
     "route": "671",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -37017,13 +36907,12 @@
       }
     ]
   },
-  "KMBCTB-671X-outbound-1": {
-    "record_id": "KMBCTB-671X-outbound-1",
+  "KMBCTB-671X-O-1": {
+    "record_id": "KMBCTB-671X-O-1",
     "company": "KMBCTB",
-    "route_id": "671X",
     "route": "671X",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -37388,13 +37277,12 @@
       }
     ]
   },
-  "KMBCTB-678-outbound-1": {
-    "record_id": "KMBCTB-678-outbound-1",
+  "KMBCTB-678-O-1": {
+    "record_id": "KMBCTB-678-O-1",
     "company": "KMBCTB",
-    "route_id": "678",
     "route": "678",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -37723,13 +37611,12 @@
       }
     ]
   },
-  "KMBCTB-678-inbound-1": {
-    "record_id": "KMBCTB-678-inbound-1",
+  "KMBCTB-678-I-1": {
+    "record_id": "KMBCTB-678-I-1",
     "company": "KMBCTB",
-    "route_id": "678",
     "route": "678",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -38022,13 +37909,12 @@
       }
     ]
   },
-  "KMBCTB-680-outbound-1": {
-    "record_id": "KMBCTB-680-outbound-1",
+  "KMBCTB-680-O-1": {
+    "record_id": "KMBCTB-680-O-1",
     "company": "KMBCTB",
-    "route_id": "680",
     "route": "680",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -38381,13 +38267,12 @@
       }
     ]
   },
-  "KMBCTB-680-outbound-3": {
-    "record_id": "KMBCTB-680-outbound-3",
+  "KMBCTB-680-O-3": {
+    "record_id": "KMBCTB-680-O-3",
     "company": "KMBCTB",
-    "route_id": "680",
     "route": "680",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "3",
     "stops": [
       {
@@ -38752,13 +38637,12 @@
       }
     ]
   },
-  "KMBCTB-680-inbound-1": {
-    "record_id": "KMBCTB-680-inbound-1",
+  "KMBCTB-680-I-1": {
+    "record_id": "KMBCTB-680-I-1",
     "company": "KMBCTB",
-    "route_id": "680",
     "route": "680",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -39099,13 +38983,12 @@
       }
     ]
   },
-  "KMBCTB-680B-outbound-1": {
-    "record_id": "KMBCTB-680B-outbound-1",
+  "KMBCTB-680B-O-1": {
+    "record_id": "KMBCTB-680B-O-1",
     "company": "KMBCTB",
-    "route_id": "680B",
     "route": "680B",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -39326,13 +39209,12 @@
       }
     ]
   },
-  "KMBCTB-680P-outbound-1": {
-    "record_id": "KMBCTB-680P-outbound-1",
+  "KMBCTB-680P-O-1": {
+    "record_id": "KMBCTB-680P-O-1",
     "company": "KMBCTB",
-    "route_id": "680P",
     "route": "680P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -39625,13 +39507,12 @@
       }
     ]
   },
-  "KMBCTB-680X-outbound-1": {
-    "record_id": "KMBCTB-680X-outbound-1",
+  "KMBCTB-680X-O-1": {
+    "record_id": "KMBCTB-680X-O-1",
     "company": "KMBCTB",
-    "route_id": "680X",
     "route": "680X",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -39828,13 +39709,12 @@
       }
     ]
   },
-  "KMBCTB-680X-inbound-1": {
-    "record_id": "KMBCTB-680X-inbound-1",
+  "KMBCTB-680X-I-1": {
+    "record_id": "KMBCTB-680X-I-1",
     "company": "KMBCTB",
-    "route_id": "680X",
     "route": "680X",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -40115,13 +39995,12 @@
       }
     ]
   },
-  "KMBCTB-681-outbound-1": {
-    "record_id": "KMBCTB-681-outbound-1",
+  "KMBCTB-681-O-1": {
+    "record_id": "KMBCTB-681-O-1",
     "company": "KMBCTB",
-    "route_id": "681",
     "route": "681",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -40366,13 +40245,12 @@
       }
     ]
   },
-  "KMBCTB-681-inbound-1": {
-    "record_id": "KMBCTB-681-inbound-1",
+  "KMBCTB-681-I-1": {
+    "record_id": "KMBCTB-681-I-1",
     "company": "KMBCTB",
-    "route_id": "681",
     "route": "681",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -40545,13 +40423,12 @@
       }
     ]
   },
-  "KMBCTB-681P-outbound-1": {
-    "record_id": "KMBCTB-681P-outbound-1",
+  "KMBCTB-681P-O-1": {
+    "record_id": "KMBCTB-681P-O-1",
     "company": "KMBCTB",
-    "route_id": "681P",
     "route": "681P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -40784,13 +40661,12 @@
       }
     ]
   },
-  "KMBCTB-681P-inbound-1": {
-    "record_id": "KMBCTB-681P-inbound-1",
+  "KMBCTB-681P-I-1": {
+    "record_id": "KMBCTB-681P-I-1",
     "company": "KMBCTB",
-    "route_id": "681P",
     "route": "681P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -41095,13 +40971,12 @@
       }
     ]
   },
-  "KMBCTB-690-outbound-1": {
-    "record_id": "KMBCTB-690-outbound-1",
+  "KMBCTB-690-O-1": {
+    "record_id": "KMBCTB-690-O-1",
     "company": "KMBCTB",
-    "route_id": "690",
     "route": "690",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -41442,13 +41317,12 @@
       }
     ]
   },
-  "KMBCTB-690-outbound-2": {
-    "record_id": "KMBCTB-690-outbound-2",
+  "KMBCTB-690-O-2": {
+    "record_id": "KMBCTB-690-O-2",
     "company": "KMBCTB",
-    "route_id": "690",
     "route": "690",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -41813,13 +41687,12 @@
       }
     ]
   },
-  "KMBCTB-690-inbound-1": {
-    "record_id": "KMBCTB-690-inbound-1",
+  "KMBCTB-690-I-1": {
+    "record_id": "KMBCTB-690-I-1",
     "company": "KMBCTB",
-    "route_id": "690",
     "route": "690",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -42160,13 +42033,12 @@
       }
     ]
   },
-  "KMBCTB-690P-outbound-1": {
-    "record_id": "KMBCTB-690P-outbound-1",
+  "KMBCTB-690P-O-1": {
+    "record_id": "KMBCTB-690P-O-1",
     "company": "KMBCTB",
-    "route_id": "690P",
     "route": "690P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -42399,13 +42271,12 @@
       }
     ]
   },
-  "KMBCTB-904-outbound-1": {
-    "record_id": "KMBCTB-904-outbound-1",
+  "KMBCTB-904-O-1": {
+    "record_id": "KMBCTB-904-O-1",
     "company": "KMBCTB",
-    "route_id": "904",
     "route": "904",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -42686,13 +42557,12 @@
       }
     ]
   },
-  "KMBCTB-904-inbound-1": {
-    "record_id": "KMBCTB-904-inbound-1",
+  "KMBCTB-904-I-1": {
+    "record_id": "KMBCTB-904-I-1",
     "company": "KMBCTB",
-    "route_id": "904",
     "route": "904",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -42985,13 +42855,12 @@
       }
     ]
   },
-  "KMBCTB-905-outbound-1": {
-    "record_id": "KMBCTB-905-outbound-1",
+  "KMBCTB-905-O-1": {
+    "record_id": "KMBCTB-905-O-1",
     "company": "KMBCTB",
-    "route_id": "905",
     "route": "905",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -43356,13 +43225,12 @@
       }
     ]
   },
-  "KMBCTB-905-inbound-1": {
-    "record_id": "KMBCTB-905-inbound-1",
+  "KMBCTB-905-I-1": {
+    "record_id": "KMBCTB-905-I-1",
     "company": "KMBCTB",
-    "route_id": "905",
     "route": "905",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -43739,13 +43607,12 @@
       }
     ]
   },
-  "KMBCTB-905A-outbound-1": {
-    "record_id": "KMBCTB-905A-outbound-1",
+  "KMBCTB-905A-O-1": {
+    "record_id": "KMBCTB-905A-O-1",
     "company": "KMBCTB",
-    "route_id": "905A",
     "route": "905A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -44050,13 +43917,12 @@
       }
     ]
   },
-  "KMBCTB-905P-outbound-1": {
-    "record_id": "KMBCTB-905P-outbound-1",
+  "KMBCTB-905P-O-1": {
+    "record_id": "KMBCTB-905P-O-1",
     "company": "KMBCTB",
-    "route_id": "905P",
     "route": "905P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -44361,13 +44227,12 @@
       }
     ]
   },
-  "KMBCTB-907C-outbound-1": {
-    "record_id": "KMBCTB-907C-outbound-1",
+  "KMBCTB-907C-O-1": {
+    "record_id": "KMBCTB-907C-O-1",
     "company": "KMBCTB",
-    "route_id": "907C",
     "route": "907C",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -44600,13 +44465,12 @@
       }
     ]
   },
-  "KMBCTB-907C-inbound-1": {
-    "record_id": "KMBCTB-907C-inbound-1",
+  "KMBCTB-907C-I-1": {
+    "record_id": "KMBCTB-907C-I-1",
     "company": "KMBCTB",
-    "route_id": "907C",
     "route": "907C",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -44827,13 +44691,12 @@
       }
     ]
   },
-  "KMBCTB-914-outbound-1": {
-    "record_id": "KMBCTB-914-outbound-1",
+  "KMBCTB-914-O-1": {
+    "record_id": "KMBCTB-914-O-1",
     "company": "KMBCTB",
-    "route_id": "914",
     "route": "914",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -45150,13 +45013,12 @@
       }
     ]
   },
-  "KMBCTB-914-inbound-1": {
-    "record_id": "KMBCTB-914-inbound-1",
+  "KMBCTB-914-I-1": {
+    "record_id": "KMBCTB-914-I-1",
     "company": "KMBCTB",
-    "route_id": "914",
     "route": "914",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -45521,13 +45383,12 @@
       }
     ]
   },
-  "KMBCTB-914X-outbound-1": {
-    "record_id": "KMBCTB-914X-outbound-1",
+  "KMBCTB-914X-O-1": {
+    "record_id": "KMBCTB-914X-O-1",
     "company": "KMBCTB",
-    "route_id": "914X",
     "route": "914X",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -45820,13 +45681,12 @@
       }
     ]
   },
-  "KMBCTB-948-outbound-1": {
-    "record_id": "KMBCTB-948-outbound-1",
+  "KMBCTB-948-O-1": {
+    "record_id": "KMBCTB-948-O-1",
     "company": "KMBCTB",
-    "route_id": "948",
     "route": "948",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -46179,13 +46039,12 @@
       }
     ]
   },
-  "KMBCTB-948-inbound-1": {
-    "record_id": "KMBCTB-948-inbound-1",
+  "KMBCTB-948-I-1": {
+    "record_id": "KMBCTB-948-I-1",
     "company": "KMBCTB",
-    "route_id": "948",
     "route": "948",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -46526,13 +46385,12 @@
       }
     ]
   },
-  "KMBCTB-948A-outbound-1": {
-    "record_id": "KMBCTB-948A-outbound-1",
+  "KMBCTB-948A-O-1": {
+    "record_id": "KMBCTB-948A-O-1",
     "company": "KMBCTB",
-    "route_id": "948A",
     "route": "948A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -46849,13 +46707,12 @@
       }
     ]
   },
-  "KMBCTB-948B-outbound-1": {
-    "record_id": "KMBCTB-948B-outbound-1",
+  "KMBCTB-948B-O-1": {
+    "record_id": "KMBCTB-948B-O-1",
     "company": "KMBCTB",
-    "route_id": "948B",
     "route": "948B",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -47136,13 +46993,12 @@
       }
     ]
   },
-  "KMBCTB-948E-outbound-1": {
-    "record_id": "KMBCTB-948E-outbound-1",
+  "KMBCTB-948E-O-1": {
+    "record_id": "KMBCTB-948E-O-1",
     "company": "KMBCTB",
-    "route_id": "948E",
     "route": "948E",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -47399,13 +47255,12 @@
       }
     ]
   },
-  "KMBCTB-948E-inbound-1": {
-    "record_id": "KMBCTB-948E-inbound-1",
+  "KMBCTB-948E-I-1": {
+    "record_id": "KMBCTB-948E-I-1",
     "company": "KMBCTB",
-    "route_id": "948E",
     "route": "948E",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -47674,13 +47529,12 @@
       }
     ]
   },
-  "KMBCTB-948P-outbound-1": {
-    "record_id": "KMBCTB-948P-outbound-1",
+  "KMBCTB-948P-O-1": {
+    "record_id": "KMBCTB-948P-O-1",
     "company": "KMBCTB",
-    "route_id": "948P",
     "route": "948P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -47901,13 +47755,12 @@
       }
     ]
   },
-  "KMBCTB-948X-outbound-1": {
-    "record_id": "KMBCTB-948X-outbound-1",
+  "KMBCTB-948X-O-1": {
+    "record_id": "KMBCTB-948X-O-1",
     "company": "KMBCTB",
-    "route_id": "948X",
     "route": "948X",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -48128,13 +47981,12 @@
       }
     ]
   },
-  "KMBCTB-980A-outbound-1": {
-    "record_id": "KMBCTB-980A-outbound-1",
+  "KMBCTB-980A-O-1": {
+    "record_id": "KMBCTB-980A-O-1",
     "company": "KMBCTB",
-    "route_id": "980A",
     "route": "980A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -48391,13 +48243,12 @@
       }
     ]
   },
-  "KMBCTB-980X-outbound-1": {
-    "record_id": "KMBCTB-980X-outbound-1",
+  "KMBCTB-980X-O-1": {
+    "record_id": "KMBCTB-980X-O-1",
     "company": "KMBCTB",
-    "route_id": "980X",
     "route": "980X",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -48582,13 +48433,12 @@
       }
     ]
   },
-  "KMBCTB-980X-outbound-2": {
-    "record_id": "KMBCTB-980X-outbound-2",
+  "KMBCTB-980X-O-2": {
+    "record_id": "KMBCTB-980X-O-2",
     "company": "KMBCTB",
-    "route_id": "980X",
     "route": "980X",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -48833,13 +48683,12 @@
       }
     ]
   },
-  "KMBCTB-980X-inbound-1": {
-    "record_id": "KMBCTB-980X-inbound-1",
+  "KMBCTB-980X-I-1": {
+    "record_id": "KMBCTB-980X-I-1",
     "company": "KMBCTB",
-    "route_id": "980X",
     "route": "980X",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -49036,13 +48885,12 @@
       }
     ]
   },
-  "KMBCTB-980X-inbound-2": {
-    "record_id": "KMBCTB-980X-inbound-2",
+  "KMBCTB-980X-I-2": {
+    "record_id": "KMBCTB-980X-I-2",
     "company": "KMBCTB",
-    "route_id": "980X",
     "route": "980X",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -49311,13 +49159,12 @@
       }
     ]
   },
-  "KMBCTB-981P-outbound-1": {
-    "record_id": "KMBCTB-981P-outbound-1",
+  "KMBCTB-981P-O-1": {
+    "record_id": "KMBCTB-981P-O-1",
     "company": "KMBCTB",
-    "route_id": "981P",
     "route": "981P",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -49538,13 +49385,12 @@
       }
     ]
   },
-  "KMBCTB-981P-inbound-1": {
-    "record_id": "KMBCTB-981P-inbound-1",
+  "KMBCTB-981P-I-1": {
+    "record_id": "KMBCTB-981P-I-1",
     "company": "KMBCTB",
-    "route_id": "981P",
     "route": "981P",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -49765,13 +49611,12 @@
       }
     ]
   },
-  "KMBCTB-982X-outbound-1": {
-    "record_id": "KMBCTB-982X-outbound-1",
+  "KMBCTB-982X-O-1": {
+    "record_id": "KMBCTB-982X-O-1",
     "company": "KMBCTB",
-    "route_id": "982X",
     "route": "982X",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -49956,13 +49801,12 @@
       }
     ]
   },
-  "KMBCTB-982X-outbound-2": {
-    "record_id": "KMBCTB-982X-outbound-2",
+  "KMBCTB-982X-O-2": {
+    "record_id": "KMBCTB-982X-O-2",
     "company": "KMBCTB",
-    "route_id": "982X",
     "route": "982X",
-    "bound": "outbound",
-    "ctb_bound": "inbound",
+    "bound": "O",
+    "ctb_bound": "I",
     "service_type": "2",
     "stops": [
       {
@@ -50147,13 +49991,12 @@
       }
     ]
   },
-  "KMBCTB-982X-inbound-1": {
-    "record_id": "KMBCTB-982X-inbound-1",
+  "KMBCTB-982X-I-1": {
+    "record_id": "KMBCTB-982X-I-1",
     "company": "KMBCTB",
-    "route_id": "982X",
     "route": "982X",
-    "bound": "inbound",
-    "ctb_bound": "outbound",
+    "bound": "I",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -50326,13 +50169,12 @@
       }
     ]
   },
-  "KMBCTB-985-outbound-1": {
-    "record_id": "KMBCTB-985-outbound-1",
+  "KMBCTB-985-O-1": {
+    "record_id": "KMBCTB-985-O-1",
     "company": "KMBCTB",
-    "route_id": "985",
     "route": "985",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -50601,13 +50443,12 @@
       }
     ]
   },
-  "KMBCTB-985-inbound-1": {
-    "record_id": "KMBCTB-985-inbound-1",
+  "KMBCTB-985-I-1": {
+    "record_id": "KMBCTB-985-I-1",
     "company": "KMBCTB",
-    "route_id": "985",
     "route": "985",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -50828,13 +50669,12 @@
       }
     ]
   },
-  "KMBCTB-985A-outbound-1": {
-    "record_id": "KMBCTB-985A-outbound-1",
+  "KMBCTB-985A-O-1": {
+    "record_id": "KMBCTB-985A-O-1",
     "company": "KMBCTB",
-    "route_id": "985A",
     "route": "985A",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -51031,13 +50871,12 @@
       }
     ]
   },
-  "KMBCTB-985B-outbound-1": {
-    "record_id": "KMBCTB-985B-outbound-1",
+  "KMBCTB-985B-O-1": {
+    "record_id": "KMBCTB-985B-O-1",
     "company": "KMBCTB",
-    "route_id": "985B",
     "route": "985B",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -51234,13 +51073,12 @@
       }
     ]
   },
-  "KMBCTB-N118-outbound-1": {
-    "record_id": "KMBCTB-N118-outbound-1",
+  "KMBCTB-N118-O-1": {
+    "record_id": "KMBCTB-N118-O-1",
     "company": "KMBCTB",
-    "route_id": "N118",
     "route": "N118",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -51725,13 +51563,12 @@
       }
     ]
   },
-  "KMBCTB-N118-inbound-1": {
-    "record_id": "KMBCTB-N118-inbound-1",
+  "KMBCTB-N118-I-1": {
+    "record_id": "KMBCTB-N118-I-1",
     "company": "KMBCTB",
-    "route_id": "N118",
     "route": "N118",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -52108,13 +51945,12 @@
       }
     ]
   },
-  "KMBCTB-N121-outbound-1": {
-    "record_id": "KMBCTB-N121-outbound-1",
+  "KMBCTB-N121-O-1": {
+    "record_id": "KMBCTB-N121-O-1",
     "company": "KMBCTB",
-    "route_id": "N121",
     "route": "N121",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -52491,13 +52327,12 @@
       }
     ]
   },
-  "KMBCTB-N121-inbound-1": {
-    "record_id": "KMBCTB-N121-inbound-1",
+  "KMBCTB-N121-I-1": {
+    "record_id": "KMBCTB-N121-I-1",
     "company": "KMBCTB",
-    "route_id": "N121",
     "route": "N121",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -52862,13 +52697,12 @@
       }
     ]
   },
-  "KMBCTB-N122-outbound-1": {
-    "record_id": "KMBCTB-N122-outbound-1",
+  "KMBCTB-N122-O-1": {
+    "record_id": "KMBCTB-N122-O-1",
     "company": "KMBCTB",
-    "route_id": "N122",
     "route": "N122",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -53353,13 +53187,12 @@
       }
     ]
   },
-  "KMBCTB-N122-inbound-1": {
-    "record_id": "KMBCTB-N122-inbound-1",
+  "KMBCTB-N122-I-1": {
+    "record_id": "KMBCTB-N122-I-1",
     "company": "KMBCTB",
-    "route_id": "N122",
     "route": "N122",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -53832,13 +53665,12 @@
       }
     ]
   },
-  "KMBCTB-N170-outbound-1": {
-    "record_id": "KMBCTB-N170-outbound-1",
+  "KMBCTB-N170-O-1": {
+    "record_id": "KMBCTB-N170-O-1",
     "company": "KMBCTB",
-    "route_id": "N170",
     "route": "N170",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -54263,13 +54095,12 @@
       }
     ]
   },
-  "KMBCTB-N170-inbound-1": {
-    "record_id": "KMBCTB-N170-inbound-1",
+  "KMBCTB-N170-I-1": {
+    "record_id": "KMBCTB-N170-I-1",
     "company": "KMBCTB",
-    "route_id": "N170",
     "route": "N170",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -54742,13 +54573,12 @@
       }
     ]
   },
-  "KMBCTB-N171-outbound-1": {
-    "record_id": "KMBCTB-N171-outbound-1",
+  "KMBCTB-N171-O-1": {
+    "record_id": "KMBCTB-N171-O-1",
     "company": "KMBCTB",
-    "route_id": "N171",
     "route": "N171",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -55137,13 +54967,12 @@
       }
     ]
   },
-  "KMBCTB-N171-inbound-1": {
-    "record_id": "KMBCTB-N171-inbound-1",
+  "KMBCTB-N171-I-1": {
+    "record_id": "KMBCTB-N171-I-1",
     "company": "KMBCTB",
-    "route_id": "N171",
     "route": "N171",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -55532,13 +55361,12 @@
       }
     ]
   },
-  "KMBCTB-N182-outbound-1": {
-    "record_id": "KMBCTB-N182-outbound-1",
+  "KMBCTB-N182-O-1": {
+    "record_id": "KMBCTB-N182-O-1",
     "company": "KMBCTB",
-    "route_id": "N182",
     "route": "N182",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -55963,13 +55791,12 @@
       }
     ]
   },
-  "KMBCTB-N182-inbound-1": {
-    "record_id": "KMBCTB-N182-inbound-1",
+  "KMBCTB-N182-I-1": {
+    "record_id": "KMBCTB-N182-I-1",
     "company": "KMBCTB",
-    "route_id": "N182",
     "route": "N182",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -56478,13 +56305,12 @@
       }
     ]
   },
-  "KMBCTB-N307-outbound-1": {
-    "record_id": "KMBCTB-N307-outbound-1",
+  "KMBCTB-N307-O-1": {
+    "record_id": "KMBCTB-N307-O-1",
     "company": "KMBCTB",
-    "route_id": "N307",
     "route": "N307",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -56813,13 +56639,12 @@
       }
     ]
   },
-  "KMBCTB-N307-inbound-1": {
-    "record_id": "KMBCTB-N307-inbound-1",
+  "KMBCTB-N307-I-1": {
+    "record_id": "KMBCTB-N307-I-1",
     "company": "KMBCTB",
-    "route_id": "N307",
     "route": "N307",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -57148,13 +56973,12 @@
       }
     ]
   },
-  "KMBCTB-N619-outbound-1": {
-    "record_id": "KMBCTB-N619-outbound-1",
+  "KMBCTB-N619-O-1": {
+    "record_id": "KMBCTB-N619-O-1",
     "company": "KMBCTB",
-    "route_id": "N619",
     "route": "N619",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -57555,13 +57379,12 @@
       }
     ]
   },
-  "KMBCTB-N619-inbound-1": {
-    "record_id": "KMBCTB-N619-inbound-1",
+  "KMBCTB-N619-I-1": {
+    "record_id": "KMBCTB-N619-I-1",
     "company": "KMBCTB",
-    "route_id": "N619",
     "route": "N619",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -57962,13 +57785,12 @@
       }
     ]
   },
-  "KMBCTB-N680-outbound-1": {
-    "record_id": "KMBCTB-N680-outbound-1",
+  "KMBCTB-N680-O-1": {
+    "record_id": "KMBCTB-N680-O-1",
     "company": "KMBCTB",
-    "route_id": "N680",
     "route": "N680",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -58405,13 +58227,12 @@
       }
     ]
   },
-  "KMBCTB-N680-inbound-1": {
-    "record_id": "KMBCTB-N680-inbound-1",
+  "KMBCTB-N680-I-1": {
+    "record_id": "KMBCTB-N680-I-1",
     "company": "KMBCTB",
-    "route_id": "N680",
     "route": "N680",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -58824,13 +58645,12 @@
       }
     ]
   },
-  "KMBCTB-N691-outbound-1": {
-    "record_id": "KMBCTB-N691-outbound-1",
+  "KMBCTB-N691-O-1": {
+    "record_id": "KMBCTB-N691-O-1",
     "company": "KMBCTB",
-    "route_id": "N691",
     "route": "N691",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -59303,13 +59123,12 @@
       }
     ]
   },
-  "KMBCTB-N691-inbound-1": {
-    "record_id": "KMBCTB-N691-inbound-1",
+  "KMBCTB-N691-I-1": {
+    "record_id": "KMBCTB-N691-I-1",
     "company": "KMBCTB",
-    "route_id": "N691",
     "route": "N691",
-    "bound": "inbound",
-    "ctb_bound": "inbound",
+    "bound": "I",
+    "ctb_bound": "I",
     "service_type": "1",
     "stops": [
       {
@@ -59830,13 +59649,12 @@
       }
     ]
   },
-  "KMBCTB-R8-outbound-1": {
-    "record_id": "KMBCTB-R8-outbound-1",
+  "KMBCTB-R8-O-1": {
+    "record_id": "KMBCTB-R8-O-1",
     "company": "KMBCTB",
-    "route_id": "R8",
     "route": "R8",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {
@@ -59889,13 +59707,12 @@
       }
     ]
   },
-  "KMBCTB-R8-outbound-2": {
-    "record_id": "KMBCTB-R8-outbound-2",
+  "KMBCTB-R8-O-2": {
+    "record_id": "KMBCTB-R8-O-2",
     "company": "KMBCTB",
-    "route_id": "R8",
     "route": "R8",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "2",
     "stops": [
       {
@@ -59972,13 +59789,12 @@
       }
     ]
   },
-  "KMBCTB-R8-outbound-3": {
-    "record_id": "KMBCTB-R8-outbound-3",
+  "KMBCTB-R8-O-3": {
+    "record_id": "KMBCTB-R8-O-3",
     "company": "KMBCTB",
-    "route_id": "R8",
     "route": "R8",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "3",
     "stops": [
       {
@@ -60043,13 +59859,12 @@
       }
     ]
   },
-  "KMBCTB-S1-outbound-1": {
-    "record_id": "KMBCTB-S1-outbound-1",
+  "KMBCTB-S1-O-1": {
+    "record_id": "KMBCTB-S1-O-1",
     "company": "KMBCTB",
-    "route_id": "S1",
     "route": "S1",
-    "bound": "outbound",
-    "ctb_bound": "outbound",
+    "bound": "O",
+    "ctb_bound": "O",
     "service_type": "1",
     "stops": [
       {

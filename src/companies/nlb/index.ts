@@ -1,7 +1,11 @@
 import { removeDirIfExists, writeJson } from "../../lib/io.js";
 import { fetchAllRouteStops, fetchRoutes } from "./api.js";
-import type { RouteOutput, RouteStopsOutput } from "../../types.js";
-import { transformRouteStops, transformRoutes } from "./transform.js";
+import {
+  transformRouteStops,
+  transformRoutes,
+  type NlbRouteOutput,
+  type NlbRouteStopsOutput,
+} from "./transform.js";
 
 const BASE_OUT_DIR = "out/nlb";
 const TEST_ROUTE_LIMIT = 2;
@@ -36,10 +40,10 @@ export async function run(
   console.log(`[nlb] fetching route-stops for ${routes.length} routes`);
   const routeStopGroups = await fetchAllRouteStops(routes, { cachePath: routeStopsCache });
 
-  const routesOut: Record<string, RouteOutput> = keyByRecordId(
+  const routesOut: Record<string, NlbRouteOutput> = keyByRecordId(
     transformRoutes(routes, routeStopGroups),
   );
-  const routeStopsOut: Record<string, RouteStopsOutput> = keyByRecordId(
+  const routeStopsOut: Record<string, NlbRouteStopsOutput> = keyByRecordId(
     transformRouteStops(routes, routeStopGroups),
   );
 

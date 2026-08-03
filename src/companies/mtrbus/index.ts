@@ -19,6 +19,12 @@ export async function run(): Promise<void> {
   const routesOut = keyByRecordId(transformRoutes(routes, stops));
   const routeStopsOut = keyByRecordId(transformRouteStops(routes, stops));
 
+  // bound_temp carries the i/o direction that pairs a routes.json record with the
+  // route-stops.json record derived from mtr_bus_stops.csv's DIRECTION column.
+  // Once both maps are built, the field is redundant — strip it before persisting.
+  for (const r of Object.values(routesOut)) delete (r as { bound_temp?: string }).bound_temp;
+  for (const r of Object.values(routeStopsOut)) delete (r as { bound_temp?: string }).bound_temp;
+
   await writeJson(`${OUT_DIR}/routes.json`, routesOut);
   await writeJson(`${OUT_DIR}/route-stops.json`, routeStopsOut);
 

@@ -1,17 +1,50 @@
 import {
   Bound,
   Company,
-  compositeId,
-  type RouteOutput,
-  type RouteStopsOutput,
+  type Localized,
   type StopOutput,
 } from "../../types.js";
+import type { CtbRouteOutput, CtbRouteStopsOutput } from "../ctb/transform.js";
+import type { KmbRouteOutput, KmbRouteStopsOutput } from "../kmb/transform.js";
 import { JOINTLY_OPERATED_ROUTES, REVERSE_DIR_ROUTES } from "./static.js";
 
-const CTB_SERVICE_TYPE = "1";
+export type KmbCtbBound = "I" | "O";
+
+export type KmbCtbRouteOutput = {
+  record_id: string;
+  company: Company;
+  route: string;
+  bound: KmbCtbBound;
+  ctb_bound: KmbCtbBound;
+  service_type: string;
+  origin: Localized;
+  destination: Localized;
+};
+
+export type KmbCtbRouteStopsOutput = {
+  record_id: string;
+  company: Company;
+  route: string;
+  bound: KmbCtbBound;
+  ctb_bound: KmbCtbBound;
+  service_type: string;
+  stops: StopOutput[];
+};
+
+function kmbCtbCompositeId(route: string, bound: KmbCtbBound, service_type: string): string {
+  return `${Company.KMBCTB}-${route}-${bound}-${service_type}`;
+}
 
 function otherBound(b: Bound): Bound {
   return b === Bound.Inbound ? Bound.Outbound : Bound.Inbound;
+}
+
+function kmbBoundToEnum(b: "I" | "O"): Bound {
+  return b === "I" ? Bound.Inbound : Bound.Outbound;
+}
+
+function boundToShort(b: Bound): "I" | "O" {
+  return b === Bound.Inbound ? "I" : "O";
 }
 
 function ctbBoundFor(route: string, kmbBound: Bound): Bound {
@@ -55,29 +88,32 @@ function nearestStop(target: StopOutput, candidates: StopOutput[]): StopOutput |
 }
 
 type Inputs = {
-  kmbRoutes: Record<string, RouteOutput>;
-  kmbRouteStops: Record<string, RouteStopsOutput>;
-  ctbRoutes: Record<string, RouteOutput>;
-  ctbRouteStops: Record<string, RouteStopsOutput>;
+  kmbRoutes: Record<string, KmbRouteOutput>;
+  kmbRouteStops: Record<string, KmbRouteStopsOutput>;
+  ctbRoutes: Record<string, CtbRouteOutput>;
+  ctbRouteStops: Record<string, CtbRouteStopsOutput>;
 };
 
 export type KmbCtbTransformResult = {
-  routes: Record<string, RouteOutput>;
-  routeStops: Record<string, RouteStopsOutput>;
+  routes: Record<string, KmbCtbRouteOutput>;
+  routeStops: Record<string, KmbCtbRouteStopsOutput>;
   stats: { produced: number; skippedNoCtb: number; unmatchedStops: number };
 };
 
 export function transformKmbCtb(inputs: Inputs): KmbCtbTransformResult {
-  const routes: Record<string, RouteOutput> = {};
-  const routeStops: Record<string, RouteStopsOutput> = {};
+  const routes: Record<string, KmbCtbRouteOutput> = {};
+  const routeStops: Record<string, KmbCtbRouteStopsOutput> = {};
   let skippedNoCtb = 0;
   let unmatchedStops = 0;
 
   for (const kmbRoute of Object.values(inputs.kmbRoutes)) {
-    if (!JOINTLY_OPERATED_ROUTES.has(kmbRoute.route_id)) continue;
+    if (!JOINTLY_OPERATED_ROUTES.has(kmbRoute.route)) continue;
 
-    const ctbBound = ctbBoundFor(kmbRoute.route_id, kmbRoute.bound);
-    const ctbRecordId = compositeId(Company.CTB, kmbRoute.route_id, ctbBound, CTB_SERVICE_TYPE);
+    const kmbBound = kmbBoundToEnum(kmbRoute.bound);
+    const ctbBound = ctbBoundFor(kmbRoute.route, kmbBound);
+    const kmbBoundShort = boundToShort(kmbBound);
+    const ctbBoundShort = boundToShort(ctbBound);
+    const ctbRecordId = `${Company.CTB}-${kmbRoute.route}-${ctbBoundShort}`;
     const ctbRoute = inputs.ctbRoutes[ctbRecordId];
     const ctbStops = inputs.ctbRouteStops[ctbRecordId];
 
@@ -89,20 +125,14 @@ export function transformKmbCtb(inputs: Inputs): KmbCtbTransformResult {
     const kmbStops = inputs.kmbRouteStops[kmbRoute.record_id];
     if (!kmbStops) continue;
 
-    const jointId = compositeId(
-      Company.KMBCTB,
-      kmbRoute.route_id,
-      kmbRoute.bound,
-      kmbRoute.service_type,
-    );
+    const jointId = kmbCtbCompositeId(kmbRoute.route, kmbBoundShort, kmbRoute.service_type);
 
     routes[jointId] = {
       record_id: jointId,
       company: Company.KMBCTB,
-      route_id: kmbRoute.route_id,
       route: kmbRoute.route,
-      bound: kmbRoute.bound,
-      ctb_bound: ctbBound,
+      bound: kmbBoundShort,
+      ctb_bound: ctbBoundShort,
       service_type: kmbRoute.service_type,
       origin: kmbRoute.origin,
       destination: kmbRoute.destination,
@@ -125,10 +155,9 @@ export function transformKmbCtb(inputs: Inputs): KmbCtbTransformResult {
     routeStops[jointId] = {
       record_id: jointId,
       company: Company.KMBCTB,
-      route_id: kmbRoute.route_id,
       route: kmbRoute.route,
-      bound: kmbRoute.bound,
-      ctb_bound: ctbBound,
+      bound: kmbBoundShort,
+      ctb_bound: ctbBoundShort,
       service_type: kmbRoute.service_type,
       stops,
     };

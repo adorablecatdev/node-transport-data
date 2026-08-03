@@ -1,21 +1,29 @@
-import {
-  Bound,
-  Company,
-  compositeId,
-  type Localized,
-  type RouteOutput as SharedRouteOutput,
-  type RouteStopsOutput as SharedRouteStopsOutput,
-  type StopOutput,
-} from "../../types.js";
+import { Company, type Localized, type StopOutput } from "../../types.js";
 import type { MtrDirection, MtrLineStation } from "./api.js";
 import { ROUTE_NAME_EN, ROUTE_NAME_TC, STATION_LOCATION } from "./static.js";
 
-type RouteOutput = SharedRouteOutput<Localized>;
-type RouteStopsOutput = SharedRouteStopsOutput<Localized>;
+export type MtrRouteOutput = {
+  record_id: string;
+  company: Company;
+  route_id: string;
+  route: Localized;
+  bound: MtrDirection;
+  origin: Localized;
+  destination: Localized;
+};
 
-function routeName(routeId: string): Localized {
-  const en = ROUTE_NAME_EN[routeId] ?? routeId;
-  const tc = ROUTE_NAME_TC[routeId] ?? routeId;
+export type MtrRouteStopsOutput = {
+  record_id: string;
+  company: Company;
+  route_id: string;
+  route: Localized;
+  bound: MtrDirection;
+  stops: StopOutput[];
+};
+
+function routeName(lineCode: string, direction: MtrDirection): Localized {
+  const en = ROUTE_NAME_EN[direction] ?? ROUTE_NAME_EN[lineCode] ?? lineCode;
+  const tc = ROUTE_NAME_TC[direction] ?? ROUTE_NAME_TC[lineCode] ?? lineCode;
   return { en, tc, sc: tc };
 }
 
@@ -25,7 +33,9 @@ function stationCoords(stationCode: string): { lat: number; long: number } {
   return { lat: Number(loc.lat), long: Number(loc.long) };
 }
 
-const SERVICE_TYPE = "1";
+function mtrCompositeId(lineCode: string, bound: MtrDirection): string {
+  return `${Company.MTR}-${lineCode}-${bound}`;
+}
 
 function isBlank(v: unknown): boolean {
   return v === null || v === undefined || v === "";
@@ -46,21 +56,9 @@ function hasAllFields(obj: object, fields: readonly string[]): boolean {
   return fields.every((f) => !isBlank(record[f]));
 }
 
-function parseDirection(dir: MtrDirection): { branch: string | null; bound: Bound } {
-  const isDown = dir.endsWith("DT");
-  const bound = isDown ? Bound.Outbound : Bound.Inbound;
-  const idx = dir.indexOf("-");
-  const branch = idx > 0 ? dir.slice(0, idx) : null;
-  return { branch, bound };
-}
-
-function routeIdFor(lineCode: string, branch: string | null): string {
-  return branch ? `${lineCode}-${branch}` : lineCode;
-}
-
 type Group = {
-  routeId: string;
-  bound: Bound;
+  lineCode: string;
+  bound: MtrDirection;
   rows: MtrLineStation[];
 };
 
@@ -68,12 +66,10 @@ function groupRows(rows: MtrLineStation[]): Map<string, Group> {
   const groups = new Map<string, Group>();
   for (const r of rows) {
     if (!hasAllFields(r, REQUIRED_FIELDS)) continue;
-    const { branch, bound } = parseDirection(r.DIRECTION);
-    const routeId = routeIdFor(r.LINE_CODE, branch);
-    const key = compositeId(Company.MTR, routeId, bound, SERVICE_TYPE);
+    const key = mtrCompositeId(r.LINE_CODE, r.DIRECTION);
     let g = groups.get(key);
     if (!g) {
-      g = { routeId, bound, rows: [] };
+      g = { lineCode: r.LINE_CODE, bound: r.DIRECTION, rows: [] };
       groups.set(key, g);
     }
     g.rows.push(r);
@@ -84,9 +80,9 @@ function groupRows(rows: MtrLineStation[]): Map<string, Group> {
   return groups;
 }
 
-export function transformRoutes(rows: MtrLineStation[]): RouteOutput[] {
+export function transformRoutes(rows: MtrLineStation[]): MtrRouteOutput[] {
   const groups = groupRows(rows);
-  const out: RouteOutput[] = [];
+  const out: MtrRouteOutput[] = [];
   for (const [id, g] of groups) {
     if (g.rows.length === 0) continue;
     const first = g.rows[0]!;
@@ -104,10 +100,9 @@ export function transformRoutes(rows: MtrLineStation[]): RouteOutput[] {
     out.push({
       record_id: id,
       company: Company.MTR,
-      route_id: g.routeId,
-      route: routeName(g.routeId),
+      route_id: g.lineCode,
+      route: routeName(g.lineCode, g.bound),
       bound: g.bound,
-      service_type: SERVICE_TYPE,
       origin,
       destination,
     });
@@ -115,9 +110,9 @@ export function transformRoutes(rows: MtrLineStation[]): RouteOutput[] {
   return out.sort((a, b) => a.record_id.localeCompare(b.record_id));
 }
 
-export function transformRouteStops(rows: MtrLineStation[]): RouteStopsOutput[] {
+export function transformRouteStops(rows: MtrLineStation[]): MtrRouteStopsOutput[] {
   const groups = groupRows(rows);
-  const out: RouteStopsOutput[] = [];
+  const out: MtrRouteStopsOutput[] = [];
   for (const [id, g] of groups) {
     const stops: StopOutput[] = g.rows.map((r) => {
       const { lat, long } = stationCoords(r.STATION_CODE);
@@ -136,10 +131,9 @@ export function transformRouteStops(rows: MtrLineStation[]): RouteStopsOutput[] 
     out.push({
       record_id: id,
       company: Company.MTR,
-      route_id: g.routeId,
-      route: routeName(g.routeId),
+      route_id: g.lineCode,
+      route: routeName(g.lineCode, g.bound),
       bound: g.bound,
-      service_type: SERVICE_TYPE,
       stops,
     });
   }

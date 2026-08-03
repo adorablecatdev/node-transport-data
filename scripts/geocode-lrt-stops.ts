@@ -1,9 +1,9 @@
 import fs from "node:fs";
 import path from "node:path";
 import { fetchText } from "../src/lib/http.js";
-import { fetchRouteStops } from "../src/companies/lightrail/api.js";
+import { fetchRouteStops } from "../src/companies/lrt/api.js";
 
-const STATIC_TS = path.join("src", "companies", "lightrail", "static.ts");
+const STATIC_TS = path.join("src", "companies", "lrt", "static.ts");
 const CACHE_FILE = path.join("tmp", "lrt-coords.json");
 const NOMINATIM = "https://nominatim.openstreetmap.org/search";
 
@@ -58,10 +58,10 @@ function buildQueries(tc: string, en: string): string[] {
 }
 
 function renderStaticTs(coords: Record<string, Coord>): string {
-  const codes = Object.keys(coords).sort();
-  const lines = codes.map((c) => {
-    const { lat, long } = coords[c]!;
-    return `  ${c}: { lat: ${JSON.stringify(lat)}, long: ${JSON.stringify(long)} },`;
+  const ids = Object.keys(coords).sort();
+  const lines = ids.map((id) => {
+    const { lat, long } = coords[id]!;
+    return `  ${JSON.stringify(id)}: { lat: ${JSON.stringify(lat)}, long: ${JSON.stringify(long)} },`;
   });
   return `export const STOP_LOCATION: Record<string, { lat: string; long: string }> = {\n${lines.join("\n")}\n};\n`;
 }
@@ -70,46 +70,46 @@ async function main(): Promise<void> {
   const rows = await fetchRouteStops();
   const stops = new Map<string, { tc: string; en: string }>();
   for (const r of rows) {
-    if (!r.STOP_CODE || stops.has(r.STOP_CODE)) continue;
-    stops.set(r.STOP_CODE, { tc: r.STOP_NAME_CHI, en: r.STOP_NAME_ENG });
+    if (!r.STOP_ID || stops.has(r.STOP_ID)) continue;
+    stops.set(r.STOP_ID, { tc: r.STOP_NAME_CHI, en: r.STOP_NAME_ENG });
   }
   console.log(`[geocode] ${stops.size} unique stops`);
 
   const cache = loadCache();
 
   // Purge any cached entries that are outside HK (from earlier unbounded runs).
-  for (const [code, coord] of Object.entries(cache)) {
+  for (const [id, coord] of Object.entries(cache)) {
     if (!inHK(coord.lat, coord.long)) {
-      console.log(`[geocode] purging out-of-HK cache: ${code} (${coord.lat}, ${coord.long})`);
-      delete cache[code];
+      console.log(`[geocode] purging out-of-HK cache: ${id} (${coord.lat}, ${coord.long})`);
+      delete cache[id];
     }
   }
   saveCache(cache);
 
   const missing: string[] = [];
 
-  for (const [code, { tc, en }] of stops) {
-    if (cache[code]) continue;
+  for (const [id, { tc, en }] of stops) {
+    if (cache[id]) continue;
     let hit: Coord | null = null;
     for (const q of buildQueries(tc, en)) {
-      console.log(`[geocode] ${code}: "${q}"`);
+      console.log(`[geocode] ${id}: "${q}"`);
       hit = await geocode(q);
       await sleep(1100);
       if (hit) break;
     }
     if (hit) {
-      cache[code] = hit;
+      cache[id] = hit;
       saveCache(cache);
       console.log(`  -> ${hit.lat}, ${hit.long}`);
     } else {
-      missing.push(code);
+      missing.push(id);
       console.log(`  -> MISS`);
     }
   }
 
   const filled: Record<string, Coord> = {};
-  for (const code of stops.keys()) {
-    filled[code] = cache[code] ?? { lat: "", long: "" };
+  for (const id of stops.keys()) {
+    filled[id] = cache[id] ?? { lat: "", long: "" };
   }
   fs.writeFileSync(STATIC_TS, renderStaticTs(filled));
   console.log(`[geocode] wrote ${STATIC_TS}`);

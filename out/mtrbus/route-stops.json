@@ -1,11 +1,9 @@
 {
-  "MTRB-506_GG_TMS-outbound-2": {
-    "record_id": "MTRB-506_GG_TMS-outbound-2",
+  "MTRB-506-506_GG_TMS": {
+    "record_id": "MTRB-506-506_GG_TMS",
     "company": "MTRB",
-    "route_id": "506_GG_TMS",
     "route": "506",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "506_GG_TMS",
     "stops": [
       {
         "seq": 1,
@@ -64,13 +62,11 @@
       }
     ]
   },
-  "MTRB-506_SL-outbound-1": {
-    "record_id": "MTRB-506_SL-outbound-1",
+  "MTRB-506-506_SL": {
+    "record_id": "MTRB-506-506_SL",
     "company": "MTRB",
-    "route_id": "506_SL",
     "route": "506",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "506_SL",
     "stops": [
       {
         "seq": 1,
@@ -206,13 +202,11 @@
       }
     ]
   },
-  "MTRB-506_TMFP-inbound-1": {
-    "record_id": "MTRB-506_TMFP-inbound-1",
+  "MTRB-506-506_TMFP": {
+    "record_id": "MTRB-506-506_TMFP",
     "company": "MTRB",
-    "route_id": "506_TMFP",
     "route": "506",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "506_TMFP",
     "stops": [
       {
         "seq": 1,
@@ -370,13 +364,11 @@
       }
     ]
   },
-  "MTRB-K12_EG-outbound-1": {
-    "record_id": "MTRB-K12_EG-outbound-1",
+  "MTRB-K12-K12_EG": {
+    "record_id": "MTRB-K12-K12_EG",
     "company": "MTRB",
-    "route_id": "K12_EG",
     "route": "K12",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K12_EG",
     "stops": [
       {
         "seq": 1,
@@ -413,13 +405,11 @@
       }
     ]
   },
-  "MTRB-K12_TPMS-inbound-1": {
-    "record_id": "MTRB-K12_TPMS-inbound-1",
+  "MTRB-K12-K12_TPMS": {
+    "record_id": "MTRB-K12-K12_TPMS",
     "company": "MTRB",
-    "route_id": "K12_TPMS",
     "route": "K12",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K12_TPMS",
     "stops": [
       {
         "seq": 1,
@@ -467,13 +457,11 @@
       }
     ]
   },
-  "MTRB-K14_TPMS-outbound-1": {
-    "record_id": "MTRB-K14_TPMS-outbound-1",
+  "MTRB-K14-K14_TPMS": {
+    "record_id": "MTRB-K14-K14_TPMS",
     "company": "MTRB",
-    "route_id": "K14_TPMS",
     "route": "K14",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K14_TPMS",
     "stops": [
       {
         "seq": 1,
@@ -510,13 +498,11 @@
       }
     ]
   },
-  "MTRB-K17_FS-outbound-1": {
-    "record_id": "MTRB-K17_FS-outbound-1",
+  "MTRB-K17-K17_FS": {
+    "record_id": "MTRB-K17-K17_FS",
     "company": "MTRB",
-    "route_id": "K17_FS",
     "route": "K17",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K17_FS",
     "stops": [
       {
         "seq": 1,
@@ -564,13 +550,11 @@
       }
     ]
   },
-  "MTRB-K17_TPMS-inbound-1": {
-    "record_id": "MTRB-K17_TPMS-inbound-1",
+  "MTRB-K17-K17_TPMS": {
+    "record_id": "MTRB-K17-K17_TPMS",
     "company": "MTRB",
-    "route_id": "K17_TPMS",
     "route": "K17",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K17_TPMS",
     "stops": [
       {
         "seq": 1,
@@ -607,13 +591,11 @@
       }
     ]
   },
-  "MTRB-K18_KF-outbound-1": {
-    "record_id": "MTRB-K18_KF-outbound-1",
+  "MTRB-K18-K18_KF": {
+    "record_id": "MTRB-K18-K18_KF",
     "company": "MTRB",
-    "route_id": "K18_KF",
     "route": "K18",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K18_KF",
     "stops": [
       {
         "seq": 1,
@@ -650,13 +632,11 @@
       }
     ]
   },
-  "MTRB-K18_TPMS-inbound-1": {
-    "record_id": "MTRB-K18_TPMS-inbound-1",
+  "MTRB-K18-K18_TPMS": {
+    "record_id": "MTRB-K18-K18_TPMS",
     "company": "MTRB",
-    "route_id": "K18_TPMS",
     "route": "K18",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K18_TPMS",
     "stops": [
       {
         "seq": 1,
@@ -693,78 +673,11 @@
       }
     ]
   },
-  "MTRB-K51_FT_SHS-outbound-2": {
-    "record_id": "MTRB-K51_FT_SHS-outbound-2",
+  "MTRB-K51-K51_FT": {
+    "record_id": "MTRB-K51-K51_FT",
     "company": "MTRB",
-    "route_id": "K51_FT_SHS",
     "route": "K51",
-    "bound": "outbound",
-    "service_type": "2",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "K51-U010",
-        "name": {
-          "en": "Fu Tai",
-          "tc": "富泰",
-          "sc": "富泰"
-        },
-        "lat": 22.413286,
-        "long": 113.982895
-      },
-      {
-        "seq": 2,
-        "stop_id": "K51-U020",
-        "name": {
-          "en": "Beneville",
-          "tc": "聚康山莊",
-          "sc": "聚康山莊"
-        },
-        "lat": 22.412025,
-        "long": 113.983771
-      },
-      {
-        "seq": 3,
-        "stop_id": "K51-U030",
-        "name": {
-          "en": "Lingnan University",
-          "tc": "嶺南大學",
-          "sc": "嶺南大學"
-        },
-        "lat": 22.41059,
-        "long": 113.982387
-      },
-      {
-        "seq": 4,
-        "stop_id": "K51-U040",
-        "name": {
-          "en": "Brilliant Garden",
-          "tc": "彩暉花園",
-          "sc": "彩暉花園"
-        },
-        "lat": 22.408575,
-        "long": 113.980046
-      },
-      {
-        "seq": 5,
-        "stop_id": "K51-U050",
-        "name": {
-          "en": "MTR Siu Hong Station (South)",
-          "tc": "港鐵兆康站 (南)",
-          "sc": "港鐵兆康站 (南)"
-        },
-        "lat": 22.410247,
-        "long": 113.978583
-      }
-    ]
-  },
-  "MTRB-K51_FT-inbound-1": {
-    "record_id": "MTRB-K51_FT-inbound-1",
-    "company": "MTRB",
-    "route_id": "K51_FT",
-    "route": "K51",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K51_FT",
     "stops": [
       {
         "seq": 1,
@@ -1087,13 +1000,74 @@
       }
     ]
   },
-  "MTRB-K51_SHS_FT-outbound-2": {
-    "record_id": "MTRB-K51_SHS_FT-outbound-2",
+  "MTRB-K51-K51_FT_SHS": {
+    "record_id": "MTRB-K51-K51_FT_SHS",
     "company": "MTRB",
-    "route_id": "K51_SHS_FT",
     "route": "K51",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K51_FT_SHS",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "K51-U010",
+        "name": {
+          "en": "Fu Tai",
+          "tc": "富泰",
+          "sc": "富泰"
+        },
+        "lat": 22.413286,
+        "long": 113.982895
+      },
+      {
+        "seq": 2,
+        "stop_id": "K51-U020",
+        "name": {
+          "en": "Beneville",
+          "tc": "聚康山莊",
+          "sc": "聚康山莊"
+        },
+        "lat": 22.412025,
+        "long": 113.983771
+      },
+      {
+        "seq": 3,
+        "stop_id": "K51-U030",
+        "name": {
+          "en": "Lingnan University",
+          "tc": "嶺南大學",
+          "sc": "嶺南大學"
+        },
+        "lat": 22.41059,
+        "long": 113.982387
+      },
+      {
+        "seq": 4,
+        "stop_id": "K51-U040",
+        "name": {
+          "en": "Brilliant Garden",
+          "tc": "彩暉花園",
+          "sc": "彩暉花園"
+        },
+        "lat": 22.408575,
+        "long": 113.980046
+      },
+      {
+        "seq": 5,
+        "stop_id": "K51-U050",
+        "name": {
+          "en": "MTR Siu Hong Station (South)",
+          "tc": "港鐵兆康站 (南)",
+          "sc": "港鐵兆康站 (南)"
+        },
+        "lat": 22.410247,
+        "long": 113.978583
+      }
+    ]
+  },
+  "MTRB-K51-K51_SHS_FT": {
+    "record_id": "MTRB-K51-K51_SHS_FT",
+    "company": "MTRB",
+    "route": "K51",
+    "bound": "K51_SHS_FT",
     "stops": [
       {
         "seq": 1,
@@ -1152,13 +1126,11 @@
       }
     ]
   },
-  "MTRB-K51_TL-outbound-1": {
-    "record_id": "MTRB-K51_TL-outbound-1",
+  "MTRB-K51-K51_TL": {
+    "record_id": "MTRB-K51-K51_TL",
     "company": "MTRB",
-    "route_id": "K51_TL",
     "route": "K51",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K51_TL",
     "stops": [
       {
         "seq": 1,
@@ -1437,13 +1409,11 @@
       }
     ]
   },
-  "MTRB-K51A_FT-inbound-1": {
-    "record_id": "MTRB-K51A_FT-inbound-1",
+  "MTRB-K51A-K51A_FT": {
+    "record_id": "MTRB-K51A-K51A_FT",
     "company": "MTRB",
-    "route_id": "K51A_FT",
     "route": "K51A",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K51A_FT",
     "stops": [
       {
         "seq": 1,
@@ -1733,13 +1703,11 @@
       }
     ]
   },
-  "MTRB-K51A_SKWT-outbound-1": {
-    "record_id": "MTRB-K51A_SKWT-outbound-1",
+  "MTRB-K51A-K51A_SKWT": {
+    "record_id": "MTRB-K51A-K51A_SKWT",
     "company": "MTRB",
-    "route_id": "K51A_SKWT",
     "route": "K51A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K51A_SKWT",
     "stops": [
       {
         "seq": 1,
@@ -2018,13 +1986,11 @@
       }
     ]
   },
-  "MTRB-K52_LKT_YWV-inbound-1": {
-    "record_id": "MTRB-K52_LKT_YWV-inbound-1",
+  "MTRB-K52-K52_LKT_YWV": {
+    "record_id": "MTRB-K52-K52_LKT_YWV",
     "company": "MTRB",
-    "route_id": "K52_LKT_YWV",
     "route": "K52",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K52_LKT_YWV",
     "stops": [
       {
         "seq": 1,
@@ -2358,13 +2324,11 @@
       }
     ]
   },
-  "MTRB-K52_LRTMS_LKT-outbound-2": {
-    "record_id": "MTRB-K52_LRTMS_LKT-outbound-2",
+  "MTRB-K52-K52_LRTMS_LKT": {
+    "record_id": "MTRB-K52-K52_LRTMS_LKT",
     "company": "MTRB",
-    "route_id": "K52_LRTMS_LKT",
     "route": "K52",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K52_LRTMS_LKT",
     "stops": [
       {
         "seq": 1,
@@ -2566,13 +2530,11 @@
       }
     ]
   },
-  "MTRB-K52_YWV_LKT-outbound-1": {
-    "record_id": "MTRB-K52_YWV_LKT-outbound-1",
+  "MTRB-K52-K52_YWV_LKT": {
+    "record_id": "MTRB-K52-K52_YWV_LKT",
     "company": "MTRB",
-    "route_id": "K52_YWV_LKT",
     "route": "K52",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K52_YWV_LKT",
     "stops": [
       {
         "seq": 1,
@@ -2906,13 +2868,11 @@
       }
     ]
   },
-  "MTRB-K52A_TMS-inbound-1": {
-    "record_id": "MTRB-K52A_TMS-inbound-1",
+  "MTRB-K52A-K52A_TMS": {
+    "record_id": "MTRB-K52A-K52A_TMS",
     "company": "MTRB",
-    "route_id": "K52A_TMS",
     "route": "K52A",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K52A_TMS",
     "stops": [
       {
         "seq": 1,
@@ -3125,13 +3085,11 @@
       }
     ]
   },
-  "MTRB-K52A_TT-outbound-1": {
-    "record_id": "MTRB-K52A_TT-outbound-1",
+  "MTRB-K52A-K52A_TT": {
+    "record_id": "MTRB-K52A-K52A_TT",
     "company": "MTRB",
-    "route_id": "K52A_TT",
     "route": "K52A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K52A_TT",
     "stops": [
       {
         "seq": 1,
@@ -3344,13 +3302,11 @@
       }
     ]
   },
-  "MTRB-K52P_LKT_TMS-outbound-1": {
-    "record_id": "MTRB-K52P_LKT_TMS-outbound-1",
+  "MTRB-K52P-K52P_LKT_TMS": {
+    "record_id": "MTRB-K52P-K52P_LKT_TMS",
     "company": "MTRB",
-    "route_id": "K52P_LKT_TMS",
     "route": "K52P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K52P_LKT_TMS",
     "stops": [
       {
         "seq": 1,
@@ -3629,13 +3585,11 @@
       }
     ]
   },
-  "MTRB-K53_SKW_CIR-outbound-1": {
-    "record_id": "MTRB-K53_SKW_CIR-outbound-1",
+  "MTRB-K53-K53_SKW_CIR": {
+    "record_id": "MTRB-K53-K53_SKW_CIR",
     "company": "MTRB",
-    "route_id": "K53_SKW_CIR",
     "route": "K53",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K53_SKW_CIR",
     "stops": [
       {
         "seq": 1,
@@ -3991,13 +3945,11 @@
       }
     ]
   },
-  "MTRB-K53S_YWE_CIR-outbound-1": {
-    "record_id": "MTRB-K53S_YWE_CIR-outbound-1",
+  "MTRB-K53S-K53S_YWE_CIR": {
+    "record_id": "MTRB-K53S-K53S_YWE_CIR",
     "company": "MTRB",
-    "route_id": "K53S_YWE_CIR",
     "route": "K53S",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K53S_YWE_CIR",
     "stops": [
       {
         "seq": 1,
@@ -4045,13 +3997,11 @@
       }
     ]
   },
-  "MTRB-K54_CIR-outbound-1": {
-    "record_id": "MTRB-K54_CIR-outbound-1",
+  "MTRB-K54-K54_CIR": {
+    "record_id": "MTRB-K54-K54_CIR",
     "company": "MTRB",
-    "route_id": "K54_CIR",
     "route": "K54",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K54_CIR",
     "stops": [
       {
         "seq": 1,
@@ -4209,13 +4159,11 @@
       }
     ]
   },
-  "MTRB-K54A_SHS_WTE-inbound-1": {
-    "record_id": "MTRB-K54A_SHS_WTE-inbound-1",
+  "MTRB-K54A-K54A_SHS_WTE": {
+    "record_id": "MTRB-K54A-K54A_SHS_WTE",
     "company": "MTRB",
-    "route_id": "K54A_SHS_WTE",
     "route": "K54A",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K54A_SHS_WTE",
     "stops": [
       {
         "seq": 1,
@@ -4274,13 +4222,11 @@
       }
     ]
   },
-  "MTRB-K54A_WTE_SHS-outbound-1": {
-    "record_id": "MTRB-K54A_WTE_SHS-outbound-1",
+  "MTRB-K54A-K54A_WTE_SHS": {
+    "record_id": "MTRB-K54A-K54A_WTE_SHS",
     "company": "MTRB",
-    "route_id": "K54A_WTE_SHS",
     "route": "K54A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K54A_WTE_SHS",
     "stops": [
       {
         "seq": 1,
@@ -4339,13 +4285,11 @@
       }
     ]
   },
-  "MTRB-K58_FT_SKW-outbound-1": {
-    "record_id": "MTRB-K58_FT_SKW-outbound-1",
+  "MTRB-K58-K58_FT_SKW": {
+    "record_id": "MTRB-K58-K58_FT_SKW",
     "company": "MTRB",
-    "route_id": "K58_FT_SKW",
     "route": "K58",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K58_FT_SKW",
     "stops": [
       {
         "seq": 1,
@@ -4723,13 +4667,11 @@
       }
     ]
   },
-  "MTRB-K58_SKW_FT-inbound-1": {
-    "record_id": "MTRB-K58_SKW_FT-inbound-1",
+  "MTRB-K58-K58_SKW_FT": {
+    "record_id": "MTRB-K58-K58_SKW_FT",
     "company": "MTRB",
-    "route_id": "K58_SKW_FT",
     "route": "K58",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K58_SKW_FT",
     "stops": [
       {
         "seq": 1,
@@ -5096,13 +5038,11 @@
       }
     ]
   },
-  "MTRB-K65_LFS-outbound-1": {
-    "record_id": "MTRB-K65_LFS-outbound-1",
+  "MTRB-K65-K65_LFS": {
+    "record_id": "MTRB-K65-K65_LFS",
     "company": "MTRB",
-    "route_id": "K65_LFS",
     "route": "K65",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K65_LFS",
     "stops": [
       {
         "seq": 1,
@@ -5359,13 +5299,11 @@
       }
     ]
   },
-  "MTRB-K65_YLS-inbound-1": {
-    "record_id": "MTRB-K65_YLS-inbound-1",
+  "MTRB-K65-K65_YLS": {
+    "record_id": "MTRB-K65-K65_YLS",
     "company": "MTRB",
-    "route_id": "K65_YLS",
     "route": "K65",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K65_YLS",
     "stops": [
       {
         "seq": 1,
@@ -5578,13 +5516,11 @@
       }
     ]
   },
-  "MTRB-K65A_LFS-outbound-1": {
-    "record_id": "MTRB-K65A_LFS-outbound-1",
+  "MTRB-K65A-K65A_LFS": {
+    "record_id": "MTRB-K65A-K65A_LFS",
     "company": "MTRB",
-    "route_id": "K65A_LFS",
     "route": "K65A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K65A_LFS",
     "stops": [
       {
         "seq": 1,
@@ -5731,13 +5667,11 @@
       }
     ]
   },
-  "MTRB-K65A_TSWS-inbound-1": {
-    "record_id": "MTRB-K65A_TSWS-inbound-1",
+  "MTRB-K65A-K65A_TSWS": {
+    "record_id": "MTRB-K65A-K65A_TSWS",
     "company": "MTRB",
-    "route_id": "K65A_TSWS",
     "route": "K65A",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K65A_TSWS",
     "stops": [
       {
         "seq": 1,
@@ -5862,13 +5796,11 @@
       }
     ]
   },
-  "MTRB-K66_LP-inbound-1": {
-    "record_id": "MTRB-K66_LP-inbound-1",
+  "MTRB-K66-K66_LP": {
+    "record_id": "MTRB-K66-K66_LP",
     "company": "MTRB",
-    "route_id": "K66_LP",
     "route": "K66",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K66_LP",
     "stops": [
       {
         "seq": 1,
@@ -6136,13 +6068,11 @@
       }
     ]
   },
-  "MTRB-K66_NHP_LP-outbound-2": {
-    "record_id": "MTRB-K66_NHP_LP-outbound-2",
+  "MTRB-K66-K66_NHP_LP": {
+    "record_id": "MTRB-K66-K66_NHP_LP",
     "company": "MTRB",
-    "route_id": "K66_NHP_LP",
     "route": "K66",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K66_NHP_LP",
     "stops": [
       {
         "seq": 1,
@@ -6355,13 +6285,11 @@
       }
     ]
   },
-  "MTRB-K66_TT_OHR-outbound-2": {
-    "record_id": "MTRB-K66_TT_OHR-outbound-2",
+  "MTRB-K66-K66_TT_OHR": {
+    "record_id": "MTRB-K66-K66_TT_OHR",
     "company": "MTRB",
-    "route_id": "K66_TT_OHR",
     "route": "K66",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K66_TT_OHR",
     "stops": [
       {
         "seq": 1,
@@ -6563,13 +6491,11 @@
       }
     ]
   },
-  "MTRB-K66_TT_YPH-outbound-2": {
-    "record_id": "MTRB-K66_TT_YPH-outbound-2",
+  "MTRB-K66-K66_TT_YPH": {
+    "record_id": "MTRB-K66-K66_TT_YPH",
     "company": "MTRB",
-    "route_id": "K66_TT_YPH",
     "route": "K66",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K66_TT_YPH",
     "stops": [
       {
         "seq": 1,
@@ -6804,13 +6730,11 @@
       }
     ]
   },
-  "MTRB-K66_TTWNTT-outbound-1": {
-    "record_id": "MTRB-K66_TTWNTT-outbound-1",
+  "MTRB-K66-K66_TTWNTT": {
+    "record_id": "MTRB-K66-K66_TTWNTT",
     "company": "MTRB",
-    "route_id": "K66_TTWNTT",
     "route": "K66",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K66_TTWNTT",
     "stops": [
       {
         "seq": 1,
@@ -7056,13 +6980,11 @@
       }
     ]
   },
-  "MTRB-K68_CIR-outbound-1": {
-    "record_id": "MTRB-K68_CIR-outbound-1",
+  "MTRB-K68-K68_CIR": {
+    "record_id": "MTRB-K68-K68_CIR",
     "company": "MTRB",
-    "route_id": "K68_CIR",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K68_CIR",
     "stops": [
       {
         "seq": 1,
@@ -7484,13 +7406,11 @@
       }
     ]
   },
-  "MTRB-K68_SFG_YLIE-outbound-2": {
-    "record_id": "MTRB-K68_SFG_YLIE-outbound-2",
+  "MTRB-K68-K68_SFG_YLIE": {
+    "record_id": "MTRB-K68-K68_SFG_YLIE",
     "company": "MTRB",
-    "route_id": "K68_SFG_YLIE",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K68_SFG_YLIE",
     "stops": [
       {
         "seq": 1,
@@ -7747,13 +7667,11 @@
       }
     ]
   },
-  "MTRB-K68_TKT_YLIE-outbound-2": {
-    "record_id": "MTRB-K68_TKT_YLIE-outbound-2",
+  "MTRB-K68-K68_TKT_YLIE": {
+    "record_id": "MTRB-K68-K68_TKT_YLIE",
     "company": "MTRB",
-    "route_id": "K68_TKT_YLIE",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K68_TKT_YLIE",
     "stops": [
       {
         "seq": 1,
@@ -7900,13 +7818,11 @@
       }
     ]
   },
-  "MTRB-K68_YLIE_TKT-outbound-2": {
-    "record_id": "MTRB-K68_YLIE_TKT-outbound-2",
+  "MTRB-K68-K68_YLIE_TKT": {
+    "record_id": "MTRB-K68-K68_YLIE_TKT",
     "company": "MTRB",
-    "route_id": "K68_YLIE_TKT",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K68_YLIE_TKT",
     "stops": [
       {
         "seq": 1,
@@ -8042,13 +7958,11 @@
       }
     ]
   },
-  "MTRB-K68_YLP_YLIE-outbound-2": {
-    "record_id": "MTRB-K68_YLP_YLIE-outbound-2",
+  "MTRB-K68-K68_YLP_YLIE": {
+    "record_id": "MTRB-K68-K68_YLP_YLIE",
     "company": "MTRB",
-    "route_id": "K68_YLP_YLIE",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K68_YLP_YLIE",
     "stops": [
       {
         "seq": 1,
@@ -8217,13 +8131,11 @@
       }
     ]
   },
-  "MTRB-K73_HKFYG_YLW-outbound-2": {
-    "record_id": "MTRB-K73_HKFYG_YLW-outbound-2",
+  "MTRB-K73-K73_HKFYG_YLW": {
+    "record_id": "MTRB-K73-K73_HKFYG_YLW",
     "company": "MTRB",
-    "route_id": "K73_HKFYG_YLW",
     "route": "K73",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K73_HKFYG_YLW",
     "stops": [
       {
         "seq": 1,
@@ -8315,13 +8227,11 @@
       }
     ]
   },
-  "MTRB-K73_TH-inbound-1": {
-    "record_id": "MTRB-K73_TH-inbound-1",
+  "MTRB-K73-K73_TH": {
+    "record_id": "MTRB-K73-K73_TH",
     "company": "MTRB",
-    "route_id": "K73_TH",
     "route": "K73",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K73_TH",
     "stops": [
       {
         "seq": 1,
@@ -8490,13 +8400,11 @@
       }
     ]
   },
-  "MTRB-K73_TY_YLW-outbound-2": {
-    "record_id": "MTRB-K73_TY_YLW-outbound-2",
+  "MTRB-K73-K73_TY_YLW": {
+    "record_id": "MTRB-K73-K73_TY_YLW",
     "company": "MTRB",
-    "route_id": "K73_TY_YLW",
     "route": "K73",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K73_TY_YLW",
     "stops": [
       {
         "seq": 1,
@@ -8599,13 +8507,11 @@
       }
     ]
   },
-  "MTRB-K73_YLW-outbound-1": {
-    "record_id": "MTRB-K73_YLW-outbound-1",
+  "MTRB-K73-K73_YLW": {
+    "record_id": "MTRB-K73-K73_YLW",
     "company": "MTRB",
-    "route_id": "K73_YLW",
     "route": "K73",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K73_YLW",
     "stops": [
       {
         "seq": 1,
@@ -8741,13 +8647,11 @@
       }
     ]
   },
-  "MTRB-K74_POH_CIR-outbound-1": {
-    "record_id": "MTRB-K74_POH_CIR-outbound-1",
+  "MTRB-K74-K74_POH_CIR": {
+    "record_id": "MTRB-K74-K74_POH_CIR",
     "company": "MTRB",
-    "route_id": "K74_POH_CIR",
     "route": "K74",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K74_POH_CIR",
     "stops": [
       {
         "seq": 1,
@@ -9037,13 +8941,11 @@
       }
     ]
   },
-  "MTRB-K75A_CIR-outbound-1": {
-    "record_id": "MTRB-K75A_CIR-outbound-1",
+  "MTRB-K75A-K75A_CIR": {
+    "record_id": "MTRB-K75A-K75A_CIR",
     "company": "MTRB",
-    "route_id": "K75A_CIR",
     "route": "K75A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75A_CIR",
     "stops": [
       {
         "seq": 1,
@@ -9212,13 +9114,11 @@
       }
     ]
   },
-  "MTRB-K75P_CIR-outbound-1": {
-    "record_id": "MTRB-K75P_CIR-outbound-1",
+  "MTRB-K75P-K75P_CIR": {
+    "record_id": "MTRB-K75P-K75P_CIR",
     "company": "MTRB",
-    "route_id": "K75P_CIR",
     "route": "K75P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75P_CIR",
     "stops": [
       {
         "seq": 1,
@@ -9475,13 +9375,11 @@
       }
     ]
   },
-  "MTRB-K75P_HSKBD_TS-outbound-1": {
-    "record_id": "MTRB-K75P_HSKBD_TS-outbound-1",
+  "MTRB-K75P-K75P_HSKBD_TS": {
+    "record_id": "MTRB-K75P-K75P_HSKBD_TS",
     "company": "MTRB",
-    "route_id": "K75P_HSKBD_TS",
     "route": "K75P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75P_HSKBD_TS",
     "stops": [
       {
         "seq": 1,
@@ -9573,13 +9471,11 @@
       }
     ]
   },
-  "MTRB-K75S_CIR-outbound-1": {
-    "record_id": "MTRB-K75S_CIR-outbound-1",
+  "MTRB-K75S-K75S_CIR": {
+    "record_id": "MTRB-K75S-K75S_CIR",
     "company": "MTRB",
-    "route_id": "K75S_CIR",
     "route": "K75S",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75S_CIR",
     "stops": [
       {
         "seq": 1,
@@ -9671,13 +9567,11 @@
       }
     ]
   },
-  "MTRB-K75S_HSKBD_TSWS-outbound-1": {
-    "record_id": "MTRB-K75S_HSKBD_TSWS-outbound-1",
+  "MTRB-K75S-K75S_HSKBD_TSWS": {
+    "record_id": "MTRB-K75S-K75S_HSKBD_TSWS",
     "company": "MTRB",
-    "route_id": "K75S_HSKBD_TSWS",
     "route": "K75S",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75S_HSKBD_TSWS",
     "stops": [
       {
         "seq": 1,
@@ -9736,13 +9630,11 @@
       }
     ]
   },
-  "MTRB-K76_TH-inbound-1": {
-    "record_id": "MTRB-K76_TH-inbound-1",
+  "MTRB-K76-K76_TH": {
+    "record_id": "MTRB-K76-K76_TH",
     "company": "MTRB",
-    "route_id": "K76_TH",
     "route": "K76",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K76_TH",
     "stops": [
       {
         "seq": 1,
@@ -9790,13 +9682,11 @@
       }
     ]
   },
-  "MTRB-K76_TSWS-outbound-1": {
-    "record_id": "MTRB-K76_TSWS-outbound-1",
+  "MTRB-K76-K76_TSWS": {
+    "record_id": "MTRB-K76-K76_TSWS",
     "company": "MTRB",
-    "route_id": "K76_TSWS",
     "route": "K76",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K76_TSWS",
     "stops": [
       {
         "seq": 1,
@@ -9855,13 +9745,11 @@
       }
     ]
   },
-  "MTRB-K76S_HKWP-inbound-1": {
-    "record_id": "MTRB-K76S_HKWP-inbound-1",
+  "MTRB-K76S-K76S_HKWP": {
+    "record_id": "MTRB-K76S-K76S_HKWP",
     "company": "MTRB",
-    "route_id": "K76S_HKWP",
     "route": "K76S",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K76S_HKWP",
     "stops": [
       {
         "seq": 1,
@@ -9920,13 +9808,11 @@
       }
     ]
   },
-  "MTRB-K76S_TSC-outbound-1": {
-    "record_id": "MTRB-K76S_TSC-outbound-1",
+  "MTRB-K76S-K76S_TSC": {
+    "record_id": "MTRB-K76S-K76S_TSC",
     "company": "MTRB",
-    "route_id": "K76S_TSC",
     "route": "K76S",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K76S_TSC",
     "stops": [
       {
         "seq": 1,

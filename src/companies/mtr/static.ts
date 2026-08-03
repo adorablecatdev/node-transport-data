@@ -103,9 +103,7 @@ export const ROUTE_NAME_TC: Record<string, string> = {
   TCL: "東涌線",
   TML: "屯馬線",
   TKL: "將軍澳線",
-  "TKL-TKS": "將軍澳線 康城",
   EAL: "東鐵線",
-  "EAL-LMC": "東鐵線 落馬洲",
   SIL: "南港島線",
   TWL: "荃灣線",
   ISL: "港島線",
@@ -113,14 +111,13 @@ export const ROUTE_NAME_TC: Record<string, string> = {
   DRL: "迪士尼線",
 };
 
+
 export const ROUTE_NAME_EN: Record<string, string> = {
   AEL: "Airport Express",
   TCL: "Tung Chung Line",
   TML: "Tuen Ma Line",
   TKL: "Tseung Kwan O Line",
-  "TKL-TKS": "Tseung Kwan O Line LOHAS Park",
   EAL: "East Rail Line",
-  "EAL-LMC": "East Rail Line Lok Ma Chau",
   SIL: "South Island Line",
   TWL: "Tsuen Wan Line",
   ISL: "Island Line",

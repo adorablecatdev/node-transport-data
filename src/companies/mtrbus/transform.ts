@@ -1,22 +1,33 @@
-import {
-  Bound,
-  Company,
-  compositeId,
-  type Localized,
-  type RouteOutput,
-  type RouteStopsOutput,
-  type StopOutput,
-} from "../../types.js";
+import { Company, type Localized, type StopOutput } from "../../types.js";
 import type { MtrbDir, MtrbRoute, MtrbStop } from "./api.js";
 
-const DEFAULT_SERVICE_TYPE = "1";
+export type MtrbBound = "i" | "o";
 
-function dirToBound(d: MtrbDir): Bound {
-  return d === "O" ? Bound.Outbound : Bound.Inbound;
+export type MtrbRouteOutput = {
+  record_id: string;
+  company: Company;
+  route: string;
+  bound_temp: MtrbBound;
+  bound: string;
+  origin: Localized;
+  destination: Localized;
+};
+
+export type MtrbRouteStopsOutput = {
+  record_id: string;
+  company: Company;
+  route: string;
+  bound_temp: MtrbBound;
+  bound: string;
+  stops: StopOutput[];
+};
+
+function mtrbCompositeId(route: string, bound: string): string {
+  return `${Company.MTRB}-${route}-${bound}`;
 }
 
-function serviceTypeFromRef(referenceId: string): string {
-  return /-\d+$/.test(referenceId) ? "2" : DEFAULT_SERVICE_TYPE;
+function dirToBound(d: MtrbDir): MtrbBound {
+  return d === "O" ? "o" : "i";
 }
 
 function isBlank(v: unknown): boolean {
@@ -69,8 +80,8 @@ function groupStopsByRefAndDir(stops: MtrbStop[]): Map<string, Map<MtrbDir, Mtrb
   return byRef;
 }
 
-export function transformRoutes(routes: MtrbRoute[], _stops: MtrbStop[]): RouteOutput[] {
-  const out: RouteOutput[] = [];
+export function transformRoutes(routes: MtrbRoute[], _stops: MtrbStop[]): MtrbRouteOutput[] {
+  const out: MtrbRouteOutput[] = [];
   let skipped = 0;
 
   for (const r of routes) {
@@ -83,20 +94,18 @@ export function transformRoutes(routes: MtrbRoute[], _stops: MtrbStop[]): RouteO
     const origin: Localized = { en: en.origin, tc: tc.origin, sc: tc.origin };
     const destination: Localized = { en: en.destination, tc: tc.destination, sc: tc.destination };
 
-    const serviceType = serviceTypeFromRef(r.REFERENCE_ID);
-    const lines: Array<{ routeId: string; bound: Bound }> = [];
-    if (!isBlank(r.LINE_UP)) lines.push({ routeId: r.LINE_UP, bound: Bound.Outbound });
-    if (!isBlank(r.LINE_DOWN)) lines.push({ routeId: r.LINE_DOWN, bound: Bound.Inbound });
+    const lines: Array<{ bound: string; bound_temp: MtrbBound }> = [];
+    if (!isBlank(r.LINE_UP)) lines.push({ bound: r.LINE_UP, bound_temp: "o" });
+    if (!isBlank(r.LINE_DOWN)) lines.push({ bound: r.LINE_DOWN, bound_temp: "i" });
 
-    for (const { routeId, bound } of lines) {
-      const isInbound = bound === Bound.Inbound;
+    for (const { bound, bound_temp } of lines) {
+      const isInbound = bound_temp === "i";
       out.push({
-        record_id: compositeId(Company.MTRB, routeId, bound, serviceType),
+        record_id: mtrbCompositeId(r.ROUTE_ID, bound),
         company: Company.MTRB,
-        route_id: routeId,
         route: r.ROUTE_ID,
+        bound_temp,
         bound,
-        service_type: serviceType,
         origin: isInbound ? destination : origin,
         destination: isInbound ? origin : destination,
       });
@@ -110,10 +119,10 @@ export function transformRoutes(routes: MtrbRoute[], _stops: MtrbStop[]): RouteO
 export function transformRouteStops(
   routes: MtrbRoute[],
   stops: MtrbStop[],
-): RouteStopsOutput[] {
+): MtrbRouteStopsOutput[] {
   const routeByRef = new Map(routes.map((r) => [r.REFERENCE_ID, r]));
   const byRef = groupStopsByRefAndDir(stops);
-  const out: RouteStopsOutput[] = [];
+  const out: MtrbRouteStopsOutput[] = [];
   let skipped = 0;
 
   for (const [refId, byDir] of byRef) {
@@ -122,12 +131,11 @@ export function transformRouteStops(
       skipped += [...byDir.values()].reduce((n, l) => n + l.length, 0);
       continue;
     }
-    const serviceType = serviceTypeFromRef(refId);
     for (const [dir, list] of byDir) {
       if (list.length === 0) continue;
-      const bound = dirToBound(dir);
-      const routeId = dir === "O" ? route.LINE_UP : route.LINE_DOWN;
-      if (isBlank(routeId)) {
+      const bound_temp = dirToBound(dir);
+      const bound = dir === "O" ? route.LINE_UP : route.LINE_DOWN;
+      if (isBlank(bound)) {
         skipped += list.length;
         continue;
       }
@@ -140,12 +148,11 @@ export function transformRouteStops(
       }));
       stopOutputs.sort((a, b) => a.seq - b.seq);
       out.push({
-        record_id: compositeId(Company.MTRB, routeId, bound, serviceType),
+        record_id: mtrbCompositeId(route.ROUTE_ID, bound),
         company: Company.MTRB,
-        route_id: routeId,
         route: route.ROUTE_ID,
+        bound_temp,
         bound,
-        service_type: serviceType,
         stops: stopOutputs,
       });
     }
