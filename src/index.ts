@@ -8,7 +8,11 @@ import { run as runMtrbus } from "./companies/mtrbus/index.js";
 import { run as runNlb } from "./companies/nlb/index.js";
 import { run as runFare } from "./fare/index.js";
 import { parseAll } from "./parse.js";
-import { run as runTimetable } from "./time_table/index.js";
+import {
+  run as runTimetable,
+  runCtbOnly as runTimetableCtb,
+  runKmbOnly as runTimetableKmb,
+} from "./time_table/index.js";
 
 type RunOptions = { fresh?: boolean; test?: boolean };
 
@@ -23,7 +27,9 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   gmbkln: (options) => runGmbKLN(options),
   gmbnt: (options) => runGmbNT(options),
   nlb: (options) => runNlb(options),
-  timetable: () => runTimetable(),
+  timetable: (options) => runTimetable(options),
+  "timetable-kmb": (options) => runTimetableKmb(options),
+  "timetable-ctb": (options) => runTimetableCtb(options),
   fare: () => runFare(),
 };
 
