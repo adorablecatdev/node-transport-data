@@ -6289,46 +6289,29 @@
       "sc": "屯门(大兴邨)"
     }
   },
-  "KMB-67A-O-1": {
-    "record_id": "KMB-67A-O-1",
-    "company": "KMB",
-    "route": "67A",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TUEN MUN (PO TIN ESTATE)",
-      "tc": "屯門(寶田邨)",
-      "sc": "屯门(宝田邨)"
-    },
-    "destination": {
-      "en": "KWAI FONG (KWAI TSUI ESTATE)",
-      "tc": "葵芳(葵翠邨)",
-      "sc": "葵芳(葵翠邨)"
-    }
-  },
-  "KMB-67A-I-1": {
-    "record_id": "KMB-67A-I-1",
-    "company": "KMB",
-    "route": "67A",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "KWAI FONG (KWAI TSUI ESTATE)",
-      "tc": "葵芳(葵翠邨)",
-      "sc": "葵芳(葵翠邨)"
-    },
-    "destination": {
-      "en": "TUEN MUN (PO TIN ESTATE)",
-      "tc": "屯門(寶田邨)",
-      "sc": "屯门(宝田邨)"
-    }
-  },
   "KMB-67M-O-1": {
     "record_id": "KMB-67M-O-1",
     "company": "KMB",
     "route": "67M",
     "bound": "O",
     "service_type": "1",
+    "origin": {
+      "en": "TUEN MUN (PO TIN ESTATE)",
+      "tc": "屯門(寶田邨)",
+      "sc": "屯门(宝田邨)"
+    },
+    "destination": {
+      "en": "KWAI FONG STATION",
+      "tc": "葵芳站",
+      "sc": "葵芳站"
+    }
+  },
+  "KMB-67M-O-2": {
+    "record_id": "KMB-67M-O-2",
+    "company": "KMB",
+    "route": "67M",
+    "bound": "O",
+    "service_type": "2",
     "origin": {
       "en": "TUEN MUN (SIU HONG COURT)",
       "tc": "屯門(兆康苑)",
@@ -6352,9 +6335,9 @@
       "sc": "葵芳站"
     },
     "destination": {
-      "en": "TUEN MUN (SIU HONG COURT)",
-      "tc": "屯門(兆康苑)",
-      "sc": "屯门(兆康苑)"
+      "en": "TUEN MUN (PO TIN ESTATE)",
+      "tc": "屯門(寶田邨)",
+      "sc": "屯门(宝田邨)"
     }
   },
   "KMB-67X-O-1": {

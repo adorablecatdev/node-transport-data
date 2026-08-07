@@ -1,66 +1,53 @@
-import { readJsonIfExists, writeJson } from "../lib/io.js";
-import { extractZipEntries, fetchGtfsZip } from "../lib/gtfs.js";
-import { Company } from "../types.js";
-import { fetchMtrIntervals } from "./mtr.js";
-import { writeMtrFirstLastTrain } from "./mtr_service_hours.js";
-import { transformTimetable } from "./transform.js";
+import { writeJson } from "../lib/io.js";
+import { fetchAndParseGtfs } from "./lib/gtfs-shared.js";
+import { mergeTimetables } from "./merge.js";
+import { writeMtrFirstLastTrain } from "./companies/mtr/service_hours.js";
 
-const URL =
-  "https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fstatic.data.gov.hk%2Ftd%2Fpt-headway-tc%2Fgtfs.zip";
+import * as kmb from "./companies/kmb/index.js";
+import * as ctb from "./companies/ctb/index.js";
+import * as kmbctb from "./companies/kmbctb/index.js";
+import * as nlb from "./companies/nlb/index.js";
+import * as mtrbus from "./companies/mtrbus/index.js";
+import * as gmb from "./companies/gmb/index.js";
+import * as mtr from "./companies/mtr/index.js";
+import * as lrt from "./companies/lrt/index.js";
+
 const OUT_DIR = "out/final";
-const WANTED_FILES = new Set(["routes.txt", "trips.txt", "calendar.txt", "frequencies.txt"]);
+const PER_COMPANY_DIR = `${OUT_DIR}/per-company`;
 
-const GMB_REGION_DIRS: Array<[Company, string]> = [
-  [Company.GMBHKI, "out/gmbhki"],
-  [Company.GMBKLN, "out/gmbkln"],
-  [Company.GMBNT, "out/gmbnt"],
-];
+export async function run(options: { fresh?: boolean } = {}): Promise<void> {
+  // Single shared fetch + parse. Every GTFS-based company gets the same
+  // ParsedGtfs; each applies its own agency filter and quirks.
+  const gtfs = await fetchAndParseGtfs({ fresh: options.fresh });
 
-async function loadGmbRegionMap(): Promise<Map<string, Company>> {
-  const map = new Map<string, Company>();
-  for (const [region, dir] of GMB_REGION_DIRS) {
-    const routes = await readJsonIfExists<Record<string, { route_id: string }>>(
-      `${dir}/routes.json`,
-    );
-    if (!routes) continue;
-    for (const r of Object.values(routes)) map.set(r.route_id, region);
-  }
-  return map;
-}
+  const gtfsSlices = await Promise.all([
+    kmb.run(gtfs),
+    ctb.run(gtfs),
+    kmbctb.run(gtfs),
+    nlb.run(gtfs),
+    mtrbus.run(gtfs),
+    gmb.run(gtfs),
+  ]);
 
-export async function run(): Promise<void> {
-  console.log("[time_table] fetching gtfs.zip");
-  const zip = await fetchGtfsZip(URL, "time_table");
-  console.log(`[time_table] fetched ${(zip.length / 1024 / 1024).toFixed(1)} MiB, extracting`);
-  const files = await extractZipEntries(zip, WANTED_FILES);
+  // LRT joins the merged timetable; MTR stays in its own file.
+  const lrtSlice = await lrt.run();
+  const mtrIntervals = await mtr.run();
 
-  const gmbRegionByRouteId = await loadGmbRegionMap();
-  if (gmbRegionByRouteId.size === 0) {
-    console.warn(
-      "[time_table] no GMB region data found under out/gmb{hki,kln,nt}/ — GMB routes will be dropped. " +
-        "Run the gmb* targets first if you want them.",
-    );
-  } else {
-    console.log(`[time_table] loaded ${gmbRegionByRouteId.size} GMB route_id → region mappings`);
-  }
+  // Per-company intermediate files — useful for inspection and diffing.
+  // KMB and CTB live under out/{company}/ so they sit next to routes.json /
+  // route-stops.json; the rest stay under out/final/per-company/ for now.
+  await writeJson("out/kmb/timetable.json", gtfsSlices[0]);
+  await writeJson("out/ctb/timetable.json", gtfsSlices[1]);
+  await writeJson(`${PER_COMPANY_DIR}/timetable-kmbctb.json`, gtfsSlices[2]);
+  await writeJson(`${PER_COMPANY_DIR}/timetable-nlb.json`, gtfsSlices[3]);
+  await writeJson(`${PER_COMPANY_DIR}/timetable-mtrbus.json`, gtfsSlices[4]);
+  await writeJson(`${PER_COMPANY_DIR}/timetable-gmb.json`, gtfsSlices[5]);
+  await writeJson(`${PER_COMPANY_DIR}/timetable-lrt.json`, lrtSlice);
 
-  const timetable = transformTimetable({
-    routesCsv: files.get("routes.txt")!,
-    tripsCsv: files.get("trips.txt")!,
-    calendarCsv: files.get("calendar.txt")!,
-    frequenciesCsv: files.get("frequencies.txt")!,
-    gmbRegionByRouteId,
-  });
-
-  // MTR/LRT intervals aren't in the GTFS feed's frequencies.txt.
-  // - LRT entries merge into timetable.json (same shape as GTFS-derived rows).
-  // - MTR entries go to a dedicated file with a distinct per-column shape.
-  const { mtr: mtrIntervals, lrt: lrtIntervals } = await fetchMtrIntervals();
-  for (const [key, byWeekday] of Object.entries(lrtIntervals)) timetable[key] = byWeekday;
-
-  await writeJson(`${OUT_DIR}/timetable.json`, timetable);
+  const merged = mergeTimetables([...gtfsSlices, lrtSlice]);
+  await writeJson(`${OUT_DIR}/timetable.json`, merged);
   console.log(
-    `[time_table] wrote ${Object.keys(timetable).length} route entries to ${OUT_DIR}/timetable.json`,
+    `[time_table] wrote ${Object.keys(merged).length} route entries to ${OUT_DIR}/timetable.json`,
   );
 
   await writeJson(`${OUT_DIR}/mtr-intervals.json`, mtrIntervals);
@@ -69,4 +56,23 @@ export async function run(): Promise<void> {
   );
 
   await writeMtrFirstLastTrain(`${OUT_DIR}/mtr-first-last-train.json`);
+}
+
+// Single-company entry point for CLI flags like --timetable-kmb. Fetches the
+// shared GTFS feed and runs only the requested company; writes the per-company
+// intermediate file but does NOT touch the merged timetable.json.
+export async function runKmbOnly(options: { fresh?: boolean } = {}): Promise<void> {
+  const gtfs = await fetchAndParseGtfs({ fresh: options.fresh });
+  const slice = await kmb.run(gtfs);
+  const path = "out/kmb/timetable.json";
+  await writeJson(path, slice);
+  console.log(`[time_table] wrote ${Object.keys(slice).length} KMB entries to ${path}`);
+}
+
+export async function runCtbOnly(options: { fresh?: boolean } = {}): Promise<void> {
+  const gtfs = await fetchAndParseGtfs({ fresh: options.fresh });
+  const slice = await ctb.run(gtfs);
+  const path = "out/ctb/timetable.json";
+  await writeJson(path, slice);
+  console.log(`[time_table] wrote ${Object.keys(slice).length} CTB entries to ${path}`);
 }

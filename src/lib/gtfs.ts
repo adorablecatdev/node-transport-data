@@ -1,3 +1,5 @@
+import { mkdir, readFile, writeFile } from "node:fs/promises";
+import { dirname } from "node:path";
 import { promisify } from "node:util";
 import { inflateRaw } from "node:zlib";
 import { delay } from "./http.js";
@@ -7,7 +9,23 @@ const RETRY_STATUSES = new Set([403, 408, 425, 429, 500, 502, 503, 504]);
 
 const inflateRawAsync = promisify(inflateRaw);
 
-export async function fetchGtfsZip(url: string, logTag: string): Promise<Buffer> {
+export async function fetchGtfsZip(
+  url: string,
+  logTag: string,
+  options: { cachePath?: string; fresh?: boolean } = {},
+): Promise<Buffer> {
+  const { cachePath, fresh } = options;
+
+  if (cachePath && !fresh) {
+    try {
+      const cached = await readFile(cachePath);
+      console.log(`[${logTag}] using cached gtfs.zip from ${cachePath} (pass --fresh to refetch)`);
+      return cached;
+    } catch (err) {
+      if ((err as NodeJS.ErrnoException).code !== "ENOENT") throw err;
+    }
+  }
+
   let lastError: unknown;
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
@@ -17,7 +35,14 @@ export async function fetchGtfsZip(url: string, logTag: string): Promise<Buffer>
           Accept: "application/zip, application/octet-stream, */*",
         },
       });
-      if (res.ok) return Buffer.from(await res.arrayBuffer());
+      if (res.ok) {
+        const buf = Buffer.from(await res.arrayBuffer());
+        if (cachePath) {
+          await mkdir(dirname(cachePath), { recursive: true });
+          await writeFile(cachePath, buf);
+        }
+        return buf;
+      }
       if (!RETRY_STATUSES.has(res.status)) {
         throw new Error(`HTTP ${res.status} ${res.statusText} for ${url}`);
       }
