@@ -58,3 +58,52 @@ export function compositeId(
 ): string {
   return `${company}-${route}-${bound}-${service_type}`;
 }
+
+export type Schedule = Record<string, Record<string, number | string | null>>;
+
+export type TimetableVariant = {
+  from: string;
+  to: string;
+  schedule: Schedule;
+};
+
+export type Timetable = Record<string, TimetableVariant[]>;
+
+export type ParsedGtfs = {
+  routes: RouteRow[];
+  trips: TripRow[];
+  calendar: CalendarRow[];
+  frequencies: FrequencyRow[];
+};
+
+export type RouteRow = {
+  route_id: string;
+  agency_id: string;
+  route_short_name: string;
+  route_long_name: string;
+};
+
+export type TripRow = { trip_id: string; route_id: string; service_id: string };
+
+export type CalendarRow = {
+  service_id: string;
+  monday: string;
+  tuesday: string;
+  wednesday: string;
+  thursday: string;
+  friday: string;
+  saturday: string;
+  sunday: string;
+};
+
+export type FrequencyRow = {
+  trip_id: string;
+  start_time: string;
+  end_time: string;
+  headway_secs: string;
+};
+
+export type CompanyTimetableModule = {
+  company: Company | Company[];
+  run: (...args: never[]) => Promise<Timetable>;
+};

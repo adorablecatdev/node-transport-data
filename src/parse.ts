@@ -1,7 +1,7 @@
 import { promises as fs } from "node:fs";
 import path from "node:path";
 import { JOINTLY_OPERATED_ROUTES } from "./companies/kmbctb/static.js";
-import { Company, Localized } from "./types.js";
+import { Company, Localized } from "./types/types.js";
 
 const OUT_DIR = path.resolve(process.cwd(), "out");
 const FINAL_DIR = path.join(OUT_DIR, "final");

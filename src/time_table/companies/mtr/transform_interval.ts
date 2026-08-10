@@ -1,4 +1,6 @@
-import { Company } from "../../../types.js";
+import { fetchText } from "../../../lib/http.js";
+import { readJsonIfExists, writeJson } from "../../../lib/io.js";
+import { Company } from "../../../types/types.js";
 
 // MTR interval-page parser. Reads the MTR rows out of the service-index HTML
 // page. LRT rows on the same page are parsed independently in
@@ -24,11 +26,11 @@ const LABEL_TO_ROUTE: Record<string, LabelMapping | LabelMapping[]> = {
   "Airport Express": { company: Company.MTR, routeId: "AEL" },
 };
 
-const MTR_TYPE_WEEKDAY_AM_PEAK = "mtrWeekDayType1";
-const MTR_TYPE_WEEKDAY_PM_PEAK = "mtrWeekDayType2";
-const MTR_TYPE_WEEKDAY_NON_PEAK = "mtrWeekDayType3";
-const MTR_TYPE_SATURDAY = "mtrWeekDayType4";
-const MTR_TYPE_SUN_PH = "mtrWeekDayType5";
+const MTR_TYPE_WEEKDAY_AM_PEAK = "1111100AM";
+const MTR_TYPE_WEEKDAY_PM_PEAK = "1111100PM";
+const MTR_TYPE_WEEKDAY_NON_PEAK = "1111100";
+const MTR_TYPE_SATURDAY = "0000010";
+const MTR_TYPE_SUN_PH = "0000001";
 
 export type MtrIntervalValue = string;
 
@@ -36,6 +38,8 @@ export type MtrIntervalValue = string;
 // is one entry per interval-page column (mtrWeekDayType1..5). Directions
 // share intervals on the source page.
 export type MtrIntervals = Record<string, Record<string, MtrIntervalValue>>;
+
+type IntervalCache = { html: string };
 
 function stripHtml(s: string): string {
   return s
@@ -78,7 +82,24 @@ function toMappings(mapping: LabelMapping | LabelMapping[]): LabelMapping[] {
   return Array.isArray(mapping) ? mapping : [mapping];
 }
 
-export function transformMtr(html: string): MtrIntervals {
+async function fetchIntervalHtml(options: { cachePath?: string } = {}): Promise<string> {
+  const { cachePath } = options;
+  if (cachePath) {
+    const cached = await readJsonIfExists<IntervalCache>(cachePath);
+    if (cached?.html) {
+      console.log(`[time_table][mtr] picked up interval page from cache`);
+      return cached.html;
+    }
+  }
+  const html = await fetchText(INTERVAL_URL);
+  if (cachePath) await writeJson(cachePath, { html } satisfies IntervalCache);
+  return html;
+}
+
+export async function transformInterval(
+  options: { cachePath?: string } = {},
+): Promise<MtrIntervals> {
+  const html = await fetchIntervalHtml({ cachePath: options.cachePath });
   const rows = parseTable(html);
   const mtr: MtrIntervals = {};
   const seenLabels = new Set<string>();

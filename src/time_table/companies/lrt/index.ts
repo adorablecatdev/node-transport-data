@@ -1,6 +1,6 @@
-import { Company } from "../../../types.js";
+import { Company } from "../../../types/types.js";
 import { fetchText } from "../../../lib/http.js";
-import type { Timetable } from "../../types.js";
+import type { Timetable } from "../../../types/types.js";
 import { INTERVAL_URL, transformLrt } from "./transform.js";
 
 export const company = Company.LRT;

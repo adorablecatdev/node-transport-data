@@ -3,7 +3,7 @@ import {
   Company,
   type Localized,
   type StopOutput,
-} from "../../types.js";
+} from "../../types/types.js";
 import type { CtbRouteOutput, CtbRouteStopsOutput } from "../ctb/transform.js";
 import type { KmbRouteOutput, KmbRouteStopsOutput } from "../kmb/transform.js";
 import { JOINTLY_OPERATED_ROUTES, REVERSE_DIR_ROUTES } from "./static.js";

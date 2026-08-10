@@ -1,8 +1,9 @@
 import { fetchText } from "../../../lib/http.js";
-import { writeJson } from "../../../lib/io.js";
+import { readJsonIfExists, writeJson } from "../../../lib/io.js";
 import { fetchLineStations, type MtrLineStation } from "../../../companies/mtr/api.js";
 
 const SERVICE_HOURS_URL = "https://www.mtr.com.hk/en/customer/services/service_hours_search.php";
+const SAVE_EVERY = 25;
 
 // Per-(station, route, destination station) first/last train times.
 // Outer key: origin station code (e.g. "ADM").
@@ -13,6 +14,8 @@ export type FirstLastMap = Record<
   string,
   Record<string, Record<string, { first: string; last: string }>>
 >;
+
+type ServiceHoursCache = { byStationId: Record<string, string> };
 
 // Line codes actually consumed off the service-hours page. The page has
 // commented-out template leftovers for other lines that stripHtmlComments
@@ -90,31 +93,73 @@ async function fetchStationPage(stationId: string): Promise<string> {
   return fetchText(url);
 }
 
-export async function fetchMtrFirstLastTrain(): Promise<FirstLastMap> {
-  console.log("[time_table] fetching MTR service-hours pages (per station)");
+export async function transformFirstLastTrain(
+  options: { cachePath?: string } = {},
+): Promise<FirstLastMap> {
+  const { cachePath } = options;
+  const cached: ServiceHoursCache = cachePath
+    ? ((await readJsonIfExists<ServiceHoursCache>(cachePath)) ?? { byStationId: {} })
+    : { byStationId: {} };
+
+  const htmlByStationId = new Map<string, string>(Object.entries(cached.byStationId));
+
   const rows = await fetchLineStations();
   const idToCode = stationIdToCode(rows);
   const stationIds = [...idToCode.keys()].sort((a, b) => Number(a) - Number(b));
+  const total = stationIds.length;
 
-  const firstLast: FirstLastMap = {};
+  const persist = async (): Promise<void> => {
+    if (!cachePath) return;
+    const byStationId: Record<string, string> = {};
+    for (const [k, v] of htmlByStationId) byStationId[k] = v;
+    await writeJson(cachePath, { byStationId } satisfies ServiceHoursCache);
+  };
+
+  let done = 0;
+  for (const id of stationIds) if (htmlByStationId.has(id)) done++;
+  if (done > 0) {
+    console.log(`[time_table][mtr] picked up ${done}/${total} service-hours pages from cache`);
+  }
 
   let fetched = 0;
   let skipped = 0;
-  let unresolvedDest = 0;
+  let sinceSave = 0;
+  let wroteProgress = false;
 
   for (const stationId of stationIds) {
+    if (htmlByStationId.has(stationId)) continue;
     const stationCode = idToCode.get(stationId)!;
     let html: string;
     try {
       html = await fetchStationPage(stationId);
     } catch (err) {
       skipped++;
-      console.warn(`[time_table] failed to fetch station=${stationId} (${stationCode}): ${(err as Error).message}`);
+      console.warn(
+        `[time_table][mtr] failed to fetch station=${stationId} (${stationCode}): ${(err as Error).message}`,
+      );
       continue;
     }
+    htmlByStationId.set(stationId, html);
     fetched++;
-    const parsed = parseServiceHoursPage(html);
+    done++;
+    sinceSave++;
+    process.stdout.write(`\r[time_table][mtr] service-hours progress ${done}/${total}`);
+    wroteProgress = true;
+    if (cachePath && sinceSave >= SAVE_EVERY) {
+      await persist();
+      sinceSave = 0;
+    }
+  }
+  if (cachePath && sinceSave > 0) await persist();
+  if (wroteProgress) process.stdout.write("\n");
 
+  const firstLast: FirstLastMap = {};
+  let unresolvedDest = 0;
+
+  for (const [stationId, html] of htmlByStationId) {
+    const stationCode = idToCode.get(stationId);
+    if (!stationCode) continue;
+    const parsed = parseServiceHoursPage(html);
     for (const section of parsed.sections) {
       for (const row of section.rows) {
         const destCode = idToCode.get(row.destStationId);
@@ -129,19 +174,11 @@ export async function fetchMtrFirstLastTrain(): Promise<FirstLastMap> {
     }
   }
 
-  console.log(
-    `[time_table] MTR first/last train: fetched ${fetched} stations (${skipped} skipped), ` +
-      `${Object.keys(firstLast).length} origin stations`,
-  );
   if (unresolvedDest > 0) {
-    console.warn(`[time_table] MTR first/last train: ${unresolvedDest} rows dropped (unresolved destination station code)`);
+    console.warn(
+      `[time_table][mtr] first/last train: ${unresolvedDest} rows dropped (unresolved destination station code)`,
+    );
   }
 
   return firstLast;
-}
-
-export async function writeMtrFirstLastTrain(outPath: string): Promise<void> {
-  const data = await fetchMtrFirstLastTrain();
-  await writeJson(outPath, data);
-  console.log(`[time_table] wrote MTR first/last train to ${outPath}`);
 }

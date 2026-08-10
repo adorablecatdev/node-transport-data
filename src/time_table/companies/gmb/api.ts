@@ -56,9 +56,9 @@ type RouteInfosCache = { byKey: Record<string, GmbRouteInfoWithHeadways[]> };
 // "REGION:ROUTECODE" so all three GMB regions share one file safely.
 export async function fetchAllRouteInfos(
   tasks: Array<{ region: GmbRegion; route_code: string }>,
-  options: { cachePath?: string } = {},
+  options: { cachePath?: string; logTag?: string } = {},
 ): Promise<Map<string, GmbRouteInfoWithHeadways[]>> {
-  const { cachePath } = options;
+  const { cachePath, logTag = "gmb" } = options;
   const cached: RouteInfosCache = cachePath
     ? ((await readJsonIfExists<RouteInfosCache>(cachePath)) ?? { byKey: {} })
     : { byKey: {} };
@@ -76,8 +76,9 @@ export async function fetchAllRouteInfos(
     await writeJson(cachePath, { byKey } satisfies RouteInfosCache);
   };
 
-  if (done > 0) console.log(`[time_table][gmb] picked up ${done}/${total} route-infos from cache`);
+  if (done > 0) console.log(`[time_table][${logTag}] picked up ${done}/${total} route infos from cache`);
 
+  let wroteProgress = false;
   for (const t of tasks) {
     const key = `${t.region}:${t.route_code}`;
     if (out.has(key)) continue;
@@ -85,7 +86,8 @@ export async function fetchAllRouteInfos(
     out.set(key, infos);
     done++;
     sinceSave++;
-    process.stdout.write(`\r[time_table][gmb] route-info progress ${done}/${total}`);
+    process.stdout.write(`\r[time_table][${logTag}] route info progress ${done}/${total}`);
+    wroteProgress = true;
     if (cachePath && sinceSave >= SAVE_EVERY) {
       await persist();
       sinceSave = 0;
@@ -93,6 +95,6 @@ export async function fetchAllRouteInfos(
     await delay(THROTTLE_MS);
   }
   if (cachePath && sinceSave > 0) await persist();
-  if (total > 0) process.stdout.write("\n");
+  if (wroteProgress) process.stdout.write("\n");
   return out;
 }

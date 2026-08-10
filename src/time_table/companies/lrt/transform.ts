@@ -1,5 +1,5 @@
-import { Company } from "../../../types.js";
-import type { Schedule, Timetable } from "../../types.js";
+import { Company } from "../../../types/types.js";
+import type { Schedule, Timetable } from "../../../types/types.js";
 
 // LRT interval parser. Reads the LRT rows out of the MTR service-index HTML
 // page (the same page MTR uses; each company fetches independently). MTR's

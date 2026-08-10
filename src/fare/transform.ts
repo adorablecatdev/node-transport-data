@@ -1,5 +1,5 @@
 import { parseCsv } from "../lib/gtfs.js";
-import { Company } from "../types.js";
+import { Company } from "../types/types.js";
 
 // Route key `{Company}-{route_short_name}-{direction}` (direction is
 // "outbound" | "inbound") → boarding stop_sequence → fare (HKD). Sparse:

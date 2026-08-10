@@ -1,4 +1,4 @@
-import { Company, type Localized, type StopOutput } from "../../types.js";
+import { Company, type Localized, type StopOutput } from "../../types/types.js";
 import type { MtrbDir, MtrbRoute, MtrbStop } from "./api.js";
 
 export type MtrbBound = "i" | "o";

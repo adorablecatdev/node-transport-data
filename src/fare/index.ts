@@ -1,6 +1,6 @@
 import { readJsonIfExists, writeJson } from "../lib/io.js";
 import { extractZipEntries, fetchGtfsZip } from "../lib/gtfs.js";
-import { Company } from "../types.js";
+import { Company } from "../types/types.js";
 import { transformFare } from "./transform.js";
 
 const URL =

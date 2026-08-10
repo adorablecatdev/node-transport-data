@@ -1,4 +1,4 @@
-import type { Schedule, Timetable, TimetableVariant } from "../../types.js";
+import type { Schedule, Timetable, TimetableVariant } from "../../../types/types.js";
 import type { GmbRouteInfoWithHeadways } from "./api.js";
 
 // One entry from routes.json — the fields we actually read here.

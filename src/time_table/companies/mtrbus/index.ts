@@ -1,5 +1,5 @@
-import { Company } from "../../../types.js";
-import type { ParsedGtfs, Timetable } from "../../types.js";
+import { Company } from "../../../types/types.js";
+import type { ParsedGtfs, Timetable } from "../../../types/types.js";
 import { transformMtrBus } from "./transform.js";
 
 export const company = Company.MTRB;
