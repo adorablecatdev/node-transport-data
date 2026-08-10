@@ -12,6 +12,8 @@ import { run as runKmbTimetable } from "./time_table/companies/kmb/index.js";
 import { run as runGmbHkiTimetable } from "./time_table/companies/gmb/index.js";
 import { run as runGmbKlnTimetable } from "./time_table/companies/gmb/index.js";
 import { run as runGmbNtTimetable } from "./time_table/companies/gmb/index.js";
+import { run as runLrtTimetable } from "./time_table/companies/lrt/index.js";
+import { run as runMtrTimetable } from "./time_table/companies/mtr/index.js";
 import {
   run as runTimetable,
 } from "./time_table/index.js";
@@ -35,6 +37,8 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   "timetable-gmbhki": (options) => runGmbHkiTimetable({ region: "HKI" as GmbRegion, fresh: options.fresh }),
   "timetable-gmbkln": (options) => runGmbKlnTimetable({ region: "KLN" as GmbRegion, fresh: options.fresh }),
   "timetable-gmbnt": (options) => runGmbNtTimetable({ region: "NT" as GmbRegion, fresh: options.fresh }),
+  "timetable-lrt": (options) => runLrtTimetable(options),
+   "timetable-mtr": (options) => runMtrTimetable(options),
   fare: () => runFare(),
 };
 

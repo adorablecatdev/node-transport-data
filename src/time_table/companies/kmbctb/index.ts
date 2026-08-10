@@ -1,4 +1,4 @@
-import { Company } from "../../../types/types.js";
+import { Company } from "../../../types.js";
 import { readJsonIfExists, removeDirIfExists, writeJson } from "../../../lib/io.js";
 import { fetchAllSchedules } from "./api.js";
 import { transformKmbCtb, type KmbCtbRouteRecord } from "./transform.js";

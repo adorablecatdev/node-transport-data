@@ -1,4 +1,4 @@
-import { Company, type Localized, type StopOutput } from "../../types/types.js";
+import { Company, type Localized, type StopOutput } from "../../types.js";
 import type { CtbDir, CtbRoute, CtbRouteStop, CtbStop, CtbDirection } from "./api.js";
 import { CTB_CIRCULAR_ROUTES } from "./static.js";
 

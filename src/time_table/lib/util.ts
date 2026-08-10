@@ -8,7 +8,7 @@ import type {
     RouteRow,
     TripRow,
     ParsedGtfs, Timetable
-} from "../../types/types.js";
+} from "../../types.js";
 
 export function groupTimetableByCompany(merged: Timetable): Record<string, Timetable>
 {

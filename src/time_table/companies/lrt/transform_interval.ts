@@ -1,5 +1,11 @@
-import { Company } from "../../../types/types.js";
-import type { Schedule, Timetable } from "../../../types/types.js";
+import { fetchText } from "../../../lib/http.js";
+import { readJsonIfExists, writeJson } from "../../../lib/io.js";
+import type { Schedule } from "../../../types.js";
+
+// Key: LRT route id (e.g. "505"). The LRT source page has no direction or
+// from/to columns and both directions always share the same schedule, so a
+// single Schedule per route is all the data available.
+export type LrtIntervalMap = Record<string, Schedule>;
 
 // LRT interval parser. Reads the LRT rows out of the MTR service-index HTML
 // page (the same page MTR uses; each company fetches independently). MTR's
@@ -7,6 +13,8 @@ import type { Schedule, Timetable } from "../../../types/types.js";
 
 export const INTERVAL_URL =
   "https://www.mtr.com.hk/en/customer/services/train_service_index.html";
+
+type IntervalCache = { html: string };
 
 type LrtRouteMapping = { routeId: string };
 
@@ -70,16 +78,26 @@ function parseTable(html: string): ParsedRow[] {
   return rows;
 }
 
-function lrtKeysFor(routeId: string): string[] {
-  return [
-    `${Company.LRT}-${routeId}-outbound-1`,
-    `${Company.LRT}-${routeId}-inbound-1`,
-  ];
+async function fetchIntervalHtml(options: { cachePath?: string } = {}): Promise<string> {
+  const { cachePath } = options;
+  if (cachePath) {
+    const cached = await readJsonIfExists<IntervalCache>(cachePath);
+    if (cached?.html) {
+      console.log(`[time_table][lrt] picked up interval page from cache`);
+      return cached.html;
+    }
+  }
+  const html = await fetchText(INTERVAL_URL);
+  if (cachePath) await writeJson(cachePath, { html } satisfies IntervalCache);
+  return html;
 }
 
-export function transformLrt(html: string): Timetable {
+export async function transformLrt(
+  options: { cachePath?: string } = {},
+): Promise<LrtIntervalMap> {
+  const html = await fetchIntervalHtml({ cachePath: options.cachePath });
   const rows = parseTable(html);
-  const lrt: Timetable = {};
+  const lrt: LrtIntervalMap = {};
   const seenLabels = new Set<string>();
   const knownLabels = new Set(Object.keys(LABEL_TO_LRT));
 
@@ -95,18 +113,15 @@ export function transformLrt(html: string): Timetable {
     const sat = normaliseCell(satRaw ?? "");
     const sun = normaliseCell(sunRaw ?? "");
 
-    for (const key of lrtKeysFor(mapping.routeId)) {
-      const schedule: Schedule = {};
-      const weekday: Record<string, string> = {};
-      if (am !== undefined) weekday[KEY_AM_PEAK] = am;
-      if (pm !== undefined) weekday[KEY_PM_PEAK] = pm;
-      if (non !== undefined) weekday[KEY_NON_PEAK] = non;
-      if (Object.keys(weekday).length > 0) schedule[WEEKDAY_CODE_WEEKDAY] = weekday;
-      if (sat !== undefined) schedule[WEEKDAY_CODE_SATURDAY] = { [KEY_ALL_DAY]: sat };
-      if (sun !== undefined) schedule[WEEKDAY_CODE_SUN_PH] = { [KEY_ALL_DAY]: sun };
-      // LRT rows on the source page have no from/to columns — leave blank.
-      lrt[key] = [{ from: "", to: "", schedule }];
-    }
+    const schedule: Schedule = {};
+    const weekday: Record<string, string> = {};
+    if (am !== undefined) weekday[KEY_AM_PEAK] = am;
+    if (pm !== undefined) weekday[KEY_PM_PEAK] = pm;
+    if (non !== undefined) weekday[KEY_NON_PEAK] = non;
+    if (Object.keys(weekday).length > 0) schedule[WEEKDAY_CODE_WEEKDAY] = weekday;
+    if (sat !== undefined) schedule[WEEKDAY_CODE_SATURDAY] = { [KEY_ALL_DAY]: sat };
+    if (sun !== undefined) schedule[WEEKDAY_CODE_SUN_PH] = { [KEY_ALL_DAY]: sun };
+    lrt[mapping.routeId] = schedule;
   }
 
   const missing = [...knownLabels].filter((l) => !seenLabels.has(l));

@@ -1,4 +1,4 @@
-import { Company, type Localized, type StopOutput } from "../../types/types.js";
+import { Company, type Localized, type StopOutput } from "../../types.js";
 import type { GmbRegion, GmbRouteInfo, GmbRouteStop, GmbStop, RouteStopGroup } from "./api.js";
 
 export function regionToCompany(region: GmbRegion): Company {

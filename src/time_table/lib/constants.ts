@@ -1,4 +1,4 @@
-import { Company } from "../../types/types.js";
+import { Company } from "../../types.js";
 
 export const COMPANY_PREFIXES: Company[] = [
   Company.GMBHKI,
@@ -22,13 +22,13 @@ export const PER_COMPANY_TIMETABLE_PATHS = [
   "out/gmbhki/timetable.json",
   "out/gmbkln/timetable.json",
   "out/gmbnt/timetable.json",
-  // "out/lrt/timetable.json",
   // `${PER_COMPANY_DIR}/timetable-kmbctb.json`,
   // `${PER_COMPANY_DIR}/timetable-nlb.json`,
   // `${PER_COMPANY_DIR}/timetable-mtrbus.json`,
 ];
 
 export const MTR_TIMETABLE_PATH = "out/mtr/timetable.json";
+export const LRT_TIMETABLE_PATH = "out/lrt/timetable.json";
 
 export const GTFS_URL =
     "https://res.data.gov.hk/api/get-download-file?name=https%3A%2F%2Fstatic.data.gov.hk%2Ftd%2Fpt-headway-tc%2Fgtfs.zip";

@@ -1,6 +1,6 @@
-import { Company } from "../../../types/types.js";
+import { Company } from "../../../types.js";
 import { removeDirIfExists, writeJson } from "../../../lib/io.js";
-import { transformInterval, type MtrIntervals } from "./transform_interval.js";
+import { transformInterval, type MtrIntervalMap } from "./transform_interval.js";
 import { transformFirstLastTrain, type FirstLastMap } from "./transform_service_hours.js";
 
 export const company = Company.MTR;
@@ -10,7 +10,7 @@ const INTERVAL_CACHE_PATH = `${CACHE_DIR}/interval.json`;
 const SERVICE_HOURS_CACHE_PATH = `${CACHE_DIR}/service-hours.json`;
 
 export type MtrTimetable = {
-  interval: MtrIntervals;
+  interval: MtrIntervalMap;
   serviceHour: FirstLastMap;
 };
 

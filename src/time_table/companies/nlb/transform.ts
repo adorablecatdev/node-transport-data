@@ -1,4 +1,4 @@
-import type { ParsedGtfs, Timetable } from "../../../types/types.js";
+import type { ParsedGtfs, Timetable } from "../../../types.js";
 
 // NLB slice of the shared GTFS feed. Owns:
 // - agency_id filter: NLB
