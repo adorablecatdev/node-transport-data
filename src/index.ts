@@ -11,7 +11,11 @@ import { parseAll } from "./parse.js";
 import {
   run as runTimetable,
   runCtbOnly as runTimetableCtb,
+  runGmbHkiOnly as runTimetableGmbHki,
+  runGmbKlnOnly as runTimetableGmbKln,
+  runGmbNtOnly as runTimetableGmbNt,
   runKmbOnly as runTimetableKmb,
+  runLrtOnly as runTimetableLrt,
 } from "./time_table/index.js";
 
 type RunOptions = { fresh?: boolean; test?: boolean };
@@ -30,6 +34,10 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   timetable: (options) => runTimetable(options),
   "timetable-kmb": (options) => runTimetableKmb(options),
   "timetable-ctb": (options) => runTimetableCtb(options),
+  "timetable-gmbhki": (options) => runTimetableGmbHki(options),
+  "timetable-gmbkln": (options) => runTimetableGmbKln(options),
+  "timetable-gmbnt": (options) => runTimetableGmbNt(options),
+  "timetable-lrt": () => runTimetableLrt(),
   fare: () => runFare(),
 };
 

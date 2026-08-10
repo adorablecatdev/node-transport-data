@@ -22,15 +22,15 @@ export async function run(options: { fresh?: boolean } = {}): Promise<void> {
 
   // KMB pulls from its own schedule API (not GTFS); run in parallel with
   // GTFS-based companies since they don't share input.
-  const [kmbSlice, gtfsSlices, lrtSlice, mtrIntervals] = await Promise.all([
+  const [kmbSlice, gtfsSlices, gmbSlice, lrtSlice, mtrIntervals] = await Promise.all([
     kmb.run({ fresh: options.fresh }),
     Promise.all([
       ctb.run(gtfs),
       kmbctb.run(gtfs),
       nlb.run(gtfs),
       mtrbus.run(gtfs),
-      gmb.run(gtfs),
     ]),
+    gmb.run({ fresh: options.fresh }),
     lrt.run(),
     mtr.run(),
   ]);
@@ -43,10 +43,10 @@ export async function run(options: { fresh?: boolean } = {}): Promise<void> {
   await writeJson(`${PER_COMPANY_DIR}/timetable-kmbctb.json`, gtfsSlices[1]);
   await writeJson(`${PER_COMPANY_DIR}/timetable-nlb.json`, gtfsSlices[2]);
   await writeJson(`${PER_COMPANY_DIR}/timetable-mtrbus.json`, gtfsSlices[3]);
-  await writeJson(`${PER_COMPANY_DIR}/timetable-gmb.json`, gtfsSlices[4]);
-  await writeJson(`${PER_COMPANY_DIR}/timetable-lrt.json`, lrtSlice);
+  await writeJson(`${PER_COMPANY_DIR}/timetable-gmb.json`, gmbSlice);
+  await writeJson("out/lrt/timetable.json", lrtSlice);
 
-  const merged = mergeTimetables([kmbSlice, ...gtfsSlices, lrtSlice]);
+  const merged = mergeTimetables([kmbSlice, ...gtfsSlices, gmbSlice, lrtSlice]);
   await writeJson(`${OUT_DIR}/timetable.json`, merged);
   console.log(
     `[time_table] wrote ${Object.keys(merged).length} route entries to ${OUT_DIR}/timetable.json`,
@@ -76,4 +76,30 @@ export async function runCtbOnly(options: { fresh?: boolean } = {}): Promise<voi
   const path = "out/ctb/timetable.json";
   await writeJson(path, slice);
   console.log(`[time_table] wrote ${Object.keys(slice).length} CTB entries to ${path}`);
+}
+
+async function runGmbRegionOnly(
+  region: "HKI" | "KLN" | "NT",
+  options: { fresh?: boolean },
+): Promise<void> {
+  const slice = await gmb.run({ fresh: options.fresh, region });
+  const path = `out/gmb${region.toLowerCase()}/timetable.json`;
+  await writeJson(path, slice);
+  console.log(
+    `[time_table] wrote ${Object.keys(slice).length} GMB${region} entries to ${path}`,
+  );
+}
+
+export const runGmbHkiOnly = (options: { fresh?: boolean } = {}): Promise<void> =>
+  runGmbRegionOnly("HKI", options);
+export const runGmbKlnOnly = (options: { fresh?: boolean } = {}): Promise<void> =>
+  runGmbRegionOnly("KLN", options);
+export const runGmbNtOnly = (options: { fresh?: boolean } = {}): Promise<void> =>
+  runGmbRegionOnly("NT", options);
+
+export async function runLrtOnly(): Promise<void> {
+  const slice = await lrt.run();
+  const path = "out/lrt/timetable.json";
+  await writeJson(path, slice);
+  console.log(`[time_table] wrote ${Object.keys(slice).length} LRT entries to ${path}`);
 }
