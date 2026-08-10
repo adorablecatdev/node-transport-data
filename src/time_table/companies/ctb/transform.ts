@@ -7,7 +7,7 @@ import type {
   Timetable,
   TimetableVariant,
   TripRow,
-} from "../../types.js";
+} from "../../../types/types.js";
 
 const CTB_ROUTES_JSON = "out/ctb/routes.json";
 const CTB_AGENCY_ID = "CTB";

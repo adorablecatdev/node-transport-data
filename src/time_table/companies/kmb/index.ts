@@ -1,6 +1,5 @@
-import { Company } from "../../../types.js";
-import { readJsonIfExists, removeDirIfExists } from "../../../lib/io.js";
-import type { Timetable } from "../../types.js";
+import { Company } from "../../../types/types.js";
+import { readJsonIfExists, removeDirIfExists, writeJson } from "../../../lib/io.js";
 import { fetchAllSchedules } from "./api.js";
 import { transformKmb, type KmbRouteRecord } from "./transform.js";
 
@@ -10,11 +9,13 @@ const KMB_ROUTES_JSON = "out/kmb/routes.json";
 const CACHE_DIR = "out/kmb/.cache";
 const CACHE_PATH = `${CACHE_DIR}/schedules.json`;
 
-export async function run(options: { fresh?: boolean } = {}): Promise<Timetable> {
+export async function run(options: { fresh?: boolean } = {}): Promise<void> {
+  const path = "out/kmb/timetable.json";
+    
   const routesJson = await readJsonIfExists<Record<string, KmbRouteRecord>>(KMB_ROUTES_JSON);
   if (!routesJson) {
     console.warn(`[time_table][kmb] ${KMB_ROUTES_JSON} not found — skipping KMB`);
-    return {};
+    return;
   }
 
   if (options.fresh) {
@@ -32,5 +33,8 @@ export async function run(options: { fresh?: boolean } = {}): Promise<Timetable>
   console.log(`[time_table][kmb] fetching schedules for ${uniqueRoutes.length} routes`);
 
   const schedules = await fetchAllSchedules(uniqueRoutes, { cachePath: CACHE_PATH });
-  return transformKmb(routesJson, schedules);
+  const timetable = transformKmb(routesJson, schedules);
+
+  await writeJson(path, timetable);
+  console.log(`[time_table][kmb] wrote ${Object.keys(timetable).length} entries to ${path}`);
 }

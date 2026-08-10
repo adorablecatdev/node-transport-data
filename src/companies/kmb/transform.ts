@@ -1,4 +1,4 @@
-import { Company, type Localized, type StopOutput } from "../../types.js";
+import { Company, type Localized, type StopOutput } from "../../types/types.js";
 import type { KmbBound, KmbRoute, KmbRouteStop, KmbStop } from "./api.js";
 
 export type KmbRouteOutput = {

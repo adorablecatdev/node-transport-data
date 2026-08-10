@@ -76,7 +76,5 @@ function parseCsv(text: string): MtrLineStation[] {
 
 export async function fetchLineStations(): Promise<MtrLineStation[]> {
   const text = await fetchText(LINES_AND_STATIONS_URL);
-  const rows = parseCsv(text);
-  console.log(`[mtr] fetched ${rows.length} line-station rows`);
-  return rows;
+  return parseCsv(text);
 }

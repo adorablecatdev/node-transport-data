@@ -1,4 +1,4 @@
-import { Company, type Localized, type StopOutput } from "../../types.js";
+import { Company, type Localized, type StopOutput } from "../../types/types.js";
 import type { MtrDirection, MtrLineStation } from "./api.js";
 import { ROUTE_NAME_EN, ROUTE_NAME_TC, STATION_LOCATION } from "./static.js";
 

@@ -48,7 +48,7 @@ export async function fetchAllSchedules(
   let sinceSave = 0;
 
   if (out.size > 0) {
-    console.log(`[time_table][kmb] picked up ${out.size}/${total} schedules from cache`);
+    console.log(`[time_table][kmbctb] picked up ${out.size}/${total} schedules from cache`);
   }
 
   const persist = async (): Promise<void> => {
@@ -65,7 +65,7 @@ export async function fetchAllSchedules(
     out.set(route, data);
     done++;
     sinceSave++;
-    process.stdout.write(`\r[time_table][kmb] schedule progress ${done}/${total}`);
+    process.stdout.write(`\r[time_table][kmbctb] schedule progress ${done}/${total}`);
     wroteProgress = true;
     if (cachePath && sinceSave >= SAVE_EVERY) {
       await persist();

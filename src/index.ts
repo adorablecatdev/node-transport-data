@@ -8,11 +8,14 @@ import { run as runMtrbus } from "./companies/mtrbus/index.js";
 import { run as runNlb } from "./companies/nlb/index.js";
 import { run as runFare } from "./fare/index.js";
 import { parseAll } from "./parse.js";
+import { run as runKmbTimetable } from "./time_table/companies/kmb/index.js";
+import { run as runGmbHkiTimetable } from "./time_table/companies/gmb/index.js";
+import { run as runGmbKlnTimetable } from "./time_table/companies/gmb/index.js";
+import { run as runGmbNtTimetable } from "./time_table/companies/gmb/index.js";
 import {
   run as runTimetable,
-  runCtbOnly as runTimetableCtb,
-  runKmbOnly as runTimetableKmb,
 } from "./time_table/index.js";
+import { GmbRegion } from "./companies/gmb/api.js";
 
 type RunOptions = { fresh?: boolean; test?: boolean };
 
@@ -28,8 +31,10 @@ const companies: Record<string, (options: RunOptions) => Promise<void>> = {
   gmbnt: (options) => runGmbNT(options),
   nlb: (options) => runNlb(options),
   timetable: (options) => runTimetable(options),
-  "timetable-kmb": (options) => runTimetableKmb(options),
-  "timetable-ctb": (options) => runTimetableCtb(options),
+  "timetable-kmb": (options) => runKmbTimetable(options),
+  "timetable-gmbhki": (options) => runGmbHkiTimetable({ region: "HKI" as GmbRegion, fresh: options.fresh }),
+  "timetable-gmbkln": (options) => runGmbKlnTimetable({ region: "KLN" as GmbRegion, fresh: options.fresh }),
+  "timetable-gmbnt": (options) => runGmbNtTimetable({ region: "NT" as GmbRegion, fresh: options.fresh }),
   fare: () => runFare(),
 };
 

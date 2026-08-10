@@ -1,4 +1,4 @@
-import { Company, type Localized, type StopOutput } from "../../types.js";
+import { Company, type Localized, type StopOutput } from "../../types/types.js";
 import type { LrtRouteStop } from "./api.js";
 import { STOP_LOCATION } from "./static.js";
 
