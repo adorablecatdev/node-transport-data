@@ -1,6 +1,6 @@
 import { fetchText } from "../../../lib/http.js";
 import { readJsonIfExists, writeJson } from "../../../lib/io.js";
-import { Company } from "../../../types/types.js";
+import type { Schedule } from "../../../types.js";
 
 // MTR interval-page parser. Reads the MTR rows out of the service-index HTML
 // page. LRT rows on the same page are parsed independently in
@@ -9,35 +9,35 @@ import { Company } from "../../../types/types.js";
 export const INTERVAL_URL =
   "https://www.mtr.com.hk/en/customer/services/train_service_index.html";
 
-type LabelMapping = { company: Company; routeId: string };
+// Key: MTR route id (e.g. "ISL", "TKL-TKS"). Same shape as LrtIntervalMap so
+// both companies expose intervals identically.
+export type MtrIntervalMap = Record<string, Schedule>;
+
+type LabelMapping = { routeId: string };
 
 const LABEL_TO_ROUTE: Record<string, LabelMapping | LabelMapping[]> = {
-  "Island Line": { company: Company.MTR, routeId: "ISL" },
-  "Tsuen Wan Line": { company: Company.MTR, routeId: "TWL" },
-  "Tiu Keng Leng-Ho Man Tin": { company: Company.MTR, routeId: "KTL" },
-  "North Point-Po Lam": { company: Company.MTR, routeId: "TKL" },
-  "Tiu Keng Leng-LOHAS Park": { company: Company.MTR, routeId: "TKL-TKS" },
-  "South Island Line": { company: Company.MTR, routeId: "SIL" },
-  "Hong Kong-Tung Chung": { company: Company.MTR, routeId: "TCL" },
-  "Disneyland Resort Line": { company: Company.MTR, routeId: "DRL" },
-  "Tuen Ma Line": { company: Company.MTR, routeId: "TML" },
-  "Admiralty-Lo Wu": { company: Company.MTR, routeId: "EAL" },
-  "Admiralty-Lok Ma Chau": { company: Company.MTR, routeId: "EAL-LMC" },
-  "Airport Express": { company: Company.MTR, routeId: "AEL" },
+  "Island Line": { routeId: "ISL" },
+  "Tsuen Wan Line": { routeId: "TWL" },
+  "Tiu Keng Leng-Ho Man Tin": { routeId: "KTL" },
+  "North Point-Po Lam": { routeId: "TKL" },
+  "Tiu Keng Leng-LOHAS Park": { routeId: "TKL-TKS" },
+  "South Island Line": { routeId: "SIL" },
+  "Hong Kong-Tung Chung": { routeId: "TCL" },
+  "Disneyland Resort Line": { routeId: "DRL" },
+  "Tuen Ma Line": { routeId: "TML" },
+  "Admiralty-Lo Wu": { routeId: "EAL" },
+  "Admiralty-Lok Ma Chau": { routeId: "EAL-LMC" },
+  "Airport Express": { routeId: "AEL" },
 };
 
-const MTR_TYPE_WEEKDAY_AM_PEAK = "1111100AM";
-const MTR_TYPE_WEEKDAY_PM_PEAK = "1111100PM";
-const MTR_TYPE_WEEKDAY_NON_PEAK = "1111100";
-const MTR_TYPE_SATURDAY = "0000010";
-const MTR_TYPE_SUN_PH = "0000001";
+const WEEKDAY_CODE_WEEKDAY = "1111100";
+const WEEKDAY_CODE_SATURDAY = "0000010";
+const WEEKDAY_CODE_SUN_PH = "0000001";
 
-export type MtrIntervalValue = string;
-
-// MTR-only intervals: keyed by `${company}-${routeId}` (no direction). Value
-// is one entry per interval-page column (mtrWeekDayType1..5). Directions
-// share intervals on the source page.
-export type MtrIntervals = Record<string, Record<string, MtrIntervalValue>>;
+const KEY_AM_PEAK = "AM-Peak";
+const KEY_PM_PEAK = "PM-Peak";
+const KEY_NON_PEAK = "Non-Peak";
+const KEY_ALL_DAY = "All-Day";
 
 type IntervalCache = { html: string };
 
@@ -98,10 +98,10 @@ async function fetchIntervalHtml(options: { cachePath?: string } = {}): Promise<
 
 export async function transformInterval(
   options: { cachePath?: string } = {},
-): Promise<MtrIntervals> {
+): Promise<MtrIntervalMap> {
   const html = await fetchIntervalHtml({ cachePath: options.cachePath });
   const rows = parseTable(html);
-  const mtr: MtrIntervals = {};
+  const mtr: MtrIntervalMap = {};
   const seenLabels = new Set<string>();
   const knownLabels = new Set(Object.keys(LABEL_TO_ROUTE));
 
@@ -118,14 +118,15 @@ export async function transformInterval(
     const sun = normaliseCell(sunRaw ?? "");
 
     for (const m of toMappings(mapping)) {
-      const key = `${m.company}-${m.routeId}`;
-      const entry: Record<string, string> = {};
-      if (am !== undefined) entry[MTR_TYPE_WEEKDAY_AM_PEAK] = am;
-      if (pm !== undefined) entry[MTR_TYPE_WEEKDAY_PM_PEAK] = pm;
-      if (non !== undefined) entry[MTR_TYPE_WEEKDAY_NON_PEAK] = non;
-      if (sat !== undefined) entry[MTR_TYPE_SATURDAY] = sat;
-      if (sun !== undefined) entry[MTR_TYPE_SUN_PH] = sun;
-      if (Object.keys(entry).length > 0) mtr[key] = entry;
+      const schedule: Schedule = {};
+      const weekday: Record<string, string> = {};
+      if (am !== undefined) weekday[KEY_AM_PEAK] = am;
+      if (pm !== undefined) weekday[KEY_PM_PEAK] = pm;
+      if (non !== undefined) weekday[KEY_NON_PEAK] = non;
+      if (Object.keys(weekday).length > 0) schedule[WEEKDAY_CODE_WEEKDAY] = weekday;
+      if (sat !== undefined) schedule[WEEKDAY_CODE_SATURDAY] = { [KEY_ALL_DAY]: sat };
+      if (sun !== undefined) schedule[WEEKDAY_CODE_SUN_PH] = { [KEY_ALL_DAY]: sun };
+      if (Object.keys(schedule).length > 0) mtr[m.routeId] = schedule;
     }
   }
 

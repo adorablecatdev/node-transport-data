@@ -1,6 +1,6 @@
-import { Company } from "../../../types/types.js";
+import { Company } from "../../../types.js";
 import { readJsonIfExists, removeDirIfExists, writeJson } from "../../../lib/io.js";
-import type { Timetable } from "../../../types/types.js";
+import type { Timetable } from "../../../types.js";
 import { fetchAllRouteInfos, type GmbRegion } from "./api.js";
 import { transformGmb, type GmbRouteRecord } from "./transform.js";
 
