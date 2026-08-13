@@ -23,6 +23,7 @@ export async function run(options: { fresh?: boolean } = {}): Promise<void> {
     await removeDirIfExists(CACHE_DIR);
   }
 
+  
   const uniqueRoutes = [
     ...new Set(
       Object.values(routesJson)
