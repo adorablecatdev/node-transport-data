@@ -20,7 +20,9 @@ export type LrtRouteStopsOutput = {
 };
 
 function stopCoords(stopId: string): { lat: number; long: number } {
-  const loc = STOP_LOCATION[stopId];
+  // The MTR open-data CSV drops leading zeros for stops below 100 (e.g. "60"),
+  // but STOP_LOCATION keys are zero-padded to 3 digits ("060"). Try both.
+  const loc = STOP_LOCATION[stopId] ?? STOP_LOCATION[stopId.padStart(3, "0")];
   if (!loc) return { lat: NaN, long: NaN };
   return { lat: Number(loc.lat), long: Number(loc.long) };
 }
