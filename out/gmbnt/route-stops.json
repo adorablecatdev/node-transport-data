@@ -26702,115 +26702,6 @@
       }
     ]
   },
-  "GMBNT-301M-2001889-1": {
-    "record_id": "GMBNT-301M-2001889-1",
-    "company": "GMBNT",
-    "route_id": "2001889",
-    "route": "301M",
-    "route_seq": 1,
-    "region": "NT",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "20002381",
-        "name": {
-          "en": "Tsuen Wan West Station Public Transport Interchange",
-          "tc": "荃灣西站公共運輸交匯處",
-          "sc": "荃湾西站公共运输交汇处"
-        },
-        "lat": 22.368801407990958,
-        "long": 114.10962715464257
-      },
-      {
-        "seq": 2,
-        "stop_id": "20020496",
-        "name": {
-          "en": "Hoi Shing Road, outside Tsuen Wan Plaza",
-          "tc": "海盛路, 荃灣廣場外",
-          "sc": "海盛路, 荃湾广场外"
-        },
-        "lat": 22.370282248013208,
-        "long": 114.11117076873781
-      },
-      {
-        "seq": 3,
-        "stop_id": "20002069",
-        "name": {
-          "en": "Hoi Shing Road, opposite Cable Tv Tower",
-          "tc": "海盛路, 有線電視大樓對面",
-          "sc": "海盛路, 有线电视大楼对面"
-        },
-        "lat": 22.372502765484864,
-        "long": 114.10688725907647
-      },
-      {
-        "seq": 4,
-        "stop_id": "20002070",
-        "name": {
-          "en": "Opposite Po On Commercial Association Wong Siu Ching Secondary School",
-          "tc": "大涌道, 寶安商會王少清中學對面",
-          "sc": "大涌道, 宝安商会王少清中学对面"
-        },
-        "lat": 22.37173633877968,
-        "long": 114.10964516499975
-      },
-      {
-        "seq": 5,
-        "stop_id": "20001876",
-        "name": {
-          "en": "Tai Ho Road No.30",
-          "tc": "大河道30號",
-          "sc": "大河道30号"
-        },
-        "lat": 22.372127082757828,
-        "long": 114.11578145462688
-      },
-      {
-        "seq": 6,
-        "stop_id": "20001877",
-        "name": {
-          "en": "No.287 Castle Peak Road-Tsuen Wan",
-          "tc": "青山公路荃灣段287號",
-          "sc": "青山公路荃湾段287号"
-        },
-        "lat": 22.373382465175627,
-        "long": 114.11614987586186
-      },
-      {
-        "seq": 7,
-        "stop_id": "20001873",
-        "name": {
-          "en": "Sai Lau Kok Road opposite to Nan Fung Centre",
-          "tc": "西樓角路南豐中心對面",
-          "sc": "西楼角路南丰中心对面"
-        },
-        "lat": 22.37409600040671,
-        "long": 114.11647969813795
-      },
-      {
-        "seq": 8,
-        "stop_id": "20002062",
-        "name": {
-          "en": "Po On Commercial Association Wong Siu Ching Secondary School",
-          "tc": "大涌道, 寶安商會王少清中學外",
-          "sc": "大涌道, 宝安商会王少清中学外"
-        },
-        "lat": 22.371438419825765,
-        "long": 114.10985891846228
-      },
-      {
-        "seq": 9,
-        "stop_id": "20002381",
-        "name": {
-          "en": "Tsuen Wan West Station Public Transport Interchange",
-          "tc": "荃灣西站公共運輸交匯處",
-          "sc": "荃湾西站公共运输交汇处"
-        },
-        "lat": 22.368801407990958,
-        "long": 114.10962715464257
-      }
-    ]
-  },
   "GMBNT-302-2001890-1": {
     "record_id": "GMBNT-302-2001890-1",
     "company": "GMBNT",
@@ -52730,12 +52621,23 @@
         "seq": 6,
         "stop_id": "20018115",
         "name": {
+          "en": "Cheung Lek",
+          "tc": "長瀝",
+          "sc": "长沥"
+        },
+        "lat": 22.484632743157537,
+        "long": 114.10110846161844
+      },
+      {
+        "seq": 7,
+        "stop_id": "20023263",
+        "name": {
           "en": "Fanling (Tong Kung Leng) Minibus Terminus",
           "tc": "粉嶺(唐公嶺)小巴總站",
           "sc": "粉岭(唐公岭)小巴总站"
         },
-        "lat": 22.484632743157537,
-        "long": 114.10110846161844
+        "lat": 22.484748140978567,
+        "long": 114.10640850663187
       }
     ]
   },
@@ -52749,14 +52651,14 @@
     "stops": [
       {
         "seq": 1,
-        "stop_id": "20018115",
+        "stop_id": "20023263",
         "name": {
           "en": "Fanling (Tong Kung Leng) Minibus Terminus",
           "tc": "粉嶺(唐公嶺)小巴總站",
           "sc": "粉岭(唐公岭)小巴总站"
         },
-        "lat": 22.484632743157537,
-        "long": 114.10110846161844
+        "lat": 22.484748140978567,
+        "long": 114.10640850663187
       },
       {
         "seq": 2,
@@ -60928,6 +60830,17 @@
       },
       {
         "seq": 5,
+        "stop_id": "20023362",
+        "name": {
+          "en": "Tai Chung Kiu Road, near City One Shatin Block 5",
+          "tc": "大涌橋路, 近沙田第一城第五座",
+          "sc": "大涌桥路, 近沙田第一城第五座"
+        },
+        "lat": 22.388896071313717,
+        "long": 114.20252680778503
+      },
+      {
+        "seq": 6,
         "stop_id": "20001505",
         "name": {
           "en": "Au Pui Wan Street, Near Kin Ho Industrial Building Block 2",
@@ -60938,7 +60851,7 @@
         "long": 114.19518034445262
       },
       {
-        "seq": 6,
+        "seq": 7,
         "stop_id": "20017325",
         "name": {
           "en": "Fo Tan (Au Pui Wan Street)  Public Transport Interchange",
@@ -60949,7 +60862,7 @@
         "long": 114.19744670391084
       },
       {
-        "seq": 7,
+        "seq": 8,
         "stop_id": "20006610",
         "name": {
           "en": "Siu Lek Yuen Road, Outside Siu Lek Yuen Road Playground",
@@ -60960,7 +60873,7 @@
         "long": 114.20436545963452
       },
       {
-        "seq": 8,
+        "seq": 9,
         "stop_id": "20001550",
         "name": {
           "en": "Ngau Pei Sha Street, Opposite Yu Chui Court",
@@ -60971,7 +60884,7 @@
         "long": 114.20631595187226
       },
       {
-        "seq": 9,
+        "seq": 10,
         "stop_id": "20001551",
         "name": {
           "en": "Siu Lei Yuen Road, Outside Castello",
@@ -60982,7 +60895,7 @@
         "long": 114.21503612571924
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "20001544",
         "name": {
           "en": "Wong Nai Tau Bus Terminus",
@@ -66163,10 +66076,10 @@
       }
     ]
   },
-  "GMBNT-78-2003702-1": {
-    "record_id": "GMBNT-78-2003702-1",
+  "GMBNT-78-2011655-1": {
+    "record_id": "GMBNT-78-2011655-1",
     "company": "GMBNT",
-    "route_id": "2003702",
+    "route_id": "2011655",
     "route": "78",
     "route_seq": 1,
     "region": "NT",
@@ -66239,10 +66152,10 @@
       }
     ]
   },
-  "GMBNT-78-2003702-2": {
-    "record_id": "GMBNT-78-2003702-2",
+  "GMBNT-78-2011655-2": {
+    "record_id": "GMBNT-78-2011655-2",
     "company": "GMBNT",
-    "route_id": "2003702",
+    "route_id": "2011655",
     "route": "78",
     "route_seq": 2,
     "region": "NT",
@@ -66306,7 +66219,7 @@
         "seq": 6,
         "stop_id": "20007107",
         "name": {
-          "en": "Kam Tin Road, Near Ko Po Tsuen",
+          "en": "Kam Tin Road Near Ko Po Tsuen",
           "tc": "錦田公路, 近高埔村",
           "sc": "锦田公路, 近高埔村"
         },
@@ -66337,24 +66250,24 @@
       }
     ]
   },
-  "GMBNT-78A-2003704-1": {
-    "record_id": "GMBNT-78A-2003704-1",
+  "GMBNT-78A-2011656-1": {
+    "record_id": "GMBNT-78A-2011656-1",
     "company": "GMBNT",
-    "route_id": "2003704",
+    "route_id": "2011656",
     "route": "78A",
     "route_seq": 1,
     "region": "NT",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "20016894",
+        "stop_id": "20023032",
         "name": {
           "en": "Kam Sheung Road Station Public Transport Interchange",
           "tc": "錦上路站公共運輸交匯處",
           "sc": "锦上路站公共运输交汇处"
         },
-        "lat": 22.43463474656554,
-        "long": 114.06491405703265
+        "lat": 22.43342272438756,
+        "long": 114.06339526176454
       },
       {
         "seq": 2,
@@ -66369,10 +66282,10 @@
       }
     ]
   },
-  "GMBNT-78A-2003704-2": {
-    "record_id": "GMBNT-78A-2003704-2",
+  "GMBNT-78A-2011656-2": {
+    "record_id": "GMBNT-78A-2011656-2",
     "company": "GMBNT",
-    "route_id": "2003704",
+    "route_id": "2011656",
     "route": "78A",
     "route_seq": 2,
     "region": "NT",
@@ -66390,14 +66303,14 @@
       },
       {
         "seq": 2,
-        "stop_id": "20016894",
+        "stop_id": "20023032",
         "name": {
           "en": "Kam Sheung Road Station Public Transport Interchange",
           "tc": "錦上路站公共運輸交匯處",
           "sc": "锦上路站公共运输交汇处"
         },
-        "lat": 22.43463474656554,
-        "long": 114.06491405703265
+        "lat": 22.43342272438756,
+        "long": 114.06339526176454
       }
     ]
   },

@@ -17290,77 +17290,6 @@
       ]
     },
     {
-      "route_code": "301M",
-      "variant_index": 1,
-      "route_id": 2001889,
-      "route_seq": 1,
-      "stops": [
-        {
-          "stop_seq": 1,
-          "stop_id": 20002381,
-          "name_tc": "荃灣西站公共運輸交匯處",
-          "name_sc": "荃湾西站公共运输交汇处",
-          "name_en": "Tsuen Wan West Station Public Transport Interchange"
-        },
-        {
-          "stop_seq": 2,
-          "stop_id": 20020496,
-          "name_tc": "海盛路, 荃灣廣場外",
-          "name_sc": "海盛路, 荃湾广场外",
-          "name_en": "Hoi Shing Road, outside Tsuen Wan Plaza"
-        },
-        {
-          "stop_seq": 3,
-          "stop_id": 20002069,
-          "name_tc": "海盛路, 有線電視大樓對面",
-          "name_sc": "海盛路, 有线电视大楼对面",
-          "name_en": "Hoi Shing Road, opposite Cable Tv Tower"
-        },
-        {
-          "stop_seq": 4,
-          "stop_id": 20002070,
-          "name_tc": "大涌道, 寶安商會王少清中學對面",
-          "name_sc": "大涌道, 宝安商会王少清中学对面",
-          "name_en": "Opposite Po On Commercial Association Wong Siu Ching Secondary School"
-        },
-        {
-          "stop_seq": 5,
-          "stop_id": 20001876,
-          "name_tc": "大河道30號",
-          "name_sc": "大河道30号",
-          "name_en": "Tai Ho Road No.30"
-        },
-        {
-          "stop_seq": 6,
-          "stop_id": 20001877,
-          "name_tc": "青山公路荃灣段287號",
-          "name_sc": "青山公路荃湾段287号",
-          "name_en": "No.287 Castle Peak Road-Tsuen Wan"
-        },
-        {
-          "stop_seq": 7,
-          "stop_id": 20001873,
-          "name_tc": "西樓角路南豐中心對面",
-          "name_sc": "西楼角路南丰中心对面",
-          "name_en": "Sai Lau Kok Road opposite to Nan Fung Centre"
-        },
-        {
-          "stop_seq": 8,
-          "stop_id": 20002062,
-          "name_tc": "大涌道, 寶安商會王少清中學外",
-          "name_sc": "大涌道, 宝安商会王少清中学外",
-          "name_en": "Po On Commercial Association Wong Siu Ching Secondary School"
-        },
-        {
-          "stop_seq": 9,
-          "stop_id": 20002381,
-          "name_tc": "荃灣西站公共運輸交匯處",
-          "name_sc": "荃湾西站公共运输交汇处",
-          "name_en": "Tsuen Wan West Station Public Transport Interchange"
-        }
-      ]
-    },
-    {
       "route_code": "302",
       "variant_index": 1,
       "route_id": 2001890,
@@ -34176,6 +34105,13 @@
         {
           "stop_seq": 6,
           "stop_id": 20018115,
+          "name_tc": "長瀝",
+          "name_sc": "长沥",
+          "name_en": "Cheung Lek"
+        },
+        {
+          "stop_seq": 7,
+          "stop_id": 20023263,
           "name_tc": "粉嶺(唐公嶺)小巴總站",
           "name_sc": "粉岭(唐公岭)小巴总站",
           "name_en": "Fanling (Tong Kung Leng) Minibus Terminus"
@@ -34190,7 +34126,7 @@
       "stops": [
         {
           "stop_seq": 1,
-          "stop_id": 20018115,
+          "stop_id": 20023263,
           "name_tc": "粉嶺(唐公嶺)小巴總站",
           "name_sc": "粉岭(唐公岭)小巴总站",
           "name_en": "Fanling (Tong Kung Leng) Minibus Terminus"
@@ -39547,41 +39483,48 @@
         },
         {
           "stop_seq": 5,
+          "stop_id": 20023362,
+          "name_tc": "大涌橋路, 近沙田第一城第五座",
+          "name_sc": "大涌桥路, 近沙田第一城第五座",
+          "name_en": "Tai Chung Kiu Road, near City One Shatin Block 5"
+        },
+        {
+          "stop_seq": 6,
           "stop_id": 20001505,
           "name_tc": "㘭背灣街, 近金豪工業大廈金豪工業大厦第二座",
           "name_sc": "㘭背湾街, 近金豪工业大厦金豪工业大厦第二座",
           "name_en": "Au Pui Wan Street, Near Kin Ho Industrial Building Block 2"
         },
         {
-          "stop_seq": 6,
+          "stop_seq": 7,
           "stop_id": 20017325,
           "name_tc": "火炭（㘭背灣街）公共運輸交匯處",
           "name_sc": "火炭（㘭背湾街）公共运输交汇处",
           "name_en": "Fo Tan (Au Pui Wan Street)  Public Transport Interchange"
         },
         {
-          "stop_seq": 7,
+          "stop_seq": 8,
           "stop_id": 20006610,
           "name_tc": "小瀝源路, 小瀝源路遊樂場外",
           "name_sc": "小沥源路, 小沥源路游乐场外",
           "name_en": "Siu Lek Yuen Road, Outside Siu Lek Yuen Road Playground"
         },
         {
-          "stop_seq": 8,
+          "stop_seq": 9,
           "stop_id": 20001550,
           "name_tc": "牛皮沙街, 愉翠苑對面",
           "name_sc": "牛皮沙街, 愉翠苑对面",
           "name_en": "Ngau Pei Sha Street, Opposite Yu Chui Court"
         },
         {
-          "stop_seq": 9,
+          "stop_seq": 10,
           "stop_id": 20001551,
           "name_tc": "小瀝源路, 帝堡城外",
           "name_sc": "小沥源路, 帝堡城外",
           "name_en": "Siu Lei Yuen Road, Outside Castello"
         },
         {
-          "stop_seq": 10,
+          "stop_seq": 11,
           "stop_id": 20001544,
           "name_tc": "黃泥頭巴士總站",
           "name_sc": "黄泥头巴士总站",
@@ -42955,7 +42898,7 @@
     {
       "route_code": "78",
       "variant_index": 1,
-      "route_id": 2003702,
+      "route_id": 2011655,
       "route_seq": 1,
       "stops": [
         {
@@ -43005,7 +42948,7 @@
     {
       "route_code": "78",
       "variant_index": 1,
-      "route_id": 2003702,
+      "route_id": 2011655,
       "route_seq": 2,
       "stops": [
         {
@@ -43048,7 +42991,7 @@
           "stop_id": 20007107,
           "name_tc": "錦田公路, 近高埔村",
           "name_sc": "锦田公路, 近高埔村",
-          "name_en": "Kam Tin Road, Near Ko Po Tsuen"
+          "name_en": "Kam Tin Road Near Ko Po Tsuen"
         },
         {
           "stop_seq": 7,
@@ -43069,12 +43012,12 @@
     {
       "route_code": "78A",
       "variant_index": 1,
-      "route_id": 2003704,
+      "route_id": 2011656,
       "route_seq": 1,
       "stops": [
         {
           "stop_seq": 1,
-          "stop_id": 20016894,
+          "stop_id": 20023032,
           "name_tc": "錦上路站公共運輸交匯處",
           "name_sc": "锦上路站公共运输交汇处",
           "name_en": "Kam Sheung Road Station Public Transport Interchange"
@@ -43091,7 +43034,7 @@
     {
       "route_code": "78A",
       "variant_index": 1,
-      "route_id": 2003704,
+      "route_id": 2011656,
       "route_seq": 2,
       "stops": [
         {
@@ -43103,7 +43046,7 @@
         },
         {
           "stop_seq": 2,
-          "stop_id": 20016894,
+          "stop_id": 20023032,
           "name_tc": "錦上路站公共運輸交匯處",
           "name_sc": "锦上路站公共运输交汇处",
           "name_en": "Kam Sheung Road Station Public Transport Interchange"

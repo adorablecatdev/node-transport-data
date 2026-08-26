@@ -971,6 +971,24 @@
       "sc": "兴田 (碧云道)"
     }
   },
+  "GMBKLN-24S-2011622-1": {
+    "record_id": "GMBKLN-24S-2011622-1",
+    "company": "GMBKLN",
+    "route_id": "2011622",
+    "route": "24S",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Yau Tong (Tung Yuen Street)",
+      "tc": "油塘 (東源街)",
+      "sc": "油塘 (东源街)"
+    },
+    "destination": {
+      "en": "Yau Tong (Ko Chiu Road)(Circular)",
+      "tc": "油塘 (高超道)(循環線)",
+      "sc": "油塘 (高超道)(循环线)"
+    }
+  },
   "GMBKLN-25A-2006045-1": {
     "record_id": "GMBKLN-25A-2006045-1",
     "company": "GMBKLN",

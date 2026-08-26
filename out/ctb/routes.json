@@ -2543,22 +2543,6 @@
       "sc": "北角码头"
     }
   },
-  "CTB-47P-O": {
-    "record_id": "CTB-47P-O",
-    "company": "CTB",
-    "route": "47P",
-    "bound": "O",
-    "origin": {
-      "en": "Kennedy Town",
-      "tc": "堅尼地城",
-      "sc": "坚尼地城"
-    },
-    "destination": {
-      "en": "Wong Chuk Hang",
-      "tc": "黃竹坑",
-      "sc": "黄竹坑"
-    }
-  },
   "CTB-48-I": {
     "record_id": "CTB-48-I",
     "company": "CTB",
@@ -3693,38 +3677,6 @@
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
-    }
-  },
-  "CTB-66-I": {
-    "record_id": "CTB-66-I",
-    "company": "CTB",
-    "route": "66",
-    "bound": "I",
-    "origin": {
-      "en": "Stanley Plaza (Ma Hang)",
-      "tc": "赤柱廣場 (馬坑)",
-      "sc": "赤柱广场 (马坑)"
-    },
-    "destination": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    }
-  },
-  "CTB-66-O": {
-    "record_id": "CTB-66-O",
-    "company": "CTB",
-    "route": "66",
-    "bound": "O",
-    "origin": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "destination": {
-      "en": "Stanley Plaza (Ma Hang)",
-      "tc": "赤柱廣場 (馬坑)",
-      "sc": "赤柱广场 (马坑)"
     }
   },
   "CTB-671-I": {
@@ -8277,14 +8229,14 @@
     "route": "A20",
     "bound": "I",
     "origin": {
-      "en": "Airport",
-      "tc": "機場",
-      "sc": "机场"
+      "en": "Airport (via HZMB Hong Kong Port)",
+      "tc": "機場 (經港珠澳大橋香港口岸)",
+      "sc": "机场 (经港珠澳大桥香港口岸)"
     },
     "destination": {
-      "en": "Hung Hom Station",
-      "tc": "紅磡站",
-      "sc": "红磡站"
+      "en": "Ho Man Tin",
+      "tc": "何文田",
+      "sc": "何文田"
     }
   },
   "CTB-A20-O": {
@@ -8293,14 +8245,14 @@
     "route": "A20",
     "bound": "O",
     "origin": {
-      "en": "Hung Hom Station",
-      "tc": "紅磡站",
-      "sc": "红磡站"
+      "en": "Ho Man Tin",
+      "tc": "何文田",
+      "sc": "何文田"
     },
     "destination": {
-      "en": "Airport",
-      "tc": "機場",
-      "sc": "机场"
+      "en": "Airport (via HZMB Hong Kong Port)",
+      "tc": "機場 (經港珠澳大橋香港口岸)",
+      "sc": "机场 (经港珠澳大桥香港口岸)"
     }
   },
   "CTB-A21-I": {
@@ -10469,9 +10421,9 @@
     "route": "NA21",
     "bound": "I",
     "origin": {
-      "en": "Tai Kok Tsui (Hoi Fai Road)",
-      "tc": "大角咀 (海輝道)",
-      "sc": "大角咀 (海辉道)"
+      "en": "Mongkok /  Nam Cheong",
+      "tc": "旺角 / 南昌",
+      "sc": "旺角 / 南昌"
     },
     "destination": {
       "en": "Airport / HZMB Hong Kong Port",
@@ -10490,9 +10442,9 @@
       "sc": "机场 / 港珠澳大桥香港口岸"
     },
     "destination": {
-      "en": "Tai Kok Tsui (Hoi Fai Road)",
-      "tc": "大角咀 (海輝道)",
-      "sc": "大角咀 (海辉道)"
+      "en": "Mongkok /  Nam Cheong",
+      "tc": "旺角 / 南昌",
+      "sc": "旺角 / 南昌"
     }
   },
   "CTB-NA29-I": {

@@ -6790,10 +6790,10 @@
         },
         {
           "stop_seq": 5,
-          "stop_id": 20002713,
-          "name_tc": "羅便臣道1號",
-          "name_sc": "罗便臣道1号",
-          "name_en": "No.1 Robinson Road"
+          "stop_id": 20023231,
+          "name_tc": "羅便臣道1A號",
+          "name_sc": "罗便臣道1A号",
+          "name_en": "No.1A Robinson Road"
         },
         {
           "stop_seq": 6,
@@ -14405,10 +14405,10 @@
         },
         {
           "stop_seq": 17,
-          "stop_id": 20002713,
-          "name_tc": "羅便臣道1號",
-          "name_sc": "罗便臣道1号",
-          "name_en": "Robinson Road, house no. 1"
+          "stop_id": 20023231,
+          "name_tc": "羅便臣道1A號",
+          "name_sc": "罗便臣道1A号",
+          "name_en": "No.1A Robinson Road"
         },
         {
           "stop_seq": 18,
@@ -14694,10 +14694,10 @@
         },
         {
           "stop_seq": 11,
-          "stop_id": 20002713,
-          "name_tc": "羅便臣道1號",
-          "name_sc": "罗便臣道1号",
-          "name_en": "No.1 Robinson Road"
+          "stop_id": 20023231,
+          "name_tc": "羅便臣道1A號",
+          "name_sc": "罗便臣道1A号",
+          "name_en": "No.1A Robinson Road"
         },
         {
           "stop_seq": 12,
@@ -14983,10 +14983,10 @@
         },
         {
           "stop_seq": 16,
-          "stop_id": 20002713,
-          "name_tc": "羅便臣道1號",
-          "name_sc": "罗便臣道1号",
-          "name_en": "No.1 Robinson Road"
+          "stop_id": 20023231,
+          "name_tc": "羅便臣道1A號",
+          "name_sc": "罗便臣道1A号",
+          "name_en": "No.1A Robinson Road"
         },
         {
           "stop_seq": 17,
@@ -15005,16 +15005,16 @@
         {
           "stop_seq": 19,
           "stop_id": 20003565,
-          "name_tc": "羅便臣道65號",
-          "name_sc": "罗便臣道65号",
-          "name_en": "No.65 Robinson Road"
+          "name_tc": "羅便臣道, 近燕貽大廈",
+          "name_sc": "罗便臣道, 近燕贻大厦",
+          "name_en": "Robinson Road, near Yin Yee Mansion"
         },
         {
           "stop_seq": 20,
           "stop_id": 20003566,
-          "name_tc": "羅便臣道, 近燕貽大廈",
-          "name_sc": "罗便臣道, 近燕贻大厦",
-          "name_en": "Robinson Road, near Yin Yee Mansion"
+          "name_tc": "羅便臣道, 英華女學校對面",
+          "name_sc": "罗便臣道, 英华女学校对面",
+          "name_en": "Robinson Road, opposite Ying Wa Girls’ School"
         },
         {
           "stop_seq": 21,

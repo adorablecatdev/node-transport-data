@@ -373,23 +373,6 @@
       "sc": "慈云山(中)"
     }
   },
-  "KMB-3B-I-2": {
-    "record_id": "KMB-3B-I-2",
-    "company": "KMB",
-    "route": "3B",
-    "bound": "I",
-    "service_type": "2",
-    "origin": {
-      "en": "HUNG HOM (HUNG LUEN ROAD)",
-      "tc": "紅磡(紅鸞道)",
-      "sc": "红磡(红鸾道)"
-    },
-    "destination": {
-      "en": "TSZ WAN SHAN (CENTRAL)",
-      "tc": "慈雲山(中)",
-      "sc": "慈云山(中)"
-    }
-  },
   "KMB-3C-O-1": {
     "record_id": "KMB-3C-O-1",
     "company": "KMB",
@@ -1315,6 +1298,23 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
+      "en": "TSZ WAN SHAN (CENTRAL)",
+      "tc": "慈雲山(中)",
+      "sc": "慈云山(中)"
+    },
+    "destination": {
+      "en": "KOWLOON STATION",
+      "tc": "九龍站",
+      "sc": "九龙站"
+    }
+  },
+  "KMB-11-O-2": {
+    "record_id": "KMB-11-O-2",
+    "company": "KMB",
+    "route": "11",
+    "bound": "O",
+    "service_type": "2",
+    "origin": {
       "en": "DIAMOND HILL STATION",
       "tc": "鑽石山站",
       "sc": "钻石山站"
@@ -1337,9 +1337,26 @@
       "sc": "九龙站"
     },
     "destination": {
-      "en": "DIAMOND HILL STATION",
-      "tc": "鑽石山站",
-      "sc": "钻石山站"
+      "en": "TSZ WAN SHAN (CENTRAL)",
+      "tc": "慈雲山(中)",
+      "sc": "慈云山(中)"
+    }
+  },
+  "KMB-11-I-2": {
+    "record_id": "KMB-11-I-2",
+    "company": "KMB",
+    "route": "11",
+    "bound": "I",
+    "service_type": "2",
+    "origin": {
+      "en": "KOWLOON STATION",
+      "tc": "九龍站",
+      "sc": "九龙站"
+    },
+    "destination": {
+      "en": "TSZ WAN SHAN (CENTRAL)",
+      "tc": "慈雲山(中)",
+      "sc": "慈云山(中)"
     }
   },
   "KMB-11B-O-1": {
@@ -2309,6 +2326,23 @@
       "en": "KWUN TONG (YUE MAN SQUARE)",
       "tc": "觀塘(裕民坊)",
       "sc": "观塘(裕民坊)"
+    }
+  },
+  "KMB-17P-O-1": {
+    "record_id": "KMB-17P-O-1",
+    "company": "KMB",
+    "route": "17P",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "SHUN TIN",
+      "tc": "順天",
+      "sc": "顺天"
+    },
+    "destination": {
+      "en": "HO MAN TIN (OI MAN ESTATE)",
+      "tc": "何文田(愛民邨)",
+      "sc": "何文田(爱民邨)"
     }
   },
   "KMB-18-O-1": {
@@ -8098,7 +8132,7 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+      "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
       "tc": "攸壆路簡約公屋 (南)",
       "sc": "攸壆路简约公屋 (南)"
     },
@@ -8191,6 +8225,40 @@
       "en": "FANLING STATION",
       "tc": "粉嶺站",
       "sc": "粉岭站"
+    }
+  },
+  "KMB-77-O-1": {
+    "record_id": "KMB-77-O-1",
+    "company": "KMB",
+    "route": "77",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "FUNG WONG LENG ESTATE",
+      "tc": "鳳凰嶺邨",
+      "sc": "凤凰岭邨"
+    },
+    "destination": {
+      "en": "SHEUNG SHUI (TAI PING)",
+      "tc": "上水(太平)",
+      "sc": "上水(太平)"
+    }
+  },
+  "KMB-77-I-1": {
+    "record_id": "KMB-77-I-1",
+    "company": "KMB",
+    "route": "77",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "SHEUNG SHUI (TAI PING)",
+      "tc": "上水(太平)",
+      "sc": "上水(太平)"
+    },
+    "destination": {
+      "en": "FUNG WONG LENG ESTATE",
+      "tc": "鳳凰嶺邨",
+      "sc": "凤凰岭邨"
     }
   },
   "KMB-77K-O-1": {
@@ -8888,23 +8956,6 @@
       "en": "SUN TIN WAI",
       "tc": "新田圍",
       "sc": "新田围"
-    }
-  },
-  "KMB-81X-O-1": {
-    "record_id": "KMB-81X-O-1",
-    "company": "KMB",
-    "route": "81X",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "MEI TIN",
-      "tc": "美田",
-      "sc": "美田"
-    },
-    "destination": {
-      "en": "MONG KOK (BUTE STREET)",
-      "tc": "旺角 (弼街)",
-      "sc": "旺角 (弼街)"
     }
   },
   "KMB-82B-O-1": {
@@ -10177,9 +10228,9 @@
       "sc": "沙田围"
     },
     "destination": {
-      "en": "NGAU TAU KOK",
-      "tc": "牛頭角",
-      "sc": "牛头角"
+      "en": "CHOI HUNG",
+      "tc": "彩虹",
+      "sc": "彩虹"
     }
   },
   "KMB-89B-I-1": {
@@ -10189,9 +10240,9 @@
     "bound": "I",
     "service_type": "1",
     "origin": {
-      "en": "NGAU TAU KOK",
-      "tc": "牛頭角",
-      "sc": "牛头角"
+      "en": "CHOI HUNG",
+      "tc": "彩虹",
+      "sc": "彩虹"
     },
     "destination": {
       "en": "SHATIN WAI",
@@ -10454,23 +10505,6 @@
       "sc": "将军澳(彩明)"
     }
   },
-  "KMB-90-I-1": {
-    "record_id": "KMB-90-I-1",
-    "company": "KMB",
-    "route": "90",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "TSEUNG KWAN O (CHOI MING)",
-      "tc": "將軍澳(彩明)",
-      "sc": "将军澳(彩明)"
-    },
-    "destination": {
-      "en": "SHEK MUN ESTATE",
-      "tc": "碩門邨",
-      "sc": "硕门邨"
-    }
-  },
   "KMB-91-O-1": {
     "record_id": "KMB-91-O-1",
     "company": "KMB",
@@ -10602,9 +10636,9 @@
       "sc": "钻石山站"
     },
     "destination": {
-      "en": "H.K.U.S.T (NORTH)",
-      "tc": "香港科技大學(北)",
-      "sc": "香港科技大学(北)"
+      "en": "HONG KONG UNIVERSITY OF SCIENCE AND TEHNOLOGY",
+      "tc": "香港科技大學",
+      "sc": "香港科技大学"
     }
   },
   "KMB-91P-I-1": {
@@ -10801,9 +10835,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "PO LAM",
-      "tc": "寶林",
-      "sc": "宝林"
+      "en": "TSUI LAM",
+      "tc": "翠林",
+      "sc": "翠林"
     },
     "destination": {
       "en": "MONG KOK EAST STATION",
@@ -10823,9 +10857,9 @@
       "sc": "旺角东站"
     },
     "destination": {
-      "en": "PO LAM",
-      "tc": "寶林",
-      "sc": "宝林"
+      "en": "TSUI LAM",
+      "tc": "翠林",
+      "sc": "翠林"
     }
   },
   "KMB-93M-O-1": {
@@ -10940,40 +10974,6 @@
       "en": "KOWLOON STATION",
       "tc": "九龍站",
       "sc": "九龙站"
-    },
-    "destination": {
-      "en": "TSUI LAM",
-      "tc": "翠林",
-      "sc": "翠林"
-    }
-  },
-  "KMB-95M-O-1": {
-    "record_id": "KMB-95M-O-1",
-    "company": "KMB",
-    "route": "95M",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSUI LAM",
-      "tc": "翠林",
-      "sc": "翠林"
-    },
-    "destination": {
-      "en": "KWUN TONG (ELEGANCE ROAD)",
-      "tc": "觀塘(雅麗道)",
-      "sc": "观塘(雅丽道)"
-    }
-  },
-  "KMB-95M-I-1": {
-    "record_id": "KMB-95M-I-1",
-    "company": "KMB",
-    "route": "95M",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "KWUN TONG (ELEGANCE ROAD)",
-      "tc": "觀塘(雅麗道)",
-      "sc": "观塘(雅丽道)"
     },
     "destination": {
       "en": "TSUI LAM",
@@ -14218,9 +14218,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "HANDSOME COURT",
-      "tc": "恒順園",
-      "sc": "恒顺园"
+      "en": "HIN FAT ESTATE",
+      "tc": "顯發邨",
+      "sc": "显发邨"
     },
     "destination": {
       "en": "TSIM SHA TSUI",
@@ -14235,9 +14235,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "HANDSOME COURT",
-      "tc": "恒順園",
-      "sc": "恒顺园"
+      "en": "HIN FAT ESTATE",
+      "tc": "顯發邨",
+      "sc": "显发邨"
     },
     "destination": {
       "en": "KWUN TONG FERRY",
@@ -14269,9 +14269,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "HANDSOME COURT",
-      "tc": "恆順園",
-      "sc": "恒顺园"
+      "en": "HIN FAT ESTATE",
+      "tc": "顯發邨",
+      "sc": "显发邨"
     },
     "destination": {
       "en": "LAM TIN STATION",
@@ -15272,7 +15272,7 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+      "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
       "tc": "攸壆路簡約公屋 (南)",
       "sc": "攸壆路简约公屋 (南)"
     },
@@ -15294,7 +15294,7 @@
       "sc": "八乡路"
     },
     "destination": {
-      "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+      "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
       "tc": "攸壆路簡約公屋 (南)",
       "sc": "攸壆路简约公屋 (南)"
     }
@@ -16717,9 +16717,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "SHEUNG SHUI (CHOI YUEN)",
-      "tc": "上水(彩園)",
-      "sc": "上水(彩园)"
+      "en": "CHOI SHEK ESTATE",
+      "tc": "彩石邨",
+      "sc": "彩石邨"
     },
     "destination": {
       "en": "WAH MING (CIRCULAR)",
@@ -16734,9 +16734,9 @@
     "bound": "O",
     "service_type": "2",
     "origin": {
-      "en": "SHEUNG SHUI (CHOI YUEN)",
-      "tc": "上水(彩園)",
-      "sc": "上水(彩园)"
+      "en": "CHOI SHEK ESTATE",
+      "tc": "彩石邨",
+      "sc": "彩石邨"
     },
     "destination": {
       "en": "WAH MING (CIRCULAR)",
@@ -16751,14 +16751,14 @@
     "bound": "O",
     "service_type": "3",
     "origin": {
-      "en": "FANLING (WAH MING)",
-      "tc": "粉嶺(華明)",
-      "sc": "粉岭(华明)"
+      "en": "CHOI SHEK ESTATE",
+      "tc": "彩石邨",
+      "sc": "彩石邨"
     },
     "destination": {
-      "en": "SHEUNG SHUI (CHOI YUEN)",
-      "tc": "上水(彩園)",
-      "sc": "上水(彩园)"
+      "en": "WAH MING (CIRCULAR)",
+      "tc": "華明(循環線)",
+      "sc": "华明(循环线)"
     }
   },
   "KMB-273A-O-4": {
@@ -16768,65 +16768,14 @@
     "bound": "O",
     "service_type": "4",
     "origin": {
+      "en": "FANLING (WAH MING)",
+      "tc": "粉嶺(華明)",
+      "sc": "粉岭(华明)"
+    },
+    "destination": {
       "en": "CHOI SHEK ESTATE",
       "tc": "彩石邨",
       "sc": "彩石邨"
-    },
-    "destination": {
-      "en": "WAH MING (CIRCULAR)",
-      "tc": "華明(循環線)",
-      "sc": "华明(循环线)"
-    }
-  },
-  "KMB-273A-O-5": {
-    "record_id": "KMB-273A-O-5",
-    "company": "KMB",
-    "route": "273A",
-    "bound": "O",
-    "service_type": "5",
-    "origin": {
-      "en": "CHOI SHEK ESTATE",
-      "tc": "彩石邨",
-      "sc": "彩石邨"
-    },
-    "destination": {
-      "en": "WAH MING (CIRCULAR)",
-      "tc": "華明(循環線)",
-      "sc": "华明(循环线)"
-    }
-  },
-  "KMB-273A-O-6": {
-    "record_id": "KMB-273A-O-6",
-    "company": "KMB",
-    "route": "273A",
-    "bound": "O",
-    "service_type": "6",
-    "origin": {
-      "en": "SHEUNG SHUI (CHOI YUEN)",
-      "tc": "上水(彩園)",
-      "sc": "上水(彩园)"
-    },
-    "destination": {
-      "en": "WAH MING (CIRCULAR)",
-      "tc": "華明(循環線)",
-      "sc": "华明(循环线)"
-    }
-  },
-  "KMB-273A-O-7": {
-    "record_id": "KMB-273A-O-7",
-    "company": "KMB",
-    "route": "273A",
-    "bound": "O",
-    "service_type": "7",
-    "origin": {
-      "en": "CHOI SHEK ESTATE",
-      "tc": "彩石邨",
-      "sc": "彩石邨"
-    },
-    "destination": {
-      "en": "WAH MING (CIRCULAR)",
-      "tc": "華明(循環線)",
-      "sc": "华明(循环线)"
     }
   },
   "KMB-273B-O-1": {
