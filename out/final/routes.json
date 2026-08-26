@@ -108,6 +108,7 @@
       "KMB:6F106FD26B684372",
       "KMB:26305AF62FBEE2BC",
       "KMB:A8CE52F4450FE939",
+      "KMB:D95CAEA4D5C491E2",
       "KMB:41E81A921D79F375",
       "KMB:04B6438688E12AC0",
       "KMB:AE2A9F719AB5E353",
@@ -964,50 +965,6 @@
       "KMB:D237B30F94B6065D",
       "KMB:7D025E77F4B35266",
       "KMB:EE3B5ABCB87027E7",
-      "KMB:CA866CBB3EC92B9F"
-    ]
-  },
-  "KMB-3B-I-2": {
-    "record_id": "KMB-3B-I-2",
-    "company": "KMB",
-    "route": "3B",
-    "bound": "I",
-    "service_type": "2",
-    "origin": {
-      "en": "HUNG HOM (HUNG LUEN ROAD)",
-      "tc": "紅磡(紅鸞道)",
-      "sc": "红磡(红鸾道)"
-    },
-    "destination": {
-      "en": "TSZ WAN SHAN (CENTRAL)",
-      "tc": "慈雲山(中)",
-      "sc": "慈云山(中)"
-    },
-    "stop_ids": [
-      "KMB:95BC0F9FBDCCC62B",
-      "KMB:EF5A5CD9C3A038C9",
-      "KMB:AC48794DF1F3332C",
-      "KMB:DC74D0FA83E25E8D",
-      "KMB:BEB1BBD9E816FA59",
-      "KMB:E80A3E968CCEEFF7",
-      "KMB:4960882151DB05E0",
-      "KMB:590E23621FD23B6C",
-      "KMB:F4B357B11344180D",
-      "KMB:5C6534DD562AEF61",
-      "KMB:B9BC3DE30A48F08B",
-      "KMB:3FB80081AB2FF6FB",
-      "KMB:7F25B423230F5BEE",
-      "KMB:CFCA63CAF4C25D2B",
-      "KMB:D446D1EA79502BF2",
-      "KMB:DE9BE04046C197C4",
-      "KMB:A0FDF34B2D278750",
-      "KMB:951CE3B3EB98BA3A",
-      "KMB:DB6981B82045B45C",
-      "KMB:ACE23D880D07ABB1",
-      "KMB:1DA57A1376E99AC6",
-      "KMB:964AA1DCAAD06512",
-      "KMB:D237B30F94B6065D",
-      "KMB:7D025E77F4B35266",
       "KMB:CA866CBB3EC92B9F"
     ]
   },
@@ -3184,6 +3141,51 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
+      "en": "TSZ WAN SHAN (CENTRAL)",
+      "tc": "慈雲山(中)",
+      "sc": "慈云山(中)"
+    },
+    "destination": {
+      "en": "KOWLOON STATION",
+      "tc": "九龍站",
+      "sc": "九龙站"
+    },
+    "stop_ids": [
+      "KMB:CA866CBB3EC92B9F",
+      "KMB:31317843D8BA833F",
+      "KMB:FDFC87BC94515900",
+      "KMB:E778E67CBC095B0C",
+      "KMB:43EE0C39CD39BA06",
+      "KMB:EF01999C9F909553",
+      "KMB:B337148DB333E5C4",
+      "KMB:711A39D02DB2B4D8",
+      "KMB:AFB03B10416E2199",
+      "KMB:4B9D547F0F450784",
+      "KMB:7BDF3895E0BCE33B",
+      "KMB:262578A9C404DCD6",
+      "KMB:87154BA98253B43D",
+      "KMB:1C79BF0732EDBD9C",
+      "KMB:F6E296480D3481A2",
+      "KMB:225F00F550C301AE",
+      "KMB:3331EE733A2A3EBB",
+      "KMB:F5795A904B483F33",
+      "KMB:57DFE7792042405B",
+      "KMB:7CC8FC8889FF1596",
+      "KMB:DF4F6B54816F5172",
+      "KMB:190F209646059000",
+      "KMB:2F165341B07CBDB9",
+      "KMB:FD1B403FD4EC3E8D",
+      "KMB:FB9FA7AAA17E9E9D",
+      "KMB:593DE4298B444E66"
+    ]
+  },
+  "KMB-11-O-2": {
+    "record_id": "KMB-11-O-2",
+    "company": "KMB",
+    "route": "11",
+    "bound": "O",
+    "service_type": "2",
+    "origin": {
       "en": "DIAMOND HILL STATION",
       "tc": "鑽石山站",
       "sc": "钻石山站"
@@ -3200,6 +3202,7 @@
       "KMB:262578A9C404DCD6",
       "KMB:87154BA98253B43D",
       "KMB:1C79BF0732EDBD9C",
+      "KMB:F6E296480D3481A2",
       "KMB:225F00F550C301AE",
       "KMB:3331EE733A2A3EBB",
       "KMB:F5795A904B483F33",
@@ -3225,9 +3228,9 @@
       "sc": "九龙站"
     },
     "destination": {
-      "en": "DIAMOND HILL STATION",
-      "tc": "鑽石山站",
-      "sc": "钻石山站"
+      "en": "TSZ WAN SHAN (CENTRAL)",
+      "tc": "慈雲山(中)",
+      "sc": "慈云山(中)"
     },
     "stop_ids": [
       "KMB:593DE4298B444E66",
@@ -3249,7 +3252,61 @@
       "KMB:EB3A1D751C96E053",
       "KMB:F0AC02C6C94078C4",
       "KMB:A0FDF34B2D278750",
-      "KMB:6F817E994CAF7928"
+      "KMB:951CE3B3EB98BA3A",
+      "KMB:DB6981B82045B45C",
+      "KMB:ACE23D880D07ABB1",
+      "KMB:1DA57A1376E99AC6",
+      "KMB:964AA1DCAAD06512",
+      "KMB:D237B30F94B6065D",
+      "KMB:7D025E77F4B35266",
+      "KMB:EE3B5ABCB87027E7",
+      "KMB:CA866CBB3EC92B9F"
+    ]
+  },
+  "KMB-11-I-2": {
+    "record_id": "KMB-11-I-2",
+    "company": "KMB",
+    "route": "11",
+    "bound": "I",
+    "service_type": "2",
+    "origin": {
+      "en": "KOWLOON STATION",
+      "tc": "九龍站",
+      "sc": "九龙站"
+    },
+    "destination": {
+      "en": "TSZ WAN SHAN (CENTRAL)",
+      "tc": "慈雲山(中)",
+      "sc": "慈云山(中)"
+    },
+    "stop_ids": [
+      "KMB:593DE4298B444E66",
+      "KMB:31072508CEF942C6",
+      "KMB:4C49804674904130",
+      "KMB:8864CF7D3E4B1EF6",
+      "KMB:3CB94742E4B5E3E5",
+      "KMB:33033960343A57A8",
+      "KMB:E37FF663075361FE",
+      "KMB:4850531F57582BD9",
+      "KMB:1C02C4A92902FE95",
+      "KMB:9C1D2401E1E06544",
+      "KMB:3FB80081AB2FF6FB",
+      "KMB:BB172B3A5DAC85A4",
+      "KMB:661FEE32A0D73EB0",
+      "KMB:8815F901477E6435",
+      "KMB:20915DF05723C615",
+      "KMB:6C15579CA43DF72E",
+      "KMB:EB3A1D751C96E053",
+      "KMB:F0AC02C6C94078C4",
+      "KMB:A0FDF34B2D278750",
+      "KMB:951CE3B3EB98BA3A",
+      "KMB:DB6981B82045B45C",
+      "KMB:ACE23D880D07ABB1",
+      "KMB:1DA57A1376E99AC6",
+      "KMB:964AA1DCAAD06512",
+      "KMB:D237B30F94B6065D",
+      "KMB:7D025E77F4B35266",
+      "KMB:CA866CBB3EC92B9F"
     ]
   },
   "KMB-11B-O-1": {
@@ -3861,6 +3918,7 @@
       "KMB:EA2CFF27310EAEC3",
       "KMB:93084A14AE624C6F",
       "KMB:A8CE52F4450FE939",
+      "KMB:D95CAEA4D5C491E2",
       "KMB:41E81A921D79F375",
       "KMB:BFF2560B1C1687B2",
       "KMB:0CA3C6C38D2F3F75",
@@ -4147,6 +4205,7 @@
       "KMB:6F106FD26B684372",
       "KMB:26305AF62FBEE2BC",
       "KMB:28A55D04DC72B1EA",
+      "KMB:D95CAEA4D5C491E2",
       "KMB:41E81A921D79F375",
       "KMB:04B6438688E12AC0",
       "KMB:073C44CE5FF431BC",
@@ -4243,6 +4302,7 @@
       "KMB:6F106FD26B684372",
       "KMB:26305AF62FBEE2BC",
       "KMB:A8CE52F4450FE939",
+      "KMB:D95CAEA4D5C491E2",
       "KMB:41E81A921D79F375",
       "KMB:BFF2560B1C1687B2",
       "KMB:0CA3C6C38D2F3F75",
@@ -4290,6 +4350,7 @@
       "KMB:6F106FD26B684372",
       "KMB:26305AF62FBEE2BC",
       "KMB:A8CE52F4450FE939",
+      "KMB:D95CAEA4D5C491E2",
       "KMB:41E81A921D79F375",
       "KMB:BFF2560B1C1687B2",
       "KMB:0CA3C6C38D2F3F75",
@@ -4369,6 +4430,7 @@
       "KMB:6F106FD26B684372",
       "KMB:26305AF62FBEE2BC",
       "KMB:A8CE52F4450FE939",
+      "KMB:D95CAEA4D5C491E2",
       "KMB:41E81A921D79F375",
       "KMB:BFF2560B1C1687B2",
       "KMB:0CA3C6C38D2F3F75",
@@ -5705,6 +5767,45 @@
       "KMB:F53701B052A07DE1"
     ]
   },
+  "KMB-17P-O-1": {
+    "record_id": "KMB-17P-O-1",
+    "company": "KMB",
+    "route": "17P",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "SHUN TIN",
+      "tc": "順天",
+      "sc": "顺天"
+    },
+    "destination": {
+      "en": "HO MAN TIN (OI MAN ESTATE)",
+      "tc": "何文田(愛民邨)",
+      "sc": "何文田(爱民邨)"
+    },
+    "stop_ids": [
+      "KMB:E5746F4692437377",
+      "KMB:581AAE2C80571C37",
+      "KMB:C21FA8D54031D7FF",
+      "KMB:8571BCC3A3E4006E",
+      "KMB:D9896F1A5B7C97C0",
+      "KMB:3BA9C90738A8600D",
+      "KMB:29B66F2353388E18",
+      "KMB:F2DE08EC0816987B",
+      "KMB:C80FB453C9F53569",
+      "KMB:C5F7AF8D65B268E4",
+      "KMB:AE2A53D953B640BE",
+      "KMB:ACD50EDB57CC1618",
+      "KMB:8111C852B4D849ED",
+      "KMB:950668CA03FE879F",
+      "KMB:7CA14768A9D3B451",
+      "KMB:4FDF5E1EC677A66C",
+      "KMB:BC3B37FDEE7EE51B",
+      "KMB:5CE1C1296F98C6C4",
+      "KMB:28D4FD61902C9392",
+      "KMB:D93BC4178BA9232A"
+    ]
+  },
   "KMB-18-O-1": {
     "record_id": "KMB-18-O-1",
     "company": "KMB",
@@ -6337,7 +6438,7 @@
       "KMB:4513DF30B4CBA349",
       "KMB:F065C32E9D2CB689",
       "KMB:9A16E73DC0B9AF6C",
-      "KMB:942084E1090F193E",
+      "KMB:EB666DF59D741258",
       "KMB:A0AB9A2B2D648FF5",
       "KMB:484F835517494767",
       "KMB:6E113B962058A553",
@@ -6751,7 +6852,7 @@
       "KMB:0CA3C6C38D2F3F75",
       "KMB:FAF9EF8853A3B65E",
       "KMB:09CFF9F9E78A6B17",
-      "KMB:F140654A12BA066A",
+      "KMB:099263A4B4AAEDFB",
       "KMB:59FF8DDFC4405C0D",
       "KMB:DE60928B8CFD9E7C",
       "KMB:6557A31762F5311F",
@@ -10343,7 +10444,7 @@
       "KMB:D887822D673804CA",
       "KMB:E7116B44D9E9393A",
       "KMB:9A16E73DC0B9AF6C",
-      "KMB:B932B24E7F3C5677",
+      "KMB:EB666DF59D741258",
       "KMB:A0AB9A2B2D648FF5",
       "KMB:51ABC48DD7AFB11F",
       "KMB:62BBCD4CDBFDC8A5"
@@ -12691,7 +12792,7 @@
       "sc": "青衣码头"
     },
     "stop_ids": [
-      "KMB:6FCDCBEC73F3AAF5",
+      "KMB:EAA44CDBC231DB8C",
       "KMB:51D13DDB8EBA98AF",
       "KMB:03A546A0953794FA",
       "KMB:52C1ADA57FFA7DD4",
@@ -12769,7 +12870,7 @@
       "sc": "青衣码头"
     },
     "stop_ids": [
-      "KMB:6FCDCBEC73F3AAF5",
+      "KMB:EAA44CDBC231DB8C",
       "KMB:51D13DDB8EBA98AF",
       "KMB:03A546A0953794FA",
       "KMB:52C1ADA57FFA7DD4",
@@ -12831,7 +12932,7 @@
       "KMB:CB0585244877B9B9",
       "KMB:69E4C417312C10C0",
       "KMB:C1E1199805BCC92D",
-      "KMB:6FCDCBEC73F3AAF5"
+      "KMB:EAA44CDBC231DB8C"
     ]
   },
   "KMB-51-O-1": {
@@ -15402,10 +15503,10 @@
       "KMB:54FF927A38FDC562"
     ]
   },
-  "KMB-67A-O-1": {
-    "record_id": "KMB-67A-O-1",
+  "KMB-67M-O-1": {
+    "record_id": "KMB-67M-O-1",
     "company": "KMB",
-    "route": "67A",
+    "route": "67M",
     "bound": "O",
     "service_type": "1",
     "origin": {
@@ -15414,9 +15515,9 @@
       "sc": "屯门(宝田邨)"
     },
     "destination": {
-      "en": "KWAI FONG (KWAI TSUI ESTATE)",
-      "tc": "葵芳(葵翠邨)",
-      "sc": "葵芳(葵翠邨)"
+      "en": "KWAI FONG STATION",
+      "tc": "葵芳站",
+      "sc": "葵芳站"
     },
     "stop_ids": [
       "KMB:92DFA68888DB615D",
@@ -15424,69 +15525,35 @@
       "KMB:90CFA838B3C95AE0",
       "KMB:C2B20556AB5A2C1C",
       "KMB:580D52F4D93CAD9B",
+      "KMB:3199543D3AE70527",
       "KMB:F1D1F84A466543BE",
+      "KMB:AA5DA45828958EAE",
+      "KMB:876057D899CE09C9",
       "KMB:FA553D19AD960A9B",
       "KMB:642F7D358D36F715",
+      "KMB:F269ACD809D1B43E",
       "KMB:68354B780EDFC52B",
       "KMB:665CE110A84542E9",
       "KMB:376C4835851621D4",
       "KMB:CA6AB8446B694566",
-      "KMB:ED364A58F885DC92",
-      "KMB:5941DC3E9FA7BE8B",
-      "KMB:85B0E39398B91605",
-      "KMB:1F934873940D1F49",
+      "KMB:10860B611840CF22",
+      "KMB:D6C06E7091666AB4",
+      "KMB:F8D8D0AED9889278",
+      "KMB:CA8554613AAA6C49",
       "KMB:AAB411C52D067AD1",
       "KMB:6A20A74A8B3F78A3",
-      "KMB:0E65D3EC41A1D34B",
-      "KMB:4E3FEA4E559A5D16",
-      "KMB:376B94FDBA371A25"
+      "KMB:B09E06FF6EF5A8C4",
+      "KMB:508B02C5E209E802",
+      "KMB:6C11A9780213BBBB",
+      "KMB:716A72D0EAAC8738"
     ]
   },
-  "KMB-67A-I-1": {
-    "record_id": "KMB-67A-I-1",
-    "company": "KMB",
-    "route": "67A",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "KWAI FONG (KWAI TSUI ESTATE)",
-      "tc": "葵芳(葵翠邨)",
-      "sc": "葵芳(葵翠邨)"
-    },
-    "destination": {
-      "en": "TUEN MUN (PO TIN ESTATE)",
-      "tc": "屯門(寶田邨)",
-      "sc": "屯门(宝田邨)"
-    },
-    "stop_ids": [
-      "KMB:376B94FDBA371A25",
-      "KMB:3CB45560769AA11A",
-      "KMB:D6A21211E4788F7B",
-      "KMB:AB10F01039440464",
-      "KMB:354A2C15BD189228",
-      "KMB:C7FC5050194509AE",
-      "KMB:0115F5FC6A7772C3",
-      "KMB:12E6D91298FABAEE",
-      "KMB:DFE346B2C7332BC0",
-      "KMB:872110C8ADA14DA1",
-      "KMB:1E15CFA82F408124",
-      "KMB:CD4626E2F32FE372",
-      "KMB:25E34120CA3AD554",
-      "KMB:02824AAFC038FA20",
-      "KMB:B954B8082D1AA9B0",
-      "KMB:E16D49ECA536ECC6",
-      "KMB:EDAD79A7F0FE08D8",
-      "KMB:C054428621712B5C",
-      "KMB:787BD27C926C60F7",
-      "KMB:92DFA68888DB615D"
-    ]
-  },
-  "KMB-67M-O-1": {
-    "record_id": "KMB-67M-O-1",
+  "KMB-67M-O-2": {
+    "record_id": "KMB-67M-O-2",
     "company": "KMB",
     "route": "67M",
     "bound": "O",
-    "service_type": "1",
+    "service_type": "2",
     "origin": {
       "en": "TUEN MUN (SIU HONG COURT)",
       "tc": "屯門(兆康苑)",
@@ -15534,9 +15601,9 @@
       "sc": "葵芳站"
     },
     "destination": {
-      "en": "TUEN MUN (SIU HONG COURT)",
-      "tc": "屯門(兆康苑)",
-      "sc": "屯门(兆康苑)"
+      "en": "TUEN MUN (PO TIN ESTATE)",
+      "tc": "屯門(寶田邨)",
+      "sc": "屯门(宝田邨)"
     },
     "stop_ids": [
       "KMB:716A72D0EAAC8738",
@@ -15560,7 +15627,10 @@
       "KMB:B954B8082D1AA9B0",
       "KMB:E01BD8E1BEC29EA6",
       "KMB:E16D49ECA536ECC6",
-      "KMB:7B966B22D0464566"
+      "KMB:EDAD79A7F0FE08D8",
+      "KMB:C054428621712B5C",
+      "KMB:787BD27C926C60F7",
+      "KMB:92DFA68888DB615D"
     ]
   },
   "KMB-67X-O-1": {
@@ -19865,7 +19935,7 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+      "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
       "tc": "攸壆路簡約公屋 (南)",
       "sc": "攸壆路简约公屋 (南)"
     },
@@ -20125,6 +20195,73 @@
       "KMB:60952B4A38F3D82E"
     ]
   },
+  "KMB-77-O-1": {
+    "record_id": "KMB-77-O-1",
+    "company": "KMB",
+    "route": "77",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "FUNG WONG LENG ESTATE",
+      "tc": "鳳凰嶺邨",
+      "sc": "凤凰岭邨"
+    },
+    "destination": {
+      "en": "SHEUNG SHUI (TAI PING)",
+      "tc": "上水(太平)",
+      "sc": "上水(太平)"
+    },
+    "stop_ids": [
+      "KMB:A278B33099733DB5",
+      "KMB:6573811D015A0818",
+      "KMB:A22E315AD21129EB",
+      "KMB:25721F85DC026ACA",
+      "KMB:9DBFBF7A3CE5DF0A",
+      "KMB:BFAE1E951D3B63EC",
+      "KMB:C67060F448591E4F",
+      "KMB:14BDB94A8F3ED3EC",
+      "KMB:D0FB28B8EED62431",
+      "KMB:C7120BD9A94B4F6A",
+      "KMB:825199DC3BC0C5A3",
+      "KMB:ADB9356BBF06F7C7",
+      "KMB:8E3F5AE0A97053F9",
+      "KMB:FF50570BA54BCA0B",
+      "KMB:E86A26B1A389C290"
+    ]
+  },
+  "KMB-77-I-1": {
+    "record_id": "KMB-77-I-1",
+    "company": "KMB",
+    "route": "77",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "SHEUNG SHUI (TAI PING)",
+      "tc": "上水(太平)",
+      "sc": "上水(太平)"
+    },
+    "destination": {
+      "en": "FUNG WONG LENG ESTATE",
+      "tc": "鳳凰嶺邨",
+      "sc": "凤凰岭邨"
+    },
+    "stop_ids": [
+      "KMB:D97A36CE8D65B198",
+      "KMB:396DD38F2E41E117",
+      "KMB:98EBAB9468C80DD2",
+      "KMB:CA1317F5A0B8A8B2",
+      "KMB:AFD29CB1A4F71AB9",
+      "KMB:65ECD19EFD09FB74",
+      "KMB:D67917549F3DC8A3",
+      "KMB:6633B4885C8A3EE7",
+      "KMB:0F3FA9B7D07A91F3",
+      "KMB:C837C3C549793472",
+      "KMB:2AC85D87661D5AF6",
+      "KMB:53BB93AAB2D45F3B",
+      "KMB:6C2DBC45160AA4BF",
+      "KMB:A278B33099733DB5"
+    ]
+  },
   "KMB-77K-O-1": {
     "record_id": "KMB-77K-O-1",
     "company": "KMB",
@@ -20324,7 +20461,7 @@
       "KMB:EFF76047DAB0578D",
       "KMB:847F5319F0265428",
       "KMB:6D76943277DC18FF",
-      "KMB:13C46D68CA99BF05",
+      "KMB:E40D588376226D6E",
       "KMB:13211112A23954EC",
       "KMB:3A317C6B1C25E38B",
       "KMB:D718ABC314AD4B3C",
@@ -21089,6 +21226,7 @@
       "KMB:AC2A4AB84E52364C",
       "KMB:F3D3D5E7F698B748",
       "KMB:C7C1C12D89968698",
+      "KMB:E34E3D48842C9B66",
       "KMB:326199D24220A42B",
       "KMB:C847B9021C407731",
       "KMB:38330C642568FE3F",
@@ -21128,6 +21266,7 @@
       "KMB:60F6F482EFA8FE18",
       "KMB:C6A76DB999AF1213",
       "KMB:C7C1C12D89968698",
+      "KMB:E34E3D48842C9B66",
       "KMB:326199D24220A42B",
       "KMB:C847B9021C407731",
       "KMB:38330C642568FE3F",
@@ -21175,6 +21314,7 @@
       "KMB:99440967B8390837",
       "KMB:BE4DB8D578A94BEF",
       "KMB:33D8E30DCBD27040",
+      "KMB:45D0CFA28B3FEFE5",
       "KMB:B8E2647E9C5019C9",
       "KMB:5EAE23D8DC3A7121",
       "KMB:A28C2F29B58A2E9A",
@@ -21814,47 +21954,6 @@
       "KMB:6EA80E205DBCBFB5"
     ]
   },
-  "KMB-81X-O-1": {
-    "record_id": "KMB-81X-O-1",
-    "company": "KMB",
-    "route": "81X",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "MEI TIN",
-      "tc": "美田",
-      "sc": "美田"
-    },
-    "destination": {
-      "en": "MONG KOK (BUTE STREET)",
-      "tc": "旺角 (弼街)",
-      "sc": "旺角 (弼街)"
-    },
-    "stop_ids": [
-      "KMB:90BC9EB37B24B778",
-      "KMB:C8A9DAB5E9051324",
-      "KMB:924D67DD8AB7683D",
-      "KMB:E7BFF1027930CCCD",
-      "KMB:4654E57A8E9D32EB",
-      "KMB:1276AEF95F6564A2",
-      "KMB:9C117FB6B6590825",
-      "KMB:5FB8DC89C84A7F2B",
-      "KMB:04C4E5AE4F8F21E1",
-      "KMB:1D13B640481F4CD1",
-      "KMB:AC2A4AB84E52364C",
-      "KMB:99D2D097C44A98D0",
-      "KMB:AAECA769A84E2372",
-      "KMB:2A72F4041A7E6783",
-      "KMB:480DB16994F8FFEE",
-      "KMB:F3433105FE5F6865",
-      "KMB:C91C122CFC3FF66B",
-      "KMB:DF10BE627F25E7DD",
-      "KMB:D7C7D86E923EEAE1",
-      "KMB:A76BB6FCB881AF5C",
-      "KMB:3B7368AAB82CC612",
-      "KMB:D7C46496C9C7B7BA"
-    ]
-  },
   "KMB-82B-O-1": {
     "record_id": "KMB-82B-O-1",
     "company": "KMB",
@@ -21894,7 +21993,7 @@
       "sc": "香港科学园"
     },
     "stop_ids": [
-      "KMB:C31623CD04CA37F0",
+      "KMB:6FCDCBEC73F3AAF5",
       "KMB:7E3C2CA5ABEC8416",
       "KMB:D54A59914E577E3F",
       "KMB:3F01C915E856B018",
@@ -21945,7 +22044,7 @@
       "KMB:BC39BFC3C7BC3009",
       "KMB:2FABE52A66DF7482",
       "KMB:C1E1199805BCC92D",
-      "KMB:C31623CD04CA37F0"
+      "KMB:6FCDCBEC73F3AAF5"
     ]
   },
   "KMB-82D-O-1": {
@@ -22111,7 +22210,7 @@
       "KMB:7F068ADB0659F04E",
       "KMB:779954C17EAF3B95",
       "KMB:CB0585244877B9B9",
-      "KMB:C7C74EE6E201E5A9",
+      "KMB:667232A61C746899",
       "KMB:260B43921BAFD8CB",
       "KMB:75D57F5A5891A1C2",
       "KMB:3114213F8975F536",
@@ -22125,7 +22224,7 @@
       "KMB:9961C7ED914E87DD",
       "KMB:69E4C417312C10C0",
       "KMB:C1E1199805BCC92D",
-      "KMB:D18861DD66E59F95",
+      "KMB:C31623CD04CA37F0",
       "KMB:03A546A0953794FA",
       "KMB:52C1ADA57FFA7DD4",
       "KMB:F4ABF71262D8C556",
@@ -22523,7 +22622,7 @@
       "KMB:7F068ADB0659F04E",
       "KMB:779954C17EAF3B95",
       "KMB:CB0585244877B9B9",
-      "KMB:C7C74EE6E201E5A9",
+      "KMB:667232A61C746899",
       "KMB:260B43921BAFD8CB",
       "KMB:75D57F5A5891A1C2",
       "KMB:3114213F8975F536",
@@ -22543,7 +22642,7 @@
       "KMB:9961C7ED914E87DD",
       "KMB:69E4C417312C10C0",
       "KMB:C1E1199805BCC92D",
-      "KMB:D18861DD66E59F95",
+      "KMB:C31623CD04CA37F0",
       "KMB:03A546A0953794FA",
       "KMB:52C1ADA57FFA7DD4",
       "KMB:24E16716BBB7F2D0",
@@ -22704,7 +22803,7 @@
       "sc": "九龙城码头"
     },
     "stop_ids": [
-      "KMB:C31623CD04CA37F0",
+      "KMB:6FCDCBEC73F3AAF5",
       "KMB:260B43921BAFD8CB",
       "KMB:D54A59914E577E3F",
       "KMB:3F01C915E856B018",
@@ -22780,7 +22879,7 @@
       "KMB:BC39BFC3C7BC3009",
       "KMB:2FABE52A66DF7482",
       "KMB:C1E1199805BCC92D",
-      "KMB:C31623CD04CA37F0"
+      "KMB:6FCDCBEC73F3AAF5"
     ]
   },
   "KMB-85B-O-1": {
@@ -24748,9 +24847,9 @@
       "sc": "沙田围"
     },
     "destination": {
-      "en": "NGAU TAU KOK",
-      "tc": "牛頭角",
-      "sc": "牛头角"
+      "en": "CHOI HUNG",
+      "tc": "彩虹",
+      "sc": "彩虹"
     },
     "stop_ids": [
       "KMB:C1A67D37CF256C9E",
@@ -24765,10 +24864,7 @@
       "KMB:38330C642568FE3F",
       "KMB:A15FFC3149FB92A0",
       "KMB:5D1E6432755E4F5F",
-      "KMB:3BB1407BA61E0A9B",
-      "KMB:23AF5995FEBCA8E6",
-      "KMB:830588EB9A8D26EC",
-      "KMB:099263A4B4AAEDFB"
+      "KMB:3BB1407BA61E0A9B"
     ]
   },
   "KMB-89B-I-1": {
@@ -24778,9 +24874,9 @@
     "bound": "I",
     "service_type": "1",
     "origin": {
-      "en": "NGAU TAU KOK",
-      "tc": "牛頭角",
-      "sc": "牛头角"
+      "en": "CHOI HUNG",
+      "tc": "彩虹",
+      "sc": "彩虹"
     },
     "destination": {
       "en": "SHATIN WAI",
@@ -24788,10 +24884,7 @@
       "sc": "沙田围"
     },
     "stop_ids": [
-      "KMB:099263A4B4AAEDFB",
-      "KMB:34DCAF51F6056BB6",
-      "KMB:9C884013EBA1D548",
-      "KMB:18F3C20116BFE83D",
+      "KMB:038116DE4624B0DF",
       "KMB:17EC583ACAB167BE",
       "KMB:E47CD422B33E5BE7",
       "KMB:99440967B8390837",
@@ -25402,44 +25495,6 @@
       "KMB:938667F4F953DFCA"
     ]
   },
-  "KMB-90-I-1": {
-    "record_id": "KMB-90-I-1",
-    "company": "KMB",
-    "route": "90",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "TSEUNG KWAN O (CHOI MING)",
-      "tc": "將軍澳(彩明)",
-      "sc": "将军澳(彩明)"
-    },
-    "destination": {
-      "en": "SHEK MUN ESTATE",
-      "tc": "碩門邨",
-      "sc": "硕门邨"
-    },
-    "stop_ids": [
-      "KMB:938667F4F953DFCA",
-      "KMB:1EF9F54185151A2F",
-      "KMB:DF54B41AF7CE380C",
-      "KMB:094EACC936039B3F",
-      "KMB:20FDDA894D722F88",
-      "KMB:9762FC524B26C4A7",
-      "KMB:9961C7ED914E87DD",
-      "KMB:69E4C417312C10C0",
-      "KMB:C1E1199805BCC92D",
-      "KMB:A0496DDDC41213FA",
-      "KMB:BCEEE192EF01C361",
-      "KMB:3F01C915E856B018",
-      "KMB:6282A73360ACEBEA",
-      "KMB:52C1ADA57FFA7DD4",
-      "KMB:F4ABF71262D8C556",
-      "KMB:896D3C4F7F91E9C9",
-      "KMB:C6F406D78E5C515A",
-      "KMB:82F22BA7623AA4CB",
-      "KMB:0035CDF15614428C"
-    ]
-  },
   "KMB-91-O-1": {
     "record_id": "KMB-91-O-1",
     "company": "KMB",
@@ -25512,7 +25567,7 @@
       "KMB:5169C5ACEA8B1746",
       "KMB:2EFDB1EADF5955E6",
       "KMB:29740CCBBD82FC33",
-      "KMB:7AEA492D148C9ECD",
+      "KMB:7B730DF319D6FBA7",
       "KMB:927CE95D5C98C195",
       "KMB:7349A9FC61580972",
       "KMB:B9F5BB33A96E53FF",
@@ -25563,7 +25618,7 @@
       "KMB:5169C5ACEA8B1746",
       "KMB:2EFDB1EADF5955E6",
       "KMB:29740CCBBD82FC33",
-      "KMB:7AEA492D148C9ECD",
+      "KMB:7B730DF319D6FBA7",
       "KMB:927CE95D5C98C195",
       "KMB:7349A9FC61580972",
       "KMB:B9F5BB33A96E53FF",
@@ -25687,7 +25742,7 @@
       "KMB:5169C5ACEA8B1746",
       "KMB:2EFDB1EADF5955E6",
       "KMB:29740CCBBD82FC33",
-      "KMB:7AEA492D148C9ECD",
+      "KMB:7B730DF319D6FBA7",
       "KMB:927CE95D5C98C195",
       "KMB:7349A9FC61580972",
       "KMB:B9F5BB33A96E53FF",
@@ -25754,9 +25809,9 @@
       "sc": "钻石山站"
     },
     "destination": {
-      "en": "H.K.U.S.T (NORTH)",
-      "tc": "香港科技大學(北)",
-      "sc": "香港科技大学(北)"
+      "en": "HONG KONG UNIVERSITY OF SCIENCE AND TEHNOLOGY",
+      "tc": "香港科技大學",
+      "sc": "香港科技大学"
     },
     "stop_ids": [
       "KMB:53889000AA9C33E2",
@@ -25770,7 +25825,8 @@
       "KMB:427116D2E76AFFFD",
       "KMB:4568080E28FB1E56",
       "KMB:DDC689F8C5161065",
-      "KMB:C1AAFE0EB8BD89C7"
+      "KMB:9183F3104902B748",
+      "KMB:68DF1DA183CDFCF2"
     ]
   },
   "KMB-91P-I-1": {
@@ -25985,7 +26041,7 @@
       "KMB:87825C8E4FE99CD8",
       "KMB:38021D9E2840F8CC",
       "KMB:942E95B4336BDFA7",
-      "KMB:7AEA492D148C9ECD",
+      "KMB:7B730DF319D6FBA7",
       "KMB:927CE95D5C98C195",
       "KMB:7349A9FC61580972",
       "KMB:B9F5BB33A96E53FF",
@@ -26132,6 +26188,7 @@
       "KMB:EA2CFF27310EAEC3",
       "KMB:93084A14AE624C6F",
       "KMB:28A55D04DC72B1EA",
+      "KMB:D95CAEA4D5C491E2",
       "KMB:41E81A921D79F375",
       "KMB:04B6438688E12AC0",
       "KMB:073C44CE5FF431BC",
@@ -26187,9 +26244,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "PO LAM",
-      "tc": "寶林",
-      "sc": "宝林"
+      "en": "TSUI LAM",
+      "tc": "翠林",
+      "sc": "翠林"
     },
     "destination": {
       "en": "MONG KOK EAST STATION",
@@ -26197,16 +26254,18 @@
       "sc": "旺角东站"
     },
     "stop_ids": [
-      "KMB:C8DFFC6DB50F5F86",
-      "KMB:B97A24623DDD2129",
-      "KMB:9B90BAE383F14AD3",
-      "KMB:E86C2ACAFC72D243",
-      "KMB:5F1FC8AAD0B020D7",
+      "KMB:2973FA26FC035FE7",
+      "KMB:A5B328EAF882C44B",
       "KMB:4A84482F3A54E4CC",
       "KMB:5D034EAC6A8853A3",
       "KMB:70A7D4C9EDA6D50A",
       "KMB:AE0DC8745DFCA0FA",
-      "KMB:25863CD2A364E72F",
+      "KMB:3C0AF6BA82588E2F",
+      "KMB:F8DEE1D5F9A349AD",
+      "KMB:6765DD696FA8BF8D",
+      "KMB:CE097C48CCAE22C9",
+      "KMB:6CF34EF02CDBE26B",
+      "KMB:AE2A9F719AB5E353",
       "KMB:3D40B78AACF268D7",
       "KMB:015AD27DAC83E698",
       "KMB:5E12682DB792D6DA",
@@ -26243,9 +26302,9 @@
       "sc": "旺角东站"
     },
     "destination": {
-      "en": "PO LAM",
-      "tc": "寶林",
-      "sc": "宝林"
+      "en": "TSUI LAM",
+      "tc": "翠林",
+      "sc": "翠林"
     },
     "stop_ids": [
       "KMB:BDC22C0C76E16BD3",
@@ -26273,20 +26332,17 @@
       "KMB:4D3C6D74F6AE8C7D",
       "KMB:3F9AE21DC3A540B9",
       "KMB:5FD7848A339751B6",
-      "KMB:2A5B424322D35B0A",
-      "KMB:ED8812E232F6958A",
-      "KMB:1FBAAE29AF1CA50E",
+      "KMB:072046BF00257739",
+      "KMB:BFF2560B1C1687B2",
+      "KMB:6882248B39345F28",
+      "KMB:B809C24DC8C87767",
+      "KMB:3BA4DBB4520188DF",
       "KMB:03C3F537C41E4986",
       "KMB:2FFC93C766E566B5",
       "KMB:F5A61D37E2DDA9D8",
       "KMB:31079A9B244C679B",
       "KMB:ABC15E2110BF7A49",
-      "KMB:BC66863007C0592B",
-      "KMB:848CA90EB0DB1146",
-      "KMB:7486D53F341F1AAC",
-      "KMB:C73A03D6C468B767",
-      "KMB:4AF1A7C103D16636",
-      "KMB:C8DFFC6DB50F5F86"
+      "KMB:2973FA26FC035FE7"
     ]
   },
   "KMB-93M-O-1": {
@@ -26313,7 +26369,7 @@
       "KMB:D0B1FC246C384949",
       "KMB:3998A0C9E65D379B",
       "KMB:B64E0F355A9F4223",
-      "KMB:9B90BAE383F14AD3",
+      "KMB:3BE0B584549B365D",
       "KMB:E86C2ACAFC72D243",
       "KMB:68799FD9ECBF50B1",
       "KMB:4A84482F3A54E4CC",
@@ -26360,7 +26416,7 @@
     "stop_ids": [
       "KMB:C8DFFC6DB50F5F86",
       "KMB:B97A24623DDD2129",
-      "KMB:9B90BAE383F14AD3",
+      "KMB:3BE0B584549B365D",
       "KMB:E86C2ACAFC72D243",
       "KMB:5F1FC8AAD0B020D7",
       "KMB:4A84482F3A54E4CC",
@@ -26621,7 +26677,7 @@
       "KMB:D887822D673804CA",
       "KMB:E7116B44D9E9393A",
       "KMB:29740CCBBD82FC33",
-      "KMB:B932B24E7F3C5677",
+      "KMB:EB666DF59D741258",
       "KMB:A0AB9A2B2D648FF5",
       "KMB:F1B974EDD8C15DBC",
       "KMB:BBBDC092F96C0A41",
@@ -26636,70 +26692,6 @@
       "KMB:31079A9B244C679B",
       "KMB:ABC15E2110BF7A49",
       "KMB:E15A06305804D0AA"
-    ]
-  },
-  "KMB-95M-O-1": {
-    "record_id": "KMB-95M-O-1",
-    "company": "KMB",
-    "route": "95M",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSUI LAM",
-      "tc": "翠林",
-      "sc": "翠林"
-    },
-    "destination": {
-      "en": "KWUN TONG (ELEGANCE ROAD)",
-      "tc": "觀塘(雅麗道)",
-      "sc": "观塘(雅丽道)"
-    },
-    "stop_ids": [
-      "KMB:2973FA26FC035FE7",
-      "KMB:A5B328EAF882C44B",
-      "KMB:4A84482F3A54E4CC",
-      "KMB:70A7D4C9EDA6D50A",
-      "KMB:EA2CFF27310EAEC3",
-      "KMB:3C0AF6BA82588E2F",
-      "KMB:F8DEE1D5F9A349AD",
-      "KMB:6765DD696FA8BF8D",
-      "KMB:DD5B5646768C5F09",
-      "KMB:6CF34EF02CDBE26B",
-      "KMB:073C44CE5FF431BC",
-      "KMB:42B4DEF46BB30887",
-      "KMB:00A529823BEBABA7"
-    ]
-  },
-  "KMB-95M-I-1": {
-    "record_id": "KMB-95M-I-1",
-    "company": "KMB",
-    "route": "95M",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "KWUN TONG (ELEGANCE ROAD)",
-      "tc": "觀塘(雅麗道)",
-      "sc": "观塘(雅丽道)"
-    },
-    "destination": {
-      "en": "TSUI LAM",
-      "tc": "翠林",
-      "sc": "翠林"
-    },
-    "stop_ids": [
-      "KMB:00A529823BEBABA7",
-      "KMB:5FD7848A339751B6",
-      "KMB:072046BF00257739",
-      "KMB:BFF2560B1C1687B2",
-      "KMB:6882248B39345F28",
-      "KMB:B809C24DC8C87767",
-      "KMB:3BA4DBB4520188DF",
-      "KMB:03C3F537C41E4986",
-      "KMB:2FFC93C766E566B5",
-      "KMB:F5A61D37E2DDA9D8",
-      "KMB:31079A9B244C679B",
-      "KMB:ABC15E2110BF7A49",
-      "KMB:2973FA26FC035FE7"
     ]
   },
   "KMB-96-O-1": {
@@ -31466,9 +31458,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "HANDSOME COURT",
-      "tc": "恒順園",
-      "sc": "恒顺园"
+      "en": "HIN FAT ESTATE",
+      "tc": "顯發邨",
+      "sc": "显发邨"
     },
     "destination": {
       "en": "TSIM SHA TSUI",
@@ -31476,6 +31468,7 @@
       "sc": "尖沙咀"
     },
     "stop_ids": [
+      "KMB:AA5A9E3D027C4083",
       "KMB:46D78D8886A71B3B",
       "KMB:630AA1866C5372B6",
       "KMB:C90375A74B02D2E8",
@@ -31506,9 +31499,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "HANDSOME COURT",
-      "tc": "恒順園",
-      "sc": "恒顺园"
+      "en": "HIN FAT ESTATE",
+      "tc": "顯發邨",
+      "sc": "显发邨"
     },
     "destination": {
       "en": "KWUN TONG FERRY",
@@ -31516,6 +31509,7 @@
       "sc": "观塘码头"
     },
     "stop_ids": [
+      "KMB:90481AAABF662D3B",
       "KMB:46D78D8886A71B3B",
       "KMB:630AA1866C5372B6",
       "KMB:C90375A74B02D2E8",
@@ -31602,9 +31596,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "HANDSOME COURT",
-      "tc": "恆順園",
-      "sc": "恒顺园"
+      "en": "HIN FAT ESTATE",
+      "tc": "顯發邨",
+      "sc": "显发邨"
     },
     "destination": {
       "en": "LAM TIN STATION",
@@ -31612,6 +31606,7 @@
       "sc": "蓝田站"
     },
     "stop_ids": [
+      "KMB:AA5A9E3D027C4083",
       "KMB:46D78D8886A71B3B",
       "KMB:630AA1866C5372B6",
       "KMB:C90375A74B02D2E8",
@@ -33991,7 +33986,7 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+      "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
       "tc": "攸壆路簡約公屋 (南)",
       "sc": "攸壆路简约公屋 (南)"
     },
@@ -34031,7 +34026,7 @@
       "sc": "八乡路"
     },
     "destination": {
-      "en": "YAU POK ROAD PUBLIC HOUSING (SOUTH)",
+      "en": "YAU POK ROAD LIGHT PUBLIC HOUSING (SOUTH)",
       "tc": "攸壆路簡約公屋 (南)",
       "sc": "攸壆路简约公屋 (南)"
     },
@@ -37399,9 +37394,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "SHEUNG SHUI (CHOI YUEN)",
-      "tc": "上水(彩園)",
-      "sc": "上水(彩园)"
+      "en": "CHOI SHEK ESTATE",
+      "tc": "彩石邨",
+      "sc": "彩石邨"
     },
     "destination": {
       "en": "WAH MING (CIRCULAR)",
@@ -37409,9 +37404,11 @@
       "sc": "华明(循环线)"
     },
     "stop_ids": [
+      "KMB:80C387D87AFBCE3E",
+      "KMB:31005C82D70F6B09",
       "KMB:26A1D2969A15C3AF",
       "KMB:F8C20FE9111D486A",
-      "KMB:D97A36CE8D65B198",
+      "KMB:E86A26B1A389C290",
       "KMB:CF94083CB24CF4E5",
       "KMB:4A76CDB32FA69BC6",
       "KMB:6F11F73C749338DB",
@@ -37436,7 +37433,8 @@
       "KMB:9CD9BFAE2BC91336",
       "KMB:E86A26B1A389C290",
       "KMB:4E655B25ABAE103A",
-      "KMB:18785E68EAD3D9B8"
+      "KMB:AD4E0E8DC8ACEFB6",
+      "KMB:A4AA1D2CA4E92950"
     ]
   },
   "KMB-273A-O-2": {
@@ -37446,9 +37444,9 @@
     "bound": "O",
     "service_type": "2",
     "origin": {
-      "en": "SHEUNG SHUI (CHOI YUEN)",
-      "tc": "上水(彩園)",
-      "sc": "上水(彩园)"
+      "en": "CHOI SHEK ESTATE",
+      "tc": "彩石邨",
+      "sc": "彩石邨"
     },
     "destination": {
       "en": "WAH MING (CIRCULAR)",
@@ -37456,9 +37454,11 @@
       "sc": "华明(循环线)"
     },
     "stop_ids": [
+      "KMB:80C387D87AFBCE3E",
+      "KMB:31005C82D70F6B09",
       "KMB:26A1D2969A15C3AF",
       "KMB:F8C20FE9111D486A",
-      "KMB:D97A36CE8D65B198",
+      "KMB:E86A26B1A389C290",
       "KMB:CF94083CB24CF4E5",
       "KMB:08A46530B241544D",
       "KMB:4A76CDB32FA69BC6",
@@ -37485,7 +37485,8 @@
       "KMB:017BCFA7DC246519",
       "KMB:E86A26B1A389C290",
       "KMB:4E655B25ABAE103A",
-      "KMB:18785E68EAD3D9B8"
+      "KMB:AD4E0E8DC8ACEFB6",
+      "KMB:A4AA1D2CA4E92950"
     ]
   },
   "KMB-273A-O-3": {
@@ -37495,16 +37496,32 @@
     "bound": "O",
     "service_type": "3",
     "origin": {
-      "en": "FANLING (WAH MING)",
-      "tc": "粉嶺(華明)",
-      "sc": "粉岭(华明)"
+      "en": "CHOI SHEK ESTATE",
+      "tc": "彩石邨",
+      "sc": "彩石邨"
     },
     "destination": {
-      "en": "SHEUNG SHUI (CHOI YUEN)",
-      "tc": "上水(彩園)",
-      "sc": "上水(彩园)"
+      "en": "WAH MING (CIRCULAR)",
+      "tc": "華明(循環線)",
+      "sc": "华明(循环线)"
     },
     "stop_ids": [
+      "KMB:80C387D87AFBCE3E",
+      "KMB:31005C82D70F6B09",
+      "KMB:26A1D2969A15C3AF",
+      "KMB:F8C20FE9111D486A",
+      "KMB:E86A26B1A389C290",
+      "KMB:CF94083CB24CF4E5",
+      "KMB:08A46530B241544D",
+      "KMB:4A76CDB32FA69BC6",
+      "KMB:6F11F73C749338DB",
+      "KMB:98EBAB9468C80DD2",
+      "KMB:CA1317F5A0B8A8B2",
+      "KMB:AFD29CB1A4F71AB9",
+      "KMB:65ECD19EFD09FB74",
+      "KMB:4C97BE87FBF959C4",
+      "KMB:FA52803E2628A212",
+      "KMB:3AD4DADA5B941CF2",
       "KMB:8237ED597A8A948B",
       "KMB:A4455CCA999A234C",
       "KMB:3C821C86ADED2B9D",
@@ -37519,7 +37536,8 @@
       "KMB:9CD9BFAE2BC91336",
       "KMB:E86A26B1A389C290",
       "KMB:4E655B25ABAE103A",
-      "KMB:18785E68EAD3D9B8"
+      "KMB:AD4E0E8DC8ACEFB6",
+      "KMB:A4AA1D2CA4E92950"
     ]
   },
   "KMB-273A-O-4": {
@@ -37529,181 +37547,16 @@
     "bound": "O",
     "service_type": "4",
     "origin": {
+      "en": "FANLING (WAH MING)",
+      "tc": "粉嶺(華明)",
+      "sc": "粉岭(华明)"
+    },
+    "destination": {
       "en": "CHOI SHEK ESTATE",
       "tc": "彩石邨",
       "sc": "彩石邨"
     },
-    "destination": {
-      "en": "WAH MING (CIRCULAR)",
-      "tc": "華明(循環線)",
-      "sc": "华明(循环线)"
-    },
     "stop_ids": [
-      "KMB:80C387D87AFBCE3E",
-      "KMB:31005C82D70F6B09",
-      "KMB:26A1D2969A15C3AF",
-      "KMB:F8C20FE9111D486A",
-      "KMB:D97A36CE8D65B198",
-      "KMB:CF94083CB24CF4E5",
-      "KMB:4A76CDB32FA69BC6",
-      "KMB:6F11F73C749338DB",
-      "KMB:98EBAB9468C80DD2",
-      "KMB:CA1317F5A0B8A8B2",
-      "KMB:AFD29CB1A4F71AB9",
-      "KMB:65ECD19EFD09FB74",
-      "KMB:4C97BE87FBF959C4",
-      "KMB:FA52803E2628A212",
-      "KMB:3AD4DADA5B941CF2",
-      "KMB:8237ED597A8A948B",
-      "KMB:A4455CCA999A234C",
-      "KMB:3C821C86ADED2B9D",
-      "KMB:14BDB94A8F3ED3EC",
-      "KMB:FA7A3D77713061E9",
-      "KMB:C7120BD9A94B4F6A",
-      "KMB:825199DC3BC0C5A3",
-      "KMB:A8F178C255CF9783",
-      "KMB:ADB9356BBF06F7C7",
-      "KMB:8E3F5AE0A97053F9",
-      "KMB:68C7CBB4CAB9FE69",
-      "KMB:9CD9BFAE2BC91336",
-      "KMB:E86A26B1A389C290",
-      "KMB:4E655B25ABAE103A",
-      "KMB:AD4E0E8DC8ACEFB6",
-      "KMB:A4AA1D2CA4E92950"
-    ]
-  },
-  "KMB-273A-O-5": {
-    "record_id": "KMB-273A-O-5",
-    "company": "KMB",
-    "route": "273A",
-    "bound": "O",
-    "service_type": "5",
-    "origin": {
-      "en": "CHOI SHEK ESTATE",
-      "tc": "彩石邨",
-      "sc": "彩石邨"
-    },
-    "destination": {
-      "en": "WAH MING (CIRCULAR)",
-      "tc": "華明(循環線)",
-      "sc": "华明(循环线)"
-    },
-    "stop_ids": [
-      "KMB:80C387D87AFBCE3E",
-      "KMB:31005C82D70F6B09",
-      "KMB:26A1D2969A15C3AF",
-      "KMB:F8C20FE9111D486A",
-      "KMB:D97A36CE8D65B198",
-      "KMB:CF94083CB24CF4E5",
-      "KMB:08A46530B241544D",
-      "KMB:4A76CDB32FA69BC6",
-      "KMB:6F11F73C749338DB",
-      "KMB:98EBAB9468C80DD2",
-      "KMB:CA1317F5A0B8A8B2",
-      "KMB:AFD29CB1A4F71AB9",
-      "KMB:65ECD19EFD09FB74",
-      "KMB:4C97BE87FBF959C4",
-      "KMB:FA52803E2628A212",
-      "KMB:3AD4DADA5B941CF2",
-      "KMB:8237ED597A8A948B",
-      "KMB:A4455CCA999A234C",
-      "KMB:3C821C86ADED2B9D",
-      "KMB:14BDB94A8F3ED3EC",
-      "KMB:FA7A3D77713061E9",
-      "KMB:C7120BD9A94B4F6A",
-      "KMB:825199DC3BC0C5A3",
-      "KMB:A8F178C255CF9783",
-      "KMB:ADB9356BBF06F7C7",
-      "KMB:8E3F5AE0A97053F9",
-      "KMB:68C7CBB4CAB9FE69",
-      "KMB:9CD9BFAE2BC91336",
-      "KMB:017BCFA7DC246519",
-      "KMB:E86A26B1A389C290",
-      "KMB:4E655B25ABAE103A",
-      "KMB:AD4E0E8DC8ACEFB6",
-      "KMB:A4AA1D2CA4E92950"
-    ]
-  },
-  "KMB-273A-O-6": {
-    "record_id": "KMB-273A-O-6",
-    "company": "KMB",
-    "route": "273A",
-    "bound": "O",
-    "service_type": "6",
-    "origin": {
-      "en": "SHEUNG SHUI (CHOI YUEN)",
-      "tc": "上水(彩園)",
-      "sc": "上水(彩园)"
-    },
-    "destination": {
-      "en": "WAH MING (CIRCULAR)",
-      "tc": "華明(循環線)",
-      "sc": "华明(循环线)"
-    },
-    "stop_ids": [
-      "KMB:26A1D2969A15C3AF",
-      "KMB:F8C20FE9111D486A",
-      "KMB:D97A36CE8D65B198",
-      "KMB:CF94083CB24CF4E5",
-      "KMB:08A46530B241544D",
-      "KMB:4A76CDB32FA69BC6",
-      "KMB:6F11F73C749338DB",
-      "KMB:98EBAB9468C80DD2",
-      "KMB:CA1317F5A0B8A8B2",
-      "KMB:AFD29CB1A4F71AB9",
-      "KMB:65ECD19EFD09FB74",
-      "KMB:4C97BE87FBF959C4",
-      "KMB:FA52803E2628A212",
-      "KMB:3AD4DADA5B941CF2",
-      "KMB:8237ED597A8A948B",
-      "KMB:A4455CCA999A234C",
-      "KMB:3C821C86ADED2B9D",
-      "KMB:14BDB94A8F3ED3EC",
-      "KMB:FA7A3D77713061E9",
-      "KMB:C7120BD9A94B4F6A",
-      "KMB:825199DC3BC0C5A3",
-      "KMB:A8F178C255CF9783",
-      "KMB:ADB9356BBF06F7C7",
-      "KMB:8E3F5AE0A97053F9",
-      "KMB:68C7CBB4CAB9FE69",
-      "KMB:9CD9BFAE2BC91336",
-      "KMB:E86A26B1A389C290",
-      "KMB:4E655B25ABAE103A",
-      "KMB:18785E68EAD3D9B8"
-    ]
-  },
-  "KMB-273A-O-7": {
-    "record_id": "KMB-273A-O-7",
-    "company": "KMB",
-    "route": "273A",
-    "bound": "O",
-    "service_type": "7",
-    "origin": {
-      "en": "CHOI SHEK ESTATE",
-      "tc": "彩石邨",
-      "sc": "彩石邨"
-    },
-    "destination": {
-      "en": "WAH MING (CIRCULAR)",
-      "tc": "華明(循環線)",
-      "sc": "华明(循环线)"
-    },
-    "stop_ids": [
-      "KMB:80C387D87AFBCE3E",
-      "KMB:31005C82D70F6B09",
-      "KMB:26A1D2969A15C3AF",
-      "KMB:F8C20FE9111D486A",
-      "KMB:CF94083CB24CF4E5",
-      "KMB:08A46530B241544D",
-      "KMB:4A76CDB32FA69BC6",
-      "KMB:6F11F73C749338DB",
-      "KMB:98EBAB9468C80DD2",
-      "KMB:CA1317F5A0B8A8B2",
-      "KMB:AFD29CB1A4F71AB9",
-      "KMB:65ECD19EFD09FB74",
-      "KMB:4C97BE87FBF959C4",
-      "KMB:FA52803E2628A212",
-      "KMB:3AD4DADA5B941CF2",
       "KMB:8237ED597A8A948B",
       "KMB:A4455CCA999A234C",
       "KMB:3C821C86ADED2B9D",
@@ -38416,7 +38269,7 @@
       "KMB:C20316E552E64387",
       "KMB:093289C2E4F6F408",
       "KMB:3FAC6C2592812331",
-      "KMB:D97A36CE8D65B198",
+      "KMB:E86A26B1A389C290",
       "KMB:5501654D47E432D4"
     ]
   },
@@ -38446,7 +38299,7 @@
       "KMB:C20316E552E64387",
       "KMB:093289C2E4F6F408",
       "KMB:3FAC6C2592812331",
-      "KMB:D97A36CE8D65B198",
+      "KMB:E86A26B1A389C290",
       "KMB:5501654D47E432D4"
     ]
   },
@@ -39360,7 +39213,7 @@
       "sc": "粉岭站(循环线)"
     },
     "stop_ids": [
-      "KMB:1AB800949FF1203B",
+      "KMB:2F0E6EBEACC4B9D9",
       "KMB:B28798C421AB2D6B",
       "KMB:EDFAC4F35C0E51C7",
       "KMB:25721F85DC026ACA",
@@ -39368,7 +39221,7 @@
       "KMB:000CFEE2F92DC17B",
       "KMB:BA995ECF3EFCA99E",
       "KMB:879A98CD29D9433F",
-      "KMB:1AB800949FF1203B"
+      "KMB:2F0E6EBEACC4B9D9"
     ]
   },
   "KMB-278K-O-2": {
@@ -39388,7 +39241,7 @@
       "sc": "粉岭站(循环线) [上午特别路线]"
     },
     "stop_ids": [
-      "KMB:1AB800949FF1203B",
+      "KMB:2F0E6EBEACC4B9D9",
       "KMB:B28798C421AB2D6B",
       "KMB:4235BA400EB10F0E",
       "KMB:EDFAC4F35C0E51C7",
@@ -39397,7 +39250,7 @@
       "KMB:000CFEE2F92DC17B",
       "KMB:BA995ECF3EFCA99E",
       "KMB:879A98CD29D9433F",
-      "KMB:1AB800949FF1203B"
+      "KMB:2F0E6EBEACC4B9D9"
     ]
   },
   "KMB-278K-O-3": {
@@ -39417,7 +39270,7 @@
       "sc": "粉岭站(循环线) [下午特别路线]"
     },
     "stop_ids": [
-      "KMB:1AB800949FF1203B",
+      "KMB:2F0E6EBEACC4B9D9",
       "KMB:B28798C421AB2D6B",
       "KMB:EDFAC4F35C0E51C7",
       "KMB:25721F85DC026ACA",
@@ -39426,7 +39279,7 @@
       "KMB:BA995ECF3EFCA99E",
       "KMB:B85E71E9AFF5B087",
       "KMB:879A98CD29D9433F",
-      "KMB:1AB800949FF1203B"
+      "KMB:2F0E6EBEACC4B9D9"
     ]
   },
   "KMB-278P-O-1": {
@@ -39918,7 +39771,7 @@
       "sc": "九龙站"
     },
     "stop_ids": [
-      "KMB:EAA44CDBC231DB8C",
+      "KMB:D18861DD66E59F95",
       "KMB:75D57F5A5891A1C2",
       "KMB:03A546A0953794FA",
       "KMB:FF98F738E3D0FE6B",
@@ -39986,7 +39839,7 @@
       "KMB:CB0585244877B9B9",
       "KMB:69E4C417312C10C0",
       "KMB:C1E1199805BCC92D",
-      "KMB:EAA44CDBC231DB8C"
+      "KMB:D18861DD66E59F95"
     ]
   },
   "KMB-281B-O-1": {
@@ -40842,6 +40695,7 @@
       "KMB:2A72F4041A7E6783",
       "KMB:480DB16994F8FFEE",
       "KMB:F3433105FE5F6865",
+      "KMB:98F2067168C267FE",
       "KMB:C91C122CFC3FF66B",
       "KMB:DF10BE627F25E7DD",
       "KMB:D7C7D86E923EEAE1",
@@ -41043,7 +40897,7 @@
       "KMB:CB0585244877B9B9",
       "KMB:69E4C417312C10C0",
       "KMB:C1E1199805BCC92D",
-      "KMB:D18861DD66E59F95",
+      "KMB:E95DF08C1630AE79",
       "KMB:260B43921BAFD8CB",
       "KMB:BCEEE192EF01C361",
       "KMB:3F01C915E856B018",
@@ -41445,7 +41299,7 @@
       "KMB:9FD865B00B2D54A1",
       "KMB:64CE8117895E8FAD",
       "KMB:29740CCBBD82FC33",
-      "KMB:B932B24E7F3C5677",
+      "KMB:EB666DF59D741258",
       "KMB:A0AB9A2B2D648FF5",
       "KMB:484F835517494767",
       "KMB:E308599CF719FE37",
@@ -42279,7 +42133,7 @@
       "KMB:B64E0F355A9F4223",
       "KMB:FC42DCBDC3AB0B6F",
       "KMB:9DC52818C41A2A1B",
-      "KMB:9B90BAE383F14AD3",
+      "KMB:3BE0B584549B365D",
       "KMB:E86C2ACAFC72D243",
       "KMB:68799FD9ECBF50B1",
       "KMB:D4D418BAEAC719B0"
@@ -42310,7 +42164,7 @@
       "KMB:B64E0F355A9F4223",
       "KMB:FC42DCBDC3AB0B6F",
       "KMB:9DC52818C41A2A1B",
-      "KMB:9B90BAE383F14AD3",
+      "KMB:3BE0B584549B365D",
       "KMB:E86C2ACAFC72D243",
       "KMB:68799FD9ECBF50B1",
       "KMB:D4D418BAEAC719B0"
@@ -48702,7 +48556,7 @@
       "sc": "机场(地面运输中心)"
     },
     "stop_ids": [
-      "KMB:D44F9DCC71251889",
+      "KMB:B63202433AD89E92",
       "KMB:3582449B6BBC72AB",
       "KMB:13568DBEFE3503A6",
       "KMB:87F9F165B63331A5",
@@ -48743,7 +48597,7 @@
       "sc": "机场(地面运输中心)"
     },
     "stop_ids": [
-      "KMB:D44F9DCC71251889",
+      "KMB:B63202433AD89E92",
       "KMB:3582449B6BBC72AB",
       "KMB:13568DBEFE3503A6",
       "KMB:87F9F165B63331A5",
@@ -48804,7 +48658,7 @@
       "KMB:2AC85D87661D5AF6",
       "KMB:D1F2F468672FB541",
       "KMB:BA2B81A1A81DB398",
-      "KMB:D44F9DCC71251889"
+      "KMB:B63202433AD89E92"
     ]
   },
   "KMB-A43P-O-1": {
@@ -48824,7 +48678,7 @@
       "sc": "机场(地面运输中心)"
     },
     "stop_ids": [
-      "KMB:D44F9DCC71251889",
+      "KMB:B63202433AD89E92",
       "KMB:3582449B6BBC72AB",
       "KMB:13568DBEFE3503A6",
       "KMB:87F9F165B63331A5",
@@ -48863,7 +48717,7 @@
       "KMB:E8074D7F42D23647",
       "KMB:4455776ABFCD1605",
       "KMB:C247F858F91516CF",
-      "KMB:D44F9DCC71251889",
+      "KMB:B63202433AD89E92",
       "KMB:3582449B6BBC72AB",
       "KMB:13568DBEFE3503A6",
       "KMB:87F9F165B63331A5",
@@ -48910,7 +48764,7 @@
       "KMB:04A05525A6AB819D",
       "KMB:D1F2F468672FB541",
       "KMB:BA2B81A1A81DB398",
-      "KMB:D44F9DCC71251889"
+      "KMB:B63202433AD89E92"
     ]
   },
   "KMB-A43P-I-2": {
@@ -48944,7 +48798,7 @@
       "KMB:04A05525A6AB819D",
       "KMB:D1F2F468672FB541",
       "KMB:BA2B81A1A81DB398",
-      "KMB:D44F9DCC71251889"
+      "KMB:B63202433AD89E92"
     ]
   },
   "KMB-A43P-I-3": {
@@ -48978,7 +48832,7 @@
       "KMB:04A05525A6AB819D",
       "KMB:D1F2F468672FB541",
       "KMB:BA2B81A1A81DB398",
-      "KMB:D44F9DCC71251889",
+      "KMB:B63202433AD89E92",
       "KMB:6C2DBC45160AA4BF",
       "KMB:E5F082F4C7300273",
       "KMB:C6DEF1AF70EC3375",
@@ -49965,10 +49819,10 @@
       "KMB:2E1126EB3A7EDB00",
       "KMB:711AE4AC67F88999",
       "KMB:C7217641124605E5",
-      "KMB:1C958B99EB171940",
-      "KMB:AB63C9E8465C6002",
-      "KMB:CC57C2DF592993CB",
-      "KMB:91DBF92544F472E6",
+      "KMB:0EB1DDFEBF0D09E0",
+      "KMB:DBC287AE0C58AEC0",
+      "KMB:7F8BF075DDF6231A",
+      "KMB:2AA862C9E7E497EE",
       "KMB:D7AAC19538A45549",
       "KMB:22A8C801A98F9B7D",
       "KMB:DBA1D592108DBA72",
@@ -49998,9 +49852,9 @@
       "KMB:DBB8E01BBE8C66ED",
       "KMB:7DF092F3A5418694",
       "KMB:364754E2273129B7",
-      "KMB:7F8BF075DDF6231A",
-      "KMB:2AA862C9E7E497EE",
-      "KMB:FE6D5955F777E39C",
+      "KMB:CC57C2DF592993CB",
+      "KMB:E6AD97BD84D3C0BC",
+      "KMB:92E674C6961B07CA",
       "KMB:D153D63F650C1D36",
       "KMB:D62C524F32F472E6",
       "KMB:0E987A8094AF742E",
@@ -50358,10 +50212,10 @@
       "KMB:C4BDAA5047CADCBA",
       "KMB:249DF4A1B287E14F",
       "KMB:3465CA4854929709",
-      "KMB:1C958B99EB171940",
-      "KMB:AB63C9E8465C6002",
-      "KMB:CC57C2DF592993CB",
-      "KMB:91DBF92544F472E6",
+      "KMB:0EB1DDFEBF0D09E0",
+      "KMB:92E674C6961B07CA",
+      "KMB:7F8BF075DDF6231A",
+      "KMB:2AA862C9E7E497EE",
       "KMB:D7AAC19538A45549",
       "KMB:22A8C801A98F9B7D",
       "KMB:DBA1D592108DBA72",
@@ -50399,9 +50253,9 @@
       "KMB:DBB8E01BBE8C66ED",
       "KMB:7DF092F3A5418694",
       "KMB:364754E2273129B7",
-      "KMB:7F8BF075DDF6231A",
-      "KMB:2AA862C9E7E497EE",
-      "KMB:FE6D5955F777E39C",
+      "KMB:CC57C2DF592993CB",
+      "KMB:C9479F7A9B2C43CE",
+      "KMB:92E674C6961B07CA",
       "KMB:D153D63F650C1D36",
       "KMB:D62C524F32F472E6",
       "KMB:80818BFC3FE76A5B",
@@ -51884,7 +51738,7 @@
       "KMB:4513DF30B4CBA349",
       "KMB:E7116B44D9E9393A",
       "KMB:942E95B4336BDFA7",
-      "KMB:942084E1090F193E",
+      "KMB:EB666DF59D741258",
       "KMB:A0AB9A2B2D648FF5",
       "KMB:484F835517494767",
       "KMB:E308599CF719FE37",
@@ -52896,7 +52750,7 @@
       "KMB:9FD865B00B2D54A1",
       "KMB:64CE8117895E8FAD",
       "KMB:29740CCBBD82FC33",
-      "KMB:942084E1090F193E",
+      "KMB:EB666DF59D741258",
       "KMB:A0AB9A2B2D648FF5",
       "KMB:484F835517494767",
       "KMB:E308599CF719FE37",
@@ -53040,6 +52894,7 @@
       "KMB:EA2CFF27310EAEC3",
       "KMB:93084A14AE624C6F",
       "KMB:A8CE52F4450FE939",
+      "KMB:D95CAEA4D5C491E2",
       "KMB:41E81A921D79F375",
       "KMB:04B6438688E12AC0",
       "KMB:6CEE063506576EDB",
@@ -53259,10 +53114,10 @@
       "KMB:60D5F0433813AA06",
       "KMB:A78ABC54E2286C0D",
       "KMB:CD6DA881946B9654",
-      "KMB:1C958B99EB171940",
-      "KMB:AB63C9E8465C6002",
-      "KMB:CC57C2DF592993CB",
-      "KMB:91DBF92544F472E6",
+      "KMB:0EB1DDFEBF0D09E0",
+      "KMB:DBC287AE0C58AEC0",
+      "KMB:7F8BF075DDF6231A",
+      "KMB:2AA862C9E7E497EE",
       "KMB:D7AAC19538A45549",
       "KMB:22A8C801A98F9B7D",
       "KMB:DBA1D592108DBA72",
@@ -53317,9 +53172,9 @@
       "KMB:DBB8E01BBE8C66ED",
       "KMB:7DF092F3A5418694",
       "KMB:364754E2273129B7",
-      "KMB:7F8BF075DDF6231A",
-      "KMB:2AA862C9E7E497EE",
-      "KMB:FE6D5955F777E39C",
+      "KMB:CC57C2DF592993CB",
+      "KMB:E6AD97BD84D3C0BC",
+      "KMB:92E674C6961B07CA",
       "KMB:D153D63F650C1D36",
       "KMB:D62C524F32F472E6",
       "KMB:6A22FBF7825E3E7F",
@@ -53812,7 +53667,7 @@
       "sc": "东涌站"
     },
     "stop_ids": [
-      "KMB:D44F9DCC71251889",
+      "KMB:B63202433AD89E92",
       "KMB:3582449B6BBC72AB",
       "KMB:13568DBEFE3503A6",
       "KMB:87F9F165B63331A5",
@@ -53897,7 +53752,7 @@
       "KMB:2AC85D87661D5AF6",
       "KMB:D1F2F468672FB541",
       "KMB:BA2B81A1A81DB398",
-      "KMB:D44F9DCC71251889"
+      "KMB:B63202433AD89E92"
     ]
   },
   "KMB-N43-O-1": {
@@ -55078,7 +54933,7 @@
       "sc": "港珠澳大桥香港口岸"
     },
     "stop_ids": [
-      "KMB:D44F9DCC71251889",
+      "KMB:B63202433AD89E92",
       "KMB:3582449B6BBC72AB",
       "KMB:13568DBEFE3503A6",
       "KMB:87F9F165B63331A5",
@@ -55142,7 +54997,7 @@
       "KMB:2AC85D87661D5AF6",
       "KMB:D1F2F468672FB541",
       "KMB:BA2B81A1A81DB398",
-      "KMB:D44F9DCC71251889"
+      "KMB:B63202433AD89E92"
     ]
   },
   "KMB-NA47-O-1": {
@@ -58103,7 +57958,7 @@
       "KMB:2AC85D87661D5AF6",
       "KMB:D1F2F468672FB541",
       "KMB:BA2B81A1A81DB398",
-      "KMB:D44F9DCC71251889"
+      "KMB:B63202433AD89E92"
     ]
   },
   "KMB-X47-O-1": {
@@ -62607,55 +62462,6 @@
       "CTB:001249"
     ]
   },
-  "CTB-47P-O": {
-    "record_id": "CTB-47P-O",
-    "company": "CTB",
-    "route": "47P",
-    "bound": "O",
-    "origin": {
-      "en": "Kennedy Town",
-      "tc": "堅尼地城",
-      "sc": "坚尼地城"
-    },
-    "destination": {
-      "en": "Wong Chuk Hang",
-      "tc": "黃竹坑",
-      "sc": "黄竹坑"
-    },
-    "stop_ids": [
-      "CTB:001177",
-      "CTB:001183",
-      "CTB:001003",
-      "CTB:001004",
-      "CTB:001005",
-      "CTB:001164",
-      "CTB:001165",
-      "CTB:001166",
-      "CTB:001167",
-      "CTB:001168",
-      "CTB:002384",
-      "CTB:002307",
-      "CTB:002308",
-      "CTB:002309",
-      "CTB:002310",
-      "CTB:002327",
-      "CTB:002311",
-      "CTB:002312",
-      "CTB:002313",
-      "CTB:002314",
-      "CTB:002315",
-      "CTB:002680",
-      "CTB:002260",
-      "CTB:003287",
-      "CTB:002157",
-      "CTB:002158",
-      "CTB:002159",
-      "CTB:002344",
-      "CTB:002383",
-      "CTB:002399",
-      "CTB:002371"
-    ]
-  },
   "CTB-48-I": {
     "record_id": "CTB-48-I",
     "company": "CTB",
@@ -63534,6 +63340,7 @@
       "CTB:003910",
       "CTB:003672",
       "CTB:001926",
+      "CTB:003850",
       "CTB:003455",
       "CTB:003828",
       "CTB:003829",
@@ -63604,6 +63411,7 @@
       "CTB:001586",
       "CTB:003672",
       "CTB:001926",
+      "CTB:003850",
       "CTB:003455",
       "CTB:003828",
       "CTB:003829",
@@ -63666,6 +63474,7 @@
       "CTB:003594",
       "CTB:003837",
       "CTB:001985",
+      "CTB:003850",
       "CTB:003455",
       "CTB:003828",
       "CTB:003829",
@@ -64041,6 +63850,8 @@
       "CTB:002305",
       "CTB:002302",
       "CTB:002277",
+      "CTB:002278",
+      "CTB:002279",
       "CTB:002378",
       "CTB:002387",
       "CTB:002175",
@@ -64052,11 +63863,6 @@
       "CTB:002397",
       "CTB:002194",
       "CTB:002192",
-      "CTB:002278",
-      "CTB:002279",
-      "CTB:002273",
-      "CTB:002270",
-      "CTB:002271",
       "CTB:002272",
       "CTB:002380",
       "CTB:002242",
@@ -64133,16 +63939,11 @@
       "CTB:002374",
       "CTB:002176",
       "CTB:002179",
-      "CTB:002274",
-      "CTB:002268",
-      "CTB:002379",
-      "CTB:002269",
-      "CTB:002266",
-      "CTB:002280",
-      "CTB:002276",
-      "CTB:002378",
       "CTB:002181",
       "CTB:002386",
+      "CTB:002378",
+      "CTB:002280",
+      "CTB:002276",
       "CTB:002281",
       "CTB:002303",
       "CTB:002304",
@@ -64679,114 +64480,6 @@
       "CTB:002386",
       "CTB:002378",
       "CTB:002277"
-    ]
-  },
-  "CTB-66-I": {
-    "record_id": "CTB-66-I",
-    "company": "CTB",
-    "route": "66",
-    "bound": "I",
-    "origin": {
-      "en": "Stanley Plaza (Ma Hang)",
-      "tc": "赤柱廣場 (馬坑)",
-      "sc": "赤柱广场 (马坑)"
-    },
-    "destination": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "stop_ids": [
-      "CTB:002378",
-      "CTB:002387",
-      "CTB:002175",
-      "CTB:002180",
-      "CTB:002178",
-      "CTB:002177",
-      "CTB:002375",
-      "CTB:002377",
-      "CTB:002397",
-      "CTB:002194",
-      "CTB:002192",
-      "CTB:002272",
-      "CTB:002380",
-      "CTB:002242",
-      "CTB:002257",
-      "CTB:002241",
-      "CTB:002251",
-      "CTB:002381",
-      "CTB:002249",
-      "CTB:002246",
-      "CTB:002370",
-      "CTB:002255",
-      "CTB:002258",
-      "CTB:002544",
-      "CTB:002545",
-      "CTB:002546",
-      "CTB:002506",
-      "CTB:002507",
-      "CTB:002508",
-      "CTB:002509",
-      "CTB:002510",
-      "CTB:002487",
-      "CTB:002569",
-      "CTB:002488",
-      "CTB:002489",
-      "CTB:001140",
-      "CTB:002596",
-      "CTB:001106",
-      "CTB:001032"
-    ]
-  },
-  "CTB-66-O": {
-    "record_id": "CTB-66-O",
-    "company": "CTB",
-    "route": "66",
-    "bound": "O",
-    "origin": {
-      "en": "Central (Exchange Square)",
-      "tc": "中環 (交易廣場)",
-      "sc": "中环 (交易广场)"
-    },
-    "destination": {
-      "en": "Stanley Plaza (Ma Hang)",
-      "tc": "赤柱廣場 (馬坑)",
-      "sc": "赤柱广场 (马坑)"
-    },
-    "stop_ids": [
-      "CTB:001032",
-      "CTB:001031",
-      "CTB:001136",
-      "CTB:002479",
-      "CTB:002480",
-      "CTB:002481",
-      "CTB:002482",
-      "CTB:002484",
-      "CTB:002494",
-      "CTB:002495",
-      "CTB:002496",
-      "CTB:002541",
-      "CTB:002542",
-      "CTB:002543",
-      "CTB:002243",
-      "CTB:002250",
-      "CTB:002244",
-      "CTB:002245",
-      "CTB:002247",
-      "CTB:002252",
-      "CTB:002248",
-      "CTB:002256",
-      "CTB:002267",
-      "CTB:002191",
-      "CTB:002193",
-      "CTB:002195",
-      "CTB:002376",
-      "CTB:002374",
-      "CTB:002176",
-      "CTB:002179",
-      "CTB:002181",
-      "CTB:002386",
-      "CTB:002378"
     ]
   },
   "CTB-679-O": {
@@ -65326,7 +65019,6 @@
       "CTB:001826",
       "CTB:001752",
       "CTB:001736",
-      "CTB:001727",
       "CTB:001737",
       "CTB:001753",
       "CTB:001673",
@@ -68142,6 +67834,13 @@
       "CTB:003329",
       "CTB:002919",
       "CTB:002920",
+      "CTB:002921",
+      "CTB:002922",
+      "CTB:002923",
+      "CTB:002924",
+      "CTB:002925",
+      "CTB:002926",
+      "CTB:002927",
       "CTB:003785",
       "CTB:003787",
       "CTB:003826",
@@ -68194,7 +67893,6 @@
       "CTB:002150",
       "CTB:002151",
       "CTB:002910",
-      "CTB:001828",
       "CTB:001737",
       "CTB:002905",
       "CTB:001764",
@@ -68724,12 +68422,6 @@
       "sc": "日出康城"
     },
     "stop_ids": [
-      "CTB:001590",
-      "CTB:001419",
-      "CTB:001420",
-      "CTB:003302",
-      "CTB:001803",
-      "CTB:003050",
       "CTB:003051",
       "CTB:002984",
       "CTB:003052",
@@ -68745,20 +68437,11 @@
       "CTB:001778",
       "CTB:002906",
       "CTB:002933",
-      "CTB:001826",
-      "CTB:001818",
-      "CTB:002918",
       "CTB:003477",
       "CTB:003473",
       "CTB:003160",
       "CTB:003225",
-      "CTB:002919",
-      "CTB:002920",
-      "CTB:002921",
-      "CTB:002922",
-      "CTB:002923",
-      "CTB:003478",
-      "CTB:002923"
+      "CTB:003329"
     ]
   },
   "CTB-796X-O": {
@@ -68777,13 +68460,7 @@
       "sc": "红磡及土瓜湾"
     },
     "stop_ids": [
-      "CTB:002923",
-      "CTB:002924",
-      "CTB:002925",
-      "CTB:002926",
-      "CTB:002927",
-      "CTB:002928",
-      "CTB:002929",
+      "CTB:003329",
       "CTB:002930",
       "CTB:002931",
       "CTB:003471",
@@ -68795,20 +68472,16 @@
       "CTB:002916",
       "CTB:001821",
       "CTB:003589",
-      "CTB:001575",
-      "CTB:001576",
-      "CTB:003053",
-      "CTB:002981",
-      "CTB:003030",
-      "CTB:001538",
-      "CTB:003330",
-      "CTB:001531",
-      "CTB:003331",
-      "CTB:001477",
-      "CTB:003301",
-      "CTB:001416",
-      "CTB:001418",
-      "CTB:001590"
+      "CTB:003146",
+      "CTB:003051",
+      "CTB:002984",
+      "CTB:003052",
+      "CTB:001535",
+      "CTB:001772",
+      "CTB:001529",
+      "CTB:001572",
+      "CTB:001573",
+      "CTB:002976"
     ]
   },
   "CTB-797-I": {
@@ -68827,16 +68500,18 @@
       "sc": "日出康城／将军澳工业邨"
     },
     "stop_ids": [
-      "CTB:001502",
-      "CTB:001575",
+      "CTB:003697",
+      "CTB:003706",
+      "CTB:003369",
+      "CTB:003505",
+      "CTB:003808",
       "CTB:003856",
-      "CTB:003827",
-      "CTB:001699",
-      "CTB:003712",
-      "CTB:003713",
-      "CTB:002976",
-      "CTB:001829",
-      "CTB:001503",
+      "CTB:003709",
+      "CTB:003795",
+      "CTB:001610",
+      "CTB:003938",
+      "CTB:001611",
+      "CTB:001612",
       "CTB:001773",
       "CTB:001655",
       "CTB:003592",
@@ -68892,15 +68567,21 @@
       "CTB:001607",
       "CTB:001502",
       "CTB:001575",
+      "CTB:003697",
+      "CTB:003706",
+      "CTB:003369",
+      "CTB:003505",
+      "CTB:003808",
       "CTB:003856",
       "CTB:003827",
       "CTB:001699",
       "CTB:003712",
       "CTB:003713",
-      "CTB:002976",
-      "CTB:001829",
-      "CTB:001503",
-      "CTB:001773"
+      "CTB:003709",
+      "CTB:003795",
+      "CTB:001610",
+      "CTB:003938",
+      "CTB:001611"
     ]
   },
   "CTB-798-I": {
@@ -68961,7 +68642,6 @@
       "CTB:001826",
       "CTB:001752",
       "CTB:001736",
-      "CTB:001727",
       "CTB:001737",
       "CTB:001753",
       "CTB:001785",
@@ -70450,7 +70130,6 @@
       "CTB:001226",
       "CTB:001227",
       "CTB:001228",
-      "CTB:002581",
       "CTB:001339",
       "CTB:001340",
       "CTB:001341",
@@ -70630,7 +70309,6 @@
       "CTB:001339",
       "CTB:001340",
       "CTB:001341",
-      "CTB:002581",
       "CTB:001387",
       "CTB:001229",
       "CTB:001230",
@@ -71067,7 +70745,6 @@
       "sc": "鸭脷洲邨"
     },
     "stop_ids": [
-      "CTB:001196",
       "CTB:001145",
       "CTB:001144",
       "CTB:001032",
@@ -71375,15 +71052,7 @@
       "CTB:003845",
       "CTB:002423",
       "CTB:002568",
-      "CTB:003415",
-      "CTB:001476",
-      "CTB:002570",
-      "CTB:002417",
-      "CTB:002421",
-      "CTB:001074",
-      "CTB:001181",
-      "CTB:001037",
-      "CTB:001027"
+      "CTB:003415"
     ]
   },
   "CTB-930A-I": {
@@ -71553,14 +71222,6 @@
       "CTB:003449",
       "CTB:003417",
       "CTB:003418",
-      "CTB:001476",
-      "CTB:002570",
-      "CTB:002417",
-      "CTB:002421",
-      "CTB:001074",
-      "CTB:001181",
-      "CTB:001037",
-      "CTB:001027",
       "CTB:001629",
       "CTB:003253",
       "CTB:001028",
@@ -72709,14 +72370,6 @@
       "CTB:002600",
       "CTB:002601",
       "CTB:003358",
-      "CTB:001476",
-      "CTB:002570",
-      "CTB:002417",
-      "CTB:002421",
-      "CTB:001074",
-      "CTB:001181",
-      "CTB:001037",
-      "CTB:001027",
       "CTB:001629",
       "CTB:001028",
       "CTB:001029",
@@ -72794,14 +72447,6 @@
       "CTB:001989",
       "CTB:002030",
       "CTB:001973",
-      "CTB:001476",
-      "CTB:002570",
-      "CTB:002417",
-      "CTB:002421",
-      "CTB:001074",
-      "CTB:001181",
-      "CTB:001037",
-      "CTB:001027",
       "CTB:001629",
       "CTB:003253",
       "CTB:001028",
@@ -72958,14 +72603,6 @@
       "CTB:002001",
       "CTB:002153",
       "CTB:001973",
-      "CTB:001476",
-      "CTB:002570",
-      "CTB:002417",
-      "CTB:002421",
-      "CTB:001074",
-      "CTB:001181",
-      "CTB:001037",
-      "CTB:001027",
       "CTB:001629",
       "CTB:003253",
       "CTB:001028",
@@ -74928,24 +74565,27 @@
     "route": "A20",
     "bound": "I",
     "origin": {
-      "en": "Airport",
-      "tc": "機場",
-      "sc": "机场"
+      "en": "Airport (via HZMB Hong Kong Port)",
+      "tc": "機場 (經港珠澳大橋香港口岸)",
+      "sc": "机场 (经港珠澳大桥香港口岸)"
     },
     "destination": {
-      "en": "Hung Hom Station",
-      "tc": "紅磡站",
-      "sc": "红磡站"
+      "en": "Ho Man Tin",
+      "tc": "何文田",
+      "sc": "何文田"
     },
     "stop_ids": [
       "CTB:001837",
+      "CTB:003540",
       "CTB:001854",
       "CTB:002032",
       "CTB:001435",
       "CTB:001436",
+      "CTB:001437",
       "CTB:001438",
       "CTB:001442",
       "CTB:001802",
+      "CTB:001445",
       "CTB:001446",
       "CTB:001770",
       "CTB:002849",
@@ -74961,12 +74601,14 @@
       "CTB:003516",
       "CTB:002719",
       "CTB:002720",
-      "CTB:003570",
-      "CTB:003000",
-      "CTB:003001",
-      "CTB:003002",
-      "CTB:002725",
-      "CTB:001422"
+      "CTB:002721",
+      "CTB:002722",
+      "CTB:002723",
+      "CTB:002995",
+      "CTB:002996",
+      "CTB:003972",
+      "CTB:003003",
+      "CTB:002994"
     ]
   },
   "CTB-A20-O": {
@@ -74975,20 +74617,19 @@
     "route": "A20",
     "bound": "O",
     "origin": {
-      "en": "Hung Hom Station",
-      "tc": "紅磡站",
-      "sc": "红磡站"
+      "en": "Ho Man Tin",
+      "tc": "何文田",
+      "sc": "何文田"
     },
     "destination": {
-      "en": "Airport",
-      "tc": "機場",
-      "sc": "机场"
+      "en": "Airport (via HZMB Hong Kong Port)",
+      "tc": "機場 (經港珠澳大橋香港口岸)",
+      "sc": "机场 (经港珠澳大桥香港口岸)"
     },
     "stop_ids": [
-      "CTB:001422",
-      "CTB:001803",
-      "CTB:003569",
-      "CTB:002999",
+      "CTB:002994",
+      "CTB:003055",
+      "CTB:003570",
       "CTB:003000",
       "CTB:003001",
       "CTB:003002",
@@ -75002,22 +74643,16 @@
       "CTB:003510",
       "CTB:002864",
       "CTB:002876",
-      "CTB:002878",
-      "CTB:001595",
-      "CTB:002850",
-      "CTB:002851",
-      "CTB:001554",
-      "CTB:001555",
-      "CTB:001425",
-      "CTB:001428",
-      "CTB:001430",
-      "CTB:001431",
-      "CTB:001433",
-      "CTB:001517",
-      "CTB:002033",
+      "CTB:001707",
+      "CTB:003408",
+      "CTB:002897",
+      "CTB:002593",
+      "CTB:002882",
+      "CTB:003222",
       "CTB:001853",
       "CTB:002714",
       "CTB:002715",
+      "CTB:003550",
       "CTB:001837"
     ]
   },
@@ -75753,6 +75388,7 @@
       "CTB:003193",
       "CTB:003219",
       "CTB:002602",
+      "CTB:003988",
       "CTB:002041",
       "CTB:002031",
       "CTB:001923",
@@ -76221,8 +75857,8 @@
       "CTB:001880",
       "CTB:001882",
       "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003943",
+      "CTB:003944",
       "CTB:003814",
       "CTB:003815",
       "CTB:001854",
@@ -76274,14 +75910,13 @@
       "CTB:001628",
       "CTB:001853",
       "CTB:003814",
-      "CTB:003815",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003945",
+      "CTB:003950",
+      "CTB:003454",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001856",
       "CTB:001855",
       "CTB:001864",
@@ -76324,8 +75959,8 @@
       "CTB:001880",
       "CTB:001882",
       "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003943",
+      "CTB:003944",
       "CTB:003814",
       "CTB:003815",
       "CTB:001854",
@@ -76377,14 +76012,13 @@
       "CTB:001628",
       "CTB:001853",
       "CTB:003814",
-      "CTB:003815",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003945",
+      "CTB:003950",
+      "CTB:003454",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001869",
       "CTB:001857",
       "CTB:001874",
@@ -76604,8 +76238,8 @@
       "CTB:001880",
       "CTB:001882",
       "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003943",
+      "CTB:003944",
       "CTB:003814",
       "CTB:003815",
       "CTB:001854",
@@ -76670,14 +76304,13 @@
       "CTB:002033",
       "CTB:001853",
       "CTB:003814",
-      "CTB:003815",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003945",
+      "CTB:003950",
+      "CTB:003454",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001869",
       "CTB:001857",
       "CTB:003566",
@@ -76898,8 +76531,8 @@
       "CTB:001880",
       "CTB:001882",
       "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003943",
+      "CTB:003944",
       "CTB:003814",
       "CTB:003815",
       "CTB:001854",
@@ -76962,14 +76595,13 @@
       "CTB:002007",
       "CTB:001853",
       "CTB:003814",
-      "CTB:003815",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003945",
+      "CTB:003950",
+      "CTB:003454",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001864",
       "CTB:001839",
       "CTB:001863",
@@ -77010,8 +76642,8 @@
       "CTB:001880",
       "CTB:001882",
       "CTB:003452",
-      "CTB:003453",
-      "CTB:003443",
+      "CTB:003943",
+      "CTB:003944",
       "CTB:003814",
       "CTB:003815",
       "CTB:001854",
@@ -77499,15 +77131,13 @@
       "CTB:001725",
       "CTB:001853",
       "CTB:003814",
-      "CTB:003815",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003452",
-      "CTB:003453",
+      "CTB:003945",
+      "CTB:003950",
       "CTB:003454",
-      "CTB:003443",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001874",
       "CTB:002589",
       "CTB:001870",
@@ -77866,11 +77496,12 @@
       "CTB:001482",
       "CTB:003897",
       "CTB:001853",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003443",
+      "CTB:003909",
+      "CTB:003949",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001856",
       "CTB:001855",
       "CTB:001864",
@@ -78507,11 +78138,12 @@
       "CTB:002006",
       "CTB:002007",
       "CTB:001853",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003443",
+      "CTB:003909",
+      "CTB:003949",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001874",
       "CTB:001856",
       "CTB:001855",
@@ -78941,8 +78573,16 @@
       "CTB:001549",
       "CTB:001551",
       "CTB:001553",
-      "CTB:001396",
-      "CTB:001423",
+      "CTB:001554",
+      "CTB:001555",
+      "CTB:001425",
+      "CTB:001427",
+      "CTB:001428",
+      "CTB:003303",
+      "CTB:001430",
+      "CTB:001431",
+      "CTB:001432",
+      "CTB:001433",
       "CTB:001517",
       "CTB:002033",
       "CTB:003359",
@@ -78988,7 +78628,14 @@
       "CTB:003358",
       "CTB:002032",
       "CTB:001435",
-      "CTB:001515",
+      "CTB:001436",
+      "CTB:001437",
+      "CTB:001438",
+      "CTB:001442",
+      "CTB:001802",
+      "CTB:001445",
+      "CTB:001446",
+      "CTB:001770",
       "CTB:001775",
       "CTB:001561",
       "CTB:001565",
@@ -80310,6 +79957,8 @@
       "CTB:001061",
       "CTB:001190",
       "CTB:001028",
+      "CTB:002422",
+      "CTB:002423",
       "CTB:001256",
       "CTB:001257",
       "CTB:001265",
@@ -80495,9 +80144,9 @@
     "route": "NA21",
     "bound": "I",
     "origin": {
-      "en": "Tai Kok Tsui (Hoi Fai Road)",
-      "tc": "大角咀 (海輝道)",
-      "sc": "大角咀 (海辉道)"
+      "en": "Mongkok /  Nam Cheong",
+      "tc": "旺角 / 南昌",
+      "sc": "旺角 / 南昌"
     },
     "destination": {
       "en": "Airport / HZMB Hong Kong Port",
@@ -80505,10 +80154,25 @@
       "sc": "机场 / 港珠澳大桥香港口岸"
     },
     "stop_ids": [
+      "CTB:001436",
+      "CTB:001437",
+      "CTB:001438",
+      "CTB:001442",
+      "CTB:001802",
+      "CTB:001445",
+      "CTB:001446",
+      "CTB:001770",
       "CTB:002849",
       "CTB:001396",
       "CTB:001423",
       "CTB:001707",
+      "CTB:003408",
+      "CTB:002897",
+      "CTB:002593",
+      "CTB:002882",
+      "CTB:003222",
+      "CTB:001517",
+      "CTB:002033",
       "CTB:001853",
       "CTB:001844",
       "CTB:002714",
@@ -80528,19 +80192,34 @@
       "sc": "机场 / 港珠澳大桥香港口岸"
     },
     "destination": {
-      "en": "Tai Kok Tsui (Hoi Fai Road)",
-      "tc": "大角咀 (海輝道)",
-      "sc": "大角咀 (海辉道)"
+      "en": "Mongkok /  Nam Cheong",
+      "tc": "旺角 / 南昌",
+      "sc": "旺角 / 南昌"
     },
     "stop_ids": [
       "CTB:003540",
       "CTB:001837",
       "CTB:001845",
       "CTB:001854",
+      "CTB:002032",
+      "CTB:001435",
+      "CTB:001436",
+      "CTB:001437",
+      "CTB:001438",
+      "CTB:001442",
+      "CTB:001802",
+      "CTB:001445",
+      "CTB:001446",
+      "CTB:001770",
       "CTB:002849",
       "CTB:001396",
       "CTB:001423",
-      "CTB:001707"
+      "CTB:001707",
+      "CTB:003408",
+      "CTB:002897",
+      "CTB:002593",
+      "CTB:002882",
+      "CTB:003222"
     ]
   },
   "CTB-NA29-I": {
@@ -80870,8 +80549,7 @@
       "CTB:001882",
       "CTB:003452",
       "CTB:003453",
-      "CTB:003454",
-      "CTB:003443",
+      "CTB:003944",
       "CTB:003814",
       "CTB:003815"
     ]
@@ -80893,15 +80571,14 @@
     },
     "stop_ids": [
       "CTB:003814",
-      "CTB:003815",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003452",
-      "CTB:003453",
+      "CTB:003945",
+      "CTB:003950",
+      "CTB:003943",
       "CTB:003454",
-      "CTB:003443",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001856",
       "CTB:001855",
       "CTB:001860",
@@ -80969,16 +80646,15 @@
     "stop_ids": [
       "CTB:001860",
       "CTB:001875",
-      "CTB:001876",
-      "CTB:001878",
-      "CTB:001880",
-      "CTB:001882",
-      "CTB:003452",
-      "CTB:003453",
-      "CTB:003454",
-      "CTB:003443",
       "CTB:003814",
-      "CTB:003815",
+      "CTB:003945",
+      "CTB:003950",
+      "CTB:003943",
+      "CTB:003454",
+      "CTB:001883",
+      "CTB:002710",
+      "CTB:001879",
+      "CTB:001877",
       "CTB:001846",
       "CTB:002657",
       "CTB:001832",
@@ -85494,6 +85170,7 @@
       "KMBCTB:1C111CE3CE325C6A",
       "KMBCTB:A971B9FF20627145",
       "KMBCTB:28A55D04DC72B1EA",
+      "KMBCTB:D95CAEA4D5C491E2",
       "KMBCTB:41E81A921D79F375",
       "KMBCTB:04B6438688E12AC0",
       "KMBCTB:6CEE063506576EDB",
@@ -85590,6 +85267,7 @@
       "KMBCTB:1C111CE3CE325C6A",
       "KMBCTB:A971B9FF20627145",
       "KMBCTB:28A55D04DC72B1EA",
+      "KMBCTB:D95CAEA4D5C491E2",
       "KMBCTB:41E81A921D79F375",
       "KMBCTB:04B6438688E12AC0",
       "KMBCTB:6CEE063506576EDB",
@@ -85778,7 +85456,7 @@
       "KMBCTB:E905F8E518AE17B6",
       "KMBCTB:24AD2532770CF399",
       "KMBCTB:5564FED01546FF23",
-      "KMBCTB:F140654A12BA066A",
+      "KMBCTB:099263A4B4AAEDFB",
       "KMBCTB:5358062C769CEC05",
       "KMBCTB:C32B9494869D5BBF",
       "KMBCTB:3F9AE21DC3A540B9",
@@ -85908,7 +85586,7 @@
       "KMBCTB:E905F8E518AE17B6",
       "KMBCTB:24AD2532770CF399",
       "KMBCTB:5564FED01546FF23",
-      "KMBCTB:F140654A12BA066A",
+      "KMBCTB:099263A4B4AAEDFB",
       "KMBCTB:5358062C769CEC05",
       "KMBCTB:C32B9494869D5BBF",
       "KMBCTB:3F9AE21DC3A540B9",
@@ -89375,7 +89053,7 @@
       "sc": "中环(港澳码头)"
     },
     "stop_ids": [
-      "KMBCTB:EAA44CDBC231DB8C",
+      "KMBCTB:D18861DD66E59F95",
       "KMBCTB:7E3C2CA5ABEC8416",
       "KMBCTB:BCEEE192EF01C361",
       "KMBCTB:3F01C915E856B018",
@@ -90013,13 +89691,11 @@
       "KMBCTB:E2BB3825832556CA"
     ]
   },
-  "MTRB-506_GG_TMS-outbound-2": {
-    "record_id": "MTRB-506_GG_TMS-outbound-2",
+  "MTRB-506-506_GG_TMS": {
+    "record_id": "MTRB-506-506_GG_TMS",
     "company": "MTRB",
-    "route_id": "506_GG_TMS",
     "route": "506",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "506_GG_TMS",
     "origin": {
       "en": "Glorious Garden",
       "tc": "富健花園",
@@ -90038,13 +89714,11 @@
       "MTRB:506-U075"
     ]
   },
-  "MTRB-506_SL-outbound-1": {
-    "record_id": "MTRB-506_SL-outbound-1",
+  "MTRB-506-506_SL": {
+    "record_id": "MTRB-506-506_SL",
     "company": "MTRB",
-    "route_id": "506_SL",
     "route": "506",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "506_SL",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -90070,13 +89744,11 @@
       "MTRB:506-U120"
     ]
   },
-  "MTRB-506_TMFP-inbound-1": {
-    "record_id": "MTRB-506_TMFP-inbound-1",
+  "MTRB-506-506_TMFP": {
+    "record_id": "MTRB-506-506_TMFP",
     "company": "MTRB",
-    "route_id": "506_TMFP",
     "route": "506",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "506_TMFP",
     "origin": {
       "en": "Siu Lun",
       "tc": "兆麟",
@@ -90104,13 +89776,11 @@
       "MTRB:506-D140"
     ]
   },
-  "MTRB-K12_EG-outbound-1": {
-    "record_id": "MTRB-K12_EG-outbound-1",
+  "MTRB-K12-K12_EG": {
+    "record_id": "MTRB-K12-K12_EG",
     "company": "MTRB",
-    "route_id": "K12_EG",
     "route": "K12",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K12_EG",
     "origin": {
       "en": "Tai Po Market Station",
       "tc": "大埔墟站",
@@ -90127,13 +89797,11 @@
       "MTRB:K12-U030"
     ]
   },
-  "MTRB-K12_TPMS-inbound-1": {
-    "record_id": "MTRB-K12_TPMS-inbound-1",
+  "MTRB-K12-K12_TPMS": {
+    "record_id": "MTRB-K12-K12_TPMS",
     "company": "MTRB",
-    "route_id": "K12_TPMS",
     "route": "K12",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K12_TPMS",
     "origin": {
       "en": "Eightland Garden",
       "tc": "八號花園",
@@ -90151,13 +89819,11 @@
       "MTRB:K12-D040"
     ]
   },
-  "MTRB-K14_TPMS-outbound-1": {
-    "record_id": "MTRB-K14_TPMS-outbound-1",
+  "MTRB-K14-K14_TPMS": {
+    "record_id": "MTRB-K14-K14_TPMS",
     "company": "MTRB",
-    "route_id": "K14_TPMS",
     "route": "K14",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K14_TPMS",
     "origin": {
       "en": "Tai Po Mega Mall",
       "tc": "大埔超級城",
@@ -90174,13 +89840,11 @@
       "MTRB:K14-D030"
     ]
   },
-  "MTRB-K17_FS-outbound-1": {
-    "record_id": "MTRB-K17_FS-outbound-1",
+  "MTRB-K17-K17_FS": {
+    "record_id": "MTRB-K17-K17_FS",
     "company": "MTRB",
-    "route_id": "K17_FS",
     "route": "K17",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K17_FS",
     "origin": {
       "en": "Tai Po Market Station",
       "tc": "大埔墟站",
@@ -90198,13 +89862,11 @@
       "MTRB:K17-U040"
     ]
   },
-  "MTRB-K17_TPMS-inbound-1": {
-    "record_id": "MTRB-K17_TPMS-inbound-1",
+  "MTRB-K17-K17_TPMS": {
+    "record_id": "MTRB-K17-K17_TPMS",
     "company": "MTRB",
-    "route_id": "K17_TPMS",
     "route": "K17",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K17_TPMS",
     "origin": {
       "en": "Fu Shin",
       "tc": "富善",
@@ -90221,13 +89883,11 @@
       "MTRB:K17-D030"
     ]
   },
-  "MTRB-K18_KF-outbound-1": {
-    "record_id": "MTRB-K18_KF-outbound-1",
+  "MTRB-K18-K18_KF": {
+    "record_id": "MTRB-K18-K18_KF",
     "company": "MTRB",
-    "route_id": "K18_KF",
     "route": "K18",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K18_KF",
     "origin": {
       "en": "Tai Po Market Station",
       "tc": "大埔墟站",
@@ -90244,13 +89904,11 @@
       "MTRB:K18-U030"
     ]
   },
-  "MTRB-K18_TPMS-inbound-1": {
-    "record_id": "MTRB-K18_TPMS-inbound-1",
+  "MTRB-K18-K18_TPMS": {
+    "record_id": "MTRB-K18-K18_TPMS",
     "company": "MTRB",
-    "route_id": "K18_TPMS",
     "route": "K18",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K18_TPMS",
     "origin": {
       "en": "Kwong Fuk",
       "tc": "廣福",
@@ -90267,38 +89925,11 @@
       "MTRB:K18-D030"
     ]
   },
-  "MTRB-K51_FT_SHS-outbound-2": {
-    "record_id": "MTRB-K51_FT_SHS-outbound-2",
+  "MTRB-K51-K51_FT": {
+    "record_id": "MTRB-K51-K51_FT",
     "company": "MTRB",
-    "route_id": "K51_FT_SHS",
     "route": "K51",
-    "bound": "outbound",
-    "service_type": "2",
-    "origin": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
-    },
-    "destination": {
-      "en": "Siu Hong Station",
-      "tc": "兆康站",
-      "sc": "兆康站"
-    },
-    "stop_ids": [
-      "MTRB:K51-U010",
-      "MTRB:K51-U020",
-      "MTRB:K51-U030",
-      "MTRB:K51-U040",
-      "MTRB:K51-U050"
-    ]
-  },
-  "MTRB-K51_FT-inbound-1": {
-    "record_id": "MTRB-K51_FT-inbound-1",
-    "company": "MTRB",
-    "route_id": "K51_FT",
-    "route": "K51",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K51_FT",
     "origin": {
       "en": "Tai Lam",
       "tc": "大欖",
@@ -90341,13 +89972,34 @@
       "MTRB:K51-D290"
     ]
   },
-  "MTRB-K51_SHS_FT-outbound-2": {
-    "record_id": "MTRB-K51_SHS_FT-outbound-2",
+  "MTRB-K51-K51_FT_SHS": {
+    "record_id": "MTRB-K51-K51_FT_SHS",
     "company": "MTRB",
-    "route_id": "K51_SHS_FT",
     "route": "K51",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K51_FT_SHS",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "Siu Hong Station",
+      "tc": "兆康站",
+      "sc": "兆康站"
+    },
+    "stop_ids": [
+      "MTRB:K51-U010",
+      "MTRB:K51-U020",
+      "MTRB:K51-U030",
+      "MTRB:K51-U040",
+      "MTRB:K51-U050"
+    ]
+  },
+  "MTRB-K51-K51_SHS_FT": {
+    "record_id": "MTRB-K51-K51_SHS_FT",
+    "company": "MTRB",
+    "route": "K51",
+    "bound": "K51_SHS_FT",
     "origin": {
       "en": "Siu Hong Station",
       "tc": "兆康站",
@@ -90366,13 +90018,11 @@
       "MTRB:K51-D290"
     ]
   },
-  "MTRB-K51_TL-outbound-1": {
-    "record_id": "MTRB-K51_TL-outbound-1",
+  "MTRB-K51-K51_TL": {
+    "record_id": "MTRB-K51-K51_TL",
     "company": "MTRB",
-    "route_id": "K51_TL",
     "route": "K51",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K51_TL",
     "origin": {
       "en": "Fu Tai",
       "tc": "富泰",
@@ -90411,13 +90061,11 @@
       "MTRB:K51-U250"
     ]
   },
-  "MTRB-K51A_FT-inbound-1": {
-    "record_id": "MTRB-K51A_FT-inbound-1",
+  "MTRB-K51A-K51A_FT": {
+    "record_id": "MTRB-K51A-K51A_FT",
     "company": "MTRB",
-    "route_id": "K51A_FT",
     "route": "K51A",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K51A_FT",
     "origin": {
       "en": "So Kwun Wat",
       "tc": "掃管笏",
@@ -90457,13 +90105,11 @@
       "MTRB:K51A-D270"
     ]
   },
-  "MTRB-K51A_SKWT-outbound-1": {
-    "record_id": "MTRB-K51A_SKWT-outbound-1",
+  "MTRB-K51A-K51A_SKWT": {
+    "record_id": "MTRB-K51A-K51A_SKWT",
     "company": "MTRB",
-    "route_id": "K51A_SKWT",
     "route": "K51A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K51A_SKWT",
     "origin": {
       "en": "Fu Tai",
       "tc": "富泰",
@@ -90502,13 +90148,11 @@
       "MTRB:K51A-U250"
     ]
   },
-  "MTRB-K52_LKT_YWV-inbound-1": {
-    "record_id": "MTRB-K52_LKT_YWV-inbound-1",
+  "MTRB-K52-K52_LKT_YWV": {
+    "record_id": "MTRB-K52-K52_LKT_YWV",
     "company": "MTRB",
-    "route_id": "K52_LKT_YWV",
     "route": "K52",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K52_LKT_YWV",
     "origin": {
       "en": "Lung Kwu Tan",
       "tc": "龍鼓灘",
@@ -90552,13 +90196,11 @@
       "MTRB:K52-nD300"
     ]
   },
-  "MTRB-K52_LRTMS_LKT-outbound-2": {
-    "record_id": "MTRB-K52_LRTMS_LKT-outbound-2",
+  "MTRB-K52-K52_LRTMS_LKT": {
+    "record_id": "MTRB-K52-K52_LRTMS_LKT",
     "company": "MTRB",
-    "route_id": "K52_LRTMS_LKT",
     "route": "K52",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K52_LRTMS_LKT",
     "origin": {
       "en": "LR Tuen Mun Stop",
       "tc": "輕鐵屯門站",
@@ -90590,13 +90232,11 @@
       "MTRB:K52-nU310"
     ]
   },
-  "MTRB-K52_YWV_LKT-outbound-1": {
-    "record_id": "MTRB-K52_YWV_LKT-outbound-1",
+  "MTRB-K52-K52_YWV_LKT": {
+    "record_id": "MTRB-K52-K52_YWV_LKT",
     "company": "MTRB",
-    "route_id": "K52_YWV_LKT",
     "route": "K52",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K52_YWV_LKT",
     "origin": {
       "en": "Yuet Wu Villa",
       "tc": "悅湖山莊",
@@ -90640,13 +90280,11 @@
       "MTRB:K52-nU310"
     ]
   },
-  "MTRB-K52A_TMS-inbound-1": {
-    "record_id": "MTRB-K52A_TMS-inbound-1",
+  "MTRB-K52A-K52A_TMS": {
+    "record_id": "MTRB-K52A-K52A_TMS",
     "company": "MTRB",
-    "route_id": "K52A_TMS",
     "route": "K52A",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K52A_TMS",
     "origin": {
       "en": "Tsang Tsui",
       "tc": "曾咀",
@@ -90679,13 +90317,11 @@
       "MTRB:K52A-D190"
     ]
   },
-  "MTRB-K52A_TT-outbound-1": {
-    "record_id": "MTRB-K52A_TT-outbound-1",
+  "MTRB-K52A-K52A_TT": {
+    "record_id": "MTRB-K52A-K52A_TT",
     "company": "MTRB",
-    "route_id": "K52A_TT",
     "route": "K52A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K52A_TT",
     "origin": {
       "en": "Tuen Mun Station",
       "tc": "屯門站",
@@ -90718,13 +90354,11 @@
       "MTRB:K52A-U180"
     ]
   },
-  "MTRB-K52P_LKT_TMS-outbound-1": {
-    "record_id": "MTRB-K52P_LKT_TMS-outbound-1",
+  "MTRB-K52P-K52P_LKT_TMS": {
+    "record_id": "MTRB-K52P-K52P_LKT_TMS",
     "company": "MTRB",
-    "route_id": "K52P_LKT_TMS",
     "route": "K52P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K52P_LKT_TMS",
     "origin": {
       "en": "Lung Kwu Tan",
       "tc": "龍鼓灘",
@@ -90763,13 +90397,11 @@
       "MTRB:K52P-D250"
     ]
   },
-  "MTRB-K53_SKW_CIR-outbound-1": {
-    "record_id": "MTRB-K53_SKW_CIR-outbound-1",
+  "MTRB-K53-K53_SKW_CIR": {
+    "record_id": "MTRB-K53-K53_SKW_CIR",
     "company": "MTRB",
-    "route_id": "K53_SKW_CIR",
     "route": "K53",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K53_SKW_CIR",
     "origin": {
       "en": "Tuen Mun Station",
       "tc": "屯門站",
@@ -90815,13 +90447,11 @@
       "MTRB:K53-U011"
     ]
   },
-  "MTRB-K53S_YWE_CIR-outbound-1": {
-    "record_id": "MTRB-K53S_YWE_CIR-outbound-1",
+  "MTRB-K53S-K53S_YWE_CIR": {
+    "record_id": "MTRB-K53S-K53S_YWE_CIR",
     "company": "MTRB",
-    "route_id": "K53S_YWE_CIR",
     "route": "K53S",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K53S_YWE_CIR",
     "origin": {
       "en": "Tuen Mun Station",
       "tc": "屯門站",
@@ -90839,13 +90469,11 @@
       "MTRB:K53S-U040"
     ]
   },
-  "MTRB-K54_CIR-outbound-1": {
-    "record_id": "MTRB-K54_CIR-outbound-1",
+  "MTRB-K54-K54_CIR": {
+    "record_id": "MTRB-K54-K54_CIR",
     "company": "MTRB",
-    "route_id": "K54_CIR",
     "route": "K54",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K54_CIR",
     "origin": {
       "en": "Wo Tin Estate",
       "tc": "和田邨",
@@ -90873,13 +90501,11 @@
       "MTRB:K54-D070"
     ]
   },
-  "MTRB-K54A_SHS_WTE-inbound-1": {
-    "record_id": "MTRB-K54A_SHS_WTE-inbound-1",
+  "MTRB-K54A-K54A_SHS_WTE": {
+    "record_id": "MTRB-K54A-K54A_SHS_WTE",
     "company": "MTRB",
-    "route_id": "K54A_SHS_WTE",
     "route": "K54A",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K54A_SHS_WTE",
     "origin": {
       "en": "Siu Hong Station",
       "tc": "兆康站",
@@ -90898,13 +90524,11 @@
       "MTRB:K54A-D050"
     ]
   },
-  "MTRB-K54A_WTE_SHS-outbound-1": {
-    "record_id": "MTRB-K54A_WTE_SHS-outbound-1",
+  "MTRB-K54A-K54A_WTE_SHS": {
+    "record_id": "MTRB-K54A-K54A_WTE_SHS",
     "company": "MTRB",
-    "route_id": "K54A_WTE_SHS",
     "route": "K54A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K54A_WTE_SHS",
     "origin": {
       "en": "Wo Tin Estate",
       "tc": "和田邨",
@@ -90923,13 +90547,11 @@
       "MTRB:K54A-U050"
     ]
   },
-  "MTRB-K58_FT_SKW-outbound-1": {
-    "record_id": "MTRB-K58_FT_SKW-outbound-1",
+  "MTRB-K58-K58_FT_SKW": {
+    "record_id": "MTRB-K58-K58_FT_SKW",
     "company": "MTRB",
-    "route_id": "K58_FT_SKW",
     "route": "K58",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K58_FT_SKW",
     "origin": {
       "en": "Fu Tai",
       "tc": "富泰",
@@ -90977,13 +90599,11 @@
       "MTRB:K58-U320"
     ]
   },
-  "MTRB-K58_SKW_FT-inbound-1": {
-    "record_id": "MTRB-K58_SKW_FT-inbound-1",
+  "MTRB-K58-K58_SKW_FT": {
+    "record_id": "MTRB-K58-K58_SKW_FT",
     "company": "MTRB",
-    "route_id": "K58_SKW_FT",
     "route": "K58",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K58_SKW_FT",
     "origin": {
       "en": "So Kwun Wat",
       "tc": "掃管笏",
@@ -91030,13 +90650,11 @@
       "MTRB:K58-D210"
     ]
   },
-  "MTRB-K65_LFS-outbound-1": {
-    "record_id": "MTRB-K65_LFS-outbound-1",
+  "MTRB-K65-K65_LFS": {
+    "record_id": "MTRB-K65-K65_LFS",
     "company": "MTRB",
-    "route_id": "K65_LFS",
     "route": "K65",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K65_LFS",
     "origin": {
       "en": "Yuen Long Station",
       "tc": "元朗站",
@@ -91073,13 +90691,11 @@
       "MTRB:K65-U230"
     ]
   },
-  "MTRB-K65_YLS-inbound-1": {
-    "record_id": "MTRB-K65_YLS-inbound-1",
+  "MTRB-K65-K65_YLS": {
+    "record_id": "MTRB-K65-K65_YLS",
     "company": "MTRB",
-    "route_id": "K65_YLS",
     "route": "K65",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K65_YLS",
     "origin": {
       "en": "Lau Fau Shan",
       "tc": "流浮山",
@@ -91112,13 +90728,11 @@
       "MTRB:K65-D190"
     ]
   },
-  "MTRB-K65A_LFS-outbound-1": {
-    "record_id": "MTRB-K65A_LFS-outbound-1",
+  "MTRB-K65A-K65A_LFS": {
+    "record_id": "MTRB-K65A-K65A_LFS",
     "company": "MTRB",
-    "route_id": "K65A_LFS",
     "route": "K65A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K65A_LFS",
     "origin": {
       "en": "Tin Shui Wai Station",
       "tc": "天水圍站",
@@ -91145,13 +90759,11 @@
       "MTRB:K65A-U130"
     ]
   },
-  "MTRB-K65A_TSWS-inbound-1": {
-    "record_id": "MTRB-K65A_TSWS-inbound-1",
+  "MTRB-K65A-K65A_TSWS": {
+    "record_id": "MTRB-K65A-K65A_TSWS",
     "company": "MTRB",
-    "route_id": "K65A_TSWS",
     "route": "K65A",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K65A_TSWS",
     "origin": {
       "en": "Lau Fau Shan",
       "tc": "流浮山",
@@ -91176,13 +90788,11 @@
       "MTRB:K65A-D110"
     ]
   },
-  "MTRB-K66_LP-inbound-1": {
-    "record_id": "MTRB-K66_LP-inbound-1",
+  "MTRB-K66-K66_LP": {
+    "record_id": "MTRB-K66-K66_LP",
     "company": "MTRB",
-    "route_id": "K66_LP",
     "route": "K66",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K66_LP",
     "origin": {
       "en": "Tai Tong Wong Nai Tun Tsuen",
       "tc": "大棠黃泥墩村",
@@ -91220,13 +90830,11 @@
       "MTRB:K66-D240"
     ]
   },
-  "MTRB-K66_NHP_LP-outbound-2": {
-    "record_id": "MTRB-K66_NHP_LP-outbound-2",
+  "MTRB-K66-K66_NHP_LP": {
+    "record_id": "MTRB-K66-K66_NHP_LP",
     "company": "MTRB",
-    "route_id": "K66_NHP_LP",
     "route": "K66",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K66_NHP_LP",
     "origin": {
       "en": "Nam Hang Pai",
       "tc": "南坑排",
@@ -91259,13 +90867,11 @@
       "MTRB:K66-D240"
     ]
   },
-  "MTRB-K66_TT_OHR-outbound-2": {
-    "record_id": "MTRB-K66_TT_OHR-outbound-2",
+  "MTRB-K66-K66_TT_OHR": {
+    "record_id": "MTRB-K66-K66_TT_OHR",
     "company": "MTRB",
-    "route_id": "K66_TT_OHR",
     "route": "K66",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K66_TT_OHR",
     "origin": {
       "en": "Tai Tong Wong Nai Tun Tsuen",
       "tc": "大棠黃泥墩村",
@@ -91297,13 +90903,11 @@
       "MTRB:K66-D180"
     ]
   },
-  "MTRB-K66_TT_YPH-outbound-2": {
-    "record_id": "MTRB-K66_TT_YPH-outbound-2",
+  "MTRB-K66-K66_TT_YPH": {
+    "record_id": "MTRB-K66-K66_TT_YPH",
     "company": "MTRB",
-    "route_id": "K66_TT_YPH",
     "route": "K66",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K66_TT_YPH",
     "origin": {
       "en": "Tai Tong Wong Nai Tun Tsuen",
       "tc": "大棠黃泥墩村",
@@ -91338,13 +90942,11 @@
       "MTRB:K66-D210"
     ]
   },
-  "MTRB-K66_TTWNTT-outbound-1": {
-    "record_id": "MTRB-K66_TTWNTT-outbound-1",
+  "MTRB-K66-K66_TTWNTT": {
+    "record_id": "MTRB-K66-K66_TTWNTT",
     "company": "MTRB",
-    "route_id": "K66_TTWNTT",
     "route": "K66",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K66_TTWNTT",
     "origin": {
       "en": "Long Ping",
       "tc": "朗屏",
@@ -91380,13 +90982,11 @@
       "MTRB:K66-U220"
     ]
   },
-  "MTRB-K68_CIR-outbound-1": {
-    "record_id": "MTRB-K68_CIR-outbound-1",
+  "MTRB-K68-K68_CIR": {
+    "record_id": "MTRB-K68-K68_CIR",
     "company": "MTRB",
-    "route_id": "K68_CIR",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K68_CIR",
     "origin": {
       "en": "Yuen Long Industrial Estate",
       "tc": "元朗工業邨",
@@ -91438,13 +91038,11 @@
       "MTRB:K68-U011"
     ]
   },
-  "MTRB-K68_SFG_YLIE-outbound-2": {
-    "record_id": "MTRB-K68_SFG_YLIE-outbound-2",
+  "MTRB-K68-K68_SFG_YLIE": {
+    "record_id": "MTRB-K68-K68_SFG_YLIE",
     "company": "MTRB",
-    "route_id": "K68_SFG_YLIE",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K68_SFG_YLIE",
     "origin": {
       "en": "Silver Field Garden",
       "tc": "銀田花園",
@@ -91481,13 +91079,11 @@
       "MTRB:K68-U011"
     ]
   },
-  "MTRB-K68_TKT_YLIE-outbound-2": {
-    "record_id": "MTRB-K68_TKT_YLIE-outbound-2",
+  "MTRB-K68-K68_TKT_YLIE": {
+    "record_id": "MTRB-K68-K68_TKT_YLIE",
     "company": "MTRB",
-    "route_id": "K68_TKT_YLIE",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K68_TKT_YLIE",
     "origin": {
       "en": "Tai Kiu Tsuen",
       "tc": "大橋村",
@@ -91514,13 +91110,11 @@
       "MTRB:K68-U011"
     ]
   },
-  "MTRB-K68_YLIE_TKT-outbound-2": {
-    "record_id": "MTRB-K68_YLIE_TKT-outbound-2",
+  "MTRB-K68-K68_YLIE_TKT": {
+    "record_id": "MTRB-K68-K68_YLIE_TKT",
     "company": "MTRB",
-    "route_id": "K68_YLIE_TKT",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K68_YLIE_TKT",
     "origin": {
       "en": "Yuen Long Industrial Estate",
       "tc": "元朗工業邨",
@@ -91546,13 +91140,11 @@
       "MTRB:K68-D090"
     ]
   },
-  "MTRB-K68_YLP_YLIE-outbound-2": {
-    "record_id": "MTRB-K68_YLP_YLIE-outbound-2",
+  "MTRB-K68-K68_YLP_YLIE": {
+    "record_id": "MTRB-K68-K68_YLP_YLIE",
     "company": "MTRB",
-    "route_id": "K68_YLP_YLIE",
     "route": "K68",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K68_YLP_YLIE",
     "origin": {
       "en": "Yuen Long Plaza",
       "tc": "元朗廣場",
@@ -91581,13 +91173,11 @@
       "MTRB:K68-U011"
     ]
   },
-  "MTRB-K73_HKFYG_YLW-outbound-2": {
-    "record_id": "MTRB-K73_HKFYG_YLW-outbound-2",
+  "MTRB-K73-K73_HKFYG_YLW": {
+    "record_id": "MTRB-K73-K73_HKFYG_YLW",
     "company": "MTRB",
-    "route_id": "K73_HKFYG_YLW",
     "route": "K73",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K73_HKFYG_YLW",
     "origin": {
       "en": "HKFYG Lee Shau Kee College",
       "tc": "香港青年協會李兆基書院",
@@ -91609,13 +91199,11 @@
       "MTRB:K73-U120"
     ]
   },
-  "MTRB-K73_TH-inbound-1": {
-    "record_id": "MTRB-K73_TH-inbound-1",
+  "MTRB-K73-K73_TH": {
+    "record_id": "MTRB-K73-K73_TH",
     "company": "MTRB",
-    "route_id": "K73_TH",
     "route": "K73",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K73_TH",
     "origin": {
       "en": "Yuen Long West",
       "tc": "元朗西",
@@ -91644,13 +91232,11 @@
       "MTRB:K73-D160"
     ]
   },
-  "MTRB-K73_TY_YLW-outbound-2": {
-    "record_id": "MTRB-K73_TY_YLW-outbound-2",
+  "MTRB-K73-K73_TY_YLW": {
+    "record_id": "MTRB-K73-K73_TY_YLW",
     "company": "MTRB",
-    "route_id": "K73_TY_YLW",
     "route": "K73",
-    "bound": "outbound",
-    "service_type": "2",
+    "bound": "K73_TY_YLW",
     "origin": {
       "en": "Tin Yan",
       "tc": "天恩",
@@ -91673,13 +91259,11 @@
       "MTRB:K73-U120"
     ]
   },
-  "MTRB-K73_YLW-outbound-1": {
-    "record_id": "MTRB-K73_YLW-outbound-1",
+  "MTRB-K73-K73_YLW": {
+    "record_id": "MTRB-K73-K73_YLW",
     "company": "MTRB",
-    "route_id": "K73_YLW",
     "route": "K73",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K73_YLW",
     "origin": {
       "en": "Tin Heng",
       "tc": "天恆",
@@ -91705,13 +91289,11 @@
       "MTRB:K73-U120"
     ]
   },
-  "MTRB-K74_POH_CIR-outbound-1": {
-    "record_id": "MTRB-K74_POH_CIR-outbound-1",
+  "MTRB-K74-K74_POH_CIR": {
+    "record_id": "MTRB-K74-K74_POH_CIR",
     "company": "MTRB",
-    "route_id": "K74_POH_CIR",
     "route": "K74",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K74_POH_CIR",
     "origin": {
       "en": "Tin Shui Wai Town Centre",
       "tc": "天水圍市中心",
@@ -91751,13 +91333,11 @@
       "MTRB:K74-U002"
     ]
   },
-  "MTRB-K75A_CIR-outbound-1": {
-    "record_id": "MTRB-K75A_CIR-outbound-1",
+  "MTRB-K75A-K75A_CIR": {
+    "record_id": "MTRB-K75A-K75A_CIR",
     "company": "MTRB",
-    "route_id": "K75A_CIR",
     "route": "K75A",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75A_CIR",
     "origin": {
       "en": "Tin Shui Wai Station",
       "tc": "天水圍站",
@@ -91786,13 +91366,11 @@
       "MTRB:K75A-U011"
     ]
   },
-  "MTRB-K75P_CIR-outbound-1": {
-    "record_id": "MTRB-K75P_CIR-outbound-1",
+  "MTRB-K75P-K75P_CIR": {
+    "record_id": "MTRB-K75P-K75P_CIR",
     "company": "MTRB",
-    "route_id": "K75P_CIR",
     "route": "K75P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75P_CIR",
     "origin": {
       "en": "Tin Shui",
       "tc": "天瑞",
@@ -91829,13 +91407,11 @@
       "MTRB:K75P-U011"
     ]
   },
-  "MTRB-K75P_HSKBD_TS-outbound-1": {
-    "record_id": "MTRB-K75P_HSKBD_TS-outbound-1",
+  "MTRB-K75P-K75P_HSKBD_TS": {
+    "record_id": "MTRB-K75P-K75P_HSKBD_TS",
     "company": "MTRB",
-    "route_id": "K75P_HSKBD_TS",
     "route": "K75P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75P_HSKBD_TS",
     "origin": {
       "en": "Hung Shui Kiu Bus Depot",
       "tc": "洪水橋巴士廠",
@@ -91857,13 +91433,11 @@
       "MTRB:K75P-U011"
     ]
   },
-  "MTRB-K75S_CIR-outbound-1": {
-    "record_id": "MTRB-K75S_CIR-outbound-1",
+  "MTRB-K75S-K75S_CIR": {
+    "record_id": "MTRB-K75S-K75S_CIR",
     "company": "MTRB",
-    "route_id": "K75S_CIR",
     "route": "K75S",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75S_CIR",
     "origin": {
       "en": "Tin Shui Wai Station",
       "tc": "天水圍站",
@@ -91885,13 +91459,11 @@
       "MTRB:K75S-U011"
     ]
   },
-  "MTRB-K75S_HSKBD_TSWS-outbound-1": {
-    "record_id": "MTRB-K75S_HSKBD_TSWS-outbound-1",
+  "MTRB-K75S-K75S_HSKBD_TSWS": {
+    "record_id": "MTRB-K75S-K75S_HSKBD_TSWS",
     "company": "MTRB",
-    "route_id": "K75S_HSKBD_TSWS",
     "route": "K75S",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K75S_HSKBD_TSWS",
     "origin": {
       "en": "Hung Shui Kiu Bus Depot",
       "tc": "洪水橋巴士廠",
@@ -91910,13 +91482,11 @@
       "MTRB:K75S-U011"
     ]
   },
-  "MTRB-K76_TH-inbound-1": {
-    "record_id": "MTRB-K76_TH-inbound-1",
+  "MTRB-K76-K76_TH": {
+    "record_id": "MTRB-K76-K76_TH",
     "company": "MTRB",
-    "route_id": "K76_TH",
     "route": "K76",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K76_TH",
     "origin": {
       "en": "Tin Shui Wai Station",
       "tc": "天水圍站",
@@ -91934,13 +91504,11 @@
       "MTRB:K76-D040"
     ]
   },
-  "MTRB-K76_TSWS-outbound-1": {
-    "record_id": "MTRB-K76_TSWS-outbound-1",
+  "MTRB-K76-K76_TSWS": {
+    "record_id": "MTRB-K76-K76_TSWS",
     "company": "MTRB",
-    "route_id": "K76_TSWS",
     "route": "K76",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K76_TSWS",
     "origin": {
       "en": "Tin Heng",
       "tc": "天恆",
@@ -91959,13 +91527,11 @@
       "MTRB:K76-U050"
     ]
   },
-  "MTRB-K76S_HKWP-inbound-1": {
-    "record_id": "MTRB-K76S_HKWP-inbound-1",
+  "MTRB-K76S-K76S_HKWP": {
+    "record_id": "MTRB-K76S-K76S_HKWP",
     "company": "MTRB",
-    "route_id": "K76S_HKWP",
     "route": "K76S",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "K76S_HKWP",
     "origin": {
       "en": "Tin Shing Court /MTR Tin Shui Wai Station",
       "tc": "天盛苑/港鐵天水圍站",
@@ -91984,13 +91550,11 @@
       "MTRB:K76S-D050"
     ]
   },
-  "MTRB-K76S_TSC-outbound-1": {
-    "record_id": "MTRB-K76S_TSC-outbound-1",
+  "MTRB-K76S-K76S_TSC": {
+    "record_id": "MTRB-K76S-K76S_TSC",
     "company": "MTRB",
-    "route_id": "K76S_TSC",
     "route": "K76S",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "K76S_TSC",
     "origin": {
       "en": "Wetland Park Road (near Tin Kwai Road)",
       "tc": "濕地公園路(近天葵路)",
@@ -92009,8 +91573,8 @@
       "MTRB:K76S-U040"
     ]
   },
-  "MTR-AEL-inbound-1": {
-    "record_id": "MTR-AEL-inbound-1",
+  "MTR-AEL-DT": {
+    "record_id": "MTR-AEL-DT",
     "company": "MTR",
     "route_id": "AEL",
     "route": {
@@ -92018,37 +91582,7 @@
       "tc": "機場快線",
       "sc": "機場快線"
     },
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Hong Kong",
-      "tc": "香港",
-      "sc": "香港"
-    },
-    "destination": {
-      "en": "AsiaWorld-Expo",
-      "tc": "博覽館",
-      "sc": "博覽館"
-    },
-    "stop_ids": [
-      "MTR:HOK",
-      "MTR:KOW",
-      "MTR:TSY",
-      "MTR:AIR",
-      "MTR:AWE"
-    ]
-  },
-  "MTR-AEL-outbound-1": {
-    "record_id": "MTR-AEL-outbound-1",
-    "company": "MTR",
-    "route_id": "AEL",
-    "route": {
-      "en": "Airport Express",
-      "tc": "機場快線",
-      "sc": "機場快線"
-    },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "AsiaWorld-Expo",
       "tc": "博覽館",
@@ -92067,34 +91601,36 @@
       "MTR:HOK"
     ]
   },
-  "MTR-DRL-inbound-1": {
-    "record_id": "MTR-DRL-inbound-1",
+  "MTR-AEL-UT": {
+    "record_id": "MTR-AEL-UT",
     "company": "MTR",
-    "route_id": "DRL",
+    "route_id": "AEL",
     "route": {
-      "en": "Disneyland Resort Line",
-      "tc": "迪士尼線",
-      "sc": "迪士尼線"
+      "en": "Airport Express",
+      "tc": "機場快線",
+      "sc": "機場快線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "origin": {
-      "en": "Disneyland Resort",
-      "tc": "迪士尼",
-      "sc": "迪士尼"
+      "en": "Hong Kong",
+      "tc": "香港",
+      "sc": "香港"
     },
     "destination": {
-      "en": "Sunny Bay",
-      "tc": "欣澳",
-      "sc": "欣澳"
+      "en": "AsiaWorld-Expo",
+      "tc": "博覽館",
+      "sc": "博覽館"
     },
     "stop_ids": [
-      "MTR:DIS",
-      "MTR:SUN"
+      "MTR:HOK",
+      "MTR:KOW",
+      "MTR:TSY",
+      "MTR:AIR",
+      "MTR:AWE"
     ]
   },
-  "MTR-DRL-outbound-1": {
-    "record_id": "MTR-DRL-outbound-1",
+  "MTR-DRL-DT": {
+    "record_id": "MTR-DRL-DT",
     "company": "MTR",
     "route_id": "DRL",
     "route": {
@@ -92102,8 +91638,7 @@
       "tc": "迪士尼線",
       "sc": "迪士尼線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "Sunny Bay",
       "tc": "欣澳",
@@ -92119,8 +91654,33 @@
       "MTR:DIS"
     ]
   },
-  "MTR-EAL-inbound-1": {
-    "record_id": "MTR-EAL-inbound-1",
+  "MTR-DRL-UT": {
+    "record_id": "MTR-DRL-UT",
+    "company": "MTR",
+    "route_id": "DRL",
+    "route": {
+      "en": "Disneyland Resort Line",
+      "tc": "迪士尼線",
+      "sc": "迪士尼線"
+    },
+    "bound": "UT",
+    "origin": {
+      "en": "Disneyland Resort",
+      "tc": "迪士尼",
+      "sc": "迪士尼"
+    },
+    "destination": {
+      "en": "Sunny Bay",
+      "tc": "欣澳",
+      "sc": "欣澳"
+    },
+    "stop_ids": [
+      "MTR:DIS",
+      "MTR:SUN"
+    ]
+  },
+  "MTR-EAL-DT": {
+    "record_id": "MTR-EAL-DT",
     "company": "MTR",
     "route_id": "EAL",
     "route": {
@@ -92128,122 +91688,7 @@
       "tc": "東鐵線",
       "sc": "東鐵線"
     },
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Admiralty",
-      "tc": "金鐘",
-      "sc": "金鐘"
-    },
-    "destination": {
-      "en": "Lo Wu",
-      "tc": "羅湖",
-      "sc": "羅湖"
-    },
-    "stop_ids": [
-      "MTR:ADM",
-      "MTR:EXC",
-      "MTR:HUH",
-      "MTR:MKK",
-      "MTR:KOT",
-      "MTR:TAW",
-      "MTR:SHT",
-      "MTR:FOT",
-      "MTR:UNI",
-      "MTR:TAP",
-      "MTR:TWO",
-      "MTR:FAN",
-      "MTR:SHS",
-      "MTR:LOW"
-    ]
-  },
-  "MTR-EAL-LMC-inbound-1": {
-    "record_id": "MTR-EAL-LMC-inbound-1",
-    "company": "MTR",
-    "route_id": "EAL-LMC",
-    "route": {
-      "en": "East Rail Line Lok Ma Chau",
-      "tc": "東鐵線 落馬洲",
-      "sc": "東鐵線 落馬洲"
-    },
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Admiralty",
-      "tc": "金鐘",
-      "sc": "金鐘"
-    },
-    "destination": {
-      "en": "Lok Ma Chau",
-      "tc": "落馬洲",
-      "sc": "落馬洲"
-    },
-    "stop_ids": [
-      "MTR:ADM",
-      "MTR:EXC",
-      "MTR:HUH",
-      "MTR:MKK",
-      "MTR:KOT",
-      "MTR:TAW",
-      "MTR:SHT",
-      "MTR:FOT",
-      "MTR:UNI",
-      "MTR:TAP",
-      "MTR:TWO",
-      "MTR:FAN",
-      "MTR:SHS",
-      "MTR:LMC"
-    ]
-  },
-  "MTR-EAL-LMC-outbound-1": {
-    "record_id": "MTR-EAL-LMC-outbound-1",
-    "company": "MTR",
-    "route_id": "EAL-LMC",
-    "route": {
-      "en": "East Rail Line Lok Ma Chau",
-      "tc": "東鐵線 落馬洲",
-      "sc": "東鐵線 落馬洲"
-    },
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Lok Ma Chau",
-      "tc": "落馬洲",
-      "sc": "落馬洲"
-    },
-    "destination": {
-      "en": "Admiralty",
-      "tc": "金鐘",
-      "sc": "金鐘"
-    },
-    "stop_ids": [
-      "MTR:LMC",
-      "MTR:SHS",
-      "MTR:FAN",
-      "MTR:TWO",
-      "MTR:TAP",
-      "MTR:UNI",
-      "MTR:FOT",
-      "MTR:SHT",
-      "MTR:TAW",
-      "MTR:KOT",
-      "MTR:MKK",
-      "MTR:HUH",
-      "MTR:EXC",
-      "MTR:ADM"
-    ]
-  },
-  "MTR-EAL-outbound-1": {
-    "record_id": "MTR-EAL-outbound-1",
-    "company": "MTR",
-    "route_id": "EAL",
-    "route": {
-      "en": "East Rail Line",
-      "tc": "東鐵線",
-      "sc": "東鐵線"
-    },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "Lo Wu",
       "tc": "羅湖",
@@ -92271,49 +91716,119 @@
       "MTR:ADM"
     ]
   },
-  "MTR-ISL-inbound-1": {
-    "record_id": "MTR-ISL-inbound-1",
+  "MTR-EAL-LMC-DT": {
+    "record_id": "MTR-EAL-LMC-DT",
     "company": "MTR",
-    "route_id": "ISL",
+    "route_id": "EAL",
     "route": {
-      "en": "Island Line",
-      "tc": "港島線",
-      "sc": "港島線"
+      "en": "East Rail Line",
+      "tc": "東鐵線",
+      "sc": "東鐵線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "LMC-DT",
     "origin": {
-      "en": "Kennedy Town",
-      "tc": "堅尼地城",
-      "sc": "堅尼地城"
+      "en": "Lok Ma Chau",
+      "tc": "落馬洲",
+      "sc": "落馬洲"
     },
     "destination": {
-      "en": "Chai Wan",
-      "tc": "柴灣",
-      "sc": "柴灣"
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
     },
     "stop_ids": [
-      "MTR:KET",
-      "MTR:HKU",
-      "MTR:SYP",
-      "MTR:SHW",
-      "MTR:CEN",
-      "MTR:ADM",
-      "MTR:WAC",
-      "MTR:CAB",
-      "MTR:TIH",
-      "MTR:FOH",
-      "MTR:NOP",
-      "MTR:QUB",
-      "MTR:TAK",
-      "MTR:SWH",
-      "MTR:SKW",
-      "MTR:HFC",
-      "MTR:CHW"
+      "MTR:LMC",
+      "MTR:SHS",
+      "MTR:FAN",
+      "MTR:TWO",
+      "MTR:TAP",
+      "MTR:UNI",
+      "MTR:FOT",
+      "MTR:SHT",
+      "MTR:TAW",
+      "MTR:KOT",
+      "MTR:MKK",
+      "MTR:HUH",
+      "MTR:EXC",
+      "MTR:ADM"
     ]
   },
-  "MTR-ISL-outbound-1": {
-    "record_id": "MTR-ISL-outbound-1",
+  "MTR-EAL-LMC-UT": {
+    "record_id": "MTR-EAL-LMC-UT",
+    "company": "MTR",
+    "route_id": "EAL",
+    "route": {
+      "en": "East Rail Line",
+      "tc": "東鐵線",
+      "sc": "東鐵線"
+    },
+    "bound": "LMC-UT",
+    "origin": {
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
+    },
+    "destination": {
+      "en": "Lok Ma Chau",
+      "tc": "落馬洲",
+      "sc": "落馬洲"
+    },
+    "stop_ids": [
+      "MTR:ADM",
+      "MTR:EXC",
+      "MTR:HUH",
+      "MTR:MKK",
+      "MTR:KOT",
+      "MTR:TAW",
+      "MTR:SHT",
+      "MTR:FOT",
+      "MTR:UNI",
+      "MTR:TAP",
+      "MTR:TWO",
+      "MTR:FAN",
+      "MTR:SHS",
+      "MTR:LMC"
+    ]
+  },
+  "MTR-EAL-UT": {
+    "record_id": "MTR-EAL-UT",
+    "company": "MTR",
+    "route_id": "EAL",
+    "route": {
+      "en": "East Rail Line",
+      "tc": "東鐵線",
+      "sc": "東鐵線"
+    },
+    "bound": "UT",
+    "origin": {
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
+    },
+    "destination": {
+      "en": "Lo Wu",
+      "tc": "羅湖",
+      "sc": "羅湖"
+    },
+    "stop_ids": [
+      "MTR:ADM",
+      "MTR:EXC",
+      "MTR:HUH",
+      "MTR:MKK",
+      "MTR:KOT",
+      "MTR:TAW",
+      "MTR:SHT",
+      "MTR:FOT",
+      "MTR:UNI",
+      "MTR:TAP",
+      "MTR:TWO",
+      "MTR:FAN",
+      "MTR:SHS",
+      "MTR:LOW"
+    ]
+  },
+  "MTR-ISL-DT": {
+    "record_id": "MTR-ISL-DT",
     "company": "MTR",
     "route_id": "ISL",
     "route": {
@@ -92321,8 +91836,7 @@
       "tc": "港島線",
       "sc": "港島線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "Chai Wan",
       "tc": "柴灣",
@@ -92353,49 +91867,48 @@
       "MTR:KET"
     ]
   },
-  "MTR-KTL-inbound-1": {
-    "record_id": "MTR-KTL-inbound-1",
+  "MTR-ISL-UT": {
+    "record_id": "MTR-ISL-UT",
     "company": "MTR",
-    "route_id": "KTL",
+    "route_id": "ISL",
     "route": {
-      "en": "Kwun Tong Line",
-      "tc": "觀塘線",
-      "sc": "觀塘線"
+      "en": "Island Line",
+      "tc": "港島線",
+      "sc": "港島線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "origin": {
-      "en": "Whampoa",
-      "tc": "黃埔",
-      "sc": "黃埔"
+      "en": "Kennedy Town",
+      "tc": "堅尼地城",
+      "sc": "堅尼地城"
     },
     "destination": {
-      "en": "Tiu Keng Leng",
-      "tc": "調景嶺",
-      "sc": "調景嶺"
+      "en": "Chai Wan",
+      "tc": "柴灣",
+      "sc": "柴灣"
     },
     "stop_ids": [
-      "MTR:WHA",
-      "MTR:HOM",
-      "MTR:YMT",
-      "MTR:MOK",
-      "MTR:PRE",
-      "MTR:SKM",
-      "MTR:KOT",
-      "MTR:LOF",
-      "MTR:WTS",
-      "MTR:DIH",
-      "MTR:CHH",
-      "MTR:KOB",
-      "MTR:NTK",
-      "MTR:KWT",
-      "MTR:LAT",
-      "MTR:YAT",
-      "MTR:TIK"
+      "MTR:KET",
+      "MTR:HKU",
+      "MTR:SYP",
+      "MTR:SHW",
+      "MTR:CEN",
+      "MTR:ADM",
+      "MTR:WAC",
+      "MTR:CAB",
+      "MTR:TIH",
+      "MTR:FOH",
+      "MTR:NOP",
+      "MTR:QUB",
+      "MTR:TAK",
+      "MTR:SWH",
+      "MTR:SKW",
+      "MTR:HFC",
+      "MTR:CHW"
     ]
   },
-  "MTR-KTL-outbound-1": {
-    "record_id": "MTR-KTL-outbound-1",
+  "MTR-KTL-DT": {
+    "record_id": "MTR-KTL-DT",
     "company": "MTR",
     "route_id": "KTL",
     "route": {
@@ -92403,8 +91916,7 @@
       "tc": "觀塘線",
       "sc": "觀塘線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "Tiu Keng Leng",
       "tc": "調景嶺",
@@ -92435,37 +91947,48 @@
       "MTR:WHA"
     ]
   },
-  "MTR-SIL-inbound-1": {
-    "record_id": "MTR-SIL-inbound-1",
+  "MTR-KTL-UT": {
+    "record_id": "MTR-KTL-UT",
     "company": "MTR",
-    "route_id": "SIL",
+    "route_id": "KTL",
     "route": {
-      "en": "South Island Line",
-      "tc": "南港島線",
-      "sc": "南港島線"
+      "en": "Kwun Tong Line",
+      "tc": "觀塘線",
+      "sc": "觀塘線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "origin": {
-      "en": "Admiralty",
-      "tc": "金鐘",
-      "sc": "金鐘"
+      "en": "Whampoa",
+      "tc": "黃埔",
+      "sc": "黃埔"
     },
     "destination": {
-      "en": "South Horizons",
-      "tc": "海怡半島",
-      "sc": "海怡半島"
+      "en": "Tiu Keng Leng",
+      "tc": "調景嶺",
+      "sc": "調景嶺"
     },
     "stop_ids": [
-      "MTR:ADM",
-      "MTR:OCP",
-      "MTR:WCH",
-      "MTR:LET",
-      "MTR:SOH"
+      "MTR:WHA",
+      "MTR:HOM",
+      "MTR:YMT",
+      "MTR:MOK",
+      "MTR:PRE",
+      "MTR:SKM",
+      "MTR:KOT",
+      "MTR:LOF",
+      "MTR:WTS",
+      "MTR:DIH",
+      "MTR:CHH",
+      "MTR:KOB",
+      "MTR:NTK",
+      "MTR:KWT",
+      "MTR:LAT",
+      "MTR:YAT",
+      "MTR:TIK"
     ]
   },
-  "MTR-SIL-outbound-1": {
-    "record_id": "MTR-SIL-outbound-1",
+  "MTR-SIL-DT": {
+    "record_id": "MTR-SIL-DT",
     "company": "MTR",
     "route_id": "SIL",
     "route": {
@@ -92473,8 +91996,7 @@
       "tc": "南港島線",
       "sc": "南港島線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "South Horizons",
       "tc": "海怡半島",
@@ -92493,40 +92015,36 @@
       "MTR:ADM"
     ]
   },
-  "MTR-TCL-inbound-1": {
-    "record_id": "MTR-TCL-inbound-1",
+  "MTR-SIL-UT": {
+    "record_id": "MTR-SIL-UT",
     "company": "MTR",
-    "route_id": "TCL",
+    "route_id": "SIL",
     "route": {
-      "en": "Tung Chung Line",
-      "tc": "東涌線",
-      "sc": "東涌線"
+      "en": "South Island Line",
+      "tc": "南港島線",
+      "sc": "南港島線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "origin": {
-      "en": "Hong Kong",
-      "tc": "香港",
-      "sc": "香港"
+      "en": "Admiralty",
+      "tc": "金鐘",
+      "sc": "金鐘"
     },
     "destination": {
-      "en": "Tung Chung",
-      "tc": "東涌",
-      "sc": "東涌"
+      "en": "South Horizons",
+      "tc": "海怡半島",
+      "sc": "海怡半島"
     },
     "stop_ids": [
-      "MTR:HOK",
-      "MTR:KOW",
-      "MTR:OLY",
-      "MTR:NAC",
-      "MTR:LAK",
-      "MTR:TSY",
-      "MTR:SUN",
-      "MTR:TUC"
+      "MTR:ADM",
+      "MTR:OCP",
+      "MTR:WCH",
+      "MTR:LET",
+      "MTR:SOH"
     ]
   },
-  "MTR-TCL-outbound-1": {
-    "record_id": "MTR-TCL-outbound-1",
+  "MTR-TCL-DT": {
+    "record_id": "MTR-TCL-DT",
     "company": "MTR",
     "route_id": "TCL",
     "route": {
@@ -92534,8 +92052,7 @@
       "tc": "東涌線",
       "sc": "東涌線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "Tung Chung",
       "tc": "東涌",
@@ -92557,39 +92074,39 @@
       "MTR:HOK"
     ]
   },
-  "MTR-TKL-inbound-1": {
-    "record_id": "MTR-TKL-inbound-1",
+  "MTR-TCL-UT": {
+    "record_id": "MTR-TCL-UT",
     "company": "MTR",
-    "route_id": "TKL",
+    "route_id": "TCL",
     "route": {
-      "en": "Tseung Kwan O Line",
-      "tc": "將軍澳線",
-      "sc": "將軍澳線"
+      "en": "Tung Chung Line",
+      "tc": "東涌線",
+      "sc": "東涌線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "origin": {
-      "en": "North Point",
-      "tc": "北角",
-      "sc": "北角"
+      "en": "Hong Kong",
+      "tc": "香港",
+      "sc": "香港"
     },
     "destination": {
-      "en": "Po Lam",
-      "tc": "寶琳",
-      "sc": "寶琳"
+      "en": "Tung Chung",
+      "tc": "東涌",
+      "sc": "東涌"
     },
     "stop_ids": [
-      "MTR:NOP",
-      "MTR:QUB",
-      "MTR:YAT",
-      "MTR:TIK",
-      "MTR:TKO",
-      "MTR:HAH",
-      "MTR:POA"
+      "MTR:HOK",
+      "MTR:KOW",
+      "MTR:OLY",
+      "MTR:NAC",
+      "MTR:LAK",
+      "MTR:TSY",
+      "MTR:SUN",
+      "MTR:TUC"
     ]
   },
-  "MTR-TKL-outbound-1": {
-    "record_id": "MTR-TKL-outbound-1",
+  "MTR-TKL-DT": {
+    "record_id": "MTR-TKL-DT",
     "company": "MTR",
     "route_id": "TKL",
     "route": {
@@ -92597,8 +92114,7 @@
       "tc": "將軍澳線",
       "sc": "將軍澳線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "Po Lam",
       "tc": "寶琳",
@@ -92619,44 +92135,16 @@
       "MTR:NOP"
     ]
   },
-  "MTR-TKL-TKS-inbound-1": {
-    "record_id": "MTR-TKL-TKS-inbound-1",
+  "MTR-TKL-TKS-DT": {
+    "record_id": "MTR-TKL-TKS-DT",
     "company": "MTR",
-    "route_id": "TKL-TKS",
+    "route_id": "TKL",
     "route": {
-      "en": "Tseung Kwan O Line LOHAS Park",
-      "tc": "將軍澳線 康城",
-      "sc": "將軍澳線 康城"
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
     },
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tiu Keng Leng",
-      "tc": "調景嶺",
-      "sc": "調景嶺"
-    },
-    "destination": {
-      "en": "LOHAS Park",
-      "tc": "康城",
-      "sc": "康城"
-    },
-    "stop_ids": [
-      "MTR:TIK",
-      "MTR:TKO",
-      "MTR:LHP"
-    ]
-  },
-  "MTR-TKL-TKS-outbound-1": {
-    "record_id": "MTR-TKL-TKS-outbound-1",
-    "company": "MTR",
-    "route_id": "TKL-TKS",
-    "route": {
-      "en": "Tseung Kwan O Line LOHAS Park",
-      "tc": "將軍澳線 康城",
-      "sc": "將軍澳線 康城"
-    },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "TKS-DT",
     "origin": {
       "en": "LOHAS Park",
       "tc": "康城",
@@ -92673,59 +92161,64 @@
       "MTR:TIK"
     ]
   },
-  "MTR-TML-inbound-1": {
-    "record_id": "MTR-TML-inbound-1",
+  "MTR-TKL-TKS-UT": {
+    "record_id": "MTR-TKL-TKS-UT",
     "company": "MTR",
-    "route_id": "TML",
+    "route_id": "TKL",
     "route": {
-      "en": "Tuen Ma Line",
-      "tc": "屯馬線",
-      "sc": "屯馬線"
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "TKS-UT",
     "origin": {
-      "en": "Wu Kai Sha",
-      "tc": "烏溪沙",
-      "sc": "烏溪沙"
+      "en": "Tiu Keng Leng",
+      "tc": "調景嶺",
+      "sc": "調景嶺"
     },
     "destination": {
-      "en": "Tuen Mun",
-      "tc": "屯門",
-      "sc": "屯門"
+      "en": "LOHAS Park",
+      "tc": "康城",
+      "sc": "康城"
     },
     "stop_ids": [
-      "MTR:WKS",
-      "MTR:MOS",
-      "MTR:HEO",
-      "MTR:TSH",
-      "MTR:SHM",
-      "MTR:CIO",
-      "MTR:STW",
-      "MTR:CKT",
-      "MTR:TAW",
-      "MTR:HIK",
-      "MTR:DIH",
-      "MTR:KAT",
-      "MTR:SUW",
-      "MTR:TKW",
-      "MTR:HOM",
-      "MTR:HUH",
-      "MTR:ETS",
-      "MTR:AUS",
-      "MTR:NAC",
-      "MTR:MEF",
-      "MTR:TWW",
-      "MTR:KSR",
-      "MTR:YUL",
-      "MTR:LOP",
-      "MTR:TIS",
-      "MTR:SIH",
-      "MTR:TUM"
+      "MTR:TIK",
+      "MTR:TKO",
+      "MTR:LHP"
     ]
   },
-  "MTR-TML-outbound-1": {
-    "record_id": "MTR-TML-outbound-1",
+  "MTR-TKL-UT": {
+    "record_id": "MTR-TKL-UT",
+    "company": "MTR",
+    "route_id": "TKL",
+    "route": {
+      "en": "Tseung Kwan O Line",
+      "tc": "將軍澳線",
+      "sc": "將軍澳線"
+    },
+    "bound": "UT",
+    "origin": {
+      "en": "North Point",
+      "tc": "北角",
+      "sc": "北角"
+    },
+    "destination": {
+      "en": "Po Lam",
+      "tc": "寶琳",
+      "sc": "寶琳"
+    },
+    "stop_ids": [
+      "MTR:NOP",
+      "MTR:QUB",
+      "MTR:YAT",
+      "MTR:TIK",
+      "MTR:TKO",
+      "MTR:HAH",
+      "MTR:POA"
+    ]
+  },
+  "MTR-TML-DT": {
+    "record_id": "MTR-TML-DT",
     "company": "MTR",
     "route_id": "TML",
     "route": {
@@ -92733,8 +92226,7 @@
       "tc": "屯馬線",
       "sc": "屯馬線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "Tuen Mun",
       "tc": "屯門",
@@ -92775,48 +92267,58 @@
       "MTR:WKS"
     ]
   },
-  "MTR-TWL-inbound-1": {
-    "record_id": "MTR-TWL-inbound-1",
+  "MTR-TML-UT": {
+    "record_id": "MTR-TML-UT",
     "company": "MTR",
-    "route_id": "TWL",
+    "route_id": "TML",
     "route": {
-      "en": "Tsuen Wan Line",
-      "tc": "荃灣線",
-      "sc": "荃灣線"
+      "en": "Tuen Ma Line",
+      "tc": "屯馬線",
+      "sc": "屯馬線"
     },
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "UT",
     "origin": {
-      "en": "Central",
-      "tc": "中環",
-      "sc": "中環"
+      "en": "Wu Kai Sha",
+      "tc": "烏溪沙",
+      "sc": "烏溪沙"
     },
     "destination": {
-      "en": "Tsuen Wan",
-      "tc": "荃灣",
-      "sc": "荃灣"
+      "en": "Tuen Mun",
+      "tc": "屯門",
+      "sc": "屯門"
     },
     "stop_ids": [
-      "MTR:CEN",
-      "MTR:ADM",
-      "MTR:TST",
-      "MTR:JOR",
-      "MTR:YMT",
-      "MTR:MOK",
-      "MTR:PRE",
-      "MTR:SSP",
-      "MTR:CSW",
-      "MTR:LCK",
+      "MTR:WKS",
+      "MTR:MOS",
+      "MTR:HEO",
+      "MTR:TSH",
+      "MTR:SHM",
+      "MTR:CIO",
+      "MTR:STW",
+      "MTR:CKT",
+      "MTR:TAW",
+      "MTR:HIK",
+      "MTR:DIH",
+      "MTR:KAT",
+      "MTR:SUW",
+      "MTR:TKW",
+      "MTR:HOM",
+      "MTR:HUH",
+      "MTR:ETS",
+      "MTR:AUS",
+      "MTR:NAC",
       "MTR:MEF",
-      "MTR:LAK",
-      "MTR:KWF",
-      "MTR:KWH",
-      "MTR:TWH",
-      "MTR:TSW"
+      "MTR:TWW",
+      "MTR:KSR",
+      "MTR:YUL",
+      "MTR:LOP",
+      "MTR:TIS",
+      "MTR:SIH",
+      "MTR:TUM"
     ]
   },
-  "MTR-TWL-outbound-1": {
-    "record_id": "MTR-TWL-outbound-1",
+  "MTR-TWL-DT": {
+    "record_id": "MTR-TWL-DT",
     "company": "MTR",
     "route_id": "TWL",
     "route": {
@@ -92824,8 +92326,7 @@
       "tc": "荃灣線",
       "sc": "荃灣線"
     },
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "DT",
     "origin": {
       "en": "Tsuen Wan",
       "tc": "荃灣",
@@ -92855,13 +92356,50 @@
       "MTR:CEN"
     ]
   },
-  "LRT-505-inbound-1": {
-    "record_id": "LRT-505-inbound-1",
+  "MTR-TWL-UT": {
+    "record_id": "MTR-TWL-UT",
+    "company": "MTR",
+    "route_id": "TWL",
+    "route": {
+      "en": "Tsuen Wan Line",
+      "tc": "荃灣線",
+      "sc": "荃灣線"
+    },
+    "bound": "UT",
+    "origin": {
+      "en": "Central",
+      "tc": "中環",
+      "sc": "中環"
+    },
+    "destination": {
+      "en": "Tsuen Wan",
+      "tc": "荃灣",
+      "sc": "荃灣"
+    },
+    "stop_ids": [
+      "MTR:CEN",
+      "MTR:ADM",
+      "MTR:TST",
+      "MTR:JOR",
+      "MTR:YMT",
+      "MTR:MOK",
+      "MTR:PRE",
+      "MTR:SSP",
+      "MTR:CSW",
+      "MTR:LCK",
+      "MTR:MEF",
+      "MTR:LAK",
+      "MTR:KWF",
+      "MTR:KWH",
+      "MTR:TWH",
+      "MTR:TSW"
+    ]
+  },
+  "LRT-505-sam_shing": {
+    "record_id": "LRT-505-sam_shing",
     "company": "LRT",
-    "route_id": "505",
     "route": "505",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "sam_shing",
     "origin": {
       "en": "Siu Hong",
       "tc": "兆康",
@@ -92873,29 +92411,27 @@
       "sc": "三聖"
     },
     "stop_ids": [
-      "LRT:SHL",
-      "LRT:CHC",
-      "LRT:KIS",
-      "LRT:TNK",
-      "LRT:LEK",
-      "LRT:SAW",
-      "LRT:SHP",
-      "LRT:MIK",
-      "LRT:KIO",
-      "LRT:TML",
-      "LRT:TOC",
-      "LRT:ONT",
-      "LRT:SIL",
-      "LRT:SAS"
+      "LRT:100",
+      "LRT:120",
+      "LRT:130",
+      "LRT:140",
+      "LRT:150",
+      "LRT:160",
+      "LRT:170",
+      "LRT:200",
+      "LRT:60",
+      "LRT:295",
+      "LRT:280",
+      "LRT:270",
+      "LRT:265",
+      "LRT:920"
     ]
   },
-  "LRT-505-outbound-1": {
-    "record_id": "LRT-505-outbound-1",
+  "LRT-505-siu_hong": {
+    "record_id": "LRT-505-siu_hong",
     "company": "LRT",
-    "route_id": "505",
     "route": "505",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "origin": {
       "en": "Sam Shing",
       "tc": "三聖",
@@ -92907,68 +92443,29 @@
       "sc": "兆康"
     },
     "stop_ids": [
-      "LRT:SAS",
-      "LRT:SIL",
-      "LRT:ONT",
-      "LRT:TOC",
-      "LRT:TML",
-      "LRT:KIO",
-      "LRT:SKS",
-      "LRT:SKN",
-      "LRT:SHP",
-      "LRT:SAW",
-      "LRT:LEK",
-      "LRT:TNK",
-      "LRT:KIS",
-      "LRT:CHC",
-      "LRT:KEL",
-      "LRT:SHL"
+      "LRT:920",
+      "LRT:265",
+      "LRT:270",
+      "LRT:280",
+      "LRT:295",
+      "LRT:60",
+      "LRT:190",
+      "LRT:180",
+      "LRT:170",
+      "LRT:160",
+      "LRT:150",
+      "LRT:140",
+      "LRT:130",
+      "LRT:120",
+      "LRT:110",
+      "LRT:100"
     ]
   },
-  "LRT-507-inbound-1": {
-    "record_id": "LRT-507-inbound-1",
+  "LRT-507-tin_king": {
+    "record_id": "LRT-507-tin_king",
     "company": "LRT",
-    "route_id": "507",
     "route": "507",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tin King",
-      "tc": "田景",
-      "sc": "田景"
-    },
-    "destination": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯門碼頭"
-    },
-    "stop_ids": [
-      "LRT:TNK",
-      "LRT:TNK",
-      "LRT:LEK",
-      "LRT:SAW",
-      "LRT:THN",
-      "LRT:THS",
-      "LRT:NGW",
-      "LRT:CYB",
-      "LRT:HOT",
-      "LRT:TML",
-      "LRT:TOC",
-      "LRT:ONT",
-      "LRT:SIL",
-      "LRT:GOG",
-      "LRT:TSP",
-      "LRT:SHE",
-      "LRT:FEP"
-    ]
-  },
-  "LRT-507-outbound-1": {
-    "record_id": "LRT-507-outbound-1",
-    "company": "LRT",
-    "route_id": "507",
-    "route": "507",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_king",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -92980,31 +92477,64 @@
       "sc": "田景"
     },
     "stop_ids": [
-      "LRT:FEP",
-      "LRT:SHE",
-      "LRT:TSP",
-      "LRT:GOG",
-      "LRT:SIL",
-      "LRT:ONT",
-      "LRT:TOC",
-      "LRT:TML",
-      "LRT:HOT",
-      "LRT:CYB",
-      "LRT:NGW",
-      "LRT:THS",
-      "LRT:THN",
-      "LRT:SAW",
-      "LRT:LEK",
-      "LRT:TNK"
+      "LRT:1",
+      "LRT:240",
+      "LRT:250",
+      "LRT:260",
+      "LRT:265",
+      "LRT:270",
+      "LRT:280",
+      "LRT:295",
+      "LRT:70",
+      "LRT:75",
+      "LRT:230",
+      "LRT:220",
+      "LRT:212",
+      "LRT:160",
+      "LRT:150",
+      "LRT:140"
     ]
   },
-  "LRT-610-inbound-1": {
-    "record_id": "LRT-610-inbound-1",
+  "LRT-507-tuen_mun_ferry_pier": {
+    "record_id": "LRT-507-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "610",
+    "route": "507",
+    "bound": "tuen_mun_ferry_pier",
+    "origin": {
+      "en": "Tin King",
+      "tc": "田景",
+      "sc": "田景"
+    },
+    "destination": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
+    },
+    "stop_ids": [
+      "LRT:140",
+      "LRT:140",
+      "LRT:150",
+      "LRT:160",
+      "LRT:212",
+      "LRT:220",
+      "LRT:230",
+      "LRT:75",
+      "LRT:70",
+      "LRT:295",
+      "LRT:280",
+      "LRT:270",
+      "LRT:265",
+      "LRT:260",
+      "LRT:250",
+      "LRT:240",
+      "LRT:1"
+    ]
+  },
+  "LRT-610-tuen_mun_ferry_pier": {
+    "record_id": "LRT-610-tuen_mun_ferry_pier",
+    "company": "LRT",
     "route": "610",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "origin": {
       "en": "Yuen Long",
       "tc": "元朗",
@@ -93016,41 +92546,39 @@
       "sc": "屯門碼頭"
     },
     "stop_ids": [
-      "LRT:YLL",
-      "LRT:TTR",
-      "LRT:HLR",
-      "LRT:FNR",
-      "LRT:SPW",
-      "LRT:PIS",
-      "LRT:TOF",
-      "LRT:HSK",
-      "LRT:CUT",
-      "LRT:NAW",
-      "LRT:LTE",
-      "LRT:SHL",
-      "LRT:TMH",
-      "LRT:AFF",
-      "LRT:NGW",
-      "LRT:THS",
-      "LRT:THN",
-      "LRT:SHP",
-      "LRT:MIK",
-      "LRT:TWN",
-      "LRT:TSS",
-      "LRT:LUM",
-      "LRT:LRD",
-      "LRT:BUT",
-      "LRT:MEG",
-      "LRT:FEP"
+      "LRT:600",
+      "LRT:590",
+      "LRT:580",
+      "LRT:570",
+      "LRT:560",
+      "LRT:400",
+      "LRT:390",
+      "LRT:380",
+      "LRT:370",
+      "LRT:360",
+      "LRT:350",
+      "LRT:100",
+      "LRT:90",
+      "LRT:80",
+      "LRT:230",
+      "LRT:220",
+      "LRT:212",
+      "LRT:170",
+      "LRT:200",
+      "LRT:50",
+      "LRT:40",
+      "LRT:30",
+      "LRT:20",
+      "LRT:15",
+      "LRT:10",
+      "LRT:1"
     ]
   },
-  "LRT-610-outbound-1": {
-    "record_id": "LRT-610-outbound-1",
+  "LRT-610-yuen_long": {
+    "record_id": "LRT-610-yuen_long",
     "company": "LRT",
-    "route_id": "610",
     "route": "610",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -93062,41 +92590,39 @@
       "sc": "元朗"
     },
     "stop_ids": [
-      "LRT:FEP",
-      "LRT:MEG",
-      "LRT:BUT",
-      "LRT:LRD",
-      "LRT:LUM",
-      "LRT:TSS",
-      "LRT:TWN",
-      "LRT:MIK",
-      "LRT:SHP",
-      "LRT:THN",
-      "LRT:THS",
-      "LRT:NGW",
-      "LRT:AFF",
-      "LRT:TMH",
-      "LRT:SHL",
-      "LRT:LTE",
-      "LRT:NAW",
-      "LRT:CUT",
-      "LRT:HSK",
-      "LRT:TOF",
-      "LRT:PIS",
-      "LRT:SPW",
-      "LRT:FNR",
-      "LRT:HLR",
-      "LRT:TTR",
-      "LRT:YLL"
+      "LRT:1",
+      "LRT:10",
+      "LRT:15",
+      "LRT:20",
+      "LRT:30",
+      "LRT:40",
+      "LRT:50",
+      "LRT:200",
+      "LRT:170",
+      "LRT:212",
+      "LRT:220",
+      "LRT:230",
+      "LRT:80",
+      "LRT:90",
+      "LRT:100",
+      "LRT:350",
+      "LRT:360",
+      "LRT:370",
+      "LRT:380",
+      "LRT:390",
+      "LRT:400",
+      "LRT:560",
+      "LRT:570",
+      "LRT:580",
+      "LRT:590",
+      "LRT:600"
     ]
   },
-  "LRT-614-inbound-1": {
-    "record_id": "LRT-614-inbound-1",
+  "LRT-614-tuen_mun_ferry_pier": {
+    "record_id": "LRT-614-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "614",
     "route": "614",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "origin": {
       "en": "Yuen Long",
       "tc": "元朗",
@@ -93108,39 +92634,37 @@
       "sc": "屯門碼頭"
     },
     "stop_ids": [
-      "LRT:YLL",
-      "LRT:TTR",
-      "LRT:HLR",
-      "LRT:FNR",
-      "LRT:SPW",
-      "LRT:PIS",
-      "LRT:TOF",
-      "LRT:HSK",
-      "LRT:CUT",
-      "LRT:NAW",
-      "LRT:LTE",
-      "LRT:SHL",
-      "LRT:FUT",
-      "LRT:PRV",
-      "LRT:SAH",
-      "LRT:HFT",
-      "LRT:PUT",
-      "LRT:TOC",
-      "LRT:ONT",
-      "LRT:SIL",
-      "LRT:GOG",
-      "LRT:TSP",
-      "LRT:SHE",
-      "LRT:FEP"
+      "LRT:600",
+      "LRT:590",
+      "LRT:580",
+      "LRT:570",
+      "LRT:560",
+      "LRT:400",
+      "LRT:390",
+      "LRT:380",
+      "LRT:370",
+      "LRT:360",
+      "LRT:350",
+      "LRT:100",
+      "LRT:340",
+      "LRT:330",
+      "LRT:320",
+      "LRT:310",
+      "LRT:300",
+      "LRT:280",
+      "LRT:270",
+      "LRT:265",
+      "LRT:260",
+      "LRT:250",
+      "LRT:240",
+      "LRT:1"
     ]
   },
-  "LRT-614-outbound-1": {
-    "record_id": "LRT-614-outbound-1",
+  "LRT-614-yuen_long": {
+    "record_id": "LRT-614-yuen_long",
     "company": "LRT",
-    "route_id": "614",
     "route": "614",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -93152,105 +92676,99 @@
       "sc": "元朗"
     },
     "stop_ids": [
-      "LRT:FEP",
-      "LRT:SHE",
-      "LRT:TSP",
-      "LRT:GOG",
-      "LRT:SIL",
-      "LRT:ONT",
-      "LRT:TOC",
-      "LRT:PUT",
-      "LRT:HFT",
-      "LRT:SAH",
-      "LRT:PRV",
-      "LRT:FUT",
-      "LRT:SHL",
-      "LRT:LTE",
-      "LRT:NAW",
-      "LRT:CUT",
-      "LRT:HSK",
-      "LRT:TOF",
-      "LRT:PIS",
-      "LRT:SPW",
-      "LRT:FNR",
-      "LRT:HLR",
-      "LRT:TTR",
-      "LRT:YLL"
+      "LRT:1",
+      "LRT:240",
+      "LRT:250",
+      "LRT:260",
+      "LRT:265",
+      "LRT:270",
+      "LRT:280",
+      "LRT:300",
+      "LRT:310",
+      "LRT:320",
+      "LRT:330",
+      "LRT:340",
+      "LRT:100",
+      "LRT:350",
+      "LRT:360",
+      "LRT:370",
+      "LRT:380",
+      "LRT:390",
+      "LRT:400",
+      "LRT:560",
+      "LRT:570",
+      "LRT:580",
+      "LRT:590",
+      "LRT:600"
     ]
   },
-  "LRT-614P-inbound-1": {
-    "record_id": "LRT-614P-inbound-1",
+  "LRT-614P-siu_hong": {
+    "record_id": "LRT-614P-siu_hong",
     "company": "LRT",
-    "route_id": "614P",
     "route": "614P",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "origin": {
-      "en": "Siu Hong",
-      "tc": "兆康",
-      "sc": "兆康"
-    },
-    "destination": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
       "sc": "屯門碼頭"
     },
+    "destination": {
+      "en": "Siu Hong",
+      "tc": "兆康",
+      "sc": "兆康"
+    },
     "stop_ids": [
-      "LRT:SHL",
-      "LRT:FUT",
-      "LRT:PRV",
-      "LRT:SAH",
-      "LRT:HFT",
-      "LRT:PUT",
-      "LRT:TOC",
-      "LRT:ONT",
-      "LRT:SIL",
-      "LRT:GOG",
-      "LRT:TSP",
-      "LRT:SHE",
-      "LRT:FEP"
+      "LRT:1",
+      "LRT:240",
+      "LRT:250",
+      "LRT:260",
+      "LRT:265",
+      "LRT:270",
+      "LRT:280",
+      "LRT:300",
+      "LRT:310",
+      "LRT:320",
+      "LRT:330",
+      "LRT:340",
+      "LRT:100"
     ]
   },
-  "LRT-614P-outbound-1": {
-    "record_id": "LRT-614P-outbound-1",
+  "LRT-614P-tuen_mun_ferry_pier": {
+    "record_id": "LRT-614P-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "614P",
     "route": "614P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "origin": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯門碼頭"
-    },
-    "destination": {
       "en": "Siu Hong",
       "tc": "兆康",
       "sc": "兆康"
     },
+    "destination": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
+    },
     "stop_ids": [
-      "LRT:FEP",
-      "LRT:SHE",
-      "LRT:TSP",
-      "LRT:GOG",
-      "LRT:SIL",
-      "LRT:ONT",
-      "LRT:TOC",
-      "LRT:PUT",
-      "LRT:HFT",
-      "LRT:SAH",
-      "LRT:PRV",
-      "LRT:FUT",
-      "LRT:SHL"
+      "LRT:100",
+      "LRT:340",
+      "LRT:330",
+      "LRT:320",
+      "LRT:310",
+      "LRT:300",
+      "LRT:280",
+      "LRT:270",
+      "LRT:265",
+      "LRT:260",
+      "LRT:250",
+      "LRT:240",
+      "LRT:1"
     ]
   },
-  "LRT-615-inbound-1": {
-    "record_id": "LRT-615-inbound-1",
+  "LRT-615-tuen_mun_ferry_pier": {
+    "record_id": "LRT-615-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "615",
     "route": "615",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tuen_mun_ferry_pier",
     "origin": {
       "en": "Yuen Long",
       "tc": "元朗",
@@ -93262,41 +92780,39 @@
       "sc": "屯門碼頭"
     },
     "stop_ids": [
-      "LRT:YLL",
-      "LRT:TTR",
-      "LRT:HLR",
-      "LRT:FNR",
-      "LRT:SPW",
-      "LRT:PIS",
-      "LRT:TOF",
-      "LRT:HSK",
-      "LRT:CUT",
-      "LRT:NAW",
-      "LRT:LTE",
-      "LRT:SHL",
-      "LRT:CHC",
-      "LRT:KIS",
-      "LRT:TNK",
-      "LRT:LEK",
-      "LRT:SAW",
-      "LRT:SHP",
-      "LRT:MIK",
-      "LRT:TWN",
-      "LRT:TSS",
-      "LRT:LUM",
-      "LRT:LRD",
-      "LRT:BUT",
-      "LRT:MEG",
-      "LRT:FEP"
+      "LRT:600",
+      "LRT:590",
+      "LRT:580",
+      "LRT:570",
+      "LRT:560",
+      "LRT:400",
+      "LRT:390",
+      "LRT:380",
+      "LRT:370",
+      "LRT:360",
+      "LRT:350",
+      "LRT:100",
+      "LRT:120",
+      "LRT:130",
+      "LRT:140",
+      "LRT:150",
+      "LRT:160",
+      "LRT:170",
+      "LRT:200",
+      "LRT:50",
+      "LRT:40",
+      "LRT:30",
+      "LRT:20",
+      "LRT:15",
+      "LRT:10",
+      "LRT:1"
     ]
   },
-  "LRT-615-outbound-1": {
-    "record_id": "LRT-615-outbound-1",
+  "LRT-615-yuen_long": {
+    "record_id": "LRT-615-yuen_long",
     "company": "LRT",
-    "route_id": "615",
     "route": "615",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -93308,77 +92824,39 @@
       "sc": "元朗"
     },
     "stop_ids": [
-      "LRT:FEP",
-      "LRT:MEG",
-      "LRT:BUT",
-      "LRT:LRD",
-      "LRT:LUM",
-      "LRT:TSS",
-      "LRT:TWN",
-      "LRT:MIK",
-      "LRT:SHP",
-      "LRT:SAW",
-      "LRT:LEK",
-      "LRT:TNK",
-      "LRT:KIS",
-      "LRT:CHC",
-      "LRT:SHL",
-      "LRT:LTE",
-      "LRT:NAW",
-      "LRT:CUT",
-      "LRT:HSK",
-      "LRT:TOF",
-      "LRT:PIS",
-      "LRT:SPW",
-      "LRT:FNR",
-      "LRT:HLR",
-      "LRT:TTR",
-      "LRT:YLL"
+      "LRT:1",
+      "LRT:10",
+      "LRT:15",
+      "LRT:20",
+      "LRT:30",
+      "LRT:40",
+      "LRT:50",
+      "LRT:200",
+      "LRT:170",
+      "LRT:160",
+      "LRT:150",
+      "LRT:140",
+      "LRT:130",
+      "LRT:120",
+      "LRT:100",
+      "LRT:350",
+      "LRT:360",
+      "LRT:370",
+      "LRT:380",
+      "LRT:390",
+      "LRT:400",
+      "LRT:560",
+      "LRT:570",
+      "LRT:580",
+      "LRT:590",
+      "LRT:600"
     ]
   },
-  "LRT-615P-inbound-1": {
-    "record_id": "LRT-615P-inbound-1",
+  "LRT-615P-siu_hong": {
+    "record_id": "LRT-615P-siu_hong",
     "company": "LRT",
-    "route_id": "615P",
     "route": "615P",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Siu Hong",
-      "tc": "兆康",
-      "sc": "兆康"
-    },
-    "destination": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯門碼頭"
-    },
-    "stop_ids": [
-      "LRT:SHL",
-      "LRT:KEL",
-      "LRT:CHC",
-      "LRT:KIS",
-      "LRT:TNK",
-      "LRT:LEK",
-      "LRT:SAW",
-      "LRT:SHP",
-      "LRT:MIK",
-      "LRT:TWN",
-      "LRT:TSS",
-      "LRT:LUM",
-      "LRT:LRD",
-      "LRT:BUT",
-      "LRT:MEG",
-      "LRT:FEP"
-    ]
-  },
-  "LRT-615P-outbound-1": {
-    "record_id": "LRT-615P-outbound-1",
-    "company": "LRT",
-    "route_id": "615P",
-    "route": "615P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "siu_hong",
     "origin": {
       "en": "Tuen Mun Ferry Pier",
       "tc": "屯門碼頭",
@@ -93390,31 +92868,63 @@
       "sc": "兆康"
     },
     "stop_ids": [
-      "LRT:FEP",
-      "LRT:MEG",
-      "LRT:BUT",
-      "LRT:LRD",
-      "LRT:LUM",
-      "LRT:TSS",
-      "LRT:TWN",
-      "LRT:MIK",
-      "LRT:SHP",
-      "LRT:SAW",
-      "LRT:LEK",
-      "LRT:TNK",
-      "LRT:KIS",
-      "LRT:CHC",
-      "LRT:KEL",
-      "LRT:SHL"
+      "LRT:1",
+      "LRT:10",
+      "LRT:15",
+      "LRT:20",
+      "LRT:30",
+      "LRT:40",
+      "LRT:50",
+      "LRT:200",
+      "LRT:170",
+      "LRT:160",
+      "LRT:150",
+      "LRT:140",
+      "LRT:130",
+      "LRT:120",
+      "LRT:110",
+      "LRT:100"
     ]
   },
-  "LRT-705-inbound-1": {
-    "record_id": "LRT-705-inbound-1",
+  "LRT-615P-tuen_mun_ferry_pier": {
+    "record_id": "LRT-615P-tuen_mun_ferry_pier",
     "company": "LRT",
-    "route_id": "705",
+    "route": "615P",
+    "bound": "tuen_mun_ferry_pier",
+    "origin": {
+      "en": "Siu Hong",
+      "tc": "兆康",
+      "sc": "兆康"
+    },
+    "destination": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯門碼頭"
+    },
+    "stop_ids": [
+      "LRT:100",
+      "LRT:110",
+      "LRT:120",
+      "LRT:130",
+      "LRT:140",
+      "LRT:150",
+      "LRT:160",
+      "LRT:170",
+      "LRT:200",
+      "LRT:50",
+      "LRT:40",
+      "LRT:30",
+      "LRT:20",
+      "LRT:15",
+      "LRT:10",
+      "LRT:1"
+    ]
+  },
+  "LRT-705-tin_shui_wai": {
+    "record_id": "LRT-705-tin_shui_wai",
+    "company": "LRT",
     "route": "705",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_shui_wai",
     "origin": {
       "en": "Tin Wing",
       "tc": "天榮",
@@ -93426,27 +92936,25 @@
       "sc": "天水圍"
     },
     "stop_ids": [
-      "LRT:TWI",
-      "LRT:TYU",
-      "LRT:TSA",
-      "LRT:WEP",
-      "LRT:THE",
-      "LRT:TYA",
-      "LRT:TFU",
-      "LRT:CHF",
-      "LRT:TSU",
-      "LRT:LOC",
-      "LRT:TIY",
-      "LRT:TSL"
+      "LRT:500",
+      "LRT:510",
+      "LRT:520",
+      "LRT:530",
+      "LRT:540",
+      "LRT:550",
+      "LRT:480",
+      "LRT:468",
+      "LRT:460",
+      "LRT:448",
+      "LRT:445",
+      "LRT:430"
     ]
   },
-  "LRT-705-outbound-1": {
-    "record_id": "LRT-705-outbound-1",
+  "LRT-705-tin_wing": {
+    "record_id": "LRT-705-tin_wing",
     "company": "LRT",
-    "route_id": "705",
     "route": "705",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_wing",
     "origin": {
       "en": "Tin Shui Wai",
       "tc": "天水圍",
@@ -93458,20 +92966,18 @@
       "sc": "天榮"
     },
     "stop_ids": [
-      "LRT:TSL",
-      "LRT:TIT",
-      "LRT:TWU",
-      "LRT:GIN",
-      "LRT:TWI"
+      "LRT:430",
+      "LRT:435",
+      "LRT:450",
+      "LRT:455",
+      "LRT:500"
     ]
   },
-  "LRT-706-inbound-1": {
-    "record_id": "LRT-706-inbound-1",
+  "LRT-706-tin_shui_wai": {
+    "record_id": "LRT-706-tin_shui_wai",
     "company": "LRT",
-    "route_id": "706",
     "route": "706",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_shui_wai",
     "origin": {
       "en": "Tin Wing",
       "tc": "天榮",
@@ -93483,20 +92989,18 @@
       "sc": "天水圍"
     },
     "stop_ids": [
-      "LRT:TWI",
-      "LRT:GIN",
-      "LRT:TWU",
-      "LRT:TIT",
-      "LRT:TSL"
+      "LRT:500",
+      "LRT:455",
+      "LRT:450",
+      "LRT:435",
+      "LRT:430"
     ]
   },
-  "LRT-706-outbound-1": {
-    "record_id": "LRT-706-outbound-1",
+  "LRT-706-tin_wing": {
+    "record_id": "LRT-706-tin_wing",
     "company": "LRT",
-    "route_id": "706",
     "route": "706",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_wing",
     "origin": {
       "en": "Tin Shui Wai",
       "tc": "天水圍",
@@ -93508,69 +93012,25 @@
       "sc": "天榮"
     },
     "stop_ids": [
-      "LRT:TSL",
-      "LRT:TIY",
-      "LRT:LOC",
-      "LRT:TSU",
-      "LRT:CHF",
-      "LRT:TFU",
-      "LRT:TYA",
-      "LRT:THE",
-      "LRT:WEP",
-      "LRT:TSA",
-      "LRT:TYU",
-      "LRT:TWI"
+      "LRT:430",
+      "LRT:445",
+      "LRT:448",
+      "LRT:460",
+      "LRT:468",
+      "LRT:480",
+      "LRT:550",
+      "LRT:540",
+      "LRT:530",
+      "LRT:520",
+      "LRT:510",
+      "LRT:500"
     ]
   },
-  "LRT-751-inbound-1": {
-    "record_id": "LRT-751-inbound-1",
+  "LRT-751-tin_yat": {
+    "record_id": "LRT-751-tin_yat",
     "company": "LRT",
-    "route_id": "751",
     "route": "751",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tin Yat",
-      "tc": "天逸",
-      "sc": "天逸"
-    },
-    "destination": {
-      "en": "Yau Oi",
-      "tc": "友愛",
-      "sc": "友愛"
-    },
-    "stop_ids": [
-      "LRT:TYA",
-      "LRT:TFU",
-      "LRT:CHF",
-      "LRT:CHE",
-      "LRT:TWI",
-      "LRT:GIN",
-      "LRT:TWU",
-      "LRT:TIT",
-      "LRT:TSL",
-      "LRT:HMT",
-      "LRT:HSK",
-      "LRT:CUT",
-      "LRT:NAW",
-      "LRT:LTE",
-      "LRT:SHL",
-      "LRT:TMH",
-      "LRT:AFF",
-      "LRT:CYB",
-      "LRT:HOT",
-      "LRT:TML",
-      "LRT:TOC",
-      "LRT:YAO"
-    ]
-  },
-  "LRT-751-outbound-1": {
-    "record_id": "LRT-751-outbound-1",
-    "company": "LRT",
-    "route_id": "751",
-    "route": "751",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "tin_yat",
     "origin": {
       "en": "Yau Oi",
       "tc": "友愛",
@@ -93582,39 +93042,77 @@
       "sc": "天逸"
     },
     "stop_ids": [
-      "LRT:YAO",
-      "LRT:ONT",
-      "LRT:TOC",
-      "LRT:TML",
-      "LRT:HOT",
-      "LRT:CYB",
-      "LRT:AFF",
-      "LRT:TMH",
-      "LRT:SHL",
-      "LRT:LTE",
-      "LRT:NAW",
-      "LRT:CUT",
-      "LRT:HSK",
-      "LRT:HMT",
-      "LRT:TSL",
-      "LRT:TIT",
-      "LRT:TWU",
-      "LRT:GIN",
-      "LRT:TWI",
-      "LRT:CHE",
-      "LRT:CHF",
-      "LRT:TFU",
-      "LRT:TYA",
-      "LRT:TYA"
+      "LRT:275",
+      "LRT:270",
+      "LRT:280",
+      "LRT:295",
+      "LRT:70",
+      "LRT:75",
+      "LRT:80",
+      "LRT:90",
+      "LRT:100",
+      "LRT:350",
+      "LRT:360",
+      "LRT:370",
+      "LRT:380",
+      "LRT:425",
+      "LRT:430",
+      "LRT:435",
+      "LRT:450",
+      "LRT:455",
+      "LRT:500",
+      "LRT:490",
+      "LRT:468",
+      "LRT:480",
+      "LRT:550",
+      "LRT:550"
     ]
   },
-  "LRT-761P-inbound-1": {
-    "record_id": "LRT-761P-inbound-1",
+  "LRT-751-yau_oi": {
+    "record_id": "LRT-751-yau_oi",
     "company": "LRT",
-    "route_id": "761P",
+    "route": "751",
+    "bound": "yau_oi",
+    "origin": {
+      "en": "Tin Yat",
+      "tc": "天逸",
+      "sc": "天逸"
+    },
+    "destination": {
+      "en": "Yau Oi",
+      "tc": "友愛",
+      "sc": "友愛"
+    },
+    "stop_ids": [
+      "LRT:550",
+      "LRT:480",
+      "LRT:468",
+      "LRT:490",
+      "LRT:500",
+      "LRT:455",
+      "LRT:450",
+      "LRT:435",
+      "LRT:430",
+      "LRT:425",
+      "LRT:380",
+      "LRT:370",
+      "LRT:360",
+      "LRT:350",
+      "LRT:100",
+      "LRT:90",
+      "LRT:80",
+      "LRT:75",
+      "LRT:70",
+      "LRT:295",
+      "LRT:280",
+      "LRT:275"
+    ]
+  },
+  "LRT-761P-tin_yat": {
+    "record_id": "LRT-761P-tin_yat",
+    "company": "LRT",
     "route": "761P",
-    "bound": "inbound",
-    "service_type": "1",
+    "bound": "tin_yat",
     "origin": {
       "en": "Yuen Long",
       "tc": "元朗",
@@ -93626,30 +93124,28 @@
       "sc": "天逸"
     },
     "stop_ids": [
-      "LRT:YLL",
-      "LRT:TTR",
-      "LRT:HLR",
-      "LRT:FNR",
-      "LRT:SPW",
-      "LRT:PIS",
-      "LRT:TOF",
-      "LRT:HMT",
-      "LRT:TIY",
-      "LRT:LOC",
-      "LRT:TSU",
-      "LRT:CHF",
-      "LRT:TFU",
-      "LRT:TYA",
-      "LRT:TYA"
+      "LRT:600",
+      "LRT:590",
+      "LRT:580",
+      "LRT:570",
+      "LRT:560",
+      "LRT:400",
+      "LRT:390",
+      "LRT:425",
+      "LRT:445",
+      "LRT:448",
+      "LRT:460",
+      "LRT:468",
+      "LRT:480",
+      "LRT:550",
+      "LRT:550"
     ]
   },
-  "LRT-761P-outbound-1": {
-    "record_id": "LRT-761P-outbound-1",
+  "LRT-761P-yuen_long": {
+    "record_id": "LRT-761P-yuen_long",
     "company": "LRT",
-    "route_id": "761P",
     "route": "761P",
-    "bound": "outbound",
-    "service_type": "1",
+    "bound": "yuen_long",
     "origin": {
       "en": "Tin Yat",
       "tc": "天逸",
@@ -93661,20 +93157,20 @@
       "sc": "元朗"
     },
     "stop_ids": [
-      "LRT:TYA",
-      "LRT:TFU",
-      "LRT:CHF",
-      "LRT:TSU",
-      "LRT:LOC",
-      "LRT:TIY",
-      "LRT:HMT",
-      "LRT:TOF",
-      "LRT:PIS",
-      "LRT:SPW",
-      "LRT:FNR",
-      "LRT:HLR",
-      "LRT:TTR",
-      "LRT:YLL"
+      "LRT:550",
+      "LRT:480",
+      "LRT:468",
+      "LRT:460",
+      "LRT:448",
+      "LRT:445",
+      "LRT:425",
+      "LRT:390",
+      "LRT:400",
+      "LRT:560",
+      "LRT:570",
+      "LRT:580",
+      "LRT:590",
+      "LRT:600"
     ]
   },
   "GMBHKI-1-2006408-1": {
@@ -95833,7 +95329,7 @@
       "GMBHKI:20004107",
       "GMBHKI:20006958",
       "GMBHKI:20000026",
-      "GMBHKI:20002713",
+      "GMBHKI:20023231",
       "GMBHKI:20014543",
       "GMBHKI:20014544",
       "GMBHKI:20014545",
@@ -98354,7 +97850,7 @@
       "GMBHKI:20000007",
       "GMBHKI:20000324",
       "GMBHKI:20000026",
-      "GMBHKI:20002713",
+      "GMBHKI:20023231",
       "GMBHKI:20020096",
       "GMBHKI:20000325",
       "GMBHKI:20021290",
@@ -98433,7 +97929,7 @@
       "GMBHKI:20000007",
       "GMBHKI:20000324",
       "GMBHKI:20000026",
-      "GMBHKI:20002713",
+      "GMBHKI:20023231",
       "GMBHKI:20020096",
       "GMBHKI:20000325",
       "GMBHKI:20020097",
@@ -98512,7 +98008,7 @@
       "GMBHKI:20000007",
       "GMBHKI:20000324",
       "GMBHKI:20000026",
-      "GMBHKI:20002713",
+      "GMBHKI:20023231",
       "GMBHKI:20000325",
       "GMBHKI:20020097",
       "GMBHKI:20003565",
@@ -101967,6 +101463,34 @@
       "GMBKLN:20015050",
       "GMBKLN:20015051",
       "GMBKLN:20016533"
+    ]
+  },
+  "GMBKLN-24S-2011622-1": {
+    "record_id": "GMBKLN-24S-2011622-1",
+    "company": "GMBKLN",
+    "route_id": "2011622",
+    "route": "24S",
+    "route_seq": 1,
+    "region": "KLN",
+    "origin": {
+      "en": "Yau Tong (Tung Yuen Street)",
+      "tc": "油塘 (東源街)",
+      "sc": "油塘 (东源街)"
+    },
+    "destination": {
+      "en": "Yau Tong (Ko Chiu Road)(Circular)",
+      "tc": "油塘 (高超道)(循環線)",
+      "sc": "油塘 (高超道)(循环线)"
+    },
+    "stop_ids": [
+      "GMBKLN:20023131",
+      "GMBKLN:20023132",
+      "GMBKLN:20016543",
+      "GMBKLN:20020168",
+      "GMBKLN:20023133",
+      "GMBKLN:20023134",
+      "GMBKLN:20023135",
+      "GMBKLN:20023136"
     ]
   },
   "GMBKLN-25A-2006045-1": {
@@ -114115,35 +113639,6 @@
       "GMBNT:20002066"
     ]
   },
-  "GMBNT-301M-2001889-1": {
-    "record_id": "GMBNT-301M-2001889-1",
-    "company": "GMBNT",
-    "route_id": "2001889",
-    "route": "301M",
-    "route_seq": 1,
-    "region": "NT",
-    "origin": {
-      "en": "Tsuen Wan West StationPublic Transport Interchange",
-      "tc": "荃灣西站公共運輸交匯處",
-      "sc": "荃湾西站公共运输交汇处"
-    },
-    "destination": {
-      "en": "Tsuen Wan Station (Circular)",
-      "tc": "荃灣站(循環線)",
-      "sc": "荃湾站(循环线) "
-    },
-    "stop_ids": [
-      "GMBNT:20002381",
-      "GMBNT:20020496",
-      "GMBNT:20002069",
-      "GMBNT:20002070",
-      "GMBNT:20001876",
-      "GMBNT:20001877",
-      "GMBNT:20001873",
-      "GMBNT:20002062",
-      "GMBNT:20002381"
-    ]
-  },
   "GMBNT-302-2001890-1": {
     "record_id": "GMBNT-302-2001890-1",
     "company": "GMBNT",
@@ -120259,7 +119754,8 @@
       "GMBNT:20012274",
       "GMBNT:20012275",
       "GMBNT:20012276",
-      "GMBNT:20018115"
+      "GMBNT:20018115",
+      "GMBNT:20023263"
     ]
   },
   "GMBNT-57K-2010170-2": {
@@ -120280,7 +119776,7 @@
       "sc": "上水站小巴总站"
     },
     "stop_ids": [
-      "GMBNT:20018115",
+      "GMBNT:20023263",
       "GMBNT:20012279",
       "GMBNT:20012280",
       "GMBNT:20012288",
@@ -122799,6 +122295,7 @@
       "GMBNT:20001545",
       "GMBNT:20017323",
       "GMBNT:20017324",
+      "GMBNT:20023362",
       "GMBNT:20001505",
       "GMBNT:20017325",
       "GMBNT:20006610",
@@ -124136,10 +123633,10 @@
       "GMBNT:20015409"
     ]
   },
-  "GMBNT-78-2003702-1": {
-    "record_id": "GMBNT-78-2003702-1",
+  "GMBNT-78-2011655-1": {
+    "record_id": "GMBNT-78-2011655-1",
     "company": "GMBNT",
-    "route_id": "2003702",
+    "route_id": "2011655",
     "route": "78",
     "route_seq": 1,
     "region": "NT",
@@ -124162,10 +123659,10 @@
       "GMBNT:20017720"
     ]
   },
-  "GMBNT-78-2003702-2": {
-    "record_id": "GMBNT-78-2003702-2",
+  "GMBNT-78-2011655-2": {
+    "record_id": "GMBNT-78-2011655-2",
     "company": "GMBNT",
-    "route_id": "2003702",
+    "route_id": "2011655",
     "route": "78",
     "route_seq": 2,
     "region": "NT",
@@ -124190,10 +123687,10 @@
       "GMBNT:20017719"
     ]
   },
-  "GMBNT-78A-2003704-1": {
-    "record_id": "GMBNT-78A-2003704-1",
+  "GMBNT-78A-2011656-1": {
+    "record_id": "GMBNT-78A-2011656-1",
     "company": "GMBNT",
-    "route_id": "2003704",
+    "route_id": "2011656",
     "route": "78A",
     "route_seq": 1,
     "region": "NT",
@@ -124208,14 +123705,14 @@
       "sc": "八乡路(近大榄隧道转车站)"
     },
     "stop_ids": [
-      "GMBNT:20016894",
+      "GMBNT:20023032",
       "GMBNT:20017720"
     ]
   },
-  "GMBNT-78A-2003704-2": {
-    "record_id": "GMBNT-78A-2003704-2",
+  "GMBNT-78A-2011656-2": {
+    "record_id": "GMBNT-78A-2011656-2",
     "company": "GMBNT",
-    "route_id": "2003704",
+    "route_id": "2011656",
     "route": "78A",
     "route_seq": 2,
     "region": "NT",
@@ -124231,7 +123728,7 @@
     },
     "stop_ids": [
       "GMBNT:20017720",
-      "GMBNT:20016894"
+      "GMBNT:20023032"
     ]
   },
   "GMBNT-79S-2007630-1": {
@@ -129998,85 +129495,11 @@
       "GMBNT:20011698"
     ]
   },
-  "NLB-1-inbound-1": {
-    "record_id": "NLB-1-inbound-1",
-    "company": "NLB",
-    "route_id": "2",
-    "route": "1",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tai O",
-      "tc": "大澳",
-      "sc": "大澳"
-    },
-    "destination": {
-      "en": "Mui Wo Ferry Pier",
-      "tc": "梅窩碼頭",
-      "sc": "梅窝码头"
-    },
-    "stop_ids": [
-      "NLB:221",
-      "NLB:222",
-      "NLB:224",
-      "NLB:225",
-      "NLB:226",
-      "NLB:227",
-      "NLB:228",
-      "NLB:229",
-      "NLB:230",
-      "NLB:232",
-      "NLB:233",
-      "NLB:234",
-      "NLB:235",
-      "NLB:40",
-      "NLB:236",
-      "NLB:237",
-      "NLB:238",
-      "NLB:239",
-      "NLB:240",
-      "NLB:241",
-      "NLB:242",
-      "NLB:243",
-      "NLB:244",
-      "NLB:245",
-      "NLB:246",
-      "NLB:247",
-      "NLB:248",
-      "NLB:249",
-      "NLB:250",
-      "NLB:251",
-      "NLB:252",
-      "NLB:253",
-      "NLB:254",
-      "NLB:255",
-      "NLB:256",
-      "NLB:257",
-      "NLB:258",
-      "NLB:259",
-      "NLB:260",
-      "NLB:261",
-      "NLB:262",
-      "NLB:263",
-      "NLB:264",
-      "NLB:265",
-      "NLB:56",
-      "NLB:266",
-      "NLB:57",
-      "NLB:2",
-      "NLB:3",
-      "NLB:4",
-      "NLB:5",
-      "NLB:305"
-    ]
-  },
-  "NLB-1-outbound-1": {
-    "record_id": "NLB-1-outbound-1",
+  "NLB-1-1": {
+    "record_id": "NLB-1-1",
     "company": "NLB",
     "route_id": "1",
     "route": "1",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Mui Wo Ferry Pier",
       "tc": "梅窩碼頭",
@@ -130146,22 +129569,20 @@
       "NLB:55"
     ]
   },
-  "NLB-11-inbound-1": {
-    "record_id": "NLB-11-inbound-1",
+  "NLB-1-2": {
+    "record_id": "NLB-1-2",
     "company": "NLB",
-    "route_id": "14",
-    "route": "11",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "2",
+    "route": "1",
     "origin": {
       "en": "Tai O",
       "tc": "大澳",
       "sc": "大澳"
     },
     "destination": {
-      "en": "Tung Chung Station Bus Terminus",
-      "tc": "東涌站巴士總站",
-      "sc": "东涌站巴士总站"
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
     },
     "stop_ids": [
       "NLB:221",
@@ -130186,8 +129607,6 @@
       "NLB:241",
       "NLB:242",
       "NLB:243",
-      "NLB:32",
-      "NLB:30",
       "NLB:244",
       "NLB:245",
       "NLB:246",
@@ -130200,32 +129619,31 @@
       "NLB:253",
       "NLB:254",
       "NLB:255",
-      "NLB:179",
-      "NLB:64",
-      "NLB:65",
-      "NLB:66",
-      "NLB:67",
-      "NLB:68",
-      "NLB:69",
-      "NLB:70",
-      "NLB:71",
-      "NLB:72",
-      "NLB:73",
-      "NLB:74",
-      "NLB:185",
-      "NLB:76",
-      "NLB:77",
-      "NLB:78",
-      "NLB:79"
+      "NLB:256",
+      "NLB:257",
+      "NLB:258",
+      "NLB:259",
+      "NLB:260",
+      "NLB:261",
+      "NLB:262",
+      "NLB:263",
+      "NLB:264",
+      "NLB:265",
+      "NLB:56",
+      "NLB:266",
+      "NLB:57",
+      "NLB:2",
+      "NLB:3",
+      "NLB:4",
+      "NLB:5",
+      "NLB:305"
     ]
   },
-  "NLB-11-outbound-1": {
-    "record_id": "NLB-11-outbound-1",
+  "NLB-11-13": {
+    "record_id": "NLB-11-13",
     "company": "NLB",
     "route_id": "13",
     "route": "11",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Tung Chung Station Bus Terminus",
       "tc": "東涌站巴士總站",
@@ -130293,13 +129711,82 @@
       "NLB:55"
     ]
   },
-  "NLB-11-outbound-2": {
-    "record_id": "NLB-11-outbound-2",
+  "NLB-11-14": {
+    "record_id": "NLB-11-14",
+    "company": "NLB",
+    "route_id": "14",
+    "route": "11",
+    "origin": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "stop_ids": [
+      "NLB:221",
+      "NLB:222",
+      "NLB:224",
+      "NLB:225",
+      "NLB:226",
+      "NLB:227",
+      "NLB:228",
+      "NLB:229",
+      "NLB:230",
+      "NLB:232",
+      "NLB:233",
+      "NLB:234",
+      "NLB:235",
+      "NLB:40",
+      "NLB:236",
+      "NLB:237",
+      "NLB:238",
+      "NLB:239",
+      "NLB:240",
+      "NLB:241",
+      "NLB:242",
+      "NLB:243",
+      "NLB:32",
+      "NLB:30",
+      "NLB:244",
+      "NLB:245",
+      "NLB:246",
+      "NLB:247",
+      "NLB:248",
+      "NLB:249",
+      "NLB:250",
+      "NLB:251",
+      "NLB:252",
+      "NLB:253",
+      "NLB:254",
+      "NLB:255",
+      "NLB:179",
+      "NLB:64",
+      "NLB:65",
+      "NLB:66",
+      "NLB:67",
+      "NLB:68",
+      "NLB:69",
+      "NLB:70",
+      "NLB:71",
+      "NLB:72",
+      "NLB:73",
+      "NLB:74",
+      "NLB:185",
+      "NLB:76",
+      "NLB:77",
+      "NLB:78",
+      "NLB:79"
+    ]
+  },
+  "NLB-11-17": {
+    "record_id": "NLB-11-17",
     "company": "NLB",
     "route_id": "17",
     "route": "11",
-    "bound": "outbound",
-    "service_type": "2",
     "origin": {
       "en": "Tai O (from Sha Tsui)",
       "tc": "大澳 (沙咀開)",
@@ -130351,13 +129838,11 @@
       "NLB:79"
     ]
   },
-  "NLB-11-outbound-3": {
-    "record_id": "NLB-11-outbound-3",
+  "NLB-11-18": {
+    "record_id": "NLB-11-18",
     "company": "NLB",
     "route_id": "18",
     "route": "11",
-    "bound": "outbound",
-    "service_type": "3",
     "origin": {
       "en": "Tai O (from Shui Hau)",
       "tc": "大澳 (水口開)",
@@ -130402,13 +129887,66 @@
       "NLB:79"
     ]
   },
-  "NLB-11A-inbound-1": {
-    "record_id": "NLB-11A-inbound-1",
+  "NLB-11A-15": {
+    "record_id": "NLB-11A-15",
+    "company": "NLB",
+    "route_id": "15",
+    "route": "11A",
+    "origin": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "destination": {
+      "en": "Shek Pik",
+      "tc": "石壁",
+      "sc": "石壁"
+    },
+    "stop_ids": [
+      "NLB:278",
+      "NLB:80",
+      "NLB:81",
+      "NLB:94",
+      "NLB:279",
+      "NLB:280",
+      "NLB:282",
+      "NLB:283",
+      "NLB:284",
+      "NLB:286",
+      "NLB:287",
+      "NLB:288",
+      "NLB:273",
+      "NLB:83",
+      "NLB:19",
+      "NLB:20",
+      "NLB:21",
+      "NLB:22",
+      "NLB:23",
+      "NLB:24",
+      "NLB:25",
+      "NLB:26",
+      "NLB:27",
+      "NLB:28",
+      "NLB:32",
+      "NLB:30",
+      "NLB:31",
+      "NLB:178",
+      "NLB:33",
+      "NLB:34",
+      "NLB:35",
+      "NLB:36",
+      "NLB:37",
+      "NLB:38",
+      "NLB:39",
+      "NLB:41",
+      "NLB:40"
+    ]
+  },
+  "NLB-11A-16": {
+    "record_id": "NLB-11A-16",
     "company": "NLB",
     "route_id": "16",
     "route": "11A",
-    "bound": "inbound",
-    "service_type": "1",
     "origin": {
       "en": "Shek Pik",
       "tc": "石壁",
@@ -130461,70 +129999,11 @@
       "NLB:79"
     ]
   },
-  "NLB-11A-outbound-1": {
-    "record_id": "NLB-11A-outbound-1",
-    "company": "NLB",
-    "route_id": "15",
-    "route": "11A",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tung Chung Station Bus Terminus",
-      "tc": "東涌站巴士總站",
-      "sc": "东涌站巴士总站"
-    },
-    "destination": {
-      "en": "Shek Pik",
-      "tc": "石壁",
-      "sc": "石壁"
-    },
-    "stop_ids": [
-      "NLB:278",
-      "NLB:80",
-      "NLB:81",
-      "NLB:94",
-      "NLB:279",
-      "NLB:280",
-      "NLB:282",
-      "NLB:283",
-      "NLB:284",
-      "NLB:286",
-      "NLB:287",
-      "NLB:288",
-      "NLB:273",
-      "NLB:83",
-      "NLB:19",
-      "NLB:20",
-      "NLB:21",
-      "NLB:22",
-      "NLB:23",
-      "NLB:24",
-      "NLB:25",
-      "NLB:26",
-      "NLB:27",
-      "NLB:28",
-      "NLB:32",
-      "NLB:30",
-      "NLB:31",
-      "NLB:178",
-      "NLB:33",
-      "NLB:34",
-      "NLB:35",
-      "NLB:36",
-      "NLB:37",
-      "NLB:38",
-      "NLB:39",
-      "NLB:41",
-      "NLB:40"
-    ]
-  },
-  "NLB-1R-outbound-1": {
-    "record_id": "NLB-1R-outbound-1",
+  "NLB-1R-3": {
+    "record_id": "NLB-1R-3",
     "company": "NLB",
     "route_id": "3",
     "route": "1R",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Hung Hom (Hung Luen Road)",
       "tc": "紅磡 (紅鸞道)",
@@ -130548,72 +130027,11 @@
       "NLB:62"
     ]
   },
-  "NLB-2-inbound-1": {
-    "record_id": "NLB-2-inbound-1",
-    "company": "NLB",
-    "route_id": "5",
-    "route": "2",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ngong Ping",
-      "tc": "昂坪",
-      "sc": "昂坪"
-    },
-    "destination": {
-      "en": "Mui Wo Ferry Pier",
-      "tc": "梅窩碼頭",
-      "sc": "梅窝码头"
-    },
-    "stop_ids": [
-      "NLB:270",
-      "NLB:271",
-      "NLB:43",
-      "NLB:234",
-      "NLB:235",
-      "NLB:236",
-      "NLB:237",
-      "NLB:238",
-      "NLB:239",
-      "NLB:240",
-      "NLB:241",
-      "NLB:242",
-      "NLB:243",
-      "NLB:244",
-      "NLB:245",
-      "NLB:246",
-      "NLB:247",
-      "NLB:248",
-      "NLB:249",
-      "NLB:250",
-      "NLB:251",
-      "NLB:252",
-      "NLB:253",
-      "NLB:254",
-      "NLB:255",
-      "NLB:256",
-      "NLB:257",
-      "NLB:258",
-      "NLB:259",
-      "NLB:260",
-      "NLB:261",
-      "NLB:262",
-      "NLB:263",
-      "NLB:264",
-      "NLB:265",
-      "NLB:56",
-      "NLB:266",
-      "NLB:57",
-      "NLB:305"
-    ]
-  },
-  "NLB-2-outbound-1": {
-    "record_id": "NLB-2-outbound-1",
+  "NLB-2-4": {
+    "record_id": "NLB-2-4",
     "company": "NLB",
     "route_id": "4",
     "route": "2",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Mui Wo Ferry Pier",
       "tc": "梅窩碼頭",
@@ -130666,47 +130084,68 @@
       "NLB:62"
     ]
   },
-  "NLB-21-inbound-1": {
-    "record_id": "NLB-21-inbound-1",
+  "NLB-2-5": {
+    "record_id": "NLB-2-5",
     "company": "NLB",
-    "route_id": "20",
-    "route": "21",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "5",
+    "route": "2",
     "origin": {
-      "en": "Tai O",
-      "tc": "大澳",
-      "sc": "大澳"
-    },
-    "destination": {
       "en": "Ngong Ping",
       "tc": "昂坪",
       "sc": "昂坪"
     },
+    "destination": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
     "stop_ids": [
-      "NLB:221",
-      "NLB:222",
-      "NLB:224",
-      "NLB:225",
-      "NLB:226",
-      "NLB:227",
-      "NLB:228",
-      "NLB:229",
-      "NLB:230",
-      "NLB:232",
-      "NLB:233",
-      "NLB:59",
-      "NLB:60",
-      "NLB:62"
+      "NLB:270",
+      "NLB:271",
+      "NLB:43",
+      "NLB:234",
+      "NLB:235",
+      "NLB:236",
+      "NLB:237",
+      "NLB:238",
+      "NLB:239",
+      "NLB:240",
+      "NLB:241",
+      "NLB:242",
+      "NLB:243",
+      "NLB:244",
+      "NLB:245",
+      "NLB:246",
+      "NLB:247",
+      "NLB:248",
+      "NLB:249",
+      "NLB:250",
+      "NLB:251",
+      "NLB:252",
+      "NLB:253",
+      "NLB:254",
+      "NLB:255",
+      "NLB:256",
+      "NLB:257",
+      "NLB:258",
+      "NLB:259",
+      "NLB:260",
+      "NLB:261",
+      "NLB:262",
+      "NLB:263",
+      "NLB:264",
+      "NLB:265",
+      "NLB:56",
+      "NLB:266",
+      "NLB:57",
+      "NLB:305"
     ]
   },
-  "NLB-21-outbound-1": {
-    "record_id": "NLB-21-outbound-1",
+  "NLB-21-19": {
+    "record_id": "NLB-21-19",
     "company": "NLB",
     "route_id": "19",
     "route": "21",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Ngong Ping",
       "tc": "昂坪",
@@ -130735,13 +130174,99 @@
       "NLB:55"
     ]
   },
-  "NLB-23-inbound-1": {
-    "record_id": "NLB-23-inbound-1",
+  "NLB-21-20": {
+    "record_id": "NLB-21-20",
+    "company": "NLB",
+    "route_id": "20",
+    "route": "21",
+    "origin": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "destination": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    },
+    "stop_ids": [
+      "NLB:221",
+      "NLB:222",
+      "NLB:224",
+      "NLB:225",
+      "NLB:226",
+      "NLB:227",
+      "NLB:228",
+      "NLB:229",
+      "NLB:230",
+      "NLB:232",
+      "NLB:233",
+      "NLB:59",
+      "NLB:60",
+      "NLB:62"
+    ]
+  },
+  "NLB-23-21": {
+    "record_id": "NLB-23-21",
+    "company": "NLB",
+    "route_id": "21",
+    "route": "23",
+    "origin": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    },
+    "destination": {
+      "en": "Ngong Ping",
+      "tc": "昂坪",
+      "sc": "昂坪"
+    },
+    "stop_ids": [
+      "NLB:317",
+      "NLB:81",
+      "NLB:94",
+      "NLB:279",
+      "NLB:280",
+      "NLB:282",
+      "NLB:283",
+      "NLB:284",
+      "NLB:286",
+      "NLB:287",
+      "NLB:288",
+      "NLB:273",
+      "NLB:83",
+      "NLB:19",
+      "NLB:20",
+      "NLB:21",
+      "NLB:22",
+      "NLB:23",
+      "NLB:24",
+      "NLB:25",
+      "NLB:26",
+      "NLB:27",
+      "NLB:28",
+      "NLB:31",
+      "NLB:178",
+      "NLB:33",
+      "NLB:34",
+      "NLB:35",
+      "NLB:36",
+      "NLB:37",
+      "NLB:38",
+      "NLB:39",
+      "NLB:41",
+      "NLB:42",
+      "NLB:269",
+      "NLB:59",
+      "NLB:60",
+      "NLB:62"
+    ]
+  },
+  "NLB-23-22": {
+    "record_id": "NLB-23-22",
     "company": "NLB",
     "route_id": "22",
     "route": "23",
-    "bound": "inbound",
-    "service_type": "1",
     "origin": {
       "en": "Ngong Ping",
       "tc": "昂坪",
@@ -130795,71 +130320,44 @@
       "NLB:318"
     ]
   },
-  "NLB-23-outbound-1": {
-    "record_id": "NLB-23-outbound-1",
+  "NLB-34-23": {
+    "record_id": "NLB-34-23",
     "company": "NLB",
-    "route_id": "21",
-    "route": "23",
-    "bound": "outbound",
-    "service_type": "1",
+    "route_id": "23",
+    "route": "34",
     "origin": {
       "en": "Tung Chung Tat Tung Road Bus Terminus",
       "tc": "東涌達東路巴士總站",
       "sc": "东涌达东路巴士总站"
     },
     "destination": {
-      "en": "Ngong Ping",
-      "tc": "昂坪",
-      "sc": "昂坪"
+      "en": "Shek Mun Kap",
+      "tc": "石門甲",
+      "sc": "石门甲"
     },
     "stop_ids": [
       "NLB:317",
+      "NLB:80",
       "NLB:81",
+      "NLB:185",
+      "NLB:289",
+      "NLB:76",
+      "NLB:90",
+      "NLB:91",
       "NLB:94",
       "NLB:279",
       "NLB:280",
       "NLB:282",
       "NLB:283",
-      "NLB:284",
-      "NLB:286",
-      "NLB:287",
-      "NLB:288",
-      "NLB:273",
-      "NLB:83",
-      "NLB:19",
-      "NLB:20",
-      "NLB:21",
-      "NLB:22",
-      "NLB:23",
-      "NLB:24",
-      "NLB:25",
-      "NLB:26",
-      "NLB:27",
-      "NLB:28",
-      "NLB:31",
-      "NLB:178",
-      "NLB:33",
-      "NLB:34",
-      "NLB:35",
-      "NLB:36",
-      "NLB:37",
-      "NLB:38",
-      "NLB:39",
-      "NLB:41",
-      "NLB:42",
-      "NLB:269",
-      "NLB:59",
-      "NLB:60",
-      "NLB:62"
+      "NLB:92",
+      "NLB:291"
     ]
   },
-  "NLB-34-inbound-1": {
-    "record_id": "NLB-34-inbound-1",
+  "NLB-34-24": {
+    "record_id": "NLB-34-24",
     "company": "NLB",
     "route_id": "24",
     "route": "34",
-    "bound": "inbound",
-    "service_type": "1",
     "origin": {
       "en": "Shek Mun Kap",
       "tc": "石門甲",
@@ -130889,48 +130387,11 @@
       "NLB:318"
     ]
   },
-  "NLB-34-outbound-1": {
-    "record_id": "NLB-34-outbound-1",
-    "company": "NLB",
-    "route_id": "23",
-    "route": "34",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tung Chung Tat Tung Road Bus Terminus",
-      "tc": "東涌達東路巴士總站",
-      "sc": "东涌达东路巴士总站"
-    },
-    "destination": {
-      "en": "Shek Mun Kap",
-      "tc": "石門甲",
-      "sc": "石门甲"
-    },
-    "stop_ids": [
-      "NLB:317",
-      "NLB:80",
-      "NLB:81",
-      "NLB:185",
-      "NLB:289",
-      "NLB:76",
-      "NLB:90",
-      "NLB:91",
-      "NLB:94",
-      "NLB:279",
-      "NLB:280",
-      "NLB:282",
-      "NLB:283",
-      "NLB:92",
-      "NLB:291"
-    ]
-  },
-  "NLB-34S-outbound-1": {
-    "record_id": "NLB-34S-outbound-1",
+  "NLB-34S-71": {
+    "record_id": "NLB-34S-71",
     "company": "NLB",
     "route_id": "71",
     "route": "34S",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Tung Chung Tat Tung Road Bus Terminus",
       "tc": "東涌達東路巴士總站",
@@ -130971,13 +130432,35 @@
       "NLB:317"
     ]
   },
-  "NLB-36-inbound-1": {
-    "record_id": "NLB-36-inbound-1",
+  "NLB-36-101": {
+    "record_id": "NLB-36-101",
+    "company": "NLB",
+    "route_id": "101",
+    "route": "36",
+    "origin": {
+      "en": "Tung Chung Tat Tung Road Bus Terminus",
+      "tc": "東涌達東路巴士總站",
+      "sc": "东涌达东路巴士总站"
+    },
+    "destination": {
+      "en": "Disneyland",
+      "tc": "迪士尼樂園",
+      "sc": "迪士尼乐园"
+    },
+    "stop_ids": [
+      "NLB:317",
+      "NLB:100",
+      "NLB:295",
+      "NLB:98",
+      "NLB:95",
+      "NLB:327"
+    ]
+  },
+  "NLB-36-102": {
+    "record_id": "NLB-36-102",
     "company": "NLB",
     "route_id": "102",
     "route": "36",
-    "bound": "inbound",
-    "service_type": "1",
     "origin": {
       "en": "Disneyland",
       "tc": "迪士尼樂園",
@@ -131000,39 +130483,11 @@
       "NLB:318"
     ]
   },
-  "NLB-36-outbound-1": {
-    "record_id": "NLB-36-outbound-1",
-    "company": "NLB",
-    "route_id": "101",
-    "route": "36",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tung Chung Tat Tung Road Bus Terminus",
-      "tc": "東涌達東路巴士總站",
-      "sc": "东涌达东路巴士总站"
-    },
-    "destination": {
-      "en": "Disneyland",
-      "tc": "迪士尼樂園",
-      "sc": "迪士尼乐园"
-    },
-    "stop_ids": [
-      "NLB:317",
-      "NLB:100",
-      "NLB:295",
-      "NLB:98",
-      "NLB:95",
-      "NLB:327"
-    ]
-  },
-  "NLB-36M-outbound-1": {
-    "record_id": "NLB-36M-outbound-1",
+  "NLB-36M-115": {
+    "record_id": "NLB-36M-115",
     "company": "NLB",
     "route_id": "115",
     "route": "36M",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Cheung Tung Estate",
       "tc": "翔東邨",
@@ -131052,13 +130507,11 @@
       "NLB:339"
     ]
   },
-  "NLB-36X-outbound-1": {
-    "record_id": "NLB-36X-outbound-1",
+  "NLB-36X-100": {
+    "record_id": "NLB-36X-100",
     "company": "NLB",
     "route_id": "100",
     "route": "36X",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Mun Tung Estate",
       "tc": "滿東邨",
@@ -131076,48 +130529,11 @@
       "NLB:327"
     ]
   },
-  "NLB-37-inbound-1": {
-    "record_id": "NLB-37-inbound-1",
-    "company": "NLB",
-    "route_id": "80",
-    "route": "37",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Ying Tung Estate",
-      "tc": "迎東邨",
-      "sc": "迎东邨"
-    },
-    "destination": {
-      "en": "Yat Tung Estate",
-      "tc": "逸東邨",
-      "sc": "逸东邨"
-    },
-    "stop_ids": [
-      "NLB:297",
-      "NLB:191",
-      "NLB:110",
-      "NLB:298",
-      "NLB:111",
-      "NLB:112",
-      "NLB:299",
-      "NLB:310",
-      "NLB:101",
-      "NLB:102",
-      "NLB:103",
-      "NLB:104",
-      "NLB:185",
-      "NLB:88",
-      "NLB:89"
-    ]
-  },
-  "NLB-37-outbound-1": {
-    "record_id": "NLB-37-outbound-1",
+  "NLB-37-78": {
+    "record_id": "NLB-37-78",
     "company": "NLB",
     "route_id": "78",
     "route": "37",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Yat Tung Estate",
       "tc": "逸東邨",
@@ -131148,13 +130564,44 @@
       "NLB:193"
     ]
   },
-  "NLB-37A-outbound-1": {
-    "record_id": "NLB-37A-outbound-1",
+  "NLB-37-80": {
+    "record_id": "NLB-37-80",
+    "company": "NLB",
+    "route_id": "80",
+    "route": "37",
+    "origin": {
+      "en": "Ying Tung Estate",
+      "tc": "迎東邨",
+      "sc": "迎东邨"
+    },
+    "destination": {
+      "en": "Yat Tung Estate",
+      "tc": "逸東邨",
+      "sc": "逸东邨"
+    },
+    "stop_ids": [
+      "NLB:297",
+      "NLB:191",
+      "NLB:110",
+      "NLB:298",
+      "NLB:111",
+      "NLB:112",
+      "NLB:299",
+      "NLB:310",
+      "NLB:101",
+      "NLB:102",
+      "NLB:103",
+      "NLB:104",
+      "NLB:185",
+      "NLB:88",
+      "NLB:89"
+    ]
+  },
+  "NLB-37A-116": {
+    "record_id": "NLB-37A-116",
     "company": "NLB",
     "route_id": "116",
     "route": "37A",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Cheung Tung Estate",
       "tc": "翔東邨",
@@ -131180,13 +130627,11 @@
       "NLB:350"
     ]
   },
-  "NLB-37H-outbound-1": {
-    "record_id": "NLB-37H-outbound-1",
+  "NLB-37H-96": {
+    "record_id": "NLB-37H-96",
     "company": "NLB",
     "route_id": "96",
     "route": "37H",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Ying Tung Estate",
       "tc": "迎東邨",
@@ -131231,13 +130676,11 @@
       "NLB:193"
     ]
   },
-  "NLB-37M-outbound-1": {
-    "record_id": "NLB-37M-outbound-1",
+  "NLB-37M-82": {
+    "record_id": "NLB-37M-82",
     "company": "NLB",
     "route_id": "82",
     "route": "37M",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Ying Tung Estate",
       "tc": "迎東邨",
@@ -131263,13 +130706,11 @@
       "NLB:193"
     ]
   },
-  "NLB-37P-outbound-1": {
-    "record_id": "NLB-37P-outbound-1",
+  "NLB-37P-63": {
+    "record_id": "NLB-37P-63",
     "company": "NLB",
     "route_id": "63",
     "route": "37P",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Yung Yat House (Yu Tung Road)",
       "tc": "逸東邨 (裕東路)",
@@ -131286,13 +130727,11 @@
       "NLB:315"
     ]
   },
-  "NLB-37S-outbound-1": {
-    "record_id": "NLB-37S-outbound-1",
+  "NLB-37S-75": {
+    "record_id": "NLB-37S-75",
     "company": "NLB",
     "route_id": "75",
     "route": "37S",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Tung Chung Development Ferry Pier",
       "tc": "東涌發展碼頭",
@@ -131309,13 +130748,11 @@
       "NLB:105"
     ]
   },
-  "NLB-38-outbound-1": {
-    "record_id": "NLB-38-outbound-1",
+  "NLB-38-30": {
+    "record_id": "NLB-38-30",
     "company": "NLB",
     "route_id": "30",
     "route": "38",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Yat Tung Estate",
       "tc": "逸東邨",
@@ -131338,13 +130775,11 @@
       "NLB:89"
     ]
   },
-  "NLB-38X-outbound-1": {
-    "record_id": "NLB-38X-outbound-1",
+  "NLB-38X-29": {
+    "record_id": "NLB-38X-29",
     "company": "NLB",
     "route_id": "29",
     "route": "38X",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Yat Tung Estate (Yu Tung Road)",
       "tc": "逸東邨 (裕東路)",
@@ -131370,13 +130805,11 @@
       "NLB:306"
     ]
   },
-  "NLB-39M-outbound-1": {
-    "record_id": "NLB-39M-outbound-1",
+  "NLB-39M-95": {
+    "record_id": "NLB-39M-95",
     "company": "NLB",
     "route_id": "95",
     "route": "39M",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Tung Chung Station Bus Terminus",
       "tc": "東涌站巴士總站",
@@ -131398,68 +130831,11 @@
       "NLB:79"
     ]
   },
-  "NLB-3M-inbound-1": {
-    "record_id": "NLB-3M-inbound-1",
-    "company": "NLB",
-    "route_id": "7",
-    "route": "3M",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mui Wo Ferry Pier",
-      "tc": "梅窩碼頭",
-      "sc": "梅窝码头"
-    },
-    "destination": {
-      "en": "Tung Chung Station Bus Terminus",
-      "tc": "東涌站巴士總站",
-      "sc": "东涌站巴士总站"
-    },
-    "stop_ids": [
-      "NLB:1",
-      "NLB:2",
-      "NLB:3",
-      "NLB:4",
-      "NLB:5",
-      "NLB:6",
-      "NLB:7",
-      "NLB:8",
-      "NLB:9",
-      "NLB:10",
-      "NLB:11",
-      "NLB:12",
-      "NLB:13",
-      "NLB:14",
-      "NLB:15",
-      "NLB:16",
-      "NLB:17",
-      "NLB:18",
-      "NLB:179",
-      "NLB:64",
-      "NLB:65",
-      "NLB:66",
-      "NLB:67",
-      "NLB:68",
-      "NLB:69",
-      "NLB:70",
-      "NLB:71",
-      "NLB:72",
-      "NLB:73",
-      "NLB:74",
-      "NLB:185",
-      "NLB:76",
-      "NLB:77",
-      "NLB:78",
-      "NLB:79"
-    ]
-  },
-  "NLB-3M-outbound-1": {
-    "record_id": "NLB-3M-outbound-1",
+  "NLB-3M-6": {
+    "record_id": "NLB-3M-6",
     "company": "NLB",
     "route_id": "6",
     "route": "3M",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Tung Chung Station Bus Terminus",
       "tc": "東涌站巴士總站",
@@ -131507,13 +130883,64 @@
       "NLB:305"
     ]
   },
-  "NLB-3M-outbound-2": {
-    "record_id": "NLB-3M-outbound-2",
+  "NLB-3M-7": {
+    "record_id": "NLB-3M-7",
+    "company": "NLB",
+    "route_id": "7",
+    "route": "3M",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "stop_ids": [
+      "NLB:1",
+      "NLB:2",
+      "NLB:3",
+      "NLB:4",
+      "NLB:5",
+      "NLB:6",
+      "NLB:7",
+      "NLB:8",
+      "NLB:9",
+      "NLB:10",
+      "NLB:11",
+      "NLB:12",
+      "NLB:13",
+      "NLB:14",
+      "NLB:15",
+      "NLB:16",
+      "NLB:17",
+      "NLB:18",
+      "NLB:179",
+      "NLB:64",
+      "NLB:65",
+      "NLB:66",
+      "NLB:67",
+      "NLB:68",
+      "NLB:69",
+      "NLB:70",
+      "NLB:71",
+      "NLB:72",
+      "NLB:73",
+      "NLB:74",
+      "NLB:185",
+      "NLB:76",
+      "NLB:77",
+      "NLB:78",
+      "NLB:79"
+    ]
+  },
+  "NLB-3M-8": {
+    "record_id": "NLB-3M-8",
     "company": "NLB",
     "route_id": "8",
     "route": "3M",
-    "bound": "outbound",
-    "service_type": "2",
     "origin": {
       "en": "Mui Wo (from Pui O)",
       "tc": "梅窩 (貝澳開)",
@@ -131549,13 +130976,11 @@
       "NLB:79"
     ]
   },
-  "NLB-4-inbound-1": {
-    "record_id": "NLB-4-inbound-1",
+  "NLB-4-10": {
+    "record_id": "NLB-4-10",
     "company": "NLB",
     "route_id": "10",
     "route": "4",
-    "bound": "inbound",
-    "service_type": "1",
     "origin": {
       "en": "Tong Fuk",
       "tc": "塘福",
@@ -131598,58 +131023,11 @@
       "NLB:305"
     ]
   },
-  "NLB-4-outbound-1": {
-    "record_id": "NLB-4-outbound-1",
-    "company": "NLB",
-    "route_id": "9",
-    "route": "4",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mui Wo Ferry Pier",
-      "tc": "梅窩碼頭",
-      "sc": "梅窝码头"
-    },
-    "destination": {
-      "en": "Tong Fuk",
-      "tc": "塘福",
-      "sc": "塘福"
-    },
-    "stop_ids": [
-      "NLB:1",
-      "NLB:6",
-      "NLB:7",
-      "NLB:8",
-      "NLB:9",
-      "NLB:10",
-      "NLB:11",
-      "NLB:12",
-      "NLB:13",
-      "NLB:14",
-      "NLB:15",
-      "NLB:16",
-      "NLB:17",
-      "NLB:18",
-      "NLB:83",
-      "NLB:19",
-      "NLB:20",
-      "NLB:21",
-      "NLB:22",
-      "NLB:23",
-      "NLB:24",
-      "NLB:25",
-      "NLB:26",
-      "NLB:27",
-      "NLB:181"
-    ]
-  },
-  "NLB-4-outbound-2": {
-    "record_id": "NLB-4-outbound-2",
+  "NLB-4-11": {
+    "record_id": "NLB-4-11",
     "company": "NLB",
     "route_id": "11",
     "route": "4",
-    "bound": "outbound",
-    "service_type": "2",
     "origin": {
       "en": "Tong Fuk (from Shui Hau)",
       "tc": "塘福 (水口開)",
@@ -131693,13 +131071,11 @@
       "NLB:305"
     ]
   },
-  "NLB-4-outbound-3": {
-    "record_id": "NLB-4-outbound-3",
+  "NLB-4-12": {
+    "record_id": "NLB-4-12",
     "company": "NLB",
     "route_id": "12",
     "route": "4",
-    "bound": "outbound",
-    "service_type": "3",
     "origin": {
       "en": "Mui Wo Ferry Pier",
       "tc": "梅窩碼頭",
@@ -131749,39 +131125,54 @@
       "NLB:240"
     ]
   },
-  "NLB-7S-inbound-1": {
-    "record_id": "NLB-7S-inbound-1",
+  "NLB-4-9": {
+    "record_id": "NLB-4-9",
     "company": "NLB",
-    "route_id": "72",
-    "route": "7S",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "9",
+    "route": "4",
     "origin": {
-      "en": "Lai Chi Yuen Cemetery",
-      "tc": "禮智園墳場",
-      "sc": "礼智园坟场"
-    },
-    "destination": {
       "en": "Mui Wo Ferry Pier",
       "tc": "梅窩碼頭",
       "sc": "梅窝码头"
     },
+    "destination": {
+      "en": "Tong Fuk",
+      "tc": "塘福",
+      "sc": "塘福"
+    },
     "stop_ids": [
-      "NLB:56",
-      "NLB:2",
-      "NLB:3",
-      "NLB:4",
-      "NLB:5",
-      "NLB:305"
+      "NLB:1",
+      "NLB:6",
+      "NLB:7",
+      "NLB:8",
+      "NLB:9",
+      "NLB:10",
+      "NLB:11",
+      "NLB:12",
+      "NLB:13",
+      "NLB:14",
+      "NLB:15",
+      "NLB:16",
+      "NLB:17",
+      "NLB:18",
+      "NLB:83",
+      "NLB:19",
+      "NLB:20",
+      "NLB:21",
+      "NLB:22",
+      "NLB:23",
+      "NLB:24",
+      "NLB:25",
+      "NLB:26",
+      "NLB:27",
+      "NLB:181"
     ]
   },
-  "NLB-7S-outbound-1": {
-    "record_id": "NLB-7S-outbound-1",
+  "NLB-7S-70": {
+    "record_id": "NLB-7S-70",
     "company": "NLB",
     "route_id": "70",
     "route": "7S",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Mui Wo Ferry Pier",
       "tc": "梅窩碼頭",
@@ -131801,17 +131192,15 @@
       "NLB:56"
     ]
   },
-  "NLB-A35-inbound-1": {
-    "record_id": "NLB-A35-inbound-1",
+  "NLB-7S-72": {
+    "record_id": "NLB-7S-72",
     "company": "NLB",
-    "route_id": "91",
-    "route": "A35",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "72",
+    "route": "7S",
     "origin": {
-      "en": "HZMB Hong Kong Port",
-      "tc": "大橋香港口岸",
-      "sc": "大桥香港口岸"
+      "en": "Lai Chi Yuen Cemetery",
+      "tc": "禮智園墳場",
+      "sc": "礼智园坟场"
     },
     "destination": {
       "en": "Mui Wo Ferry Pier",
@@ -131819,62 +131208,7 @@
       "sc": "梅窝码头"
     },
     "stop_ids": [
-      "NLB:307",
-      "NLB:117",
-      "NLB:118",
-      "NLB:120",
-      "NLB:335",
-      "NLB:274",
-      "NLB:277",
-      "NLB:78",
-      "NLB:79",
-      "NLB:80",
-      "NLB:81",
-      "NLB:90",
-      "NLB:94",
-      "NLB:279",
-      "NLB:280",
-      "NLB:282",
-      "NLB:283",
-      "NLB:284",
-      "NLB:286",
-      "NLB:287",
-      "NLB:288",
-      "NLB:273",
-      "NLB:83",
-      "NLB:19",
-      "NLB:20",
-      "NLB:21",
-      "NLB:22",
-      "NLB:23",
-      "NLB:24",
-      "NLB:25",
-      "NLB:26",
-      "NLB:27",
-      "NLB:28",
-      "NLB:246",
-      "NLB:247",
-      "NLB:248",
-      "NLB:249",
-      "NLB:250",
-      "NLB:251",
-      "NLB:252",
-      "NLB:253",
-      "NLB:254",
-      "NLB:255",
-      "NLB:256",
-      "NLB:257",
-      "NLB:258",
-      "NLB:259",
-      "NLB:260",
-      "NLB:261",
-      "NLB:262",
-      "NLB:263",
-      "NLB:264",
-      "NLB:265",
       "NLB:56",
-      "NLB:266",
-      "NLB:57",
       "NLB:2",
       "NLB:3",
       "NLB:4",
@@ -131882,13 +131216,11 @@
       "NLB:305"
     ]
   },
-  "NLB-A35-outbound-1": {
-    "record_id": "NLB-A35-outbound-1",
+  "NLB-A35-90": {
+    "record_id": "NLB-A35-90",
     "company": "NLB",
     "route_id": "90",
     "route": "A35",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Mui Wo Ferry Pier",
       "tc": "梅窩碼頭",
@@ -131963,49 +131295,90 @@
       "NLB:313"
     ]
   },
-  "NLB-B2-inbound-1": {
-    "record_id": "NLB-B2-inbound-1",
+  "NLB-A35-91": {
+    "record_id": "NLB-A35-91",
     "company": "NLB",
-    "route_id": "38",
-    "route": "B2",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "91",
+    "route": "A35",
     "origin": {
-      "en": "Shenzhen Bay Port",
-      "tc": "深圳灣口岸",
-      "sc": "深圳湾口岸"
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
     },
     "destination": {
-      "en": "Yuen Long MTR Station",
-      "tc": "元朗港鐵站",
-      "sc": "元朗港铁站"
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
     },
     "stop_ids": [
-      "NLB:152",
-      "NLB:196",
-      "NLB:153",
-      "NLB:154",
-      "NLB:147",
-      "NLB:146",
-      "NLB:145",
-      "NLB:144",
-      "NLB:143",
-      "NLB:155",
-      "NLB:156",
-      "NLB:157",
-      "NLB:158",
-      "NLB:159",
-      "NLB:160",
-      "NLB:134"
+      "NLB:307",
+      "NLB:117",
+      "NLB:118",
+      "NLB:120",
+      "NLB:335",
+      "NLB:274",
+      "NLB:277",
+      "NLB:78",
+      "NLB:79",
+      "NLB:80",
+      "NLB:81",
+      "NLB:90",
+      "NLB:94",
+      "NLB:279",
+      "NLB:280",
+      "NLB:282",
+      "NLB:283",
+      "NLB:284",
+      "NLB:286",
+      "NLB:287",
+      "NLB:288",
+      "NLB:273",
+      "NLB:83",
+      "NLB:19",
+      "NLB:20",
+      "NLB:21",
+      "NLB:22",
+      "NLB:23",
+      "NLB:24",
+      "NLB:25",
+      "NLB:26",
+      "NLB:27",
+      "NLB:28",
+      "NLB:246",
+      "NLB:247",
+      "NLB:248",
+      "NLB:249",
+      "NLB:250",
+      "NLB:251",
+      "NLB:252",
+      "NLB:253",
+      "NLB:254",
+      "NLB:255",
+      "NLB:256",
+      "NLB:257",
+      "NLB:258",
+      "NLB:259",
+      "NLB:260",
+      "NLB:261",
+      "NLB:262",
+      "NLB:263",
+      "NLB:264",
+      "NLB:265",
+      "NLB:56",
+      "NLB:266",
+      "NLB:57",
+      "NLB:2",
+      "NLB:3",
+      "NLB:4",
+      "NLB:5",
+      "NLB:305"
     ]
   },
-  "NLB-B2-outbound-1": {
-    "record_id": "NLB-B2-outbound-1",
+  "NLB-B2-37": {
+    "record_id": "NLB-B2-37",
     "company": "NLB",
     "route_id": "37",
     "route": "B2",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Yuen Long MTR Station",
       "tc": "元朗港鐵站",
@@ -132039,43 +131412,45 @@
       "NLB:152"
     ]
   },
-  "NLB-B2P-inbound-1": {
-    "record_id": "NLB-B2P-inbound-1",
+  "NLB-B2-38": {
+    "record_id": "NLB-B2-38",
     "company": "NLB",
-    "route_id": "34",
-    "route": "B2P",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "38",
+    "route": "B2",
     "origin": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",
       "sc": "深圳湾口岸"
     },
     "destination": {
-      "en": "Tin Shui Wai (Tin Tsz Estate)",
-      "tc": "天水圍 (天慈邨)",
-      "sc": "天水围 (天慈邨)"
+      "en": "Yuen Long MTR Station",
+      "tc": "元朗港鐵站",
+      "sc": "元朗港铁站"
     },
     "stop_ids": [
       "NLB:152",
-      "NLB:170",
-      "NLB:171",
-      "NLB:172",
-      "NLB:167",
-      "NLB:166",
-      "NLB:173",
-      "NLB:174",
-      "NLB:175",
-      "NLB:162"
+      "NLB:196",
+      "NLB:153",
+      "NLB:154",
+      "NLB:147",
+      "NLB:146",
+      "NLB:145",
+      "NLB:144",
+      "NLB:143",
+      "NLB:155",
+      "NLB:156",
+      "NLB:157",
+      "NLB:158",
+      "NLB:159",
+      "NLB:160",
+      "NLB:134"
     ]
   },
-  "NLB-B2P-outbound-1": {
-    "record_id": "NLB-B2P-outbound-1",
+  "NLB-B2P-33": {
+    "record_id": "NLB-B2P-33",
     "company": "NLB",
     "route_id": "33",
     "route": "B2P",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai (Tin Tsz Estate)",
       "tc": "天水圍 (天慈邨)",
@@ -132099,36 +131474,39 @@
       "NLB:152"
     ]
   },
-  "NLB-B2X-inbound-1": {
-    "record_id": "NLB-B2X-inbound-1",
+  "NLB-B2P-34": {
+    "record_id": "NLB-B2P-34",
     "company": "NLB",
-    "route_id": "36",
-    "route": "B2X",
-    "bound": "inbound",
-    "service_type": "1",
+    "route_id": "34",
+    "route": "B2P",
     "origin": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",
       "sc": "深圳湾口岸"
     },
     "destination": {
-      "en": "Tin Shui Wai (Tin Yiu Estate)",
-      "tc": "天水圍 (天耀邨)",
-      "sc": "天水围 (天耀邨)"
+      "en": "Tin Shui Wai (Tin Tsz Estate)",
+      "tc": "天水圍 (天慈邨)",
+      "sc": "天水围 (天慈邨)"
     },
     "stop_ids": [
       "NLB:152",
       "NLB:170",
-      "NLB:176"
+      "NLB:171",
+      "NLB:172",
+      "NLB:167",
+      "NLB:166",
+      "NLB:173",
+      "NLB:174",
+      "NLB:175",
+      "NLB:162"
     ]
   },
-  "NLB-B2X-outbound-1": {
-    "record_id": "NLB-B2X-outbound-1",
+  "NLB-B2X-35": {
+    "record_id": "NLB-B2X-35",
     "company": "NLB",
     "route_id": "35",
     "route": "B2X",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Tin Shui Wai (Tin Yiu Estate)",
       "tc": "天水圍 (天耀邨)",
@@ -132146,13 +131524,32 @@
       "NLB:152"
     ]
   },
-  "NLB-B4-outbound-1": {
-    "record_id": "NLB-B4-outbound-1",
+  "NLB-B2X-36": {
+    "record_id": "NLB-B2X-36",
+    "company": "NLB",
+    "route_id": "36",
+    "route": "B2X",
+    "origin": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    },
+    "destination": {
+      "en": "Tin Shui Wai (Tin Yiu Estate)",
+      "tc": "天水圍 (天耀邨)",
+      "sc": "天水围 (天耀邨)"
+    },
+    "stop_ids": [
+      "NLB:152",
+      "NLB:170",
+      "NLB:176"
+    ]
+  },
+  "NLB-B4-87": {
+    "record_id": "NLB-B4-87",
     "company": "NLB",
     "route_id": "87",
     "route": "B4",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "HZMB Hong Kong Port",
       "tc": "大橋香港口岸",
@@ -132173,13 +131570,34 @@
       "NLB:313"
     ]
   },
-  "NLB-B6-inbound-1": {
-    "record_id": "NLB-B6-inbound-1",
+  "NLB-B6-88": {
+    "record_id": "NLB-B6-88",
+    "company": "NLB",
+    "route_id": "88",
+    "route": "B6",
+    "origin": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    },
+    "destination": {
+      "en": "Mun Tung Estate",
+      "tc": "滿東邨",
+      "sc": "满东邨"
+    },
+    "stop_ids": [
+      "NLB:307",
+      "NLB:78",
+      "NLB:79",
+      "NLB:81",
+      "NLB:310"
+    ]
+  },
+  "NLB-B6-89": {
+    "record_id": "NLB-B6-89",
     "company": "NLB",
     "route_id": "89",
     "route": "B6",
-    "bound": "inbound",
-    "service_type": "1",
     "origin": {
       "en": "Mun Tung Estate",
       "tc": "滿東邨",
@@ -132200,38 +131618,11 @@
       "NLB:313"
     ]
   },
-  "NLB-B6-outbound-1": {
-    "record_id": "NLB-B6-outbound-1",
-    "company": "NLB",
-    "route_id": "88",
-    "route": "B6",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "HZMB Hong Kong Port",
-      "tc": "大橋香港口岸",
-      "sc": "大桥香港口岸"
-    },
-    "destination": {
-      "en": "Mun Tung Estate",
-      "tc": "滿東邨",
-      "sc": "满东邨"
-    },
-    "stop_ids": [
-      "NLB:307",
-      "NLB:78",
-      "NLB:79",
-      "NLB:81",
-      "NLB:310"
-    ]
-  },
-  "NLB-B6S-outbound-1": {
-    "record_id": "NLB-B6S-outbound-1",
+  "NLB-B6S-111": {
+    "record_id": "NLB-B6S-111",
     "company": "NLB",
     "route_id": "111",
     "route": "B6S",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Mun Tung Estate",
       "tc": "滿東邨",
@@ -132252,13 +131643,11 @@
       "NLB:313"
     ]
   },
-  "NLB-N1-outbound-1": {
-    "record_id": "NLB-N1-outbound-1",
+  "NLB-N1-40": {
+    "record_id": "NLB-N1-40",
     "company": "NLB",
     "route_id": "40",
     "route": "N1",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Mui Wo Ferry Pier",
       "tc": "梅窩碼頭",
@@ -132321,13 +131710,88 @@
       "NLB:55"
     ]
   },
-  "NLB-N35-inbound-1": {
-    "record_id": "NLB-N35-inbound-1",
+  "NLB-N35-92": {
+    "record_id": "NLB-N35-92",
+    "company": "NLB",
+    "route_id": "92",
+    "route": "N35",
+    "origin": {
+      "en": "Mui Wo Ferry Pier",
+      "tc": "梅窩碼頭",
+      "sc": "梅窝码头"
+    },
+    "destination": {
+      "en": "HZMB Hong Kong Port",
+      "tc": "大橋香港口岸",
+      "sc": "大桥香港口岸"
+    },
+    "stop_ids": [
+      "NLB:1",
+      "NLB:6",
+      "NLB:7",
+      "NLB:8",
+      "NLB:9",
+      "NLB:10",
+      "NLB:11",
+      "NLB:12",
+      "NLB:13",
+      "NLB:14",
+      "NLB:15",
+      "NLB:16",
+      "NLB:17",
+      "NLB:18",
+      "NLB:83",
+      "NLB:19",
+      "NLB:20",
+      "NLB:21",
+      "NLB:22",
+      "NLB:23",
+      "NLB:24",
+      "NLB:25",
+      "NLB:26",
+      "NLB:27",
+      "NLB:28",
+      "NLB:246",
+      "NLB:247",
+      "NLB:248",
+      "NLB:249",
+      "NLB:250",
+      "NLB:251",
+      "NLB:252",
+      "NLB:253",
+      "NLB:254",
+      "NLB:255",
+      "NLB:179",
+      "NLB:64",
+      "NLB:65",
+      "NLB:66",
+      "NLB:67",
+      "NLB:68",
+      "NLB:69",
+      "NLB:70",
+      "NLB:71",
+      "NLB:72",
+      "NLB:73",
+      "NLB:74",
+      "NLB:185",
+      "NLB:76",
+      "NLB:77",
+      "NLB:121",
+      "NLB:122",
+      "NLB:124",
+      "NLB:125",
+      "NLB:115",
+      "NLB:116",
+      "NLB:117",
+      "NLB:308",
+      "NLB:313"
+    ]
+  },
+  "NLB-N35-93": {
+    "record_id": "NLB-N35-93",
     "company": "NLB",
     "route_id": "93",
     "route": "N35",
-    "bound": "inbound",
-    "service_type": "1",
     "origin": {
       "en": "HZMB Hong Kong Port",
       "tc": "大橋香港口岸",
@@ -132402,92 +131866,11 @@
       "NLB:305"
     ]
   },
-  "NLB-N35-outbound-1": {
-    "record_id": "NLB-N35-outbound-1",
-    "company": "NLB",
-    "route_id": "92",
-    "route": "N35",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Mui Wo Ferry Pier",
-      "tc": "梅窩碼頭",
-      "sc": "梅窝码头"
-    },
-    "destination": {
-      "en": "HZMB Hong Kong Port",
-      "tc": "大橋香港口岸",
-      "sc": "大桥香港口岸"
-    },
-    "stop_ids": [
-      "NLB:1",
-      "NLB:6",
-      "NLB:7",
-      "NLB:8",
-      "NLB:9",
-      "NLB:10",
-      "NLB:11",
-      "NLB:12",
-      "NLB:13",
-      "NLB:14",
-      "NLB:15",
-      "NLB:16",
-      "NLB:17",
-      "NLB:18",
-      "NLB:83",
-      "NLB:19",
-      "NLB:20",
-      "NLB:21",
-      "NLB:22",
-      "NLB:23",
-      "NLB:24",
-      "NLB:25",
-      "NLB:26",
-      "NLB:27",
-      "NLB:28",
-      "NLB:246",
-      "NLB:247",
-      "NLB:248",
-      "NLB:249",
-      "NLB:250",
-      "NLB:251",
-      "NLB:252",
-      "NLB:253",
-      "NLB:254",
-      "NLB:255",
-      "NLB:179",
-      "NLB:64",
-      "NLB:65",
-      "NLB:66",
-      "NLB:67",
-      "NLB:68",
-      "NLB:69",
-      "NLB:70",
-      "NLB:71",
-      "NLB:72",
-      "NLB:73",
-      "NLB:74",
-      "NLB:185",
-      "NLB:76",
-      "NLB:77",
-      "NLB:121",
-      "NLB:122",
-      "NLB:124",
-      "NLB:125",
-      "NLB:115",
-      "NLB:116",
-      "NLB:117",
-      "NLB:308",
-      "NLB:313"
-    ]
-  },
-  "NLB-N37-outbound-1": {
-    "record_id": "NLB-N37-outbound-1",
+  "NLB-N37-86": {
+    "record_id": "NLB-N37-86",
     "company": "NLB",
     "route_id": "86",
     "route": "N37",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Ying Tung Estate",
       "tc": "迎東邨",
@@ -132516,38 +131899,11 @@
       "NLB:193"
     ]
   },
-  "NLB-N38-inbound-1": {
-    "record_id": "NLB-N38-inbound-1",
-    "company": "NLB",
-    "route_id": "45",
-    "route": "N38",
-    "bound": "inbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Tung Chung Station Bus Terminus",
-      "tc": "東涌站巴士總站",
-      "sc": "东涌站巴士总站"
-    },
-    "destination": {
-      "en": "Yat Tung Estate",
-      "tc": "逸東邨",
-      "sc": "逸东邨"
-    },
-    "stop_ids": [
-      "NLB:105",
-      "NLB:81",
-      "NLB:185",
-      "NLB:88",
-      "NLB:89"
-    ]
-  },
-  "NLB-N38-outbound-1": {
-    "record_id": "NLB-N38-outbound-1",
+  "NLB-N38-44": {
+    "record_id": "NLB-N38-44",
     "company": "NLB",
     "route_id": "44",
     "route": "N38",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Yat Tung Estate",
       "tc": "逸東邨",
@@ -132566,13 +131922,34 @@
       "NLB:105"
     ]
   },
-  "NLB-NB2-outbound-1": {
-    "record_id": "NLB-NB2-outbound-1",
+  "NLB-N38-45": {
+    "record_id": "NLB-N38-45",
+    "company": "NLB",
+    "route_id": "45",
+    "route": "N38",
+    "origin": {
+      "en": "Tung Chung Station Bus Terminus",
+      "tc": "東涌站巴士總站",
+      "sc": "东涌站巴士总站"
+    },
+    "destination": {
+      "en": "Yat Tung Estate",
+      "tc": "逸東邨",
+      "sc": "逸东邨"
+    },
+    "stop_ids": [
+      "NLB:105",
+      "NLB:81",
+      "NLB:185",
+      "NLB:88",
+      "NLB:89"
+    ]
+  },
+  "NLB-NB2-110": {
+    "record_id": "NLB-NB2-110",
     "company": "NLB",
     "route_id": "110",
     "route": "NB2",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",
@@ -132590,13 +131967,35 @@
       "NLB:152"
     ]
   },
-  "NLB-X11R-inbound-1": {
-    "record_id": "NLB-X11R-inbound-1",
+  "NLB-X11R-108": {
+    "record_id": "NLB-X11R-108",
+    "company": "NLB",
+    "route_id": "108",
+    "route": "X11R",
+    "origin": {
+      "en": "Sheraton Hong Kong Tung Chung Hotel",
+      "tc": "東涌世茂喜來登酒店",
+      "sc": "东涌世茂喜来登酒店"
+    },
+    "destination": {
+      "en": "Tai O",
+      "tc": "大澳",
+      "sc": "大澳"
+    },
+    "stop_ids": [
+      "NLB:333",
+      "NLB:77",
+      "NLB:288",
+      "NLB:26",
+      "NLB:41",
+      "NLB:55"
+    ]
+  },
+  "NLB-X11R-109": {
+    "record_id": "NLB-X11R-109",
     "company": "NLB",
     "route_id": "109",
     "route": "X11R",
-    "bound": "inbound",
-    "service_type": "1",
     "origin": {
       "en": "Tai O",
       "tc": "大澳",
@@ -132617,39 +132016,11 @@
       "NLB:334"
     ]
   },
-  "NLB-X11R-outbound-1": {
-    "record_id": "NLB-X11R-outbound-1",
-    "company": "NLB",
-    "route_id": "108",
-    "route": "X11R",
-    "bound": "outbound",
-    "service_type": "1",
-    "origin": {
-      "en": "Sheraton Hong Kong Tung Chung Hotel",
-      "tc": "東涌世茂喜來登酒店",
-      "sc": "东涌世茂喜来登酒店"
-    },
-    "destination": {
-      "en": "Tai O",
-      "tc": "大澳",
-      "sc": "大澳"
-    },
-    "stop_ids": [
-      "NLB:333",
-      "NLB:77",
-      "NLB:288",
-      "NLB:26",
-      "NLB:41",
-      "NLB:55"
-    ]
-  },
-  "NLB-XB2-outbound-1": {
-    "record_id": "NLB-XB2-outbound-1",
+  "NLB-XB2-113": {
+    "record_id": "NLB-XB2-113",
     "company": "NLB",
     "route_id": "113",
     "route": "XB2",
-    "bound": "outbound",
-    "service_type": "1",
     "origin": {
       "en": "Yuen Long MTR Station",
       "tc": "元朗港鐵站",
@@ -132670,13 +132041,11 @@
       "NLB:152"
     ]
   },
-  "NLB-XB2-outbound-2": {
-    "record_id": "NLB-XB2-outbound-2",
+  "NLB-XB2-114": {
+    "record_id": "NLB-XB2-114",
     "company": "NLB",
     "route_id": "114",
     "route": "XB2",
-    "bound": "outbound",
-    "service_type": "2",
     "origin": {
       "en": "Shenzhen Bay Port",
       "tc": "深圳灣口岸",

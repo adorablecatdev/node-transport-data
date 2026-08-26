@@ -4024,6 +4024,70 @@
       ]
     },
     {
+      "route_code": "24S",
+      "variant_index": 1,
+      "route_id": 2011622,
+      "route_seq": 1,
+      "stops": [
+        {
+          "stop_seq": 1,
+          "stop_id": 20023131,
+          "name_tc": "東源街, 近親海駅II",
+          "name_sc": "东源街, 近亲海駅II",
+          "name_en": "Tung Yuen Street, Near The Coast Line II"
+        },
+        {
+          "stop_seq": 2,
+          "stop_id": 20023132,
+          "name_tc": "仁宇圍, 近蔚藍東岸",
+          "name_sc": "仁宇围, 近蔚蓝东岸",
+          "name_en": "Yan Yue Wai, Near Montego Bay"
+        },
+        {
+          "stop_seq": 3,
+          "stop_id": 20016543,
+          "name_tc": "崇信街, 近鯉灣天下",
+          "name_sc": "崇信街, 近鲤湾天下",
+          "name_en": "Shung Shun Street, Near Canaryside"
+        },
+        {
+          "stop_seq": 4,
+          "stop_id": 20020168,
+          "name_tc": "高超道東行大本營外巴士站",
+          "name_sc": "高超道东行大本营外巴士站",
+          "name_en": "Ko Chiu Road eastbound at bus stop outside Domain"
+        },
+        {
+          "stop_seq": 5,
+          "stop_id": 20023133,
+          "name_tc": "崇信街, 近海迪中心",
+          "name_sc": "崇信街, 近海迪中心",
+          "name_en": "Shung Shun Street, Near Harbour Sky"
+        },
+        {
+          "stop_seq": 6,
+          "stop_id": 20023134,
+          "name_tc": "仁宇圍, 近蔚藍東岸",
+          "name_sc": "仁宇围, 近蔚蓝东岸",
+          "name_en": "Yan Yue Wai, Near Montego Bay"
+        },
+        {
+          "stop_seq": 7,
+          "stop_id": 20023135,
+          "name_tc": "東源街, 近親海駅I",
+          "name_sc": "东源街, 近亲海駅I",
+          "name_en": "Tung Yuen Street, Near The Coast Line I"
+        },
+        {
+          "stop_seq": 8,
+          "stop_id": 20023136,
+          "name_tc": "東源街, 近親海駅II",
+          "name_sc": "东源街, 近亲海駅II",
+          "name_en": "Tung Yuen Street, Near The Coast Line II"
+        }
+      ]
+    },
+    {
       "route_code": "25A",
       "variant_index": 1,
       "route_id": 2006045,

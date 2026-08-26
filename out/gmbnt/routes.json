@@ -3257,24 +3257,6 @@
       "sc": "荃湾站(循环线) "
     }
   },
-  "GMBNT-301M-2001889-1": {
-    "record_id": "GMBNT-301M-2001889-1",
-    "company": "GMBNT",
-    "route_id": "2001889",
-    "route": "301M",
-    "route_seq": 1,
-    "region": "NT",
-    "origin": {
-      "en": "Tsuen Wan West StationPublic Transport Interchange",
-      "tc": "荃灣西站公共運輸交匯處",
-      "sc": "荃湾西站公共运输交汇处"
-    },
-    "destination": {
-      "en": "Tsuen Wan Station (Circular)",
-      "tc": "荃灣站(循環線)",
-      "sc": "荃湾站(循环线) "
-    }
-  },
   "GMBNT-302-2001890-1": {
     "record_id": "GMBNT-302-2001890-1",
     "company": "GMBNT",
@@ -9323,10 +9305,10 @@
       "sc": "元朗(福康街)"
     }
   },
-  "GMBNT-78-2003702-1": {
-    "record_id": "GMBNT-78-2003702-1",
+  "GMBNT-78-2011655-1": {
+    "record_id": "GMBNT-78-2011655-1",
     "company": "GMBNT",
-    "route_id": "2003702",
+    "route_id": "2011655",
     "route": "78",
     "route_seq": 1,
     "region": "NT",
@@ -9341,10 +9323,10 @@
       "sc": "八乡路(近大榄隧道转车站)"
     }
   },
-  "GMBNT-78-2003702-2": {
-    "record_id": "GMBNT-78-2003702-2",
+  "GMBNT-78-2011655-2": {
+    "record_id": "GMBNT-78-2011655-2",
     "company": "GMBNT",
-    "route_id": "2003702",
+    "route_id": "2011655",
     "route": "78",
     "route_seq": 2,
     "region": "NT",
@@ -9359,10 +9341,10 @@
       "sc": "落马洲(新田)公共交通交汇处"
     }
   },
-  "GMBNT-78A-2003704-1": {
-    "record_id": "GMBNT-78A-2003704-1",
+  "GMBNT-78A-2011656-1": {
+    "record_id": "GMBNT-78A-2011656-1",
     "company": "GMBNT",
-    "route_id": "2003704",
+    "route_id": "2011656",
     "route": "78A",
     "route_seq": 1,
     "region": "NT",
@@ -9377,10 +9359,10 @@
       "sc": "八乡路(近大榄隧道转车站)"
     }
   },
-  "GMBNT-78A-2003704-2": {
-    "record_id": "GMBNT-78A-2003704-2",
+  "GMBNT-78A-2011656-2": {
+    "record_id": "GMBNT-78A-2011656-2",
     "company": "GMBNT",
-    "route_id": "2003704",
+    "route_id": "2011656",
     "route": "78A",
     "route_seq": 2,
     "region": "NT",

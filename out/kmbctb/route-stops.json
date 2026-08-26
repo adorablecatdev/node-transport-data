@@ -107,9 +107,9 @@
         "seq": 9,
         "stop_id": "C80FB453C9F53569",
         "name": {
-          "en": "THE LATITUDE (WT697)",
-          "tc": "譽．港灣 (WT697)",
-          "sc": "誉．港湾 (WT697)"
+          "en": "THE LATITUDE, SAN PO KONG (WT697)",
+          "tc": "新蒲崗譽．港灣 (WT697)",
+          "sc": "新蒲岗誉．港湾 (WT697)"
         },
         "lat": 22.332,
         "long": 114.196917,
@@ -537,9 +537,9 @@
         "seq": 9,
         "stop_id": "C80FB453C9F53569",
         "name": {
-          "en": "THE LATITUDE (WT697)",
-          "tc": "譽．港灣 (WT697)",
-          "sc": "誉．港湾 (WT697)"
+          "en": "THE LATITUDE, SAN PO KONG (WT697)",
+          "tc": "新蒲崗譽．港灣 (WT697)",
+          "sc": "新蒲岗誉．港湾 (WT697)"
         },
         "lat": 22.332,
         "long": 114.196917,
@@ -811,9 +811,9 @@
         "seq": 9,
         "stop_id": "C80FB453C9F53569",
         "name": {
-          "en": "THE LATITUDE (WT697)",
-          "tc": "譽．港灣 (WT697)",
-          "sc": "誉．港湾 (WT697)"
+          "en": "THE LATITUDE, SAN PO KONG (WT697)",
+          "tc": "新蒲崗譽．港灣 (WT697)",
+          "sc": "新蒲岗誉．港湾 (WT697)"
         },
         "lat": 22.332,
         "long": 114.196917,
@@ -9191,9 +9191,9 @@
         "seq": 10,
         "stop_id": "C80FB453C9F53569",
         "name": {
-          "en": "THE LATITUDE (WT697)",
-          "tc": "譽．港灣 (WT697)",
-          "sc": "誉．港湾 (WT697)"
+          "en": "THE LATITUDE, SAN PO KONG (WT697)",
+          "tc": "新蒲崗譽．港灣 (WT697)",
+          "sc": "新蒲岗誉．港湾 (WT697)"
         },
         "lat": 22.332,
         "long": 114.196917,
@@ -9597,9 +9597,9 @@
         "seq": 10,
         "stop_id": "C80FB453C9F53569",
         "name": {
-          "en": "THE LATITUDE (WT697)",
-          "tc": "譽．港灣 (WT697)",
-          "sc": "誉．港湾 (WT697)"
+          "en": "THE LATITUDE, SAN PO KONG (WT697)",
+          "tc": "新蒲崗譽．港灣 (WT697)",
+          "sc": "新蒲岗誉．港湾 (WT697)"
         },
         "lat": 22.332,
         "long": 114.196917,
@@ -10147,9 +10147,9 @@
         "seq": 21,
         "stop_id": "D7A05B5BAF07A89B",
         "name": {
-          "en": "THE LATITUDE (WT295)",
-          "tc": "譽．港灣 (WT295)",
-          "sc": "誉．港湾 (WT295)"
+          "en": "THE LATITUDE, SAN PO KONG (WT295)",
+          "tc": "新蒲崗譽．港灣 (WT295)",
+          "sc": "新蒲岗誉．港湾 (WT295)"
         },
         "lat": 22.33296,
         "long": 114.196532,
@@ -10553,9 +10553,9 @@
         "seq": 22,
         "stop_id": "D7A05B5BAF07A89B",
         "name": {
-          "en": "THE LATITUDE (WT295)",
-          "tc": "譽．港灣 (WT295)",
-          "sc": "誉．港湾 (WT295)"
+          "en": "THE LATITUDE, SAN PO KONG (WT295)",
+          "tc": "新蒲崗譽．港灣 (WT295)",
+          "sc": "新蒲岗誉．港湾 (WT295)"
         },
         "lat": 22.33296,
         "long": 114.196532,
@@ -27175,9 +27175,9 @@
         "seq": 4,
         "stop_id": "325FDAE396B59480",
         "name": {
-          "en": "SUN HING GARDEN (TP381)",
-          "tc": "新興花園 (TP381)",
-          "sc": "新兴花园 (TP381)"
+          "en": "SUN HING GARDEN,TAI PO CENTRE PHASE 5 (TP381)",
+          "tc": "新興花園,大埔中心五期 (TP381)",
+          "sc": "新兴花园,大埔中心五期 (TP381)"
         },
         "lat": 22.45291,
         "long": 114.172626,
@@ -27365,9 +27365,9 @@
         "seq": 7,
         "stop_id": "ACDCC9E65172243D",
         "name": {
-          "en": "SUN HING GARDEN (TP382)",
-          "tc": "新興花園 (TP382)",
-          "sc": "新兴花园 (TP382)"
+          "en": "SUN HING GARDEN, TAI PO CENTRE PHASE 5 (TP382)",
+          "tc": "新興花園,大埔中心五期 (TP382)",
+          "sc": "新兴花园,大埔中心五期 (TP382)"
         },
         "lat": 22.45291,
         "long": 114.172626,
@@ -27675,9 +27675,9 @@
         "seq": 8,
         "stop_id": "ACDCC9E65172243D",
         "name": {
-          "en": "SUN HING GARDEN (TP382)",
-          "tc": "新興花園 (TP382)",
-          "sc": "新兴花园 (TP382)"
+          "en": "SUN HING GARDEN, TAI PO CENTRE PHASE 5 (TP382)",
+          "tc": "新興花園,大埔中心五期 (TP382)",
+          "sc": "新兴花园,大埔中心五期 (TP382)"
         },
         "lat": 22.45291,
         "long": 114.172626,
@@ -28579,6 +28579,18 @@
       },
       {
         "seq": 9,
+        "stop_id": "D95CAEA4D5C491E2",
+        "name": {
+          "en": "HIU YAN ESTATE (KT512a)",
+          "tc": "曉茵邨 (KT512a)",
+          "sc": "晓茵邨 (KT512a)"
+        },
+        "lat": 22.316484,
+        "long": 114.231751,
+        "ctb_stop_id": "003978"
+      },
+      {
+        "seq": 10,
         "stop_id": "41E81A921D79F375",
         "name": {
           "en": "HIU LAI COURT (KT513)",
@@ -28590,7 +28602,7 @@
         "ctb_stop_id": "003038"
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "04B6438688E12AC0",
         "name": {
           "en": "CHEUNG WO COURT (KT533)",
@@ -28602,7 +28614,7 @@
         "ctb_stop_id": "003039"
       },
       {
-        "seq": 11,
+        "seq": 12,
         "stop_id": "6CEE063506576EDB",
         "name": {
           "en": "WO LOK ESTATE (KT536)",
@@ -28614,7 +28626,7 @@
         "ctb_stop_id": "003040"
       },
       {
-        "seq": 12,
+        "seq": 13,
         "stop_id": "B5CB3F0D26BBBD03",
         "name": {
           "en": "HIP WO STREET, YUE MAN SQUARE (KT538)",
@@ -28626,7 +28638,7 @@
         "ctb_stop_id": "001474"
       },
       {
-        "seq": 13,
+        "seq": 14,
         "stop_id": "114381B039350CBB",
         "name": {
           "en": "KWUN TONG STATION (KT992)",
@@ -28638,7 +28650,7 @@
         "ctb_stop_id": "001510"
       },
       {
-        "seq": 14,
+        "seq": 15,
         "stop_id": "5AAC6A858427D04E",
         "name": {
           "en": "KWUN TONG SWIMMING POOL (KT360)",
@@ -28650,7 +28662,7 @@
         "ctb_stop_id": "001518"
       },
       {
-        "seq": 15,
+        "seq": 16,
         "stop_id": "5BDD5F9F4C89D3E1",
         "name": {
           "en": "LAM TIN STATION (LT909)",
@@ -28662,7 +28674,7 @@
         "ctb_stop_id": "001519"
       },
       {
-        "seq": 16,
+        "seq": 17,
         "stop_id": "E0558D2901ECC032",
         "name": {
           "en": "EASTERN HARBOUR TUNNEL BBI (LT412)",
@@ -28674,7 +28686,7 @@
         "ctb_stop_id": "001463"
       },
       {
-        "seq": 17,
+        "seq": 18,
         "stop_id": "B71025EB663E736F",
         "name": {
           "en": "ISLAND PLACE",
@@ -28686,7 +28698,7 @@
         "ctb_stop_id": "001278"
       },
       {
-        "seq": 18,
+        "seq": 19,
         "stop_id": "8D05916401FE8BCB",
         "name": {
           "en": "MARY COURT",
@@ -28698,7 +28710,7 @@
         "ctb_stop_id": "001281"
       },
       {
-        "seq": 19,
+        "seq": 20,
         "stop_id": "3F3DBD185AC10BBE",
         "name": {
           "en": "FORTRESS HILL STATION",
@@ -28710,7 +28722,7 @@
         "ctb_stop_id": "001283"
       },
       {
-        "seq": 20,
+        "seq": 21,
         "stop_id": "29BF740504C5EEB6",
         "name": {
           "en": "TSING FUNG STREET",
@@ -28722,7 +28734,7 @@
         "ctb_stop_id": "001286"
       },
       {
-        "seq": 21,
+        "seq": 22,
         "stop_id": "1C36A07970C8909A",
         "name": {
           "en": "HONG KONG CENTRAL LIBRARY",
@@ -28734,7 +28746,7 @@
         "ctb_stop_id": "001215"
       },
       {
-        "seq": 22,
+        "seq": 23,
         "stop_id": "9F72AC7E3C3CE65C",
         "name": {
           "en": "CAROLINE HILL ROAD",
@@ -28746,7 +28758,7 @@
         "ctb_stop_id": "002457"
       },
       {
-        "seq": 23,
+        "seq": 24,
         "stop_id": "85342AE6060B2214",
         "name": {
           "en": "LEIGHTON CENTRE",
@@ -28758,7 +28770,7 @@
         "ctb_stop_id": "002567"
       },
       {
-        "seq": 24,
+        "seq": 25,
         "stop_id": "265B143AC892EE78",
         "name": {
           "en": "CNT TOWER",
@@ -28770,7 +28782,7 @@
         "ctb_stop_id": "002442"
       },
       {
-        "seq": 25,
+        "seq": 26,
         "stop_id": "B65DB5330193E38E",
         "name": {
           "en": "HENNESSY ROAD GOVERNMENT PRIMARY SCHOOL",
@@ -28782,7 +28794,7 @@
         "ctb_stop_id": "002444"
       },
       {
-        "seq": 26,
+        "seq": 27,
         "stop_id": "A0934516C3FE8D29",
         "name": {
           "en": "LUARD ROAD",
@@ -28794,7 +28806,7 @@
         "ctb_stop_id": "002459"
       },
       {
-        "seq": 27,
+        "seq": 28,
         "stop_id": "D2F2B3C5436007C2",
         "name": {
           "en": "ADMIRALTY CENTRE",
@@ -28806,7 +28818,7 @@
         "ctb_stop_id": "001074"
       },
       {
-        "seq": 28,
+        "seq": 29,
         "stop_id": "E30B8672A91A50B9",
         "name": {
           "en": "ADMIRALTY (EAST) TERMINUS",
@@ -29059,9 +29071,9 @@
         "seq": 20,
         "stop_id": "C8830886D41FB5FA",
         "name": {
-          "en": "HIU KWONG STREET RECREATION GROUND (KT287)",
-          "tc": "曉光街遊樂場 (KT287)",
-          "sc": "晓光街游乐场 (KT287)"
+          "en": "HIU YAN ESTATE (KT287)",
+          "tc": "曉茵邨 (KT287)",
+          "sc": "晓茵邨 (KT287)"
         },
         "lat": 22.317021,
         "long": 114.231554,
@@ -29271,6 +29283,18 @@
       },
       {
         "seq": 9,
+        "stop_id": "D95CAEA4D5C491E2",
+        "name": {
+          "en": "HIU YAN ESTATE (KT512a)",
+          "tc": "曉茵邨 (KT512a)",
+          "sc": "晓茵邨 (KT512a)"
+        },
+        "lat": 22.316484,
+        "long": 114.231751,
+        "ctb_stop_id": "003044"
+      },
+      {
+        "seq": 10,
         "stop_id": "41E81A921D79F375",
         "name": {
           "en": "HIU LAI COURT (KT513)",
@@ -29282,7 +29306,7 @@
         "ctb_stop_id": "003043"
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "04B6438688E12AC0",
         "name": {
           "en": "CHEUNG WO COURT (KT533)",
@@ -29294,7 +29318,7 @@
         "ctb_stop_id": "003042"
       },
       {
-        "seq": 11,
+        "seq": 12,
         "stop_id": "6CEE063506576EDB",
         "name": {
           "en": "WO LOK ESTATE (KT536)",
@@ -29306,7 +29330,7 @@
         "ctb_stop_id": "003041"
       },
       {
-        "seq": 12,
+        "seq": 13,
         "stop_id": "B5CB3F0D26BBBD03",
         "name": {
           "en": "HIP WO STREET, YUE MAN SQUARE (KT538)",
@@ -29318,7 +29342,7 @@
         "ctb_stop_id": "003041"
       },
       {
-        "seq": 13,
+        "seq": 14,
         "stop_id": "114381B039350CBB",
         "name": {
           "en": "KWUN TONG STATION (KT992)",
@@ -29330,7 +29354,7 @@
         "ctb_stop_id": "001521"
       },
       {
-        "seq": 14,
+        "seq": 15,
         "stop_id": "5AAC6A858427D04E",
         "name": {
           "en": "KWUN TONG SWIMMING POOL (KT360)",
@@ -29342,7 +29366,7 @@
         "ctb_stop_id": "001521"
       },
       {
-        "seq": 15,
+        "seq": 16,
         "stop_id": "5BDD5F9F4C89D3E1",
         "name": {
           "en": "LAM TIN STATION (LT909)",
@@ -29354,7 +29378,7 @@
         "ctb_stop_id": "001522"
       },
       {
-        "seq": 16,
+        "seq": 17,
         "stop_id": "E0558D2901ECC032",
         "name": {
           "en": "EASTERN HARBOUR TUNNEL BBI (LT412)",
@@ -29366,7 +29390,7 @@
         "ctb_stop_id": "001464"
       },
       {
-        "seq": 17,
+        "seq": 18,
         "stop_id": "458A5CD02E6008EC",
         "name": {
           "en": "LUARD ROAD",
@@ -29378,7 +29402,7 @@
         "ctb_stop_id": "002432"
       },
       {
-        "seq": 18,
+        "seq": 19,
         "stop_id": "D2F2B3C5436007C2",
         "name": {
           "en": "ADMIRALTY CENTRE",
@@ -29390,7 +29414,7 @@
         "ctb_stop_id": "001137"
       },
       {
-        "seq": 19,
+        "seq": 20,
         "stop_id": "EC2573EE5FF42AAC",
         "name": {
           "en": "HSBC BUILDING",
@@ -29402,7 +29426,7 @@
         "ctb_stop_id": "001051"
       },
       {
-        "seq": 20,
+        "seq": 21,
         "stop_id": "74EE2ECB1A3773E9",
         "name": {
           "en": "LI YUEN STREET EAST",
@@ -29414,7 +29438,7 @@
         "ctb_stop_id": "001047"
       },
       {
-        "seq": 21,
+        "seq": 22,
         "stop_id": "B4962A215D3DFA65",
         "name": {
           "en": "WING KUT STREET",
@@ -29833,13 +29857,13 @@
         "seq": 20,
         "stop_id": "C8830886D41FB5FA",
         "name": {
-          "en": "HIU KWONG STREET RECREATION GROUND (KT287)",
-          "tc": "曉光街遊樂場 (KT287)",
-          "sc": "晓光街游乐场 (KT287)"
+          "en": "HIU YAN ESTATE (KT287)",
+          "tc": "曉茵邨 (KT287)",
+          "sc": "晓茵邨 (KT287)"
         },
         "lat": 22.317021,
         "long": 114.231554,
-        "ctb_stop_id": "001747"
+        "ctb_stop_id": "003978"
       },
       {
         "seq": 21,
@@ -29875,7 +29899,7 @@
         },
         "lat": 22.317096,
         "long": 114.23217,
-        "ctb_stop_id": "001747"
+        "ctb_stop_id": "003978"
       },
       {
         "seq": 24,
@@ -30607,14 +30631,14 @@
       },
       {
         "seq": 10,
-        "stop_id": "F140654A12BA066A",
+        "stop_id": "099263A4B4AAEDFB",
         "name": {
-          "en": "NGAU TAU KOK BUS TERMINUS (KT956)",
-          "tc": "牛頭角總站 (KT956)",
-          "sc": "牛头角总站 (KT956)"
+          "en": "NGAU TAU KOK BUS TERMINUS (KT957)",
+          "tc": "牛頭角總站 (KT957)",
+          "sc": "牛头角总站 (KT957)"
         },
-        "lat": 22.323044,
-        "long": 114.216814,
+        "lat": 22.32315,
+        "long": 114.216795,
         "ctb_stop_id": "002584"
       },
       {
@@ -31707,14 +31731,14 @@
       },
       {
         "seq": 10,
-        "stop_id": "F140654A12BA066A",
+        "stop_id": "099263A4B4AAEDFB",
         "name": {
-          "en": "NGAU TAU KOK BUS TERMINUS (KT956)",
-          "tc": "牛頭角總站 (KT956)",
-          "sc": "牛头角总站 (KT956)"
+          "en": "NGAU TAU KOK BUS TERMINUS (KT957)",
+          "tc": "牛頭角總站 (KT957)",
+          "sc": "牛头角总站 (KT957)"
         },
-        "lat": 22.323044,
-        "long": 114.216814,
+        "lat": 22.32315,
+        "long": 114.216795,
         "ctb_stop_id": "002584"
       },
       {
@@ -44323,9 +44347,9 @@
         "seq": 8,
         "stop_id": "325FDAE396B59480",
         "name": {
-          "en": "SUN HING GARDEN (TP381)",
-          "tc": "新興花園 (TP381)",
-          "sc": "新兴花园 (TP381)"
+          "en": "SUN HING GARDEN,TAI PO CENTRE PHASE 5 (TP381)",
+          "tc": "新興花園,大埔中心五期 (TP381)",
+          "sc": "新兴花园,大埔中心五期 (TP381)"
         },
         "lat": 22.45291,
         "long": 114.172626,
@@ -44997,7 +45021,7 @@
         },
         "lat": 22.28096,
         "long": 114.189952,
-        "ctb_stop_id": "001215"
+        "ctb_stop_id": "002465"
       },
       {
         "seq": 26,
@@ -55371,14 +55395,14 @@
     "stops": [
       {
         "seq": 1,
-        "stop_id": "EAA44CDBC231DB8C",
+        "stop_id": "D18861DD66E59F95",
         "name": {
-          "en": "KWONG YUEN BUS TERMINUS (ST884)",
-          "tc": "廣源巴士總站 (ST884)",
-          "sc": "广源巴士总站 (ST884)"
+          "en": "KWONG YUEN BUS TERMINUS (ST883)",
+          "tc": "廣源巴士總站 (ST883)",
+          "sc": "广源巴士总站 (ST883)"
         },
-        "lat": 22.381186,
-        "long": 114.216028,
+        "lat": 22.381167,
+        "long": 114.216113,
         "ctb_stop_id": "002083"
       },
       {
