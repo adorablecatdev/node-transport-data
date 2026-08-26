@@ -27,10 +27,37 @@ export type KmbScheduleData = Record<string, KmbScheduleEntry[]>;
 
 type KmbScheduleResponse = { data?: KmbScheduleData };
 
-export async function fetchSchedule(route: string): Promise<KmbScheduleData> {
-  const url = `${BASE}?action=getschedule&route=${encodeURIComponent(route)}&bound=1`;
+export type KmbBound = 1 | 2;
+
+export async function fetchSchedule(route: string, bound: KmbBound): Promise<KmbScheduleData> {
+  const url = `${BASE}?action=getschedule&route=${encodeURIComponent(route)}&bound=${bound}`;
   const r = await fetchJson<KmbScheduleResponse>(url);
   return r?.data ?? {};
+}
+
+// The API populates BoundText1/BoundTime1 with the queried direction's data
+// when bound=1 and BoundText2/BoundTime2 when bound=2, but always emits both
+// pairs. Only the pair matching the queried bound is authoritative; the other
+// pair may hold stale or unrelated values. Blank the non-authoritative pair so
+// downstream code can safely concatenate entries from both bounds.
+function stripNonAuthoritativeFields(data: KmbScheduleData, bound: KmbBound): KmbScheduleData {
+  const stripped: KmbScheduleData = {};
+  for (const [key, entries] of Object.entries(data)) {
+    stripped[key] = entries.map((e) =>
+      bound === 1
+        ? { ...e, BoundText2: "", BoundTime2: "" }
+        : { ...e, BoundText1: "", BoundTime1: "" },
+    );
+  }
+  return stripped;
+}
+
+function mergeSchedules(a: KmbScheduleData, b: KmbScheduleData): KmbScheduleData {
+  const out: KmbScheduleData = { ...a };
+  for (const [key, entries] of Object.entries(b)) {
+    out[key] = out[key] ? [...out[key]!, ...entries] : entries;
+  }
+  return out;
 }
 
 export async function fetchAllSchedules(
@@ -58,11 +85,18 @@ export async function fetchAllSchedules(
     await writeJson(cachePath, obj);
   };
 
+  const BOUNDS: KmbBound[] = [1, 2];
+
   let wroteProgress = false;
   for (const route of routes) {
     if (out.has(route)) continue;
-    const data = await fetchSchedule(route);
-    out.set(route, data);
+    let merged: KmbScheduleData = {};
+    for (const bound of BOUNDS) {
+      const data = await fetchSchedule(route, bound);
+      merged = mergeSchedules(merged, stripNonAuthoritativeFields(data, bound));
+      await delay(THROTTLE_MS);
+    }
+    out.set(route, merged);
     done++;
     sinceSave++;
     process.stdout.write(`\r[time_table][kmbctb] schedule progress ${done}/${total}`);
@@ -71,7 +105,6 @@ export async function fetchAllSchedules(
       await persist();
       sinceSave = 0;
     }
-    await delay(THROTTLE_MS);
   }
   if (cachePath && sinceSave > 0) await persist();
   if (wroteProgress) process.stdout.write("\n");
