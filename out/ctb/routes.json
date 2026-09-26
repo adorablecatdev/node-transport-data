@@ -1487,6 +1487,38 @@
       "sc": "尖沙咀／高铁西九龙站"
     }
   },
+  "CTB-20X-I": {
+    "record_id": "CTB-20X-I",
+    "company": "CTB",
+    "route": "20X",
+    "bound": "I",
+    "origin": {
+      "en": "Jordan & Tsim Sha Tsui",
+      "tc": "佐敦及尖沙咀",
+      "sc": "佐敦及尖沙咀"
+    },
+    "destination": {
+      "en": "Kai Tak Cruise Terminal",
+      "tc": "啟德郵輪碼頭",
+      "sc": "启德邮轮码头"
+    }
+  },
+  "CTB-20X-O": {
+    "record_id": "CTB-20X-O",
+    "company": "CTB",
+    "route": "20X",
+    "bound": "O",
+    "origin": {
+      "en": "Kai Tak Cruise Terminal",
+      "tc": "啟德郵輪碼頭",
+      "sc": "启德邮轮码头"
+    },
+    "destination": {
+      "en": "Jordan & Tsim Sha Tsui",
+      "tc": "佐敦及尖沙咀",
+      "sc": "佐敦及尖沙咀"
+    }
+  },
   "CTB-22-I": {
     "record_id": "CTB-22-I",
     "company": "CTB",
@@ -1530,9 +1562,9 @@
       "sc": "启德跑道区"
     },
     "destination": {
-      "en": "Kai Tak Station",
-      "tc": "啟德站",
-      "sc": "启德站"
+      "en": "Kai Tak Station (Exit A)",
+      "tc": "啟德站 (A 出口)",
+      "sc": "启德站 (A 出口)"
     }
   },
   "CTB-22D-O": {
@@ -1541,9 +1573,9 @@
     "route": "22D",
     "bound": "O",
     "origin": {
-      "en": "Kai Tak Station",
-      "tc": "啟德站",
-      "sc": "启德站"
+      "en": "Kai Tak Station (Exit A)",
+      "tc": "啟德站 (A 出口)",
+      "sc": "启德站 (A 出口)"
     },
     "destination": {
       "en": "Kai Tak Runway Area",
@@ -1615,15 +1647,47 @@
       "sc": "启德邮轮码头"
     }
   },
+  "CTB-22S-I": {
+    "record_id": "CTB-22S-I",
+    "company": "CTB",
+    "route": "22S",
+    "bound": "I",
+    "origin": {
+      "en": "Kai Tak Hospital / Cruise Terminal",
+      "tc": "啟德醫院 / 郵輪碼頭",
+      "sc": "启德医院 / 邮轮码头"
+    },
+    "destination": {
+      "en": "Kai Tak -AIRSIDE (via Sung Wong Toi Station)",
+      "tc": "啟德-AIRSIDE (經宋皇臺站)",
+      "sc": "启德-AIRSIDE (经宋皇台站)"
+    }
+  },
+  "CTB-22S-O": {
+    "record_id": "CTB-22S-O",
+    "company": "CTB",
+    "route": "22S",
+    "bound": "O",
+    "origin": {
+      "en": "Kai Tak -AIRSIDE (via Sung Wong Toi Station)",
+      "tc": "啟德-AIRSIDE (經宋皇臺站)",
+      "sc": "启德-AIRSIDE (经宋皇台站)"
+    },
+    "destination": {
+      "en": "Kai Tak Hospital / Cruise Terminal",
+      "tc": "啟德醫院 / 郵輪碼頭",
+      "sc": "启德医院 / 邮轮码头"
+    }
+  },
   "CTB-22X-I": {
     "record_id": "CTB-22X-I",
     "company": "CTB",
     "route": "22X",
     "bound": "I",
     "origin": {
-      "en": "Kai Tak Station",
-      "tc": "啟德站",
-      "sc": "启德站"
+      "en": "Kai Tak Station (Exit A)",
+      "tc": "啟德站 (A 出口)",
+      "sc": "启德站 (A 出口)"
     },
     "destination": {
       "en": "One Victoria",
@@ -1642,9 +1706,9 @@
       "sc": "维港1号"
     },
     "destination": {
-      "en": "Kai Tak Station",
-      "tc": "啟德站",
-      "sc": "启德站"
+      "en": "Kai Tak Station (Exit A)",
+      "tc": "啟德站 (A 出口)",
+      "sc": "启德站 (A 出口)"
     }
   },
   "CTB-23-I": {
@@ -2031,6 +2095,38 @@
       "sc": "上环"
     }
   },
+  "CTB-307D-I": {
+    "record_id": "CTB-307D-I",
+    "company": "CTB",
+    "route": "307D",
+    "bound": "I",
+    "origin": {
+      "en": "Siu Sai Wan Sports Ground",
+      "tc": "小西灣運動場",
+      "sc": "小西湾运动场"
+    },
+    "destination": {
+      "en": "Tai Po (Ting Tai Road)",
+      "tc": "大埔 (汀太路)",
+      "sc": "大埔 (汀太路)"
+    }
+  },
+  "CTB-307D-O": {
+    "record_id": "CTB-307D-O",
+    "company": "CTB",
+    "route": "307D",
+    "bound": "O",
+    "origin": {
+      "en": "Tai Po (Ting Tai Road)",
+      "tc": "大埔 (汀太路)",
+      "sc": "大埔 (汀太路)"
+    },
+    "destination": {
+      "en": "Siu Sai Wan Sports Ground",
+      "tc": "小西灣運動場",
+      "sc": "小西湾运动场"
+    }
+  },
   "CTB-307P-I": {
     "record_id": "CTB-307P-I",
     "company": "CTB",
@@ -2093,38 +2189,6 @@
       "en": "Admiralty (East)",
       "tc": "金鐘(東)",
       "sc": "金钟(东)"
-    }
-  },
-  "CTB-314-I": {
-    "record_id": "CTB-314-I",
-    "company": "CTB",
-    "route": "314",
-    "bound": "I",
-    "origin": {
-      "en": "Stanley (Beach / Market)",
-      "tc": "赤柱 (海灘／市場)",
-      "sc": "赤柱 (海滩／市场)"
-    },
-    "destination": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    }
-  },
-  "CTB-314-O": {
-    "record_id": "CTB-314-O",
-    "company": "CTB",
-    "route": "314",
-    "bound": "O",
-    "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
-      "en": "Stanley (Beach / Market)",
-      "tc": "赤柱 (海灘／市場)",
-      "sc": "赤柱 (海滩／市场)"
     }
   },
   "CTB-33X-I": {
@@ -4863,38 +4927,6 @@
       "sc": "海洋公园"
     }
   },
-  "CTB-73X-I": {
-    "record_id": "CTB-73X-I",
-    "company": "CTB",
-    "route": "73X",
-    "bound": "I",
-    "origin": {
-      "en": "Wong Chuk Hang Station",
-      "tc": "黃竹坑站",
-      "sc": "黄竹坑站"
-    },
-    "destination": {
-      "en": "Cyberport",
-      "tc": "數碼港",
-      "sc": "数码港"
-    }
-  },
-  "CTB-73X-O": {
-    "record_id": "CTB-73X-O",
-    "company": "CTB",
-    "route": "73X",
-    "bound": "O",
-    "origin": {
-      "en": "Cyberport",
-      "tc": "數碼港",
-      "sc": "数码港"
-    },
-    "destination": {
-      "en": "Wong Chuk Hang Station",
-      "tc": "黃竹坑站",
-      "sc": "黄竹坑站"
-    }
-  },
   "CTB-75-I": {
     "record_id": "CTB-75-I",
     "company": "CTB",
@@ -6413,38 +6445,6 @@
       "en": "Wan Chai (HKCEC)",
       "tc": "灣仔 (會議展覽中心)",
       "sc": "湾仔 (会议展览中心)"
-    }
-  },
-  "CTB-907D-I": {
-    "record_id": "CTB-907D-I",
-    "company": "CTB",
-    "route": "907D",
-    "bound": "I",
-    "origin": {
-      "en": "Siu Sai Wan Sports Ground",
-      "tc": "小西灣運動場",
-      "sc": "小西湾运动场"
-    },
-    "destination": {
-      "en": "Tai Po (Ting Tai Road)",
-      "tc": "大埔 (汀太路)",
-      "sc": "大埔 (汀太路)"
-    }
-  },
-  "CTB-907D-O": {
-    "record_id": "CTB-907D-O",
-    "company": "CTB",
-    "route": "907D",
-    "bound": "O",
-    "origin": {
-      "en": "Tai Po (Ting Tai Road)",
-      "tc": "大埔 (汀太路)",
-      "sc": "大埔 (汀太路)"
-    },
-    "destination": {
-      "en": "Siu Sai Wan Sports Ground",
-      "tc": "小西灣運動場",
-      "sc": "小西湾运动场"
     }
   },
   "CTB-90B-I": {
