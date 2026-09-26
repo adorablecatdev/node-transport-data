@@ -5480,9 +5480,9 @@
     "bound": "O",
     "service_type": "3",
     "origin": {
-      "en": "TUEN MUN (PO TIN ESTATE)",
-      "tc": "屯門(寶田邨)",
-      "sc": "屯门(宝田邨)"
+      "en": "PO TIN BBI",
+      "tc": "寶田轉車站",
+      "sc": "宝田转车站"
     },
     "destination": {
       "en": "KWAI FONG STATION",
@@ -6032,40 +6032,6 @@
       "en": "LONG TIN COURT",
       "tc": "朗天苑",
       "sc": "朗天苑"
-    }
-  },
-  "KMB-63R-O-1": {
-    "record_id": "KMB-63R-O-1",
-    "company": "KMB",
-    "route": "63R",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TAI PO MARKET STATION",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    },
-    "destination": {
-      "en": "LAM TSUEN WISHING TREE",
-      "tc": "林村許願樹",
-      "sc": "林村许愿树"
-    }
-  },
-  "KMB-63R-I-1": {
-    "record_id": "KMB-63R-I-1",
-    "company": "KMB",
-    "route": "63R",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "LAM TSUEN WISHING TREE",
-      "tc": "林村許願樹",
-      "sc": "林村许愿树"
-    },
-    "destination": {
-      "en": "TAI PO MARKET STATION",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
     }
   },
   "KMB-63X-O-1": {
@@ -8023,6 +7989,57 @@
       "sc": "大埔中心"
     }
   },
+  "KMB-75F-O-1": {
+    "record_id": "KMB-75F-O-1",
+    "company": "KMB",
+    "route": "75F",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "TAI PO MARKET STATION",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "EDUCATION UNIVERSITY OF HONG KONG",
+      "tc": "香港教育大學",
+      "sc": "香港教育大学"
+    }
+  },
+  "KMB-75F-O-2": {
+    "record_id": "KMB-75F-O-2",
+    "company": "KMB",
+    "route": "75F",
+    "bound": "O",
+    "service_type": "2",
+    "origin": {
+      "en": "TAI PO MARKET STATION",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "EDUCATION UNIVERSITY OF HONG KONG",
+      "tc": "香港教育大學",
+      "sc": "香港教育大学"
+    }
+  },
+  "KMB-75F-I-1": {
+    "record_id": "KMB-75F-I-1",
+    "company": "KMB",
+    "route": "75F",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "EDUCATION UNIVERSITY OF HONG KONG",
+      "tc": "香港教育大學",
+      "sc": "香港教育大学"
+    },
+    "destination": {
+      "en": "TAI PO MARKET STATION",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    }
+  },
   "KMB-75K-O-1": {
     "record_id": "KMB-75K-O-1",
     "company": "KMB",
@@ -8176,6 +8193,23 @@
       "sc": "朗屏邨"
     }
   },
+  "KMB-76K-O-3": {
+    "record_id": "KMB-76K-O-3",
+    "company": "KMB",
+    "route": "76K",
+    "bound": "O",
+    "service_type": "3",
+    "origin": {
+      "en": "SHEUNG SHUI (CHING HO)",
+      "tc": "上水(清河)",
+      "sc": "上水(清河)"
+    },
+    "destination": {
+      "en": "PAK SHEK AU",
+      "tc": "白石凹",
+      "sc": "白石凹"
+    }
+  },
   "KMB-76K-I-1": {
     "record_id": "KMB-76K-I-1",
     "company": "KMB",
@@ -8186,6 +8220,23 @@
       "en": "LONG PING ESTATE",
       "tc": "朗屏邨",
       "sc": "朗屏邨"
+    },
+    "destination": {
+      "en": "SHEUNG SHUI (CHING HO)",
+      "tc": "上水(清河)",
+      "sc": "上水(清河)"
+    }
+  },
+  "KMB-76K-I-2": {
+    "record_id": "KMB-76K-I-2",
+    "company": "KMB",
+    "route": "76K",
+    "bound": "I",
+    "service_type": "2",
+    "origin": {
+      "en": "SAN TIN PTI",
+      "tc": "新田運輸交匯處",
+      "sc": "新田运输交汇处"
     },
     "destination": {
       "en": "SHEUNG SHUI (CHING HO)",
@@ -13089,12 +13140,46 @@
       "sc": "九龙站"
     }
   },
+  "KMB-213E-O-2": {
+    "record_id": "KMB-213E-O-2",
+    "company": "KMB",
+    "route": "213E",
+    "bound": "O",
+    "service_type": "2",
+    "origin": {
+      "en": "ANDERSON",
+      "tc": "安達臣",
+      "sc": "安达臣"
+    },
+    "destination": {
+      "en": "KOWLOON STATION",
+      "tc": "九龍站",
+      "sc": "九龙站"
+    }
+  },
   "KMB-213E-I-1": {
     "record_id": "KMB-213E-I-1",
     "company": "KMB",
     "route": "213E",
     "bound": "I",
     "service_type": "1",
+    "origin": {
+      "en": "KOWLOON STATION",
+      "tc": "九龍站",
+      "sc": "九龙站"
+    },
+    "destination": {
+      "en": "ANDERSON",
+      "tc": "安達臣",
+      "sc": "安达臣"
+    }
+  },
+  "KMB-213E-I-2": {
+    "record_id": "KMB-213E-I-2",
+    "company": "KMB",
+    "route": "213E",
+    "bound": "I",
+    "service_type": "2",
     "origin": {
       "en": "KOWLOON STATION",
       "tc": "九龍站",
@@ -13589,9 +13674,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "SHAM TSENG",
-      "tc": "深井",
-      "sc": "深井"
+      "en": "TSING LUNG TAU",
+      "tc": "青龍頭",
+      "sc": "青龙头"
     },
     "destination": {
       "en": "KWUN TONG (TSUI PING NORTH ESTATE)",
@@ -13611,9 +13696,9 @@
       "sc": "观塘(翠屏北邨"
     },
     "destination": {
-      "en": "SHAM TSENG",
-      "tc": "深井",
-      "sc": "深井"
+      "en": "TSING LUNG TAU",
+      "tc": "青龍頭",
+      "sc": "青龙头"
     }
   },
   "KMB-234D-O-1": {
@@ -14313,6 +14398,23 @@
       "sc": "屯门(置乐花园)"
     }
   },
+  "KMB-253-O-1": {
+    "record_id": "KMB-253-O-1",
+    "company": "KMB",
+    "route": "253",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "TSING FAT STREET LIGHT PUBLIC HOUSING",
+      "tc": "青發街簡約公屋",
+      "sc": "青发街简约公屋"
+    },
+    "destination": {
+      "en": "TUEN MUN ROAD BBI (CIRCULAR)",
+      "tc": "屯門公路轉車站(循環線)",
+      "sc": "屯门公路转车站(循环线)"
+    }
+  },
   "KMB-258A-O-1": {
     "record_id": "KMB-258A-O-1",
     "company": "KMB",
@@ -14881,9 +14983,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "SO KWUN WAT",
-      "tc": "掃管笏",
-      "sc": "扫管笏"
+      "en": "TSING FAT STREET LIGHT PUBLIC HOUSING",
+      "tc": "青發街簡約公屋",
+      "sc": "青发街简约公屋"
     },
     "destination": {
       "en": "FANLING (CHEUNG WAH)",
@@ -14903,9 +15005,9 @@
       "sc": "粉岭(祥华)"
     },
     "destination": {
-      "en": "SO KWUN WAT",
-      "tc": "掃管笏",
-      "sc": "扫管笏"
+      "en": "TSING FAT STREET LIGHT PUBLIC HOUSING",
+      "tc": "青發街簡約公屋",
+      "sc": "青发街简约公屋"
     }
   },
   "KMB-263-O-1": {
@@ -19090,6 +19192,40 @@
       "sc": "上环"
     }
   },
+  "KMB-307D-O-1": {
+    "record_id": "KMB-307D-O-1",
+    "company": "KMB",
+    "route": "307D",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "TAI PO (TING TAI ROAD)",
+      "tc": "大埔 (汀太路)",
+      "sc": "大埔 (汀太路)"
+    },
+    "destination": {
+      "en": "SIU SAI WAN",
+      "tc": "小西灣",
+      "sc": "小西湾"
+    }
+  },
+  "KMB-307D-I-1": {
+    "record_id": "KMB-307D-I-1",
+    "company": "KMB",
+    "route": "307D",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "SIU SAI WAN",
+      "tc": "小西灣",
+      "sc": "小西湾"
+    },
+    "destination": {
+      "en": "TAI PO (TING TAI ROAD)",
+      "tc": "大埔 (汀太路)",
+      "sc": "大埔 (汀太路)"
+    }
+  },
   "KMB-307P-O-1": {
     "record_id": "KMB-307P-O-1",
     "company": "KMB",
@@ -19281,6 +19417,40 @@
     "record_id": "KMB-600-I-1",
     "company": "KMB",
     "route": "600",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "CENTRAL (RUMSEY STREET)",
+      "tc": "中環(林士街)",
+      "sc": "中环(林士街)"
+    },
+    "destination": {
+      "en": "ANDERSON",
+      "tc": "安達臣",
+      "sc": "安达臣"
+    }
+  },
+  "KMB-600X-O-1": {
+    "record_id": "KMB-600X-O-1",
+    "company": "KMB",
+    "route": "600X",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "ANDERSON",
+      "tc": "安達臣",
+      "sc": "安达臣"
+    },
+    "destination": {
+      "en": "CENTRAL (RUMSEY STREET)",
+      "tc": "中環(林士街)",
+      "sc": "中环(林士街)"
+    }
+  },
+  "KMB-600X-I-1": {
+    "record_id": "KMB-600X-I-1",
+    "company": "KMB",
+    "route": "600X",
     "bound": "I",
     "service_type": "1",
     "origin": {
@@ -20720,40 +20890,6 @@
       "en": "FU TIP BUS TERMINUS",
       "tc": "富蝶總站",
       "sc": "富蝶总站"
-    }
-  },
-  "KMB-907D-O-1": {
-    "record_id": "KMB-907D-O-1",
-    "company": "KMB",
-    "route": "907D",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TAI PO (TING TAI ROAD)",
-      "tc": "大埔 (汀太路)",
-      "sc": "大埔 (汀太路)"
-    },
-    "destination": {
-      "en": "SIU SAI WAN",
-      "tc": "小西灣",
-      "sc": "小西湾"
-    }
-  },
-  "KMB-907D-I-1": {
-    "record_id": "KMB-907D-I-1",
-    "company": "KMB",
-    "route": "907D",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "SIU SAI WAN",
-      "tc": "小西灣",
-      "sc": "小西湾"
-    },
-    "destination": {
-      "en": "TAI PO (TING TAI ROAD)",
-      "tc": "大埔 (汀太路)",
-      "sc": "大埔 (汀太路)"
     }
   },
   "KMB-914-O-1": {
@@ -22507,23 +22643,6 @@
       "sc": "机场(地面运输中心)"
     }
   },
-  "KMB-A36-O-5": {
-    "record_id": "KMB-A36-O-5",
-    "company": "KMB",
-    "route": "A36",
-    "bound": "O",
-    "service_type": "5",
-    "origin": {
-      "en": "KAM SHEUNG ROAD STATION",
-      "tc": "錦上路站",
-      "sc": "锦上路站"
-    },
-    "destination": {
-      "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
-      "tc": "機場(地面運輸中心)",
-      "sc": "机场(地面运输中心)"
-    }
-  },
   "KMB-A36-I-1": {
     "record_id": "KMB-A36-I-1",
     "company": "KMB",
@@ -24054,23 +24173,6 @@
       "sc": "[九巴游香港] 尖沙咀及旺角"
     }
   },
-  "KMB-HK2-O-1": {
-    "record_id": "KMB-HK2-O-1",
-    "company": "KMB",
-    "route": "HK2",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "KOWLOON STATION",
-      "tc": "九龍站",
-      "sc": "九龙站"
-    },
-    "destination": {
-      "en": "[KMB Tour HK] TSIM SHA TSUI and TSING MA BRIDGE",
-      "tc": "[九巴遊香港] 尖沙咀及青馬大橋",
-      "sc": "[九巴游香港] 尖沙咀及青马大桥"
-    }
-  },
   "KMB-N3D-O-1": {
     "record_id": "KMB-N3D-O-1",
     "company": "KMB",
@@ -24581,6 +24683,23 @@
       "sc": "大埔(富亨)"
     }
   },
+  "KMB-N272-O-1": {
+    "record_id": "KMB-N272-O-1",
+    "company": "KMB",
+    "route": "N272",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "UNIVERSITY STATION",
+      "tc": "大學站",
+      "sc": "大学站"
+    },
+    "destination": {
+      "en": "PAK SHEK KOK (CIRCULAR)",
+      "tc": "白石角(循環線)",
+      "sc": "白石角(循环线)"
+    }
+  },
   "KMB-N276-O-1": {
     "record_id": "KMB-N276-O-1",
     "company": "KMB",
@@ -24904,6 +25023,23 @@
       "sc": "元朗(西)"
     }
   },
+  "KMB-N368-I-2": {
+    "record_id": "KMB-N368-I-2",
+    "company": "KMB",
+    "route": "N368",
+    "bound": "I",
+    "service_type": "2",
+    "origin": {
+      "en": "CENTRAL (MACAU FERRY)",
+      "tc": "中環(港澳碼頭)",
+      "sc": "中环(港澳码头)"
+    },
+    "destination": {
+      "en": "YUEN LONG (WEST)",
+      "tc": "元朗(西)",
+      "sc": "元朗(西)"
+    }
+  },
   "KMB-N373-O-1": {
     "record_id": "KMB-N373-O-1",
     "company": "KMB",
@@ -25140,6 +25276,23 @@
       "en": "TUNG CHUNG (YAT TUNG)",
       "tc": "東涌(逸東)",
       "sc": "东涌(逸东)"
+    }
+  },
+  "KMB-N64P-O-1": {
+    "record_id": "KMB-N64P-O-1",
+    "company": "KMB",
+    "route": "N64P",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "TAI PO MARKET STATION",
+      "tc": "大埔墟站",
+      "sc": "大埔墟站"
+    },
+    "destination": {
+      "en": "NG TUNG CHAI (PAK NGAU SHEK)",
+      "tc": "梧桐寨 (白牛石)",
+      "sc": "梧桐寨 (白牛石)"
     }
   },
   "KMB-N680-O-1": {
@@ -25788,46 +25941,12 @@
       "sc": "上水"
     }
   },
-  "KMB-PB1-O-2": {
-    "record_id": "KMB-PB1-O-2",
-    "company": "KMB",
-    "route": "PB1",
-    "bound": "O",
-    "service_type": "2",
-    "origin": {
-      "en": "GO PARK",
-      "tc": "西沙 GO PARK",
-      "sc": "西沙 GO PARK"
-    },
-    "destination": {
-      "en": "Sheung Shui",
-      "tc": "上水",
-      "sc": "上水"
-    }
-  },
   "KMB-PB1-I-1": {
     "record_id": "KMB-PB1-I-1",
     "company": "KMB",
     "route": "PB1",
     "bound": "I",
     "service_type": "1",
-    "origin": {
-      "en": "Sheung Shui",
-      "tc": "上水",
-      "sc": "上水"
-    },
-    "destination": {
-      "en": "GO PARK",
-      "tc": "西沙 GO PARK",
-      "sc": "西沙 GO PARK"
-    }
-  },
-  "KMB-PB1-I-2": {
-    "record_id": "KMB-PB1-I-2",
-    "company": "KMB",
-    "route": "PB1",
-    "bound": "I",
-    "service_type": "2",
     "origin": {
       "en": "Sheung Shui",
       "tc": "上水",
@@ -25856,23 +25975,6 @@
       "sc": "香港故宫文化博物馆"
     }
   },
-  "KMB-PB2-O-2": {
-    "record_id": "KMB-PB2-O-2",
-    "company": "KMB",
-    "route": "PB2",
-    "bound": "O",
-    "service_type": "2",
-    "origin": {
-      "en": "GO PARK",
-      "tc": "西沙 GO PARK",
-      "sc": "西沙 GO PARK"
-    },
-    "destination": {
-      "en": "KAI TAK (MUK YUEN STREET)",
-      "tc": "啟德(沐元街)",
-      "sc": "启德(沐元街)"
-    }
-  },
   "KMB-PB2-I-1": {
     "record_id": "KMB-PB2-I-1",
     "company": "KMB",
@@ -25890,46 +25992,12 @@
       "sc": "西沙 GO PARK"
     }
   },
-  "KMB-PB2-I-2": {
-    "record_id": "KMB-PB2-I-2",
-    "company": "KMB",
-    "route": "PB2",
-    "bound": "I",
-    "service_type": "2",
-    "origin": {
-      "en": "KAI TAK (MUK YUEN STREET)",
-      "tc": "啟德(沐元街)",
-      "sc": "启德(沐元街)"
-    },
-    "destination": {
-      "en": "GO PARK",
-      "tc": "西沙 GO PARK",
-      "sc": "西沙 GO PARK"
-    }
-  },
   "KMB-PB3-O-1": {
     "record_id": "KMB-PB3-O-1",
     "company": "KMB",
     "route": "PB3",
     "bound": "O",
     "service_type": "1",
-    "origin": {
-      "en": "Hong Kong Palace Museum",
-      "tc": "香港故宮文化博物館",
-      "sc": "香港故宫文化博物馆"
-    },
-    "destination": {
-      "en": "Kornhill Plaza",
-      "tc": "康怡廣場",
-      "sc": "康怡广场"
-    }
-  },
-  "KMB-PB3-O-2": {
-    "record_id": "KMB-PB3-O-2",
-    "company": "KMB",
-    "route": "PB3",
-    "bound": "O",
-    "service_type": "2",
     "origin": {
       "en": "Hong Kong Palace Museum",
       "tc": "香港故宮文化博物館",
@@ -25958,46 +26026,12 @@
       "sc": "香港故宫文化博物馆"
     }
   },
-  "KMB-PB3-I-2": {
-    "record_id": "KMB-PB3-I-2",
-    "company": "KMB",
-    "route": "PB3",
-    "bound": "I",
-    "service_type": "2",
-    "origin": {
-      "en": "Kornhill Plaza",
-      "tc": "康怡廣場",
-      "sc": "康怡广场"
-    },
-    "destination": {
-      "en": "Hong Kong Palace Museum",
-      "tc": "香港故宮文化博物館",
-      "sc": "香港故宫文化博物馆"
-    }
-  },
   "KMB-PB4-O-1": {
     "record_id": "KMB-PB4-O-1",
     "company": "KMB",
     "route": "PB4",
     "bound": "O",
     "service_type": "1",
-    "origin": {
-      "en": "HONG KONG PALACE MUSEUM",
-      "tc": "香港故宮文化博物館",
-      "sc": "香港故宫文化博物馆"
-    },
-    "destination": {
-      "en": "YOHO MALL (YUEN LONG)",
-      "tc": "元朗 形點",
-      "sc": "元朗 形点"
-    }
-  },
-  "KMB-PB4-O-2": {
-    "record_id": "KMB-PB4-O-2",
-    "company": "KMB",
-    "route": "PB4",
-    "bound": "O",
-    "service_type": "2",
     "origin": {
       "en": "HONG KONG PALACE MUSEUM",
       "tc": "香港故宮文化博物館",
@@ -26026,23 +26060,6 @@
       "sc": "香港故宫文化博物馆"
     }
   },
-  "KMB-PB4-I-2": {
-    "record_id": "KMB-PB4-I-2",
-    "company": "KMB",
-    "route": "PB4",
-    "bound": "I",
-    "service_type": "2",
-    "origin": {
-      "en": "YOHO MALL (YUEN LONG)",
-      "tc": "元朗 形點",
-      "sc": "元朗 形点"
-    },
-    "destination": {
-      "en": "HONG KONG PALACE MUSEUM",
-      "tc": "香港故宮文化博物館",
-      "sc": "香港故宫文化博物馆"
-    }
-  },
   "KMB-PB5-O-1": {
     "record_id": "KMB-PB5-O-1",
     "company": "KMB",
@@ -26060,46 +26077,12 @@
       "sc": "愉景广场"
     }
   },
-  "KMB-PB5-O-2": {
-    "record_id": "KMB-PB5-O-2",
-    "company": "KMB",
-    "route": "PB5",
-    "bound": "O",
-    "service_type": "2",
-    "origin": {
-      "en": "HONG KONG PALACE MUSEUM",
-      "tc": "香港故宮文化博物館",
-      "sc": "香港故宫文化博物馆"
-    },
-    "destination": {
-      "en": "DISCOVERY BAY PLAZA",
-      "tc": "愉景廣場",
-      "sc": "愉景广场"
-    }
-  },
   "KMB-PB5-I-1": {
     "record_id": "KMB-PB5-I-1",
     "company": "KMB",
     "route": "PB5",
     "bound": "I",
     "service_type": "1",
-    "origin": {
-      "en": "DISCOVERY BAY PLAZA",
-      "tc": "愉景廣場",
-      "sc": "愉景广场"
-    },
-    "destination": {
-      "en": "HONG KONG PALACE MUSEUM",
-      "tc": "香港故宮文化博物館",
-      "sc": "香港故宫文化博物馆"
-    }
-  },
-  "KMB-PB5-I-2": {
-    "record_id": "KMB-PB5-I-2",
-    "company": "KMB",
-    "route": "PB5",
-    "bound": "I",
-    "service_type": "2",
     "origin": {
       "en": "DISCOVERY BAY PLAZA",
       "tc": "愉景廣場",
@@ -27126,9 +27109,9 @@
       "sc": "美孚"
     },
     "destination": {
-      "en": "HK CHILDREN'S HOSPITAL",
-      "tc": "香港兒童醫院",
-      "sc": "香港儿童医院"
+      "en": "KAI TAK HOSPITAL",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
     }
   },
   "KMB-X6C-I-1": {

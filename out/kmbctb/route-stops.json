@@ -119,9 +119,9 @@
         "seq": 10,
         "stop_id": "D64C1350EE61A2AD",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC713)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC713)",
+          "tc": "九龍城轉車站 (KC713)",
+          "sc": "九龙城转车站 (KC713)"
         },
         "lat": 22.327089,
         "long": 114.19052,
@@ -549,9 +549,9 @@
         "seq": 10,
         "stop_id": "D64C1350EE61A2AD",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC713)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC713)",
+          "tc": "九龍城轉車站 (KC713)",
+          "sc": "九龙城转车站 (KC713)"
         },
         "lat": 22.327089,
         "long": 114.19052,
@@ -823,9 +823,9 @@
         "seq": 10,
         "stop_id": "D64C1350EE61A2AD",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC713)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC713)",
+          "tc": "九龍城轉車站 (KC713)",
+          "sc": "九龙城转车站 (KC713)"
         },
         "lat": 22.327089,
         "long": 114.19052,
@@ -1731,9 +1731,9 @@
         "seq": 26,
         "stop_id": "E99D3F96A9F7B5EB",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC284)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC284)",
+          "tc": "九龍城轉車站 (KC284)",
+          "sc": "九龙城转车站 (KC284)"
         },
         "lat": 22.328723,
         "long": 114.192106,
@@ -2041,9 +2041,9 @@
         "seq": 16,
         "stop_id": "E99D3F96A9F7B5EB",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC284)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC284)",
+          "tc": "九龍城轉車站 (KC284)",
+          "sc": "九龙城转车站 (KC284)"
         },
         "lat": 22.328723,
         "long": 114.192106,
@@ -2457,9 +2457,9 @@
         "seq": 7,
         "stop_id": "94358F5481BAE505",
         "name": {
-          "en": "SHEUNG YUET ROAD (KT130)",
-          "tc": "常悅道 (KT130)",
-          "sc": "常悦道 (KT130)"
+          "en": "SHEUNG YUET ROAD, ENTERPRISE SQUARE (KT130)",
+          "tc": "常悅道 企業廣場 (KT130)",
+          "sc": "常悦道 企业广场 (KT130)"
         },
         "lat": 22.321438,
         "long": 114.207948,
@@ -2779,9 +2779,9 @@
         "seq": 14,
         "stop_id": "A21BEB6F4E6D43E6",
         "name": {
-          "en": "SHEUNG YUET ROAD, KOWLOON BAY (KT475)",
-          "tc": "九龍灣常悅道 (KT475)",
-          "sc": "九龙湾常悦道 (KT475)"
+          "en": "SHEUNG YUET ROAD, KOWLOON BAY, MEGABOX (KT475)",
+          "tc": "九龍灣常悅道 MEGABOX (KT475)",
+          "sc": "九龙湾常悦道 MEGABOX (KT475)"
         },
         "lat": 22.321143,
         "long": 114.208979,
@@ -4459,9 +4459,9 @@
         "seq": 2,
         "stop_id": "2C1366DA10099003",
         "name": {
-          "en": "RAINBOW PRIMARY SCHOOL (WT419)",
-          "tc": "天虹小學 (WT419)",
-          "sc": "天虹小学 (WT419)"
+          "en": "WING YUEN HOUSE, CHUK YUEN SOUTH ESTATE (WT419)",
+          "tc": "竹園南邨榮園樓 (WT419)",
+          "sc": "竹园南邨荣园楼 (WT419)"
         },
         "lat": 22.345145,
         "long": 114.189677,
@@ -4483,9 +4483,9 @@
         "seq": 4,
         "stop_id": "FBAA9F0F9B1893F7",
         "name": {
-          "en": "WANG YIP HOUSE (WT441)",
-          "tc": "宏業樓 (WT441)",
-          "sc": "宏业楼 (WT441)"
+          "en": "WANG YIP HOUSE, WANG TAU HOM ESTATE (WT441)",
+          "tc": "橫頭磡邨宏業樓 (WT441)",
+          "sc": "横头磡邨宏业楼 (WT441)"
         },
         "lat": 22.340532,
         "long": 114.188738,
@@ -5357,9 +5357,9 @@
         "seq": 40,
         "stop_id": "6E410E80F8C9915B",
         "name": {
-          "en": "RAINBOW PRIMARY SCHOOL (WT150)",
-          "tc": "天虹小學 (WT150)",
-          "sc": "天虹小学 (WT150)"
+          "en": "WING YUEN HOUSE, CHUK YUEN SOUTH ESTATE (WT150)",
+          "tc": "竹園南邨榮園樓 (WT150)",
+          "sc": "竹园南邨荣园楼 (WT150)"
         },
         "lat": 22.345294,
         "long": 114.189927,
@@ -6287,9 +6287,9 @@
         "seq": 4,
         "stop_id": "8BB1DE68DB8316D3",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC712)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC712)",
+          "tc": "九龍城轉車站 (KC712)",
+          "sc": "九龙城转车站 (KC712)"
         },
         "lat": 22.327159,
         "long": 114.190608,
@@ -7341,9 +7341,9 @@
         "seq": 43,
         "stop_id": "BB172B3A5DAC85A4",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC282)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC282)",
+          "tc": "九龍城轉車站 (KC282)",
+          "sc": "九龙城转车站 (KC282)"
         },
         "lat": 22.328624,
         "long": 114.191977,
@@ -7377,9 +7377,9 @@
         "seq": 46,
         "stop_id": "20915DF05723C615",
         "name": {
-          "en": "LUNG WAI HOUSE (WT119)",
-          "tc": "龍慧樓 (WT119)",
-          "sc": "龙慧楼 (WT119)"
+          "en": "LUNG WAI HOUSE, LOWER WONG TAI SIN ESTATE (WT119)",
+          "tc": "黃大仙下邨龍慧樓 (WT119)",
+          "sc": "黄大仙下邨龙慧楼 (WT119)"
         },
         "lat": 22.340024,
         "long": 114.19414,
@@ -7447,9 +7447,9 @@
         "seq": 4,
         "stop_id": "8BB1DE68DB8316D3",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC712)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC712)",
+          "tc": "九龍城轉車站 (KC712)",
+          "sc": "九龙城转车站 (KC712)"
         },
         "lat": 22.327159,
         "long": 114.190608,
@@ -7709,9 +7709,9 @@
         "seq": 4,
         "stop_id": "8BB1DE68DB8316D3",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC712)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC712)",
+          "tc": "九龍城轉車站 (KC712)",
+          "sc": "九龙城转车站 (KC712)"
         },
         "lat": 22.327159,
         "long": 114.190608,
@@ -8523,9 +8523,9 @@
         "seq": 31,
         "stop_id": "BB172B3A5DAC85A4",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC282)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC282)",
+          "tc": "九龍城轉車站 (KC282)",
+          "sc": "九龙城转车站 (KC282)"
         },
         "lat": 22.328624,
         "long": 114.191977,
@@ -8559,9 +8559,9 @@
         "seq": 34,
         "stop_id": "20915DF05723C615",
         "name": {
-          "en": "LUNG WAI HOUSE (WT119)",
-          "tc": "龍慧樓 (WT119)",
-          "sc": "龙慧楼 (WT119)"
+          "en": "LUNG WAI HOUSE, LOWER WONG TAI SIN ESTATE (WT119)",
+          "tc": "黃大仙下邨龍慧樓 (WT119)",
+          "sc": "黄大仙下邨龙慧楼 (WT119)"
         },
         "lat": 22.340024,
         "long": 114.19414,
@@ -9013,9 +9013,9 @@
         "seq": 36,
         "stop_id": "BB172B3A5DAC85A4",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC282)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC282)",
+          "tc": "九龍城轉車站 (KC282)",
+          "sc": "九龙城转车站 (KC282)"
         },
         "lat": 22.328624,
         "long": 114.191977,
@@ -9049,9 +9049,9 @@
         "seq": 39,
         "stop_id": "20915DF05723C615",
         "name": {
-          "en": "LUNG WAI HOUSE (WT119)",
-          "tc": "龍慧樓 (WT119)",
-          "sc": "龙慧楼 (WT119)"
+          "en": "LUNG WAI HOUSE, LOWER WONG TAI SIN ESTATE (WT119)",
+          "tc": "黃大仙下邨龍慧樓 (WT119)",
+          "sc": "黄大仙下邨龙慧楼 (WT119)"
         },
         "lat": 22.340024,
         "long": 114.19414,
@@ -9131,9 +9131,9 @@
         "seq": 5,
         "stop_id": "AC4EEE801BB9133C",
         "name": {
-          "en": "BLOCK 13 RICHLAND GARDENS (KT486)",
-          "tc": "麗晶花園13座 (KT486)",
-          "sc": "丽晶花园13座 (KT486)"
+          "en": "BLOCK 13 RICHLAND GARDENS, WANG CHI COURT (KT486)",
+          "tc": "麗晶花園13座，宏緻苑 (KT486)",
+          "sc": "丽晶花园13座，宏致苑 (KT486)"
         },
         "lat": 22.330688,
         "long": 114.206918,
@@ -9203,9 +9203,9 @@
         "seq": 11,
         "stop_id": "8BB1DE68DB8316D3",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC712)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC712)",
+          "tc": "九龍城轉車站 (KC712)",
+          "sc": "九龙城转车站 (KC712)"
         },
         "lat": 22.327159,
         "long": 114.190608,
@@ -9537,9 +9537,9 @@
         "seq": 5,
         "stop_id": "AC4EEE801BB9133C",
         "name": {
-          "en": "BLOCK 13 RICHLAND GARDENS (KT486)",
-          "tc": "麗晶花園13座 (KT486)",
-          "sc": "丽晶花园13座 (KT486)"
+          "en": "BLOCK 13 RICHLAND GARDENS, WANG CHI COURT (KT486)",
+          "tc": "麗晶花園13座，宏緻苑 (KT486)",
+          "sc": "丽晶花园13座，宏致苑 (KT486)"
         },
         "lat": 22.330688,
         "long": 114.206918,
@@ -9609,9 +9609,9 @@
         "seq": 11,
         "stop_id": "8BB1DE68DB8316D3",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC712)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC712)",
+          "tc": "九龍城轉車站 (KC712)",
+          "sc": "九龙城转车站 (KC712)"
         },
         "lat": 22.327159,
         "long": 114.190608,
@@ -10135,9 +10135,9 @@
         "seq": 20,
         "stop_id": "BB172B3A5DAC85A4",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC282)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC282)",
+          "tc": "九龍城轉車站 (KC282)",
+          "sc": "九龙城转车站 (KC282)"
         },
         "lat": 22.328624,
         "long": 114.191977,
@@ -10219,9 +10219,9 @@
         "seq": 27,
         "stop_id": "72999453ECAC4693",
         "name": {
-          "en": "BLOCK 8 RICHLAND GARDENS (KT120)",
-          "tc": "麗晶花園第8座 (KT120)",
-          "sc": "丽晶花园第8座 (KT120)"
+          "en": "SHING CHI COURT, BLOCK 8 RICHLAND GARDENS (KT120)",
+          "tc": "盛緻苑，麗晶花園第8座 (KT120)",
+          "sc": "盛致苑，丽晶花园第8座 (KT120)"
         },
         "lat": 22.331389,
         "long": 114.205832,
@@ -10541,9 +10541,9 @@
         "seq": 21,
         "stop_id": "BB172B3A5DAC85A4",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC282)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC282)",
+          "tc": "九龍城轉車站 (KC282)",
+          "sc": "九龙城转车站 (KC282)"
         },
         "lat": 22.328624,
         "long": 114.191977,
@@ -10625,9 +10625,9 @@
         "seq": 28,
         "stop_id": "72999453ECAC4693",
         "name": {
-          "en": "BLOCK 8 RICHLAND GARDENS (KT120)",
-          "tc": "麗晶花園第8座 (KT120)",
-          "sc": "丽晶花园第8座 (KT120)"
+          "en": "SHING CHI COURT, BLOCK 8 RICHLAND GARDENS (KT120)",
+          "tc": "盛緻苑，麗晶花園第8座 (KT120)",
+          "sc": "盛致苑，丽晶花园第8座 (KT120)"
         },
         "lat": 22.331389,
         "long": 114.205832,
@@ -13499,9 +13499,9 @@
         "seq": 7,
         "stop_id": "D64C1350EE61A2AD",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC713)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC713)",
+          "tc": "九龍城轉車站 (KC713)",
+          "sc": "九龙城转车站 (KC713)"
         },
         "lat": 22.327089,
         "long": 114.19052,
@@ -13893,9 +13893,9 @@
         "seq": 18,
         "stop_id": "BB172B3A5DAC85A4",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC282)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC282)",
+          "tc": "九龍城轉車站 (KC282)",
+          "sc": "九龙城转车站 (KC282)"
         },
         "lat": 22.328624,
         "long": 114.191977,
@@ -13917,9 +13917,9 @@
         "seq": 20,
         "stop_id": "D446D1EA79502BF2",
         "name": {
-          "en": "TAI TUNG HOUSE (WT323)",
-          "tc": "泰東樓 (WT323)",
-          "sc": "泰东楼 (WT323)"
+          "en": "TAI TUNG HOUSE, TUNG TAU ESTATE (WT323)",
+          "tc": "東頭邨泰東樓 (WT323)",
+          "sc": "东头邨泰东楼 (WT323)"
         },
         "lat": 22.336357,
         "long": 114.194529,
@@ -13987,9 +13987,9 @@
         "seq": 1,
         "stop_id": "534DB02642325617",
         "name": {
-          "en": "CHOI FOOK (KT400)",
-          "tc": "彩福 (KT400)",
-          "sc": "彩福 (KT400)"
+          "en": "CHOI FOOK ESTATE (KT400)",
+          "tc": "彩福邨 (KT400)",
+          "sc": "彩福邨 (KT400)"
         },
         "lat": 22.328659,
         "long": 114.217222,
@@ -13999,9 +13999,9 @@
         "seq": 2,
         "stop_id": "79E1F84E966F6113",
         "name": {
-          "en": "CHOI YIN HOUSE (KT403)",
-          "tc": "彩賢樓 (KT403)",
-          "sc": "彩贤楼 (KT403)"
+          "en": "CHOI FOOK ESTATE MARKET (KT403)",
+          "tc": "彩福邨街市 (KT403)",
+          "sc": "彩福邨街市 (KT403)"
         },
         "lat": 22.329755,
         "long": 114.216147,
@@ -14023,9 +14023,9 @@
         "seq": 4,
         "stop_id": "D64C1350EE61A2AD",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC713)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC713)",
+          "tc": "九龍城轉車站 (KC713)",
+          "sc": "九龙城转车站 (KC713)"
         },
         "lat": 22.327089,
         "long": 114.19052,
@@ -14417,9 +14417,9 @@
         "seq": 18,
         "stop_id": "D446D1EA79502BF2",
         "name": {
-          "en": "TAI TUNG HOUSE (WT323)",
-          "tc": "泰東樓 (WT323)",
-          "sc": "泰东楼 (WT323)"
+          "en": "TAI TUNG HOUSE, TUNG TAU ESTATE (WT323)",
+          "tc": "東頭邨泰東樓 (WT323)",
+          "sc": "东头邨泰东楼 (WT323)"
         },
         "lat": 22.336357,
         "long": 114.194529,
@@ -14501,9 +14501,9 @@
         "seq": 25,
         "stop_id": "90ED381AD3BAE4F9",
         "name": {
-          "en": "CHOI LEUNG HOUSE (KT151)",
-          "tc": "彩亮樓 (KT151)",
-          "sc": "彩亮楼 (KT151)"
+          "en": "CHOI LEUNG HOUSE, CHOI TAK ESTATE (KT151)",
+          "tc": "彩德邨彩亮樓 (KT151)",
+          "sc": "彩德邨彩亮楼 (KT151)"
         },
         "lat": 22.329787,
         "long": 114.21513,
@@ -14513,9 +14513,9 @@
         "seq": 26,
         "stop_id": "534DB02642325617",
         "name": {
-          "en": "CHOI FOOK (KT400)",
-          "tc": "彩福 (KT400)",
-          "sc": "彩福 (KT400)"
+          "en": "CHOI FOOK ESTATE (KT400)",
+          "tc": "彩福邨 (KT400)",
+          "sc": "彩福邨 (KT400)"
         },
         "lat": 22.328659,
         "long": 114.217222,
@@ -15191,9 +15191,9 @@
         "seq": 7,
         "stop_id": "7C4E16F4A138B142",
         "name": {
-          "en": "WAI TUNG HOUSE (WT572)",
-          "tc": "偉東樓 (WT572)",
-          "sc": "伟东楼 (WT572)"
+          "en": "WAI TUNG HOUSE, TUNG TAU ESTATE (WT572)",
+          "tc": "東頭邨偉東樓 (WT572)",
+          "sc": "东头邨伟东楼 (WT572)"
         },
         "lat": 22.335816,
         "long": 114.191616,
@@ -15203,9 +15203,9 @@
         "seq": 8,
         "stop_id": "029519563009717D",
         "name": {
-          "en": "YING TUNG HOUSE (WT574)",
-          "tc": "盈東樓 (WT574)",
-          "sc": "盈东楼 (WT574)"
+          "en": "YING TUNG HOUSE, TUNG TAU ESTATE (WT574)",
+          "tc": "東頭邨盈東樓 (WT574)",
+          "sc": "东头邨盈东楼 (WT574)"
         },
         "lat": 22.333934,
         "long": 114.191078,
@@ -16005,9 +16005,9 @@
         "seq": 34,
         "stop_id": "A811A4AAF18AFAFF",
         "name": {
-          "en": "LUNG MOON HOUSE (WT118)",
-          "tc": "龍滿樓 (WT118)",
-          "sc": "龙满楼 (WT118)"
+          "en": "LUNG MOON HOUSE, LOWER WONG TAI SIN ESTATE (WT118)",
+          "tc": "黃大仙下邨龍滿樓 (WT118)",
+          "sc": "黄大仙下邨龙满楼 (WT118)"
         },
         "lat": 22.337746,
         "long": 114.192361,
@@ -16017,9 +16017,9 @@
         "seq": 35,
         "stop_id": "20915DF05723C615",
         "name": {
-          "en": "LUNG WAI HOUSE (WT119)",
-          "tc": "龍慧樓 (WT119)",
-          "sc": "龙慧楼 (WT119)"
+          "en": "LUNG WAI HOUSE, LOWER WONG TAI SIN ESTATE (WT119)",
+          "tc": "黃大仙下邨龍慧樓 (WT119)",
+          "sc": "黄大仙下邨龙慧楼 (WT119)"
         },
         "lat": 22.340024,
         "long": 114.19414,
@@ -16789,9 +16789,9 @@
         "seq": 2,
         "stop_id": "119ADA59BD2708D2",
         "name": {
-          "en": "CHING FAI HOUSE (WT382)",
-          "tc": "正暉樓 (WT382)",
-          "sc": "正晖楼 (WT382)"
+          "en": "CHING FAI HOUSE, TSZ CHING ESTATE (WT382)",
+          "tc": "慈正邨正暉樓 (WT382)",
+          "sc": "慈正邨正晖楼 (WT382)"
         },
         "lat": 22.350314,
         "long": 114.200922,
@@ -16801,9 +16801,9 @@
         "seq": 3,
         "stop_id": "C185612B431B197A",
         "name": {
-          "en": "CHING HONG HOUSE (WT385)",
-          "tc": "正康樓 (WT385)",
-          "sc": "正康楼 (WT385)"
+          "en": "CHING HONG HOUSE, TSZ CHING ESTATE (WT385)",
+          "tc": "慈正邨正康樓 (WT385)",
+          "sc": "慈正邨正康楼 (WT385)"
         },
         "lat": 22.348672,
         "long": 114.202907,
@@ -16897,9 +16897,9 @@
         "seq": 11,
         "stop_id": "8BB1DE68DB8316D3",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC712)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC712)",
+          "tc": "九龍城轉車站 (KC712)",
+          "sc": "九龙城转车站 (KC712)"
         },
         "lat": 22.327159,
         "long": 114.190608,
@@ -17387,9 +17387,9 @@
         "seq": 20,
         "stop_id": "7F25B423230F5BEE",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC281)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC281)",
+          "tc": "九龍城轉車站 (KC281)",
+          "sc": "九龙城转车站 (KC281)"
         },
         "lat": 22.32894,
         "long": 114.192314,
@@ -17411,9 +17411,9 @@
         "seq": 22,
         "stop_id": "D446D1EA79502BF2",
         "name": {
-          "en": "TAI TUNG HOUSE (WT323)",
-          "tc": "泰東樓 (WT323)",
-          "sc": "泰东楼 (WT323)"
+          "en": "TAI TUNG HOUSE, TUNG TAU ESTATE (WT323)",
+          "tc": "東頭邨泰東樓 (WT323)",
+          "sc": "东头邨泰东楼 (WT323)"
         },
         "lat": 22.336357,
         "long": 114.194529,
@@ -17519,9 +17519,9 @@
         "seq": 31,
         "stop_id": "EE3B5ABCB87027E7",
         "name": {
-          "en": "CHING FAI HOUSE (WT383)",
-          "tc": "正暉樓 (WT383)",
-          "sc": "正晖楼 (WT383)"
+          "en": "CHING FAI HOUSE, TSZ CHING ESTATE (WT383)",
+          "tc": "慈正邨正暉樓 (WT383)",
+          "sc": "慈正邨正晖楼 (WT383)"
         },
         "lat": 22.350378,
         "long": 114.200715,
@@ -17697,9 +17697,9 @@
         "seq": 13,
         "stop_id": "7F25B423230F5BEE",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC281)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC281)",
+          "tc": "九龍城轉車站 (KC281)",
+          "sc": "九龙城转车站 (KC281)"
         },
         "lat": 22.32894,
         "long": 114.192314,
@@ -17721,9 +17721,9 @@
         "seq": 15,
         "stop_id": "D446D1EA79502BF2",
         "name": {
-          "en": "TAI TUNG HOUSE (WT323)",
-          "tc": "泰東樓 (WT323)",
-          "sc": "泰东楼 (WT323)"
+          "en": "TAI TUNG HOUSE, TUNG TAU ESTATE (WT323)",
+          "tc": "東頭邨泰東樓 (WT323)",
+          "sc": "东头邨泰东楼 (WT323)"
         },
         "lat": 22.336357,
         "long": 114.194529,
@@ -17829,9 +17829,9 @@
         "seq": 24,
         "stop_id": "EE3B5ABCB87027E7",
         "name": {
-          "en": "CHING FAI HOUSE (WT383)",
-          "tc": "正暉樓 (WT383)",
-          "sc": "正晖楼 (WT383)"
+          "en": "CHING FAI HOUSE, TSZ CHING ESTATE (WT383)",
+          "tc": "慈正邨正暉樓 (WT383)",
+          "sc": "慈正邨正晖楼 (WT383)"
         },
         "lat": 22.350378,
         "long": 114.200715,
@@ -26153,9 +26153,9 @@
         "seq": 4,
         "stop_id": "C185612B431B197A",
         "name": {
-          "en": "CHING HONG HOUSE (WT385)",
-          "tc": "正康樓 (WT385)",
-          "sc": "正康楼 (WT385)"
+          "en": "CHING HONG HOUSE, TSZ CHING ESTATE (WT385)",
+          "tc": "慈正邨正康樓 (WT385)",
+          "sc": "慈正邨正康楼 (WT385)"
         },
         "lat": 22.348672,
         "long": 114.202907,
@@ -26177,9 +26177,9 @@
         "seq": 6,
         "stop_id": "0D39977C225DD2D5",
         "name": {
-          "en": "CHU FUNG HOUSE (WT509)",
-          "tc": "硃鳳樓 (WT509)",
-          "sc": "朱凤楼 (WT509)"
+          "en": "CHU FUNG HOUSE , FUNG TAK ESTATE (WT509)",
+          "tc": "鳳德邨硃鳳樓 (WT509)",
+          "sc": "凤德邨朱凤楼 (WT509)"
         },
         "lat": 22.345991,
         "long": 114.200993,
@@ -26391,9 +26391,9 @@
         "seq": 4,
         "stop_id": "C185612B431B197A",
         "name": {
-          "en": "CHING HONG HOUSE (WT385)",
-          "tc": "正康樓 (WT385)",
-          "sc": "正康楼 (WT385)"
+          "en": "CHING HONG HOUSE, TSZ CHING ESTATE (WT385)",
+          "tc": "慈正邨正康樓 (WT385)",
+          "sc": "慈正邨正康楼 (WT385)"
         },
         "lat": 22.348672,
         "long": 114.202907,
@@ -28497,9 +28497,9 @@
         "seq": 2,
         "stop_id": "3C0AF6BA82588E2F",
         "name": {
-          "en": "SAU CHING HOUSE (KT502)",
-          "tc": "秀程樓 (KT502)",
-          "sc": "秀程楼 (KT502)"
+          "en": "SAU CHING HOUSE, SAU MAU PING ESTATE (KT502)",
+          "tc": "秀茂坪邨秀程樓 (KT502)",
+          "sc": "秀茂坪邨秀程楼 (KT502)"
         },
         "lat": 22.320022,
         "long": 114.233232,
@@ -28509,9 +28509,9 @@
         "seq": 3,
         "stop_id": "F8DEE1D5F9A349AD",
         "name": {
-          "en": "SAU HONG HOUSE (KT503)",
-          "tc": "秀康樓 (KT503)",
-          "sc": "秀康楼 (KT503)"
+          "en": "SAU HONG HOUSE, SAU MAU PING ESTATE (KT503)",
+          "tc": "秀茂坪邨秀康樓 (KT503)",
+          "sc": "秀茂坪邨秀康楼 (KT503)"
         },
         "lat": 22.323034,
         "long": 114.230584,
@@ -28521,9 +28521,9 @@
         "seq": 4,
         "stop_id": "4A14A012710E80B1",
         "name": {
-          "en": "SAU LOK HOUSE (KT385)",
-          "tc": "秀樂樓 (KT385)",
-          "sc": "秀乐楼 (KT385)"
+          "en": "SAU LOK HOUSE, SAU MAU PING ESTATE (KT385)",
+          "tc": "秀茂坪邨秀樂樓 (KT385)",
+          "sc": "秀茂坪邨秀乐楼 (KT385)"
         },
         "lat": 22.321801,
         "long": 114.230416,
@@ -28545,9 +28545,9 @@
         "seq": 6,
         "stop_id": "1C111CE3CE325C6A",
         "name": {
-          "en": "SAU ON HOUSE (KT389)",
-          "tc": "秀安樓 (KT389)",
-          "sc": "秀安楼 (KT389)"
+          "en": "SAU ON HOUSE, SAU MAU PING ESTATE (KT389)",
+          "tc": "秀茂坪邨秀安樓 (KT389)",
+          "sc": "秀茂坪邨秀安楼 (KT389)"
         },
         "lat": 22.316754,
         "long": 114.233293,
@@ -28557,9 +28557,9 @@
         "seq": 7,
         "stop_id": "A971B9FF20627145",
         "name": {
-          "en": "SAU MING HOUSE (KT391)",
-          "tc": "秀明樓 (KT391)",
-          "sc": "秀明楼 (KT391)"
+          "en": "SAU MING HOUSE, SAU MAU PING ESTATE (KT391)",
+          "tc": "秀茂坪邨秀明樓 (KT391)",
+          "sc": "秀茂坪邨秀明楼 (KT391)"
         },
         "lat": 22.315095,
         "long": 114.23463,
@@ -29095,9 +29095,9 @@
         "seq": 22,
         "stop_id": "D17050E8964504BB",
         "name": {
-          "en": "SAU MING HOUSE (KT519)",
-          "tc": "秀明樓 (KT519)",
-          "sc": "秀明楼 (KT519)"
+          "en": "SAU MING HOUSE, SAU MAU PING ESTATE (KT519)",
+          "tc": "秀茂坪邨秀明樓 (KT519)",
+          "sc": "秀茂坪邨秀明楼 (KT519)"
         },
         "lat": 22.315934,
         "long": 114.233922,
@@ -29107,9 +29107,9 @@
         "seq": 23,
         "stop_id": "04DDF4F7F1C74876",
         "name": {
-          "en": "SAU FU HOUSE (KT520)",
-          "tc": "秀富樓 (KT520)",
-          "sc": "秀富楼 (KT520)"
+          "en": "SAU FU HOUSE, SAU MAU PING ESTATE (KT520)",
+          "tc": "秀茂坪邨秀富樓 (KT520)",
+          "sc": "秀茂坪邨秀富楼 (KT520)"
         },
         "lat": 22.317096,
         "long": 114.23217,
@@ -29131,9 +29131,9 @@
         "seq": 25,
         "stop_id": "5FF5FCFD1121F033",
         "name": {
-          "en": "SAU LOK HOUSE (KT525)",
-          "tc": "秀樂樓 (KT525)",
-          "sc": "秀乐楼 (KT525)"
+          "en": "SAU LOK HOUSE, SAU MAU PING ESTATE (KT525)",
+          "tc": "秀茂坪邨秀樂樓 (KT525)",
+          "sc": "秀茂坪邨秀乐楼 (KT525)"
         },
         "lat": 22.321718,
         "long": 114.230419,
@@ -29143,9 +29143,9 @@
         "seq": 26,
         "stop_id": "B809C24DC8C87767",
         "name": {
-          "en": "SAU HONG HOUSE (KT297)",
-          "tc": "秀康樓 (KT297)",
-          "sc": "秀康楼 (KT297)"
+          "en": "SAU HONG HOUSE, SAU MAU PING ESTATE (KT297)",
+          "tc": "秀茂坪邨秀康樓 (KT297)",
+          "sc": "秀茂坪邨秀康楼 (KT297)"
         },
         "lat": 22.323111,
         "long": 114.230621,
@@ -29155,9 +29155,9 @@
         "seq": 27,
         "stop_id": "3BA4DBB4520188DF",
         "name": {
-          "en": "SAU CHING HOUSE (KT298)",
-          "tc": "秀程樓 (KT298)",
-          "sc": "秀程楼 (KT298)"
+          "en": "SAU CHING HOUSE, SAU MAU PING ESTATE (KT298)",
+          "tc": "秀茂坪邨秀程樓 (KT298)",
+          "sc": "秀茂坪邨秀程楼 (KT298)"
         },
         "lat": 22.32001,
         "long": 114.233479,
@@ -29201,9 +29201,9 @@
         "seq": 2,
         "stop_id": "3C0AF6BA82588E2F",
         "name": {
-          "en": "SAU CHING HOUSE (KT502)",
-          "tc": "秀程樓 (KT502)",
-          "sc": "秀程楼 (KT502)"
+          "en": "SAU CHING HOUSE, SAU MAU PING ESTATE (KT502)",
+          "tc": "秀茂坪邨秀程樓 (KT502)",
+          "sc": "秀茂坪邨秀程楼 (KT502)"
         },
         "lat": 22.320022,
         "long": 114.233232,
@@ -29213,9 +29213,9 @@
         "seq": 3,
         "stop_id": "F8DEE1D5F9A349AD",
         "name": {
-          "en": "SAU HONG HOUSE (KT503)",
-          "tc": "秀康樓 (KT503)",
-          "sc": "秀康楼 (KT503)"
+          "en": "SAU HONG HOUSE, SAU MAU PING ESTATE (KT503)",
+          "tc": "秀茂坪邨秀康樓 (KT503)",
+          "sc": "秀茂坪邨秀康楼 (KT503)"
         },
         "lat": 22.323034,
         "long": 114.230584,
@@ -29225,9 +29225,9 @@
         "seq": 4,
         "stop_id": "4A14A012710E80B1",
         "name": {
-          "en": "SAU LOK HOUSE (KT385)",
-          "tc": "秀樂樓 (KT385)",
-          "sc": "秀乐楼 (KT385)"
+          "en": "SAU LOK HOUSE, SAU MAU PING ESTATE (KT385)",
+          "tc": "秀茂坪邨秀樂樓 (KT385)",
+          "sc": "秀茂坪邨秀乐楼 (KT385)"
         },
         "lat": 22.321801,
         "long": 114.230416,
@@ -29249,9 +29249,9 @@
         "seq": 6,
         "stop_id": "1C111CE3CE325C6A",
         "name": {
-          "en": "SAU ON HOUSE (KT389)",
-          "tc": "秀安樓 (KT389)",
-          "sc": "秀安楼 (KT389)"
+          "en": "SAU ON HOUSE, SAU MAU PING ESTATE (KT389)",
+          "tc": "秀茂坪邨秀安樓 (KT389)",
+          "sc": "秀茂坪邨秀安楼 (KT389)"
         },
         "lat": 22.316754,
         "long": 114.233293,
@@ -29261,9 +29261,9 @@
         "seq": 7,
         "stop_id": "A971B9FF20627145",
         "name": {
-          "en": "SAU MING HOUSE (KT391)",
-          "tc": "秀明樓 (KT391)",
-          "sc": "秀明楼 (KT391)"
+          "en": "SAU MING HOUSE, SAU MAU PING ESTATE (KT391)",
+          "tc": "秀茂坪邨秀明樓 (KT391)",
+          "sc": "秀茂坪邨秀明楼 (KT391)"
         },
         "lat": 22.315095,
         "long": 114.23463,
@@ -29881,9 +29881,9 @@
         "seq": 22,
         "stop_id": "D17050E8964504BB",
         "name": {
-          "en": "SAU MING HOUSE (KT519)",
-          "tc": "秀明樓 (KT519)",
-          "sc": "秀明楼 (KT519)"
+          "en": "SAU MING HOUSE, SAU MAU PING ESTATE (KT519)",
+          "tc": "秀茂坪邨秀明樓 (KT519)",
+          "sc": "秀茂坪邨秀明楼 (KT519)"
         },
         "lat": 22.315934,
         "long": 114.233922,
@@ -29893,9 +29893,9 @@
         "seq": 23,
         "stop_id": "04DDF4F7F1C74876",
         "name": {
-          "en": "SAU FU HOUSE (KT520)",
-          "tc": "秀富樓 (KT520)",
-          "sc": "秀富楼 (KT520)"
+          "en": "SAU FU HOUSE, SAU MAU PING ESTATE (KT520)",
+          "tc": "秀茂坪邨秀富樓 (KT520)",
+          "sc": "秀茂坪邨秀富楼 (KT520)"
         },
         "lat": 22.317096,
         "long": 114.23217,
@@ -29917,9 +29917,9 @@
         "seq": 25,
         "stop_id": "5FF5FCFD1121F033",
         "name": {
-          "en": "SAU LOK HOUSE (KT525)",
-          "tc": "秀樂樓 (KT525)",
-          "sc": "秀乐楼 (KT525)"
+          "en": "SAU LOK HOUSE, SAU MAU PING ESTATE (KT525)",
+          "tc": "秀茂坪邨秀樂樓 (KT525)",
+          "sc": "秀茂坪邨秀乐楼 (KT525)"
         },
         "lat": 22.321718,
         "long": 114.230419,
@@ -29929,9 +29929,9 @@
         "seq": 26,
         "stop_id": "B809C24DC8C87767",
         "name": {
-          "en": "SAU HONG HOUSE (KT297)",
-          "tc": "秀康樓 (KT297)",
-          "sc": "秀康楼 (KT297)"
+          "en": "SAU HONG HOUSE, SAU MAU PING ESTATE (KT297)",
+          "tc": "秀茂坪邨秀康樓 (KT297)",
+          "sc": "秀茂坪邨秀康楼 (KT297)"
         },
         "lat": 22.323111,
         "long": 114.230621,
@@ -29941,9 +29941,9 @@
         "seq": 27,
         "stop_id": "3BA4DBB4520188DF",
         "name": {
-          "en": "SAU CHING HOUSE (KT298)",
-          "tc": "秀程樓 (KT298)",
-          "sc": "秀程楼 (KT298)"
+          "en": "SAU CHING HOUSE, SAU MAU PING ESTATE (KT298)",
+          "tc": "秀茂坪邨秀程樓 (KT298)",
+          "sc": "秀茂坪邨秀程楼 (KT298)"
         },
         "lat": 22.32001,
         "long": 114.233479,
@@ -30035,9 +30035,9 @@
         "seq": 6,
         "stop_id": "94358F5481BAE505",
         "name": {
-          "en": "SHEUNG YUET ROAD (KT130)",
-          "tc": "常悅道 (KT130)",
-          "sc": "常悦道 (KT130)"
+          "en": "SHEUNG YUET ROAD, ENTERPRISE SQUARE (KT130)",
+          "tc": "常悅道 企業廣場 (KT130)",
+          "sc": "常悦道 企业广场 (KT130)"
         },
         "lat": 22.321438,
         "long": 114.207948,
@@ -30047,9 +30047,9 @@
         "seq": 7,
         "stop_id": "017A10A009B4A409",
         "name": {
-          "en": "SHEUNG YEE ROAD (KT136)",
-          "tc": "常怡道 (KT136)",
-          "sc": "常怡道 (KT136)"
+          "en": "SHEUNG YEE ROAD, MEGABOX (KT136)",
+          "tc": "常怡道 MEGABOX (KT136)",
+          "sc": "常怡道 MEGABOX (KT136)"
         },
         "lat": 22.32061,
         "long": 114.207918,
@@ -30597,9 +30597,9 @@
         "seq": 7,
         "stop_id": "E905F8E518AE17B6",
         "name": {
-          "en": "YING ON HOUSE (KT406)",
-          "tc": "盈安樓 (KT406)",
-          "sc": "盈安楼 (KT406)"
+          "en": "YING ON HOUSE, CHOI YING ESTATE (KT406)",
+          "tc": "彩盈邨盈安樓 (KT406)",
+          "sc": "彩盈邨盈安楼 (KT406)"
         },
         "lat": 22.329075,
         "long": 114.214996,
@@ -30609,9 +30609,9 @@
         "seq": 8,
         "stop_id": "24AD2532770CF399",
         "name": {
-          "en": "YING SHUN HOUSE (KT407)",
-          "tc": "盈順樓 (KT407)",
-          "sc": "盈顺楼 (KT407)"
+          "en": "YING SHUN HOUSE, CHOI YING ESTATE (KT407)",
+          "tc": "彩盈邨盈順樓 (KT407)",
+          "sc": "彩盈邨盈顺楼 (KT407)"
         },
         "lat": 22.326815,
         "long": 114.215265,
@@ -31555,9 +31555,9 @@
         "seq": 37,
         "stop_id": "CDF0D5A4E1023C8E",
         "name": {
-          "en": "SHEUNG YUET ROAD, KOWLOON BAY (KT477)",
-          "tc": "九龍灣常悅道 (KT477)",
-          "sc": "九龙湾常悦道 (KT477)"
+          "en": "SHEUNG YUET ROAD, KOWLOON BAY, MEGABOX (KT477)",
+          "tc": "九龍灣常悅道 MEGABOX (KT477)",
+          "sc": "九龙湾常悦道 MEGABOX (KT477)"
         },
         "lat": 22.321241,
         "long": 114.208988,
@@ -31591,9 +31591,9 @@
         "seq": 40,
         "stop_id": "942E95B4336BDFA7",
         "name": {
-          "en": "PAK HUNG HOUSE (WT230)",
-          "tc": "白虹樓 (WT230)",
-          "sc": "白虹楼 (WT230)"
+          "en": "PAK HUNG HOUSE, CHOI WAN ESTATE (WT230)",
+          "tc": "彩雲邨白虹樓 (WT230)",
+          "sc": "彩云邨白虹楼 (WT230)"
         },
         "lat": 22.332599,
         "long": 114.215269,
@@ -31697,9 +31697,9 @@
         "seq": 7,
         "stop_id": "E905F8E518AE17B6",
         "name": {
-          "en": "YING ON HOUSE (KT406)",
-          "tc": "盈安樓 (KT406)",
-          "sc": "盈安楼 (KT406)"
+          "en": "YING ON HOUSE, CHOI YING ESTATE (KT406)",
+          "tc": "彩盈邨盈安樓 (KT406)",
+          "sc": "彩盈邨盈安楼 (KT406)"
         },
         "lat": 22.329075,
         "long": 114.214996,
@@ -31709,9 +31709,9 @@
         "seq": 8,
         "stop_id": "24AD2532770CF399",
         "name": {
-          "en": "YING SHUN HOUSE (KT407)",
-          "tc": "盈順樓 (KT407)",
-          "sc": "盈顺楼 (KT407)"
+          "en": "YING SHUN HOUSE, CHOI YING ESTATE (KT407)",
+          "tc": "彩盈邨盈順樓 (KT407)",
+          "sc": "彩盈邨盈顺楼 (KT407)"
         },
         "lat": 22.326815,
         "long": 114.215265,
@@ -32211,9 +32211,9 @@
         "seq": 18,
         "stop_id": "CDF0D5A4E1023C8E",
         "name": {
-          "en": "SHEUNG YUET ROAD, KOWLOON BAY (KT477)",
-          "tc": "九龍灣常悅道 (KT477)",
-          "sc": "九龙湾常悦道 (KT477)"
+          "en": "SHEUNG YUET ROAD, KOWLOON BAY, MEGABOX (KT477)",
+          "tc": "九龍灣常悅道 MEGABOX (KT477)",
+          "sc": "九龙湾常悦道 MEGABOX (KT477)"
         },
         "lat": 22.321241,
         "long": 114.208988,
@@ -32247,9 +32247,9 @@
         "seq": 21,
         "stop_id": "942E95B4336BDFA7",
         "name": {
-          "en": "PAK HUNG HOUSE (WT230)",
-          "tc": "白虹樓 (WT230)",
-          "sc": "白虹楼 (WT230)"
+          "en": "PAK HUNG HOUSE, CHOI WAN ESTATE (WT230)",
+          "tc": "彩雲邨白虹樓 (WT230)",
+          "sc": "彩云邨白虹楼 (WT230)"
         },
         "lat": 22.332599,
         "long": 114.215269,
@@ -32865,9 +32865,9 @@
         "seq": 3,
         "stop_id": "94358F5481BAE505",
         "name": {
-          "en": "SHEUNG YUET ROAD (KT130)",
-          "tc": "常悅道 (KT130)",
-          "sc": "常悦道 (KT130)"
+          "en": "SHEUNG YUET ROAD, ENTERPRISE SQUARE (KT130)",
+          "tc": "常悅道 企業廣場 (KT130)",
+          "sc": "常悦道 企业广场 (KT130)"
         },
         "lat": 22.321438,
         "long": 114.207948,
@@ -32877,9 +32877,9 @@
         "seq": 4,
         "stop_id": "017A10A009B4A409",
         "name": {
-          "en": "SHEUNG YEE ROAD (KT136)",
-          "tc": "常怡道 (KT136)",
-          "sc": "常怡道 (KT136)"
+          "en": "SHEUNG YEE ROAD, MEGABOX (KT136)",
+          "tc": "常怡道 MEGABOX (KT136)",
+          "sc": "常怡道 MEGABOX (KT136)"
         },
         "lat": 22.32061,
         "long": 114.207918,
@@ -33391,9 +33391,9 @@
         "seq": 22,
         "stop_id": "CDF0D5A4E1023C8E",
         "name": {
-          "en": "SHEUNG YUET ROAD, KOWLOON BAY (KT477)",
-          "tc": "九龍灣常悅道 (KT477)",
-          "sc": "九龙湾常悦道 (KT477)"
+          "en": "SHEUNG YUET ROAD, KOWLOON BAY, MEGABOX (KT477)",
+          "tc": "九龍灣常悅道 MEGABOX (KT477)",
+          "sc": "九龙湾常悦道 MEGABOX (KT477)"
         },
         "lat": 22.321241,
         "long": 114.208988,
@@ -33437,9 +33437,9 @@
         "seq": 2,
         "stop_id": "A28048B524056C9D",
         "name": {
-          "en": "LEE MING HOUSE (KT160)",
-          "tc": "利明樓 (KT160)",
-          "sc": "利明楼 (KT160)"
+          "en": "LEE MING HOUSE, SHUN LEE ESTATE (KT160)",
+          "tc": "順利邨利明樓 (KT160)",
+          "sc": "顺利邨利明楼 (KT160)"
         },
         "lat": 22.331578,
         "long": 114.224804,
@@ -33449,9 +33449,9 @@
         "seq": 3,
         "stop_id": "484F835517494767",
         "name": {
-          "en": "ON YAT HOUSE (KT422)",
-          "tc": "安逸樓 (KT422)",
-          "sc": "安逸楼 (KT422)"
+          "en": "ON YAT HOUSE, SHUN ON ESTATE (KT422)",
+          "tc": "順安邨安逸樓 (KT422)",
+          "sc": "顺安邨安逸楼 (KT422)"
         },
         "lat": 22.328625,
         "long": 114.227099,
@@ -33473,9 +33473,9 @@
         "seq": 5,
         "stop_id": "E308599CF719FE37",
         "name": {
-          "en": "TIN WAN HOUSE (KT430)",
-          "tc": "天韻樓 (KT430)",
-          "sc": "天韵楼 (KT430)"
+          "en": "TIN WAN HOUSE, SHUN TIN ESTATE (KT430)",
+          "tc": "順天邨天韻樓 (KT430)",
+          "sc": "顺天邨天韵楼 (KT430)"
         },
         "lat": 22.326009,
         "long": 114.228653,
@@ -34225,9 +34225,9 @@
         "seq": 2,
         "stop_id": "A28048B524056C9D",
         "name": {
-          "en": "LEE MING HOUSE (KT160)",
-          "tc": "利明樓 (KT160)",
-          "sc": "利明楼 (KT160)"
+          "en": "LEE MING HOUSE, SHUN LEE ESTATE (KT160)",
+          "tc": "順利邨利明樓 (KT160)",
+          "sc": "顺利邨利明楼 (KT160)"
         },
         "lat": 22.331578,
         "long": 114.224804,
@@ -34237,9 +34237,9 @@
         "seq": 3,
         "stop_id": "484F835517494767",
         "name": {
-          "en": "ON YAT HOUSE (KT422)",
-          "tc": "安逸樓 (KT422)",
-          "sc": "安逸楼 (KT422)"
+          "en": "ON YAT HOUSE, SHUN ON ESTATE (KT422)",
+          "tc": "順安邨安逸樓 (KT422)",
+          "sc": "顺安邨安逸楼 (KT422)"
         },
         "lat": 22.328625,
         "long": 114.227099,
@@ -34261,9 +34261,9 @@
         "seq": 5,
         "stop_id": "E308599CF719FE37",
         "name": {
-          "en": "TIN WAN HOUSE (KT430)",
-          "tc": "天韻樓 (KT430)",
-          "sc": "天韵楼 (KT430)"
+          "en": "TIN WAN HOUSE, SHUN TIN ESTATE (KT430)",
+          "tc": "順天邨天韻樓 (KT430)",
+          "sc": "顺天邨天韵楼 (KT430)"
         },
         "lat": 22.326009,
         "long": 114.228653,
@@ -34535,9 +34535,9 @@
         "seq": 2,
         "stop_id": "A28048B524056C9D",
         "name": {
-          "en": "LEE MING HOUSE (KT160)",
-          "tc": "利明樓 (KT160)",
-          "sc": "利明楼 (KT160)"
+          "en": "LEE MING HOUSE, SHUN LEE ESTATE (KT160)",
+          "tc": "順利邨利明樓 (KT160)",
+          "sc": "顺利邨利明楼 (KT160)"
         },
         "lat": 22.331578,
         "long": 114.224804,
@@ -34547,9 +34547,9 @@
         "seq": 3,
         "stop_id": "484F835517494767",
         "name": {
-          "en": "ON YAT HOUSE (KT422)",
-          "tc": "安逸樓 (KT422)",
-          "sc": "安逸楼 (KT422)"
+          "en": "ON YAT HOUSE, SHUN ON ESTATE (KT422)",
+          "tc": "順安邨安逸樓 (KT422)",
+          "sc": "顺安邨安逸楼 (KT422)"
         },
         "lat": 22.328625,
         "long": 114.227099,
@@ -34571,9 +34571,9 @@
         "seq": 5,
         "stop_id": "E308599CF719FE37",
         "name": {
-          "en": "TIN WAN HOUSE (KT430)",
-          "tc": "天韻樓 (KT430)",
-          "sc": "天韵楼 (KT430)"
+          "en": "TIN WAN HOUSE, SHUN TIN ESTATE (KT430)",
+          "tc": "順天邨天韻樓 (KT430)",
+          "sc": "顺天邨天韵楼 (KT430)"
         },
         "lat": 22.326009,
         "long": 114.228653,
@@ -35001,9 +35001,9 @@
         "seq": 21,
         "stop_id": "1FBAAE29AF1CA50E",
         "name": {
-          "en": "SAU FAI HOUSE (KT501)",
-          "tc": "秀暉樓 (KT501)",
-          "sc": "秀晖楼 (KT501)"
+          "en": "SAU FAI HOUSE, SAU MAU PING ESTATE (KT501)",
+          "tc": "秀茂坪邨秀暉樓 (KT501)",
+          "sc": "秀茂坪邨秀晖楼 (KT501)"
         },
         "lat": 22.316851,
         "long": 114.235856,
@@ -35013,9 +35013,9 @@
         "seq": 22,
         "stop_id": "3C0AF6BA82588E2F",
         "name": {
-          "en": "SAU CHING HOUSE (KT502)",
-          "tc": "秀程樓 (KT502)",
-          "sc": "秀程楼 (KT502)"
+          "en": "SAU CHING HOUSE, SAU MAU PING ESTATE (KT502)",
+          "tc": "秀茂坪邨秀程樓 (KT502)",
+          "sc": "秀茂坪邨秀程楼 (KT502)"
         },
         "lat": 22.320022,
         "long": 114.233232,
@@ -35025,9 +35025,9 @@
         "seq": 23,
         "stop_id": "F8DEE1D5F9A349AD",
         "name": {
-          "en": "SAU HONG HOUSE (KT503)",
-          "tc": "秀康樓 (KT503)",
-          "sc": "秀康楼 (KT503)"
+          "en": "SAU HONG HOUSE, SAU MAU PING ESTATE (KT503)",
+          "tc": "秀茂坪邨秀康樓 (KT503)",
+          "sc": "秀茂坪邨秀康楼 (KT503)"
         },
         "lat": 22.323034,
         "long": 114.230584,
@@ -35487,9 +35487,9 @@
         "seq": 2,
         "stop_id": "72999453ECAC4693",
         "name": {
-          "en": "BLOCK 8 RICHLAND GARDENS (KT120)",
-          "tc": "麗晶花園第8座 (KT120)",
-          "sc": "丽晶花园第8座 (KT120)"
+          "en": "SHING CHI COURT, BLOCK 8 RICHLAND GARDENS (KT120)",
+          "tc": "盛緻苑，麗晶花園第8座 (KT120)",
+          "sc": "盛致苑，丽晶花园第8座 (KT120)"
         },
         "lat": 22.331389,
         "long": 114.205832,
@@ -35547,9 +35547,9 @@
         "seq": 7,
         "stop_id": "017A10A009B4A409",
         "name": {
-          "en": "SHEUNG YEE ROAD (KT136)",
-          "tc": "常怡道 (KT136)",
-          "sc": "常怡道 (KT136)"
+          "en": "SHEUNG YEE ROAD, MEGABOX (KT136)",
+          "tc": "常怡道 MEGABOX (KT136)",
+          "sc": "常怡道 MEGABOX (KT136)"
         },
         "lat": 22.32061,
         "long": 114.207918,
@@ -35905,9 +35905,9 @@
         "seq": 15,
         "stop_id": "91449853378E9F8F",
         "name": {
-          "en": "SHEUNG YUET ROAD (KT131)",
-          "tc": "常悅道 (KT131)",
-          "sc": "常悦道 (KT131)"
+          "en": "SHEUNG YUET ROAD, ENTERPRISE SQUARE (KT131)",
+          "tc": "常悅道 企業廣場 (KT131)",
+          "sc": "常悦道 企业广场 (KT131)"
         },
         "lat": 22.321438,
         "long": 114.207948,
@@ -35953,9 +35953,9 @@
         "seq": 19,
         "stop_id": "D2B43459063F53DB",
         "name": {
-          "en": "BLOCK 13 RICHLAND GARDENS (KT485)",
-          "tc": "麗晶花園13座 (KT485)",
-          "sc": "丽晶花园13座 (KT485)"
+          "en": "BLOCK 13 RICHLAND GARDENS, WANG CHI COURT (KT485)",
+          "tc": "麗晶花園13座，宏緻苑 (KT485)",
+          "sc": "丽晶花园13座，宏致苑 (KT485)"
         },
         "lat": 22.330648,
         "long": 114.206988,
@@ -36011,9 +36011,9 @@
         "seq": 1,
         "stop_id": "CC0EA05EEADFA481",
         "name": {
-          "en": "DIAMOND HILL STATION BUS TERMINUS (WT965)",
-          "tc": "鑽石山站巴士總站 (WT965)",
-          "sc": "钻石山站巴士总站 (WT965)"
+          "en": "DIAMOND HILL STATION, PLAZA HOLLYWOOOD (WT965)",
+          "tc": "鑽石山站 荷里活廣場 (WT965)",
+          "sc": "钻石山站 荷里活广场 (WT965)"
         },
         "lat": 22.340852,
         "long": 114.201635,
@@ -36837,9 +36837,9 @@
         "seq": 32,
         "stop_id": "60D0B9706B352D1C",
         "name": {
-          "en": "HONG KONG INSTITUTE OF CONSTRUCTION-KOWLOON BAY",
-          "tc": "香港建造學院-九龍灣院校",
-          "sc": "香港建造学院-九龙湾院校"
+          "en": "HK INSTITUTE OF CONSTRUCTION-KOWLOON BAY (KT653)",
+          "tc": "香港建造學院九龍灣院校 (KT653)",
+          "sc": "香港建造学院九龙湾院校 (KT653)"
         },
         "lat": 22.319024,
         "long": 114.214661,
@@ -36921,9 +36921,9 @@
         "seq": 39,
         "stop_id": "CC0EA05EEADFA481",
         "name": {
-          "en": "DIAMOND HILL STATION BUS TERMINUS (WT965)",
-          "tc": "鑽石山站巴士總站 (WT965)",
-          "sc": "钻石山站巴士总站 (WT965)"
+          "en": "DIAMOND HILL STATION, PLAZA HOLLYWOOOD (WT965)",
+          "tc": "鑽石山站 荷里活廣場 (WT965)",
+          "sc": "钻石山站 荷里活广场 (WT965)"
         },
         "lat": 22.340852,
         "long": 114.201635,
@@ -37207,9 +37207,9 @@
         "seq": 23,
         "stop_id": "60D0B9706B352D1C",
         "name": {
-          "en": "HONG KONG INSTITUTE OF CONSTRUCTION-KOWLOON BAY",
-          "tc": "香港建造學院-九龍灣院校",
-          "sc": "香港建造学院-九龙湾院校"
+          "en": "HK INSTITUTE OF CONSTRUCTION-KOWLOON BAY (KT653)",
+          "tc": "香港建造學院九龍灣院校 (KT653)",
+          "sc": "香港建造学院九龙湾院校 (KT653)"
         },
         "lat": 22.319024,
         "long": 114.214661,
@@ -37291,9 +37291,9 @@
         "seq": 30,
         "stop_id": "CC0EA05EEADFA481",
         "name": {
-          "en": "DIAMOND HILL STATION BUS TERMINUS (WT965)",
-          "tc": "鑽石山站巴士總站 (WT965)",
-          "sc": "钻石山站巴士总站 (WT965)"
+          "en": "DIAMOND HILL STATION, PLAZA HOLLYWOOOD (WT965)",
+          "tc": "鑽石山站 荷里活廣場 (WT965)",
+          "sc": "钻石山站 荷里活广场 (WT965)"
         },
         "lat": 22.340852,
         "long": 114.201635,
@@ -41975,9 +41975,9 @@
         "seq": 22,
         "stop_id": "DF7F22DF4F8A9D11",
         "name": {
-          "en": "KING YUNG HOUSE (TK151)",
-          "tc": "景榕樓 (TK151)",
-          "sc": "景榕楼 (TK151)"
+          "en": "KING YUNG HOUSE, KING LAM ESTATE (TK151)",
+          "tc": "景林邨景榕樓 (TK151)",
+          "sc": "景林邨景榕楼 (TK151)"
         },
         "lat": 22.318815,
         "long": 114.262058,
@@ -42023,9 +42023,9 @@
         "seq": 26,
         "stop_id": "E86C2ACAFC72D243",
         "name": {
-          "en": "PO YAN HOUSE (TK446)",
-          "tc": "寶仁樓 (TK446)",
-          "sc": "宝仁楼 (TK446)"
+          "en": "PO YAN HOUSE, PO LAM ESTATE (TK446)",
+          "tc": "寶林邨寶仁樓 (TK446)",
+          "sc": "宝林邨宝仁楼 (TK446)"
         },
         "lat": 22.326295,
         "long": 114.252315,
@@ -45021,7 +45021,7 @@
         },
         "lat": 22.28096,
         "long": 114.189952,
-        "ctb_stop_id": "002465"
+        "ctb_stop_id": "001214"
       },
       {
         "seq": 26,
@@ -47027,14 +47027,14 @@
     "stops": [
       {
         "seq": 1,
-        "stop_id": "9E42D981C59B5762",
+        "stop_id": "716E50EBD1CD72B4",
         "name": {
-          "en": "TSING YI STATION (TY930)",
-          "tc": "青衣站 (TY930)",
-          "sc": "青衣站 (TY930)"
+          "en": "TSING YI STATION (TY927)",
+          "tc": "青衣站 (TY927)",
+          "sc": "青衣站 (TY927)"
         },
-        "lat": 22.360348,
-        "long": 114.107636,
+        "lat": 22.35982,
+        "long": 114.107082,
         "ctb_stop_id": "003609"
       },
       {
@@ -47541,14 +47541,14 @@
       },
       {
         "seq": 22,
-        "stop_id": "9E42D981C59B5762",
+        "stop_id": "A2882A0EE6B8AF9B",
         "name": {
-          "en": "TSING YI STATION (TY930)",
-          "tc": "青衣站 (TY930)",
-          "sc": "青衣站 (TY930)"
+          "en": "TSING YI STATION(Alighting) (TY920)",
+          "tc": "青衣站(落客站) (TY920)",
+          "sc": "青衣站(落客站) (TY920)"
         },
-        "lat": 22.360348,
-        "long": 114.107636,
+        "lat": 22.360074,
+        "long": 114.107029,
         "ctb_stop_id": "003609"
       }
     ]
@@ -49720,8 +49720,8 @@
         "stop_id": "A004B076CFBD733C",
         "name": {
           "en": "TAI WAI BBI-SUN MING HOUSE SUN CHUI ESTATE (TA540)",
-          "tc": "大圍轉車站 - 新翠邨新明樓",
-          "sc": "大围转车站 - 新翠邨新明楼"
+          "tc": "大圍轉車站新翠邨新明樓 (TA540)",
+          "sc": "大围转车站新翠邨新明楼 (TA540)"
         },
         "lat": 22.372122,
         "long": 114.180252,
@@ -49910,8 +49910,8 @@
         "stop_id": "A004B076CFBD733C",
         "name": {
           "en": "TAI WAI BBI-SUN MING HOUSE SUN CHUI ESTATE (TA540)",
-          "tc": "大圍轉車站 - 新翠邨新明樓",
-          "sc": "大围转车站 - 新翠邨新明楼"
+          "tc": "大圍轉車站新翠邨新明樓 (TA540)",
+          "sc": "大围转车站新翠邨新明楼 (TA540)"
         },
         "lat": 22.372122,
         "long": 114.180252,
@@ -52233,9 +52233,9 @@
         "seq": 22,
         "stop_id": "BB172B3A5DAC85A4",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC282)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC282)",
+          "tc": "九龍城轉車站 (KC282)",
+          "sc": "九龙城转车站 (KC282)"
         },
         "lat": 22.328624,
         "long": 114.191977,
@@ -52257,9 +52257,9 @@
         "seq": 24,
         "stop_id": "D446D1EA79502BF2",
         "name": {
-          "en": "TAI TUNG HOUSE (WT323)",
-          "tc": "泰東樓 (WT323)",
-          "sc": "泰东楼 (WT323)"
+          "en": "TAI TUNG HOUSE, TUNG TAU ESTATE (WT323)",
+          "tc": "東頭邨泰東樓 (WT323)",
+          "sc": "东头邨泰东楼 (WT323)"
         },
         "lat": 22.336357,
         "long": 114.194529,
@@ -52459,9 +52459,9 @@
         "seq": 9,
         "stop_id": "D64C1350EE61A2AD",
         "name": {
-          "en": "KOWLOON CITY BBI - REGAL ORIENTAL HOTEL (KC713)",
-          "tc": "九龍城轉車站-富豪東方酒店",
-          "sc": "九龙城转车站-富豪东方酒店"
+          "en": "KOWLOON CITY BBI (KC713)",
+          "tc": "九龍城轉車站 (KC713)",
+          "sc": "九龙城转车站 (KC713)"
         },
         "lat": 22.327089,
         "long": 114.19052,
@@ -57021,9 +57021,9 @@
         "seq": 2,
         "stop_id": "A28048B524056C9D",
         "name": {
-          "en": "LEE MING HOUSE (KT160)",
-          "tc": "利明樓 (KT160)",
-          "sc": "利明楼 (KT160)"
+          "en": "LEE MING HOUSE, SHUN LEE ESTATE (KT160)",
+          "tc": "順利邨利明樓 (KT160)",
+          "sc": "顺利邨利明楼 (KT160)"
         },
         "lat": 22.331578,
         "long": 114.224804,
@@ -57033,9 +57033,9 @@
         "seq": 3,
         "stop_id": "484F835517494767",
         "name": {
-          "en": "ON YAT HOUSE (KT422)",
-          "tc": "安逸樓 (KT422)",
-          "sc": "安逸楼 (KT422)"
+          "en": "ON YAT HOUSE, SHUN ON ESTATE (KT422)",
+          "tc": "順安邨安逸樓 (KT422)",
+          "sc": "顺安邨安逸楼 (KT422)"
         },
         "lat": 22.328625,
         "long": 114.227099,
@@ -58909,9 +58909,9 @@
         "seq": 20,
         "stop_id": "824D0847BAAD9128",
         "name": {
-          "en": "SAU FAI HOUSE (KT299)",
-          "tc": "秀暉樓 (KT299)",
-          "sc": "秀晖楼 (KT299)"
+          "en": "SAU FAI HOUSE, SAU MAU PING ESTATE (KT299)",
+          "tc": "秀茂坪邨秀暉樓 (KT299)",
+          "sc": "秀茂坪邨秀晖楼 (KT299)"
         },
         "lat": 22.316879,
         "long": 114.235972,
@@ -59423,9 +59423,9 @@
         "seq": 23,
         "stop_id": "1FBAAE29AF1CA50E",
         "name": {
-          "en": "SAU FAI HOUSE (KT501)",
-          "tc": "秀暉樓 (KT501)",
-          "sc": "秀晖楼 (KT501)"
+          "en": "SAU FAI HOUSE, SAU MAU PING ESTATE (KT501)",
+          "tc": "秀茂坪邨秀暉樓 (KT501)",
+          "sc": "秀茂坪邨秀晖楼 (KT501)"
         },
         "lat": 22.316851,
         "long": 114.235856,
@@ -59651,9 +59651,9 @@
         "seq": 42,
         "stop_id": "EC9467FAB4EC7203",
         "name": {
-          "en": "CHOI FU HOUSE (TK585)",
-          "tc": "彩富閣 (TK585)",
-          "sc": "彩富阁 (TK585)"
+          "en": "CHOI FU HOUSE, CHOI MING COURT (TK585)",
+          "tc": "彩明苑彩富閣 (TK585)",
+          "sc": "彩明苑彩富阁 (TK585)"
         },
         "lat": 22.308298,
         "long": 114.253326,

@@ -5165,6 +5165,140 @@
       ]
     },
     {
+      "route_code": "117P",
+      "variant_index": 1,
+      "route_id": 2011721,
+      "route_seq": 1,
+      "stops": [
+        {
+          "stop_seq": 1,
+          "stop_id": 20021481,
+          "name_tc": "安達臣(安愉道)公共交通總站",
+          "name_sc": "安达臣(安愉道)公共交通总站",
+          "name_en": "Anderson (On Yu Road) Public Transport Terminus"
+        },
+        {
+          "stop_seq": 2,
+          "stop_id": 20021980,
+          "name_tc": "安禧街, 安楹苑對面",
+          "name_sc": "安禧街, 安楹苑对面",
+          "name_en": "On Hei Street, opposite On Ying Court"
+        },
+        {
+          "stop_seq": 3,
+          "stop_id": 20021482,
+          "name_tc": "安愉道，安柏苑對面",
+          "name_sc": "安愉道，安柏苑对面",
+          "name_en": "On Yu Road, opposite On Pak Court"
+        },
+        {
+          "stop_seq": 4,
+          "stop_id": 20021483,
+          "name_tc": "安愉道，安秀苑外",
+          "name_sc": "安愉道，安秀苑外",
+          "name_en": "On Yu Road, outside On Sau Court"
+        },
+        {
+          "stop_seq": 5,
+          "stop_id": 20021484,
+          "name_tc": "安愉道，近安愉徑",
+          "name_sc": "安愉道，近安愉径",
+          "name_en": "On Yu Road, near On Yu Path"
+        },
+        {
+          "stop_seq": 6,
+          "stop_id": 20021486,
+          "name_tc": "寶琳北路，寶琳邨寶仁樓對面",
+          "name_sc": "宝琳北路，宝琳邨宝仁楼对面",
+          "name_en": "Po Lam Road North, opposite Po Yan House, Po Lam Estate"
+        },
+        {
+          "stop_seq": 7,
+          "stop_id": 20002005,
+          "name_tc": "寶琳北路, 英明苑對面",
+          "name_sc": "宝琳北路, 英明苑对面",
+          "name_en": "Po Lam Road North, opposite Ying Ming Court"
+        },
+        {
+          "stop_seq": 8,
+          "stop_id": 20020394,
+          "name_tc": "寶琳北路, 將軍澳賽馬會診所外",
+          "name_sc": "宝琳北路, 将军澳赛马会诊所外",
+          "name_en": "Po Lam Road North, near Tseung Kwan O Jockey Club Clinic"
+        },
+        {
+          "stop_seq": 9,
+          "stop_id": 20014683,
+          "name_tc": "寶琳北路, 景林邨景棉樓對面",
+          "name_sc": "宝琳北路, 景林邨景棉楼对面",
+          "name_en": "Po Lam Road North, opposite King Min House, King Lam Estate"
+        },
+        {
+          "stop_seq": 10,
+          "stop_id": 20014673,
+          "name_tc": "寶琳北路, 景林邨景棉樓外",
+          "name_sc": "宝琳北路, 景林邨景棉楼外",
+          "name_en": "Po Lam Road North, outside King Min House, King Lam Estate"
+        },
+        {
+          "stop_seq": 11,
+          "stop_id": 20001166,
+          "name_tc": "寶琳北路, 近欣明苑商場",
+          "name_sc": "宝琳北路, 近欣明苑商场",
+          "name_en": "PO LAM ROAD NORTH, near Yan Ming Court Commercial Complex"
+        },
+        {
+          "stop_seq": 12,
+          "stop_id": 20001150,
+          "name_tc": "寶琳北路, 近樂善堂劉德學校",
+          "name_sc": "宝琳北路, 近乐善堂刘德学校",
+          "name_en": "PO LAM ROAD NORTH, near Lok Sin Tong Lau Tak Primary School"
+        },
+        {
+          "stop_seq": 13,
+          "stop_id": 20001151,
+          "name_tc": "寶琳北路, 近寶林邨寶仁樓",
+          "name_sc": "宝琳北路, 近宝琳邨宝仁楼外",
+          "name_en": "PO LAM ROAD NORTH, near Po Yan House, PO LAM ESTATE"
+        },
+        {
+          "stop_seq": 14,
+          "stop_id": 20021494,
+          "name_tc": "安愉道，近安愉徑",
+          "name_sc": "安愉道，近安愉径",
+          "name_en": "On Yu Road, near On Yu Path"
+        },
+        {
+          "stop_seq": 15,
+          "stop_id": 20021495,
+          "name_tc": "安愉道，安麗苑外",
+          "name_sc": "安愉道，安丽苑外",
+          "name_en": "On Yu Road, outside On Lai Court"
+        },
+        {
+          "stop_seq": 16,
+          "stop_id": 20021496,
+          "name_tc": "安愉道，安柏苑外",
+          "name_sc": "安愉道，安柏苑外",
+          "name_en": "On Yu Road, outside On Pak Court"
+        },
+        {
+          "stop_seq": 17,
+          "stop_id": 20021983,
+          "name_tc": "安禧街, 近安楹苑",
+          "name_sc": "安禧街, 近安楹苑",
+          "name_en": "On Hei Street, near On Ying Court"
+        },
+        {
+          "stop_seq": 18,
+          "stop_id": 20021481,
+          "name_tc": "安達臣(安愉道)公共交通總站",
+          "name_sc": "安达臣(安愉道)公共交通总站",
+          "name_en": "Anderson (On Yu Road) Public Transport Terminus"
+        }
+      ]
+    },
+    {
       "route_code": "11A",
       "variant_index": 1,
       "route_id": 2004824,
@@ -18838,6 +18972,57 @@
       ]
     },
     {
+      "route_code": "313S",
+      "variant_index": 1,
+      "route_id": 2011688,
+      "route_seq": 1,
+      "stops": [
+        {
+          "stop_seq": 1,
+          "stop_id": 20022834,
+          "name_tc": "葵涌醫院",
+          "name_sc": "葵涌医院",
+          "name_en": "Kwai Chung Hospital"
+        },
+        {
+          "stop_seq": 2,
+          "stop_id": 20023296,
+          "name_tc": "荔景站",
+          "name_sc": "荔景站",
+          "name_en": "Lai King Station"
+        }
+      ]
+    },
+    {
+      "route_code": "313S",
+      "variant_index": 1,
+      "route_id": 2011688,
+      "route_seq": 2,
+      "stops": [
+        {
+          "stop_seq": 1,
+          "stop_id": 20023296,
+          "name_tc": "荔景站",
+          "name_sc": "荔景站",
+          "name_en": "Lai King Station"
+        },
+        {
+          "stop_seq": 2,
+          "stop_id": 20002102,
+          "name_tc": "瑪嘉烈醫院",
+          "name_sc": "玛嘉烈医院",
+          "name_en": "Princess Magaret Hospital"
+        },
+        {
+          "stop_seq": 3,
+          "stop_id": 20022834,
+          "name_tc": "葵涌醫院",
+          "name_sc": "葵涌医院",
+          "name_en": "Kwai Chung Hospital"
+        }
+      ]
+    },
+    {
       "route_code": "31A",
       "variant_index": 1,
       "route_id": 2006576,
@@ -24745,6 +24930,161 @@
       ]
     },
     {
+      "route_code": "40A",
+      "variant_index": 1,
+      "route_id": 2011787,
+      "route_seq": 1,
+      "stops": [
+        {
+          "stop_seq": 1,
+          "stop_id": 20023428,
+          "name_tc": "紫麟路小巴總站",
+          "name_sc": "紫麟路小巴总站",
+          "name_en": "Tsz Lun Road GMB Terminus"
+        },
+        {
+          "stop_seq": 2,
+          "stop_id": 20023429,
+          "name_tc": "欣寶路公共運輸交匯處",
+          "name_sc": "欣宝路公共运输交汇处",
+          "name_en": "Yan Po Road Public Transport Interchange"
+        },
+        {
+          "stop_seq": 3,
+          "stop_id": 20023430,
+          "name_tc": "欣寶路, NOVO LAND外",
+          "name_sc": "欣宝路, NOVO LAND外",
+          "name_en": "Yan Po Road, outside NOVO LAND"
+        },
+        {
+          "stop_seq": 4,
+          "stop_id": 20022900,
+          "name_tc": "興貴街NOVO WALK外",
+          "name_sc": "兴贵街NOVO WALK外",
+          "name_en": "Hing Kwai Street outside NOVO WALK "
+        },
+        {
+          "stop_seq": 5,
+          "stop_id": 20012671,
+          "name_tc": "興貴街, 近寶田邨",
+          "name_sc": "兴贵街, 近宝田邨",
+          "name_en": "HING KWAI STREET, near Po Tin Estate"
+        },
+        {
+          "stop_seq": 6,
+          "stop_id": 20010690,
+          "name_tc": "震寰路, 大興分區警署外",
+          "name_sc": "震寰路, 大兴分区警署外",
+          "name_en": "Tsun Wen Road, outside Tai Hing Divisional Police Station"
+        },
+        {
+          "stop_seq": 7,
+          "stop_id": 20001305,
+          "name_tc": "震寰路, 近匡智屯門晨輝學校",
+          "name_sc": "震寰路, 近匡智屯门晨辉学校",
+          "name_en": "TSUN WEN ROAD, near HONG CHI MORNINGHOPE SCHOOL"
+        },
+        {
+          "stop_seq": 8,
+          "stop_id": 20001306,
+          "name_tc": "震寰路, 大興邨興偉樓對面",
+          "name_sc": "震寰路, 大兴邨兴伟楼对面",
+          "name_en": "Tsun Wen Road, opposite to Hing Wai House of Tai Hing Estate"
+        },
+        {
+          "stop_seq": 9,
+          "stop_id": 20007984,
+          "name_tc": "震寰路, 近卓爾居",
+          "name_sc": "震寰路, 近卓尔居",
+          "name_en": "Tsun Wen Road, near Chelsea Heights"
+        },
+        {
+          "stop_seq": 10,
+          "stop_id": 20001310,
+          "name_tc": "震寰路, 近屯門警署",
+          "name_sc": "震寰路, 近屯门警署",
+          "name_en": "TSUN WEN ROAD, near TUEN MUN POLICE STATION"
+        },
+        {
+          "stop_seq": 11,
+          "stop_id": 20001311,
+          "name_tc": "港鐵屯門站小巴總站",
+          "name_sc": "港铁屯门站小巴总站",
+          "name_en": "Tuen Mun MTR Station Minibus Terminus"
+        },
+        {
+          "stop_seq": 12,
+          "stop_id": 20001312,
+          "name_tc": "屯門鄉事會路, 明偉大廈外",
+          "name_sc": "屯门乡事会路, 明伟大厦外",
+          "name_en": "Tuen Mun Heung Sze Wui Road, outside Ming Wai Building"
+        },
+        {
+          "stop_seq": 13,
+          "stop_id": 20001338,
+          "name_tc": "屯順街, 近屯門市廣場第一期屯門市廣場第四座",
+          "name_sc": "屯顺街, 近屯门市广场第一期屯门市广场第四座",
+          "name_en": "Tuen Shun Street, outside Block 4 of Tuen Mun Town Plaza"
+        },
+        {
+          "stop_seq": 14,
+          "stop_id": 20001322,
+          "name_tc": "屯門鄉事會路, 近聖公會聖西門呂明才中學",
+          "name_sc": "屯门乡事会路, 近圣公会圣西门吕明才中学",
+          "name_en": "Tuen Mun Heung Sze Wui Road, near SKH St. Simon's Lui Ming Choi Secondary School"
+        },
+        {
+          "stop_seq": 15,
+          "stop_id": 20001323,
+          "name_tc": "石排頭路, 近馬錦明慈善基金馬可賓紀念中學",
+          "name_sc": "石排头路, 近马锦明慈善基金马可宾纪念中学",
+          "name_en": "SHEK PAI TAU ROAD, near Ma Kam Ming Charitable Foundation Ma Ko Pan Memorial College"
+        },
+        {
+          "stop_seq": 16,
+          "stop_id": 20001324,
+          "name_tc": "震寰路, 大興邨興偉樓外",
+          "name_sc": "震寰路, 大兴邨兴伟楼外",
+          "name_en": "Tsun Wen Road, outside Hing Wai House of Tai Hing Estate"
+        },
+        {
+          "stop_seq": 17,
+          "stop_id": 20001325,
+          "name_tc": "震寰路, 屯門天主教中學外",
+          "name_sc": "震寰路, 屯门天主教中学外",
+          "name_en": "Tsun Wen Road, outside Tuen Mun Catholic Secondary School"
+        },
+        {
+          "stop_seq": 18,
+          "stop_id": 20001326,
+          "name_tc": "震寰路, 近寶怡花園第二座",
+          "name_sc": "震寰路, 近宝怡花园第二座",
+          "name_en": "TSUN WEN ROAD, near Blossom Garden Block 2"
+        },
+        {
+          "stop_seq": 19,
+          "stop_id": 20023431,
+          "name_tc": "欣寶路, NOVO LAND對面",
+          "name_sc": "欣宝路, NOVO LAND对面",
+          "name_en": "Yan Po Road, opposite to NOVO LAND"
+        },
+        {
+          "stop_seq": 20,
+          "stop_id": 20023432,
+          "name_tc": "欣寶路, 近紫田村",
+          "name_sc": "欣宝路, 近紫田村",
+          "name_en": "Yan Po Road, near Tsz Tin Tsuen"
+        },
+        {
+          "stop_seq": 21,
+          "stop_id": 20023433,
+          "name_tc": "紫麟路小巴總站",
+          "name_sc": "紫麟路小巴总站",
+          "name_en": "Tsz Lun Road GMB Terminus"
+        }
+      ]
+    },
+    {
       "route_code": "41",
       "variant_index": 1,
       "route_id": 2004923,
@@ -30447,48 +30787,62 @@
         },
         {
           "stop_seq": 5,
-          "stop_id": 20012122,
-          "name_tc": "馬適路, 近逸峯",
-          "name_sc": "马适路, 近 逸峯",
-          "name_en": "Ma Sik Road, near Green Code"
+          "stop_id": 20018948,
+          "name_tc": "沙頭角公路近安樂村",
+          "name_sc": "沙头角公路近安乐村",
+          "name_en": "Sha Tau Kok Road near On Lok Tsuen"
         },
         {
           "stop_seq": 6,
+          "stop_id": 20023395,
+          "name_tc": "聯安街西行近聯和道的停車灣",
+          "name_sc": "联安街西行近联和道的停车湾",
+          "name_en": "The layby on Luen On Street westbound near Luen Wo Road"
+        },
+        {
+          "stop_seq": 7,
+          "stop_id": 20017455,
+          "name_tc": "粉嶺和睦路西行海聯廣聯廣場巴士站",
+          "name_sc": "粉岭和睦路西行海联广联广场巴士站",
+          "name_en": "Bus stop on Wo Muk Road westbound at Union Plaza in Fanling"
+        },
+        {
+          "stop_seq": 8,
           "stop_id": 20012123,
           "name_tc": "天平路, 近天平邨天朗樓",
           "name_sc": "天平路, 近天平邨天朗楼",
           "name_en": "Tin Ping Road, near Tin Long House, Tin Ping Estate"
         },
         {
-          "stop_seq": 7,
+          "stop_seq": 9,
           "stop_id": 20012124,
           "name_tc": "龍琛路, 近天平邨天怡樓",
           "name_sc": "龙琛路, 近天平邨天怡楼",
           "name_en": "Lung Sum Avenue, near Tin Yee House, Tin Ping Estate"
         },
         {
-          "stop_seq": 8,
+          "stop_seq": 10,
           "stop_id": 20007293,
           "name_tc": "龍琛路, 龍豐花園外",
           "name_sc": "龙琛路, 龙丰花园外",
           "name_en": "Lung Sum Avenue, outside Lung Fung Garden"
         },
         {
-          "stop_seq": 9,
+          "stop_seq": 11,
           "stop_id": 20012125,
           "name_tc": "新運路, 近上水站",
           "name_sc": "新运路, 近上水站",
           "name_en": "San Wan Road, near Sheung Shui Station"
         },
         {
-          "stop_seq": 10,
+          "stop_seq": 12,
           "stop_id": 20003205,
           "name_tc": "新豐路,近石湖墟郵政局",
           "name_sc": "新丰路,近石湖墟邮政局",
           "name_en": "San Fung Avenue, near Shek Wu Hui Post Office"
         },
         {
-          "stop_seq": 11,
+          "stop_seq": 13,
           "stop_id": 20004165,
           "name_tc": "北區醫院",
           "name_sc": "北区医院",
@@ -30603,41 +30957,55 @@
         },
         {
           "stop_seq": 5,
-          "stop_id": 20012122,
-          "name_tc": "馬適路, 近逸峯",
-          "name_sc": "马适路, 近 逸峯",
-          "name_en": "Ma Sik Road, near Green Code"
+          "stop_id": 20018948,
+          "name_tc": "沙頭角公路近安樂村",
+          "name_sc": "沙头角公路近安乐村",
+          "name_en": "Sha Tau Kok Road near On Lok Tsuen"
         },
         {
           "stop_seq": 6,
+          "stop_id": 20023395,
+          "name_tc": "聯安街西行近聯和道的停車灣",
+          "name_sc": "联安街西行近联和道的停车湾",
+          "name_en": "The layby on Luen On Street westbound near Luen Wo Road"
+        },
+        {
+          "stop_seq": 7,
+          "stop_id": 20017455,
+          "name_tc": "粉嶺和睦路西行海聯廣聯廣場巴士站",
+          "name_sc": "粉岭和睦路西行海联广联广场巴士站",
+          "name_en": "Bus stop on Wo Muk Road westbound at Union Plaza in Fanling"
+        },
+        {
+          "stop_seq": 8,
           "stop_id": 20016135,
           "name_tc": "天平路, 近天平邨天朗樓",
           "name_sc": "天平路, 近天平村天朗楼",
           "name_en": "Tin Ping Road, near Tin Long House, Tin Ping Estate"
         },
         {
-          "stop_seq": 7,
+          "stop_seq": 9,
           "stop_id": 20012124,
           "name_tc": "龍琛路, 近天平邨天怡樓",
           "name_sc": "龙琛路, 近天平邨天怡楼",
           "name_en": "Lung Sum Avenue, near Tin Yee House, Tin Ping Estate"
         },
         {
-          "stop_seq": 8,
+          "stop_seq": 10,
           "stop_id": 20007293,
           "name_tc": "龍琛路, 龍豐花園外",
           "name_sc": "龙琛路, 龙丰花园外",
           "name_en": "Lung Sum Avenue, outside Lung Fung Garden"
         },
         {
-          "stop_seq": 9,
+          "stop_seq": 11,
           "stop_id": 20016136,
           "name_tc": "新運路, 近上水站",
           "name_sc": "新运路, 近上水站",
           "name_en": "San Wan Road, near Sheung Shui Station"
         },
         {
-          "stop_seq": 10,
+          "stop_seq": 12,
           "stop_id": 20012126,
           "name_tc": "龍琛路, 近上水匯",
           "name_sc": "龙琛路, 近上水汇",
@@ -34440,44 +34808,51 @@
       "stops": [
         {
           "stop_seq": 1,
-          "stop_id": 20022438,
-          "name_tc": "彩石邨小巴總站",
-          "name_sc": "彩石村小巴总站",
+          "stop_id": 20023329,
+          "name_tc": "彩石邨專線小巴總站",
+          "name_sc": "彩石村专线小巴总站",
           "name_en": "Choi Shek Estate GMB Terminus"
         },
         {
           "stop_seq": 2,
           "stop_id": 20022439,
-          "name_tc": "新運路東行, 近寶石湖路",
-          "name_sc": "新运路东行, 近宝石湖路",
-          "name_en": "San Wan Road eastbound ,near Po Shek Wu Road"
+          "name_tc": "新運路（東行）（近寶石湖路）",
+          "name_sc": "新运路（东行）（近宝石湖路）",
+          "name_en": "San Wan Road (eastbound) (near Po Shek Wu Road)"
         },
         {
           "stop_seq": 3,
-          "stop_id": 20014294,
-          "name_tc": "新豐路北行, 近石湖墟郵政局",
-          "name_sc": "新丰路北行, 近石湖墟邮政局",
-          "name_en": "San Fung Avenue northbound, near Shek Wu Hui Post Office"
+          "stop_id": 20023330,
+          "name_tc": "龍琛路（東行）（近龍運街）",
+          "name_sc": "龙琛路（东行）（近龙运街",
+          "name_en": "Lung Sum Avenue (eastbound) (near Lung Wan Street)"
         },
         {
           "stop_seq": 4,
-          "stop_id": 20022440,
-          "name_tc": "寶運路西行, 近第一電業大廈",
-          "name_sc": "宝运路西行, 近第一电业大厦",
-          "name_en": "Po Wan Road westbound, near Alpha Appliances Building"
+          "stop_id": 20023331,
+          "name_tc": "智昌路（東行）（近石湖墟街市）",
+          "name_sc": "智昌路（东行）（近石湖墟街市）",
+          "name_en": "Chi Cheong Road (eastbound) (near Shek Wu Hui Market)"
         },
         {
           "stop_seq": 5,
-          "stop_id": 20020790,
-          "name_tc": "新運路東行, 近劍橋廣場",
-          "name_sc": "新运路东行, 近剑桥广场",
-          "name_en": "San Wan Road eastbound, near Cambridge Plaza"
+          "stop_id": 20023332,
+          "name_tc": "智昌路（南行）（近東華三院港九電器商聯會小學）",
+          "name_sc": "智昌路（南行）（近东华三院港九电器商联会小学）",
+          "name_en": "Chi Cheong Road (southbound) (near WGHs Hong Kong and Kowloon Electrical Appliances Merchants Association Limited School)"
         },
         {
           "stop_seq": 6,
-          "stop_id": 20022441,
-          "name_tc": "彩石邨小巴總站",
-          "name_sc": "彩石村小巴总站",
+          "stop_id": 20023333,
+          "name_tc": "新運路（西行）（近上水站D2出口）",
+          "name_sc": "新运路（西行）（近上水站D2出口）",
+          "name_en": "San Wan Road (westbound) (near Sheung Shui Station Exit D2)"
+        },
+        {
+          "stop_seq": 7,
+          "stop_id": 20023334,
+          "name_tc": "彩石邨專線小巴總站",
+          "name_sc": "彩石村专线小巴总站",
           "name_en": "Choi Shek Estate GMB Terminus"
         }
       ]
