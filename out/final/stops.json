@@ -1125,9 +1125,9 @@
     "stop_id": "A8762A74241E8027",
     "company": "KMB",
     "name": {
-      "en": "LAI KOK ESTATE (SS680)",
-      "tc": "麗閣邨 (SS680)",
-      "sc": "丽阁邨 (SS680)"
+      "en": "LAI KOK ESTATE, LAI TSUI COURT (SS680)",
+      "tc": "麗閣邨,麗翠苑 (SS680)",
+      "sc": "丽阁邨,丽翠苑 (SS680)"
     },
     "lat": 22.333118,
     "lng": 114.155983
@@ -1367,9 +1367,9 @@
     "stop_id": "A7F679945ED1DB31",
     "company": "KMB",
     "name": {
-      "en": "THE ASTRID (KC608)",
-      "tc": "雅麗居 (KC608)",
-      "sc": "雅丽居 (KC608)"
+      "en": "ARGYLE STREET, THE ASTRID (KC608)",
+      "tc": "亞皆老街,雅麗居 (KC608)",
+      "sc": "亚皆老街,雅丽居 (KC608)"
     },
     "lat": 22.323148,
     "lng": 114.18205
@@ -1598,9 +1598,9 @@
     "stop_id": "A72D15160CC3AF31",
     "company": "KMB",
     "name": {
-      "en": "CLP POWER ARGYLE STREET (KC377)",
-      "tc": "亞皆老街中電 (KC377)",
-      "sc": "亚皆老街中电 (KC377)"
+      "en": "CLP PULSE (KC377)",
+      "tc": "中電鐘樓文化館 (KC377)",
+      "sc": "中电钟楼文化馆 (KC377)"
     },
     "lat": 22.320532,
     "lng": 114.175816
@@ -1681,6 +1681,17 @@
     },
     "lat": 22.334279,
     "lng": 114.199287
+  },
+  "KMB:811D4A91C1134CEA": {
+    "stop_id": "811D4A91C1134CEA",
+    "company": "KMB",
+    "name": {
+      "en": "CHOI HUNG ESTATE (WT304)",
+      "tc": "彩虹邨 (WT304)",
+      "sc": "彩虹邨 (WT304)"
+    },
+    "lat": 22.335336,
+    "lng": 114.204301
   },
   "KMB:F60097D67F33DC0C": {
     "stop_id": "F60097D67F33DC0C",
@@ -4381,9 +4392,9 @@
     "stop_id": "48AA5A2907C1833D",
     "company": "KMB",
     "name": {
-      "en": "CLP POWER ARGYLE STREET (KC378)",
-      "tc": "亞皆老街中電 (KC378)",
-      "sc": "亚皆老街中电 (KC378)"
+      "en": "CLP PULSE (KC378)",
+      "tc": "中電鐘樓文化館 (KC378)",
+      "sc": "中电钟楼文化馆 (KC378)"
     },
     "lat": 22.320703,
     "lng": 114.176086
@@ -5752,17 +5763,6 @@
     "lat": 22.332407,
     "lng": 114.199139
   },
-  "KMB:811D4A91C1134CEA": {
-    "stop_id": "811D4A91C1134CEA",
-    "company": "KMB",
-    "name": {
-      "en": "CHOI HUNG ESTATE (WT304)",
-      "tc": "彩虹邨 (WT304)",
-      "sc": "彩虹邨 (WT304)"
-    },
-    "lat": 22.335336,
-    "lng": 114.204301
-  },
   "KMB:75957EA713E84A37": {
     "stop_id": "75957EA713E84A37",
     "company": "KMB",
@@ -5888,12 +5888,12 @@
     "stop_id": "2BC21AC371639FC3",
     "company": "KMB",
     "name": {
-      "en": "",
-      "tc": "",
-      "sc": ""
+      "en": "KAI TAK HOSPITAL (KA532)",
+      "tc": "啟德醫院 (KA532)",
+      "sc": "启德医院 (KA532)"
     },
-    "lat": null,
-    "lng": null
+    "lat": 22.317594,
+    "lng": 114.207422
   },
   "KMB:600158E293C9354E": {
     "stop_id": "600158E293C9354E",
@@ -5976,9 +5976,9 @@
     "stop_id": "36A5F6842C55126E",
     "company": "KMB",
     "name": {
-      "en": "HONG KONG CHILDREN'S HOSPITAL (ALIGHTING ONLY)",
-      "tc": "香港兒童醫院 (落客站) (KA530)",
-      "sc": "香港儿童医院 (落客站) (KA530)"
+      "en": "HONG KONG CHILDREN'S HOSPITAL (KA530)",
+      "tc": "香港兒童醫院 (KA530)",
+      "sc": "香港儿童医院 (KA530)"
     },
     "lat": 22.315686,
     "lng": 114.209626
@@ -5987,12 +5987,12 @@
     "stop_id": "8D82E683FA753CC8",
     "company": "KMB",
     "name": {
-      "en": "",
-      "tc": "",
-      "sc": ""
+      "en": "KAI TAK HOSPITAL (KA533)",
+      "tc": "啟德醫院 (KA533)",
+      "sc": "启德医院 (KA533)"
     },
-    "lat": null,
-    "lng": null
+    "lat": 22.318376,
+    "lng": 114.206559
   },
   "KMB:5C54889CFC1ACE5B": {
     "stop_id": "5C54889CFC1ACE5B",
@@ -6852,16 +6852,16 @@
     "lat": 22.294774,
     "lng": 114.239286
   },
-  "KMB:500EB63FD4A41F66": {
-    "stop_id": "500EB63FD4A41F66",
+  "KMB:BEFAD7DB0A750CDF": {
+    "stop_id": "BEFAD7DB0A750CDF",
     "company": "KMB",
     "name": {
-      "en": "KA WING STREET (LT392)",
-      "tc": "嘉榮街 (LT392)",
-      "sc": "嘉荣街 (LT392)"
+      "en": "KA WING STREET (LT393)",
+      "tc": "嘉榮街 (LT393)",
+      "sc": "嘉荣街 (LT393)"
     },
-    "lat": 22.293859,
-    "lng": 114.238561
+    "lat": 22.293785,
+    "lng": 114.238433
   },
   "KMB:3EAFE91BF6223FA6": {
     "stop_id": "3EAFE91BF6223FA6",
@@ -7406,9 +7406,9 @@
     "stop_id": "ED244F7BBACAB14D",
     "company": "KMB",
     "name": {
-      "en": "CLP POWER (KC335)",
-      "tc": "中華電力 (KC335)",
-      "sc": "中华电力 (KC335)"
+      "en": "MAN KEE MANSION (KC335)",
+      "tc": "萬基大廈 (KC335)",
+      "sc": "万基大厦 (KC335)"
     },
     "lat": 22.320178,
     "lng": 114.176516
@@ -8264,9 +8264,9 @@
     "stop_id": "2F3C9727D9186DAB",
     "company": "KMB",
     "name": {
-      "en": "THE ASTRID (KC609)",
-      "tc": "雅麗居 (KC609)",
-      "sc": "雅丽居 (KC609)"
+      "en": "ARGYLE STREET, THE ASTRID (KC609)",
+      "tc": "亞皆老街,雅麗居 (KC609)",
+      "sc": "亚皆老街,雅丽居 (KC609)"
     },
     "lat": 22.323194,
     "lng": 114.182168
@@ -8623,6 +8623,83 @@
     "lat": 22.340925,
     "lng": 114.194926
   },
+  "KMB:272546A2E2F4FCEF": {
+    "stop_id": "272546A2E2F4FCEF",
+    "company": "KMB",
+    "name": {
+      "en": "CHUK YUEN ESTATE BUS TERMINUS (WT915)",
+      "tc": "竹園邨總站 (WT915)",
+      "sc": "竹园邨总站 (WT915)"
+    },
+    "lat": 22.345455,
+    "lng": 114.192858
+  },
+  "KMB:1F189CEB915C191D": {
+    "stop_id": "1F189CEB915C191D",
+    "company": "KMB",
+    "name": {
+      "en": "MA CHAI HANG RECREATION GROUND (WT425)",
+      "tc": "馬仔坑遊樂場 (WT425)",
+      "sc": "马仔坑游乐场 (WT425)"
+    },
+    "lat": 22.344459,
+    "lng": 114.187732
+  },
+  "KMB:9FD865B00B2D54A1": {
+    "stop_id": "9FD865B00B2D54A1",
+    "company": "KMB",
+    "name": {
+      "en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT204)",
+      "tc": "黃大仙轉車站-黃大仙廟 (WT204)",
+      "sc": "黄大仙转车站-黄大仙庙 (WT204)"
+    },
+    "lat": 22.341855,
+    "lng": 114.1921
+  },
+  "KMB:9A0959AB68FA5E1F": {
+    "stop_id": "9A0959AB68FA5E1F",
+    "company": "KMB",
+    "name": {
+      "en": "LAM WAH STREET, KOWLOON BAY (KT123)",
+      "tc": "九龍灣臨華街 (KT123)",
+      "sc": "九龙湾临华街 (KT123)"
+    },
+    "lat": 22.323512,
+    "lng": 114.208973
+  },
+  "KMB:94358F5481BAE505": {
+    "stop_id": "94358F5481BAE505",
+    "company": "KMB",
+    "name": {
+      "en": "SHEUNG YUET ROAD, ENTERPRISE SQUARE (KT130)",
+      "tc": "常悅道 企業廣場 (KT130)",
+      "sc": "常悦道 企业广场 (KT130)"
+    },
+    "lat": 22.321438,
+    "lng": 114.207948
+  },
+  "KMB:07521BB848913F74": {
+    "stop_id": "07521BB848913F74",
+    "company": "KMB",
+    "name": {
+      "en": "WANG TUNG STREET, KOWLOON BAY (KT101)",
+      "tc": "九龍灣宏通街 (KT101)",
+      "sc": "九龙湾宏通街 (KT101)"
+    },
+    "lat": 22.319534,
+    "lng": 114.207613
+  },
+  "KMB:DBB2582C87F91983": {
+    "stop_id": "DBB2582C87F91983",
+    "company": "KMB",
+    "name": {
+      "en": "KAI TAK HOSPITAL (ALIGHTING STOP) (KA531)",
+      "tc": "啟德醫院(落客站) (KA531)",
+      "sc": "启德医院(落客站) (KA531)"
+    },
+    "lat": 22.317594,
+    "lng": 114.207422
+  },
   "KMB:ACF18512CA2861EC": {
     "stop_id": "ACF18512CA2861EC",
     "company": "KMB",
@@ -8864,39 +8941,6 @@
     },
     "lat": 22.315232,
     "lng": 114.229331
-  },
-  "KMB:272546A2E2F4FCEF": {
-    "stop_id": "272546A2E2F4FCEF",
-    "company": "KMB",
-    "name": {
-      "en": "CHUK YUEN ESTATE BUS TERMINUS (WT915)",
-      "tc": "竹園邨總站 (WT915)",
-      "sc": "竹园邨总站 (WT915)"
-    },
-    "lat": 22.345455,
-    "lng": 114.192858
-  },
-  "KMB:1F189CEB915C191D": {
-    "stop_id": "1F189CEB915C191D",
-    "company": "KMB",
-    "name": {
-      "en": "MA CHAI HANG RECREATION GROUND (WT425)",
-      "tc": "馬仔坑遊樂場 (WT425)",
-      "sc": "马仔坑游乐场 (WT425)"
-    },
-    "lat": 22.344459,
-    "lng": 114.187732
-  },
-  "KMB:9FD865B00B2D54A1": {
-    "stop_id": "9FD865B00B2D54A1",
-    "company": "KMB",
-    "name": {
-      "en": "WONG TAI SIN BBI-WONG TAI SIN TEMPLE (WT204)",
-      "tc": "黃大仙轉車站-黃大仙廟 (WT204)",
-      "sc": "黄大仙转车站-黄大仙庙 (WT204)"
-    },
-    "lat": 22.341855,
-    "lng": 114.1921
   },
   "KMB:DE925628D8747F6D": {
     "stop_id": "DE925628D8747F6D",
@@ -9661,9 +9705,9 @@
     "stop_id": "1BD82E4312536F0C",
     "company": "KMB",
     "name": {
-      "en": "FAT TSEUNG STREET WEST (SS289)",
-      "tc": "發祥街西 (SS289)",
-      "sc": "发祥街西 (SS289)"
+      "en": "FAT TSEUNG STREET WEST, HOI TAT COURT (SS289)",
+      "tc": "發祥街西, 凱德苑 (SS289)",
+      "sc": "发祥街西, 凯德苑 (SS289)"
     },
     "lat": 22.330184,
     "lng": 114.151263
@@ -9793,9 +9837,9 @@
     "stop_id": "831F928D7F101526",
     "company": "KMB",
     "name": {
-      "en": "POK MAN STREET (MK240)",
-      "tc": "博文街 (MK240)",
-      "sc": "博文街 (MK240)"
+      "en": "POK MAN STREET, OLYMPIC STATION (MK240)",
+      "tc": "博文街, 奧運站 (MK240)",
+      "sc": "博文街, 奥运站 (MK240)"
     },
     "lat": 22.319356,
     "lng": 114.160769
@@ -9848,9 +9892,9 @@
     "stop_id": "2D30B4FAF44D2398",
     "company": "KMB",
     "name": {
-      "en": "TONKIN STREET WEST (SS664)",
-      "tc": "東京街西 (SS664)",
-      "sc": "东京街西 (SS664)"
+      "en": "HOI TAT ESTATE (SS664)",
+      "tc": "海達邨 (SS664)",
+      "sc": "海达邨 (SS664)"
     },
     "lat": 22.329224,
     "lng": 114.152032
@@ -11615,28 +11659,6 @@
     "lat": 22.322242,
     "lng": 114.204425
   },
-  "KMB:07521BB848913F74": {
-    "stop_id": "07521BB848913F74",
-    "company": "KMB",
-    "name": {
-      "en": "WANG TUNG STREET, KOWLOON BAY (KT101)",
-      "tc": "九龍灣宏通街 (KT101)",
-      "sc": "九龙湾宏通街 (KT101)"
-    },
-    "lat": 22.319534,
-    "lng": 114.207613
-  },
-  "KMB:BEFAD7DB0A750CDF": {
-    "stop_id": "BEFAD7DB0A750CDF",
-    "company": "KMB",
-    "name": {
-      "en": "KA WING STREET (LT393)",
-      "tc": "嘉榮街 (LT393)",
-      "sc": "嘉荣街 (LT393)"
-    },
-    "lat": 22.293785,
-    "lng": 114.238433
-  },
   "KMB:A3B11321D2A974B2": {
     "stop_id": "A3B11321D2A974B2",
     "company": "KMB",
@@ -11758,6 +11780,17 @@
     "lat": 22.308256,
     "lng": 114.235472
   },
+  "KMB:0513406BAC1F8881": {
+    "stop_id": "0513406BAC1F8881",
+    "company": "KMB",
+    "name": {
+      "en": "HONG KONG CHILDREN'S HOSPITAL (KA151)",
+      "tc": "香港兒童醫院 (KA151)",
+      "sc": "香港儿童医院 (KA151)"
+    },
+    "lat": 22.315795,
+    "lng": 114.20988
+  },
   "KMB:A1C35E976ACF46FD": {
     "stop_id": "A1C35E976ACF46FD",
     "company": "KMB",
@@ -11878,28 +11911,6 @@
     },
     "lat": 22.326651,
     "lng": 114.208393
-  },
-  "KMB:9A0959AB68FA5E1F": {
-    "stop_id": "9A0959AB68FA5E1F",
-    "company": "KMB",
-    "name": {
-      "en": "LAM WAH STREET, KOWLOON BAY (KT123)",
-      "tc": "九龍灣臨華街 (KT123)",
-      "sc": "九龙湾临华街 (KT123)"
-    },
-    "lat": 22.323512,
-    "lng": 114.208973
-  },
-  "KMB:94358F5481BAE505": {
-    "stop_id": "94358F5481BAE505",
-    "company": "KMB",
-    "name": {
-      "en": "SHEUNG YUET ROAD, ENTERPRISE SQUARE (KT130)",
-      "tc": "常悅道 企業廣場 (KT130)",
-      "sc": "常悦道 企业广场 (KT130)"
-    },
-    "lat": 22.321438,
-    "lng": 114.207948
   },
   "KMB:5D8FCEF2915882FD": {
     "stop_id": "5D8FCEF2915882FD",
@@ -12257,9 +12268,9 @@
     "stop_id": "28D4FD61902C9392",
     "company": "KMB",
     "name": {
-      "en": "KAR MAN HOUSE (KC518)",
-      "tc": "嘉民樓 (KC518)",
-      "sc": "嘉民楼 (KC518)"
+      "en": "OI MAN ESTATE, KAR MAN HOUSE (KC518)",
+      "tc": "愛民邨, 嘉民樓 (KC518)",
+      "sc": "爱民邨, 嘉民楼 (KC518)"
     },
     "lat": 22.312191,
     "lng": 114.17989
@@ -12329,6 +12340,17 @@
     },
     "lat": 22.320757,
     "lng": 114.187457
+  },
+  "KMB:F78B61532972282D": {
+    "stop_id": "F78B61532972282D",
+    "company": "KMB",
+    "name": {
+      "en": "HO MAN TIN (OI MAN ESTATE) BUS TERMINUS (KC902)",
+      "tc": "何文田(愛民邨)巴士總站 (KC902)",
+      "sc": "何文田(爱民邨)巴士总站 (KC902)"
+    },
+    "lat": 22.312407,
+    "lng": 114.178045
   },
   "KMB:E5746F4692437377": {
     "stop_id": "E5746F4692437377",
@@ -12422,9 +12444,9 @@
     "stop_id": "68A3AF80BADFDE9F",
     "company": "KMB",
     "name": {
-      "en": "CLP POWER ARGYLE STREET (KC376)",
-      "tc": "亞皆老街中電 (KC376)",
-      "sc": "亚皆老街中电 (KC376)"
+      "en": "CLP PULSE (KC376)",
+      "tc": "中電鐘樓文化館 (KC376)",
+      "sc": "中电钟楼文化馆 (KC376)"
     },
     "lat": 22.320775,
     "lng": 114.176203
@@ -15139,9 +15161,9 @@
     "stop_id": "93CCED3B2F2BE08F",
     "company": "KMB",
     "name": {
-      "en": "VEGETABLE MARKETING ORGANIZATION (SS314)",
-      "tc": "蔬菜統營處 (SS314)",
-      "sc": "蔬菜统营处 (SS314)"
+      "en": "VEGETABLE MARKETING ORGANIZATION, LAI TSUI COURT",
+      "tc": "蔬菜統營處, 麗翠苑 (SS314)",
+      "sc": "蔬菜统营处, 丽翠苑 (SS314)"
     },
     "lat": 22.333055,
     "lng": 114.154386
@@ -16191,16 +16213,16 @@
     "lat": 22.337202,
     "lng": 114.141455
   },
-  "KMB:09A156B1A802D093": {
-    "stop_id": "09A156B1A802D093",
+  "KMB:33C03E27FEC4342F": {
+    "stop_id": "33C03E27FEC4342F",
     "company": "KMB",
     "name": {
-      "en": "LAI CHI KOK STATION (SS467)",
-      "tc": "荔枝角站 (SS467)",
-      "sc": "荔枝角站 (SS467)"
+      "en": "LAI CHI KOK STATION (SS467a)",
+      "tc": "荔枝角站 (SS467a)",
+      "sc": "荔枝角站 (SS467a)"
     },
-    "lat": 22.337617,
-    "lng": 114.148799
+    "lat": 22.338005,
+    "lng": 114.14993
   },
   "KMB:BD34A7B702373B12": {
     "stop_id": "BD34A7B702373B12",
@@ -21508,7 +21530,7 @@
     "stop_id": "E45E7DB1786B6324",
     "company": "KMB",
     "name": {
-      "en": "TSING YI STATION(Alighting) (TY921)",
+      "en": "TSING YI STATION (TY921)",
       "tc": "青衣站 (TY921)",
       "sc": "青衣站 (TY921)"
     },
@@ -23917,12 +23939,12 @@
     "stop_id": "D3071E4C5434ADE7",
     "company": "KMB",
     "name": {
-      "en": "",
-      "tc": "",
-      "sc": ""
+      "en": "TSING FAT STREET LIGHT PUBLIC HOUSING TERMINUS",
+      "tc": "青發街簡約公屋總站 (TM874)",
+      "sc": "青发街简约公屋总站 (TM874)"
     },
-    "lat": null,
-    "lng": null
+    "lat": 22.363594,
+    "lng": 113.999759
   },
   "KMB:9DC117C78DBDB1A7": {
     "stop_id": "9DC117C78DBDB1A7",
@@ -24045,6 +24067,72 @@
     "lat": 22.318599,
     "lng": 114.164385
   },
+  "KMB:835DE31CDA7EBEC9": {
+    "stop_id": "835DE31CDA7EBEC9",
+    "company": "KMB",
+    "name": {
+      "en": "MONG KOK (PARK AVENUE) BUS TERMINUS (MK911)",
+      "tc": "旺角(柏景灣)總站 (MK911)",
+      "sc": "旺角(柏景湾)总站 (MK911)"
+    },
+    "lat": 22.315857,
+    "lng": 114.163122
+  },
+  "KMB:D0937674DF369B23": {
+    "stop_id": "D0937674DF369B23",
+    "company": "KMB",
+    "name": {
+      "en": "TUEN MUN ROAD BBI (C1) (TM113)",
+      "tc": "屯門公路轉車站 (C1) (TM113)",
+      "sc": "屯门公路转车站 (C1) (TM113)"
+    },
+    "lat": 22.358492,
+    "lng": 114.019106
+  },
+  "KMB:09A5D5C90F15C08C": {
+    "stop_id": "09A5D5C90F15C08C",
+    "company": "KMB",
+    "name": {
+      "en": "LUNG KWU TAN",
+      "tc": "龍鼓灘",
+      "sc": "龙鼓滩"
+    },
+    "lat": 22.389055,
+    "lng": 113.920312
+  },
+  "KMB:D6001B758148778A": {
+    "stop_id": "D6001B758148778A",
+    "company": "KMB",
+    "name": {
+      "en": "TSANG TSUI (TM876)",
+      "tc": "曾咀 (TM876)",
+      "sc": "曾咀 (TM876)"
+    },
+    "lat": 22.419386,
+    "lng": 113.921369
+  },
+  "KMB:76441824D4E31948": {
+    "stop_id": "76441824D4E31948",
+    "company": "KMB",
+    "name": {
+      "en": "LUNG KWU TAN",
+      "tc": "龍鼓灘",
+      "sc": "龙鼓滩"
+    },
+    "lat": 22.389055,
+    "lng": 113.920312
+  },
+  "KMB:212BFF5737D0116C": {
+    "stop_id": "212BFF5737D0116C",
+    "company": "KMB",
+    "name": {
+      "en": "TUEN MUN ROAD BBI (TM741)",
+      "tc": "屯門公路轉車站 (TM741)",
+      "sc": "屯门公路转车站 (TM741)"
+    },
+    "lat": 22.362288,
+    "lng": 114.016149
+  },
   "KMB:10DABE0380229B4D": {
     "stop_id": "10DABE0380229B4D",
     "company": "KMB",
@@ -24154,17 +24242,6 @@
     },
     "lat": 22.372424,
     "lng": 113.993293
-  },
-  "KMB:835DE31CDA7EBEC9": {
-    "stop_id": "835DE31CDA7EBEC9",
-    "company": "KMB",
-    "name": {
-      "en": "MONG KOK (PARK AVENUE) BUS TERMINUS (MK911)",
-      "tc": "旺角(柏景灣)總站 (MK911)",
-      "sc": "旺角(柏景湾)总站 (MK911)"
-    },
-    "lat": 22.315857,
-    "lng": 114.163122
   },
   "KMB:E646EC930A1E8458": {
     "stop_id": "E646EC930A1E8458",
@@ -25860,6 +25937,50 @@
     "lat": 22.444344,
     "lng": 114.028219
   },
+  "KMB:584E6744385F6463": {
+    "stop_id": "584E6744385F6463",
+    "company": "KMB",
+    "name": {
+      "en": "TUEN MUN STATION BUS TERMINUS (TM955)",
+      "tc": "屯門站總站 (TM955)",
+      "sc": "屯门站总站 (TM955)"
+    },
+    "lat": 22.394975,
+    "lng": 113.973399
+  },
+  "KMB:C1BF4509359B0895": {
+    "stop_id": "C1BF4509359B0895",
+    "company": "KMB",
+    "name": {
+      "en": "TUEN MUN CENTRAL BUS TERMINUS (TM976)",
+      "tc": "屯門市中心總站 (TM976)",
+      "sc": "屯门市中心总站 (TM976)"
+    },
+    "lat": 22.391509,
+    "lng": 113.975556
+  },
+  "KMB:F64076F7E14E38D4": {
+    "stop_id": "F64076F7E14E38D4",
+    "company": "KMB",
+    "name": {
+      "en": "TSANG TSUI (TM875)",
+      "tc": "曾咀 (TM875)",
+      "sc": "曾咀 (TM875)"
+    },
+    "lat": 22.419386,
+    "lng": 113.921369
+  },
+  "KMB:5D14B75687F60509": {
+    "stop_id": "5D14B75687F60509",
+    "company": "KMB",
+    "name": {
+      "en": "TUEN MUN PARK (TM167)",
+      "tc": "屯門公園 (TM167)",
+      "sc": "屯门公园 (TM167)"
+    },
+    "lat": 22.392122,
+    "lng": 113.975127
+  },
   "KMB:640B42B50FB0152E": {
     "stop_id": "640B42B50FB0152E",
     "company": "KMB",
@@ -26475,6 +26596,17 @@
     },
     "lat": 22.391762,
     "lng": 113.977754
+  },
+  "KMB:09A156B1A802D093": {
+    "stop_id": "09A156B1A802D093",
+    "company": "KMB",
+    "name": {
+      "en": "LAI CHI KOK STATION (SS467)",
+      "tc": "荔枝角站 (SS467)",
+      "sc": "荔枝角站 (SS467)"
+    },
+    "lat": 22.337617,
+    "lng": 114.148799
   },
   "KMB:E5EBA1D47BA06FCC": {
     "stop_id": "E5EBA1D47BA06FCC",
@@ -27092,17 +27224,6 @@
     "lat": 22.387839,
     "lng": 113.975112
   },
-  "KMB:5D14B75687F60509": {
-    "stop_id": "5D14B75687F60509",
-    "company": "KMB",
-    "name": {
-      "en": "TUEN MUN PARK (TM167)",
-      "tc": "屯門公園 (TM167)",
-      "sc": "屯门公园 (TM167)"
-    },
-    "lat": 22.392122,
-    "lng": 113.975127
-  },
   "KMB:79D68EE7C6CBAB9D": {
     "stop_id": "79D68EE7C6CBAB9D",
     "company": "KMB",
@@ -27466,6 +27587,72 @@
     "lat": 22.37382,
     "lng": 113.996152
   },
+  "KMB:8660BDF2C013FAC2": {
+    "stop_id": "8660BDF2C013FAC2",
+    "company": "KMB",
+    "name": {
+      "en": "TUEN MUN CENTRAL BUS TERMINUS (TM967)",
+      "tc": "屯門市中心總站 (TM967)",
+      "sc": "屯门市中心总站 (TM967)"
+    },
+    "lat": 22.391191,
+    "lng": 113.975808
+  },
+  "KMB:EC49B6F5634BC0C2": {
+    "stop_id": "EC49B6F5634BC0C2",
+    "company": "KMB",
+    "name": {
+      "en": "TUEN MUN TOWN PLAZA (TM123)",
+      "tc": "屯門市廣場 (TM123)",
+      "sc": "屯门市广场 (TM123)"
+    },
+    "lat": 22.393029,
+    "lng": 113.976848
+  },
+  "KMB:7AC6625D894BA101": {
+    "stop_id": "7AC6625D894BA101",
+    "company": "KMB",
+    "name": {
+      "en": "SAN HUI MARKET (TM130)",
+      "tc": "新墟街市 (TM130)",
+      "sc": "新墟街市 (TM130)"
+    },
+    "lat": 22.398858,
+    "lng": 113.976525
+  },
+  "KMB:AA5CBDB0758443A9": {
+    "stop_id": "AA5CBDB0758443A9",
+    "company": "KMB",
+    "name": {
+      "en": "WO HOP SHEK (ND883)",
+      "tc": "和合石 (ND883)",
+      "sc": "和合石 (ND883)"
+    },
+    "lat": 22.482439,
+    "lng": 114.143218
+  },
+  "KMB:6FB7BC1E5BC1E4EE": {
+    "stop_id": "6FB7BC1E5BC1E4EE",
+    "company": "KMB",
+    "name": {
+      "en": "HUNG KIU (TM712)",
+      "tc": "紅橋 (TM712)",
+      "sc": "红桥 (TM712)"
+    },
+    "lat": 22.401767,
+    "lng": 113.977412
+  },
+  "KMB:5238463F47B490D6": {
+    "stop_id": "5238463F47B490D6",
+    "company": "KMB",
+    "name": {
+      "en": "SAN HUI MARKET (TM715)",
+      "tc": "新墟街市 (TM715)",
+      "sc": "新墟街市 (TM715)"
+    },
+    "lat": 22.396452,
+    "lng": 113.976542
+  },
   "KMB:F401D97F031FEEED": {
     "stop_id": "F401D97F031FEEED",
     "company": "KMB",
@@ -27752,17 +27939,6 @@
     "lat": 22.441426,
     "lng": 114.015706
   },
-  "KMB:212BFF5737D0116C": {
-    "stop_id": "212BFF5737D0116C",
-    "company": "KMB",
-    "name": {
-      "en": "TUEN MUN ROAD BBI (TM741)",
-      "tc": "屯門公路轉車站 (TM741)",
-      "sc": "屯门公路转车站 (TM741)"
-    },
-    "lat": 22.362288,
-    "lng": 114.016149
-  },
   "KMB:BF8EAED2AF086669": {
     "stop_id": "BF8EAED2AF086669",
     "company": "KMB",
@@ -27982,17 +28158,6 @@
     },
     "lat": 22.318559,
     "lng": 114.164958
-  },
-  "KMB:7AC6625D894BA101": {
-    "stop_id": "7AC6625D894BA101",
-    "company": "KMB",
-    "name": {
-      "en": "SAN HUI MARKET (TM130)",
-      "tc": "新墟街市 (TM130)",
-      "sc": "新墟街市 (TM130)"
-    },
-    "lat": 22.398858,
-    "lng": 113.976525
   },
   "KMB:EC225F6F55BFA35E": {
     "stop_id": "EC225F6F55BFA35E",
@@ -34297,6 +34462,17 @@
     "lat": 22.484781,
     "lng": 114.152709
   },
+  "KMB:A1A1CE1BACE1973D": {
+    "stop_id": "A1A1CE1BACE1973D",
+    "company": "KMB",
+    "name": {
+      "en": "THE EDUCATION UNIVERSITY OF HK (TP891)",
+      "tc": "香港教育大學 (TP891)",
+      "sc": "香港教育大学 (TP891)"
+    },
+    "lat": 22.466682,
+    "lng": 114.193577
+  },
   "KMB:E0908A8C2459FA0F": {
     "stop_id": "E0908A8C2459FA0F",
     "company": "KMB",
@@ -34494,17 +34670,6 @@
     },
     "lat": 22.462336,
     "lng": 114.19067
-  },
-  "KMB:A1A1CE1BACE1973D": {
-    "stop_id": "A1A1CE1BACE1973D",
-    "company": "KMB",
-    "name": {
-      "en": "THE EDUCATION UNIVERSITY OF HK (TP891)",
-      "tc": "香港教育大學 (TP891)",
-      "sc": "香港教育大学 (TP891)"
-    },
-    "lat": 22.466682,
-    "lng": 114.193577
   },
   "KMB:790B8E94D15A0888": {
     "stop_id": "790B8E94D15A0888",
@@ -35683,17 +35848,6 @@
     "lat": 22.322703,
     "lng": 114.214288
   },
-  "KMB:AA5CBDB0758443A9": {
-    "stop_id": "AA5CBDB0758443A9",
-    "company": "KMB",
-    "name": {
-      "en": "WO HOP SHEK (ND883)",
-      "tc": "和合石 (ND883)",
-      "sc": "和合石 (ND883)"
-    },
-    "lat": 22.482439,
-    "lng": 114.143218
-  },
   "KMB:A7274154A935CF21": {
     "stop_id": "A7274154A935CF21",
     "company": "KMB",
@@ -36067,6 +36221,39 @@
     },
     "lat": 22.479314,
     "lng": 114.052982
+  },
+  "KMB:82949C393C421088": {
+    "stop_id": "82949C393C421088",
+    "company": "KMB",
+    "name": {
+      "en": "PAK SAU ROAD (KWU TUNG NORTH COMPLEX) (ND620)",
+      "tc": "柏壽路(古洞北綜合大樓) (ND620)",
+      "sc": "柏寿路(古洞北综合大楼) (ND620)"
+    },
+    "lat": 22.504378,
+    "lng": 114.096273
+  },
+  "KMB:55E8DA01E30C4C44": {
+    "stop_id": "55E8DA01E30C4C44",
+    "company": "KMB",
+    "name": {
+      "en": "HEUNG TSZ ROAD (ND630)",
+      "tc": "鄉梓路 (ND630)",
+      "sc": "乡梓路 (ND630)"
+    },
+    "lat": 22.50599,
+    "lng": 114.095166
+  },
+  "KMB:A5CCD492A487E458": {
+    "stop_id": "A5CCD492A487E458",
+    "company": "KMB",
+    "name": {
+      "en": "KWU TUNG NORTH (ND700)",
+      "tc": "古洞北 (ND700)",
+      "sc": "古洞北 (ND700)"
+    },
+    "lat": 22.505689,
+    "lng": 114.098421
   },
   "KMB:B32FA6CD250F0F6B": {
     "stop_id": "B32FA6CD250F0F6B",
@@ -43266,9 +43453,9 @@
     "stop_id": "C37E7CF06680272D",
     "company": "KMB",
     "name": {
-      "en": "CHUI LING ROAD",
-      "tc": "翠嶺路",
-      "sc": "翠岭路"
+      "en": "CHUI LING ROAD (TK590)",
+      "tc": "翠嶺路 (TK590)",
+      "sc": "翠岭路 (TK590)"
     },
     "lat": 22.304726,
     "lng": 114.253849
@@ -45862,9 +46049,9 @@
     "stop_id": "D35570D44FA8773C",
     "company": "KMB",
     "name": {
-      "en": "MAN HING HOUSE (SS567)",
-      "tc": "民興樓 (SS567)",
-      "sc": "民兴楼 (SS567)"
+      "en": "TAI HANG SAI ESTATE MAN HING HOUSE (SS567)",
+      "tc": "大坑西邨,民興樓 (SS567)",
+      "sc": "大坑西邨,民兴楼 (SS567)"
     },
     "lat": 22.331968,
     "lng": 114.170332
@@ -47563,17 +47750,6 @@
     "lat": 22.436706,
     "lng": 113.998677
   },
-  "KMB:6FB7BC1E5BC1E4EE": {
-    "stop_id": "6FB7BC1E5BC1E4EE",
-    "company": "KMB",
-    "name": {
-      "en": "HUNG KIU (TM712)",
-      "tc": "紅橋 (TM712)",
-      "sc": "红桥 (TM712)"
-    },
-    "lat": 22.401767,
-    "lng": 113.977412
-  },
   "KMB:5FE12AC5660F89D6": {
     "stop_id": "5FE12AC5660F89D6",
     "company": "KMB",
@@ -47827,17 +48003,6 @@
     "lat": 22.357963,
     "lng": 114.019237
   },
-  "KMB:C1BF4509359B0895": {
-    "stop_id": "C1BF4509359B0895",
-    "company": "KMB",
-    "name": {
-      "en": "TUEN MUN CENTRAL BUS TERMINUS (TM976)",
-      "tc": "屯門市中心總站 (TM976)",
-      "sc": "屯门市中心总站 (TM976)"
-    },
-    "lat": 22.391509,
-    "lng": 113.975556
-  },
   "KMB:2D3D025684145373": {
     "stop_id": "2D3D025684145373",
     "company": "KMB",
@@ -47892,17 +48057,6 @@
     },
     "lat": 22.395081,
     "lng": 113.973782
-  },
-  "KMB:8660BDF2C013FAC2": {
-    "stop_id": "8660BDF2C013FAC2",
-    "company": "KMB",
-    "name": {
-      "en": "TUEN MUN CENTRAL BUS TERMINUS (TM967)",
-      "tc": "屯門市中心總站 (TM967)",
-      "sc": "屯门市中心总站 (TM967)"
-    },
-    "lat": 22.391191,
-    "lng": 113.975808
   },
   "KMB:4B6E603162A11A02": {
     "stop_id": "4B6E603162A11A02",
@@ -48091,17 +48245,6 @@
     "lat": 22.303693,
     "lng": 114.171628
   },
-  "KMB:EC49B6F5634BC0C2": {
-    "stop_id": "EC49B6F5634BC0C2",
-    "company": "KMB",
-    "name": {
-      "en": "TUEN MUN TOWN PLAZA (TM123)",
-      "tc": "屯門市廣場 (TM123)",
-      "sc": "屯门市广场 (TM123)"
-    },
-    "lat": 22.393029,
-    "lng": 113.976848
-  },
   "KMB:00B4635AE83E7EC5": {
     "stop_id": "00B4635AE83E7EC5",
     "company": "KMB",
@@ -48289,27 +48432,16 @@
     "lat": 22.414301,
     "lng": 113.978906
   },
-  "KMB:16F5EB4168069F73": {
-    "stop_id": "16F5EB4168069F73",
+  "KMB:E7DB3542B4676A88": {
+    "stop_id": "E7DB3542B4676A88",
     "company": "KMB",
     "name": {
-      "en": "LEUNG KING ESTATE BUS TERMINUS (TM539)",
-      "tc": "良景邨總站 (TM539)",
-      "sc": "良景邨总站 (TM539)"
+      "en": "YIP WONG ESTATE (TM692)",
+      "tc": "業旺邨 (TM692)",
+      "sc": "业旺邨 (TM692)"
     },
-    "lat": 22.407079,
-    "lng": 113.964291
-  },
-  "KMB:19B569A51034271F": {
-    "stop_id": "19B569A51034271F",
-    "company": "KMB",
-    "name": {
-      "en": "SHEK PAI STATION (TM584)",
-      "tc": "石排站 (TM584)",
-      "sc": "石排站 (TM584)"
-    },
-    "lat": 22.402023,
-    "lng": 113.968039
+    "lat": 22.388162,
+    "lng": 113.969994
   },
   "KMB:4442A9A5E7FABAB8": {
     "stop_id": "4442A9A5E7FABAB8",
@@ -48321,6 +48453,17 @@
     },
     "lat": 22.503577,
     "lng": 114.133906
+  },
+  "KMB:562DC5FB6008797C": {
+    "stop_id": "562DC5FB6008797C",
+    "company": "KMB",
+    "name": {
+      "en": "TSING FAT STREET LIGHT PUBLIC HOUSING TERMINUS",
+      "tc": "青發街簡約公屋總站 (TM871)",
+      "sc": "青发街简约公屋总站 (TM871)"
+    },
+    "lat": 22.363594,
+    "lng": 113.999759
   },
   "KMB:3C3AFAA5179D7F6D": {
     "stop_id": "3C3AFAA5179D7F6D",
@@ -48354,17 +48497,6 @@
     },
     "lat": 22.492421,
     "lng": 114.133535
-  },
-  "KMB:5238463F47B490D6": {
-    "stop_id": "5238463F47B490D6",
-    "company": "KMB",
-    "name": {
-      "en": "SAN HUI MARKET (TM715)",
-      "tc": "新墟街市 (TM715)",
-      "sc": "新墟街市 (TM715)"
-    },
-    "lat": 22.396452,
-    "lng": 113.976542
   },
   "KMB:7A501670303C90F8": {
     "stop_id": "7A501670303C90F8",
@@ -48431,17 +48563,6 @@
     },
     "lat": 22.381418,
     "lng": 114.137985
-  },
-  "KMB:584E6744385F6463": {
-    "stop_id": "584E6744385F6463",
-    "company": "KMB",
-    "name": {
-      "en": "TUEN MUN STATION BUS TERMINUS (TM955)",
-      "tc": "屯門站總站 (TM955)",
-      "sc": "屯门站总站 (TM955)"
-    },
-    "lat": 22.394975,
-    "lng": 113.973399
   },
   "KMB:7234BEA4242461F7": {
     "stop_id": "7234BEA4242461F7",
@@ -48982,16 +49103,16 @@
     "lat": 22.44021,
     "lng": 113.998968
   },
-  "KMB:D834EE67780F47CD": {
-    "stop_id": "D834EE67780F47CD",
+  "KMB:430C6E88A93B42DE": {
+    "stop_id": "430C6E88A93B42DE",
     "company": "KMB",
     "name": {
-      "en": "TIN FU BUS TERMINUS (TN960)",
-      "tc": "天富總站 (TN960)",
-      "sc": "天富总站 (TN960)"
+      "en": "TIN FU BUS TERMINUS (TN961)",
+      "tc": "天富總站 (TN961)",
+      "sc": "天富总站 (TN961)"
     },
-    "lat": 22.46241,
-    "lng": 113.998494
+    "lat": 22.462304,
+    "lng": 113.998496
   },
   "KMB:878E5C4AF6C4B0D4": {
     "stop_id": "878E5C4AF6C4B0D4",
@@ -50005,13 +50126,13 @@
     "lat": 22.49794,
     "lng": 114.125292
   },
-  "KMB:430C6E88A93B42DE": {
-    "stop_id": "430C6E88A93B42DE",
+  "KMB:744409C92DEBB74D": {
+    "stop_id": "744409C92DEBB74D",
     "company": "KMB",
     "name": {
-      "en": "TIN FU BUS TERMINUS (TN961)",
-      "tc": "天富總站 (TN961)",
-      "sc": "天富总站 (TN961)"
+      "en": "TIN FU BUS TERMINUS (TN959)",
+      "tc": "天富總站 (TN959)",
+      "sc": "天富总站 (TN959)"
     },
     "lat": 22.462304,
     "lng": 113.998496
@@ -55856,6 +55977,17 @@
     },
     "lat": 22.405981,
     "lng": 113.968887
+  },
+  "KMB:19B569A51034271F": {
+    "stop_id": "19B569A51034271F",
+    "company": "KMB",
+    "name": {
+      "en": "SHEK PAI STATION (TM584)",
+      "tc": "石排站 (TM584)",
+      "sc": "石排站 (TM584)"
+    },
+    "lat": 22.402023,
+    "lng": 113.968039
   },
   "KMB:DD56DC2336C878C1": {
     "stop_id": "DD56DC2336C878C1",
@@ -62072,6 +62204,237 @@
     "lat": 22.506484,
     "lng": 114.079899
   },
+  "KMB:376B94FDBA371A25": {
+    "stop_id": "376B94FDBA371A25",
+    "company": "KMB",
+    "name": {
+      "en": "KWAI FONG (KWAI TSUI ESTATE) BUS TERMINUS (KW914)",
+      "tc": "葵芳(葵翠邨)總站 (KW914)",
+      "sc": "葵芳(葵翠邨)总站 (KW914)"
+    },
+    "lat": 22.356476,
+    "lng": 114.128697
+  },
+  "KMB:9E42D981C59B5762": {
+    "stop_id": "9E42D981C59B5762",
+    "company": "KMB",
+    "name": {
+      "en": "TSING YI STATION (TY930)",
+      "tc": "青衣站 (TY930)",
+      "sc": "青衣站 (TY930)"
+    },
+    "lat": 22.360348,
+    "lng": 114.107636
+  },
+  "KMB:E16B85415973C1A2": {
+    "stop_id": "E16B85415973C1A2",
+    "company": "KMB",
+    "name": {
+      "en": "TAI LAM TUNNEL BBI (YL230)",
+      "tc": "大欖隧道轉車站 (YL230)",
+      "sc": "大榄隧道转车站 (YL230)"
+    },
+    "lat": 22.420344,
+    "lng": 114.063524
+  },
+  "KMB:C9A6689E84F83D1A": {
+    "stop_id": "C9A6689E84F83D1A",
+    "company": "KMB",
+    "name": {
+      "en": "HUANGGANG PORT (HU900)",
+      "tc": "皇崗口岸 (HU900)",
+      "sc": "皇岗口岸 (HU900)"
+    },
+    "lat": 22.523177,
+    "lng": 114.068333
+  },
+  "KMB:D7E9208A2B3A457A": {
+    "stop_id": "D7E9208A2B3A457A",
+    "company": "KMB",
+    "name": {
+      "en": "HUANGGANG PORT (HU905)",
+      "tc": "皇崗口岸 (HU905)",
+      "sc": "皇岗口岸 (HU905)"
+    },
+    "lat": 22.523177,
+    "lng": 114.067432
+  },
+  "KMB:D834EE67780F47CD": {
+    "stop_id": "D834EE67780F47CD",
+    "company": "KMB",
+    "name": {
+      "en": "TIN FU BUS TERMINUS (TN960)",
+      "tc": "天富總站 (TN960)",
+      "sc": "天富总站 (TN960)"
+    },
+    "lat": 22.46241,
+    "lng": 113.998494
+  },
+  "KMB:95BF1D17F9384903": {
+    "stop_id": "95BF1D17F9384903",
+    "company": "KMB",
+    "name": {
+      "en": "TIN YAN ESTATE (TN225a)",
+      "tc": "天恩邨 (TN225a)",
+      "sc": "天恩邨 (TN225a)"
+    },
+    "lat": 22.464231,
+    "lng": 113.997238
+  },
+  "KMB:8B1F380BC39C296A": {
+    "stop_id": "8B1F380BC39C296A",
+    "company": "KMB",
+    "name": {
+      "en": "TIN CHAK ESTATE (TN227a)",
+      "tc": "天澤邨 (TN227a)",
+      "sc": "天泽邨 (TN227a)"
+    },
+    "lat": 22.468122,
+    "lng": 113.999172
+  },
+  "KMB:86994D888EA44362": {
+    "stop_id": "86994D888EA44362",
+    "company": "KMB",
+    "name": {
+      "en": "HONG KONG WETLAND PARK (TN301a)",
+      "tc": "香港濕地公園 (TN301a)",
+      "sc": "香港湿地公园 (TN301a)"
+    },
+    "lat": 22.469846,
+    "lng": 114.002807
+  },
+  "KMB:53009E652261F274": {
+    "stop_id": "53009E652261F274",
+    "company": "KMB",
+    "name": {
+      "en": "VIANNI COVE (TN529)",
+      "tc": "慧景軒 (TN529)",
+      "sc": "慧景轩 (TN529)"
+    },
+    "lat": 22.465728,
+    "lng": 114.005017
+  },
+  "KMB:C5C4CC54C2C0A086": {
+    "stop_id": "C5C4CC54C2C0A086",
+    "company": "KMB",
+    "name": {
+      "en": "HKFYG LEE SHAU KEE COLLEGE (TN533a)",
+      "tc": "香港青年協會李兆基書院 (TN533a",
+      "sc": "香港青年协会李兆基书院 (TN533a"
+    },
+    "lat": 22.463244,
+    "lng": 114.00408
+  },
+  "KMB:195C77D59929A348": {
+    "stop_id": "195C77D59929A348",
+    "company": "KMB",
+    "name": {
+      "en": "MAYWOOD COURT (TN534a)",
+      "tc": "美湖居 (TN534a)",
+      "sc": "美湖居 (TN534a)"
+    },
+    "lat": 22.461038,
+    "lng": 114.004351
+  },
+  "KMB:A17734ECA4DFAC93": {
+    "stop_id": "A17734ECA4DFAC93",
+    "company": "KMB",
+    "name": {
+      "en": "KENSWOOD COURT (TN602a)",
+      "tc": "景湖居 (TN602a)",
+      "sc": "景湖居 (TN602a)"
+    },
+    "lat": 22.457409,
+    "lng": 114.005641
+  },
+  "KMB:E01BA1321937DA5A": {
+    "stop_id": "E01BA1321937DA5A",
+    "company": "KMB",
+    "name": {
+      "en": "TIN TSZ ESTATE (TN604a)",
+      "tc": "天慈邨 (TN604a)",
+      "sc": "天慈邨 (TN604a)"
+    },
+    "lat": 22.453091,
+    "lng": 114.006201
+  },
+  "KMB:3BA8C0F8CA5D4DB0": {
+    "stop_id": "3BA8C0F8CA5D4DB0",
+    "company": "KMB",
+    "name": {
+      "en": "FUNG CHI TSUEN LONG PING ROAD (YL274)",
+      "tc": "朗屏路鳳池村 (YL274)",
+      "sc": "朗屏路凤池村 (YL274)"
+    },
+    "lat": 22.448379,
+    "lng": 114.018552
+  },
+  "KMB:B02B0B9F73E50D93": {
+    "stop_id": "B02B0B9F73E50D93",
+    "company": "KMB",
+    "name": {
+      "en": "YUEN LONG PLAZA (YL362)",
+      "tc": "元朗廣場 (YL362)",
+      "sc": "元朗广场 (YL362)"
+    },
+    "lat": 22.444678,
+    "lng": 114.023992
+  },
+  "KMB:08594543968C22E3": {
+    "stop_id": "08594543968C22E3",
+    "company": "KMB",
+    "name": {
+      "en": "YUEN LONG STATION BUS TERMINUS (YL962)",
+      "tc": "元朗站總站 (YL962)",
+      "sc": "元朗站总站 (YL962)"
+    },
+    "lat": 22.446096,
+    "lng": 114.034273
+  },
+  "KMB:176E8545D9036753": {
+    "stop_id": "176E8545D9036753",
+    "company": "KMB",
+    "name": {
+      "en": "YOHO MALL I (YL401a)",
+      "tc": "形點 I (YL401a)",
+      "sc": "形点 I (YL401a)"
+    },
+    "lat": 22.445065,
+    "lng": 114.036445
+  },
+  "KMB:90EB316DB1182D86": {
+    "stop_id": "90EB316DB1182D86",
+    "company": "KMB",
+    "name": {
+      "en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE (YL993)",
+      "tc": "新田運輸交匯處 (YL993)",
+      "sc": "新田运输交汇处 (YL993)"
+    },
+    "lat": 22.502927,
+    "lng": 114.0818
+  },
+  "KMB:0E38C53383FCAC6C": {
+    "stop_id": "0E38C53383FCAC6C",
+    "company": "KMB",
+    "name": {
+      "en": "HUANGGANG PORT (HU904)",
+      "tc": "皇崗口岸 (HU904)",
+      "sc": "皇岗口岸 (HU904)"
+    },
+    "lat": 22.523177,
+    "lng": 114.067432
+  },
+  "KMB:BBDE4A93A0A5D7D3": {
+    "stop_id": "BBDE4A93A0A5D7D3",
+    "company": "KMB",
+    "name": {
+      "en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE (YL994)",
+      "tc": "新田運輸交匯處 (YL994)",
+      "sc": "新田运输交汇处 (YL994)"
+    },
+    "lat": 22.503082,
+    "lng": 114.082108
+  },
   "KMB:DBD6820299653B4E": {
     "stop_id": "DBD6820299653B4E",
     "company": "KMB",
@@ -64624,17 +64987,6 @@
     "lat": 22.453535,
     "lng": 114.006997
   },
-  "KMB:B02B0B9F73E50D93": {
-    "stop_id": "B02B0B9F73E50D93",
-    "company": "KMB",
-    "name": {
-      "en": "YUEN LONG PLAZA (YL362)",
-      "tc": "元朗廣場 (YL362)",
-      "sc": "元朗广场 (YL362)"
-    },
-    "lat": 22.444678,
-    "lng": 114.023992
-  },
   "KMB:7FAF7F6B57A8B606": {
     "stop_id": "7FAF7F6B57A8B606",
     "company": "KMB",
@@ -65284,6 +65636,17 @@
     "lat": 22.375365,
     "lng": 113.986166
   },
+  "KMB:81546F0FC36C9A02": {
+    "stop_id": "81546F0FC36C9A02",
+    "company": "KMB",
+    "name": {
+      "en": "HUANGGANG PORT (HU903)",
+      "tc": "皇崗口岸 (HU903)",
+      "sc": "皇岗口岸 (HU903)"
+    },
+    "lat": 22.523167,
+    "lng": 114.067432
+  },
   "KMB:6F413C2DEF4747DC": {
     "stop_id": "6F413C2DEF4747DC",
     "company": "KMB",
@@ -65420,9 +65783,9 @@
     "stop_id": "06CC6423AA236B72",
     "company": "KMB",
     "name": {
-      "en": "TSEUNG KWAN O (TONG CHUN STREET)",
-      "tc": "將軍澳(唐俊街)",
-      "sc": "将军澳(唐俊街)"
+      "en": "PopWalk",
+      "tc": "PopWalk 天晉滙",
+      "sc": "PopWalk 天晋滙"
     },
     "lat": 22.303002,
     "lng": 114.261429
@@ -66471,28 +66834,6 @@
     },
     "lat": 22.502562,
     "lng": 114.127682
-  },
-  "KMB:DBB2582C87F91983": {
-    "stop_id": "DBB2582C87F91983",
-    "company": "KMB",
-    "name": {
-      "en": "HONG KONG CHILDREN'S HOSPITAL (KA531)",
-      "tc": "香港兒童醫院 (KA531)",
-      "sc": "香港儿童医院 (KA531)"
-    },
-    "lat": 22.315786,
-    "lng": 114.209517
-  },
-  "KMB:0513406BAC1F8881": {
-    "stop_id": "0513406BAC1F8881",
-    "company": "KMB",
-    "name": {
-      "en": "HONG KONG CHILDREN'S HOSPITAL (KA151)",
-      "tc": "香港兒童醫院 (KA151)",
-      "sc": "香港儿童医院 (KA151)"
-    },
-    "lat": 22.315795,
-    "lng": 114.20988
   },
   "CTB:002403": {
     "stop_id": "002403",
@@ -69263,8 +69604,8 @@
       "tc": "大潭水塘 (北), 大潭道",
       "sc": "大潭水塘 (北), 大潭道"
     },
-    "lat": 22.246572512091,
-    "lng": 114.22116928053
+    "lat": 22.246545802091,
+    "lng": 114.22117045053
   },
   "CTB:002289": {
     "stop_id": "002289",
@@ -69527,8 +69868,8 @@
       "tc": "大潭郊野公園, 大潭道",
       "sc": "大潭郊野公园, 大潭道"
     },
-    "lat": 22.239578832091,
-    "lng": 114.22141702053
+    "lat": 22.239590912091,
+    "lng": 114.22141999053
   },
   "CTB:002292": {
     "stop_id": "002292",
@@ -69538,8 +69879,8 @@
       "tc": "龜背灣, 大潭道",
       "sc": "龟背湾, 大潭道"
     },
-    "lat": 22.235392072091,
-    "lng": 114.22299117053
+    "lat": 22.235417572091,
+    "lng": 114.22298762053
   },
   "CTB:002285": {
     "stop_id": "002285",
@@ -69549,8 +69890,8 @@
       "tc": "美國會所, 大潭道",
       "sc": "美国会所, 大潭道"
     },
-    "lat": 22.227573492091,
-    "lng": 114.21743192053
+    "lat": 22.227604522091,
+    "lng": 114.21744399053
   },
   "CTB:002284": {
     "stop_id": "002284",
@@ -71917,6 +72258,17 @@
     "lat": 22.315110132091,
     "lng": 114.20584970053
   },
+  "CTB:004000": {
+    "stop_id": "004000",
+    "company": "CTB",
+    "name": {
+      "en": "Kai Tak Hospital Oncology Block, Shing Cheong Road",
+      "tc": "啟德醫院腫瘤科大樓, 承昌道",
+      "sc": "启德医院肿瘤科大楼, 承昌道"
+    },
+    "lat": 22.317605992091,
+    "lng": 114.20737372053
+  },
   "CTB:003534": {
     "stop_id": "003534",
     "company": "CTB",
@@ -71982,6 +72334,28 @@
     },
     "lat": 22.311892072091,
     "lng": 114.20758235053
+  },
+  "CTB:003999": {
+    "stop_id": "003999",
+    "company": "CTB",
+    "name": {
+      "en": "Kai Tak Hospital SOP Clinic Block, Shing Cheong Road",
+      "tc": "啟德醫院專科門診大樓, 承昌道",
+      "sc": "启德医院专科门诊大楼, 承昌道"
+    },
+    "lat": 22.318320402091,
+    "lng": 114.20665734053
+  },
+  "CTB:003521": {
+    "stop_id": "003521",
+    "company": "CTB",
+    "name": {
+      "en": "Hong Kong Children's Hospital, Shing Cheong Road",
+      "tc": "香港兒童醫院, 承昌道",
+      "sc": "香港儿童医院, 承昌道"
+    },
+    "lat": 22.315758722091,
+    "lng": 114.20987968053
   },
   "CTB:003901": {
     "stop_id": "003901",
@@ -72064,9 +72438,9 @@
     "stop_id": "003934",
     "company": "CTB",
     "name": {
-      "en": "Kai Tak Light Public Housing, Olympic Avenue",
-      "tc": "啟德簡約公屋, 世運道",
-      "sc": "启德简约公屋, 世运道"
+      "en": "Kai Tak (Olympic Avenue)",
+      "tc": "啟德(世運道)",
+      "sc": "启德(世运道)"
     },
     "lat": 22.330305552091,
     "lng": 114.19478573053
@@ -72324,17 +72698,6 @@
     "lat": 22.298347052091,
     "lng": 114.17555202053
   },
-  "CTB:001417": {
-    "stop_id": "001417",
-    "company": "CTB",
-    "name": {
-      "en": "Granville Road, Chatham Road South",
-      "tc": "加連威老道, 漆咸道南",
-      "sc": "加连威老道, 漆咸道南"
-    },
-    "lat": 22.299906172091,
-    "lng": 114.17586667053
-  },
   "CTB:001418": {
     "stop_id": "001418",
     "company": "CTB",
@@ -72346,17 +72709,6 @@
     "lat": 22.301322912091,
     "lng": 114.17631538053
   },
-  "CTB:001421": {
-    "stop_id": "001421",
-    "company": "CTB",
-    "name": {
-      "en": "",
-      "tc": "",
-      "sc": ""
-    },
-    "lat": null,
-    "lng": null
-  },
   "CTB:001810": {
     "stop_id": "001810",
     "company": "CTB",
@@ -72367,39 +72719,6 @@
     },
     "lat": 22.321440002091,
     "lng": 114.19356059053
-  },
-  "CTB:004000": {
-    "stop_id": "004000",
-    "company": "CTB",
-    "name": {
-      "en": "",
-      "tc": "",
-      "sc": ""
-    },
-    "lat": null,
-    "lng": null
-  },
-  "CTB:003999": {
-    "stop_id": "003999",
-    "company": "CTB",
-    "name": {
-      "en": "",
-      "tc": "",
-      "sc": ""
-    },
-    "lat": null,
-    "lng": null
-  },
-  "CTB:003521": {
-    "stop_id": "003521",
-    "company": "CTB",
-    "name": {
-      "en": "Hong Kong Children's Hospital, Shing Cheong Road",
-      "tc": "香港兒童醫院, 承昌道",
-      "sc": "香港儿童医院, 承昌道"
-    },
-    "lat": 22.315758722091,
-    "lng": 114.20987968053
   },
   "CTB:003911": {
     "stop_id": "003911",
@@ -74829,8 +75148,8 @@
       "tc": "數碼港",
       "sc": "数码港"
     },
-    "lat": 22.261996412091,
-    "lng": 114.13067455053
+    "lat": 22.261985192091,
+    "lng": 114.13067185053
   },
   "CTB:002393": {
     "stop_id": "002393",
@@ -75140,16 +75459,401 @@
     "lat": 22.274060082091,
     "lng": 114.12987976053
   },
-  "CTB:002186": {
-    "stop_id": "002186",
+  "CTB:002157": {
+    "stop_id": "002157",
     "company": "CTB",
     "name": {
-      "en": "Chi Fu",
-      "tc": "置富",
-      "sc": "置富"
+      "en": "St. Peter's Church, Aberdeen Main Road",
+      "tc": "聖伯多祿堂, 香港仔大道",
+      "sc": "圣伯多禄堂, 香港仔大道"
     },
-    "lat": 22.257522932091,
-    "lng": 114.13911822053
+    "lat": 22.249804272091,
+    "lng": 114.15368046053
+  },
+  "CTB:002158": {
+    "stop_id": "002158",
+    "company": "CTB",
+    "name": {
+      "en": "Yue Fai Road, Aberdeen Main Road",
+      "tc": "漁暉道, 香港仔大道",
+      "sc": "渔晖道, 香港仔大道"
+    },
+    "lat": 22.248585702091,
+    "lng": 114.15575506053
+  },
+  "CTB:002162": {
+    "stop_id": "002162",
+    "company": "CTB",
+    "name": {
+      "en": "Aberdeen Wholesale Fish Market, Aberdeen Praya Road",
+      "tc": "香港仔魚類批發市場, 香港仔海傍道",
+      "sc": "香港仔鱼类批发市场, 香港仔海傍道"
+    },
+    "lat": 22.247980382091,
+    "lng": 114.15243083053
+  },
+  "CTB:002163": {
+    "stop_id": "002163",
+    "company": "CTB",
+    "name": {
+      "en": "Tin Wan Street, Aberdeen Praya Road",
+      "tc": "田灣街, 香港仔海傍道",
+      "sc": "田湾街, 香港仔海傍道"
+    },
+    "lat": 22.248632712091,
+    "lng": 114.14809052053
+  },
+  "CTB:002261": {
+    "stop_id": "002261",
+    "company": "CTB",
+    "name": {
+      "en": "Wah Fu Road, Shek Pai Wan Road",
+      "tc": "華富道, 石排灣道",
+      "sc": "华富道, 石排湾道"
+    },
+    "lat": 22.252557142091,
+    "lng": 114.14024833053
+  },
+  "CTB:002328": {
+    "stop_id": "002328",
+    "company": "CTB",
+    "name": {
+      "en": "Pok Fu Lam Fire Station, Victoria Road",
+      "tc": "薄扶林消防局, 域多利道",
+      "sc": "薄扶林消防局, 域多利道"
+    },
+    "lat": 22.253384012091,
+    "lng": 114.13827310053
+  },
+  "CTB:002321": {
+    "stop_id": "002321",
+    "company": "CTB",
+    "name": {
+      "en": "Victoria Road Sitting-out Area, Victoria Road",
+      "tc": "域多利道休憩處, 域多利道",
+      "sc": "域多利道休憩处, 域多利道"
+    },
+    "lat": 22.259979912091,
+    "lng": 114.13342839053
+  },
+  "CTB:002322": {
+    "stop_id": "002322",
+    "company": "CTB",
+    "name": {
+      "en": "Upper Baguio Villa, Victoria Road",
+      "tc": "上碧瑤灣, 域多利道",
+      "sc": "上碧瑶湾, 域多利道"
+    },
+    "lat": 22.262056762091,
+    "lng": 114.13293330053
+  },
+  "CTB:002665": {
+    "stop_id": "002665",
+    "company": "CTB",
+    "name": {
+      "en": "Lower Baguio Villa, Victoria Road",
+      "tc": "下碧瑤灣, 域多利道",
+      "sc": "下碧瑶湾, 域多利道"
+    },
+    "lat": 22.263931012091,
+    "lng": 114.13152407053
+  },
+  "CTB:002330": {
+    "stop_id": "002330",
+    "company": "CTB",
+    "name": {
+      "en": "HKU Li Ka Shing Faculty of Medicine, Victoria Road",
+      "tc": "香港大學李嘉誠醫學院, 域多利道",
+      "sc": "香港大学李嘉诚医学院, 域多利道"
+    },
+    "lat": 22.266852632091,
+    "lng": 114.12929998053
+  },
+  "CTB:002324": {
+    "stop_id": "002324",
+    "company": "CTB",
+    "name": {
+      "en": "Sassoon Road, Victoria Road",
+      "tc": "沙宣道, 域多利道",
+      "sc": "沙宣道, 域多利道"
+    },
+    "lat": 22.267312992091,
+    "lng": 114.12747267053
+  },
+  "CTB:002325": {
+    "stop_id": "002325",
+    "company": "CTB",
+    "name": {
+      "en": "Bisney Road, Victoria Road",
+      "tc": "碧荔道, 域多利道",
+      "sc": "碧荔道, 域多利道"
+    },
+    "lat": 22.268929922091,
+    "lng": 114.12623525053
+  },
+  "CTB:002331": {
+    "stop_id": "002331",
+    "company": "CTB",
+    "name": {
+      "en": "HKCCCU Pok Fu Lam Road Cemetery, Victoria Road",
+      "tc": "香港華人基督教聯會薄扶林道墳場, 域多利道",
+      "sc": "香港华人基督教联会薄扶林道坟场, 域多利道"
+    },
+    "lat": 22.271322722091,
+    "lng": 114.12693412053
+  },
+  "CTB:002306": {
+    "stop_id": "002306",
+    "company": "CTB",
+    "name": {
+      "en": "West Island School, Victoria Road",
+      "tc": "西島中學, 域多利道",
+      "sc": "西岛中学, 域多利道"
+    },
+    "lat": 22.272834062091,
+    "lng": 114.12532081053
+  },
+  "CTB:002326": {
+    "stop_id": "002326",
+    "company": "CTB",
+    "name": {
+      "en": "Blarney Stone Villas, Victoria Road",
+      "tc": "碧苑, 域多利道",
+      "sc": "碧苑, 域多利道"
+    },
+    "lat": 22.272249972091,
+    "lng": 114.12078745053
+  },
+  "CTB:001159": {
+    "stop_id": "001159",
+    "company": "CTB",
+    "name": {
+      "en": "Mount Davis Path, Victoria Road",
+      "tc": "摩星嶺徑, 域多利道",
+      "sc": "摩星岭径, 域多利道"
+    },
+    "lat": 22.275971142091,
+    "lng": 114.11742984053
+  },
+  "CTB:001160": {
+    "stop_id": "001160",
+    "company": "CTB",
+    "name": {
+      "en": "Caritas Jockey Club Hostel, Victoria Road",
+      "tc": "明愛賽馬會宿舍, 域多利道",
+      "sc": "明爱赛马会宿舍, 域多利道"
+    },
+    "lat": 22.279145082091,
+    "lng": 114.11783921053
+  },
+  "CTB:001161": {
+    "stop_id": "001161",
+    "company": "CTB",
+    "name": {
+      "en": "Island West Transfer Station, Victoria Road",
+      "tc": "港島西廢物轉運站, 域多利道",
+      "sc": "港岛西废物转运站, 域多利道"
+    },
+    "lat": 22.280930762091,
+    "lng": 114.11960259053
+  },
+  "CTB:001162": {
+    "stop_id": "001162",
+    "company": "CTB",
+    "name": {
+      "en": "Sai Ning Street, Victoria Road",
+      "tc": "西寧街, 域多利道",
+      "sc": "西宁街, 域多利道"
+    },
+    "lat": 22.281730232091,
+    "lng": 114.12264206053
+  },
+  "CTB:001180": {
+    "stop_id": "001180",
+    "company": "CTB",
+    "name": {
+      "en": "General Post Office, Connaught Place",
+      "tc": "郵政總局, 康樂廣場",
+      "sc": "邮政总局, 康乐广场"
+    },
+    "lat": 22.283258052091,
+    "lng": 114.15961761053
+  },
+  "CTB:001139": {
+    "stop_id": "001139",
+    "company": "CTB",
+    "name": {
+      "en": "Admiralty - MTR Exit B",
+      "tc": "金鐘 - 港鐵 B 出口",
+      "sc": "金钟 - 港铁 B 出口"
+    },
+    "lat": 22.279768672091,
+    "lng": 114.16383960053
+  },
+  "CTB:001165": {
+    "stop_id": "001165",
+    "company": "CTB",
+    "name": {
+      "en": "Serene Court, Victoria Road",
+      "tc": "西寧閣, 域多利道",
+      "sc": "西宁阁, 域多利道"
+    },
+    "lat": 22.281063612091,
+    "lng": 114.12080737053
+  },
+  "CTB:001166": {
+    "stop_id": "001166",
+    "company": "CTB",
+    "name": {
+      "en": "Island West Transfer Station, Victoria Road",
+      "tc": "港島西廢物轉運站, 域多利道",
+      "sc": "港岛西废物转运站, 域多利道"
+    },
+    "lat": 22.280253272091,
+    "lng": 114.11868249053
+  },
+  "CTB:001167": {
+    "stop_id": "001167",
+    "company": "CTB",
+    "name": {
+      "en": "Caritas Jockey Club Hostel, Victoria Road",
+      "tc": "明愛賽馬會宿舍, 域多利道",
+      "sc": "明爱赛马会宿舍, 域多利道"
+    },
+    "lat": 22.278603752091,
+    "lng": 114.11778908053
+  },
+  "CTB:001168": {
+    "stop_id": "001168",
+    "company": "CTB",
+    "name": {
+      "en": "Mount Davis Path, Victoria Road",
+      "tc": "摩星嶺徑, 域多利道",
+      "sc": "摩星岭径, 域多利道"
+    },
+    "lat": 22.275760642091,
+    "lng": 114.11752426053
+  },
+  "CTB:002384": {
+    "stop_id": "002384",
+    "company": "CTB",
+    "name": {
+      "en": "Mount Davis Road, Victoria Road",
+      "tc": "摩星嶺道, 域多利道",
+      "sc": "摩星岭道, 域多利道"
+    },
+    "lat": 22.274017992091,
+    "lng": 114.11853701053
+  },
+  "CTB:002307": {
+    "stop_id": "002307",
+    "company": "CTB",
+    "name": {
+      "en": "Villa Cecil, Victoria Road",
+      "tc": "趙苑, 域多利道",
+      "sc": "赵苑, 域多利道"
+    },
+    "lat": 22.272909692091,
+    "lng": 114.12020697053
+  },
+  "CTB:002308": {
+    "stop_id": "002308",
+    "company": "CTB",
+    "name": {
+      "en": "Bayview Court, Victoria Road",
+      "tc": "碧海閣, 域多利道",
+      "sc": "碧海阁, 域多利道"
+    },
+    "lat": 22.272584662091,
+    "lng": 114.12439291053
+  },
+  "CTB:002309": {
+    "stop_id": "002309",
+    "company": "CTB",
+    "name": {
+      "en": "West Island School, Victoria Road",
+      "tc": "西島中學, 域多利道",
+      "sc": "西岛中学, 域多利道"
+    },
+    "lat": 22.273204742091,
+    "lng": 114.12627389053
+  },
+  "CTB:002310": {
+    "stop_id": "002310",
+    "company": "CTB",
+    "name": {
+      "en": "HKCCCU Pok Fu Lam Road Cemetery, Victoria Road",
+      "tc": "香港華人基督教聯會薄扶林道墳場, 域多利道",
+      "sc": "香港华人基督教联会薄扶林道坟场, 域多利道"
+    },
+    "lat": 22.272365942091,
+    "lng": 114.12777663053
+  },
+  "CTB:002327": {
+    "stop_id": "002327",
+    "company": "CTB",
+    "name": {
+      "en": "Scenic Villas, Victoria Road",
+      "tc": "美景臺, 域多利道",
+      "sc": "美景台, 域多利道"
+    },
+    "lat": 22.270093092091,
+    "lng": 114.12552732053
+  },
+  "CTB:002311": {
+    "stop_id": "002311",
+    "company": "CTB",
+    "name": {
+      "en": "Bisney Road, Victoria Road",
+      "tc": "碧荔道, 域多利道",
+      "sc": "碧荔道, 域多利道"
+    },
+    "lat": 22.268918162091,
+    "lng": 114.12638584053
+  },
+  "CTB:002312": {
+    "stop_id": "002312",
+    "company": "CTB",
+    "name": {
+      "en": "Sassoon Road, Victoria Road",
+      "tc": "沙宣道, 域多利道",
+      "sc": "沙宣道, 域多利道"
+    },
+    "lat": 22.266569262091,
+    "lng": 114.12795148053
+  },
+  "CTB:002313": {
+    "stop_id": "002313",
+    "company": "CTB",
+    "name": {
+      "en": "HKU Li Ka Shing Faculty of Medicine, Victoria Road",
+      "tc": "香港大學李嘉誠醫學院, 域多利道",
+      "sc": "香港大学李嘉诚医学院, 域多利道"
+    },
+    "lat": 22.267142282091,
+    "lng": 114.12945192053
+  },
+  "CTB:002314": {
+    "stop_id": "002314",
+    "company": "CTB",
+    "name": {
+      "en": "Lower Baguio Villa, Victoria Road",
+      "tc": "下碧瑤灣, 域多利道",
+      "sc": "下碧瑶湾, 域多利道"
+    },
+    "lat": 22.263659832091,
+    "lng": 114.13224890053
+  },
+  "CTB:002315": {
+    "stop_id": "002315",
+    "company": "CTB",
+    "name": {
+      "en": "Upper Baguio Villa, Victoria Road",
+      "tc": "上碧瑤灣, 域多利道",
+      "sc": "上碧瑶湾, 域多利道"
+    },
+    "lat": 22.261642702091,
+    "lng": 114.13374007053
   },
   "CTB:002260": {
     "stop_id": "002260",
@@ -75172,6 +75876,17 @@
     },
     "lat": 22.249420192091,
     "lng": 114.14841511053
+  },
+  "CTB:002186": {
+    "stop_id": "002186",
+    "company": "CTB",
+    "name": {
+      "en": "Chi Fu",
+      "tc": "置富",
+      "sc": "置富"
+    },
+    "lat": 22.257522932091,
+    "lng": 114.13911822053
   },
   "CTB:002363": {
     "stop_id": "002363",
@@ -75448,39 +76163,6 @@
     "lat": 22.247000182091,
     "lng": 114.15578260053
   },
-  "CTB:002162": {
-    "stop_id": "002162",
-    "company": "CTB",
-    "name": {
-      "en": "Aberdeen Wholesale Fish Market, Aberdeen Praya Road",
-      "tc": "香港仔魚類批發市場, 香港仔海傍道",
-      "sc": "香港仔鱼类批发市场, 香港仔海傍道"
-    },
-    "lat": 22.247980382091,
-    "lng": 114.15243083053
-  },
-  "CTB:002163": {
-    "stop_id": "002163",
-    "company": "CTB",
-    "name": {
-      "en": "Tin Wan Street, Aberdeen Praya Road",
-      "tc": "田灣街, 香港仔海傍道",
-      "sc": "田湾街, 香港仔海傍道"
-    },
-    "lat": 22.248632712091,
-    "lng": 114.14809052053
-  },
-  "CTB:002261": {
-    "stop_id": "002261",
-    "company": "CTB",
-    "name": {
-      "en": "Wah Fu Road, Shek Pai Wan Road",
-      "tc": "華富道, 石排灣道",
-      "sc": "华富道, 石排湾道"
-    },
-    "lat": 22.252557142091,
-    "lng": 114.14024833053
-  },
   "CTB:002404": {
     "stop_id": "002404",
     "company": "CTB",
@@ -75491,17 +76173,6 @@
     },
     "lat": 22.278043882091,
     "lng": 114.18120688053
-  },
-  "CTB:002328": {
-    "stop_id": "002328",
-    "company": "CTB",
-    "name": {
-      "en": "Pok Fu Lam Fire Station, Victoria Road",
-      "tc": "薄扶林消防局, 域多利道",
-      "sc": "薄扶林消防局, 域多利道"
-    },
-    "lat": 22.253384012091,
-    "lng": 114.13827310053
   },
   "CTB:002341": {
     "stop_id": "002341",
@@ -75931,28 +76602,6 @@
     },
     "lat": 22.249678472091,
     "lng": 114.14790169053
-  },
-  "CTB:002157": {
-    "stop_id": "002157",
-    "company": "CTB",
-    "name": {
-      "en": "St. Peter's Church, Aberdeen Main Road",
-      "tc": "聖伯多祿堂, 香港仔大道",
-      "sc": "圣伯多禄堂, 香港仔大道"
-    },
-    "lat": 22.249804272091,
-    "lng": 114.15368046053
-  },
-  "CTB:002158": {
-    "stop_id": "002158",
-    "company": "CTB",
-    "name": {
-      "en": "Yue Fai Road, Aberdeen Main Road",
-      "tc": "漁暉道, 香港仔大道",
-      "sc": "渔晖道, 香港仔大道"
-    },
-    "lat": 22.248585702091,
-    "lng": 114.15575506053
   },
   "CTB:002224": {
     "stop_id": "002224",
@@ -76614,16 +77263,16 @@
     "lat": 22.414752742091,
     "lng": 113.97739414053
   },
-  "CTB:003760": {
-    "stop_id": "003760",
+  "CTB:004004": {
+    "stop_id": "004004",
     "company": "CTB",
     "name": {
       "en": "Ching Tin Estate",
       "tc": "菁田邨",
       "sc": "菁田邨"
     },
-    "lat": 22.412946052091,
-    "lng": 113.97222620053
+    "lat": 22.413090922091,
+    "lng": 113.97230630053
   },
   "CTB:003767": {
     "stop_id": "003767",
@@ -76657,6 +77306,17 @@
     },
     "lat": 22.412257952091,
     "lng": 113.97055056053
+  },
+  "CTB:003760": {
+    "stop_id": "003760",
+    "company": "CTB",
+    "name": {
+      "en": "Ching Tin Estate",
+      "tc": "菁田邨",
+      "sc": "菁田邨"
+    },
+    "lat": 22.412946052091,
+    "lng": 113.97222620053
   },
   "CTB:003754": {
     "stop_id": "003754",
@@ -78506,50 +79166,6 @@
     "lat": 22.287186722091,
     "lng": 114.13806360053
   },
-  "CTB:001165": {
-    "stop_id": "001165",
-    "company": "CTB",
-    "name": {
-      "en": "Serene Court, Victoria Road",
-      "tc": "西寧閣, 域多利道",
-      "sc": "西宁阁, 域多利道"
-    },
-    "lat": 22.281063612091,
-    "lng": 114.12080737053
-  },
-  "CTB:001166": {
-    "stop_id": "001166",
-    "company": "CTB",
-    "name": {
-      "en": "Island West Transfer Station, Victoria Road",
-      "tc": "港島西廢物轉運站, 域多利道",
-      "sc": "港岛西废物转运站, 域多利道"
-    },
-    "lat": 22.280253272091,
-    "lng": 114.11868249053
-  },
-  "CTB:001167": {
-    "stop_id": "001167",
-    "company": "CTB",
-    "name": {
-      "en": "Caritas Jockey Club Hostel, Victoria Road",
-      "tc": "明愛賽馬會宿舍, 域多利道",
-      "sc": "明爱赛马会宿舍, 域多利道"
-    },
-    "lat": 22.278603752091,
-    "lng": 114.11778908053
-  },
-  "CTB:001168": {
-    "stop_id": "001168",
-    "company": "CTB",
-    "name": {
-      "en": "Mount Davis Path, Victoria Road",
-      "tc": "摩星嶺徑, 域多利道",
-      "sc": "摩星岭径, 域多利道"
-    },
-    "lat": 22.275760642091,
-    "lng": 114.11752426053
-  },
   "CTB:001186": {
     "stop_id": "001186",
     "company": "CTB",
@@ -78560,50 +79176,6 @@
     },
     "lat": 22.274918352091,
     "lng": 114.11793506053
-  },
-  "CTB:001159": {
-    "stop_id": "001159",
-    "company": "CTB",
-    "name": {
-      "en": "Mount Davis Path, Victoria Road",
-      "tc": "摩星嶺徑, 域多利道",
-      "sc": "摩星岭径, 域多利道"
-    },
-    "lat": 22.275971142091,
-    "lng": 114.11742984053
-  },
-  "CTB:001160": {
-    "stop_id": "001160",
-    "company": "CTB",
-    "name": {
-      "en": "Caritas Jockey Club Hostel, Victoria Road",
-      "tc": "明愛賽馬會宿舍, 域多利道",
-      "sc": "明爱赛马会宿舍, 域多利道"
-    },
-    "lat": 22.279145082091,
-    "lng": 114.11783921053
-  },
-  "CTB:001161": {
-    "stop_id": "001161",
-    "company": "CTB",
-    "name": {
-      "en": "Island West Transfer Station, Victoria Road",
-      "tc": "港島西廢物轉運站, 域多利道",
-      "sc": "港岛西废物转运站, 域多利道"
-    },
-    "lat": 22.280930762091,
-    "lng": 114.11960259053
-  },
-  "CTB:001162": {
-    "stop_id": "001162",
-    "company": "CTB",
-    "name": {
-      "en": "Sai Ning Street, Victoria Road",
-      "tc": "西寧街, 域多利道",
-      "sc": "西宁街, 域多利道"
-    },
-    "lat": 22.281730232091,
-    "lng": 114.12264206053
   },
   "CTB:002408": {
     "stop_id": "002408",
@@ -78659,17 +79231,6 @@
     },
     "lat": 22.285065892091,
     "lng": 114.13168092053
-  },
-  "CTB:001180": {
-    "stop_id": "001180",
-    "company": "CTB",
-    "name": {
-      "en": "General Post Office, Connaught Place",
-      "tc": "郵政總局, 康樂廣場",
-      "sc": "邮政总局, 康乐广场"
-    },
-    "lat": 22.283258052091,
-    "lng": 114.15961761053
   },
   "CTB:002180": {
     "stop_id": "002180",
@@ -79341,17 +79902,6 @@
     },
     "lat": 22.277412402091,
     "lng": 114.18097147053
-  },
-  "CTB:001139": {
-    "stop_id": "001139",
-    "company": "CTB",
-    "name": {
-      "en": "Admiralty - MTR Exit B",
-      "tc": "金鐘 - 港鐵 B 出口",
-      "sc": "金钟 - 港铁 B 出口"
-    },
-    "lat": 22.279768672091,
-    "lng": 114.16383960053
   },
   "CTB:003663": {
     "stop_id": "003663",
@@ -80263,8 +80813,8 @@
       "tc": "MEGA Plus 數據中心, 環保大道",
       "sc": "MEGA Plus 数据中心, 环保大道"
     },
-    "lat": 22.295046272091,
-    "lng": 114.27357326053
+    "lat": 22.294330742091,
+    "lng": 114.27361222053
   },
   "CTB:003785": {
     "stop_id": "003785",
@@ -80274,8 +80824,8 @@
       "tc": "日出康城晉海, 環澳路",
       "sc": "日出康城晋海, 环澳路"
     },
-    "lat": 22.291945652091,
-    "lng": 114.27221086053
+    "lat": 22.291941162091,
+    "lng": 114.27204328053
   },
   "CTB:001047": {
     "stop_id": "001047",
@@ -85759,12 +86309,12 @@
     "stop_id": "003989",
     "company": "CTB",
     "name": {
-      "en": "",
-      "tc": "",
-      "sc": ""
+      "en": "Tsing Fat Street Light Public Housing",
+      "tc": "青發街簡約公屋",
+      "sc": "青发街简约公屋"
     },
-    "lat": null,
-    "lng": null
+    "lat": 22.363659902091,
+    "lng": 113.99984147053
   },
   "CTB:002206": {
     "stop_id": "002206",
@@ -86434,8 +86984,8 @@
       "tc": "天水圍站 - 聚星樓, 天福路",
       "sc": "天水围站 - 聚星楼, 天福路"
     },
-    "lat": 22.449227892091,
-    "lng": 114.00552973053
+    "lat": 22.449265272091,
+    "lng": 114.00547263053
   },
   "CTB:002000": {
     "stop_id": "002000",
@@ -86800,193 +87350,6 @@
     "lat": 22.319756552091,
     "lng": 114.16747074053
   },
-  "CTB:002384": {
-    "stop_id": "002384",
-    "company": "CTB",
-    "name": {
-      "en": "Mount Davis Road, Victoria Road",
-      "tc": "摩星嶺道, 域多利道",
-      "sc": "摩星岭道, 域多利道"
-    },
-    "lat": 22.274017992091,
-    "lng": 114.11853701053
-  },
-  "CTB:002307": {
-    "stop_id": "002307",
-    "company": "CTB",
-    "name": {
-      "en": "Villa Cecil, Victoria Road",
-      "tc": "趙苑, 域多利道",
-      "sc": "赵苑, 域多利道"
-    },
-    "lat": 22.272909692091,
-    "lng": 114.12020697053
-  },
-  "CTB:002308": {
-    "stop_id": "002308",
-    "company": "CTB",
-    "name": {
-      "en": "Bayview Court, Victoria Road",
-      "tc": "碧海閣, 域多利道",
-      "sc": "碧海阁, 域多利道"
-    },
-    "lat": 22.272584662091,
-    "lng": 114.12439291053
-  },
-  "CTB:002309": {
-    "stop_id": "002309",
-    "company": "CTB",
-    "name": {
-      "en": "West Island School, Victoria Road",
-      "tc": "西島中學, 域多利道",
-      "sc": "西岛中学, 域多利道"
-    },
-    "lat": 22.273204742091,
-    "lng": 114.12627389053
-  },
-  "CTB:002310": {
-    "stop_id": "002310",
-    "company": "CTB",
-    "name": {
-      "en": "HKCCCU Pok Fu Lam Road Cemetery, Victoria Road",
-      "tc": "香港華人基督教聯會薄扶林道墳場, 域多利道",
-      "sc": "香港华人基督教联会薄扶林道坟场, 域多利道"
-    },
-    "lat": 22.272365942091,
-    "lng": 114.12777663053
-  },
-  "CTB:002327": {
-    "stop_id": "002327",
-    "company": "CTB",
-    "name": {
-      "en": "Scenic Villas, Victoria Road",
-      "tc": "美景臺, 域多利道",
-      "sc": "美景台, 域多利道"
-    },
-    "lat": 22.270093092091,
-    "lng": 114.12552732053
-  },
-  "CTB:002311": {
-    "stop_id": "002311",
-    "company": "CTB",
-    "name": {
-      "en": "Bisney Road, Victoria Road",
-      "tc": "碧荔道, 域多利道",
-      "sc": "碧荔道, 域多利道"
-    },
-    "lat": 22.268918162091,
-    "lng": 114.12638584053
-  },
-  "CTB:002312": {
-    "stop_id": "002312",
-    "company": "CTB",
-    "name": {
-      "en": "Sassoon Road, Victoria Road",
-      "tc": "沙宣道, 域多利道",
-      "sc": "沙宣道, 域多利道"
-    },
-    "lat": 22.266569262091,
-    "lng": 114.12795148053
-  },
-  "CTB:002313": {
-    "stop_id": "002313",
-    "company": "CTB",
-    "name": {
-      "en": "HKU Li Ka Shing Faculty of Medicine, Victoria Road",
-      "tc": "香港大學李嘉誠醫學院, 域多利道",
-      "sc": "香港大学李嘉诚医学院, 域多利道"
-    },
-    "lat": 22.267142282091,
-    "lng": 114.12945192053
-  },
-  "CTB:002314": {
-    "stop_id": "002314",
-    "company": "CTB",
-    "name": {
-      "en": "Lower Baguio Villa, Victoria Road",
-      "tc": "下碧瑤灣, 域多利道",
-      "sc": "下碧瑶湾, 域多利道"
-    },
-    "lat": 22.263659832091,
-    "lng": 114.13224890053
-  },
-  "CTB:002315": {
-    "stop_id": "002315",
-    "company": "CTB",
-    "name": {
-      "en": "Upper Baguio Villa, Victoria Road",
-      "tc": "上碧瑤灣, 域多利道",
-      "sc": "上碧瑶湾, 域多利道"
-    },
-    "lat": 22.261642702091,
-    "lng": 114.13374007053
-  },
-  "CTB:002321": {
-    "stop_id": "002321",
-    "company": "CTB",
-    "name": {
-      "en": "Victoria Road Sitting-out Area, Victoria Road",
-      "tc": "域多利道休憩處, 域多利道",
-      "sc": "域多利道休憩处, 域多利道"
-    },
-    "lat": 22.259979912091,
-    "lng": 114.13342839053
-  },
-  "CTB:002322": {
-    "stop_id": "002322",
-    "company": "CTB",
-    "name": {
-      "en": "Upper Baguio Villa, Victoria Road",
-      "tc": "上碧瑤灣, 域多利道",
-      "sc": "上碧瑶湾, 域多利道"
-    },
-    "lat": 22.262056762091,
-    "lng": 114.13293330053
-  },
-  "CTB:002665": {
-    "stop_id": "002665",
-    "company": "CTB",
-    "name": {
-      "en": "Lower Baguio Villa, Victoria Road",
-      "tc": "下碧瑤灣, 域多利道",
-      "sc": "下碧瑶湾, 域多利道"
-    },
-    "lat": 22.263931012091,
-    "lng": 114.13152407053
-  },
-  "CTB:002330": {
-    "stop_id": "002330",
-    "company": "CTB",
-    "name": {
-      "en": "HKU Li Ka Shing Faculty of Medicine, Victoria Road",
-      "tc": "香港大學李嘉誠醫學院, 域多利道",
-      "sc": "香港大学李嘉诚医学院, 域多利道"
-    },
-    "lat": 22.266852632091,
-    "lng": 114.12929998053
-  },
-  "CTB:002324": {
-    "stop_id": "002324",
-    "company": "CTB",
-    "name": {
-      "en": "Sassoon Road, Victoria Road",
-      "tc": "沙宣道, 域多利道",
-      "sc": "沙宣道, 域多利道"
-    },
-    "lat": 22.267312992091,
-    "lng": 114.12747267053
-  },
-  "CTB:002325": {
-    "stop_id": "002325",
-    "company": "CTB",
-    "name": {
-      "en": "Bisney Road, Victoria Road",
-      "tc": "碧荔道, 域多利道",
-      "sc": "碧荔道, 域多利道"
-    },
-    "lat": 22.268929922091,
-    "lng": 114.12623525053
-  },
   "CTB:002332": {
     "stop_id": "002332",
     "company": "CTB",
@@ -86998,17 +87361,6 @@
     "lat": 22.270355812091,
     "lng": 114.12545522053
   },
-  "CTB:002331": {
-    "stop_id": "002331",
-    "company": "CTB",
-    "name": {
-      "en": "HKCCCU Pok Fu Lam Road Cemetery, Victoria Road",
-      "tc": "香港華人基督教聯會薄扶林道墳場, 域多利道",
-      "sc": "香港华人基督教联会薄扶林道坟场, 域多利道"
-    },
-    "lat": 22.271322722091,
-    "lng": 114.12693412053
-  },
   "CTB:002395": {
     "stop_id": "002395",
     "company": "CTB",
@@ -87019,28 +87371,6 @@
     },
     "lat": 22.272764882091,
     "lng": 114.12750132053
-  },
-  "CTB:002306": {
-    "stop_id": "002306",
-    "company": "CTB",
-    "name": {
-      "en": "West Island School, Victoria Road",
-      "tc": "西島中學, 域多利道",
-      "sc": "西岛中学, 域多利道"
-    },
-    "lat": 22.272834062091,
-    "lng": 114.12532081053
-  },
-  "CTB:002326": {
-    "stop_id": "002326",
-    "company": "CTB",
-    "name": {
-      "en": "Blarney Stone Villas, Victoria Road",
-      "tc": "碧苑, 域多利道",
-      "sc": "碧苑, 域多利道"
-    },
-    "lat": 22.272249972091,
-    "lng": 114.12078745053
   },
   "CTB:002692": {
     "stop_id": "002692",
@@ -87096,215 +87426,6 @@
     },
     "lat": 22.251177632091,
     "lng": 114.17062008053
-  },
-  "CTB:003614": {
-    "stop_id": "003614",
-    "company": "CTB",
-    "name": {
-      "en": "Ko Po Tsuen, Kam Tin Road",
-      "tc": "高埔村, 錦田公路",
-      "sc": "高埔村, 锦田公路"
-    },
-    "lat": 22.440106362091,
-    "lng": 114.05630210053
-  },
-  "CTB:003615": {
-    "stop_id": "003615",
-    "company": "CTB",
-    "name": {
-      "en": "Ha Ko Po Tsuen, Kam Tin Road",
-      "tc": "下高埔村, 錦田公路",
-      "sc": "下高埔村, 锦田公路"
-    },
-    "lat": 22.441820762091,
-    "lng": 114.05261815053
-  },
-  "CTB:003616": {
-    "stop_id": "003616",
-    "company": "CTB",
-    "name": {
-      "en": "Au Tau, Kam Tin Road",
-      "tc": "凹頭, 錦田公路",
-      "sc": "凹头, 锦田公路"
-    },
-    "lat": 22.443118492091,
-    "lng": 114.05006839053
-  },
-  "CTB:003617": {
-    "stop_id": "003617",
-    "company": "CTB",
-    "name": {
-      "en": "Hung Mo Kiu, Castle Peak Road",
-      "tc": "紅毛橋, 青山公路",
-      "sc": "红毛桥, 青山公路"
-    },
-    "lat": 22.447108182091,
-    "lng": 114.04929821053
-  },
-  "CTB:003618": {
-    "stop_id": "003618",
-    "company": "CTB",
-    "name": {
-      "en": "Sha Po Tsuen, Castle Peak Road",
-      "tc": "沙埔村, 青山公路",
-      "sc": "沙埔村, 青山公路"
-    },
-    "lat": 22.451613822091,
-    "lng": 114.04972432053
-  },
-  "CTB:003619": {
-    "stop_id": "003619",
-    "company": "CTB",
-    "name": {
-      "en": "Fung Kat Heung, Castle Peak Road",
-      "tc": "逢吉鄉, 青山公路",
-      "sc": "逢吉乡, 青山公路"
-    },
-    "lat": 22.458328982091,
-    "lng": 114.05179036053
-  },
-  "CTB:003620": {
-    "stop_id": "003620",
-    "company": "CTB",
-    "name": {
-      "en": "Mo Fan Heung, Castle Peak Road",
-      "tc": "模範鄉, 青山公路",
-      "sc": "模范乡, 青山公路"
-    },
-    "lat": 22.460794142091,
-    "lng": 114.05259866053
-  },
-  "CTB:003621": {
-    "stop_id": "003621",
-    "company": "CTB",
-    "name": {
-      "en": "Pok Wai, Castle Peak Road",
-      "tc": "壆圍, 青山公路",
-      "sc": "壆围, 青山公路"
-    },
-    "lat": 22.463415752091,
-    "lng": 114.05319459053
-  },
-  "CTB:003622": {
-    "stop_id": "003622",
-    "company": "CTB",
-    "name": {
-      "en": "Tai Sang Wai, Castle Peak Road",
-      "tc": "大生圍, 青山公路",
-      "sc": "大生围, 青山公路"
-    },
-    "lat": 22.469268752091,
-    "lng": 114.05444975053
-  },
-  "CTB:003623": {
-    "stop_id": "003623",
-    "company": "CTB",
-    "name": {
-      "en": "San Tin",
-      "tc": "新田",
-      "sc": "新田"
-    },
-    "lat": 22.503013232091,
-    "lng": 114.08237315053
-  },
-  "CTB:003624": {
-    "stop_id": "003624",
-    "company": "CTB",
-    "name": {
-      "en": "Long Ha, San Tam Road",
-      "tc": "朗廈, 新潭路",
-      "sc": "朗厦, 新潭路"
-    },
-    "lat": 22.469465062091,
-    "lng": 114.05547991053
-  },
-  "CTB:003625": {
-    "stop_id": "003625",
-    "company": "CTB",
-    "name": {
-      "en": "Pok Wai, San Tam Road",
-      "tc": "壆圍, 新潭路",
-      "sc": "壆围, 新潭路"
-    },
-    "lat": 22.464765622091,
-    "lng": 114.05402660053
-  },
-  "CTB:003626": {
-    "stop_id": "003626",
-    "company": "CTB",
-    "name": {
-      "en": "Mo Fan Heung, San Tam Road",
-      "tc": "模範鄉, 新潭路",
-      "sc": "模范乡, 新潭路"
-    },
-    "lat": 22.461706202091,
-    "lng": 114.05328358053
-  },
-  "CTB:003627": {
-    "stop_id": "003627",
-    "company": "CTB",
-    "name": {
-      "en": "Fung Kat Heung, San Tam Road",
-      "tc": "逢吉鄉, 新潭路",
-      "sc": "逢吉乡, 新潭路"
-    },
-    "lat": 22.457339162091,
-    "lng": 114.05239174053
-  },
-  "CTB:003628": {
-    "stop_id": "003628",
-    "company": "CTB",
-    "name": {
-      "en": "Sha Po Tsuen, San Tam Road",
-      "tc": "沙埔村, 新潭路",
-      "sc": "沙埔村, 新潭路"
-    },
-    "lat": 22.452554762091,
-    "lng": 114.05096145053
-  },
-  "CTB:003629": {
-    "stop_id": "003629",
-    "company": "CTB",
-    "name": {
-      "en": "Hung Mo Kiu, Castle Peak Road",
-      "tc": "紅毛橋, 青山公路",
-      "sc": "红毛桥, 青山公路"
-    },
-    "lat": 22.447218132091,
-    "lng": 114.04951484053
-  },
-  "CTB:003630": {
-    "stop_id": "003630",
-    "company": "CTB",
-    "name": {
-      "en": "Au Tau, Kam Tin Road",
-      "tc": "凹頭, 錦田公路",
-      "sc": "凹头, 锦田公路"
-    },
-    "lat": 22.443663622091,
-    "lng": 114.04941518053
-  },
-  "CTB:003631": {
-    "stop_id": "003631",
-    "company": "CTB",
-    "name": {
-      "en": "Ha Ko Po Tsuen, Kam Tin Road",
-      "tc": "下高埔村, 錦田公路",
-      "sc": "下高埔村, 锦田公路"
-    },
-    "lat": 22.442359762091,
-    "lng": 114.05194642053
-  },
-  "CTB:003632": {
-    "stop_id": "003632",
-    "company": "CTB",
-    "name": {
-      "en": "Ko Po Tsuen, Kam Tin Road",
-      "tc": "高埔村, 錦田公路",
-      "sc": "高埔村, 锦田公路"
-    },
-    "lat": 22.440311502091,
-    "lng": 114.05619475053
   },
   "CTB:002182": {
     "stop_id": "002182",
@@ -89374,71 +89495,236 @@
     "lat": 22.342510512091,
     "lng": 114.18578915053
   },
-  "CTB:003208": {
-    "stop_id": "003208",
+  "CTB:003614": {
+    "stop_id": "003614",
     "company": "CTB",
     "name": {
-      "en": "Shenzhen Bay Port",
-      "tc": "深圳灣口岸",
-      "sc": "深圳湾口岸"
+      "en": "Ko Po Tsuen, Kam Tin Road",
+      "tc": "高埔村, 錦田公路",
+      "sc": "高埔村, 锦田公路"
     },
-    "lat": 22.501662252091,
-    "lng": 113.94518812053
+    "lat": 22.440106362091,
+    "lng": 114.05630210053
   },
-  "CTB:003219": {
-    "stop_id": "003219",
+  "CTB:003615": {
+    "stop_id": "003615",
     "company": "CTB",
     "name": {
-      "en": "Tuen Mun Town Centre, Tuen Mun Heung Sze Wui Road",
-      "tc": "屯門市中心, 屯門鄉事會路",
-      "sc": "屯门市中心, 屯门乡事会路"
+      "en": "Ha Ko Po Tsuen, Kam Tin Road",
+      "tc": "下高埔村, 錦田公路",
+      "sc": "下高埔村, 锦田公路"
     },
-    "lat": 22.391635762091,
-    "lng": 113.97549142053
+    "lat": 22.441820762091,
+    "lng": 114.05261815053
   },
-  "CTB:003988": {
-    "stop_id": "003988",
+  "CTB:003616": {
+    "stop_id": "003616",
     "company": "CTB",
     "name": {
-      "en": "Hin Fat Estate, Castle Peak Road - Castle Peak Bay",
-      "tc": "顯發邨, 青山公路 - 青山灣段",
-      "sc": "显发邨, 青山公路 - 青山湾段"
+      "en": "Au Tau, Kam Tin Road",
+      "tc": "凹頭, 錦田公路",
+      "sc": "凹头, 锦田公路"
     },
-    "lat": 22.389337462091,
-    "lng": 113.98031782053
+    "lat": 22.443118492091,
+    "lng": 114.05006839053
   },
-  "CTB:003220": {
-    "stop_id": "003220",
+  "CTB:003617": {
+    "stop_id": "003617",
     "company": "CTB",
     "name": {
-      "en": "Tsui Ning Garden, Hoi Chu Road",
-      "tc": "翠寧花園, 海珠路",
-      "sc": "翠宁花园, 海珠路"
+      "en": "Hung Mo Kiu, Castle Peak Road",
+      "tc": "紅毛橋, 青山公路",
+      "sc": "红毛桥, 青山公路"
     },
-    "lat": 22.383774902091,
-    "lng": 113.97412999053
+    "lat": 22.447108182091,
+    "lng": 114.04929821053
   },
-  "CTB:003194": {
-    "stop_id": "003194",
+  "CTB:003618": {
+    "stop_id": "003618",
     "company": "CTB",
     "name": {
-      "en": "Tuen Mun Ferry Pier",
-      "tc": "屯門碼頭",
-      "sc": "屯门码头"
+      "en": "Sha Po Tsuen, Castle Peak Road",
+      "tc": "沙埔村, 青山公路",
+      "sc": "沙埔村, 青山公路"
     },
-    "lat": 22.372591222091,
-    "lng": 113.96708965053
+    "lat": 22.451613822091,
+    "lng": 114.04972432053
   },
-  "CTB:003195": {
-    "stop_id": "003195",
+  "CTB:003619": {
+    "stop_id": "003619",
     "company": "CTB",
     "name": {
-      "en": "LR Lung Mun Stop, Lung Mun Road",
-      "tc": "輕鐵龍門站, 龍門路",
-      "sc": "轻铁龙门站, 龙门路"
+      "en": "Fung Kat Heung, Castle Peak Road",
+      "tc": "逢吉鄉, 青山公路",
+      "sc": "逢吉乡, 青山公路"
     },
-    "lat": 22.385355732091,
-    "lng": 113.96515034053
+    "lat": 22.458328982091,
+    "lng": 114.05179036053
+  },
+  "CTB:003620": {
+    "stop_id": "003620",
+    "company": "CTB",
+    "name": {
+      "en": "Mo Fan Heung, Castle Peak Road",
+      "tc": "模範鄉, 青山公路",
+      "sc": "模范乡, 青山公路"
+    },
+    "lat": 22.460794142091,
+    "lng": 114.05259866053
+  },
+  "CTB:003621": {
+    "stop_id": "003621",
+    "company": "CTB",
+    "name": {
+      "en": "Pok Wai, Castle Peak Road",
+      "tc": "壆圍, 青山公路",
+      "sc": "壆围, 青山公路"
+    },
+    "lat": 22.463415752091,
+    "lng": 114.05319459053
+  },
+  "CTB:003622": {
+    "stop_id": "003622",
+    "company": "CTB",
+    "name": {
+      "en": "Tai Sang Wai, Castle Peak Road",
+      "tc": "大生圍, 青山公路",
+      "sc": "大生围, 青山公路"
+    },
+    "lat": 22.469268752091,
+    "lng": 114.05444975053
+  },
+  "CTB:003623": {
+    "stop_id": "003623",
+    "company": "CTB",
+    "name": {
+      "en": "San Tin",
+      "tc": "新田",
+      "sc": "新田"
+    },
+    "lat": 22.503090932091,
+    "lng": 114.08205956053
+  },
+  "CTB:003939": {
+    "stop_id": "003939",
+    "company": "CTB",
+    "name": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "lat": 22.523333752091,
+    "lng": 114.06741380053
+  },
+  "CTB:003624": {
+    "stop_id": "003624",
+    "company": "CTB",
+    "name": {
+      "en": "Long Ha, San Tam Road",
+      "tc": "朗廈, 新潭路",
+      "sc": "朗厦, 新潭路"
+    },
+    "lat": 22.469465062091,
+    "lng": 114.05547991053
+  },
+  "CTB:003625": {
+    "stop_id": "003625",
+    "company": "CTB",
+    "name": {
+      "en": "Pok Wai, San Tam Road",
+      "tc": "壆圍, 新潭路",
+      "sc": "壆围, 新潭路"
+    },
+    "lat": 22.464765622091,
+    "lng": 114.05402660053
+  },
+  "CTB:003626": {
+    "stop_id": "003626",
+    "company": "CTB",
+    "name": {
+      "en": "Mo Fan Heung, San Tam Road",
+      "tc": "模範鄉, 新潭路",
+      "sc": "模范乡, 新潭路"
+    },
+    "lat": 22.461706202091,
+    "lng": 114.05328358053
+  },
+  "CTB:003627": {
+    "stop_id": "003627",
+    "company": "CTB",
+    "name": {
+      "en": "Fung Kat Heung, San Tam Road",
+      "tc": "逢吉鄉, 新潭路",
+      "sc": "逢吉乡, 新潭路"
+    },
+    "lat": 22.457339162091,
+    "lng": 114.05239174053
+  },
+  "CTB:003628": {
+    "stop_id": "003628",
+    "company": "CTB",
+    "name": {
+      "en": "Sha Po Tsuen, San Tam Road",
+      "tc": "沙埔村, 新潭路",
+      "sc": "沙埔村, 新潭路"
+    },
+    "lat": 22.452554762091,
+    "lng": 114.05096145053
+  },
+  "CTB:003629": {
+    "stop_id": "003629",
+    "company": "CTB",
+    "name": {
+      "en": "Hung Mo Kiu, Castle Peak Road",
+      "tc": "紅毛橋, 青山公路",
+      "sc": "红毛桥, 青山公路"
+    },
+    "lat": 22.447218132091,
+    "lng": 114.04951484053
+  },
+  "CTB:003630": {
+    "stop_id": "003630",
+    "company": "CTB",
+    "name": {
+      "en": "Au Tau, Kam Tin Road",
+      "tc": "凹頭, 錦田公路",
+      "sc": "凹头, 锦田公路"
+    },
+    "lat": 22.443663622091,
+    "lng": 114.04941518053
+  },
+  "CTB:003631": {
+    "stop_id": "003631",
+    "company": "CTB",
+    "name": {
+      "en": "Ha Ko Po Tsuen, Kam Tin Road",
+      "tc": "下高埔村, 錦田公路",
+      "sc": "下高埔村, 锦田公路"
+    },
+    "lat": 22.442359762091,
+    "lng": 114.05194642053
+  },
+  "CTB:003632": {
+    "stop_id": "003632",
+    "company": "CTB",
+    "name": {
+      "en": "Ko Po Tsuen, Kam Tin Road",
+      "tc": "高埔村, 錦田公路",
+      "sc": "高埔村, 锦田公路"
+    },
+    "lat": 22.440311502091,
+    "lng": 114.05619475053
+  },
+  "CTB:003976": {
+    "stop_id": "003976",
+    "company": "CTB",
+    "name": {
+      "en": "Tuen Mun (Castle Peak Bay)",
+      "tc": "屯門(青山灣)",
+      "sc": "屯门(青山湾)"
+    },
+    "lat": 22.379724452091,
+    "lng": 113.98056903053
   },
   "CTB:003196": {
     "stop_id": "003196",
@@ -89462,6 +89748,17 @@
     "lat": 22.383850262091,
     "lng": 113.97413765053
   },
+  "CTB:003975": {
+    "stop_id": "003975",
+    "company": "CTB",
+    "name": {
+      "en": "Yau Oi Estate, Tuen Mun Heung Sze Wui Road",
+      "tc": "友愛邨, 屯門鄉事會路",
+      "sc": "友爱邨, 屯门乡事会路"
+    },
+    "lat": 22.387626122091,
+    "lng": 113.97513788053
+  },
   "CTB:003198": {
     "stop_id": "003198",
     "company": "CTB",
@@ -89472,6 +89769,281 @@
     },
     "lat": 22.392357002091,
     "lng": 113.97513938053
+  },
+  "CTB:003218": {
+    "stop_id": "003218",
+    "company": "CTB",
+    "name": {
+      "en": "Tuen Mun Station - Tak Ching Court, Tuen Mun Heung Sze Wui Road",
+      "tc": "屯門站-德政圍, 屯門鄉事會路",
+      "sc": "屯门站-德政围, 屯门乡事会路"
+    },
+    "lat": 22.394877512091,
+    "lng": 113.97465955053
+  },
+  "CTB:003432": {
+    "stop_id": "003432",
+    "company": "CTB",
+    "name": {
+      "en": "LR Lam Tei Stop, Castle Peak Road",
+      "tc": "輕鐵藍地站, 青山公路",
+      "sc": "轻铁蓝地站, 青山公路"
+    },
+    "lat": 22.418507352091,
+    "lng": 113.98221845053
+  },
+  "CTB:003433": {
+    "stop_id": "003433",
+    "company": "CTB",
+    "name": {
+      "en": "Tsing Chuen Wai, Castle Peak Road",
+      "tc": "青磚圍, 青山公路",
+      "sc": "青砖围, 青山公路"
+    },
+    "lat": 22.422755202091,
+    "lng": 113.98563130053
+  },
+  "CTB:003434": {
+    "stop_id": "003434",
+    "company": "CTB",
+    "name": {
+      "en": "LR Nai Wai Stop, Castle Peak Road",
+      "tc": "輕鐵泥圍站, 青山公路",
+      "sc": "轻铁泥围站, 青山公路"
+    },
+    "lat": 22.423646782091,
+    "lng": 113.98648429053
+  },
+  "CTB:003435": {
+    "stop_id": "003435",
+    "company": "CTB",
+    "name": {
+      "en": "Yick Yuen Tsuen, Castle Peak Road",
+      "tc": "亦園村, 青山公路",
+      "sc": "亦园村, 青山公路"
+    },
+    "lat": 22.426862912091,
+    "lng": 113.98953381053
+  },
+  "CTB:003436": {
+    "stop_id": "003436",
+    "company": "CTB",
+    "name": {
+      "en": "LR Chung Uk Tsuen Stop, Castle Peak Road",
+      "tc": "輕鐵鍾屋村站, 青山公路",
+      "sc": "轻铁锺屋村站, 青山公路"
+    },
+    "lat": 22.429587262091,
+    "lng": 113.99225890053
+  },
+  "CTB:003437": {
+    "stop_id": "003437",
+    "company": "CTB",
+    "name": {
+      "en": "LR Hung Shui Kiu Stop, Castle Peak Road",
+      "tc": "輕鐵洪水橋站, 青山公路",
+      "sc": "轻铁洪水桥站, 青山公路"
+    },
+    "lat": 22.433757792091,
+    "lng": 113.99778876053
+  },
+  "CTB:003977": {
+    "stop_id": "003977",
+    "company": "CTB",
+    "name": {
+      "en": "Hung Fuk Estate, Hung Tin Road",
+      "tc": "洪福邨, 洪天路",
+      "sc": "洪福邨, 洪天路"
+    },
+    "lat": 22.437582932091,
+    "lng": 113.99892201053
+  },
+  "CTB:003648": {
+    "stop_id": "003648",
+    "company": "CTB",
+    "name": {
+      "en": "Uptown, Castle Peak Road",
+      "tc": "尚城, 青山公路",
+      "sc": "尚城, 青山公路"
+    },
+    "lat": 22.435293662091,
+    "lng": 114.00028884053
+  },
+  "CTB:003649": {
+    "stop_id": "003649",
+    "company": "CTB",
+    "name": {
+      "en": "LR Hung Shui Kiu Stop, Castle Peak Road",
+      "tc": "輕鐵洪水橋站, 青山公路",
+      "sc": "轻铁洪水桥站, 青山公路"
+    },
+    "lat": 22.433591092091,
+    "lng": 113.99785137053
+  },
+  "CTB:003650": {
+    "stop_id": "003650",
+    "company": "CTB",
+    "name": {
+      "en": "LR Chung Uk Tsuen Stop, Castle Peak Road",
+      "tc": "輕鐵鍾屋村站, 青山公路",
+      "sc": "轻铁锺屋村站, 青山公路"
+    },
+    "lat": 22.429738652091,
+    "lng": 113.99273045053
+  },
+  "CTB:003651": {
+    "stop_id": "003651",
+    "company": "CTB",
+    "name": {
+      "en": "Yick Yuen Tsuen, Castle Peak Road",
+      "tc": "亦園村, 青山公路",
+      "sc": "亦园村, 青山公路"
+    },
+    "lat": 22.427447622091,
+    "lng": 113.99033796053
+  },
+  "CTB:003652": {
+    "stop_id": "003652",
+    "company": "CTB",
+    "name": {
+      "en": "Nai Wai, Castle Peak Road",
+      "tc": "泥圍, 青山公路",
+      "sc": "泥围, 青山公路"
+    },
+    "lat": 22.423814242091,
+    "lng": 113.98694343053
+  },
+  "CTB:003653": {
+    "stop_id": "003653",
+    "company": "CTB",
+    "name": {
+      "en": "Fuk Hang Tsuen, Castle Peak Road",
+      "tc": "福亨村, 青山公路",
+      "sc": "福亨村, 青山公路"
+    },
+    "lat": 22.422443892091,
+    "lng": 113.98564787053
+  },
+  "CTB:003654": {
+    "stop_id": "003654",
+    "company": "CTB",
+    "name": {
+      "en": "Miu Fat Buddhist Monastery, Castle Peak Road",
+      "tc": "妙法寺, 青山公路",
+      "sc": "妙法寺, 青山公路"
+    },
+    "lat": 22.420341822091,
+    "lng": 113.98369369053
+  },
+  "CTB:003655": {
+    "stop_id": "003655",
+    "company": "CTB",
+    "name": {
+      "en": "LR Lam Tei Stop, Castle Peak Road",
+      "tc": "輕鐵藍地站, 青山公路",
+      "sc": "轻铁蓝地站, 青山公路"
+    },
+    "lat": 22.418297292091,
+    "lng": 113.98231974053
+  },
+  "CTB:003219": {
+    "stop_id": "003219",
+    "company": "CTB",
+    "name": {
+      "en": "Tuen Mun Town Centre, Tuen Mun Heung Sze Wui Road",
+      "tc": "屯門市中心, 屯門鄉事會路",
+      "sc": "屯门市中心, 屯门乡事会路"
+    },
+    "lat": 22.391635762091,
+    "lng": 113.97549142053
+  },
+  "CTB:003973": {
+    "stop_id": "003973",
+    "company": "CTB",
+    "name": {
+      "en": "On Ting Estate, Tuen Mun Heung Sze Wui Road",
+      "tc": "安定邨, 屯門鄉事會路",
+      "sc": "安定邨, 屯门乡事会路"
+    },
+    "lat": 22.387587812091,
+    "lng": 113.97531957053
+  },
+  "CTB:003974": {
+    "stop_id": "003974",
+    "company": "CTB",
+    "name": {
+      "en": "Siu Lun Court, Tuen Mun Heung Sze Wui Road",
+      "tc": "兆麟苑, 屯門鄉事會路",
+      "sc": "兆麟苑, 屯门乡事会路"
+    },
+    "lat": 22.384762162091,
+    "lng": 113.97532158053
+  },
+  "CTB:003220": {
+    "stop_id": "003220",
+    "company": "CTB",
+    "name": {
+      "en": "Tsui Ning Garden, Hoi Chu Road",
+      "tc": "翠寧花園, 海珠路",
+      "sc": "翠宁花园, 海珠路"
+    },
+    "lat": 22.383774902091,
+    "lng": 113.97412999053
+  },
+  "CTB:003733": {
+    "stop_id": "003733",
+    "company": "CTB",
+    "name": {
+      "en": "Regency Bay, Hoi Wong Road",
+      "tc": "御海灣, 海皇路",
+      "sc": "御海湾, 海皇路"
+    },
+    "lat": 22.381671862091,
+    "lng": 113.97030651053
+  },
+  "CTB:003208": {
+    "stop_id": "003208",
+    "company": "CTB",
+    "name": {
+      "en": "Shenzhen Bay Port",
+      "tc": "深圳灣口岸",
+      "sc": "深圳湾口岸"
+    },
+    "lat": 22.501662252091,
+    "lng": 113.94518812053
+  },
+  "CTB:003988": {
+    "stop_id": "003988",
+    "company": "CTB",
+    "name": {
+      "en": "Hin Fat Estate, Castle Peak Road - Castle Peak Bay",
+      "tc": "顯發邨, 青山公路 - 青山灣段",
+      "sc": "显发邨, 青山公路 - 青山湾段"
+    },
+    "lat": 22.389337462091,
+    "lng": 113.98031782053
+  },
+  "CTB:003194": {
+    "stop_id": "003194",
+    "company": "CTB",
+    "name": {
+      "en": "Tuen Mun Ferry Pier",
+      "tc": "屯門碼頭",
+      "sc": "屯门码头"
+    },
+    "lat": 22.372591222091,
+    "lng": 113.96708965053
+  },
+  "CTB:003195": {
+    "stop_id": "003195",
+    "company": "CTB",
+    "name": {
+      "en": "LR Lung Mun Stop, Lung Mun Road",
+      "tc": "輕鐵龍門站, 龍門路",
+      "sc": "轻铁龙门站, 龙门路"
+    },
+    "lat": 22.385355732091,
+    "lng": 113.96515034053
   },
   "CTB:003262": {
     "stop_id": "003262",
@@ -91530,72 +92102,6 @@
     "lat": 22.374009102091,
     "lng": 114.11140436053
   },
-  "CTB:003432": {
-    "stop_id": "003432",
-    "company": "CTB",
-    "name": {
-      "en": "LR Lam Tei Stop, Castle Peak Road",
-      "tc": "輕鐵藍地站, 青山公路",
-      "sc": "轻铁蓝地站, 青山公路"
-    },
-    "lat": 22.418507352091,
-    "lng": 113.98221845053
-  },
-  "CTB:003433": {
-    "stop_id": "003433",
-    "company": "CTB",
-    "name": {
-      "en": "Tsing Chuen Wai, Castle Peak Road",
-      "tc": "青磚圍, 青山公路",
-      "sc": "青砖围, 青山公路"
-    },
-    "lat": 22.422755202091,
-    "lng": 113.98563130053
-  },
-  "CTB:003434": {
-    "stop_id": "003434",
-    "company": "CTB",
-    "name": {
-      "en": "LR Nai Wai Stop, Castle Peak Road",
-      "tc": "輕鐵泥圍站, 青山公路",
-      "sc": "轻铁泥围站, 青山公路"
-    },
-    "lat": 22.423646782091,
-    "lng": 113.98648429053
-  },
-  "CTB:003435": {
-    "stop_id": "003435",
-    "company": "CTB",
-    "name": {
-      "en": "Yick Yuen Tsuen, Castle Peak Road",
-      "tc": "亦園村, 青山公路",
-      "sc": "亦园村, 青山公路"
-    },
-    "lat": 22.426862912091,
-    "lng": 113.98953381053
-  },
-  "CTB:003436": {
-    "stop_id": "003436",
-    "company": "CTB",
-    "name": {
-      "en": "LR Chung Uk Tsuen Stop, Castle Peak Road",
-      "tc": "輕鐵鍾屋村站, 青山公路",
-      "sc": "轻铁锺屋村站, 青山公路"
-    },
-    "lat": 22.429587262091,
-    "lng": 113.99225890053
-  },
-  "CTB:003437": {
-    "stop_id": "003437",
-    "company": "CTB",
-    "name": {
-      "en": "LR Hung Shui Kiu Stop, Castle Peak Road",
-      "tc": "輕鐵洪水橋站, 青山公路",
-      "sc": "轻铁洪水桥站, 青山公路"
-    },
-    "lat": 22.433757792091,
-    "lng": 113.99778876053
-  },
   "CTB:003438": {
     "stop_id": "003438",
     "company": "CTB",
@@ -91695,94 +92201,6 @@
     "lat": 22.436582412091,
     "lng": 114.00205991053
   },
-  "CTB:003648": {
-    "stop_id": "003648",
-    "company": "CTB",
-    "name": {
-      "en": "Uptown, Castle Peak Road",
-      "tc": "尚城, 青山公路",
-      "sc": "尚城, 青山公路"
-    },
-    "lat": 22.435293662091,
-    "lng": 114.00028884053
-  },
-  "CTB:003649": {
-    "stop_id": "003649",
-    "company": "CTB",
-    "name": {
-      "en": "LR Hung Shui Kiu Stop, Castle Peak Road",
-      "tc": "輕鐵洪水橋站, 青山公路",
-      "sc": "轻铁洪水桥站, 青山公路"
-    },
-    "lat": 22.433591092091,
-    "lng": 113.99785137053
-  },
-  "CTB:003650": {
-    "stop_id": "003650",
-    "company": "CTB",
-    "name": {
-      "en": "LR Chung Uk Tsuen Stop, Castle Peak Road",
-      "tc": "輕鐵鍾屋村站, 青山公路",
-      "sc": "轻铁锺屋村站, 青山公路"
-    },
-    "lat": 22.429738652091,
-    "lng": 113.99273045053
-  },
-  "CTB:003651": {
-    "stop_id": "003651",
-    "company": "CTB",
-    "name": {
-      "en": "Yick Yuen Tsuen, Castle Peak Road",
-      "tc": "亦園村, 青山公路",
-      "sc": "亦园村, 青山公路"
-    },
-    "lat": 22.427447622091,
-    "lng": 113.99033796053
-  },
-  "CTB:003652": {
-    "stop_id": "003652",
-    "company": "CTB",
-    "name": {
-      "en": "Nai Wai, Castle Peak Road",
-      "tc": "泥圍, 青山公路",
-      "sc": "泥围, 青山公路"
-    },
-    "lat": 22.423814242091,
-    "lng": 113.98694343053
-  },
-  "CTB:003653": {
-    "stop_id": "003653",
-    "company": "CTB",
-    "name": {
-      "en": "Fuk Hang Tsuen, Castle Peak Road",
-      "tc": "福亨村, 青山公路",
-      "sc": "福亨村, 青山公路"
-    },
-    "lat": 22.422443892091,
-    "lng": 113.98564787053
-  },
-  "CTB:003654": {
-    "stop_id": "003654",
-    "company": "CTB",
-    "name": {
-      "en": "Miu Fat Buddhist Monastery, Castle Peak Road",
-      "tc": "妙法寺, 青山公路",
-      "sc": "妙法寺, 青山公路"
-    },
-    "lat": 22.420341822091,
-    "lng": 113.98369369053
-  },
-  "CTB:003655": {
-    "stop_id": "003655",
-    "company": "CTB",
-    "name": {
-      "en": "LR Lam Tei Stop, Castle Peak Road",
-      "tc": "輕鐵藍地站, 青山公路",
-      "sc": "轻铁蓝地站, 青山公路"
-    },
-    "lat": 22.418297292091,
-    "lng": 113.98231974053
-  },
   "CTB:001803": {
     "stop_id": "001803",
     "company": "CTB",
@@ -91881,17 +92299,6 @@
     },
     "lat": 22.306346952091,
     "lng": 114.27463409053
-  },
-  "CTB:003733": {
-    "stop_id": "003733",
-    "company": "CTB",
-    "name": {
-      "en": "Regency Bay, Hoi Wong Road",
-      "tc": "御海灣, 海皇路",
-      "sc": "御海湾, 海皇路"
-    },
-    "lat": 22.381671862091,
-    "lng": 113.97030651053
   },
   "KMBCTB:163F0E101B13D8AD": {
     "stop_id": "163F0E101B13D8AD",
@@ -99818,9 +100225,9 @@
     "ctb_stop_id": "002595",
     "company": "KMBCTB",
     "name": {
-      "en": "LAI KOK ESTATE (SS680)",
-      "tc": "麗閣邨 (SS680)",
-      "sc": "丽阁邨 (SS680)"
+      "en": "LAI KOK ESTATE, LAI TSUI COURT (SS680)",
+      "tc": "麗閣邨,麗翠苑 (SS680)",
+      "sc": "丽阁邨,丽翠苑 (SS680)"
     },
     "lat": 22.333118,
     "lng": 114.155983
@@ -100190,9 +100597,9 @@
     "ctb_stop_id": "002882",
     "company": "KMBCTB",
     "name": {
-      "en": "TONKIN STREET WEST (SS664)",
-      "tc": "東京街西 (SS664)",
-      "sc": "东京街西 (SS664)"
+      "en": "HOI TAT ESTATE (SS664)",
+      "tc": "海達邨 (SS664)",
+      "sc": "海达邨 (SS664)"
     },
     "lat": 22.329224,
     "lng": 114.152032
@@ -106430,9 +106837,9 @@
     "ctb_stop_id": "001762",
     "company": "KMBCTB",
     "name": {
-      "en": "FAT TSEUNG STREET WEST (SS289)",
-      "tc": "發祥街西 (SS289)",
-      "sc": "发祥街西 (SS289)"
+      "en": "FAT TSEUNG STREET WEST, HOI TAT COURT (SS289)",
+      "tc": "發祥街西, 凱德苑 (SS289)",
+      "sc": "发祥街西, 凯德苑 (SS289)"
     },
     "lat": 22.330184,
     "lng": 114.151263
@@ -110363,28 +110770,6 @@
     "lat": 22.444414,
     "lng": 114.169471
   },
-  "MTRB:K18-U020": {
-    "stop_id": "K18-U020",
-    "company": "MTRB",
-    "name": {
-      "en": "Wang Fuk Court",
-      "tc": "宏福苑",
-      "sc": "宏福苑"
-    },
-    "lat": 22.447531,
-    "lng": 114.17473
-  },
-  "MTRB:K18-U030": {
-    "stop_id": "K18-U030",
-    "company": "MTRB",
-    "name": {
-      "en": "Kwong Fuk",
-      "tc": "廣福",
-      "sc": "廣福"
-    },
-    "lat": 22.4487,
-    "lng": 114.174398
-  },
   "MTRB:K18-D010": {
     "stop_id": "K18-D010",
     "company": "MTRB",
@@ -110417,325 +110802,6 @@
     },
     "lat": 22.444414,
     "lng": 114.169471
-  },
-  "MTRB:K51-D010": {
-    "stop_id": "K51-D010",
-    "company": "MTRB",
-    "name": {
-      "en": "Tai Lam",
-      "tc": "大欖",
-      "sc": "大欖"
-    },
-    "lat": 22.362495,
-    "lng": 114.019113
-  },
-  "MTRB:K51-D020": {
-    "stop_id": "K51-D020",
-    "company": "MTRB",
-    "name": {
-      "en": "Siu Lam",
-      "tc": "小欖",
-      "sc": "小欖"
-    },
-    "lat": 22.364165,
-    "lng": 114.014994
-  },
-  "MTRB:K51-D030": {
-    "stop_id": "K51-D030",
-    "company": "MTRB",
-    "name": {
-      "en": "Ching Lai Road Siu Lam",
-      "tc": "小欖澄麗路",
-      "sc": "小欖澄麗路"
-    },
-    "lat": 22.365696,
-    "lng": 114.01244
-  },
-  "MTRB:K51-D040": {
-    "stop_id": "K51-D040",
-    "company": "MTRB",
-    "name": {
-      "en": "Siu Lam Tsuen",
-      "tc": "小欖村",
-      "sc": "小欖村"
-    },
-    "lat": 22.366338,
-    "lng": 114.00949
-  },
-  "MTRB:K51-D050": {
-    "stop_id": "K51-D050",
-    "company": "MTRB",
-    "name": {
-      "en": "Siu Lam San Tsuen",
-      "tc": "小欖新村",
-      "sc": "小欖新村"
-    },
-    "lat": 22.366102,
-    "lng": 114.005524
-  },
-  "MTRB:K51-D060": {
-    "stop_id": "K51-D060",
-    "company": "MTRB",
-    "name": {
-      "en": "The Aegean",
-      "tc": "愛琴灣",
-      "sc": "愛琴灣"
-    },
-    "lat": 22.366573,
-    "lng": 114.001616
-  },
-  "MTRB:K51-D070": {
-    "stop_id": "K51-D070",
-    "company": "MTRB",
-    "name": {
-      "en": "Siu Sau Sheung Tsuen",
-      "tc": "小秀上村",
-      "sc": "小秀上村"
-    },
-    "lat": 22.368003,
-    "lng": 113.999085
-  },
-  "MTRB:K51-D080": {
-    "stop_id": "K51-D080",
-    "company": "MTRB",
-    "name": {
-      "en": "Pearl Island",
-      "tc": "龍珠島",
-      "sc": "龍珠島"
-    },
-    "lat": 22.368035,
-    "lng": 113.996264
-  },
-  "MTRB:K51-D090": {
-    "stop_id": "K51-D090",
-    "company": "MTRB",
-    "name": {
-      "en": "Hong Kong Gold Coast",
-      "tc": "香港黃金海岸",
-      "sc": "香港黃金海岸"
-    },
-    "lat": 22.371285,
-    "lng": 113.993882
-  },
-  "MTRB:K51-D100": {
-    "stop_id": "K51-D100",
-    "company": "MTRB",
-    "name": {
-      "en": "Golden Beach",
-      "tc": "黃金泳灘",
-      "sc": "黃金泳灘"
-    },
-    "lat": 22.373628,
-    "lng": 113.991213
-  },
-  "MTRB:K51-D110": {
-    "stop_id": "K51-D110",
-    "company": "MTRB",
-    "name": {
-      "en": "Cafeteria Beach",
-      "tc": "咖啡灣",
-      "sc": "咖啡灣"
-    },
-    "lat": 22.3759,
-    "lng": 113.985635
-  },
-  "MTRB:K51-D120": {
-    "stop_id": "K51-D120",
-    "company": "MTRB",
-    "name": {
-      "en": "Bayview Terrace",
-      "tc": "碧翠花園",
-      "sc": "碧翠花園"
-    },
-    "lat": 22.377927,
-    "lng": 113.983242
-  },
-  "MTRB:K51-D130": {
-    "stop_id": "K51-D130",
-    "company": "MTRB",
-    "name": {
-      "en": "Castle Peak Bay Pier",
-      "tc": "青山灣碼頭",
-      "sc": "青山灣碼頭"
-    },
-    "lat": 22.378957,
-    "lng": 113.980602
-  },
-  "MTRB:K51-D140": {
-    "stop_id": "K51-D140",
-    "company": "MTRB",
-    "name": {
-      "en": "Sam Shing Estate",
-      "tc": "三聖邨",
-      "sc": "三聖邨"
-    },
-    "lat": 22.381214,
-    "lng": 113.979092
-  },
-  "MTRB:K51-D150": {
-    "stop_id": "K51-D150",
-    "company": "MTRB",
-    "name": {
-      "en": "Hanford Garden (LR Sam Shing Stop)",
-      "tc": "恆福花園 (輕鐵三聖站)",
-      "sc": "恆福花園 (輕鐵三聖站)"
-    },
-    "lat": 22.382064,
-    "lng": 113.977151
-  },
-  "MTRB:K51-D160": {
-    "stop_id": "K51-D160",
-    "company": "MTRB",
-    "name": {
-      "en": "Mrs Aw Boon Haw Secondary School",
-      "tc": "胡陳金枝中學",
-      "sc": "胡陳金枝中學"
-    },
-    "lat": 22.383774,
-    "lng": 113.97939
-  },
-  "MTRB:K51-D170": {
-    "stop_id": "K51-D170",
-    "company": "MTRB",
-    "name": {
-      "en": "Tsing Sin Playground",
-      "tc": "青善遊樂場",
-      "sc": "青善遊樂場"
-    },
-    "lat": 22.384602,
-    "lng": 113.980638
-  },
-  "MTRB:K51-D180": {
-    "stop_id": "K51-D180",
-    "company": "MTRB",
-    "name": {
-      "en": "Chi Lok Fa Yuen",
-      "tc": "置樂花園",
-      "sc": "置樂花園"
-    },
-    "lat": 22.387355,
-    "lng": 113.98069
-  },
-  "MTRB:K51-D190": {
-    "stop_id": "K51-D190",
-    "company": "MTRB",
-    "name": {
-      "en": "Tuen Mun Government Secondary School",
-      "tc": "屯門官立中學",
-      "sc": "屯門官立中學"
-    },
-    "lat": 22.390433,
-    "lng": 113.978805
-  },
-  "MTRB:K51-D200": {
-    "stop_id": "K51-D200",
-    "company": "MTRB",
-    "name": {
-      "en": "LR Town Centre Stop",
-      "tc": "輕鐵市中心站",
-      "sc": "輕鐵市中心站"
-    },
-    "lat": 22.392116,
-    "lng": 113.975082
-  },
-  "MTRB:K51-D210": {
-    "stop_id": "K51-D210",
-    "company": "MTRB",
-    "name": {
-      "en": "MTR Tuen Mun Station (LR Tuen Mun Stop)",
-      "tc": "港鐵屯門站 (輕鐵屯門站)",
-      "sc": "港鐵屯門站 (輕鐵屯門站)"
-    },
-    "lat": 22.395021,
-    "lng": 113.974444
-  },
-  "MTRB:K51-D220": {
-    "stop_id": "K51-D220",
-    "company": "MTRB",
-    "name": {
-      "en": "SKH St. Simon's Lui Ming Choi Secondary School",
-      "tc": "聖公會聖西門呂明才中學",
-      "sc": "聖公會聖西門呂明才中學"
-    },
-    "lat": 22.397311,
-    "lng": 113.974853
-  },
-  "MTRB:K51-D230": {
-    "stop_id": "K51-D230",
-    "company": "MTRB",
-    "name": {
-      "en": "Prime View Garden",
-      "tc": "景峰花園",
-      "sc": "景峰花園"
-    },
-    "lat": 22.40334,
-    "lng": 113.979247
-  },
-  "MTRB:K51-D240": {
-    "stop_id": "K51-D240",
-    "company": "MTRB",
-    "name": {
-      "en": "LR Fung Tei Stop",
-      "tc": "輕鐵鳳地站",
-      "sc": "輕鐵鳳地站"
-    },
-    "lat": 22.407254,
-    "lng": 113.978641
-  },
-  "MTRB:K51-D250": {
-    "stop_id": "K51-D250",
-    "company": "MTRB",
-    "name": {
-      "en": "MTR Siu Hong Station (South) (LR Siu Hong Stop)",
-      "tc": "港鐵兆康站 (南) (輕鐵兆康站)",
-      "sc": "港鐵兆康站 (南) (輕鐵兆康站)"
-    },
-    "lat": 22.410378,
-    "lng": 113.978607
-  },
-  "MTRB:K51-D260": {
-    "stop_id": "K51-D260",
-    "company": "MTRB",
-    "name": {
-      "en": "Brilliant Garden",
-      "tc": "彩暉花園",
-      "sc": "彩暉花園"
-    },
-    "lat": 22.408779,
-    "lng": 113.980397
-  },
-  "MTRB:K51-D270": {
-    "stop_id": "K51-D270",
-    "company": "MTRB",
-    "name": {
-      "en": "Lingnan University",
-      "tc": "嶺南大學",
-      "sc": "嶺南大學"
-    },
-    "lat": 22.410694,
-    "lng": 113.982212
-  },
-  "MTRB:K51-D280": {
-    "stop_id": "K51-D280",
-    "company": "MTRB",
-    "name": {
-      "en": "South Hillcrest",
-      "tc": "倚嶺南庭",
-      "sc": "倚嶺南庭"
-    },
-    "lat": 22.411927,
-    "lng": 113.983128
-  },
-  "MTRB:K51-D290": {
-    "stop_id": "K51-D290",
-    "company": "MTRB",
-    "name": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
-    },
-    "lat": 22.413286,
-    "lng": 113.982895
   },
   "MTRB:K51-U010": {
     "stop_id": "K51-U010",
@@ -110792,16 +110858,16 @@
     "lat": 22.410247,
     "lng": 113.978583
   },
-  "MTRB:K51-U060": {
-    "stop_id": "K51-U060",
+  "MTRB:K51-U065": {
+    "stop_id": "K51-U065",
     "company": "MTRB",
     "name": {
-      "en": "Tseng Choi Street",
-      "tc": "井財街",
-      "sc": "井財街"
+      "en": "Prime View Garden",
+      "tc": "景峰花園",
+      "sc": "景峰花園"
     },
-    "lat": 22.40205,
-    "lng": 113.9776
+    "lat": 22.403584,
+    "lng": 113.979552
   },
   "MTRB:K51-U070": {
     "stop_id": "K51-U070",
@@ -110957,6 +111023,17 @@
     "lat": 22.36817,
     "lng": 113.9991
   },
+  "MTRB:K51-U205": {
+    "stop_id": "K51-U205",
+    "company": "MTRB",
+    "name": {
+      "en": "Tsing Fat Street Light Public Housing",
+      "tc": "青發街簡約公屋",
+      "sc": "青發街簡約公屋"
+    },
+    "lat": 22.363622,
+    "lng": 113.999915
+  },
   "MTRB:K51-U210": {
     "stop_id": "K51-U210",
     "company": "MTRB",
@@ -111011,6 +111088,325 @@
     },
     "lat": 22.362495,
     "lng": 114.019113
+  },
+  "MTRB:K51-D250": {
+    "stop_id": "K51-D250",
+    "company": "MTRB",
+    "name": {
+      "en": "MTR Siu Hong Station (South) ",
+      "tc": "港鐵兆康站 (南) ",
+      "sc": "港鐵兆康站 (南) "
+    },
+    "lat": 22.410378,
+    "lng": 113.978607
+  },
+  "MTRB:K51-D260": {
+    "stop_id": "K51-D260",
+    "company": "MTRB",
+    "name": {
+      "en": "Brilliant Garden",
+      "tc": "彩暉花園",
+      "sc": "彩暉花園"
+    },
+    "lat": 22.408779,
+    "lng": 113.980397
+  },
+  "MTRB:K51-D270": {
+    "stop_id": "K51-D270",
+    "company": "MTRB",
+    "name": {
+      "en": "Lingnan University",
+      "tc": "嶺南大學",
+      "sc": "嶺南大學"
+    },
+    "lat": 22.410694,
+    "lng": 113.982212
+  },
+  "MTRB:K51-D280": {
+    "stop_id": "K51-D280",
+    "company": "MTRB",
+    "name": {
+      "en": "South Hillcrest",
+      "tc": "倚嶺南庭",
+      "sc": "倚嶺南庭"
+    },
+    "lat": 22.411927,
+    "lng": 113.983128
+  },
+  "MTRB:K51-D290": {
+    "stop_id": "K51-D290",
+    "company": "MTRB",
+    "name": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "lat": 22.413286,
+    "lng": 113.982895
+  },
+  "MTRB:K51-D010": {
+    "stop_id": "K51-D010",
+    "company": "MTRB",
+    "name": {
+      "en": "Tai Lam",
+      "tc": "大欖",
+      "sc": "大欖"
+    },
+    "lat": 22.362495,
+    "lng": 114.019113
+  },
+  "MTRB:K51-D020": {
+    "stop_id": "K51-D020",
+    "company": "MTRB",
+    "name": {
+      "en": "Siu Lam",
+      "tc": "小欖",
+      "sc": "小欖"
+    },
+    "lat": 22.364165,
+    "lng": 114.014994
+  },
+  "MTRB:K51-D030": {
+    "stop_id": "K51-D030",
+    "company": "MTRB",
+    "name": {
+      "en": "Ching Lai Road Siu Lam",
+      "tc": "小欖澄麗路",
+      "sc": "小欖澄麗路"
+    },
+    "lat": 22.365696,
+    "lng": 114.01244
+  },
+  "MTRB:K51-D040": {
+    "stop_id": "K51-D040",
+    "company": "MTRB",
+    "name": {
+      "en": "Siu Lam Tsuen",
+      "tc": "小欖村",
+      "sc": "小欖村"
+    },
+    "lat": 22.366338,
+    "lng": 114.00949
+  },
+  "MTRB:K51-D050": {
+    "stop_id": "K51-D050",
+    "company": "MTRB",
+    "name": {
+      "en": "Siu Lam San Tsuen",
+      "tc": "小欖新村",
+      "sc": "小欖新村"
+    },
+    "lat": 22.366102,
+    "lng": 114.005524
+  },
+  "MTRB:K51-D055": {
+    "stop_id": "K51-D055",
+    "company": "MTRB",
+    "name": {
+      "en": "Tsing Fat Street Light Public Housing",
+      "tc": "青發街簡約公屋",
+      "sc": "青發街簡約公屋"
+    },
+    "lat": 22.363622,
+    "lng": 113.999915
+  },
+  "MTRB:K51-D060": {
+    "stop_id": "K51-D060",
+    "company": "MTRB",
+    "name": {
+      "en": "The Aegean",
+      "tc": "愛琴灣",
+      "sc": "愛琴灣"
+    },
+    "lat": 22.366573,
+    "lng": 114.001616
+  },
+  "MTRB:K51-D070": {
+    "stop_id": "K51-D070",
+    "company": "MTRB",
+    "name": {
+      "en": "Siu Sau Sheung Tsuen",
+      "tc": "小秀上村",
+      "sc": "小秀上村"
+    },
+    "lat": 22.368003,
+    "lng": 113.999085
+  },
+  "MTRB:K51-D080": {
+    "stop_id": "K51-D080",
+    "company": "MTRB",
+    "name": {
+      "en": "Pearl Island",
+      "tc": "龍珠島",
+      "sc": "龍珠島"
+    },
+    "lat": 22.368035,
+    "lng": 113.996264
+  },
+  "MTRB:K51-D090": {
+    "stop_id": "K51-D090",
+    "company": "MTRB",
+    "name": {
+      "en": "Hong Kong Gold Coast",
+      "tc": "香港黃金海岸",
+      "sc": "香港黃金海岸"
+    },
+    "lat": 22.371285,
+    "lng": 113.993882
+  },
+  "MTRB:K51-D100": {
+    "stop_id": "K51-D100",
+    "company": "MTRB",
+    "name": {
+      "en": "Golden Beach",
+      "tc": "黃金泳灘",
+      "sc": "黃金泳灘"
+    },
+    "lat": 22.373628,
+    "lng": 113.991213
+  },
+  "MTRB:K51-D110": {
+    "stop_id": "K51-D110",
+    "company": "MTRB",
+    "name": {
+      "en": "Cafeteria Beach",
+      "tc": "咖啡灣",
+      "sc": "咖啡灣"
+    },
+    "lat": 22.3759,
+    "lng": 113.985635
+  },
+  "MTRB:K51-D120": {
+    "stop_id": "K51-D120",
+    "company": "MTRB",
+    "name": {
+      "en": "Bayview Terrace",
+      "tc": "碧翠花園",
+      "sc": "碧翠花園"
+    },
+    "lat": 22.377927,
+    "lng": 113.983242
+  },
+  "MTRB:K51-D130": {
+    "stop_id": "K51-D130",
+    "company": "MTRB",
+    "name": {
+      "en": "Castle Peak Bay Pier",
+      "tc": "青山灣碼頭",
+      "sc": "青山灣碼頭"
+    },
+    "lat": 22.378957,
+    "lng": 113.980602
+  },
+  "MTRB:K51-D140": {
+    "stop_id": "K51-D140",
+    "company": "MTRB",
+    "name": {
+      "en": "Sam Shing Estate",
+      "tc": "三聖邨",
+      "sc": "三聖邨"
+    },
+    "lat": 22.381214,
+    "lng": 113.979092
+  },
+  "MTRB:K51-D160": {
+    "stop_id": "K51-D160",
+    "company": "MTRB",
+    "name": {
+      "en": "Mrs Aw Boon Haw Secondary School",
+      "tc": "胡陳金枝中學",
+      "sc": "胡陳金枝中學"
+    },
+    "lat": 22.383774,
+    "lng": 113.97939
+  },
+  "MTRB:K51-D170": {
+    "stop_id": "K51-D170",
+    "company": "MTRB",
+    "name": {
+      "en": "Tsing Sin Playground",
+      "tc": "青善遊樂場",
+      "sc": "青善遊樂場"
+    },
+    "lat": 22.384602,
+    "lng": 113.980638
+  },
+  "MTRB:K51-D180": {
+    "stop_id": "K51-D180",
+    "company": "MTRB",
+    "name": {
+      "en": "Chi Lok Fa Yuen",
+      "tc": "置樂花園",
+      "sc": "置樂花園"
+    },
+    "lat": 22.387355,
+    "lng": 113.98069
+  },
+  "MTRB:K51-D190": {
+    "stop_id": "K51-D190",
+    "company": "MTRB",
+    "name": {
+      "en": "Tuen Mun Government Secondary School",
+      "tc": "屯門官立中學",
+      "sc": "屯門官立中學"
+    },
+    "lat": 22.390433,
+    "lng": 113.978805
+  },
+  "MTRB:K51-D200": {
+    "stop_id": "K51-D200",
+    "company": "MTRB",
+    "name": {
+      "en": "LR Town Centre Stop",
+      "tc": "輕鐵市中心站",
+      "sc": "輕鐵市中心站"
+    },
+    "lat": 22.392116,
+    "lng": 113.975082
+  },
+  "MTRB:K51-D210": {
+    "stop_id": "K51-D210",
+    "company": "MTRB",
+    "name": {
+      "en": "MTR Tuen Mun Station (LR Tuen Mun Stop)",
+      "tc": "港鐵屯門站 (輕鐵屯門站)",
+      "sc": "港鐵屯門站 (輕鐵屯門站)"
+    },
+    "lat": 22.395021,
+    "lng": 113.974444
+  },
+  "MTRB:K51-D220": {
+    "stop_id": "K51-D220",
+    "company": "MTRB",
+    "name": {
+      "en": "SKH St. Simon's Lui Ming Choi Secondary School",
+      "tc": "聖公會聖西門呂明才中學",
+      "sc": "聖公會聖西門呂明才中學"
+    },
+    "lat": 22.397311,
+    "lng": 113.974853
+  },
+  "MTRB:K51-D230": {
+    "stop_id": "K51-D230",
+    "company": "MTRB",
+    "name": {
+      "en": "Prime View Garden",
+      "tc": "景峰花園",
+      "sc": "景峰花園"
+    },
+    "lat": 22.40334,
+    "lng": 113.979247
+  },
+  "MTRB:K51-D240": {
+    "stop_id": "K51-D240",
+    "company": "MTRB",
+    "name": {
+      "en": "LR Fung Tei Stop",
+      "tc": "輕鐵鳳地站",
+      "sc": "輕鐵鳳地站"
+    },
+    "lat": 22.407254,
+    "lng": 113.978641
   },
   "MTRB:K51A-D010": {
     "stop_id": "K51A-D010",
@@ -113282,7 +113678,7 @@
     "stop_id": "K53S-U010",
     "company": "MTRB",
     "name": {
-      "en": "Tuen Mun Station",
+      "en": "Tuen Mun Station ",
       "tc": "屯門站 ",
       "sc": "屯門站 "
     },
@@ -113315,7 +113711,7 @@
     "stop_id": "K53S-U040",
     "company": "MTRB",
     "name": {
-      "en": "Tuen Mun Station",
+      "en": "Tuen Mun Station ",
       "tc": "屯門站 ",
       "sc": "屯門站 "
     },
@@ -142729,7 +143125,7 @@
     "stop_id": "20017522",
     "company": "GMBKLN",
     "name": {
-      "en": "Shing Fung Raod, near Cullinan Harbour",
+      "en": "Shing Fung Road, near Cullinan Harbour",
       "tc": "承豐道, 近天璽．海",
       "sc": "承丰道, 近天玺．海"
     },
@@ -142740,7 +143136,7 @@
     "stop_id": "20017523",
     "company": "GMBKLN",
     "name": {
-      "en": "Shing Fung Raod, near Kai Tak Bridge Road",
+      "en": "Shing Fung Road, near Kai Tak Bridge Road",
       "tc": "承豐道, 近啟德橋道",
       "sc": "承丰道, 近启德桥道"
     },
@@ -142751,12 +143147,23 @@
     "stop_id": "20021712",
     "company": "GMBKLN",
     "name": {
-      "en": "Kai Tak Bridge Road, near Shing Fung Raod",
+      "en": "Kai Tak Bridge Road, near Shing Fung Road",
       "tc": "啟德橋道, 近承豐道",
       "sc": "启德桥道, 近承丰道"
     },
     "lat": 22.315088368749848,
     "lng": 114.20581787824632
+  },
+  "GMBKLN:20023527": {
+    "stop_id": "20023527",
+    "company": "GMBKLN",
+    "name": {
+      "en": "Kai Tak Hospital",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
+    },
+    "lat": 22.318323995658517,
+    "lng": 114.20632481575014
   },
   "GMBKLN:20012995": {
     "stop_id": "20012995",
@@ -142817,9 +143224,9 @@
     "stop_id": "20012999",
     "company": "GMBKLN",
     "name": {
-      "en": "Shing Cheong Road, near Hong Kong Children's Hospital",
-      "tc": "承昌道, 近香港兒童醫院",
-      "sc": "承昌道, 近香港儿童医院"
+      "en": "Hong Kong Children’s Hospital",
+      "tc": "香港兒童醫院",
+      "sc": "香港儿童医院"
     },
     "lat": 22.31618644051734,
     "lng": 114.20880763704585
@@ -143367,12 +143774,23 @@
     "stop_id": "20021392",
     "company": "GMBKLN",
     "name": {
-      "en": "Shing Cheong Road near Hong Kong Children’s Hospital",
-      "tc": "承昌道近香港兒童醫院",
-      "sc": "承昌道近香港儿童医院"
+      "en": "Hong Kong Children’s Hospital",
+      "tc": "香港兒童醫院",
+      "sc": "香港儿童医院"
     },
     "lat": 22.315733515070715,
     "lng": 114.20930206775667
+  },
+  "GMBKLN:20023494": {
+    "stop_id": "20023494",
+    "company": "GMBKLN",
+    "name": {
+      "en": "Kai Tak Hospital",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
+    },
+    "lat": 22.318259482357895,
+    "lng": 114.20647501945497
   },
   "GMBKLN:20021393": {
     "stop_id": "20021393",
@@ -143472,6 +143890,17 @@
     },
     "lat": 22.33930784511668,
     "lng": 114.19582262635232
+  },
+  "GMBKLN:20021403": {
+    "stop_id": "20021403",
+    "company": "GMBKLN",
+    "name": {
+      "en": "Wong Tai Sin Bus Terminus",
+      "tc": "黃大仙巴士總站",
+      "sc": "黄大仙巴士总站"
+    },
+    "lat": 22.34079017917738,
+    "lng": 114.19483959674837
   },
   "GMBKLN:20007864": {
     "stop_id": "20007864",
@@ -143935,6 +144364,17 @@
     "lat": 22.312329093917604,
     "lng": 114.21757936477663
   },
+  "GMBKLN:20023560": {
+    "stop_id": "20023560",
+    "company": "GMBKLN",
+    "name": {
+      "en": "Kai Tak Hospital",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
+    },
+    "lat": 22.317346367828147,
+    "lng": 114.20764446258546
+  },
   "GMBKLN:20016715": {
     "stop_id": "20016715",
     "company": "GMBKLN",
@@ -144082,12 +144522,23 @@
     "stop_id": "20017917",
     "company": "GMBKLN",
     "name": {
-      "en": "Shing Cheong Road, near Clinical Tower (Tower B)",
-      "tc": "承昌道, 近香港兒童醫院臨床服務大樓",
-      "sc": "承昌道, 近香港儿童医院临床服务大楼"
+      "en": "Hong Kong Children’s Hospital",
+      "tc": "香港兒童醫院",
+      "sc": "香港儿童医院"
     },
     "lat": 22.315902245155073,
     "lng": 114.20904994010927
+  },
+  "GMBKLN:20023593": {
+    "stop_id": "20023593",
+    "company": "GMBKLN",
+    "name": {
+      "en": "Kai Tak Hospital",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
+    },
+    "lat": 22.317309148359193,
+    "lng": 114.20756131410602
   },
   "GMBKLN:20016736": {
     "stop_id": "20016736",
@@ -145222,16 +145673,16 @@
     "lat": 22.31804173905441,
     "lng": 114.26219344150014
   },
-  "GMBNT:20015215": {
-    "stop_id": "20015215",
+  "GMBNT:20023461": {
+    "stop_id": "20023461",
     "company": "GMBNT",
     "name": {
       "en": "Kwun Tong Road, outside Kwun Tong Industrial Centre",
       "tc": "觀塘道, 官塘工業中心外",
       "sc": "观塘道, 官塘工业中心外"
     },
-    "lat": 22.310525236946503,
-    "lng": 114.22869980335237
+    "lat": 22.311314203035764,
+    "lng": 114.22744855284694
   },
   "GMBNT:20015216": {
     "stop_id": "20015216",
@@ -145276,6 +145727,17 @@
     },
     "lat": 22.308195042341172,
     "lng": 114.22573059797288
+  },
+  "GMBNT:20015215": {
+    "stop_id": "20015215",
+    "company": "GMBNT",
+    "name": {
+      "en": "Kwun Tong Road, outside New City Centre",
+      "tc": "觀塘道, 新城工商中心外",
+      "sc": "观塘道, 新城工商中心外"
+    },
+    "lat": 22.310525236946503,
+    "lng": 114.22869980335237
   },
   "GMBNT:20015224": {
     "stop_id": "20015224",
@@ -158752,6 +159214,17 @@
     "lat": 22.414366061994752,
     "lng": 113.97698521614076
   },
+  "GMBNT:20023758": {
+    "stop_id": "20023758",
+    "company": "GMBNT",
+    "name": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "lat": 22.523795822394337,
+    "lng": 114.06836287961326
+  },
   "GMBNT:20001406": {
     "stop_id": "20001406",
     "company": "GMBNT",
@@ -163849,9 +164322,9 @@
     "stop_id": "20012429",
     "company": "GMBNT",
     "name": {
-      "en": "Sai Yee Street, outside Kin Wong Mansion",
-      "tc": "洗衣街, 建煌華廈外",
-      "sc": "洗衣街, 建煌华厦外"
+      "en": "Sai Yee Street, opposite Kin Wong Mansion",
+      "tc": "洗衣街, 建煌華廈對面",
+      "sc": "洗衣街, 建煌华厦对面"
     },
     "lat": 22.320624084802006,
     "lng": 114.17155135268244
@@ -163871,34 +164344,12 @@
     "stop_id": "20012430",
     "company": "GMBNT",
     "name": {
-      "en": "Waterloo Road",
-      "tc": "窩打老道",
-      "sc": "窝打老道"
+      "en": "Waterloo Road, near Yan Yuen",
+      "tc": "窩打老道, 近仁園",
+      "sc": "窝打老道, 近仁园"
     },
     "lat": 22.333426231517773,
     "lng": 114.17870593121579
-  },
-  "GMBNT:20012431": {
-    "stop_id": "20012431",
-    "company": "GMBNT",
-    "name": {
-      "en": "San Sham Road",
-      "tc": "新深路",
-      "sc": "新深路"
-    },
-    "lat": 22.50486872597546,
-    "lng": 114.07838556347997
-  },
-  "GMBNT:20011698": {
-    "stop_id": "20011698",
-    "company": "GMBNT",
-    "name": {
-      "en": "Lok Ma Chau Control Point",
-      "tc": "落馬洲管制站",
-      "sc": "落马洲管制站"
-    },
-    "lat": 22.507967968219024,
-    "lng": 114.07506823539735
   },
   "GMBNT:20012434": {
     "stop_id": "20012434",
@@ -166929,9 +167380,9 @@
     "stop_id": "20020527",
     "company": "GMBNT",
     "name": {
-      "en": "Tung Wui Road near Lamp Post No. AD7102",
-      "tc": "東匯路, 近沙田坑村",
-      "sc": "东汇路, 近沙田坑村"
+      "en": "Tung Wui Road, near Lamp Post No. AD7102",
+      "tc": "東匯路, 近燈柱編號AD7102",
+      "sc": "东汇路, 近灯柱编号AD7102"
     },
     "lat": 22.435872181071385,
     "lng": 114.06754195690156
@@ -166940,9 +167391,9 @@
     "stop_id": "20017720",
     "company": "GMBNT",
     "name": {
-      "en": "Pat Heung Road, (near Tai Lam Bus-Bus Interchange) Minibus Terminus",
-      "tc": "八鄉路,(近大欖隧道轉車站)小巴總站",
-      "sc": "八乡路,(近大榄隧道转车站)小巴总站"
+      "en": "Pat Heung Road, (near Tai Lam Tunnel Bus-Bus Interchange) Minibus Terminus",
+      "tc": "八鄉路, (近大欖隧道轉車站)小巴總站",
+      "sc": "八乡路, (近大榄隧道转车站)小巴总站"
     },
     "lat": 22.420462335665945,
     "lng": 114.0625929293598
@@ -166951,7 +167402,7 @@
     "stop_id": "20020528",
     "company": "GMBNT",
     "name": {
-      "en": "Kam Sheung Road near Lamp Post No. AD7129",
+      "en": "Kam Sheung Road, near Kam Tin Po Tei",
       "tc": "錦上路, 近錦田波地",
       "sc": "锦上路, 近锦田波地"
     },
@@ -166963,8 +167414,8 @@
     "company": "GMBNT",
     "name": {
       "en": "Kam Tin Road near Kam Tin Mung Yeung Public School ",
-      "tc": "錦田公路近蒙養公立學校 ",
-      "sc": "锦田公路近蒙养公立学校"
+      "tc": "錦田公路, 近錦田公立蒙養學校 ",
+      "sc": "锦田公路，近锦田公立蒙养学校"
     },
     "lat": 22.43990326371371,
     "lng": 114.06140551174887
@@ -166973,9 +167424,9 @@
     "stop_id": "20017489",
     "company": "GMBNT",
     "name": {
-      "en": "Castle Peak Road - Tam-mi, near Sha Po Tsuen ",
-      "tc": "青山公路 - 潭尾段近沙埔村 ",
-      "sc": "青山公路 - 潭尾段近沙埔村"
+      "en": "Castle Peak Road - Tam Mi, near Sha Po Tsuen",
+      "tc": "青山公路 - 潭尾段, 近沙埔村 ",
+      "sc": "青山公路 - 潭尾段, 近沙埔村"
     },
     "lat": 22.45170817761328,
     "lng": 114.04967562492048
@@ -167089,28 +167540,6 @@
     },
     "lat": 22.444582525160968,
     "lng": 114.03024181723598
-  },
-  "GMBNT:20015598": {
-    "stop_id": "20015598",
-    "company": "GMBNT",
-    "name": {
-      "en": "Lok Ma Chau Control Point",
-      "tc": "落馬洲管制站",
-      "sc": "落马洲管制站"
-    },
-    "lat": 22.508146376561424,
-    "lng": 114.0748777985573
-  },
-  "GMBNT:20015597": {
-    "stop_id": "20015597",
-    "company": "GMBNT",
-    "name": {
-      "en": "San Tin Public Transport Interchange",
-      "tc": "新田公共運輸交匯處",
-      "sc": "新田公共运输交汇处"
-    },
-    "lat": 22.503067843556586,
-    "lng": 114.0820647776127
   },
   "GMBNT:20015609": {
     "stop_id": "20015609",
@@ -175119,6 +175548,468 @@
     },
     "lat": 22.293075,
     "lng": 113.932229
+  },
+  "NLB:351": {
+    "stop_id": "351",
+    "company": "NLB",
+    "name": {
+      "en": "Wu Kai Sha Station",
+      "tc": "烏溪沙站",
+      "sc": "乌溪沙站"
+    },
+    "lat": 22.42828254,
+    "lng": 114.24313291
+  },
+  "NLB:352": {
+    "stop_id": "352",
+    "company": "NLB",
+    "name": {
+      "en": "Lee On Estate",
+      "tc": "利安邨",
+      "sc": "利安邨"
+    },
+    "lat": 22.42737674,
+    "lng": 114.24057336
+  },
+  "NLB:353": {
+    "stop_id": "353",
+    "company": "NLB",
+    "name": {
+      "en": "Saddle Ridge Garden",
+      "tc": "富寶花園",
+      "sc": "富宝花园"
+    },
+    "lat": 22.42555088,
+    "lng": 114.23557936
+  },
+  "NLB:354": {
+    "stop_id": "354",
+    "company": "NLB",
+    "name": {
+      "en": "Ma On Shan Town Centre",
+      "tc": "馬鞍山市中心",
+      "sc": "马鞍山市中心"
+    },
+    "lat": 22.42452957,
+    "lng": 114.23161476
+  },
+  "NLB:355": {
+    "stop_id": "355",
+    "company": "NLB",
+    "name": {
+      "en": "Fok On Garden",
+      "tc": "福安花園",
+      "sc": "福安花园"
+    },
+    "lat": 22.42304356,
+    "lng": 114.22830905
+  },
+  "NLB:356": {
+    "stop_id": "356",
+    "company": "NLB",
+    "name": {
+      "en": "Yiu On Estate",
+      "tc": "耀安邨",
+      "sc": "耀安邨"
+    },
+    "lat": 22.420986,
+    "lng": 114.22960321
+  },
+  "NLB:357": {
+    "stop_id": "357",
+    "company": "NLB",
+    "name": {
+      "en": "Yiu Him House, Yiu On Estate",
+      "tc": "耀安邨耀謙樓",
+      "sc": "耀安邨耀谦楼"
+    },
+    "lat": 22.41784861,
+    "lng": 114.23111059
+  },
+  "NLB:358": {
+    "stop_id": "358",
+    "company": "NLB",
+    "name": {
+      "en": "Kam Chun Court",
+      "tc": "錦駿苑",
+      "sc": "锦骏苑"
+    },
+    "lat": 22.41334569,
+    "lng": 114.22688
+  },
+  "NLB:359": {
+    "stop_id": "359",
+    "company": "NLB",
+    "name": {
+      "en": "Ma Liu Shui Public Pier",
+      "tc": "馬料水公眾碼頭",
+      "sc": "马料水公众码头"
+    },
+    "lat": 22.41594119,
+    "lng": 114.21373468
+  },
+  "NLB:360": {
+    "stop_id": "360",
+    "company": "NLB",
+    "name": {
+      "en": "Water Sports Centre",
+      "tc": "水上活動中心",
+      "sc": "水上活动中心"
+    },
+    "lat": 22.41874512,
+    "lng": 114.21403458
+  },
+  "NLB:361": {
+    "stop_id": "361",
+    "company": "NLB",
+    "name": {
+      "en": "Hong Kong Institute of Biotechnology",
+      "tc": "香港生物科技研究院",
+      "sc": "香港生物科技研究院"
+    },
+    "lat": 22.42304151,
+    "lng": 114.2138654
+  },
+  "NLB:362": {
+    "stop_id": "362",
+    "company": "NLB",
+    "name": {
+      "en": "Science Park Phase 1",
+      "tc": "科學園第一期",
+      "sc": "科学园第一期"
+    },
+    "lat": 22.42425175,
+    "lng": 114.21138823
+  },
+  "NLB:363": {
+    "stop_id": "363",
+    "company": "NLB",
+    "name": {
+      "en": "Fo Yin Road",
+      "tc": "科研路",
+      "sc": "科研路"
+    },
+    "lat": 22.42661712,
+    "lng": 114.20795718
+  },
+  "NLB:364": {
+    "stop_id": "364",
+    "company": "NLB",
+    "name": {
+      "en": "St Martin",
+      "tc": "雲匯",
+      "sc": "云汇"
+    },
+    "lat": 22.42941848,
+    "lng": 114.20351042
+  },
+  "NLB:365": {
+    "stop_id": "365",
+    "company": "NLB",
+    "name": {
+      "en": "Pak Shek Kok",
+      "tc": "白石角",
+      "sc": "白石角"
+    },
+    "lat": 22.43146911,
+    "lng": 114.20146355
+  },
+  "NLB:366": {
+    "stop_id": "366",
+    "company": "NLB",
+    "name": {
+      "en": "Pak Shek Kok Substation",
+      "tc": "白石角變電站",
+      "sc": "白石角变电站"
+    },
+    "lat": 22.43390206,
+    "lng": 114.20081483
+  },
+  "NLB:367": {
+    "stop_id": "367",
+    "company": "NLB",
+    "name": {
+      "en": "Kwong Chi House Kwong Fuk Estate",
+      "tc": "廣福邨廣智樓",
+      "sc": "广福邨广智楼"
+    },
+    "lat": 22.44991145,
+    "lng": 114.17198978
+  },
+  "NLB:368": {
+    "stop_id": "368",
+    "company": "NLB",
+    "name": {
+      "en": "Kwong Fuk Playground",
+      "tc": "廣福球場",
+      "sc": "广福球场"
+    },
+    "lat": 22.44778807,
+    "lng": 114.1720924
+  },
+  "NLB:369": {
+    "stop_id": "369",
+    "company": "NLB",
+    "name": {
+      "en": "Kwong Fuk Estate",
+      "tc": "廣福邨",
+      "sc": "广福邨"
+    },
+    "lat": 22.44652956,
+    "lng": 114.17353082
+  },
+  "NLB:370": {
+    "stop_id": "370",
+    "company": "NLB",
+    "name": {
+      "en": "San Tin Public Transport Interchange",
+      "tc": "新田運輸交匯處",
+      "sc": "新田运输交汇处"
+    },
+    "lat": 22.50304074,
+    "lng": 114.08236259
+  },
+  "NLB:371": {
+    "stop_id": "371",
+    "company": "NLB",
+    "name": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "lat": 22.522567,
+    "lng": 114.068583
+  },
+  "NLB:372": {
+    "stop_id": "372",
+    "company": "NLB",
+    "name": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "lat": 22.522567,
+    "lng": 114.068583
+  },
+  "NLB:373": {
+    "stop_id": "373",
+    "company": "NLB",
+    "name": {
+      "en": "Kwong Fuk Estate",
+      "tc": "廣福邨",
+      "sc": "广福邨"
+    },
+    "lat": 22.44638388,
+    "lng": 114.1730287
+  },
+  "NLB:374": {
+    "stop_id": "374",
+    "company": "NLB",
+    "name": {
+      "en": "Kwong Fuk Playground",
+      "tc": "廣福球場",
+      "sc": "广福球场"
+    },
+    "lat": 22.4477083,
+    "lng": 114.17186782
+  },
+  "NLB:375": {
+    "stop_id": "375",
+    "company": "NLB",
+    "name": {
+      "en": "Lam Tsuen River",
+      "tc": "林村河",
+      "sc": "林村河"
+    },
+    "lat": 22.44972808,
+    "lng": 114.17171048
+  },
+  "NLB:376": {
+    "stop_id": "376",
+    "company": "NLB",
+    "name": {
+      "en": "Pak Shek Kok Substation",
+      "tc": "白石角變電站",
+      "sc": "白石角变电站"
+    },
+    "lat": 22.43477732,
+    "lng": 114.2014816
+  },
+  "NLB:377": {
+    "stop_id": "377",
+    "company": "NLB",
+    "name": {
+      "en": "Providence Bay",
+      "tc": "天賦海灣",
+      "sc": "天赋海湾"
+    },
+    "lat": 22.43182247,
+    "lng": 114.20141646
+  },
+  "NLB:378": {
+    "stop_id": "378",
+    "company": "NLB",
+    "name": {
+      "en": "St Martin",
+      "tc": "雲匯",
+      "sc": "云汇"
+    },
+    "lat": 22.42960512,
+    "lng": 114.20366736
+  },
+  "NLB:379": {
+    "stop_id": "379",
+    "company": "NLB",
+    "name": {
+      "en": "Chong San Road",
+      "tc": "創新路",
+      "sc": "创新路"
+    },
+    "lat": 22.42871495,
+    "lng": 114.20512672
+  },
+  "NLB:380": {
+    "stop_id": "380",
+    "company": "NLB",
+    "name": {
+      "en": "Fo Yin Road",
+      "tc": "科研路",
+      "sc": "科研路"
+    },
+    "lat": 22.42626316,
+    "lng": 114.20886416
+  },
+  "NLB:381": {
+    "stop_id": "381",
+    "company": "NLB",
+    "name": {
+      "en": "Science Park Phase 1",
+      "tc": "科學園第一期",
+      "sc": "科学园第一期"
+    },
+    "lat": 22.42444377,
+    "lng": 114.21153189
+  },
+  "NLB:382": {
+    "stop_id": "382",
+    "company": "NLB",
+    "name": {
+      "en": "Hong Kong Institute of Biotechnology",
+      "tc": "香港生物科技研究院",
+      "sc": "香港生物科技研究院"
+    },
+    "lat": 22.4227608,
+    "lng": 114.21416952
+  },
+  "NLB:383": {
+    "stop_id": "383",
+    "company": "NLB",
+    "name": {
+      "en": "Water Sports Centre",
+      "tc": "水上活動中心",
+      "sc": "水上活动中心"
+    },
+    "lat": 22.41868961,
+    "lng": 114.21426129
+  },
+  "NLB:384": {
+    "stop_id": "384",
+    "company": "NLB",
+    "name": {
+      "en": "Ma Liu Shui Public Pier",
+      "tc": "馬料水公眾碼頭",
+      "sc": "马料水公众码头"
+    },
+    "lat": 22.41614549,
+    "lng": 114.2139128
+  },
+  "NLB:385": {
+    "stop_id": "385",
+    "company": "NLB",
+    "name": {
+      "en": "Kam Chun Court",
+      "tc": "錦駿苑",
+      "sc": "锦骏苑"
+    },
+    "lat": 22.41186791,
+    "lng": 114.22410685
+  },
+  "NLB:386": {
+    "stop_id": "386",
+    "company": "NLB",
+    "name": {
+      "en": "Heng On Estate",
+      "tc": "恆安邨",
+      "sc": "恒安邨"
+    },
+    "lat": 22.41797667,
+    "lng": 114.23047448
+  },
+  "NLB:387": {
+    "stop_id": "387",
+    "company": "NLB",
+    "name": {
+      "en": "Ma On Shan Sports Ground",
+      "tc": "馬鞍山運動場",
+      "sc": "马鞍山运动场"
+    },
+    "lat": 22.42178644,
+    "lng": 114.22854914
+  },
+  "NLB:388": {
+    "stop_id": "388",
+    "company": "NLB",
+    "name": {
+      "en": "Fok On Garden",
+      "tc": "福安花園",
+      "sc": "福安花园"
+    },
+    "lat": 22.42358238,
+    "lng": 114.22826077
+  },
+  "NLB:389": {
+    "stop_id": "389",
+    "company": "NLB",
+    "name": {
+      "en": "Bayshore Towers",
+      "tc": "海柏花園",
+      "sc": "海柏花园"
+    },
+    "lat": 22.42503594,
+    "lng": 114.23150585
+  },
+  "NLB:390": {
+    "stop_id": "390",
+    "company": "NLB",
+    "name": {
+      "en": "Villa Athena",
+      "tc": "雅典居",
+      "sc": "雅典居"
+    },
+    "lat": 22.42591696,
+    "lng": 114.23638938
+  },
+  "NLB:391": {
+    "stop_id": "391",
+    "company": "NLB",
+    "name": {
+      "en": "Lee On Estate",
+      "tc": "利安邨",
+      "sc": "利安邨"
+    },
+    "lat": 22.42760012,
+    "lng": 114.24030327
+  },
+  "NLB:392": {
+    "stop_id": "392",
+    "company": "NLB",
+    "name": {
+      "en": "Wu Kai Sha Station",
+      "tc": "烏溪沙站",
+      "sc": "乌溪沙站"
+    },
+    "lat": 22.42829529,
+    "lng": 114.24313286
   },
   "NLB:161": {
     "stop_id": "161",

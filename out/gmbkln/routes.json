@@ -3954,27 +3954,27 @@
       "sc": "黄大仙站"
     },
     "destination": {
-      "en": "Hong Kong Children’s Hospital (Circular)",
-      "tc": "香港兒童醫院(循環線)",
-      "sc": "香港儿童医院(循环线)"
+      "en": "Kai Tak Hospital (Circular)",
+      "tc": "啟德醫院(循環線)",
+      "sc": "启德医院(循环线)"
     }
   },
-  "GMBKLN-88A-2010798-1": {
-    "record_id": "GMBKLN-88A-2010798-1",
+  "GMBKLN-88A-2011853-1": {
+    "record_id": "GMBKLN-88A-2011853-1",
     "company": "GMBKLN",
-    "route_id": "2010798",
+    "route_id": "2011853",
     "route": "88A",
     "route_seq": 1,
     "region": "KLN",
     "origin": {
-      "en": "Kai Ching Estate",
-      "tc": "啟晴邨",
-      "sc": "启晴邨"
+      "en": "Wong Tai Sin Station",
+      "tc": "黃大仙站",
+      "sc": "黄大仙站"
     },
     "destination": {
-      "en": "Hong Kong Children’s Hospital (Circular)",
-      "tc": "香港兒童醫院(循環線)",
-      "sc": "香港儿童医院(循环线)"
+      "en": "Kai Tak Hospital (Circular)",
+      "tc": "啟德醫院(循環線)",
+      "sc": "启德医院(循环线)"
     }
   },
   "GMBKLN-89A-2001031-1": {
@@ -4224,9 +4224,9 @@
       "sc": "油塘 (油丽邨)"
     },
     "destination": {
-      "en": "Hong Kong Children's Hospital",
-      "tc": "香港兒童醫院",
-      "sc": "香港儿童医院"
+      "en": "Kai Tak Hospital",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
     }
   },
   "GMBKLN-90A-2008586-2": {
@@ -4278,9 +4278,9 @@
       "sc": "秀茂坪"
     },
     "destination": {
-      "en": "Hong Kong Children's Hospital",
-      "tc": "香港兒童醫院",
-      "sc": "香港儿童医院"
+      "en": "Kai Tak Hospital",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
     }
   },
   "GMBKLN-90B-2008592-2": {

@@ -1359,6 +1359,23 @@
       "sc": "慈云山(中)"
     }
   },
+  "KMB-11A-O-1": {
+    "record_id": "KMB-11A-O-1",
+    "company": "KMB",
+    "route": "11A",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "CHUK YUEN ESTATE",
+      "tc": "竹園邨",
+      "sc": "竹园邨"
+    },
+    "destination": {
+      "en": "KAI TAK HOSPITAL",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
+    }
+  },
   "KMB-11B-O-1": {
     "record_id": "KMB-11B-O-1",
     "company": "KMB",
@@ -2326,6 +2343,23 @@
       "en": "KWUN TONG (YUE MAN SQUARE)",
       "tc": "觀塘(裕民坊)",
       "sc": "观塘(裕民坊)"
+    }
+  },
+  "KMB-17A-O-1": {
+    "record_id": "KMB-17A-O-1",
+    "company": "KMB",
+    "route": "17A",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "HO MAN TIN (OI MAN ESTATE)",
+      "tc": "何文田(愛民邨)",
+      "sc": "何文田(爱民邨)"
+    },
+    "destination": {
+      "en": "KAI TAK HOSPITAL",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
     }
   },
   "KMB-17P-O-1": {
@@ -5320,6 +5354,40 @@
       "sc": "旺角(柏景湾)"
     }
   },
+  "KMB-52S-O-1": {
+    "record_id": "KMB-52S-O-1",
+    "company": "KMB",
+    "route": "52S",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "TUEN MUN ROAD BBI",
+      "tc": "屯門公路轉車站",
+      "sc": "屯门公路转车站"
+    },
+    "destination": {
+      "en": "TSANG TSUI",
+      "tc": "曾咀",
+      "sc": "曾咀"
+    }
+  },
+  "KMB-52S-I-1": {
+    "record_id": "KMB-52S-I-1",
+    "company": "KMB",
+    "route": "52S",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "TSANG TSUI",
+      "tc": "曾咀",
+      "sc": "曾咀"
+    },
+    "destination": {
+      "en": "TUEN MUN ROAD BBI",
+      "tc": "屯門公路轉車站",
+      "sc": "屯门公路转车站"
+    }
+  },
   "KMB-52X-O-1": {
     "record_id": "KMB-52X-O-1",
     "company": "KMB",
@@ -5403,6 +5471,40 @@
       "en": "SHEUNG TSUEN (CIRCULAR)",
       "tc": "上村(循環線)",
       "sc": "上村(循环线)"
+    }
+  },
+  "KMB-56S-O-1": {
+    "record_id": "KMB-56S-O-1",
+    "company": "KMB",
+    "route": "56S",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "TUEN MUN STATION",
+      "tc": "屯門站",
+      "sc": "屯门站"
+    },
+    "destination": {
+      "en": "TSANG TSUI",
+      "tc": "曾咀",
+      "sc": "曾咀"
+    }
+  },
+  "KMB-56S-I-1": {
+    "record_id": "KMB-56S-I-1",
+    "company": "KMB",
+    "route": "56S",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "TSANG TSUI",
+      "tc": "曾咀",
+      "sc": "曾咀"
+    },
+    "destination": {
+      "en": "TUEN MUN STATION",
+      "tc": "屯門站",
+      "sc": "屯门站"
     }
   },
   "KMB-57M-O-1": {
@@ -5879,6 +5981,40 @@
       "en": "SO KWUN WAT",
       "tc": "掃管笏",
       "sc": "扫管笏"
+    }
+  },
+  "KMB-61S-O-1": {
+    "record_id": "KMB-61S-O-1",
+    "company": "KMB",
+    "route": "61S",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "TUEN MUN CENTRAL",
+      "tc": "屯門巿中心",
+      "sc": "屯门巿中心"
+    },
+    "destination": {
+      "en": "WO HOP SHEK",
+      "tc": "和合石",
+      "sc": "和合石"
+    }
+  },
+  "KMB-61S-I-1": {
+    "record_id": "KMB-61S-I-1",
+    "company": "KMB",
+    "route": "61S",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "WO HOP SHEK",
+      "tc": "和合石",
+      "sc": "和合石"
+    },
+    "destination": {
+      "en": "TUEN MUN CENTRAL",
+      "tc": "屯門巿中心",
+      "sc": "屯门巿中心"
     }
   },
   "KMB-61X-O-1": {
@@ -7275,6 +7411,23 @@
       "sc": "上水站"
     }
   },
+  "KMB-73B-O-4": {
+    "record_id": "KMB-73B-O-4",
+    "company": "KMB",
+    "route": "73B",
+    "bound": "O",
+    "service_type": "4",
+    "origin": {
+      "en": "EDUCATION UNIVERSITY OF HONG KONG",
+      "tc": "香港教育大學",
+      "sc": "香港教育大学"
+    },
+    "destination": {
+      "en": "SHEUNG SHUI STATION",
+      "tc": "上水站",
+      "sc": "上水站"
+    }
+  },
   "KMB-73D-O-1": {
     "record_id": "KMB-73D-O-1",
     "company": "KMB",
@@ -8159,6 +8312,23 @@
       "sc": "上水站 (彩园路) (循环线)"
     }
   },
+  "KMB-76A-O-1": {
+    "record_id": "KMB-76A-O-1",
+    "company": "KMB",
+    "route": "76A",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "SHEUNG SHUI STATION",
+      "tc": "上水站",
+      "sc": "上水站"
+    },
+    "destination": {
+      "en": "KWU TUNG NORTH (CIRCULAR)",
+      "tc": "古洞北(循環線)",
+      "sc": "古洞北(循环线)"
+    }
+  },
   "KMB-76K-O-1": {
     "record_id": "KMB-76K-O-1",
     "company": "KMB",
@@ -8193,23 +8363,6 @@
       "sc": "朗屏邨"
     }
   },
-  "KMB-76K-O-3": {
-    "record_id": "KMB-76K-O-3",
-    "company": "KMB",
-    "route": "76K",
-    "bound": "O",
-    "service_type": "3",
-    "origin": {
-      "en": "SHEUNG SHUI (CHING HO)",
-      "tc": "上水(清河)",
-      "sc": "上水(清河)"
-    },
-    "destination": {
-      "en": "PAK SHEK AU",
-      "tc": "白石凹",
-      "sc": "白石凹"
-    }
-  },
   "KMB-76K-I-1": {
     "record_id": "KMB-76K-I-1",
     "company": "KMB",
@@ -8220,23 +8373,6 @@
       "en": "LONG PING ESTATE",
       "tc": "朗屏邨",
       "sc": "朗屏邨"
-    },
-    "destination": {
-      "en": "SHEUNG SHUI (CHING HO)",
-      "tc": "上水(清河)",
-      "sc": "上水(清河)"
-    }
-  },
-  "KMB-76K-I-2": {
-    "record_id": "KMB-76K-I-2",
-    "company": "KMB",
-    "route": "76K",
-    "bound": "I",
-    "service_type": "2",
-    "origin": {
-      "en": "SAN TIN PTI",
-      "tc": "新田運輸交匯處",
-      "sc": "新田运输交汇处"
     },
     "destination": {
       "en": "SHEUNG SHUI (CHING HO)",
@@ -10794,23 +10930,6 @@
       "sc": "西贡"
     }
   },
-  "KMB-92-I-2": {
-    "record_id": "KMB-92-I-2",
-    "company": "KMB",
-    "route": "92",
-    "bound": "I",
-    "service_type": "2",
-    "origin": {
-      "en": "DIAMOND HILL STATION",
-      "tc": "鑽石山站",
-      "sc": "钻石山站"
-    },
-    "destination": {
-      "en": "SAI KUNG",
-      "tc": "西貢",
-      "sc": "西贡"
-    }
-  },
   "KMB-92R-O-1": {
     "record_id": "KMB-92R-O-1",
     "company": "KMB",
@@ -10823,9 +10942,9 @@
       "sc": "西贡"
     },
     "destination": {
-      "en": "STAR FERRY",
-      "tc": "尖沙咀碼頭",
-      "sc": "尖沙咀码头"
+      "en": "YAU MA TEI (KOWLOON CENTRAL POST OFFICE)",
+      "tc": "油麻地(九龍中央郵政局)",
+      "sc": "油麻地(九龙中央邮政局)"
     }
   },
   "KMB-92R-I-1": {
@@ -14942,23 +15061,6 @@
       "sc": "上水(天平)"
     }
   },
-  "KMB-261P-I-1": {
-    "record_id": "KMB-261P-I-1",
-    "company": "KMB",
-    "route": "261P",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "SHEUNG SHUI (TIN PING)",
-      "tc": "上水(天平)",
-      "sc": "上水(天平)"
-    },
-    "destination": {
-      "en": "TUEN MUN (SIU HONG COURT)",
-      "tc": "屯門(兆康苑)",
-      "sc": "屯门(兆康苑)"
-    }
-  },
   "KMB-261S-O-1": {
     "record_id": "KMB-261S-O-1",
     "company": "KMB",
@@ -14966,9 +15068,9 @@
     "bound": "O",
     "service_type": "1",
     "origin": {
-      "en": "TUEN MUN (PO TIN ESTATE)",
-      "tc": "屯門(寶田邨)",
-      "sc": "屯门(宝田邨)"
+      "en": "YIP WONG ESTATE",
+      "tc": "業旺邨",
+      "sc": "业旺邨"
     },
     "destination": {
       "en": "SHEUNG SHUI (TIN PING)",
@@ -23340,6 +23442,108 @@
       "sc": "妈横路(山水楼)"
     }
   },
+  "KMB-B10-O-1": {
+    "record_id": "KMB-B10-O-1",
+    "company": "KMB",
+    "route": "B10",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "KWAI FONG (KWAI TSUI ESTATE)",
+      "tc": "葵芳(葵翠邨)",
+      "sc": "葵芳(葵翠邨)"
+    },
+    "destination": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
+  "KMB-B10-I-1": {
+    "record_id": "KMB-B10-I-1",
+    "company": "KMB",
+    "route": "B10",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "destination": {
+      "en": "KWAI FONG (KWAI TSUI ESTATE)",
+      "tc": "葵芳(葵翠邨)",
+      "sc": "葵芳(葵翠邨)"
+    }
+  },
+  "KMB-B11-O-1": {
+    "record_id": "KMB-B11-O-1",
+    "company": "KMB",
+    "route": "B11",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "TIN FU",
+      "tc": "天富",
+      "sc": "天富"
+    },
+    "destination": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
+  "KMB-B11-O-3": {
+    "record_id": "KMB-B11-O-3",
+    "company": "KMB",
+    "route": "B11",
+    "bound": "O",
+    "service_type": "3",
+    "origin": {
+      "en": "YUEN LONG PLAZA",
+      "tc": "元朗廣場",
+      "sc": "元朗广场"
+    },
+    "destination": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
+  "KMB-B11-I-1": {
+    "record_id": "KMB-B11-I-1",
+    "company": "KMB",
+    "route": "B11",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "destination": {
+      "en": "TIN FU",
+      "tc": "天富",
+      "sc": "天富"
+    }
+  },
+  "KMB-B11-I-4": {
+    "record_id": "KMB-B11-I-4",
+    "company": "KMB",
+    "route": "B11",
+    "bound": "I",
+    "service_type": "4",
+    "origin": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "destination": {
+      "en": "YUEN LONG TAI TONG ROAD",
+      "tc": "元朗大棠路",
+      "sc": "元朗大棠路"
+    }
+  },
   "KMB-B9-O-1": {
     "record_id": "KMB-B9-O-1",
     "company": "KMB",
@@ -24700,40 +24904,6 @@
       "sc": "白石角(循环线)"
     }
   },
-  "KMB-N276-O-1": {
-    "record_id": "KMB-N276-O-1",
-    "company": "KMB",
-    "route": "N276",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TIN TSZ",
-      "tc": "天慈",
-      "sc": "天慈"
-    },
-    "destination": {
-      "en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
-      "tc": "新田運輸交匯處",
-      "sc": "新田运输交汇处"
-    }
-  },
-  "KMB-N276-I-1": {
-    "record_id": "KMB-N276-I-1",
-    "company": "KMB",
-    "route": "N276",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "SAN TIN PUBLIC TRANSPORT INTERCHANGE",
-      "tc": "新田運輸交匯處",
-      "sc": "新田运输交汇处"
-    },
-    "destination": {
-      "en": "TIN TSZ",
-      "tc": "天慈",
-      "sc": "天慈"
-    }
-  },
   "KMB-N281-O-1": {
     "record_id": "KMB-N281-O-1",
     "company": "KMB",
@@ -25363,40 +25533,6 @@
       "sc": "调景岭"
     }
   },
-  "KMB-N73-O-1": {
-    "record_id": "KMB-N73-O-1",
-    "company": "KMB",
-    "route": "N73",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "SHATIN CENTRAL",
-      "tc": "沙田巿中心",
-      "sc": "沙田巿中心"
-    },
-    "destination": {
-      "en": "LOK MA CHAU",
-      "tc": "落馬洲",
-      "sc": "落马洲"
-    }
-  },
-  "KMB-N73-I-1": {
-    "record_id": "KMB-N73-I-1",
-    "company": "KMB",
-    "route": "N73",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "LOK MA CHAU",
-      "tc": "落馬洲",
-      "sc": "落马洲"
-    },
-    "destination": {
-      "en": "SHATIN CENTRAL",
-      "tc": "沙田巿中心",
-      "sc": "沙田巿中心"
-    }
-  },
   "KMB-N78-O-1": {
     "record_id": "KMB-N78-O-1",
     "company": "KMB",
@@ -25837,6 +25973,40 @@
       "en": "Cathay City",
       "tc": "國泰城",
       "sc": "国泰城"
+    }
+  },
+  "KMB-NB73-O-1": {
+    "record_id": "KMB-NB73-O-1",
+    "company": "KMB",
+    "route": "NB73",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "SHATIN CENTRAL",
+      "tc": "沙田巿中心",
+      "sc": "沙田巿中心"
+    },
+    "destination": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
+  "KMB-NB73-I-1": {
+    "record_id": "KMB-NB73-I-1",
+    "company": "KMB",
+    "route": "NB73",
+    "bound": "I",
+    "service_type": "1",
+    "origin": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "destination": {
+      "en": "SHATIN CENTRAL",
+      "tc": "沙田巿中心",
+      "sc": "沙田巿中心"
     }
   },
   "KMB-P960-O-1": {
@@ -27121,9 +27291,9 @@
     "bound": "I",
     "service_type": "1",
     "origin": {
-      "en": "HK CHILDREN'S HOSPITAL",
-      "tc": "香港兒童醫院",
-      "sc": "香港儿童医院"
+      "en": "KAI TAK HOSPITAL",
+      "tc": "啟德醫院",
+      "sc": "启德医院"
     },
     "destination": {
       "en": "MEI FOO",
