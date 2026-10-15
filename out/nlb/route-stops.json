@@ -12498,6 +12498,495 @@
       }
     ]
   },
+  "NLB-B12-117": {
+    "record_id": "NLB-B12-117",
+    "company": "NLB",
+    "route_id": "117",
+    "route": "B12",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "351",
+        "name": {
+          "en": "Wu Kai Sha Station",
+          "tc": "烏溪沙站",
+          "sc": "乌溪沙站"
+        },
+        "lat": 22.42828254,
+        "long": 114.24313291
+      },
+      {
+        "seq": 2,
+        "stop_id": "352",
+        "name": {
+          "en": "Lee On Estate",
+          "tc": "利安邨",
+          "sc": "利安邨"
+        },
+        "lat": 22.42737674,
+        "long": 114.24057336
+      },
+      {
+        "seq": 3,
+        "stop_id": "353",
+        "name": {
+          "en": "Saddle Ridge Garden",
+          "tc": "富寶花園",
+          "sc": "富宝花园"
+        },
+        "lat": 22.42555088,
+        "long": 114.23557936
+      },
+      {
+        "seq": 4,
+        "stop_id": "354",
+        "name": {
+          "en": "Ma On Shan Town Centre",
+          "tc": "馬鞍山市中心",
+          "sc": "马鞍山市中心"
+        },
+        "lat": 22.42452957,
+        "long": 114.23161476
+      },
+      {
+        "seq": 5,
+        "stop_id": "355",
+        "name": {
+          "en": "Fok On Garden",
+          "tc": "福安花園",
+          "sc": "福安花园"
+        },
+        "lat": 22.42304356,
+        "long": 114.22830905
+      },
+      {
+        "seq": 6,
+        "stop_id": "356",
+        "name": {
+          "en": "Yiu On Estate",
+          "tc": "耀安邨",
+          "sc": "耀安邨"
+        },
+        "lat": 22.420986,
+        "long": 114.22960321
+      },
+      {
+        "seq": 7,
+        "stop_id": "357",
+        "name": {
+          "en": "Yiu Him House, Yiu On Estate",
+          "tc": "耀安邨耀謙樓",
+          "sc": "耀安邨耀谦楼"
+        },
+        "lat": 22.41784861,
+        "long": 114.23111059
+      },
+      {
+        "seq": 8,
+        "stop_id": "358",
+        "name": {
+          "en": "Kam Chun Court",
+          "tc": "錦駿苑",
+          "sc": "锦骏苑"
+        },
+        "lat": 22.41334569,
+        "long": 114.22688
+      },
+      {
+        "seq": 9,
+        "stop_id": "359",
+        "name": {
+          "en": "Ma Liu Shui Public Pier",
+          "tc": "馬料水公眾碼頭",
+          "sc": "马料水公众码头"
+        },
+        "lat": 22.41594119,
+        "long": 114.21373468
+      },
+      {
+        "seq": 10,
+        "stop_id": "360",
+        "name": {
+          "en": "Water Sports Centre",
+          "tc": "水上活動中心",
+          "sc": "水上活动中心"
+        },
+        "lat": 22.41874512,
+        "long": 114.21403458
+      },
+      {
+        "seq": 11,
+        "stop_id": "361",
+        "name": {
+          "en": "Hong Kong Institute of Biotechnology",
+          "tc": "香港生物科技研究院",
+          "sc": "香港生物科技研究院"
+        },
+        "lat": 22.42304151,
+        "long": 114.2138654
+      },
+      {
+        "seq": 12,
+        "stop_id": "362",
+        "name": {
+          "en": "Science Park Phase 1",
+          "tc": "科學園第一期",
+          "sc": "科学园第一期"
+        },
+        "lat": 22.42425175,
+        "long": 114.21138823
+      },
+      {
+        "seq": 13,
+        "stop_id": "363",
+        "name": {
+          "en": "Fo Yin Road",
+          "tc": "科研路",
+          "sc": "科研路"
+        },
+        "lat": 22.42661712,
+        "long": 114.20795718
+      },
+      {
+        "seq": 14,
+        "stop_id": "364",
+        "name": {
+          "en": "St Martin",
+          "tc": "雲匯",
+          "sc": "云汇"
+        },
+        "lat": 22.42941848,
+        "long": 114.20351042
+      },
+      {
+        "seq": 15,
+        "stop_id": "365",
+        "name": {
+          "en": "Pak Shek Kok",
+          "tc": "白石角",
+          "sc": "白石角"
+        },
+        "lat": 22.43146911,
+        "long": 114.20146355
+      },
+      {
+        "seq": 16,
+        "stop_id": "366",
+        "name": {
+          "en": "Pak Shek Kok Substation",
+          "tc": "白石角變電站",
+          "sc": "白石角变电站"
+        },
+        "lat": 22.43390206,
+        "long": 114.20081483
+      },
+      {
+        "seq": 17,
+        "stop_id": "367",
+        "name": {
+          "en": "Kwong Chi House Kwong Fuk Estate",
+          "tc": "廣福邨廣智樓",
+          "sc": "广福邨广智楼"
+        },
+        "lat": 22.44991145,
+        "long": 114.17198978
+      },
+      {
+        "seq": 18,
+        "stop_id": "368",
+        "name": {
+          "en": "Kwong Fuk Playground",
+          "tc": "廣福球場",
+          "sc": "广福球场"
+        },
+        "lat": 22.44778807,
+        "long": 114.1720924
+      },
+      {
+        "seq": 19,
+        "stop_id": "369",
+        "name": {
+          "en": "Kwong Fuk Estate",
+          "tc": "廣福邨",
+          "sc": "广福邨"
+        },
+        "lat": 22.44652956,
+        "long": 114.17353082
+      },
+      {
+        "seq": 20,
+        "stop_id": "370",
+        "name": {
+          "en": "San Tin Public Transport Interchange",
+          "tc": "新田運輸交匯處",
+          "sc": "新田运输交汇处"
+        },
+        "lat": 22.50304074,
+        "long": 114.08236259
+      },
+      {
+        "seq": 21,
+        "stop_id": "371",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.522567,
+        "long": 114.068583
+      }
+    ]
+  },
+  "NLB-B12-118": {
+    "record_id": "NLB-B12-118",
+    "company": "NLB",
+    "route_id": "118",
+    "route": "B12",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "372",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.522567,
+        "long": 114.068583
+      },
+      {
+        "seq": 2,
+        "stop_id": "370",
+        "name": {
+          "en": "San Tin Public Transport Interchange",
+          "tc": "新田運輸交匯處",
+          "sc": "新田运输交汇处"
+        },
+        "lat": 22.50304074,
+        "long": 114.08236259
+      },
+      {
+        "seq": 3,
+        "stop_id": "373",
+        "name": {
+          "en": "Kwong Fuk Estate",
+          "tc": "廣福邨",
+          "sc": "广福邨"
+        },
+        "lat": 22.44638388,
+        "long": 114.1730287
+      },
+      {
+        "seq": 4,
+        "stop_id": "374",
+        "name": {
+          "en": "Kwong Fuk Playground",
+          "tc": "廣福球場",
+          "sc": "广福球场"
+        },
+        "lat": 22.4477083,
+        "long": 114.17186782
+      },
+      {
+        "seq": 5,
+        "stop_id": "375",
+        "name": {
+          "en": "Lam Tsuen River",
+          "tc": "林村河",
+          "sc": "林村河"
+        },
+        "lat": 22.44972808,
+        "long": 114.17171048
+      },
+      {
+        "seq": 6,
+        "stop_id": "376",
+        "name": {
+          "en": "Pak Shek Kok Substation",
+          "tc": "白石角變電站",
+          "sc": "白石角变电站"
+        },
+        "lat": 22.43477732,
+        "long": 114.2014816
+      },
+      {
+        "seq": 7,
+        "stop_id": "377",
+        "name": {
+          "en": "Providence Bay",
+          "tc": "天賦海灣",
+          "sc": "天赋海湾"
+        },
+        "lat": 22.43182247,
+        "long": 114.20141646
+      },
+      {
+        "seq": 8,
+        "stop_id": "378",
+        "name": {
+          "en": "St Martin",
+          "tc": "雲匯",
+          "sc": "云汇"
+        },
+        "lat": 22.42960512,
+        "long": 114.20366736
+      },
+      {
+        "seq": 9,
+        "stop_id": "379",
+        "name": {
+          "en": "Chong San Road",
+          "tc": "創新路",
+          "sc": "创新路"
+        },
+        "lat": 22.42871495,
+        "long": 114.20512672
+      },
+      {
+        "seq": 10,
+        "stop_id": "380",
+        "name": {
+          "en": "Fo Yin Road",
+          "tc": "科研路",
+          "sc": "科研路"
+        },
+        "lat": 22.42626316,
+        "long": 114.20886416
+      },
+      {
+        "seq": 11,
+        "stop_id": "381",
+        "name": {
+          "en": "Science Park Phase 1",
+          "tc": "科學園第一期",
+          "sc": "科学园第一期"
+        },
+        "lat": 22.42444377,
+        "long": 114.21153189
+      },
+      {
+        "seq": 12,
+        "stop_id": "382",
+        "name": {
+          "en": "Hong Kong Institute of Biotechnology",
+          "tc": "香港生物科技研究院",
+          "sc": "香港生物科技研究院"
+        },
+        "lat": 22.4227608,
+        "long": 114.21416952
+      },
+      {
+        "seq": 13,
+        "stop_id": "383",
+        "name": {
+          "en": "Water Sports Centre",
+          "tc": "水上活動中心",
+          "sc": "水上活动中心"
+        },
+        "lat": 22.41868961,
+        "long": 114.21426129
+      },
+      {
+        "seq": 14,
+        "stop_id": "384",
+        "name": {
+          "en": "Ma Liu Shui Public Pier",
+          "tc": "馬料水公眾碼頭",
+          "sc": "马料水公众码头"
+        },
+        "lat": 22.41614549,
+        "long": 114.2139128
+      },
+      {
+        "seq": 15,
+        "stop_id": "385",
+        "name": {
+          "en": "Kam Chun Court",
+          "tc": "錦駿苑",
+          "sc": "锦骏苑"
+        },
+        "lat": 22.41186791,
+        "long": 114.22410685
+      },
+      {
+        "seq": 16,
+        "stop_id": "386",
+        "name": {
+          "en": "Heng On Estate",
+          "tc": "恆安邨",
+          "sc": "恒安邨"
+        },
+        "lat": 22.41797667,
+        "long": 114.23047448
+      },
+      {
+        "seq": 17,
+        "stop_id": "387",
+        "name": {
+          "en": "Ma On Shan Sports Ground",
+          "tc": "馬鞍山運動場",
+          "sc": "马鞍山运动场"
+        },
+        "lat": 22.42178644,
+        "long": 114.22854914
+      },
+      {
+        "seq": 18,
+        "stop_id": "388",
+        "name": {
+          "en": "Fok On Garden",
+          "tc": "福安花園",
+          "sc": "福安花园"
+        },
+        "lat": 22.42358238,
+        "long": 114.22826077
+      },
+      {
+        "seq": 19,
+        "stop_id": "389",
+        "name": {
+          "en": "Bayshore Towers",
+          "tc": "海柏花園",
+          "sc": "海柏花园"
+        },
+        "lat": 22.42503594,
+        "long": 114.23150585
+      },
+      {
+        "seq": 20,
+        "stop_id": "390",
+        "name": {
+          "en": "Villa Athena",
+          "tc": "雅典居",
+          "sc": "雅典居"
+        },
+        "lat": 22.42591696,
+        "long": 114.23638938
+      },
+      {
+        "seq": 21,
+        "stop_id": "391",
+        "name": {
+          "en": "Lee On Estate",
+          "tc": "利安邨",
+          "sc": "利安邨"
+        },
+        "lat": 22.42760012,
+        "long": 114.24030327
+      },
+      {
+        "seq": 22,
+        "stop_id": "392",
+        "name": {
+          "en": "Wu Kai Sha Station",
+          "tc": "烏溪沙站",
+          "sc": "乌溪沙站"
+        },
+        "lat": 22.42829529,
+        "long": 114.24313286
+      }
+    ]
+  },
   "NLB-B2-37": {
     "record_id": "NLB-B2-37",
     "company": "NLB",

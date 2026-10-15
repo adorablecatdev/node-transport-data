@@ -2007,14 +2007,14 @@
       },
       {
         "seq": 15,
-        "stop_id": "20015215",
+        "stop_id": "20023461",
         "name": {
           "en": "Kwun Tong Road, outside Kwun Tong Industrial Centre",
           "tc": "觀塘道, 官塘工業中心外",
           "sc": "观塘道, 官塘工业中心外"
         },
-        "lat": 22.310525236946503,
-        "long": 114.22869980335237
+        "lat": 22.311314203035764,
+        "long": 114.22744855284694
       },
       {
         "seq": 16,
@@ -2085,9 +2085,9 @@
         "seq": 3,
         "stop_id": "20015215",
         "name": {
-          "en": "Kwun Tong Road, outside Kwun Tong Industrial Centre",
-          "tc": "觀塘道, 官塘工業中心外",
-          "sc": "观塘道, 官塘工业中心外"
+          "en": "Kwun Tong Road, outside New City Centre",
+          "tc": "觀塘道, 新城工商中心外",
+          "sc": "观塘道, 新城工商中心外"
         },
         "lat": 22.310525236946503,
         "long": 114.22869980335237
@@ -42647,6 +42647,17 @@
     "stops": [
       {
         "seq": 1,
+        "stop_id": "20023758",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
+      },
+      {
+        "seq": 2,
         "stop_id": "20001406",
         "name": {
           "en": "Lok Ma Chau (San Tin) Public Transport Interchange",
@@ -42657,7 +42668,7 @@
         "long": 114.08196134269663
       },
       {
-        "seq": 2,
+        "seq": 3,
         "stop_id": "20005036",
         "name": {
           "en": "Tsing Lun Road, outside Siu Lai House, Siu Hong Court",
@@ -42668,7 +42679,7 @@
         "long": 113.97701068946584
       },
       {
-        "seq": 3,
+        "seq": 4,
         "stop_id": "20001332",
         "name": {
           "en": "Tsing Lun Road, outside Siu Yin House Siu Hong Court",
@@ -42679,7 +42690,7 @@
         "long": 113.97656895205763
       },
       {
-        "seq": 4,
+        "seq": 5,
         "stop_id": "20001326",
         "name": {
           "en": "Tsun Wen Road, outside Block 2 of Blossom Garden",
@@ -42690,7 +42701,7 @@
         "long": 113.96882130424225
       },
       {
-        "seq": 5,
+        "seq": 6,
         "stop_id": "20005039",
         "name": {
           "en": "Ming Kum Road, outside Goodrich Garden",
@@ -42701,7 +42712,7 @@
         "long": 113.96729694220711
       },
       {
-        "seq": 6,
+        "seq": 7,
         "stop_id": "20011691",
         "name": {
           "en": "Tin King Road, outside Tin Lok House, Tin King Estate",
@@ -42712,7 +42723,7 @@
         "long": 113.96505024119814
       },
       {
-        "seq": 7,
+        "seq": 8,
         "stop_id": "20011693",
         "name": {
           "en": "Tin King Road outside Leung King Bus Terminus",
@@ -42723,7 +42734,7 @@
         "long": 113.96449167731629
       },
       {
-        "seq": 8,
+        "seq": 9,
         "stop_id": "20001402",
         "name": {
           "en": "Tin King Road, outside Tin Yue House, Tin King Estate",
@@ -42734,7 +42745,7 @@
         "long": 113.96463984406829
       },
       {
-        "seq": 9,
+        "seq": 10,
         "stop_id": "20001403",
         "name": {
           "en": "Ming Kum Road, opposite Shek Pai Light Rail Station",
@@ -42745,7 +42756,7 @@
         "long": 113.96807344741492
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "20001404",
         "name": {
           "en": "Shek Pai Tau Road, opposite Delya Industrial Centre",
@@ -42756,7 +42767,7 @@
         "long": 113.9691819942386
       },
       {
-        "seq": 11,
+        "seq": 12,
         "stop_id": "20001405",
         "name": {
           "en": "Shek Pai Tau Road, opposite Greenland Garden",
@@ -42767,7 +42778,7 @@
         "long": 113.9723377350911
       },
       {
-        "seq": 12,
+        "seq": 13,
         "stop_id": "20001308",
         "name": {
           "en": "Tsun Wen Road, outside Tai Hing Government Offices",
@@ -42778,7 +42789,7 @@
         "long": 113.9733504605952
       },
       {
-        "seq": 13,
+        "seq": 14,
         "stop_id": "20001309",
         "name": {
           "en": "Tsun Wen Road, opposite Bus Depot",
@@ -42789,7 +42800,7 @@
         "long": 113.97215915109237
       },
       {
-        "seq": 14,
+        "seq": 15,
         "stop_id": "20007761",
         "name": {
           "en": "Tsun Wen Road, outside Tuen Mun District Headquarters & Division Police Station",
@@ -42800,7 +42811,7 @@
         "long": 113.9715322852135
       },
       {
-        "seq": 15,
+        "seq": 16,
         "stop_id": "20001311",
         "name": {
           "en": "Tuen Mun Station Public Transport Interchange",
@@ -42967,12 +42978,23 @@
         "seq": 14,
         "stop_id": "20001406",
         "name": {
-          "en": " Cross Boundary Shuttle Bus San Tin Terminus",
-          "tc": "過境穿梭巴士新田總站",
-          "sc": "过境穿梭巴士新田总站"
+          "en": "Lok Ma Chau (San Tin) Public Transport Interchange",
+          "tc": "落馬洲(新田)公共運輸交匯處",
+          "sc": "落马洲(新田)公共运输交汇处"
         },
         "lat": 22.50296206779009,
         "long": 114.08196134269663
+      },
+      {
+        "seq": 15,
+        "stop_id": "20023758",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       }
     ]
   },
@@ -42986,6 +43008,17 @@
     "stops": [
       {
         "seq": 1,
+        "stop_id": "20023758",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
+      },
+      {
+        "seq": 2,
         "stop_id": "20001406",
         "name": {
           "en": "Lok Ma Chau (San Tin) Public Transport Interchange",
@@ -42996,7 +43029,7 @@
         "long": 114.08196134269663
       },
       {
-        "seq": 2,
+        "seq": 3,
         "stop_id": "20001314",
         "name": {
           "en": "Tuen Mun Heung Sze Wui Road, outside Tuen Mun Central Bus Terminus",
@@ -43007,7 +43040,7 @@
         "long": 113.9753356575966
       },
       {
-        "seq": 3,
+        "seq": 4,
         "stop_id": "20001385",
         "name": {
           "en": "Tuen Mun Heung Sze Wui Road, near On Ting Estate",
@@ -43018,7 +43051,7 @@
         "long": 113.97535841766296
       },
       {
-        "seq": 4,
+        "seq": 5,
         "stop_id": "20001386",
         "name": {
           "en": "Tuen Mun Heung Sze Wui Road, outside Siu Lun Court",
@@ -43029,7 +43062,7 @@
         "long": 113.97536229321692
       },
       {
-        "seq": 5,
+        "seq": 6,
         "stop_id": "20001387",
         "name": {
           "en": "Hoi Chu Road, opposite Goodview Garden",
@@ -43040,7 +43073,7 @@
         "long": 113.97235353424689
       },
       {
-        "seq": 6,
+        "seq": 7,
         "stop_id": "20002419",
         "name": {
           "en": "Lung Mun Road, outside Glorious Garden",
@@ -43051,7 +43084,7 @@
         "long": 113.96469197134898
       },
       {
-        "seq": 7,
+        "seq": 8,
         "stop_id": "20001389",
         "name": {
           "en": "Lung Mun Road, outside Sun Tuen Mun Centre",
@@ -43062,7 +43095,7 @@
         "long": 113.96372973918916
       },
       {
-        "seq": 8,
+        "seq": 9,
         "stop_id": "20001390",
         "name": {
           "en": "Lung Mun Road, outside Siu Shan Court",
@@ -43073,7 +43106,7 @@
         "long": 113.96116789126515
       },
       {
-        "seq": 9,
+        "seq": 10,
         "stop_id": "20001391",
         "name": {
           "en": "Wu Chui Road, outside Tip Sum House, Butterfly Estate",
@@ -43084,7 +43117,7 @@
         "long": 113.96182231063655
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "20001392",
         "name": {
           "en": "Wu Chui Road, outside Wu Pik House, Wu King Estate",
@@ -43095,7 +43128,7 @@
         "long": 113.96482431065641
       },
       {
-        "seq": 11,
+        "seq": 12,
         "stop_id": "20001393",
         "name": {
           "en": "Wu Chui Road, outside Siu Hei Court Multi-storey Car Park",
@@ -43106,7 +43139,7 @@
         "long": 113.96651431818022
       },
       {
-        "seq": 12,
+        "seq": 13,
         "stop_id": "20001394",
         "name": {
           "en": "Wu Chui Road, outside LKWFS Lau Tak Yung Memorial Primary School",
@@ -43117,7 +43150,7 @@
         "long": 113.9684179958031
       },
       {
-        "seq": 13,
+        "seq": 14,
         "stop_id": "20001374",
         "name": {
           "en": "Wu Chui Road, outside Ka Chi Secondary School",
@@ -43128,7 +43161,7 @@
         "long": 113.9700975159517
       },
       {
-        "seq": 14,
+        "seq": 15,
         "stop_id": "20007287",
         "name": {
           "en": "Tuen Mun Ferry Pier (Public Light Bus (Scheduled Services) Terminus on Wu Shan Road)",
@@ -43279,6 +43312,17 @@
         },
         "lat": 22.50296206779009,
         "long": 114.08196134269663
+      },
+      {
+        "seq": 13,
+        "stop_id": "20023758",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       }
     ]
   },
@@ -48912,6 +48956,70 @@
       },
       {
         "seq": 4,
+        "stop_id": "20021580",
+        "name": {
+          "en": "Sheung Shui GMB Terminus",
+          "tc": "上水小巴總站",
+          "sc": "上水小巴总站"
+        },
+        "lat": 22.502131162792686,
+        "long": 114.12827655673027
+      }
+    ]
+  },
+  "GMBNT-508X-2011820-1": {
+    "record_id": "GMBNT-508X-2011820-1",
+    "company": "GMBNT",
+    "route_id": "2011820",
+    "route": "508X",
+    "route_seq": 1,
+    "region": "NT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "20021580",
+        "name": {
+          "en": "Sheung Shui GMB Terminus",
+          "tc": "上水小巴總站",
+          "sc": "上水小巴总站"
+        },
+        "lat": 22.502131162792686,
+        "long": 114.12827655673027
+      },
+      {
+        "seq": 2,
+        "stop_id": "20021581",
+        "name": {
+          "en": "Kwu Tung North Multi-Welfare Services Complex Terminus",
+          "tc": "古洞北福利服務綜合大樓總站",
+          "sc": "古洞北福利服务综合大楼总站"
+        },
+        "lat": 22.505175352080588,
+        "long": 114.09628719091417
+      }
+    ]
+  },
+  "GMBNT-508X-2011820-2": {
+    "record_id": "GMBNT-508X-2011820-2",
+    "company": "GMBNT",
+    "route_id": "2011820",
+    "route": "508X",
+    "route_seq": 2,
+    "region": "NT",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "20021581",
+        "name": {
+          "en": "Kwu Tung North Multi-Welfare Services Complex Terminus",
+          "tc": "古洞北福利服務綜合大樓總站",
+          "sc": "古洞北福利服务综合大楼总站"
+        },
+        "lat": 22.505175352080588,
+        "long": 114.09628719091417
+      },
+      {
+        "seq": 2,
         "stop_id": "20021580",
         "name": {
           "en": "Sheung Shui GMB Terminus",
@@ -58094,9 +58202,9 @@
         "seq": 3,
         "stop_id": "20012429",
         "name": {
-          "en": "Sai Yee Street, outside Kin Wong Mansion",
-          "tc": "洗衣街, 建煌華廈外",
-          "sc": "洗衣街, 建煌华厦外"
+          "en": "Sai Yee Street, opposite Kin Wong Mansion",
+          "tc": "洗衣街, 建煌華廈對面",
+          "sc": "洗衣街, 建煌华厦对面"
         },
         "lat": 22.320624084802006,
         "long": 114.17155135268244
@@ -58116,34 +58224,23 @@
         "seq": 5,
         "stop_id": "20012430",
         "name": {
-          "en": "Waterloo Road",
-          "tc": "窩打老道",
-          "sc": "窝打老道"
+          "en": "Waterloo Road, near Yan Yuen",
+          "tc": "窩打老道, 近仁園",
+          "sc": "窝打老道, 近仁园"
         },
         "lat": 22.333426231517773,
         "long": 114.17870593121579
       },
       {
         "seq": 6,
-        "stop_id": "20012431",
+        "stop_id": "20023758",
         "name": {
-          "en": "San Sham Road",
-          "tc": "新深路",
-          "sc": "新深路"
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
         },
-        "lat": 22.50486872597546,
-        "long": 114.07838556347997
-      },
-      {
-        "seq": 7,
-        "stop_id": "20011698",
-        "name": {
-          "en": "Lok Ma Chau Control Point",
-          "tc": "落馬洲管制站",
-          "sc": "落马洲管制站"
-        },
-        "lat": 22.507967968219024,
-        "long": 114.07506823539735
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       }
     ]
   },
@@ -58157,14 +58254,14 @@
     "stops": [
       {
         "seq": 1,
-        "stop_id": "20011698",
+        "stop_id": "20023758",
         "name": {
-          "en": "Lok Ma Chau Control Point",
-          "tc": "落馬洲管制站",
-          "sc": "落马洲管制站"
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
         },
-        "lat": 22.507967968219024,
-        "long": 114.07506823539735
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       },
       {
         "seq": 2,
@@ -66665,6 +66762,17 @@
     "stops": [
       {
         "seq": 1,
+        "stop_id": "20023758",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
+      },
+      {
+        "seq": 2,
         "stop_id": "20017719",
         "name": {
           "en": "Lok Ma Chau (San Tin) Public Transport Interchange",
@@ -66675,7 +66783,7 @@
         "long": 114.0819588447902
       },
       {
-        "seq": 2,
+        "seq": 3,
         "stop_id": "20002578",
         "name": {
           "en": "Castle Peak Road - San Tin, near Man Tin Cheung Park",
@@ -66686,18 +66794,18 @@
         "long": 114.07663933196943
       },
       {
-        "seq": 3,
+        "seq": 4,
         "stop_id": "20020527",
         "name": {
-          "en": "Tung Wui Road near Lamp Post No. AD7102",
-          "tc": "東匯路, 近沙田坑村",
-          "sc": "东汇路, 近沙田坑村"
+          "en": "Tung Wui Road, near Lamp Post No. AD7102",
+          "tc": "東匯路, 近燈柱編號AD7102",
+          "sc": "东汇路, 近灯柱编号AD7102"
         },
         "lat": 22.435872181071385,
         "long": 114.06754195690156
       },
       {
-        "seq": 4,
+        "seq": 5,
         "stop_id": "20023032",
         "name": {
           "en": "Kam Sheung Road Station Public Transport Interchange",
@@ -66708,7 +66816,7 @@
         "long": 114.06339526176454
       },
       {
-        "seq": 5,
+        "seq": 6,
         "stop_id": "20016482",
         "name": {
           "en": "Kam Sheung Road, near Ng Ka Tsuen",
@@ -66719,12 +66827,12 @@
         "long": 114.06905628646712
       },
       {
-        "seq": 6,
+        "seq": 7,
         "stop_id": "20017720",
         "name": {
-          "en": "Pat Heung Road, (near Tai Lam Bus-Bus Interchange) Minibus Terminus",
-          "tc": "八鄉路,(近大欖隧道轉車站)小巴總站",
-          "sc": "八乡路,(近大榄隧道转车站)小巴总站"
+          "en": "Pat Heung Road, (near Tai Lam Tunnel Bus-Bus Interchange) Minibus Terminus",
+          "tc": "八鄉路, (近大欖隧道轉車站)小巴總站",
+          "sc": "八乡路, (近大榄隧道转车站)小巴总站"
         },
         "lat": 22.420462335665945,
         "long": 114.0625929293598
@@ -66743,9 +66851,9 @@
         "seq": 1,
         "stop_id": "20017720",
         "name": {
-          "en": "Pat Heung Road, (near Tai Lam Bus-Bus Interchange) Minibus Terminus",
-          "tc": "八鄉路,(近大欖隧道轉車站)小巴總站",
-          "sc": "八乡路,(近大榄隧道转车站)小巴总站"
+          "en": "Pat Heung Road, (near Tai Lam Tunnel Bus-Bus Interchange) Minibus Terminus",
+          "tc": "八鄉路, (近大欖隧道轉車站)小巴總站",
+          "sc": "八乡路, (近大榄隧道转车站)小巴总站"
         },
         "lat": 22.420462335665945,
         "long": 114.0625929293598
@@ -66776,7 +66884,7 @@
         "seq": 4,
         "stop_id": "20020528",
         "name": {
-          "en": "Kam Sheung Road near Lamp Post No. AD7129",
+          "en": "Kam Sheung Road, near Kam Tin Po Tei",
           "tc": "錦上路, 近錦田波地",
           "sc": "锦上路, 近锦田波地"
         },
@@ -66788,8 +66896,8 @@
         "stop_id": "20017488",
         "name": {
           "en": "Kam Tin Road near Kam Tin Mung Yeung Public School ",
-          "tc": "錦田公路近蒙養公立學校 ",
-          "sc": "锦田公路近蒙养公立学校"
+          "tc": "錦田公路, 近錦田公立蒙養學校 ",
+          "sc": "锦田公路，近锦田公立蒙养学校"
         },
         "lat": 22.43990326371371,
         "long": 114.06140551174887
@@ -66798,7 +66906,7 @@
         "seq": 6,
         "stop_id": "20007107",
         "name": {
-          "en": "Kam Tin Road Near Ko Po Tsuen",
+          "en": "Kam Tin Road, near Ko Po Tsuen",
           "tc": "錦田公路, 近高埔村",
           "sc": "锦田公路, 近高埔村"
         },
@@ -66809,9 +66917,9 @@
         "seq": 7,
         "stop_id": "20017489",
         "name": {
-          "en": "Castle Peak Road - Tam-mi, near Sha Po Tsuen ",
-          "tc": "青山公路 - 潭尾段近沙埔村 ",
-          "sc": "青山公路 - 潭尾段近沙埔村"
+          "en": "Castle Peak Road - Tam Mi, near Sha Po Tsuen",
+          "tc": "青山公路 - 潭尾段, 近沙埔村 ",
+          "sc": "青山公路 - 潭尾段, 近沙埔村"
         },
         "lat": 22.45170817761328,
         "long": 114.04967562492048
@@ -66826,6 +66934,17 @@
         },
         "lat": 22.502581839964314,
         "long": 114.0819588447902
+      },
+      {
+        "seq": 9,
+        "stop_id": "20023758",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       }
     ]
   },
@@ -67112,14 +67231,25 @@
       },
       {
         "seq": 20,
-        "stop_id": "20015598",
+        "stop_id": "20001406",
         "name": {
-          "en": "Lok Ma Chau Control Point",
-          "tc": "落馬洲管制站",
-          "sc": "落马洲管制站"
+          "en": "Lok Ma Chau (San Tin) Public Transport Interchange",
+          "tc": "落馬洲(新田)公共運輸交匯處",
+          "sc": "落马洲(新田)公共运输交汇处"
         },
-        "lat": 22.508146376561424,
-        "long": 114.0748777985573
+        "lat": 22.50296206779009,
+        "long": 114.08196134269663
+      },
+      {
+        "seq": 21,
+        "stop_id": "20023758",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       }
     ]
   },
@@ -67133,25 +67263,25 @@
     "stops": [
       {
         "seq": 1,
-        "stop_id": "20015598",
+        "stop_id": "20023758",
         "name": {
-          "en": "Lok Ma Chau Control Point",
-          "tc": "落馬洲管制站",
-          "sc": "落马洲管制站"
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
         },
-        "lat": 22.508146376561424,
-        "long": 114.0748777985573
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       },
       {
         "seq": 2,
-        "stop_id": "20015597",
+        "stop_id": "20001406",
         "name": {
-          "en": "San Tin Public Transport Interchange",
-          "tc": "新田公共運輸交匯處",
-          "sc": "新田公共运输交汇处"
+          "en": "Lok Ma Chau (San Tin) Public Transport Interchange",
+          "tc": "落馬洲(新田)公共運輸交匯處",
+          "sc": "落马洲(新田)公共运输交汇处"
         },
-        "lat": 22.503067843556586,
-        "long": 114.0820647776127
+        "lat": 22.50296206779009,
+        "long": 114.08196134269663
       },
       {
         "seq": 3,
@@ -88953,22 +89083,22 @@
     "stops": [
       {
         "seq": 1,
-        "stop_id": "20011698",
+        "stop_id": "20023758",
         "name": {
-          "en": "Lok Ma Chau Control Point",
-          "tc": "落馬洲管制站",
-          "sc": "落马洲管制站"
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
         },
-        "lat": 22.507967968219024,
-        "long": 114.07506823539735
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       },
       {
         "seq": 2,
         "stop_id": "20001406",
         "name": {
-          "en": " Cross Boundary Shuttle Bus San Tin Terminus",
-          "tc": "過境穿梭巴士新田總站",
-          "sc": "过境穿梭巴士新田总站"
+          "en": "Lok Ma Chau (San Tin) Public Transport Interchange",
+          "tc": "落馬洲(新田)公共運輸交匯處",
+          "sc": "落马洲(新田)公共运输交汇处"
         },
         "lat": 22.50296206779009,
         "long": 114.08196134269663
@@ -89537,23 +89667,23 @@
         "seq": 25,
         "stop_id": "20001406",
         "name": {
-          "en": " Cross Boundary Shuttle Bus San Tin Terminus",
-          "tc": "過境穿梭巴士新田總站",
-          "sc": "过境穿梭巴士新田总站"
+          "en": "Lok Ma Chau (San Tin) Public Transport Interchange",
+          "tc": "落馬洲(新田)公共運輸交匯處",
+          "sc": "落马洲(新田)公共运输交汇处"
         },
         "lat": 22.50296206779009,
         "long": 114.08196134269663
       },
       {
         "seq": 26,
-        "stop_id": "20011698",
+        "stop_id": "20023758",
         "name": {
-          "en": "Lok Ma Chau Control Point",
-          "tc": "落馬洲管制站",
-          "sc": "落马洲管制站"
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
         },
-        "lat": 22.507967968219024,
-        "long": 114.07506823539735
+        "lat": 22.523795822394337,
+        "long": 114.06836287961326
       }
     ]
   }

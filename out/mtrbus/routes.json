@@ -127,52 +127,20 @@
       "sc": "大埔墟站"
     }
   },
-  "MTRB-K18-K18_KF": {
-    "record_id": "MTRB-K18-K18_KF",
+  "MTRB-K18-K18_KF_CIR": {
+    "record_id": "MTRB-K18-K18_KF_CIR",
     "company": "MTRB",
     "route": "K18",
-    "bound": "K18_KF",
+    "bound": "K18_KF_CIR",
     "origin": {
       "en": "Tai Po Market Station",
       "tc": "大埔墟站",
       "sc": "大埔墟站"
     },
     "destination": {
-      "en": "Kwong Fuk",
-      "tc": "廣福",
-      "sc": "廣福"
-    }
-  },
-  "MTRB-K18-K18_TPMS": {
-    "record_id": "MTRB-K18-K18_TPMS",
-    "company": "MTRB",
-    "route": "K18",
-    "bound": "K18_TPMS",
-    "origin": {
-      "en": "Kwong Fuk",
-      "tc": "廣福",
-      "sc": "廣福"
-    },
-    "destination": {
-      "en": "Tai Po Market Station",
-      "tc": "大埔墟站",
-      "sc": "大埔墟站"
-    }
-  },
-  "MTRB-K51-K51_FT": {
-    "record_id": "MTRB-K51-K51_FT",
-    "company": "MTRB",
-    "route": "K51",
-    "bound": "K51_FT",
-    "origin": {
-      "en": "Tai Lam",
-      "tc": "大欖",
-      "sc": "大欖"
-    },
-    "destination": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
+      "en": "Kwong Fuk (Circular)",
+      "tc": "廣福 (循環線)",
+      "sc": "廣福 (循環線)"
     }
   },
   "MTRB-K51-K51_FT_SHS": {
@@ -191,6 +159,22 @@
       "sc": "兆康站"
     }
   },
+  "MTRB-K51-K51_FT_TL": {
+    "record_id": "MTRB-K51-K51_FT_TL",
+    "company": "MTRB",
+    "route": "K51",
+    "bound": "K51_FT_TL",
+    "origin": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
+    },
+    "destination": {
+      "en": "Tai Lam",
+      "tc": "大欖",
+      "sc": "大欖"
+    }
+  },
   "MTRB-K51-K51_SHS_FT": {
     "record_id": "MTRB-K51-K51_SHS_FT",
     "company": "MTRB",
@@ -207,20 +191,20 @@
       "sc": "富泰"
     }
   },
-  "MTRB-K51-K51_TL": {
-    "record_id": "MTRB-K51-K51_TL",
+  "MTRB-K51-K51_TL_FT": {
+    "record_id": "MTRB-K51-K51_TL_FT",
     "company": "MTRB",
     "route": "K51",
-    "bound": "K51_TL",
+    "bound": "K51_TL_FT",
     "origin": {
-      "en": "Fu Tai",
-      "tc": "富泰",
-      "sc": "富泰"
-    },
-    "destination": {
       "en": "Tai Lam",
       "tc": "大欖",
       "sc": "大欖"
+    },
+    "destination": {
+      "en": "Fu Tai",
+      "tc": "富泰",
+      "sc": "富泰"
     }
   },
   "MTRB-K51A-K51A_FT": {

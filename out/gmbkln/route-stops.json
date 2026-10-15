@@ -29550,7 +29550,7 @@
         "seq": 3,
         "stop_id": "20017522",
         "name": {
-          "en": "Shing Fung Raod, near Cullinan Harbour",
+          "en": "Shing Fung Road, near Cullinan Harbour",
           "tc": "承豐道, 近天璽．海",
           "sc": "承丰道, 近天玺．海"
         },
@@ -29561,7 +29561,7 @@
         "seq": 4,
         "stop_id": "20017523",
         "name": {
-          "en": "Shing Fung Raod, near Kai Tak Bridge Road",
+          "en": "Shing Fung Road, near Kai Tak Bridge Road",
           "tc": "承豐道, 近啟德橋道",
           "sc": "承丰道, 近启德桥道"
         },
@@ -29572,7 +29572,7 @@
         "seq": 5,
         "stop_id": "20021712",
         "name": {
-          "en": "Kai Tak Bridge Road, near Shing Fung Raod",
+          "en": "Kai Tak Bridge Road, near Shing Fung Road",
           "tc": "啟德橋道, 近承豐道",
           "sc": "启德桥道, 近承丰道"
         },
@@ -29581,6 +29581,17 @@
       },
       {
         "seq": 6,
+        "stop_id": "20023527",
+        "name": {
+          "en": "Kai Tak Hospital",
+          "tc": "啟德醫院",
+          "sc": "启德医院"
+        },
+        "lat": 22.318323995658517,
+        "long": 114.20632481575014
+      },
+      {
+        "seq": 7,
         "stop_id": "20012995",
         "name": {
           "en": "Shing Cheong Raod, opposite to Hong Kong Children's Hospital",
@@ -29591,7 +29602,7 @@
         "long": 114.20925982296467
       },
       {
-        "seq": 7,
+        "seq": 8,
         "stop_id": "20012996",
         "name": {
           "en": "Cheung Yip Street, near Kai Tak Fire Station",
@@ -29602,7 +29613,7 @@
         "long": 114.211522936821
       },
       {
-        "seq": 8,
+        "seq": 9,
         "stop_id": "20023198",
         "name": {
           "en": "Telford Plaza Transport Interchange",
@@ -29613,7 +29624,7 @@
         "long": 114.213142991066
       },
       {
-        "seq": 9,
+        "seq": 10,
         "stop_id": "20012997",
         "name": {
           "en": "Wang Chiu Road, near Wing Fat Industrial Building",
@@ -29624,7 +29635,7 @@
         "long": 114.20896880328657
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "20020031",
         "name": {
           "en": "Wang Chiu Road, near Enterprise Square III",
@@ -29635,7 +29646,7 @@
         "long": 114.20929804444314
       },
       {
-        "seq": 11,
+        "seq": 12,
         "stop_id": "20012998",
         "name": {
           "en": "Cheung Yip Street, near Harbourside HQ",
@@ -29646,18 +29657,29 @@
         "long": 114.21132646501064
       },
       {
-        "seq": 12,
+        "seq": 13,
         "stop_id": "20012999",
         "name": {
-          "en": "Shing Cheong Road, near Hong Kong Children's Hospital",
-          "tc": "承昌道, 近香港兒童醫院",
-          "sc": "承昌道, 近香港儿童医院"
+          "en": "Hong Kong Children’s Hospital",
+          "tc": "香港兒童醫院",
+          "sc": "香港儿童医院"
         },
         "lat": 22.31618644051734,
         "long": 114.20880763704585
       },
       {
-        "seq": 13,
+        "seq": 14,
+        "stop_id": "20023527",
+        "name": {
+          "en": "Kai Tak Hospital",
+          "tc": "啟德醫院",
+          "sc": "启德医院"
+        },
+        "lat": 22.318323995658517,
+        "long": 114.20632481575014
+      },
+      {
+        "seq": 15,
         "stop_id": "20021713",
         "name": {
           "en": "Shing Fung Road, near Miami Quay I",
@@ -29668,7 +29690,7 @@
         "long": 114.20774504542354
       },
       {
-        "seq": 14,
+        "seq": 16,
         "stop_id": "20013000",
         "name": {
           "en": "Kai Tak Cruise Terminal",
@@ -30471,15 +30493,26 @@
         "seq": 13,
         "stop_id": "20021392",
         "name": {
-          "en": "Shing Cheong Road near Hong Kong Children’s Hospital",
-          "tc": "承昌道近香港兒童醫院",
-          "sc": "承昌道近香港儿童医院"
+          "en": "Hong Kong Children’s Hospital",
+          "tc": "香港兒童醫院",
+          "sc": "香港儿童医院"
         },
         "lat": 22.315733515070715,
         "long": 114.20930206775667
       },
       {
         "seq": 14,
+        "stop_id": "20023494",
+        "name": {
+          "en": "Kai Tak Hospital",
+          "tc": "啟德醫院",
+          "sc": "启德医院"
+        },
+        "lat": 22.318259482357895,
+        "long": 114.20647501945497
+      },
+      {
+        "seq": 15,
         "stop_id": "20021393",
         "name": {
           "en": "Cheung Yip Street northound near Kai Tak Fire Station",
@@ -30490,7 +30523,7 @@
         "long": 114.2113620042801
       },
       {
-        "seq": 15,
+        "seq": 16,
         "stop_id": "20021394",
         "name": {
           "en": "Wang Chiu Road northbound bus lay-by outside Proficient Industrial Centre",
@@ -30501,7 +30534,7 @@
         "long": 114.20881390571594
       },
       {
-        "seq": 16,
+        "seq": 17,
         "stop_id": "20021396",
         "name": {
           "en": " Lam Hing Street westbound opposite to Kellett School",
@@ -30512,7 +30545,7 @@
         "long": 114.20689880847931
       },
       {
-        "seq": 17,
+        "seq": 18,
         "stop_id": "20021395",
         "name": {
           "en": "Kai Wah Street westbound near Skyline Tower",
@@ -30523,7 +30556,7 @@
         "long": 114.20497834682466
       },
       {
-        "seq": 18,
+        "seq": 19,
         "stop_id": "20021397",
         "name": {
           "en": "Shing Kai Road northbound near Tak Long Estate",
@@ -30534,7 +30567,7 @@
         "long": 114.20468330383302
       },
       {
-        "seq": 19,
+        "seq": 20,
         "stop_id": "20021398",
         "name": {
           "en": "Muk Chui Street eastbound near Ching Long Shopping Centre",
@@ -30545,7 +30578,7 @@
         "long": 114.20269981026651
       },
       {
-        "seq": 20,
+        "seq": 21,
         "stop_id": "20021399",
         "name": {
           "en": "Shing Kai Road northbound bus lay-by outside Kai Ching Estate",
@@ -30556,7 +30589,7 @@
         "long": 114.20468330383302
       },
       {
-        "seq": 21,
+        "seq": 22,
         "stop_id": "20021400",
         "name": {
           "en": "Concorde Road westbound near Muk Yuen Street",
@@ -30567,7 +30600,7 @@
         "long": 114.19919684529306
       },
       {
-        "seq": 22,
+        "seq": 23,
         "stop_id": "20021401",
         "name": {
           "en": "Choi Hung Road westbound outside Ka Wing Factory Building",
@@ -30578,7 +30611,7 @@
         "long": 114.20036226511003
       },
       {
-        "seq": 23,
+        "seq": 24,
         "stop_id": "20021402",
         "name": {
           "en": "Shatin Pass Road northbound opposite to Hong Kong Sheng Kung Hui Calvary Church",
@@ -30589,7 +30622,7 @@
         "long": 114.19582262635232
       },
       {
-        "seq": 24,
+        "seq": 25,
         "stop_id": "20021382",
         "name": {
           "en": "Wong Tai Sin Bus Terminus",
@@ -30601,82 +30634,60 @@
       }
     ]
   },
-  "GMBKLN-88A-2010798-1": {
-    "record_id": "GMBKLN-88A-2010798-1",
+  "GMBKLN-88A-2011853-1": {
+    "record_id": "GMBKLN-88A-2011853-1",
     "company": "GMBKLN",
-    "route_id": "2010798",
+    "route_id": "2011853",
     "route": "88A",
     "route_seq": 1,
     "region": "KLN",
     "stops": [
       {
         "seq": 1,
-        "stop_id": "20021399",
+        "stop_id": "20021403",
         "name": {
-          "en": "Shing Kai Road northbound bus lay-by outside Kai Ching Estate",
-          "tc": "承啟道北行啟晴邨外巴士停車灣",
-          "sc": "承启道北行启晴邨外巴士停车湾"
+          "en": "Wong Tai Sin Bus Terminus",
+          "tc": "黃大仙巴士總站",
+          "sc": "黄大仙巴士总站"
         },
-        "lat": 22.33205472483419,
-        "long": 114.20468330383302
+        "lat": 22.34079017917738,
+        "long": 114.19483959674837
       },
       {
         "seq": 2,
-        "stop_id": "20021388",
+        "stop_id": "20021383",
         "name": {
-          "en": "Muk Hung Street southbound bus lay-by",
-          "tc": "沐虹街南行停車灣",
-          "sc": "沐虹街南行停车湾"
+          "en": "Shatin Pass Road southbound near Chun Yan Street",
+          "tc": "沙田坳道南行線近親仁街",
+          "sc": "沙田坳道南行线近亲仁街"
         },
-        "lat": 22.332404550478675,
-        "long": 114.20387327671052
+        "lat": 22.34013646559696,
+        "long": 114.19592052698137
       },
       {
         "seq": 3,
-        "stop_id": "20021398",
+        "stop_id": "20021384",
         "name": {
-          "en": "Muk Chui Street eastbound near Ching Long Shopping Centre",
-          "tc": "沐翠街東行近晴朗商場",
-          "sc": "沐翠街东行近晴朗商场"
+          "en": "Choi Hung Road eastbound opposite to Shing King Industrial Building (near L/P AA6798)",
+          "tc": "彩虹道東行線盛景工業大廈對面(近燈柱AA6798)",
+          "sc": "彩虹道东行线盛景工业大厦对面(近灯柱AA6798)"
         },
-        "lat": 22.33133026042592,
-        "long": 114.20269981026651
+        "lat": 22.33932397101134,
+        "long": 114.19933229684831
       },
       {
         "seq": 4,
-        "stop_id": "20022743",
+        "stop_id": "20021385",
         "name": {
-          "en": "Shing Kai Road southbound near Tak Long Multi-storey Car Park",
-          "tc": "承啟道南行線近德朗邨多層停車場",
-          "sc": "承启道南行线近德朗邨多层停车场"
+          "en": "Sze Mei Street opposite to Wang Fai Industrial Building",
+          "tc": "四美街宏輝工業大廈對面",
+          "sc": "四美街宏辉工业大厦对面"
         },
-        "lat": 22.329256088093103,
-        "long": 114.20484960079195
+        "lat": 22.33717300828864,
+        "long": 114.20109987258913
       },
       {
         "seq": 5,
-        "stop_id": "20022744",
-        "name": {
-          "en": "Kai Wah Street eastbound near Skyline Tower",
-          "tc": "啟華街東行線近宏天廣場",
-          "sc": "启华街东行线近宏天广场"
-        },
-        "lat": 22.326715433068482,
-        "long": 114.20488178730012
-      },
-      {
-        "seq": 6,
-        "stop_id": "20021390",
-        "name": {
-          "en": "Sheung Yee Road southbound near Zero Carbon Building",
-          "tc": "常怡道南行近零碳天地",
-          "sc": "常怡道南行近零碳天地"
-        },
-        "lat": 22.321055858444048,
-        "long": 114.20774638652803
-      },
-      {
-        "seq": 7,
         "stop_id": "20021391",
         "name": {
           "en": "Cheung Yip Street southbound near Harbourside HQ",
@@ -30687,18 +30698,29 @@
         "long": 114.21176970005035
       },
       {
-        "seq": 8,
+        "seq": 6,
         "stop_id": "20021392",
         "name": {
-          "en": "Shing Cheong Road near Hong Kong Children’s Hospital",
-          "tc": "承昌道近香港兒童醫院",
-          "sc": "承昌道近香港儿童医院"
+          "en": "Hong Kong Children’s Hospital",
+          "tc": "香港兒童醫院",
+          "sc": "香港儿童医院"
         },
         "lat": 22.315733515070715,
         "long": 114.20930206775667
       },
       {
-        "seq": 9,
+        "seq": 7,
+        "stop_id": "20023527",
+        "name": {
+          "en": "Kai Tak Hospital",
+          "tc": "啟德醫院",
+          "sc": "启德医院"
+        },
+        "lat": 22.318323995658517,
+        "long": 114.20632481575014
+      },
+      {
+        "seq": 8,
         "stop_id": "20021393",
         "name": {
           "en": "Cheung Yip Street northound near Kai Tak Fire Station",
@@ -30709,7 +30731,7 @@
         "long": 114.2113620042801
       },
       {
-        "seq": 10,
+        "seq": 9,
         "stop_id": "20021394",
         "name": {
           "en": "Wang Chiu Road northbound bus lay-by outside Proficient Industrial Centre",
@@ -30720,59 +30742,37 @@
         "long": 114.20881390571594
       },
       {
-        "seq": 11,
-        "stop_id": "20021396",
+        "seq": 10,
+        "stop_id": "20021401",
         "name": {
-          "en": " Lam Hing Street westbound opposite to Kellett School",
-          "tc": "臨興街西行啟曆學校對面",
-          "sc": "临兴街西行启历学校对面"
+          "en": "Choi Hung Road westbound outside Ka Wing Factory Building",
+          "tc": "彩虹道西行嘉榮工業大廈外",
+          "sc": "彩虹道西行嘉荣工业大厦外"
         },
-        "lat": 22.324244204692686,
-        "long": 114.20689880847931
+        "lat": 22.338646681829996,
+        "long": 114.20036226511003
+      },
+      {
+        "seq": 11,
+        "stop_id": "20021402",
+        "name": {
+          "en": "Shatin Pass Road northbound opposite to Hong Kong Sheng Kung Hui Calvary Church",
+          "tc": "沙田坳道北行線龍逸樓外",
+          "sc": "沙田坳道北行线龙逸楼外"
+        },
+        "lat": 22.33930784511668,
+        "long": 114.19582262635232
       },
       {
         "seq": 12,
-        "stop_id": "20021395",
+        "stop_id": "20021403",
         "name": {
-          "en": "Kai Wah Street westbound near Skyline Tower",
-          "tc": "啟華街西行線近宏天廣場",
-          "sc": "启华街西行线近宏天广场"
+          "en": "Wong Tai Sin Bus Terminus",
+          "tc": "黃大仙巴士總站",
+          "sc": "黄大仙巴士总站"
         },
-        "lat": 22.326556640593182,
-        "long": 114.20497834682466
-      },
-      {
-        "seq": 13,
-        "stop_id": "20021397",
-        "name": {
-          "en": "Shing Kai Road northbound near Tak Long Estate",
-          "tc": "承啟道北行近德朗邨",
-          "sc": "承启道北行近德朗邨"
-        },
-        "lat": 22.330188973245715,
-        "long": 114.20468330383302
-      },
-      {
-        "seq": 14,
-        "stop_id": "20021398",
-        "name": {
-          "en": "Muk Chui Street eastbound near Ching Long Shopping Centre",
-          "tc": "沐翠街東行近晴朗商場",
-          "sc": "沐翠街东行近晴朗商场"
-        },
-        "lat": 22.33133026042592,
-        "long": 114.20269981026651
-      },
-      {
-        "seq": 15,
-        "stop_id": "20021399",
-        "name": {
-          "en": "Shing Kai Road northbound bus lay-by outside Kai Ching Estate",
-          "tc": "承啟道北行啟晴邨外巴士停車灣",
-          "sc": "承启道北行启晴邨外巴士停车湾"
-        },
-        "lat": 22.33205472483419,
-        "long": 114.20468330383302
+        "lat": 22.34079017917738,
+        "long": 114.19483959674837
       }
     ]
   },
@@ -33008,12 +33008,23 @@
         "seq": 11,
         "stop_id": "20012999",
         "name": {
-          "en": "Shing Cheong Road, Near Training & Research Tower (Tower A), Hong Kong Children's Hospital",
-          "tc": "承昌道, 近香港兒童醫院教學及科研大樓（A座）",
-          "sc": "承昌道, 近香港儿童医院教学及科研大楼（A座）"
+          "en": "Hong Kong Children’s Hospital",
+          "tc": "香港兒童醫院",
+          "sc": "香港儿童医院"
         },
         "lat": 22.31618644051734,
         "long": 114.20880763704585
+      },
+      {
+        "seq": 12,
+        "stop_id": "20023560",
+        "name": {
+          "en": "Kai Tak Hospital",
+          "tc": "啟德醫院",
+          "sc": "启德医院"
+        },
+        "lat": 22.317346367828147,
+        "long": 114.20764446258546
       }
     ]
   },
@@ -33029,15 +33040,26 @@
         "seq": 1,
         "stop_id": "20012999",
         "name": {
-          "en": "Shing Cheong Road, Near Training & Research Tower (Tower A), Hong Kong Children's Hospital",
-          "tc": "承昌道, 近香港兒童醫院教學及科研大樓（A座）",
-          "sc": "承昌道, 近香港儿童医院教学及科研大楼（A座）"
+          "en": "Hong Kong Children’s Hospital",
+          "tc": "香港兒童醫院",
+          "sc": "香港儿童医院"
         },
         "lat": 22.31618644051734,
         "long": 114.20880763704585
       },
       {
         "seq": 2,
+        "stop_id": "20023527",
+        "name": {
+          "en": "Kai Tak Hospital",
+          "tc": "啟德醫院",
+          "sc": "启德医院"
+        },
+        "lat": 22.318323995658517,
+        "long": 114.20632481575014
+      },
+      {
+        "seq": 3,
         "stop_id": "20016715",
         "name": {
           "en": "Cheung Yip Street, Near Kai Tak Fire Station",
@@ -33048,7 +33070,7 @@
         "long": 114.2113244533539
       },
       {
-        "seq": 3,
+        "seq": 4,
         "stop_id": "20013842",
         "name": {
           "en": "Hoi Bun Road, Near One Bay East",
@@ -33059,7 +33081,7 @@
         "long": 114.21452747585137
       },
       {
-        "seq": 4,
+        "seq": 5,
         "stop_id": "20016716",
         "name": {
           "en": "163 Hoi Bun Road",
@@ -33070,7 +33092,7 @@
         "long": 114.21909481287005
       },
       {
-        "seq": 5,
+        "seq": 6,
         "stop_id": "20016717",
         "name": {
           "en": "Wai Yip Street, Near Laguna City Block 23",
@@ -33081,7 +33103,7 @@
         "long": 114.22621607780458
       },
       {
-        "seq": 6,
+        "seq": 7,
         "stop_id": "20016718",
         "name": {
           "en": "Cha Kwo Ling Road, Near The Neighbourhood Advice - Action Council Cha Kwoling Ling Centre",
@@ -33092,7 +33114,7 @@
         "long": 114.22734394669534
       },
       {
-        "seq": 7,
+        "seq": 8,
         "stop_id": "20016443",
         "name": {
           "en": "Cha Kwo Ling Road, Near Cha Kwo Ling Refuse Collection Point",
@@ -33103,7 +33125,7 @@
         "long": 114.22819594677495
       },
       {
-        "seq": 8,
+        "seq": 9,
         "stop_id": "20016444",
         "name": {
           "en": "Cha Kwo Ling Road, Near Tin Hau Temple",
@@ -33114,7 +33136,7 @@
         "long": 114.22940582971934
       },
       {
-        "seq": 9,
+        "seq": 10,
         "stop_id": "20016719",
         "name": {
           "en": "Cha Kwo Ling Road, Near Wing Shan Industrial Building",
@@ -33125,7 +33147,7 @@
         "long": 114.231695830822
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "20016720",
         "name": {
           "en": "Yau Tong Ln",
@@ -33136,7 +33158,7 @@
         "long": 114.2374961078167
       },
       {
-        "seq": 11,
+        "seq": 12,
         "stop_id": "20016704",
         "name": {
           "en": "Yau Tong (Yau Lai Estate) Minibus Terminus",
@@ -33478,12 +33500,23 @@
         "seq": 14,
         "stop_id": "20017917",
         "name": {
-          "en": "Shing Cheong Road, near Clinical Tower (Tower B)",
-          "tc": "承昌道, 近香港兒童醫院臨床服務大樓",
-          "sc": "承昌道, 近香港儿童医院临床服务大楼"
+          "en": "Hong Kong Children’s Hospital",
+          "tc": "香港兒童醫院",
+          "sc": "香港儿童医院"
         },
         "lat": 22.315902245155073,
         "long": 114.20904994010927
+      },
+      {
+        "seq": 15,
+        "stop_id": "20023593",
+        "name": {
+          "en": "Kai Tak Hospital",
+          "tc": "啟德醫院",
+          "sc": "启德医院"
+        },
+        "lat": 22.317309148359193,
+        "long": 114.20756131410602
       }
     ]
   },
@@ -33499,15 +33532,26 @@
         "seq": 1,
         "stop_id": "20017917",
         "name": {
-          "en": "Shing Cheong Road, near Clinical Tower (Tower B)",
-          "tc": "承昌道, 近香港兒童醫院臨床服務大樓",
-          "sc": "承昌道, 近香港儿童医院临床服务大楼"
+          "en": "Hong Kong Children’s Hospital",
+          "tc": "香港兒童醫院",
+          "sc": "香港儿童医院"
         },
         "lat": 22.315902245155073,
         "long": 114.20904994010927
       },
       {
         "seq": 2,
+        "stop_id": "20023527",
+        "name": {
+          "en": "Kai Tak Hospital",
+          "tc": "啟德醫院",
+          "sc": "启德医院"
+        },
+        "lat": 22.318323995658517,
+        "long": 114.20632481575014
+      },
+      {
+        "seq": 3,
         "stop_id": "20016715",
         "name": {
           "en": "Cheung Yip Street, Near Kai Tak Fire Station",
@@ -33518,7 +33562,7 @@
         "long": 114.2113244533539
       },
       {
-        "seq": 3,
+        "seq": 4,
         "stop_id": "20015909",
         "name": {
           "en": "Hoi Bun Road, Near The Quayside",
@@ -33529,7 +33573,7 @@
         "long": 114.21315758441779
       },
       {
-        "seq": 4,
+        "seq": 5,
         "stop_id": "20013842",
         "name": {
           "en": "Hoi Bun Road, Near One Bay East",
@@ -33540,7 +33584,7 @@
         "long": 114.21452747585137
       },
       {
-        "seq": 5,
+        "seq": 6,
         "stop_id": "20016736",
         "name": {
           "en": "Ngau Tau Kok Road, Near Lotus Tower Block 2",
@@ -33551,7 +33595,7 @@
         "long": 114.22014892101288
       },
       {
-        "seq": 6,
+        "seq": 7,
         "stop_id": "20000810",
         "name": {
           "en": "Kentlum Mansion",
@@ -33562,7 +33606,7 @@
         "long": 114.22234536793266
       },
       {
-        "seq": 7,
+        "seq": 8,
         "stop_id": "20000633",
         "name": {
           "en": "Hong Ning Road Market",
@@ -33573,7 +33617,7 @@
         "long": 114.22352313995363
       },
       {
-        "seq": 8,
+        "seq": 9,
         "stop_id": "20016737",
         "name": {
           "en": "Hong Ning Road, Near Hong Ning Building",
@@ -33584,7 +33628,7 @@
         "long": 114.22293305397035
       },
       {
-        "seq": 9,
+        "seq": 10,
         "stop_id": "20016738",
         "name": {
           "en": "Hong Ning Road, Near Hamden Court Block A",
@@ -33595,7 +33639,7 @@
         "long": 114.22339975833894
       },
       {
-        "seq": 10,
+        "seq": 11,
         "stop_id": "20020823",
         "name": {
           "en": "Hong Ning Road, near United Christian Hospital",
@@ -33606,7 +33650,7 @@
         "long": 114.22501176595689
       },
       {
-        "seq": 11,
+        "seq": 12,
         "stop_id": "20002030",
         "name": {
           "en": "Sau Mau Ping Road, Outside Ning Po No.2 College",
@@ -33617,7 +33661,7 @@
         "long": 114.22854097384555
       },
       {
-        "seq": 12,
+        "seq": 13,
         "stop_id": "20002031",
         "name": {
           "en": "Sau Mau Ping Road, Opposite Sau Yee House",
@@ -33628,7 +33672,7 @@
         "long": 114.23080208042795
       },
       {
-        "seq": 13,
+        "seq": 14,
         "stop_id": "20016402",
         "name": {
           "en": "Sau Fung Street, near Sau Chi House, Sau Mau Ping Estate",

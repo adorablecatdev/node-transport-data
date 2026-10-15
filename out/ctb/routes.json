@@ -2223,6 +2223,38 @@
       "sc": "筲箕湾"
     }
   },
+  "CTB-347-I": {
+    "record_id": "CTB-347-I",
+    "company": "CTB",
+    "route": "347",
+    "bound": "I",
+    "origin": {
+      "en": "Aberdeen (via Victoria Road)",
+      "tc": "香港仔 (經域多利道)",
+      "sc": "香港仔 (经域多利道)"
+    },
+    "destination": {
+      "en": "Admiralty (West)",
+      "tc": "金鐘 (西)",
+      "sc": "金钟 (西)"
+    }
+  },
+  "CTB-347-O": {
+    "record_id": "CTB-347-O",
+    "company": "CTB",
+    "route": "347",
+    "bound": "O",
+    "origin": {
+      "en": "Admiralty (West)",
+      "tc": "金鐘 (西)",
+      "sc": "金钟 (西)"
+    },
+    "destination": {
+      "en": "Aberdeen (via Victoria Road)",
+      "tc": "香港仔 (經域多利道)",
+      "sc": "香港仔 (经域多利道)"
+    }
+  },
   "CTB-37A-O": {
     "record_id": "CTB-37A-O",
     "company": "CTB",
@@ -7647,6 +7679,22 @@
       "sc": "海丽邨"
     }
   },
+  "CTB-971R-O": {
+    "record_id": "CTB-971R-O",
+    "company": "CTB",
+    "route": "971R",
+    "bound": "O",
+    "origin": {
+      "en": "Cyberport  (via Victoria Road)",
+      "tc": "數碼港 (經域多利道)",
+      "sc": "数码港 (经域多利道)"
+    },
+    "destination": {
+      "en": "Mong Kok",
+      "tc": "旺角",
+      "sc": "旺角"
+    }
+  },
   "CTB-973-I": {
     "record_id": "CTB-973-I",
     "company": "CTB",
@@ -7677,70 +7725,6 @@
       "en": "Stanley Market",
       "tc": "赤柱市場",
       "sc": "赤柱市场"
-    }
-  },
-  "CTB-976-I": {
-    "record_id": "CTB-976-I",
-    "company": "CTB",
-    "route": "976",
-    "bound": "I",
-    "origin": {
-      "en": "Sai Wan Ho",
-      "tc": "西灣河",
-      "sc": "西湾河"
-    },
-    "destination": {
-      "en": "Lok Ma Chau (San Tin)",
-      "tc": "落馬洲 (新田)",
-      "sc": "落马洲 (新田)"
-    }
-  },
-  "CTB-976-O": {
-    "record_id": "CTB-976-O",
-    "company": "CTB",
-    "route": "976",
-    "bound": "O",
-    "origin": {
-      "en": "Lok Ma Chau (San Tin)",
-      "tc": "落馬洲 (新田)",
-      "sc": "落马洲 (新田)"
-    },
-    "destination": {
-      "en": "Sai Wan Ho",
-      "tc": "西灣河",
-      "sc": "西湾河"
-    }
-  },
-  "CTB-976A-I": {
-    "record_id": "CTB-976A-I",
-    "company": "CTB",
-    "route": "976A",
-    "bound": "I",
-    "origin": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
-    },
-    "destination": {
-      "en": "Lok Ma Chau (San Tin)",
-      "tc": "落馬洲 (新田)",
-      "sc": "落马洲 (新田)"
-    }
-  },
-  "CTB-976A-O": {
-    "record_id": "CTB-976A-O",
-    "company": "CTB",
-    "route": "976A",
-    "bound": "O",
-    "origin": {
-      "en": "Lok Ma Chau (San Tin)",
-      "tc": "落馬洲 (新田)",
-      "sc": "落马洲 (新田)"
-    },
-    "destination": {
-      "en": "Siu Sai Wan (Island Resort)",
-      "tc": "小西灣 (藍灣半島)",
-      "sc": "小西湾 (蓝湾半岛)"
     }
   },
   "CTB-979-I": {
@@ -8509,6 +8493,102 @@
       "en": "Airport (via HZMB Hong Kong Port)",
       "tc": "機場 (經港珠澳大橋香港口岸)",
       "sc": "机场 (经港珠澳大桥香港口岸)"
+    }
+  },
+  "CTB-B13-I": {
+    "record_id": "CTB-B13-I",
+    "company": "CTB",
+    "route": "B13",
+    "bound": "I",
+    "origin": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
+    },
+    "destination": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
+  "CTB-B13-O": {
+    "record_id": "CTB-B13-O",
+    "company": "CTB",
+    "route": "B13",
+    "bound": "O",
+    "origin": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "destination": {
+      "en": "Siu Sai Wan (Island Resort)",
+      "tc": "小西灣 (藍灣半島)",
+      "sc": "小西湾 (蓝湾半岛)"
+    }
+  },
+  "CTB-B14-I": {
+    "record_id": "CTB-B14-I",
+    "company": "CTB",
+    "route": "B14",
+    "bound": "I",
+    "origin": {
+      "en": "Kai Tak Olympic Avenue (via Sung Wong Toi Station)",
+      "tc": "啟德世運道 (經 宋皇臺站)",
+      "sc": "启德世运道 (经 宋皇台站)"
+    },
+    "destination": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
+  "CTB-B14-O": {
+    "record_id": "CTB-B14-O",
+    "company": "CTB",
+    "route": "B14",
+    "bound": "O",
+    "origin": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "destination": {
+      "en": "Kai Tak Olympic Avenue (via Sung Wong Toi Station)",
+      "tc": "啟德世運道 (經 宋皇臺站)",
+      "sc": "启德世运道 (经 宋皇台站)"
+    }
+  },
+  "CTB-B15-I": {
+    "record_id": "CTB-B15-I",
+    "company": "CTB",
+    "route": "B15",
+    "bound": "I",
+    "origin": {
+      "en": "Tuen Mun Castle Peak Bay (via Hung Shui Kiu)",
+      "tc": "屯門青山灣 (經洪水橋)",
+      "sc": "屯门青山湾 (经洪水桥)"
+    },
+    "destination": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
+  "CTB-B15-O": {
+    "record_id": "CTB-B15-O",
+    "company": "CTB",
+    "route": "B15",
+    "bound": "O",
+    "origin": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "destination": {
+      "en": "Tuen Mun Castle Peak Bay (via Hung Shui Kiu)",
+      "tc": "屯門青山灣 (經洪水橋)",
+      "sc": "屯门青山湾 (经洪水桥)"
     }
   },
   "CTB-B3-I": {
@@ -10701,22 +10781,6 @@
       "en": "Siu Sai Wan (Island Resort)",
       "tc": "小西灣 (藍灣半島)",
       "sc": "小西湾 (蓝湾半岛)"
-    }
-  },
-  "CTB-SP12-O": {
-    "record_id": "CTB-SP12-O",
-    "company": "CTB",
-    "route": "SP12",
-    "bound": "O",
-    "origin": {
-      "en": "Kai Tak Sports Park",
-      "tc": "啟德體育園",
-      "sc": "启德体育园"
-    },
-    "destination": {
-      "en": "Lok Ma Chau (San Tin)",
-      "tc": "落馬洲 (新田)",
-      "sc": "落马洲 (新田)"
     }
   },
   "CTB-SP2-O": {

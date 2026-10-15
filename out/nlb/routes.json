@@ -687,6 +687,38 @@
       "sc": "梅窝码头"
     }
   },
+  "NLB-B12-117": {
+    "record_id": "NLB-B12-117",
+    "company": "NLB",
+    "route_id": "117",
+    "route": "B12",
+    "origin": {
+      "en": "Wu Kai Sha Station",
+      "tc": "烏溪沙站",
+      "sc": "乌溪沙站"
+    },
+    "destination": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
+  "NLB-B12-118": {
+    "record_id": "NLB-B12-118",
+    "company": "NLB",
+    "route_id": "118",
+    "route": "B12",
+    "origin": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    },
+    "destination": {
+      "en": "Wu Kai Sha Station",
+      "tc": "烏溪沙站",
+      "sc": "乌溪沙站"
+    }
+  },
   "NLB-B2-37": {
     "record_id": "NLB-B2-37",
     "company": "NLB",
