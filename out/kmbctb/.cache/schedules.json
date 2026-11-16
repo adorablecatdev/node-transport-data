@@ -18215,6 +18215,24 @@
         "BoundText2": "18:15",
         "ServiceType_Chi": ""
       }
+    ],
+    "03": [
+      {
+        "DayType": "MF        ",
+        "BoundTime1": "",
+        "ServiceType_Eng": "",
+        "BoundText1": "",
+        "Origin_Eng": "",
+        "ServiceType": "03   ",
+        "Destination_Chi": "紅磡海底隧道",
+        "OrderSeq": "1",
+        "Route": "102P",
+        "Destination_Eng": "HUNG HOM CROSS HARBOUR TUNNEL",
+        "BoundTime2": "",
+        "Origin_Chi": "",
+        "BoundText2": "08:30, 09:00",
+        "ServiceType_Chi": ""
+      }
     ]
   },
   "106A": {

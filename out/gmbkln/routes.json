@@ -3401,24 +3401,6 @@
       "sc": "长沙湾(青山道)(循环线)"
     }
   },
-  "GMBKLN-76A-2006969-1": {
-    "record_id": "GMBKLN-76A-2006969-1",
-    "company": "GMBKLN",
-    "route_id": "2006969",
-    "route": "76A",
-    "route_seq": 1,
-    "region": "KLN",
-    "origin": {
-      "en": "Kwong Tin",
-      "tc": "廣田",
-      "sc": "广田"
-    },
-    "destination": {
-      "en": "United Christian Hospital(Circular)",
-      "tc": "基督教聯合醫院(循環線)",
-      "sc": "基督教联合医院(循环线)"
-    }
-  },
   "GMBKLN-76A-2010335-1": {
     "record_id": "GMBKLN-76A-2010335-1",
     "company": "GMBKLN",

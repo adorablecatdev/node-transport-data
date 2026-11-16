@@ -10583,24 +10583,6 @@
       "sc": "火炭(长沥尾街)(循环线)"
     }
   },
-  "GMBNT-811B-2011490-1": {
-    "record_id": "GMBNT-811B-2011490-1",
-    "company": "GMBNT",
-    "route_id": "2011490",
-    "route": "811B",
-    "route_seq": 1,
-    "region": "NT",
-    "origin": {
-      "en": "Yiu On",
-      "tc": "耀安",
-      "sc": "耀安"
-    },
-    "destination": {
-      "en": "Fo Tan (Cheung Lek Mei Street)",
-      "tc": "火炭(長瀝尾街)",
-      "sc": "火炭(长沥尾街)"
-    }
-  },
   "GMBNT-811K-2007827-1": {
     "record_id": "GMBNT-811K-2007827-1",
     "company": "GMBNT",

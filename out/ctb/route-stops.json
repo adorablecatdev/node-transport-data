@@ -1098,6 +1098,17 @@
       },
       {
         "seq": 20,
+        "stop_id": "001090",
+        "name": {
+          "en": "Murray Road",
+          "tc": "美利道",
+          "sc": "美利道"
+        },
+        "lat": 22.280306002091,
+        "long": 114.16188677053
+      },
+      {
+        "seq": 21,
         "stop_id": "001136",
         "name": {
           "en": "Admiralty - Admiralty Garden, Queensway",
@@ -1108,7 +1119,7 @@
         "long": 114.16445856053
       },
       {
-        "seq": 21,
+        "seq": 22,
         "stop_id": "002479",
         "name": {
           "en": "Three Pacific Place, Queen's Road East",
@@ -1119,7 +1130,7 @@
         "long": 114.16784733053
       },
       {
-        "seq": 22,
+        "seq": 23,
         "stop_id": "002480",
         "name": {
           "en": "Lun Fat Street, Queen's Road East",
@@ -1130,7 +1141,7 @@
         "long": 114.17017417053
       },
       {
-        "seq": 23,
+        "seq": 24,
         "stop_id": "002481",
         "name": {
           "en": "Amoy Street, Queen's Road East",
@@ -1141,7 +1152,7 @@
         "long": 114.17158011053
       },
       {
-        "seq": 24,
+        "seq": 25,
         "stop_id": "002482",
         "name": {
           "en": "The Zenith, Queen's Road East",
@@ -1152,7 +1163,7 @@
         "long": 114.17386255053
       },
       {
-        "seq": 25,
+        "seq": 26,
         "stop_id": "002484",
         "name": {
           "en": "St. Joseph's Primary School, Queen's Road East",
@@ -1163,7 +1174,7 @@
         "long": 114.17692050053
       },
       {
-        "seq": 26,
+        "seq": 27,
         "stop_id": "002485",
         "name": {
           "en": "Queen Elizabeth Stadium, Queen's Road East",
@@ -1174,7 +1185,7 @@
         "long": 114.17867690053
       },
       {
-        "seq": 27,
+        "seq": 28,
         "stop_id": "002469",
         "name": {
           "en": "Leighton Road, Morrison Hill Road",
@@ -1185,7 +1196,7 @@
         "long": 114.18045880053
       },
       {
-        "seq": 28,
+        "seq": 29,
         "stop_id": "002455",
         "name": {
           "en": "Matheson Street, Leighton Road",
@@ -1196,7 +1207,7 @@
         "long": 114.18180360053
       },
       {
-        "seq": 29,
+        "seq": 30,
         "stop_id": "002456",
         "name": {
           "en": "Bonaventure House, Leighton Road",
@@ -1207,7 +1218,7 @@
         "long": 114.18464429053
       },
       {
-        "seq": 30,
+        "seq": 31,
         "stop_id": "002474",
         "name": {
           "en": "Pennington Street",
@@ -1218,7 +1229,7 @@
         "long": 114.18603081053
       },
       {
-        "seq": 31,
+        "seq": 32,
         "stop_id": "001213",
         "name": {
           "en": "Victoria Park, Causeway Road",
@@ -1229,7 +1240,7 @@
         "long": 114.19006592053
       },
       {
-        "seq": 32,
+        "seq": 33,
         "stop_id": "001259",
         "name": {
           "en": "Ngan Mok Street, King's Road",
@@ -1240,7 +1251,7 @@
         "long": 114.19246041053
       },
       {
-        "seq": 33,
+        "seq": 34,
         "stop_id": "001260",
         "name": {
           "en": "7 Seas Shopping Centre, King's Road",
@@ -1251,7 +1262,7 @@
         "long": 114.19296558053
       },
       {
-        "seq": 34,
+        "seq": 35,
         "stop_id": "001261",
         "name": {
           "en": "Tin Chong Street, King's Road",
@@ -1262,7 +1273,7 @@
         "long": 114.19505769053
       },
       {
-        "seq": 35,
+        "seq": 36,
         "stop_id": "001262",
         "name": {
           "en": "Tong Shui Road, King's Road",
@@ -1273,7 +1284,7 @@
         "long": 114.19810570053
       },
       {
-        "seq": 36,
+        "seq": 37,
         "stop_id": "001310",
         "name": {
           "en": "Marble Road, Shu Kuk Street",
@@ -1284,7 +1295,7 @@
         "long": 114.20012532053
       },
       {
-        "seq": 37,
+        "seq": 38,
         "stop_id": "001249",
         "name": {
           "en": "North Point Ferry Pier",
@@ -25635,17 +25646,6 @@
       },
       {
         "seq": 2,
-        "stop_id": "001176",
-        "name": {
-          "en": "IFC Mall, Man Cheung Street",
-          "tc": "國際金融中心商場, 民祥街",
-          "sc": "国际金融中心商场, 民祥街"
-        },
-        "lat": 22.285071342091,
-        "long": 114.15857719053
-      },
-      {
-        "seq": 3,
         "stop_id": "001107",
         "name": {
           "en": "Central Government Pier, Man Kwong Street",
@@ -25656,7 +25656,7 @@
         "long": 114.15481928053
       },
       {
-        "seq": 4,
+        "seq": 3,
         "stop_id": "001170",
         "name": {
           "en": "Central Ferry - Discovery Bay Ferry, Man Kwong Street",
@@ -25667,7 +25667,7 @@
         "long": 114.15737694053
       },
       {
-        "seq": 5,
+        "seq": 4,
         "stop_id": "001195",
         "name": {
           "en": "Central Ferry – Cheung Chau & Lamma Island Ferry",
@@ -25678,7 +25678,7 @@
         "long": 114.15917127053
       },
       {
-        "seq": 6,
+        "seq": 5,
         "stop_id": "001171",
         "name": {
           "en": "Central Ferry - Star Ferry",
@@ -25689,7 +25689,7 @@
         "long": 114.16035307053
       },
       {
-        "seq": 7,
+        "seq": 6,
         "stop_id": "001144",
         "name": {
           "en": "Two International Finance Centre, Man Yiu Street",
@@ -25700,7 +25700,7 @@
         "long": 114.15994519053
       },
       {
-        "seq": 8,
+        "seq": 7,
         "stop_id": "001032",
         "name": {
           "en": "Central (Exchange Square)",
@@ -25711,7 +25711,7 @@
         "long": 114.15803274053
       },
       {
-        "seq": 9,
+        "seq": 8,
         "stop_id": "001030",
         "name": {
           "en": "Jardine House, Connaught Road Central",
@@ -25722,7 +25722,7 @@
         "long": 114.15929917053
       },
       {
-        "seq": 10,
+        "seq": 9,
         "stop_id": "001031",
         "name": {
           "en": "City Hall, Connaught Road Central",
@@ -25733,7 +25733,7 @@
         "long": 114.16153245053
       },
       {
-        "seq": 11,
+        "seq": 10,
         "stop_id": "003845",
         "name": {
           "en": "Admiralty - Queensway Plaza, Queensway",
@@ -25744,7 +25744,7 @@
         "long": 114.16447808053
       },
       {
-        "seq": 12,
+        "seq": 11,
         "stop_id": "002967",
         "name": {
           "en": "Golden Star Building, Lockhart Road",
@@ -25755,7 +25755,7 @@
         "long": 114.16975256053
       },
       {
-        "seq": 13,
+        "seq": 12,
         "stop_id": "002423",
         "name": {
           "en": "Immigration Tower, Gloucester Road",
@@ -25766,7 +25766,7 @@
         "long": 114.17270317053
       },
       {
-        "seq": 14,
+        "seq": 13,
         "stop_id": "002561",
         "name": {
           "en": "Victoria Park, Gloucester Road",
@@ -25777,7 +25777,7 @@
         "long": 114.18746677053
       },
       {
-        "seq": 15,
+        "seq": 14,
         "stop_id": "001213",
         "name": {
           "en": "Victoria Park, Causeway Road",
@@ -25788,7 +25788,7 @@
         "long": 114.19006592053
       },
       {
-        "seq": 16,
+        "seq": 15,
         "stop_id": "001259",
         "name": {
           "en": "Ngan Mok Street, King's Road",
@@ -25799,7 +25799,7 @@
         "long": 114.19246041053
       },
       {
-        "seq": 17,
+        "seq": 16,
         "stop_id": "001260",
         "name": {
           "en": "7 Seas Shopping Centre, King's Road",
@@ -25810,7 +25810,7 @@
         "long": 114.19296558053
       },
       {
-        "seq": 18,
+        "seq": 17,
         "stop_id": "001261",
         "name": {
           "en": "Tin Chong Street, King's Road",
@@ -25821,7 +25821,7 @@
         "long": 114.19505769053
       },
       {
-        "seq": 19,
+        "seq": 18,
         "stop_id": "001262",
         "name": {
           "en": "Tong Shui Road, King's Road",
@@ -25832,7 +25832,7 @@
         "long": 114.19810570053
       },
       {
-        "seq": 20,
+        "seq": 19,
         "stop_id": "001373",
         "name": {
           "en": "Kam Hong Street, King's Road",
@@ -25843,7 +25843,7 @@
         "long": 114.20118525053
       },
       {
-        "seq": 21,
+        "seq": 20,
         "stop_id": "001264",
         "name": {
           "en": "Island Place, King's Road",
@@ -25854,7 +25854,7 @@
         "long": 114.20248986053
       },
       {
-        "seq": 22,
+        "seq": 21,
         "stop_id": "001265",
         "name": {
           "en": "Healthy Village, King's Road",
@@ -25865,7 +25865,7 @@
         "long": 114.20652344053
       },
       {
-        "seq": 23,
+        "seq": 22,
         "stop_id": "002677",
         "name": {
           "en": "Model Housing Estate, King's Road",
@@ -25876,7 +25876,7 @@
         "long": 114.20785144053
       },
       {
-        "seq": 24,
+        "seq": 23,
         "stop_id": "001267",
         "name": {
           "en": "North Point Government Primary School, King's Road",
@@ -25887,7 +25887,7 @@
         "long": 114.20986716053
       },
       {
-        "seq": 25,
+        "seq": 24,
         "stop_id": "001268",
         "name": {
           "en": "Sunway Gardens, King's Road",
@@ -25898,7 +25898,7 @@
         "long": 114.21133814053
       },
       {
-        "seq": 26,
+        "seq": 25,
         "stop_id": "001269",
         "name": {
           "en": "Westlands Gardens, King's Road",
@@ -25909,7 +25909,7 @@
         "long": 114.21319278053
       },
       {
-        "seq": 27,
+        "seq": 26,
         "stop_id": "001270",
         "name": {
           "en": "Cityplaza, King's Road",
@@ -25920,7 +25920,7 @@
         "long": 114.21758355053
       },
       {
-        "seq": 28,
+        "seq": 27,
         "stop_id": "001296",
         "name": {
           "en": "Tai On Building, Shau Kei Wan Road",
@@ -25931,7 +25931,7 @@
         "long": 114.22170603053
       },
       {
-        "seq": 29,
+        "seq": 28,
         "stop_id": "001297",
         "name": {
           "en": "Hoi An Street, Shau Kei Wan Road",
@@ -25942,7 +25942,7 @@
         "long": 114.22363882053
       },
       {
-        "seq": 30,
+        "seq": 29,
         "stop_id": "001298",
         "name": {
           "en": "Aldrich Bay Road, Shau Kei Wan Road",
@@ -25953,7 +25953,7 @@
         "long": 114.22504094053
       },
       {
-        "seq": 31,
+        "seq": 30,
         "stop_id": "001380",
         "name": {
           "en": "Nam Hong Street, Shau Kei Wan Road",
@@ -25964,7 +25964,7 @@
         "long": 114.22627158053
       },
       {
-        "seq": 32,
+        "seq": 31,
         "stop_id": "001207",
         "name": {
           "en": "Shau Kei Wan",
@@ -25975,7 +25975,7 @@
         "long": 114.22833128053
       },
       {
-        "seq": 33,
+        "seq": 32,
         "stop_id": "001390",
         "name": {
           "en": "Oi Tung Shopping Centre, Oi Yin Street",
@@ -25986,7 +25986,7 @@
         "long": 114.22809528053
       },
       {
-        "seq": 34,
+        "seq": 33,
         "stop_id": "003157",
         "name": {
           "en": "Tung Hiu House Tung Yuk Court, Oi Kan Road",
@@ -25997,7 +25997,7 @@
         "long": 114.22711622053
       },
       {
-        "seq": 35,
+        "seq": 34,
         "stop_id": "003155",
         "name": {
           "en": "Sai Wan Ho (Grand Promenade)",
@@ -26237,17 +26237,6 @@
       },
       {
         "seq": 21,
-        "stop_id": "001251",
-        "name": {
-          "en": "Hing Fat Street",
-          "tc": "興發街",
-          "sc": "兴发街"
-        },
-        "lat": 22.283573922091,
-        "long": 114.19109346053
-      },
-      {
-        "seq": 22,
         "stop_id": "001333",
         "name": {
           "en": "Queen's College, Tung Lo Wan Road",
@@ -26258,7 +26247,7 @@
         "long": 114.19206074053
       },
       {
-        "seq": 23,
+        "seq": 22,
         "stop_id": "001334",
         "name": {
           "en": "Chinese Recreation Club, Tung Lo Wan Road",
@@ -26269,7 +26258,7 @@
         "long": 114.19176929053
       },
       {
-        "seq": 24,
+        "seq": 23,
         "stop_id": "002568",
         "name": {
           "en": "Paterson Street, Gloucester Road",
@@ -26280,7 +26269,7 @@
         "long": 114.18503389053
       },
       {
-        "seq": 25,
+        "seq": 24,
         "stop_id": "002414",
         "name": {
           "en": "Cannon Street, Gloucester Road",
@@ -26291,7 +26280,7 @@
         "long": 114.18280892053
       },
       {
-        "seq": 26,
+        "seq": 25,
         "stop_id": "002563",
         "name": {
           "en": "Marsh Road, Gloucester Road",
@@ -26302,7 +26291,7 @@
         "long": 114.17971701053
       },
       {
-        "seq": 27,
+        "seq": 26,
         "stop_id": "002416",
         "name": {
           "en": "Stewart Road, Gloucester Road",
@@ -26313,7 +26302,7 @@
         "long": 114.17698751053
       },
       {
-        "seq": 28,
+        "seq": 27,
         "stop_id": "002418",
         "name": {
           "en": "O'Brien Road, Gloucester Road",
@@ -26324,7 +26313,7 @@
         "long": 114.17345730053
       },
       {
-        "seq": 29,
+        "seq": 28,
         "stop_id": "002420",
         "name": {
           "en": "Fenwick Street, Gloucester Road",
@@ -26335,7 +26324,7 @@
         "long": 114.17085514053
       },
       {
-        "seq": 30,
+        "seq": 29,
         "stop_id": "001074",
         "name": {
           "en": "Admiralty - Admiralty Centre, Harcourt Road",
@@ -26346,7 +26335,7 @@
         "long": 114.16514437053
       },
       {
-        "seq": 31,
+        "seq": 30,
         "stop_id": "001054",
         "name": {
           "en": "The Landmark, Des Voeux Road Central",
@@ -26357,7 +26346,7 @@
         "long": 114.15825054053
       },
       {
-        "seq": 32,
+        "seq": 31,
         "stop_id": "001056",
         "name": {
           "en": "Central Market, Des Voeux Road Central",
@@ -26368,7 +26357,7 @@
         "long": 114.15539392053
       },
       {
-        "seq": 33,
+        "seq": 32,
         "stop_id": "002735",
         "name": {
           "en": "Golden Tower, Des Voeux Road Central",
@@ -26379,7 +26368,7 @@
         "long": 114.15348257053
       },
       {
-        "seq": 34,
+        "seq": 33,
         "stop_id": "001027",
         "name": {
           "en": "Central (Macao Ferry)",
@@ -30129,6 +30118,50 @@
         },
         "lat": 22.306345962091,
         "long": 114.21319488053
+      },
+      {
+        "seq": 12,
+        "stop_id": "003790",
+        "name": {
+          "en": "Shing King Street, Shing Fung Road",
+          "tc": "承景街, 承豐道",
+          "sc": "承景街, 承丰道"
+        },
+        "lat": 22.309729902091,
+        "long": 114.20998852053
+      },
+      {
+        "seq": 13,
+        "stop_id": "003520",
+        "name": {
+          "en": "Cullinan Harbour, Shing Fung Road",
+          "tc": "天璽．海, 承豐道",
+          "sc": "天玺．海, 承丰道"
+        },
+        "lat": 22.311892072091,
+        "long": 114.20758235053
+      },
+      {
+        "seq": 14,
+        "stop_id": "003890",
+        "name": {
+          "en": "Victoria Voyage, Shing Fung Road",
+          "tc": "維港．灣畔, 承豐道",
+          "sc": "维港．湾畔, 承丰道"
+        },
+        "lat": 22.314453222091,
+        "long": 114.20470907053
+      },
+      {
+        "seq": 15,
+        "stop_id": "003877",
+        "name": {
+          "en": "Twin Victoria, Shing Fung Road",
+          "tc": "維港．雙鑽, 承豐道",
+          "sc": "维港．双钻, 承丰道"
+        },
+        "lat": 22.315684972091,
+        "long": 114.20301480053
       }
     ]
   },
@@ -56032,6 +56065,17 @@
       },
       {
         "seq": 22,
+        "stop_id": "001090",
+        "name": {
+          "en": "Murray Road",
+          "tc": "美利道",
+          "sc": "美利道"
+        },
+        "lat": 22.280306002091,
+        "long": 114.16188677053
+      },
+      {
+        "seq": 23,
         "stop_id": "001050",
         "name": {
           "en": "Alexandra House, Des Voeux Road Central",
@@ -56042,7 +56086,7 @@
         "long": 114.15830013053
       },
       {
-        "seq": 23,
+        "seq": 24,
         "stop_id": "001052",
         "name": {
           "en": "Chater Garden, Des Voeux Road Central",
@@ -56053,7 +56097,7 @@
         "long": 114.16064635053
       },
       {
-        "seq": 24,
+        "seq": 25,
         "stop_id": "003845",
         "name": {
           "en": "Admiralty - Queensway Plaza, Queensway",
@@ -56064,7 +56108,7 @@
         "long": 114.16447808053
       },
       {
-        "seq": 25,
+        "seq": 26,
         "stop_id": "002430",
         "name": {
           "en": "Luard Road, Hennessy Road",
@@ -56075,7 +56119,7 @@
         "long": 114.17099800053
       },
       {
-        "seq": 26,
+        "seq": 27,
         "stop_id": "002434",
         "name": {
           "en": "Stewart Road, Hennessy Road",
@@ -56086,7 +56130,7 @@
         "long": 114.17617122053
       },
       {
-        "seq": 27,
+        "seq": 28,
         "stop_id": "002435",
         "name": {
           "en": "Tonnochy Road, Hennessy Road",
@@ -56097,7 +56141,7 @@
         "long": 114.17909682053
       },
       {
-        "seq": 28,
+        "seq": 29,
         "stop_id": "002438",
         "name": {
           "en": "Causeway Bay - Sogo Department Store, Hennessy Road",
@@ -56108,7 +56152,7 @@
         "long": 114.18417804053
       },
       {
-        "seq": 29,
+        "seq": 30,
         "stop_id": "002535",
         "name": {
           "en": "St. Paul's Hospital, Tung Lo Wan Road",
@@ -56119,7 +56163,7 @@
         "long": 114.18806171053
       },
       {
-        "seq": 30,
+        "seq": 31,
         "stop_id": "002408",
         "name": {
           "en": "Shing Kwong Church, Eastern Hospital Road",
@@ -56130,7 +56174,7 @@
         "long": 114.18907948053
       },
       {
-        "seq": 31,
+        "seq": 32,
         "stop_id": "002409",
         "name": {
           "en": "Tung Wah Eastern Hospital, Eastern Hospital Road",
@@ -56141,7 +56185,7 @@
         "long": 114.18983539053
       },
       {
-        "seq": 32,
+        "seq": 33,
         "stop_id": "002410",
         "name": {
           "en": "Hong Kong Stadium, Eastern Hospital Road",
@@ -88810,6 +88854,28 @@
       },
       {
         "seq": 10,
+        "stop_id": "002344",
+        "name": {
+          "en": "Yan's Tower, Wong Chuk Hang Road",
+          "tc": "甄沾記大廈, 黃竹坑道",
+          "sc": "甄沾记大厦, 黄竹坑道"
+        },
+        "lat": 22.248523252091,
+        "long": 114.16362493053
+      },
+      {
+        "seq": 11,
+        "stop_id": "002383",
+        "name": {
+          "en": "Yip Hing Street, Wong Chuk Hang Road",
+          "tc": "業興街, 黃竹坑道",
+          "sc": "业兴街, 黄竹坑道"
+        },
+        "lat": 22.249540662091,
+        "long": 114.16811154053
+      },
+      {
+        "seq": 12,
         "stop_id": "002347",
         "name": {
           "en": "Wong Chuk Hang Hospital, Aberdeen Tunnel",
@@ -88820,7 +88886,7 @@
         "long": 114.17585543053
       },
       {
-        "seq": 11,
+        "seq": 13,
         "stop_id": "003969",
         "name": {
           "en": "Aberdeen Tunnel Bus-Bus Interchange",
@@ -88831,7 +88897,7 @@
         "long": 114.17796668053
       },
       {
-        "seq": 12,
+        "seq": 14,
         "stop_id": "001255",
         "name": {
           "en": "Java Road Complex, Java Road",
@@ -88842,7 +88908,7 @@
         "long": 114.19948901053
       },
       {
-        "seq": 13,
+        "seq": 15,
         "stop_id": "001257",
         "name": {
           "en": "Tin Chiu Street, Java Road",
@@ -88853,7 +88919,7 @@
         "long": 114.20250688053
       },
       {
-        "seq": 14,
+        "seq": 16,
         "stop_id": "001265",
         "name": {
           "en": "Healthy Village, King's Road",
@@ -88864,7 +88930,7 @@
         "long": 114.20652344053
       },
       {
-        "seq": 15,
+        "seq": 17,
         "stop_id": "001266",
         "name": {
           "en": "Model Housing Estate, King's Road",
@@ -88875,7 +88941,7 @@
         "long": 114.20871956053
       },
       {
-        "seq": 16,
+        "seq": 18,
         "stop_id": "001267",
         "name": {
           "en": "North Point Government Primary School, King's Road",
@@ -88886,7 +88952,7 @@
         "long": 114.20986716053
       },
       {
-        "seq": 17,
+        "seq": 19,
         "stop_id": "001268",
         "name": {
           "en": "Sunway Gardens, King's Road",
@@ -88897,7 +88963,7 @@
         "long": 114.21133814053
       },
       {
-        "seq": 18,
+        "seq": 20,
         "stop_id": "001269",
         "name": {
           "en": "Westlands Gardens, King's Road",
@@ -88908,7 +88974,7 @@
         "long": 114.21319278053
       },
       {
-        "seq": 19,
+        "seq": 21,
         "stop_id": "001270",
         "name": {
           "en": "Cityplaza, King's Road",
@@ -88919,7 +88985,7 @@
         "long": 114.21758355053
       },
       {
-        "seq": 20,
+        "seq": 22,
         "stop_id": "001296",
         "name": {
           "en": "Tai On Building, Shau Kei Wan Road",
@@ -88930,7 +88996,7 @@
         "long": 114.22170603053
       },
       {
-        "seq": 21,
+        "seq": 23,
         "stop_id": "001297",
         "name": {
           "en": "Hoi An Street, Shau Kei Wan Road",
@@ -88941,7 +89007,7 @@
         "long": 114.22363882053
       },
       {
-        "seq": 22,
+        "seq": 24,
         "stop_id": "001298",
         "name": {
           "en": "Aldrich Bay Road, Shau Kei Wan Road",
@@ -88952,7 +89018,7 @@
         "long": 114.22504094053
       },
       {
-        "seq": 23,
+        "seq": 25,
         "stop_id": "002694",
         "name": {
           "en": "Oi Yin Street, Aldrich Bay Road",
@@ -88963,7 +89029,7 @@
         "long": 114.22720635053
       },
       {
-        "seq": 24,
+        "seq": 26,
         "stop_id": "003305",
         "name": {
           "en": "Hong Kong East Tree Team, Tung Hei Road",
@@ -88974,7 +89040,7 @@
         "long": 114.23014149053
       },
       {
-        "seq": 25,
+        "seq": 27,
         "stop_id": "001377",
         "name": {
           "en": "Hong Kong Museum of the War of Resistance and Coastal Defence, Tung Hei Road",
@@ -88985,7 +89051,7 @@
         "long": 114.23350634053
       },
       {
-        "seq": 26,
+        "seq": 28,
         "stop_id": "001343",
         "name": {
           "en": "Chai Wan Industrial City, Wing Tai Road",
@@ -88996,7 +89062,7 @@
         "long": 114.24236493053
       },
       {
-        "seq": 27,
+        "seq": 29,
         "stop_id": "001305",
         "name": {
           "en": "Kailey Industrial Centre, Sheung On Street",
@@ -89007,7 +89073,7 @@
         "long": 114.24386929053
       },
       {
-        "seq": 28,
+        "seq": 30,
         "stop_id": "001225",
         "name": {
           "en": "Sheung On Street, Chai Wan Road",
@@ -89018,7 +89084,7 @@
         "long": 114.24531836053
       },
       {
-        "seq": 29,
+        "seq": 31,
         "stop_id": "001362",
         "name": {
           "en": "Harmony Garden, Siu Sai Wan Road",
@@ -89029,7 +89095,7 @@
         "long": 114.24820799053
       },
       {
-        "seq": 30,
+        "seq": 32,
         "stop_id": "001369",
         "name": {
           "en": "Cheerful Garden, Siu Sai Wan Road",
@@ -89040,7 +89106,7 @@
         "long": 114.25029280053
       },
       {
-        "seq": 31,
+        "seq": 33,
         "stop_id": "001370",
         "name": {
           "en": "Fullview Garden, Siu Sai Wan Road",
@@ -89051,7 +89117,7 @@
         "long": 114.25180554053
       },
       {
-        "seq": 32,
+        "seq": 34,
         "stop_id": "002790",
         "name": {
           "en": "Siu Sai Wan Sports Ground, Siu Sai Wan Road",
@@ -89062,7 +89128,7 @@
         "long": 114.24862504053
       },
       {
-        "seq": 33,
+        "seq": 35,
         "stop_id": "002591",
         "name": {
           "en": "Chai Wan (East)",
@@ -102176,28 +102242,6 @@
       },
       {
         "seq": 35,
-        "stop_id": "001215",
-        "name": {
-          "en": "Hong Kong Central Library, Causeway Road",
-          "tc": "香港中央圖書館, 高士威道",
-          "sc": "香港中央图书馆, 高士威道"
-        },
-        "lat": 22.280082042091,
-        "long": 114.18887826053
-      },
-      {
-        "seq": 36,
-        "stop_id": "002535",
-        "name": {
-          "en": "St. Paul's Hospital, Tung Lo Wan Road",
-          "tc": "聖保祿醫院, 銅鑼灣道",
-          "sc": "圣保禄医院, 铜锣湾道"
-        },
-        "lat": 22.278919992091,
-        "long": 114.18806171053
-      },
-      {
-        "seq": 37,
         "stop_id": "001333",
         "name": {
           "en": "Queen's College, Tung Lo Wan Road",
@@ -102208,7 +102252,7 @@
         "long": 114.19206074053
       },
       {
-        "seq": 38,
+        "seq": 36,
         "stop_id": "001334",
         "name": {
           "en": "Chinese Recreation Club, Tung Lo Wan Road",
@@ -102219,7 +102263,7 @@
         "long": 114.19176929053
       },
       {
-        "seq": 39,
+        "seq": 37,
         "stop_id": "002512",
         "name": {
           "en": "Fontana Gardens, Tai Hang Road",
@@ -102230,7 +102274,7 @@
         "long": 114.19034583053
       },
       {
-        "seq": 40,
+        "seq": 38,
         "stop_id": "002513",
         "name": {
           "en": "Illumination Terrace, Tai Hang Road",
@@ -102241,7 +102285,7 @@
         "long": 114.19359621053
       },
       {
-        "seq": 41,
+        "seq": 39,
         "stop_id": "001289",
         "name": {
           "en": "Tak Chuen Lau Lai Tak Tsuen, Lai Tak Tsuen Road",
@@ -102252,7 +102296,7 @@
         "long": 114.19353863053
       },
       {
-        "seq": 42,
+        "seq": 40,
         "stop_id": "002974",
         "name": {
           "en": "Lai Tak Tsuen",
@@ -141818,28 +141862,6 @@
       },
       {
         "seq": 5,
-        "stop_id": "001285",
-        "name": {
-          "en": "Tsing Fung Street flyover, King's Road",
-          "tc": "清風街天橋, 英皇道",
-          "sc": "清风街天桥, 英皇道"
-        },
-        "lat": 22.286174722091,
-        "long": 114.19303544053
-      },
-      {
-        "seq": 6,
-        "stop_id": "002568",
-        "name": {
-          "en": "Paterson Street, Gloucester Road",
-          "tc": "百德新街, 告士打道",
-          "sc": "百德新街, 告士打道"
-        },
-        "lat": 22.282502402091,
-        "long": 114.18503389053
-      },
-      {
-        "seq": 7,
         "stop_id": "001286",
         "name": {
           "en": "Tsing Fung Street, King's Road",
@@ -141850,7 +141872,7 @@
         "long": 114.19291666053
       },
       {
-        "seq": 8,
+        "seq": 6,
         "stop_id": "001333",
         "name": {
           "en": "Queen's College, Tung Lo Wan Road",
@@ -141861,7 +141883,7 @@
         "long": 114.19206074053
       },
       {
-        "seq": 9,
+        "seq": 7,
         "stop_id": "001334",
         "name": {
           "en": "Chinese Recreation Club, Tung Lo Wan Road",
@@ -141872,7 +141894,7 @@
         "long": 114.19176929053
       },
       {
-        "seq": 10,
+        "seq": 8,
         "stop_id": "002454",
         "name": {
           "en": "Kingston Street, Gloucester Road",
@@ -141883,7 +141905,7 @@
         "long": 114.18610589053
       },
       {
-        "seq": 11,
+        "seq": 9,
         "stop_id": "002414",
         "name": {
           "en": "Cannon Street, Gloucester Road",
@@ -141894,7 +141916,7 @@
         "long": 114.18280892053
       },
       {
-        "seq": 12,
+        "seq": 10,
         "stop_id": "002415",
         "name": {
           "en": "Elizabeth House, Gloucester Road",
@@ -141905,7 +141927,7 @@
         "long": 114.18141062053
       },
       {
-        "seq": 13,
+        "seq": 11,
         "stop_id": "002416",
         "name": {
           "en": "Stewart Road, Gloucester Road",
@@ -141916,7 +141938,7 @@
         "long": 114.17698751053
       },
       {
-        "seq": 14,
+        "seq": 12,
         "stop_id": "002418",
         "name": {
           "en": "O'Brien Road, Gloucester Road",
@@ -141927,7 +141949,7 @@
         "long": 114.17345730053
       },
       {
-        "seq": 15,
+        "seq": 13,
         "stop_id": "002420",
         "name": {
           "en": "Fenwick Street, Gloucester Road",
@@ -141938,7 +141960,7 @@
         "long": 114.17085514053
       },
       {
-        "seq": 16,
+        "seq": 14,
         "stop_id": "001033",
         "name": {
           "en": "Statue Square, Connaught Road Central",
@@ -141949,7 +141971,7 @@
         "long": 114.16003822053
       },
       {
-        "seq": 17,
+        "seq": 15,
         "stop_id": "001034",
         "name": {
           "en": "Pottinger Street, Connaught Road Central",
@@ -141960,7 +141982,7 @@
         "long": 114.15730419053
       },
       {
-        "seq": 18,
+        "seq": 16,
         "stop_id": "001036",
         "name": {
           "en": "Jubilee Street, Connaught Road Central",
@@ -141971,7 +141993,7 @@
         "long": 114.15604393053
       },
       {
-        "seq": 19,
+        "seq": 17,
         "stop_id": "001037",
         "name": {
           "en": "Rumsey Street, Connaught Road Central",
@@ -141982,7 +142004,7 @@
         "long": 114.15404315053
       },
       {
-        "seq": 20,
+        "seq": 18,
         "stop_id": "001193",
         "name": {
           "en": "Queen Street, Connaught Road West",
@@ -141993,7 +142015,7 @@
         "long": 114.14734488053
       },
       {
-        "seq": 21,
+        "seq": 19,
         "stop_id": "001628",
         "name": {
           "en": "Western Harbour Crossing Bus-Bus Interchange",
@@ -142004,7 +142026,7 @@
         "long": 114.15920401053
       },
       {
-        "seq": 22,
+        "seq": 20,
         "stop_id": "001853",
         "name": {
           "en": "Lantau Link Bus-Bus Interchange",
@@ -142015,7 +142037,7 @@
         "long": 114.04196854053
       },
       {
-        "seq": 23,
+        "seq": 21,
         "stop_id": "002714",
         "name": {
           "en": "Airport (Terminal 1)",
@@ -142026,7 +142048,7 @@
         "long": 113.93594877053
       },
       {
-        "seq": 24,
+        "seq": 22,
         "stop_id": "002715",
         "name": {
           "en": "Airport (Terminal 2)",
@@ -142037,7 +142059,7 @@
         "long": 113.93779318053
       },
       {
-        "seq": 25,
+        "seq": 23,
         "stop_id": "003550",
         "name": {
           "en": "HZMB Passenger Clearance Building",
@@ -142048,7 +142070,7 @@
         "long": 113.95084021053
       },
       {
-        "seq": 26,
+        "seq": 24,
         "stop_id": "001837",
         "name": {
           "en": "Airport (Ground Transportation Centre)",
@@ -154422,9 +154444,9 @@
         "seq": 2,
         "stop_id": "003453",
         "name": {
-          "en": "Ying Tung Estate, Ying Tung Road",
-          "tc": "迎東邨, 迎東路",
-          "sc": "迎东邨, 迎东路"
+          "en": "Cheung Yat House Cheung Tung Estate, Ying Tung Road",
+          "tc": "翔東邨翔日樓, 迎東路",
+          "sc": "翔东邨翔日楼, 迎东路"
         },
         "lat": 22.297211072091,
         "long": 113.95333719053
@@ -165063,9 +165085,9 @@
         "seq": 2,
         "stop_id": "003453",
         "name": {
-          "en": "Ying Tung Estate, Ying Tung Road",
-          "tc": "迎東邨, 迎東路",
-          "sc": "迎东邨, 迎东路"
+          "en": "Cheung Yat House Cheung Tung Estate, Ying Tung Road",
+          "tc": "翔東邨翔日樓, 迎東路",
+          "sc": "翔东邨翔日楼, 迎东路"
         },
         "lat": 22.297211072091,
         "long": 113.95333719053
@@ -165976,8 +165998,8 @@
         "stop_id": "003887",
         "name": {
           "en": "East Tsim Sha Tsui, Mody Road",
-          "tc": "尖沙咀 (東), 麼地道",
-          "sc": "尖沙咀 (东), 么地道"
+          "tc": "尖沙咀東, 麼地道",
+          "sc": "尖沙咀东, 么地道"
         },
         "lat": 22.298897212091,
         "long": 114.17870618053
@@ -166171,8 +166193,8 @@
         "stop_id": "003887",
         "name": {
           "en": "East Tsim Sha Tsui, Mody Road",
-          "tc": "尖沙咀 (東), 麼地道",
-          "sc": "尖沙咀 (东), 么地道"
+          "tc": "尖沙咀東, 麼地道",
+          "sc": "尖沙咀东, 么地道"
         },
         "lat": 22.298897212091,
         "long": 114.17870618053
@@ -194690,9 +194712,9 @@
         "seq": 17,
         "stop_id": "003453",
         "name": {
-          "en": "Ying Tung Estate, Ying Tung Road",
-          "tc": "迎東邨, 迎東路",
-          "sc": "迎东邨, 迎东路"
+          "en": "Cheung Yat House Cheung Tung Estate, Ying Tung Road",
+          "tc": "翔東邨翔日樓, 迎東路",
+          "sc": "翔东邨翔日楼, 迎东路"
         },
         "lat": 22.297211072091,
         "long": 113.95333719053
@@ -195803,6 +195825,36 @@
         },
         "lat": 22.266350942091,
         "long": 114.25095264053
+      }
+    ]
+  },
+  "CTB-SP12-O": {
+    "record_id": "CTB-SP12-O",
+    "company": "CTB",
+    "route": "SP12",
+    "bound": "O",
+    "stops": [
+      {
+        "seq": 1,
+        "stop_id": "003874",
+        "name": {
+          "en": "Kai Tak Sports Park, Sung Wong Toi Road",
+          "tc": "啟德體育園, 宋皇臺道",
+          "sc": "启德体育园, 宋皇台道"
+        },
+        "lat": 22.323022812091,
+        "long": 114.19300334053
+      },
+      {
+        "seq": 2,
+        "stop_id": "003939",
+        "name": {
+          "en": "Huanggang Port",
+          "tc": "皇崗口岸",
+          "sc": "皇岗口岸"
+        },
+        "lat": 22.523333752091,
+        "long": 114.06741380053
       }
     ]
   },

@@ -13247,10 +13247,10 @@
         },
         {
           "stop_seq": 3,
-          "stop_id": 20003475,
-          "name_tc": "皇后大道西, 石塘咀市政大廈外",
-          "name_sc": "皇后大道西, 石塘咀市政大厦",
-          "name_en": "Queen's Road West, Shek Tong Tsui Complex"
+          "stop_id": 20023791,
+          "name_tc": "皇后大道西, 近石塘咀市政大廈",
+          "name_sc": "皇后大道西, 近石塘咀市政大厦",
+          "name_en": "Queen's Road West, near Shek Tong Tsui Complex"
         },
         {
           "stop_seq": 4,
@@ -13423,10 +13423,10 @@
         },
         {
           "stop_seq": 3,
-          "stop_id": 20003475,
-          "name_tc": "皇后大道西, 石塘咀市政大廈外",
-          "name_sc": "皇后大道西, 石塘咀市政大厦",
-          "name_en": "Queen's Road West, Shek Tong Tsui Complex"
+          "stop_id": 20023791,
+          "name_tc": "皇后大道西, 近石塘咀市政大廈",
+          "name_sc": "皇后大道西, 近石塘咀市政大厦",
+          "name_en": "Queen's Road West, near Shek Tong Tsui Complex"
         },
         {
           "stop_seq": 4,
@@ -13712,10 +13712,10 @@
         },
         {
           "stop_seq": 3,
-          "stop_id": 20003475,
-          "name_tc": "皇后大道西, 石塘咀市政大廈外",
-          "name_sc": "皇后大道西, 石塘咀市政大厦",
-          "name_en": "Queen's Road West, outside Shek Tong Tsui Municipal Services Building"
+          "stop_id": 20023791,
+          "name_tc": "皇后大道西, 近石塘咀市政大廈",
+          "name_sc": "皇后大道西, 近石塘咀市政大厦",
+          "name_en": "Queen's Road West, near Shek Tong Tsui Complex"
         },
         {
           "stop_seq": 4,
@@ -17968,91 +17968,6 @@
           "name_tc": "愛賢街, 愛蝶灣第8座外",
           "name_sc": "爱贤街, 爱东商场外",
           "name_en": "Oi Yin Street, outside Block 8, Aldrich Garden"
-        }
-      ]
-    },
-    {
-      "route_code": "68",
-      "variant_index": 1,
-      "route_id": 2005295,
-      "route_seq": 1,
-      "stops": [
-        {
-          "stop_seq": 1,
-          "stop_id": 20012985,
-          "name_tc": "愛蝶灣第10座外",
-          "name_sc": "爱蝶湾第10座外",
-          "name_en": "Aldrich Garden, outside Block 10"
-        },
-        {
-          "stop_seq": 2,
-          "stop_id": 20012986,
-          "name_tc": "愛勤街, 東曉閣外",
-          "name_sc": "爱勤街, 东晓阁外",
-          "name_en": "Oi Kan Road, outside Tung Hiu House"
-        },
-        {
-          "stop_seq": 3,
-          "stop_id": 20012987,
-          "name_tc": "太安街, 逸濤灣",
-          "name_sc": "太安街, 逸涛湾",
-          "name_en": "Tai On Street, outside Les Saisons"
-        },
-        {
-          "stop_seq": 4,
-          "stop_id": 20012988,
-          "name_tc": "康山道, 康怡廣場外",
-          "name_sc": "康山道, 康山花园10座对面",
-          "name_en": "Kornhill Road, outside Kornhill Plaza"
-        },
-        {
-          "stop_seq": 5,
-          "stop_id": 20012989,
-          "name_tc": "英皇道, 寶峰園外",
-          "name_sc": "英皇道1094号",
-          "name_en": "King's Road, outside Bo Fung Gardens"
-        },
-        {
-          "stop_seq": 6,
-          "stop_id": 20012990,
-          "name_tc": "海灣街, 濱海大廈外",
-          "name_sc": "海湾街, 滨海大厦外",
-          "name_en": "Riviera Mansion"
-        },
-        {
-          "stop_seq": 7,
-          "stop_id": 20000215,
-          "name_tc": "英皇道, 新威園外",
-          "name_sc": "英皇道, 新威园外",
-          "name_en": "King's Road, outside Sunway Garden"
-        },
-        {
-          "stop_seq": 8,
-          "stop_id": 20002787,
-          "name_tc": "英皇道, 惠安苑",
-          "name_sc": "英皇道, 惠安苑",
-          "name_en": "King's Road, Westlands Gardens"
-        },
-        {
-          "stop_seq": 9,
-          "stop_id": 20012991,
-          "name_tc": "英皇道, 太古城中心一期",
-          "name_sc": "英皇道, 太古城中心一期",
-          "name_en": "King's Road, outside Cityplaza I"
-        },
-        {
-          "stop_seq": 10,
-          "stop_id": 20012992,
-          "name_tc": "太康街, 太康樓",
-          "name_sc": "太康街, 太康楼",
-          "name_en": "Tai Hong Street, outside Tai Hong House"
-        },
-        {
-          "stop_seq": 11,
-          "stop_id": 20012985,
-          "name_tc": "愛蝶灣第10座外",
-          "name_sc": "爱蝶湾第10座外",
-          "name_en": "Aldrich Garden, outside Block 10"
         }
       ]
     },

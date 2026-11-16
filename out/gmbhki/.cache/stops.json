@@ -32,7 +32,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-08-02T00:00:53.262+08:00"
+      "data_timestamp": "2026-11-15T00:02:04.977+08:00"
     },
     "20000009": {
       "coordinates": {
@@ -49,7 +49,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-08-02T00:00:53.262+08:00"
+      "data_timestamp": "2026-11-15T00:02:04.977+08:00"
     },
     "20000010": {
       "coordinates": {
@@ -134,7 +134,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-08-02T00:00:38.066+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20000016": {
       "coordinates": {
@@ -151,7 +151,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-07-12T00:04:37.612+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20000017": {
       "coordinates": {
@@ -202,7 +202,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-08-02T00:00:38.066+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20000020": {
       "coordinates": {
@@ -253,7 +253,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-27T00:00:48.042+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20000025": {
       "coordinates": {
@@ -338,7 +338,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-10-04T00:01:19.607+08:00"
+      "data_timestamp": "2026-11-15T00:02:11.444+08:00"
     },
     "20000058": {
       "coordinates": {
@@ -389,7 +389,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-27T00:01:02.898+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20000075": {
       "coordinates": {
@@ -1103,7 +1103,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-13T00:00:44.874+08:00"
+      "data_timestamp": "2026-11-15T00:00:24.511+08:00"
     },
     "20000137": {
       "coordinates": {
@@ -1307,7 +1307,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-16T17:51:17.323+08:00"
+      "data_timestamp": "2026-11-15T00:02:11.444+08:00"
     },
     "20000161": {
       "coordinates": {
@@ -1375,7 +1375,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-10-04T00:00:10.348+08:00"
+      "data_timestamp": "2026-11-15T00:01:51.048+08:00"
     },
     "20000173": {
       "coordinates": {
@@ -1392,7 +1392,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-08-02T00:00:38.066+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20000174": {
       "coordinates": {
@@ -1494,7 +1494,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T14:49:10.371+08:00"
+      "data_timestamp": "2026-11-01T00:05:40.567+08:00"
     },
     "20000218": {
       "coordinates": {
@@ -1511,7 +1511,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-10-04T00:00:10.348+08:00"
+      "data_timestamp": "2026-11-15T00:01:51.048+08:00"
     },
     "20000219": {
       "coordinates": {
@@ -1528,7 +1528,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-10-04T00:01:55.899+08:00"
+      "data_timestamp": "2026-11-15T00:00:24.511+08:00"
     },
     "20000234": {
       "coordinates": {
@@ -1596,7 +1596,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-10-04T00:01:09.383+08:00"
+      "data_timestamp": "2026-11-15T00:02:11.444+08:00"
     },
     "20000242": {
       "coordinates": {
@@ -2123,7 +2123,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20000289": {
       "coordinates": {
@@ -2140,7 +2140,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-27T00:01:02.898+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20000294": {
       "coordinates": {
@@ -2157,7 +2157,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20000295": {
       "coordinates": {
@@ -2174,7 +2174,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20000296": {
       "coordinates": {
@@ -2803,7 +2803,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:21:25.737+08:00"
+      "data_timestamp": "2026-11-15T00:02:11.444+08:00"
     },
     "20000347": {
       "coordinates": {
@@ -2956,7 +2956,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-10-04T00:00:10.348+08:00"
+      "data_timestamp": "2026-11-15T00:01:51.048+08:00"
     },
     "20000362": {
       "coordinates": {
@@ -3160,7 +3160,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-07-26T00:01:29.125+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20000662": {
       "coordinates": {
@@ -3517,7 +3517,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20002734": {
       "coordinates": {
@@ -3551,7 +3551,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-10-04T00:01:19.607+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20002787": {
       "coordinates": {
@@ -3568,7 +3568,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T14:49:10.371+08:00"
+      "data_timestamp": "2026-11-01T00:05:40.567+08:00"
     },
     "20002790": {
       "coordinates": {
@@ -3602,7 +3602,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20002839": {
       "coordinates": {
@@ -3619,7 +3619,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20003065": {
       "coordinates": {
@@ -3670,7 +3670,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20003084": {
       "coordinates": {
@@ -4163,7 +4163,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-07-26T00:00:54.415+08:00"
+      "data_timestamp": "2026-11-01T00:00:10.083+08:00"
     },
     "20003432": {
       "coordinates": {
@@ -4554,7 +4554,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20003470": {
       "coordinates": {
@@ -4877,7 +4877,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20003509": {
       "coordinates": {
@@ -4894,7 +4894,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20003510": {
       "coordinates": {
@@ -4911,7 +4911,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20003511": {
       "coordinates": {
@@ -4928,7 +4928,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20003513": {
       "coordinates": {
@@ -4945,7 +4945,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20003514": {
       "coordinates": {
@@ -4962,7 +4962,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20003515": {
       "coordinates": {
@@ -4979,7 +4979,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20003517": {
       "coordinates": {
@@ -6543,7 +6543,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-04-13T00:00:11.340+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20006936": {
       "coordinates": {
@@ -6696,7 +6696,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20006979": {
       "coordinates": {
@@ -6713,7 +6713,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-27T00:00:48.042+08:00"
+      "data_timestamp": "2026-11-15T00:02:04.977+08:00"
     },
     "20007022": {
       "coordinates": {
@@ -6730,7 +6730,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20007038": {
       "coordinates": {
@@ -6747,7 +6747,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-10-04T00:01:54.444+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20007057": {
       "coordinates": {
@@ -6764,7 +6764,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20007066": {
       "coordinates": {
@@ -6883,7 +6883,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-30T11:41:10.566+08:00"
+      "data_timestamp": "2026-11-15T00:02:19.040+08:00"
     },
     "20007313": {
       "coordinates": {
@@ -7716,7 +7716,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:01:43.769+08:00"
     },
     "20009865": {
       "coordinates": {
@@ -8277,7 +8277,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-30T11:41:10.566+08:00"
+      "data_timestamp": "2026-11-15T00:02:33.441+08:00"
     },
     "20011237": {
       "coordinates": {
@@ -8294,7 +8294,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:01:43.769+08:00"
     },
     "20011238": {
       "coordinates": {
@@ -8311,7 +8311,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20011239": {
       "coordinates": {
@@ -8328,7 +8328,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20011240": {
       "coordinates": {
@@ -8345,7 +8345,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20011241": {
       "coordinates": {
@@ -8362,7 +8362,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20011242": {
       "coordinates": {
@@ -8379,7 +8379,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20011243": {
       "coordinates": {
@@ -8396,7 +8396,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20011244": {
       "coordinates": {
@@ -8413,7 +8413,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20011246": {
       "coordinates": {
@@ -8430,7 +8430,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:13.666+08:00"
+      "data_timestamp": "2026-11-15T00:02:11.444+08:00"
     },
     "20011247": {
       "coordinates": {
@@ -8447,7 +8447,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011259": {
       "coordinates": {
@@ -8464,7 +8464,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011260": {
       "coordinates": {
@@ -8481,7 +8481,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011261": {
       "coordinates": {
@@ -8498,7 +8498,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011262": {
       "coordinates": {
@@ -8515,7 +8515,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011263": {
       "coordinates": {
@@ -8532,7 +8532,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011264": {
       "coordinates": {
@@ -8549,7 +8549,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011265": {
       "coordinates": {
@@ -8566,7 +8566,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011266": {
       "coordinates": {
@@ -8583,7 +8583,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011267": {
       "coordinates": {
@@ -8600,7 +8600,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-03-28T16:11:14.624+08:00"
+      "data_timestamp": "2026-11-15T00:01:36.913+08:00"
     },
     "20011278": {
       "coordinates": {
@@ -8651,7 +8651,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-17T10:01:14.721+08:00"
+      "data_timestamp": "2026-11-15T00:02:04.977+08:00"
     },
     "20011282": {
       "coordinates": {
@@ -8668,7 +8668,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:06:25.062+08:00"
+      "data_timestamp": "2026-11-15T00:01:43.342+08:00"
     },
     "20011289": {
       "coordinates": {
@@ -8736,7 +8736,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:02:08.545+08:00"
+      "data_timestamp": "2026-11-15T00:02:33.441+08:00"
     },
     "20011343": {
       "coordinates": {
@@ -8753,7 +8753,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20011344": {
       "coordinates": {
@@ -8770,7 +8770,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20011347": {
       "coordinates": {
@@ -8787,7 +8787,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20011348": {
       "coordinates": {
@@ -8804,7 +8804,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20011349": {
       "coordinates": {
@@ -8821,7 +8821,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:13.666+08:00"
+      "data_timestamp": "2026-11-15T00:00:51.560+08:00"
     },
     "20011350": {
       "coordinates": {
@@ -8838,7 +8838,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:44.446+08:00"
+      "data_timestamp": "2026-11-15T00:02:11.444+08:00"
     },
     "20011351": {
       "coordinates": {
@@ -8855,7 +8855,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:06:34.888+08:00"
+      "data_timestamp": "2026-11-15T00:02:04.977+08:00"
     },
     "20011352": {
       "coordinates": {
@@ -8872,7 +8872,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:06:34.888+08:00"
+      "data_timestamp": "2026-11-15T00:02:04.977+08:00"
     },
     "20011368": {
       "coordinates": {
@@ -9025,7 +9025,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-29T14:21:17.905+08:00"
+      "data_timestamp": "2026-11-15T00:02:11.444+08:00"
     },
     "20011479": {
       "coordinates": {
@@ -9042,7 +9042,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:44.446+08:00"
+      "data_timestamp": "2026-11-15T00:01:44.924+08:00"
     },
     "20011481": {
       "coordinates": {
@@ -9059,7 +9059,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:44.446+08:00"
+      "data_timestamp": "2026-11-15T00:01:44.924+08:00"
     },
     "20011485": {
       "coordinates": {
@@ -9263,7 +9263,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-29T14:11:57.214+08:00"
+      "data_timestamp": "2026-11-15T00:00:24.511+08:00"
     },
     "20011569": {
       "coordinates": {
@@ -9280,7 +9280,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-17T10:01:14.721+08:00"
+      "data_timestamp": "2026-11-15T00:00:24.511+08:00"
     },
     "20011571": {
       "coordinates": {
@@ -9297,7 +9297,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-29T14:11:57.214+08:00"
+      "data_timestamp": "2026-11-15T00:00:24.511+08:00"
     },
     "20011572": {
       "coordinates": {
@@ -9314,7 +9314,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-29T14:11:57.214+08:00"
+      "data_timestamp": "2026-11-15T00:00:24.511+08:00"
     },
     "20011573": {
       "coordinates": {
@@ -9331,7 +9331,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20011574": {
       "coordinates": {
@@ -9348,7 +9348,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-29T14:11:57.214+08:00"
+      "data_timestamp": "2026-11-15T00:01:20.382+08:00"
     },
     "20011588": {
       "coordinates": {
@@ -9365,7 +9365,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:01:20.382+08:00"
     },
     "20011589": {
       "coordinates": {
@@ -9382,7 +9382,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2024-11-29T16:12:11.684+08:00"
+      "data_timestamp": "2026-11-15T00:01:20.382+08:00"
     },
     "20011591": {
       "coordinates": {
@@ -9399,7 +9399,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:01:20.382+08:00"
     },
     "20011592": {
       "coordinates": {
@@ -9416,7 +9416,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:01:20.382+08:00"
     },
     "20011599": {
       "coordinates": {
@@ -9433,7 +9433,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-06T00:00:26.637+08:00"
+      "data_timestamp": "2026-11-15T00:01:20.382+08:00"
     },
     "20011613": {
       "coordinates": {
@@ -9450,7 +9450,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:26:29.350+08:00"
+      "data_timestamp": "2026-11-15T00:02:33.441+08:00"
     },
     "20011624": {
       "coordinates": {
@@ -9484,7 +9484,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:01:20.382+08:00"
     },
     "20011626": {
       "coordinates": {
@@ -9518,7 +9518,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20011631": {
       "coordinates": {
@@ -9535,7 +9535,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20011642": {
       "coordinates": {
@@ -9552,7 +9552,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:06:10.944+08:00"
+      "data_timestamp": "2026-11-15T00:00:45.269+08:00"
     },
     "20011646": {
       "coordinates": {
@@ -9569,7 +9569,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-06T00:00:14.093+08:00"
+      "data_timestamp": "2026-11-15T00:00:45.269+08:00"
     },
     "20011688": {
       "coordinates": {
@@ -10249,7 +10249,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-06T00:00:14.093+08:00"
+      "data_timestamp": "2026-11-15T00:00:45.269+08:00"
     },
     "20012944": {
       "coordinates": {
@@ -10708,7 +10708,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012972": {
       "coordinates": {
@@ -10725,7 +10725,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012973": {
       "coordinates": {
@@ -10742,7 +10742,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012974": {
       "coordinates": {
@@ -10759,7 +10759,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012975": {
       "coordinates": {
@@ -10776,7 +10776,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012976": {
       "coordinates": {
@@ -10793,7 +10793,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012977": {
       "coordinates": {
@@ -10810,7 +10810,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012978": {
       "coordinates": {
@@ -10827,7 +10827,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012980": {
       "coordinates": {
@@ -10844,7 +10844,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:10.083+08:00"
     },
     "20012981": {
       "coordinates": {
@@ -10861,7 +10861,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:10.083+08:00"
     },
     "20012982": {
       "coordinates": {
@@ -10878,7 +10878,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:10.083+08:00"
     },
     "20012983": {
       "coordinates": {
@@ -10895,7 +10895,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012984": {
       "coordinates": {
@@ -10912,7 +10912,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:17.314+08:00"
     },
     "20012985": {
       "coordinates": {
@@ -10929,58 +10929,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
-    },
-    "20012986": {
-      "coordinates": {
-        "wgs84": {
-          "latitude": 22.28271618705509,
-          "longitude": 114.22721250581162
-        },
-        "hk80": {
-          "latitude": 815982.6935889514,
-          "longitude": 841455.6645327784
-        }
-      },
-      "enabled": true,
-      "remarks_tc": null,
-      "remarks_sc": null,
-      "remarks_en": null,
-      "data_timestamp": "2026-04-10T14:49:10.371+08:00"
-    },
-    "20012987": {
-      "coordinates": {
-        "wgs84": {
-          "latitude": 22.283941683066953,
-          "longitude": 114.22433466392181
-        },
-        "hk80": {
-          "latitude": 816118.301855446,
-          "longitude": 841159.0420860309
-        }
-      },
-      "enabled": true,
-      "remarks_tc": null,
-      "remarks_sc": null,
-      "remarks_en": null,
-      "data_timestamp": "2026-04-10T14:49:10.371+08:00"
-    },
-    "20012988": {
-      "coordinates": {
-        "wgs84": {
-          "latitude": 22.28459806339628,
-          "longitude": 114.21760211530297
-        },
-        "hk80": {
-          "latitude": 816190.7829188504,
-          "longitude": 840465.1969030836
-        }
-      },
-      "enabled": true,
-      "remarks_tc": null,
-      "remarks_sc": null,
-      "remarks_en": null,
-      "data_timestamp": "2026-04-10T14:49:10.371+08:00"
+      "data_timestamp": "2026-11-01T00:05:40.567+08:00"
     },
     "20012989": {
       "coordinates": {
@@ -10997,58 +10946,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-07-12T00:03:59.701+08:00"
-    },
-    "20012990": {
-      "coordinates": {
-        "wgs84": {
-          "latitude": 22.288136247821768,
-          "longitude": 114.21156290953121
-        },
-        "hk80": {
-          "latitude": 816582.4255750346,
-          "longitude": 839842.7369243432
-        }
-      },
-      "enabled": true,
-      "remarks_tc": null,
-      "remarks_sc": null,
-      "remarks_en": null,
-      "data_timestamp": "2026-04-10T14:49:10.371+08:00"
-    },
-    "20012991": {
-      "coordinates": {
-        "wgs84": {
-          "latitude": 22.28538603730119,
-          "longitude": 114.21740431703178
-        },
-        "hk80": {
-          "latitude": 816278.0331157253,
-          "longitude": 840444.7893822258
-        }
-      },
-      "enabled": true,
-      "remarks_tc": null,
-      "remarks_sc": null,
-      "remarks_en": null,
-      "data_timestamp": "2026-04-10T14:49:10.371+08:00"
-    },
-    "20012992": {
-      "coordinates": {
-        "wgs84": {
-          "latitude": 22.28343095439374,
-          "longitude": 114.22188999050265
-        },
-        "hk80": {
-          "latitude": 816061.6695366964,
-          "longitude": 840907.1221234797
-        }
-      },
-      "enabled": true,
-      "remarks_tc": null,
-      "remarks_sc": null,
-      "remarks_en": null,
-      "data_timestamp": "2026-04-10T14:49:10.371+08:00"
+      "data_timestamp": "2026-11-01T00:05:40.567+08:00"
     },
     "20013165": {
       "coordinates": {
@@ -11167,7 +11065,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-27T00:01:02.898+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20013699": {
       "coordinates": {
@@ -14261,7 +14159,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:13.666+08:00"
+      "data_timestamp": "2026-11-15T00:00:51.560+08:00"
     },
     "20018742": {
       "coordinates": {
@@ -14380,7 +14278,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-27T00:00:46.921+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20020095": {
       "coordinates": {
@@ -14618,7 +14516,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-29T14:11:57.214+08:00"
+      "data_timestamp": "2026-11-15T00:00:24.511+08:00"
     },
     "20020392": {
       "coordinates": {
@@ -14669,7 +14567,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-14T15:01:19.590+08:00"
+      "data_timestamp": "2026-11-01T00:00:10.083+08:00"
     },
     "20020557": {
       "coordinates": {
@@ -14720,7 +14618,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:13.666+08:00"
+      "data_timestamp": "2026-11-15T00:00:51.560+08:00"
     },
     "20020658": {
       "coordinates": {
@@ -14737,7 +14635,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:06:10.944+08:00"
+      "data_timestamp": "2026-11-15T00:00:45.269+08:00"
     },
     "20020689": {
       "coordinates": {
@@ -14754,7 +14652,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20020690": {
       "coordinates": {
@@ -14771,7 +14669,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20020920": {
       "coordinates": {
@@ -14856,7 +14754,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:01:41.429+08:00"
+      "data_timestamp": "2026-11-15T00:00:58.452+08:00"
     },
     "20020957": {
       "coordinates": {
@@ -14873,7 +14771,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:06:25.062+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20020958": {
       "coordinates": {
@@ -14890,7 +14788,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:06:25.062+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20020959": {
       "coordinates": {
@@ -14907,7 +14805,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-04-10T16:06:25.062+08:00"
+      "data_timestamp": "2026-11-15T00:00:44.769+08:00"
     },
     "20021184": {
       "coordinates": {
@@ -14975,7 +14873,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-09-27T00:01:02.898+08:00"
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     },
     "20021452": {
       "coordinates": {
@@ -15026,7 +14924,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-12-24T09:56:39.913+08:00"
+      "data_timestamp": "2026-11-15T00:00:37.908+08:00"
     },
     "20021679": {
       "coordinates": {
@@ -15043,7 +14941,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2025-06-29T00:00:13.273+08:00"
+      "data_timestamp": "2026-11-15T00:02:33.441+08:00"
     },
     "20021756": {
       "coordinates": {
@@ -15060,7 +14958,7 @@
       "remarks_tc": null,
       "remarks_sc": null,
       "remarks_en": null,
-      "data_timestamp": "2026-06-22T18:21:20.719+08:00"
+      "data_timestamp": "2026-10-27T10:21:22.180+08:00"
     },
     "20021761": {
       "coordinates": {
@@ -15146,6 +15044,23 @@
       "remarks_sc": null,
       "remarks_en": null,
       "data_timestamp": "2026-08-11T10:24:10.426+08:00"
+    },
+    "20023791": {
+      "coordinates": {
+        "wgs84": {
+          "latitude": 22.285884933292763,
+          "longitude": 114.13572907447816
+        },
+        "hk80": {
+          "latitude": 816333.2925240422,
+          "longitude": 832027.8162735332
+        }
+      },
+      "enabled": true,
+      "remarks_tc": null,
+      "remarks_sc": null,
+      "remarks_en": null,
+      "data_timestamp": "2026-10-27T10:26:12.073+08:00"
     }
   },
   "missing": []

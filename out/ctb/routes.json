@@ -10783,6 +10783,22 @@
       "sc": "小西湾 (蓝湾半岛)"
     }
   },
+  "CTB-SP12-O": {
+    "record_id": "CTB-SP12-O",
+    "company": "CTB",
+    "route": "SP12",
+    "bound": "O",
+    "origin": {
+      "en": "Kai Tak Sports Park",
+      "tc": "啟德體育園",
+      "sc": "启德体育园"
+    },
+    "destination": {
+      "en": "Huanggang Port",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
+    }
+  },
   "CTB-SP2-O": {
     "record_id": "CTB-SP2-O",
     "company": "CTB",

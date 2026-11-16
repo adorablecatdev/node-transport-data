@@ -3185,24 +3185,6 @@
       "sc": "东区尤德夫人那打素医院"
     }
   },
-  "GMBHKI-68-2005295-1": {
-    "record_id": "GMBHKI-68-2005295-1",
-    "company": "GMBHKI",
-    "route_id": "2005295",
-    "route": "68",
-    "route_seq": 1,
-    "region": "HKI",
-    "origin": {
-      "en": "Aldrich Bay",
-      "tc": "愛秩序灣",
-      "sc": "爱秩序湾"
-    },
-    "destination": {
-      "en": "Quarry Bay (Hoi Wan Street)",
-      "tc": "鰂魚涌(海灣街)",
-      "sc": "鲗鱼涌(海湾街)"
-    }
-  },
   "GMBHKI-69-2000410-1": {
     "record_id": "GMBHKI-69-2000410-1",
     "company": "GMBHKI",

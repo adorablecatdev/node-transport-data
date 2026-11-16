@@ -1206,23 +1206,6 @@
       "sc": "尖沙咀码头"
     }
   },
-  "KMB-8A-O-1": {
-    "record_id": "KMB-8A-O-1",
-    "company": "KMB",
-    "route": "8A",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "WHAMPOA GARDEN",
-      "tc": "黃埔花園",
-      "sc": "黄埔花园"
-    },
-    "destination": {
-      "en": "TSIM SHA TSUI (CIRCULAR)",
-      "tc": "尖沙咀(循環線)",
-      "sc": "尖沙咀(循环线)"
-    }
-  },
   "KMB-8P-O-1": {
     "record_id": "KMB-8P-O-1",
     "company": "KMB",
@@ -3144,40 +3127,6 @@
       "sc": "象山(循环线)"
     }
   },
-  "KMB-32P-O-1": {
-    "record_id": "KMB-32P-O-1",
-    "company": "KMB",
-    "route": "32P",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSUEN WAN (CASTLE PEAK ROAD)",
-      "tc": "荃灣(青山公路)",
-      "sc": "荃湾(青山公路)"
-    },
-    "destination": {
-      "en": "YUEN YUEN INSTITUTE",
-      "tc": "圓玄學院",
-      "sc": "圆玄学院"
-    }
-  },
-  "KMB-32P-I-1": {
-    "record_id": "KMB-32P-I-1",
-    "company": "KMB",
-    "route": "32P",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "YUEN YUEN INSTITUTE",
-      "tc": "圓玄學院",
-      "sc": "圆玄学院"
-    },
-    "destination": {
-      "en": "TSUEN WAN (CASTLE PEAK ROAD)",
-      "tc": "荃灣(青山公路)",
-      "sc": "荃湾(青山公路)"
-    }
-  },
   "KMB-33-O-1": {
     "record_id": "KMB-33-O-1",
     "company": "KMB",
@@ -3873,40 +3822,6 @@
       "en": "KWAI SHING (CENTRAL)",
       "tc": "葵盛(中)",
       "sc": "葵盛(中)"
-    }
-  },
-  "KMB-38S-O-1": {
-    "record_id": "KMB-38S-O-1",
-    "company": "KMB",
-    "route": "38S",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "KWAI FONG STATION",
-      "tc": "葵芳站",
-      "sc": "葵芳站"
-    },
-    "destination": {
-      "en": "TSUEN WAN CHINESE CEMETERY",
-      "tc": "荃灣華人永遠墳場",
-      "sc": "荃湾华人永远坟场"
-    }
-  },
-  "KMB-38S-I-1": {
-    "record_id": "KMB-38S-I-1",
-    "company": "KMB",
-    "route": "38S",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "TSUEN WAN CHINESE CEMETERY",
-      "tc": "荃灣華人永遠墳場",
-      "sc": "荃湾华人永远坟场"
-    },
-    "destination": {
-      "en": "KWAI FONG STATION",
-      "tc": "葵芳站",
-      "sc": "葵芳站"
     }
   },
   "KMB-39A-O-1": {
@@ -5354,40 +5269,6 @@
       "sc": "旺角(柏景湾)"
     }
   },
-  "KMB-52S-O-1": {
-    "record_id": "KMB-52S-O-1",
-    "company": "KMB",
-    "route": "52S",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TUEN MUN ROAD BBI",
-      "tc": "屯門公路轉車站",
-      "sc": "屯门公路转车站"
-    },
-    "destination": {
-      "en": "TSANG TSUI",
-      "tc": "曾咀",
-      "sc": "曾咀"
-    }
-  },
-  "KMB-52S-I-1": {
-    "record_id": "KMB-52S-I-1",
-    "company": "KMB",
-    "route": "52S",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "TSANG TSUI",
-      "tc": "曾咀",
-      "sc": "曾咀"
-    },
-    "destination": {
-      "en": "TUEN MUN ROAD BBI",
-      "tc": "屯門公路轉車站",
-      "sc": "屯门公路转车站"
-    }
-  },
   "KMB-52X-O-1": {
     "record_id": "KMB-52X-O-1",
     "company": "KMB",
@@ -5471,40 +5352,6 @@
       "en": "SHEUNG TSUEN (CIRCULAR)",
       "tc": "上村(循環線)",
       "sc": "上村(循环线)"
-    }
-  },
-  "KMB-56S-O-1": {
-    "record_id": "KMB-56S-O-1",
-    "company": "KMB",
-    "route": "56S",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TUEN MUN STATION",
-      "tc": "屯門站",
-      "sc": "屯门站"
-    },
-    "destination": {
-      "en": "TSANG TSUI",
-      "tc": "曾咀",
-      "sc": "曾咀"
-    }
-  },
-  "KMB-56S-I-1": {
-    "record_id": "KMB-56S-I-1",
-    "company": "KMB",
-    "route": "56S",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "TSANG TSUI",
-      "tc": "曾咀",
-      "sc": "曾咀"
-    },
-    "destination": {
-      "en": "TUEN MUN STATION",
-      "tc": "屯門站",
-      "sc": "屯门站"
     }
   },
   "KMB-57M-O-1": {
@@ -5983,40 +5830,6 @@
       "sc": "扫管笏"
     }
   },
-  "KMB-61S-O-1": {
-    "record_id": "KMB-61S-O-1",
-    "company": "KMB",
-    "route": "61S",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TUEN MUN CENTRAL",
-      "tc": "屯門巿中心",
-      "sc": "屯门巿中心"
-    },
-    "destination": {
-      "en": "WO HOP SHEK",
-      "tc": "和合石",
-      "sc": "和合石"
-    }
-  },
-  "KMB-61S-I-1": {
-    "record_id": "KMB-61S-I-1",
-    "company": "KMB",
-    "route": "61S",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "WO HOP SHEK",
-      "tc": "和合石",
-      "sc": "和合石"
-    },
-    "destination": {
-      "en": "TUEN MUN CENTRAL",
-      "tc": "屯門巿中心",
-      "sc": "屯门巿中心"
-    }
-  },
   "KMB-61X-O-1": {
     "record_id": "KMB-61X-O-1",
     "company": "KMB",
@@ -6459,6 +6272,23 @@
       "sc": "葵芳站"
     }
   },
+  "KMB-67M-O-3": {
+    "record_id": "KMB-67M-O-3",
+    "company": "KMB",
+    "route": "67M",
+    "bound": "O",
+    "service_type": "3",
+    "origin": {
+      "en": "TUEN MUN (PO TIN ESTATE)",
+      "tc": "屯門(寶田邨)",
+      "sc": "屯门(宝田邨)"
+    },
+    "destination": {
+      "en": "TUEN MUN GOVERNMENT SECONDARY SCHOOL",
+      "tc": "屯門官立中學",
+      "sc": "屯门官立中学"
+    }
+  },
   "KMB-67M-I-1": {
     "record_id": "KMB-67M-I-1",
     "company": "KMB",
@@ -6644,40 +6474,6 @@
       "en": "TSUEN WAN STATION",
       "tc": "荃灣站",
       "sc": "荃湾站"
-    }
-  },
-  "KMB-68R-O-1": {
-    "record_id": "KMB-68R-O-1",
-    "company": "KMB",
-    "route": "68R",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "YOHO MALL (YUEN LONG)",
-      "tc": "元朗 形點",
-      "sc": "元朗 形点"
-    },
-    "destination": {
-      "en": "TAI TONG",
-      "tc": "大棠",
-      "sc": "大棠"
-    }
-  },
-  "KMB-68R-I-1": {
-    "record_id": "KMB-68R-I-1",
-    "company": "KMB",
-    "route": "68R",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "TAI TONG",
-      "tc": "大棠",
-      "sc": "大棠"
-    },
-    "destination": {
-      "en": "YOHO MALL (YUEN LONG)",
-      "tc": "元朗 形點",
-      "sc": "元朗 形点"
     }
   },
   "KMB-68X-O-1": {
@@ -6967,40 +6763,6 @@
       "en": "FANLING (WAH MING)",
       "tc": "粉嶺(華明)",
       "sc": "粉岭(华明)"
-    }
-  },
-  "KMB-70S-O-1": {
-    "record_id": "KMB-70S-O-1",
-    "company": "KMB",
-    "route": "70S",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "HUNG HOM STATION",
-      "tc": "紅磡站",
-      "sc": "红磡站"
-    },
-    "destination": {
-      "en": "WO HOP SHEK",
-      "tc": "和合石",
-      "sc": "和合石"
-    }
-  },
-  "KMB-70S-I-1": {
-    "record_id": "KMB-70S-I-1",
-    "company": "KMB",
-    "route": "70S",
-    "bound": "I",
-    "service_type": "1",
-    "origin": {
-      "en": "WO HOP SHEK",
-      "tc": "和合石",
-      "sc": "和合石"
-    },
-    "destination": {
-      "en": "HUNG HOM STATION",
-      "tc": "紅磡站",
-      "sc": "红磡站"
     }
   },
   "KMB-71A-O-1": {
@@ -12749,23 +12511,6 @@
       "sc": "小西湾(蓝湾半岛)"
     }
   },
-  "KMB-118R-O-1": {
-    "record_id": "KMB-118R-O-1",
-    "company": "KMB",
-    "route": "118R",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "SIU SAI WAN SPORTS GROUND",
-      "tc": "小西灣運動場",
-      "sc": "小西湾运动场"
-    },
-    "destination": {
-      "en": "MONG KOK",
-      "tc": "旺角",
-      "sc": "旺角"
-    }
-  },
   "KMB-170-O-1": {
     "record_id": "KMB-170-O-1",
     "company": "KMB",
@@ -13811,8 +13556,8 @@
     "service_type": "1",
     "origin": {
       "en": "KWUN TONG (TSUI PING NORTH ESTATE)",
-      "tc": "觀塘(翠屏北邨",
-      "sc": "观塘(翠屏北邨"
+      "tc": "觀塘(翠屏北邨)",
+      "sc": "观塘(翠屏北邨)"
     },
     "destination": {
       "en": "TSING LUNG TAU",
@@ -22592,6 +22337,23 @@
       "sc": "屯门(富泰邨)"
     }
   },
+  "KMB-A33X-I-4": {
+    "record_id": "KMB-A33X-I-4",
+    "company": "KMB",
+    "route": "A33X",
+    "bound": "I",
+    "service_type": "4",
+    "origin": {
+      "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+      "tc": "機場(地面運輸中心)",
+      "sc": "机场(地面运输中心)"
+    },
+    "destination": {
+      "en": "TUEN MUN (FU TAI ESTATE)",
+      "tc": "屯門(富泰邨)",
+      "sc": "屯门(富泰邨)"
+    }
+  },
   "KMB-A34-O-1": {
     "record_id": "KMB-A34-O-1",
     "company": "KMB",
@@ -22779,6 +22541,23 @@
       "sc": "锦上路站"
     }
   },
+  "KMB-A36-I-5": {
+    "record_id": "KMB-A36-I-5",
+    "company": "KMB",
+    "route": "A36",
+    "bound": "I",
+    "service_type": "5",
+    "origin": {
+      "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+      "tc": "機場(地面運輸中心)",
+      "sc": "机场(地面运输中心)"
+    },
+    "destination": {
+      "en": "KAM SHEUNG ROAD STATION",
+      "tc": "錦上路站",
+      "sc": "锦上路站"
+    }
+  },
   "KMB-A37-O-1": {
     "record_id": "KMB-A37-O-1",
     "company": "KMB",
@@ -22938,6 +22717,23 @@
     "route": "A41",
     "bound": "I",
     "service_type": "3",
+    "origin": {
+      "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
+      "tc": "機場(地面運輸中心)",
+      "sc": "机场(地面运输中心)"
+    },
+    "destination": {
+      "en": "SHEK MUN ESTATE",
+      "tc": "碩門邨",
+      "sc": "硕门邨"
+    }
+  },
+  "KMB-A41-I-5": {
+    "record_id": "KMB-A41-I-5",
+    "company": "KMB",
+    "route": "A41",
+    "bound": "I",
+    "service_type": "5",
     "origin": {
       "en": "AIRPORT (GROUND TRANSPORTATION CENTRE)",
       "tc": "機場(地面運輸中心)",
@@ -23474,6 +23270,23 @@
       "en": "KWAI FONG (KWAI TSUI ESTATE)",
       "tc": "葵芳(葵翠邨)",
       "sc": "葵芳(葵翠邨)"
+    }
+  },
+  "KMB-B10S-O-1": {
+    "record_id": "KMB-B10S-O-1",
+    "company": "KMB",
+    "route": "B10S",
+    "bound": "O",
+    "service_type": "1",
+    "origin": {
+      "en": "KWAI FONG (KWAI TSUI ESTATE)",
+      "tc": "葵芳(葵翠邨)",
+      "sc": "葵芳(葵翠邨)"
+    },
+    "destination": {
+      "en": "HUANGGANG PORT",
+      "tc": "皇崗口岸",
+      "sc": "皇岗口岸"
     }
   },
   "KMB-B11-O-1": {
@@ -24751,23 +24564,6 @@
       "sc": "红磡站"
     }
   },
-  "KMB-N243-O-1": {
-    "record_id": "KMB-N243-O-1",
-    "company": "KMB",
-    "route": "N243",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSING YI STATION",
-      "tc": "青衣站",
-      "sc": "青衣站"
-    },
-    "destination": {
-      "en": "CHEUNG CHING (CIRCULAR)",
-      "tc": "長青(循環線)",
-      "sc": "长青(循环线)"
-    }
-  },
   "KMB-N252-O-1": {
     "record_id": "KMB-N252-O-1",
     "company": "KMB",
@@ -24885,23 +24681,6 @@
       "en": "TAI PO (FU HENG)",
       "tc": "大埔(富亨)",
       "sc": "大埔(富亨)"
-    }
-  },
-  "KMB-N272-O-1": {
-    "record_id": "KMB-N272-O-1",
-    "company": "KMB",
-    "route": "N272",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "UNIVERSITY STATION",
-      "tc": "大學站",
-      "sc": "大学站"
-    },
-    "destination": {
-      "en": "PAK SHEK KOK (CIRCULAR)",
-      "tc": "白石角(循環線)",
-      "sc": "白石角(循环线)"
     }
   },
   "KMB-N281-O-1": {
@@ -25182,23 +24961,6 @@
     "route": "N368",
     "bound": "I",
     "service_type": "1",
-    "origin": {
-      "en": "CENTRAL (MACAU FERRY)",
-      "tc": "中環(港澳碼頭)",
-      "sc": "中环(港澳码头)"
-    },
-    "destination": {
-      "en": "YUEN LONG (WEST)",
-      "tc": "元朗(西)",
-      "sc": "元朗(西)"
-    }
-  },
-  "KMB-N368-I-2": {
-    "record_id": "KMB-N368-I-2",
-    "company": "KMB",
-    "route": "N368",
-    "bound": "I",
-    "service_type": "2",
     "origin": {
       "en": "CENTRAL (MACAU FERRY)",
       "tc": "中環(港澳碼頭)",
@@ -26298,40 +26060,6 @@
       "sc": "尖东么地道"
     }
   },
-  "KMB-R230-O-1": {
-    "record_id": "KMB-R230-O-1",
-    "company": "KMB",
-    "route": "R230",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSUEN WAN (ALLWAY GARDENS)",
-      "tc": "荃灣(荃威花園)",
-      "sc": "荃湾(荃威花园)"
-    },
-    "destination": {
-      "en": "TSIM SHA TSUI EAST (MODY ROAD)",
-      "tc": "尖沙咀東(麼地道)",
-      "sc": "尖沙咀东(么地道)"
-    }
-  },
-  "KMB-R241-O-1": {
-    "record_id": "KMB-R241-O-1",
-    "company": "KMB",
-    "route": "R241",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSING YI (CHEUNG WANG ESTATE)",
-      "tc": "青衣(長宏邨)",
-      "sc": "青衣(长宏邨)"
-    },
-    "destination": {
-      "en": "TSIM SHA TSUI EAST (MODY ROAD)",
-      "tc": "尖沙咀東(麼地道)",
-      "sc": "尖沙咀东(么地道)"
-    }
-  },
   "KMB-R298-O-1": {
     "record_id": "KMB-R298-O-1",
     "company": "KMB",
@@ -26519,57 +26247,6 @@
       "sc": "青屿干线转车站(循环线)"
     }
   },
-  "KMB-R934-O-1": {
-    "record_id": "KMB-R934-O-1",
-    "company": "KMB",
-    "route": "R934",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSUEN WAN (BAYVIEW GARDEN)",
-      "tc": "荃灣(灣景花園)",
-      "sc": "荃湾(湾景花园)"
-    },
-    "destination": {
-      "en": "CAUSEWAY BAY (VICTORIA PARK)",
-      "tc": "銅鑼灣(維多利亞公園)",
-      "sc": "铜锣湾(维多利亚公园)"
-    }
-  },
-  "KMB-R936-O-1": {
-    "record_id": "KMB-R936-O-1",
-    "company": "KMB",
-    "route": "R936",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSUEN WAN (SHEK WAI KOK)",
-      "tc": "荃灣(石圍角)",
-      "sc": "荃湾(石围角)"
-    },
-    "destination": {
-      "en": "CAUSEWAY BAY (VICTORIA PARK)",
-      "tc": "銅鑼灣(維多利亞公園)",
-      "sc": "铜锣湾(维多利亚公园)"
-    }
-  },
-  "KMB-R948-O-1": {
-    "record_id": "KMB-R948-O-1",
-    "company": "KMB",
-    "route": "R948",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "TSING YI (CHEUNG WANG ESTATE)",
-      "tc": "青衣(長宏邨)",
-      "sc": "青衣(长宏邨)"
-    },
-    "destination": {
-      "en": "CAUSEWAY BAY (VICTORIA PARK)",
-      "tc": "銅鑼灣(維多利亞公園)",
-      "sc": "铜锣湾(维多利亚公园)"
-    }
-  },
   "KMB-S1-O-1": {
     "record_id": "KMB-S1-O-1",
     "company": "KMB",
@@ -26738,23 +26415,6 @@
       "en": "CENTRAL (MACAO FERRY)",
       "tc": "中環(港澳碼頭)",
       "sc": "中环(港澳码头)"
-    }
-  },
-  "KMB-SP12-O-1": {
-    "record_id": "KMB-SP12-O-1",
-    "company": "KMB",
-    "route": "SP12",
-    "bound": "O",
-    "service_type": "1",
-    "origin": {
-      "en": "KAI TAK SPORTS PARK",
-      "tc": "啟德體育園",
-      "sc": "启德体育园"
-    },
-    "destination": {
-      "en": "LOK MA CHAU",
-      "tc": "落馬洲",
-      "sc": "落马洲"
     }
   },
   "KMB-SP3-O-1": {

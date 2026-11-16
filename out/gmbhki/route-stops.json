@@ -20484,14 +20484,14 @@
       },
       {
         "seq": 3,
-        "stop_id": "20003475",
+        "stop_id": "20023791",
         "name": {
-          "en": "Queen's Road West, Shek Tong Tsui Complex",
-          "tc": "皇后大道西, 石塘咀市政大廈外",
-          "sc": "皇后大道西, 石塘咀市政大厦"
+          "en": "Queen's Road West, near Shek Tong Tsui Complex",
+          "tc": "皇后大道西, 近石塘咀市政大廈",
+          "sc": "皇后大道西, 近石塘咀市政大厦"
         },
-        "lat": 22.285819164102044,
-        "long": 114.13608021225713
+        "lat": 22.285884933292763,
+        "long": 114.13572907447816
       },
       {
         "seq": 4,
@@ -20758,14 +20758,14 @@
       },
       {
         "seq": 3,
-        "stop_id": "20003475",
+        "stop_id": "20023791",
         "name": {
-          "en": "Queen's Road West, Shek Tong Tsui Complex",
-          "tc": "皇后大道西, 石塘咀市政大廈外",
-          "sc": "皇后大道西, 石塘咀市政大厦"
+          "en": "Queen's Road West, near Shek Tong Tsui Complex",
+          "tc": "皇后大道西, 近石塘咀市政大廈",
+          "sc": "皇后大道西, 近石塘咀市政大厦"
         },
-        "lat": 22.285819164102044,
-        "long": 114.13608021225713
+        "lat": 22.285884933292763,
+        "long": 114.13572907447816
       },
       {
         "seq": 4,
@@ -21207,14 +21207,14 @@
       },
       {
         "seq": 3,
-        "stop_id": "20003475",
+        "stop_id": "20023791",
         "name": {
-          "en": "Queen's Road West, outside Shek Tong Tsui Municipal Services Building",
-          "tc": "皇后大道西, 石塘咀市政大廈外",
-          "sc": "皇后大道西, 石塘咀市政大厦"
+          "en": "Queen's Road West, near Shek Tong Tsui Complex",
+          "tc": "皇后大道西, 近石塘咀市政大廈",
+          "sc": "皇后大道西, 近石塘咀市政大厦"
         },
-        "lat": 22.285819164102044,
-        "long": 114.13608021225713
+        "lat": 22.285884933292763,
+        "long": 114.13572907447816
       },
       {
         "seq": 4,
@@ -27781,137 +27781,6 @@
         },
         "lat": 22.281509640440625,
         "long": 114.22829931880764
-      }
-    ]
-  },
-  "GMBHKI-68-2005295-1": {
-    "record_id": "GMBHKI-68-2005295-1",
-    "company": "GMBHKI",
-    "route_id": "2005295",
-    "route": "68",
-    "route_seq": 1,
-    "region": "HKI",
-    "stops": [
-      {
-        "seq": 1,
-        "stop_id": "20012985",
-        "name": {
-          "en": "Aldrich Garden, outside Block 10",
-          "tc": "愛蝶灣第10座外",
-          "sc": "爱蝶湾第10座外"
-        },
-        "lat": 22.281756383787048,
-        "long": 114.22857925268288
-      },
-      {
-        "seq": 2,
-        "stop_id": "20012986",
-        "name": {
-          "en": "Oi Kan Road, outside Tung Hiu House",
-          "tc": "愛勤街, 東曉閣外",
-          "sc": "爱勤街, 东晓阁外"
-        },
-        "lat": 22.28271618705509,
-        "long": 114.22721250581162
-      },
-      {
-        "seq": 3,
-        "stop_id": "20012987",
-        "name": {
-          "en": "Tai On Street, outside Les Saisons",
-          "tc": "太安街, 逸濤灣",
-          "sc": "太安街, 逸涛湾"
-        },
-        "lat": 22.283941683066953,
-        "long": 114.22433466392181
-      },
-      {
-        "seq": 4,
-        "stop_id": "20012988",
-        "name": {
-          "en": "Kornhill Road, outside Kornhill Plaza",
-          "tc": "康山道, 康怡廣場外",
-          "sc": "康山道, 康山花园10座对面"
-        },
-        "lat": 22.28459806339628,
-        "long": 114.21760211530297
-      },
-      {
-        "seq": 5,
-        "stop_id": "20012989",
-        "name": {
-          "en": "King's Road, outside Bo Fung Gardens",
-          "tc": "英皇道, 寶峰園外",
-          "sc": "英皇道1094号"
-        },
-        "lat": 22.284582241249055,
-        "long": 114.2146144326007
-      },
-      {
-        "seq": 6,
-        "stop_id": "20012990",
-        "name": {
-          "en": "Riviera Mansion",
-          "tc": "海灣街, 濱海大廈外",
-          "sc": "海湾街, 滨海大厦外"
-        },
-        "lat": 22.288136247821768,
-        "long": 114.21156290953121
-      },
-      {
-        "seq": 7,
-        "stop_id": "20000215",
-        "name": {
-          "en": "King's Road, outside Sunway Garden",
-          "tc": "英皇道, 新威園外",
-          "sc": "英皇道, 新威园外"
-        },
-        "lat": 22.285531614489376,
-        "long": 114.2114095650914
-      },
-      {
-        "seq": 8,
-        "stop_id": "20002787",
-        "name": {
-          "en": "King's Road, Westlands Gardens",
-          "tc": "英皇道, 惠安苑",
-          "sc": "英皇道, 惠安苑"
-        },
-        "lat": 22.284772675217784,
-        "long": 114.21308809701628
-      },
-      {
-        "seq": 9,
-        "stop_id": "20012991",
-        "name": {
-          "en": "King's Road, outside Cityplaza I",
-          "tc": "英皇道, 太古城中心一期",
-          "sc": "英皇道, 太古城中心一期"
-        },
-        "lat": 22.28538603730119,
-        "long": 114.21740431703178
-      },
-      {
-        "seq": 10,
-        "stop_id": "20012992",
-        "name": {
-          "en": "Tai Hong Street, outside Tai Hong House",
-          "tc": "太康街, 太康樓",
-          "sc": "太康街, 太康楼"
-        },
-        "lat": 22.28343095439374,
-        "long": 114.22188999050265
-      },
-      {
-        "seq": 11,
-        "stop_id": "20012985",
-        "name": {
-          "en": "Aldrich Garden, outside Block 10",
-          "tc": "愛蝶灣第10座外",
-          "sc": "爱蝶湾第10座外"
-        },
-        "lat": 22.281756383787048,
-        "long": 114.22857925268288
       }
     ]
   },
