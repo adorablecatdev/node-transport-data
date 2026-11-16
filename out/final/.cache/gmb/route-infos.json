@@ -3779,7 +3779,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-03T23:06:57.090+08:00"
+            "data_timestamp": "2026-10-30T23:50:40.356+08:00"
           },
           {
             "route_seq": 2,
@@ -3879,10 +3879,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-03T23:06:57.090+08:00"
+            "data_timestamp": "2026-10-30T23:50:40.356+08:00"
           }
         ],
-        "data_timestamp": "2026-10-03T23:06:57.090+08:00"
+        "data_timestamp": "2026-10-30T23:50:40.356+08:00"
       }
     ],
     "NT:112A": [
@@ -5319,10 +5319,10 @@
                 "frequency_upper": 30
               }
             ],
-            "data_timestamp": "2026-10-03T23:06:57.090+08:00"
+            "data_timestamp": "2026-10-30T23:50:40.356+08:00"
           }
         ],
-        "data_timestamp": "2026-10-03T23:06:57.090+08:00"
+        "data_timestamp": "2026-10-30T23:50:40.356+08:00"
       }
     ],
     "NT:117P": [
@@ -8244,7 +8244,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-03T23:06:57.090+08:00"
+            "data_timestamp": "2026-10-30T23:50:40.356+08:00"
           },
           {
             "route_seq": 2,
@@ -8412,10 +8412,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-03T23:06:57.090+08:00"
+            "data_timestamp": "2026-10-30T23:50:40.356+08:00"
           }
         ],
-        "data_timestamp": "2026-10-03T23:06:57.090+08:00"
+        "data_timestamp": "2026-10-30T23:50:40.356+08:00"
       }
     ],
     "NT:17A": [
@@ -9763,10 +9763,10 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-08-24T00:00:38.210+08:00"
+            "data_timestamp": "2026-11-05T18:16:14.111+08:00"
           }
         ],
-        "data_timestamp": "2026-08-24T00:00:38.210+08:00"
+        "data_timestamp": "2026-11-05T18:16:14.111+08:00"
       }
     ],
     "NT:20B": [
@@ -12287,7 +12287,7 @@
                 "public_holiday": false,
                 "headway_seq": 1,
                 "start_time": "06:00:00",
-                "end_time": "20:00:00",
+                "end_time": "06:30:00",
                 "frequency": 10,
                 "frequency_upper": null
               },
@@ -12303,26 +12303,26 @@
                 ],
                 "public_holiday": false,
                 "headway_seq": 2,
-                "start_time": "20:00:00",
-                "end_time": "23:20:00",
-                "frequency": 20,
-                "frequency_upper": null
+                "start_time": "06:30:00",
+                "end_time": "20:00:00",
+                "frequency": 7,
+                "frequency_upper": 8
               },
               {
                 "weekdays": [
-                  false,
-                  false,
-                  false,
-                  false,
-                  false,
                   true,
-                  true
+                  true,
+                  true,
+                  true,
+                  true,
+                  false,
+                  false
                 ],
-                "public_holiday": true,
+                "public_holiday": false,
                 "headway_seq": 3,
-                "start_time": "06:00:00",
-                "end_time": "09:00:00",
-                "frequency": 20,
+                "start_time": "20:00:00",
+                "end_time": "23:20:00",
+                "frequency": 10,
                 "frequency_upper": null
               },
               {
@@ -12337,8 +12337,8 @@
                 ],
                 "public_holiday": true,
                 "headway_seq": 4,
-                "start_time": "09:00:00",
-                "end_time": "20:00:00",
+                "start_time": "06:00:00",
+                "end_time": "09:00:00",
                 "frequency": 10,
                 "frequency_upper": null
               },
@@ -12354,16 +12354,33 @@
                 ],
                 "public_holiday": true,
                 "headway_seq": 5,
+                "start_time": "09:00:00",
+                "end_time": "20:00:00",
+                "frequency": 7,
+                "frequency_upper": 8
+              },
+              {
+                "weekdays": [
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  true,
+                  true
+                ],
+                "public_holiday": true,
+                "headway_seq": 6,
                 "start_time": "20:00:00",
                 "end_time": "23:20:00",
-                "frequency": 20,
+                "frequency": 10,
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-24T00:00:38.535+08:00"
+            "data_timestamp": "2026-11-05T18:16:24.409+08:00"
           }
         ],
-        "data_timestamp": "2026-08-24T00:00:38.535+08:00"
+        "data_timestamp": "2026-11-05T18:16:24.409+08:00"
       }
     ],
     "NT:20T": [
@@ -14898,7 +14915,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-24T00:00:31.203+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -14998,10 +15015,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-24T00:00:31.203+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-08-24T00:00:31.203+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       },
       {
         "route_id": 2005254,
@@ -21114,15 +21131,15 @@
                 "public_holiday": true,
                 "headway_seq": 1,
                 "start_time": "06:00:00",
-                "end_time": "21:00:00",
+                "end_time": "19:30:00",
                 "frequency": 45,
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:11:12.996+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+        "data_timestamp": "2026-11-05T18:11:12.996+08:00"
       }
     ],
     "NT:401": [
@@ -21939,10 +21956,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+            "data_timestamp": "2026-10-25T00:01:44.807+08:00"
           }
         ],
-        "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+        "data_timestamp": "2026-10-25T00:01:44.807+08:00"
       }
     ],
     "NT:403A": [
@@ -22086,10 +22103,10 @@
                 "frequency_upper": 12
               }
             ],
-            "data_timestamp": "2026-05-09T23:00:40.436+08:00"
+            "data_timestamp": "2026-10-25T00:01:52.273+08:00"
           }
         ],
-        "data_timestamp": "2026-05-09T23:00:40.436+08:00"
+        "data_timestamp": "2026-10-25T00:01:52.273+08:00"
       },
       {
         "route_id": 2001271,
@@ -22129,10 +22146,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-09T23:00:40.436+08:00"
+            "data_timestamp": "2026-10-25T00:01:52.860+08:00"
           }
         ],
-        "data_timestamp": "2026-05-09T23:00:40.436+08:00"
+        "data_timestamp": "2026-10-25T00:01:52.860+08:00"
       }
     ],
     "NT:403P": [
@@ -22378,10 +22395,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+            "data_timestamp": "2026-10-25T00:02:00.368+08:00"
           }
         ],
-        "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+        "data_timestamp": "2026-10-25T00:02:00.368+08:00"
       },
       {
         "route_id": 2001268,
@@ -22421,10 +22438,10 @@
                 "frequency_upper": 30
               }
             ],
-            "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+            "data_timestamp": "2026-10-25T00:02:08.348+08:00"
           }
         ],
-        "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+        "data_timestamp": "2026-10-25T00:02:08.348+08:00"
       },
       {
         "route_id": 2001269,
@@ -22464,10 +22481,10 @@
                 "frequency_upper": 1
               }
             ],
-            "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+            "data_timestamp": "2026-10-25T00:02:15.544+08:00"
           }
         ],
-        "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+        "data_timestamp": "2026-10-25T00:02:15.544+08:00"
       }
     ],
     "NT:403X": [
@@ -22611,10 +22628,10 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:02:27.115+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-25T00:02:27.115+08:00"
       },
       {
         "route_id": 2001273,
@@ -22654,10 +22671,10 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:02:40.283+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-25T00:02:40.283+08:00"
       },
       {
         "route_id": 2001274,
@@ -22714,10 +22731,10 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:02:39.725+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-25T00:02:39.725+08:00"
       }
     ],
     "NT:404M": [
@@ -23969,10 +23986,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:41": [
@@ -24749,10 +24766,10 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:43": [
@@ -24811,10 +24828,10 @@
                 "frequency_upper": 8
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       },
       {
         "route_id": 2001741,
@@ -24905,10 +24922,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:43A": [
@@ -25137,7 +25154,7 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           },
           {
             "route_seq": 2,
@@ -25356,10 +25373,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:43B": [
@@ -25452,10 +25469,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:43C": [
@@ -25497,7 +25514,7 @@
                 "frequency_upper": 13
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           },
           {
             "route_seq": 2,
@@ -25529,10 +25546,10 @@
                 "frequency_upper": 13
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:43S": [
@@ -25574,10 +25591,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:44": [
@@ -25917,7 +25934,7 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           },
           {
             "route_seq": 2,
@@ -26017,10 +26034,10 @@
                 "frequency_upper": 9
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       },
       {
         "route_id": 2004001,
@@ -26060,10 +26077,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:44A1": [
@@ -26105,10 +26122,10 @@
                 "frequency_upper": 25
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:44B": [
@@ -26150,7 +26167,7 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-10-12T02:11:27.830+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           },
           {
             "route_seq": 2,
@@ -26182,10 +26199,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-10-12T02:11:27.830+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:11:27.830+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:44B1": [
@@ -26304,10 +26321,10 @@
                 "frequency_upper": 7
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:46": [
@@ -26434,10 +26451,10 @@
                 "frequency_upper": 30
               }
             ],
-            "data_timestamp": "2026-09-14T10:11:34.286+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-09-14T10:11:34.286+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:46A": [
@@ -26683,10 +26700,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-14T10:11:34.286+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-09-14T10:11:34.286+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:46M": [
@@ -26943,10 +26960,10 @@
                 "frequency_upper": 30
               }
             ],
-            "data_timestamp": "2026-09-14T10:11:34.286+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-09-14T10:11:34.286+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:47M": [
@@ -27450,7 +27467,7 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:00:21.859+08:00"
           },
           {
             "route_seq": 2,
@@ -27720,10 +27737,10 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:00:21.859+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-25T00:00:21.859+08:00"
       }
     ],
     "NT:481A": [
@@ -27884,7 +27901,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:00:36.989+08:00"
           },
           {
             "route_seq": 2,
@@ -28035,10 +28052,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:00:36.989+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-25T00:00:36.989+08:00"
       }
     ],
     "NT:481B": [
@@ -28114,7 +28131,7 @@
                 "frequency_upper": 25
               }
             ],
-            "data_timestamp": "2026-09-26T02:05:17.212+08:00"
+            "data_timestamp": "2026-10-25T00:00:51.791+08:00"
           },
           {
             "route_seq": 2,
@@ -28180,10 +28197,10 @@
                 "frequency_upper": 25
               }
             ],
-            "data_timestamp": "2026-09-26T02:05:17.212+08:00"
+            "data_timestamp": "2026-10-25T00:00:51.791+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T02:05:17.212+08:00"
+        "data_timestamp": "2026-10-25T00:00:51.791+08:00"
       }
     ],
     "NT:481X": [
@@ -28259,7 +28276,7 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:01:08.502+08:00"
           },
           {
             "route_seq": 2,
@@ -28325,10 +28342,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:01:08.502+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-25T00:01:08.502+08:00"
       }
     ],
     "NT:482": [
@@ -28370,7 +28387,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:01:36.996+08:00"
           },
           {
             "route_seq": 2,
@@ -28402,10 +28419,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-25T00:01:36.996+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-25T00:01:36.996+08:00"
       }
     ],
     "NT:48S": [
@@ -28447,7 +28464,7 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           },
           {
             "route_seq": 2,
@@ -28479,10 +28496,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T01:20:40.471+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:49S": [
@@ -28643,7 +28660,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           },
           {
             "route_seq": 2,
@@ -28794,10 +28811,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:4A": [
@@ -30923,7 +30940,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+            "data_timestamp": "2026-11-15T00:03:13.024+08:00"
           },
           {
             "route_seq": 2,
@@ -31023,10 +31040,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+            "data_timestamp": "2026-11-15T00:03:13.024+08:00"
           }
         ],
-        "data_timestamp": "2026-09-19T23:02:00.621+08:00"
+        "data_timestamp": "2026-11-15T00:03:13.024+08:00"
       }
     ],
     "NT:506": [
@@ -42632,7 +42649,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           },
           {
             "route_seq": 2,
@@ -42681,10 +42698,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T02:10:40.423+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ],
     "NT:611": [
@@ -43612,7 +43629,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-04-10T12:40:40.509+08:00"
+            "data_timestamp": "2026-10-17T23:00:40.536+08:00"
           },
           {
             "route_seq": 2,
@@ -43644,10 +43661,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-04-10T12:40:40.509+08:00"
+            "data_timestamp": "2026-10-17T23:00:40.536+08:00"
           }
         ],
-        "data_timestamp": "2026-04-10T12:40:40.509+08:00"
+        "data_timestamp": "2026-10-17T23:00:40.536+08:00"
       },
       {
         "route_id": 2003677,
@@ -43755,7 +43772,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           },
           {
             "route_seq": 2,
@@ -43855,10 +43872,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-24T23:00:40.512+08:00"
       }
     ],
     "NT:61S": [
@@ -45718,7 +45735,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T00:54:55.953+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           },
           {
             "route_seq": 2,
@@ -45784,10 +45801,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-12T00:54:55.953+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T00:54:55.953+08:00"
+        "data_timestamp": "2026-10-24T23:00:40.512+08:00"
       }
     ],
     "NT:64A": [
@@ -47202,7 +47219,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -47404,10 +47421,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:68K": [
@@ -47517,7 +47534,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           },
           {
             "route_seq": 2,
@@ -47617,10 +47634,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-24T23:00:40.512+08:00"
       },
       {
         "route_id": 2007765,
@@ -47762,7 +47779,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           },
           {
             "route_seq": 2,
@@ -47896,10 +47913,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-24T23:00:40.512+08:00"
       }
     ],
     "NT:68S": [
@@ -50980,7 +50997,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -51080,10 +51097,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       },
       {
         "route_id": 2010270,
@@ -51191,7 +51208,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -51291,10 +51308,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:803K": [
@@ -51387,7 +51404,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           },
           {
             "route_seq": 2,
@@ -51470,10 +51487,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+            "data_timestamp": "2026-10-24T23:00:40.512+08:00"
           }
         ],
-        "data_timestamp": "2026-09-26T00:40:40.603+08:00"
+        "data_timestamp": "2026-10-24T23:00:40.512+08:00"
       }
     ],
     "NT:804": [
@@ -51566,7 +51583,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -51649,10 +51666,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:805S": [
@@ -51694,7 +51711,7 @@
                 "frequency_upper": 15
               }
             ],
-            "data_timestamp": "2026-09-13T00:00:53.333+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -51743,10 +51760,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-09-13T00:00:53.333+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-09-13T00:00:53.333+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       },
       {
         "route_id": 2010278,
@@ -51803,10 +51820,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-09-13T00:00:52.768+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-09-13T00:00:52.768+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:806A": [
@@ -52146,7 +52163,7 @@
                 "frequency_upper": 25
               }
             ],
-            "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -52195,10 +52212,10 @@
                 "frequency_upper": 25
               }
             ],
-            "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:806C": [
@@ -52799,7 +52816,7 @@
                 "frequency_upper": 8
               }
             ],
-            "data_timestamp": "2026-04-16T18:30:40.425+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -52831,10 +52848,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-04-16T18:30:40.425+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-04-16T18:30:40.425+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:807K": [
@@ -53465,7 +53482,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -53565,10 +53582,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       },
       {
         "route_id": 2004891,
@@ -53683,10 +53700,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       },
       {
         "route_id": 2004893,
@@ -53726,10 +53743,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:808P": [
@@ -53771,7 +53788,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -53803,10 +53820,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-08-21T11:35:44.069+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:809K": [
@@ -54266,10 +54283,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       },
       {
         "route_id": 2010280,
@@ -54309,10 +54326,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:810A": [
@@ -54371,7 +54388,7 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           },
           {
             "route_seq": 2,
@@ -54420,10 +54437,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-07-09T10:15:00.185+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:811": [
@@ -54728,53 +54745,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-05-27T17:55:40.493+08:00"
-      },
-      {
-        "route_id": 2011490,
-        "region": "NT",
-        "route_code": "811B",
-        "description_tc": "特別班次",
-        "description_sc": "特別班次",
-        "description_en": "Special Departure",
-        "directions": [
-          {
-            "route_seq": 1,
-            "orig_tc": "耀安",
-            "orig_sc": "耀安",
-            "orig_en": "Yiu On",
-            "dest_tc": "火炭(長瀝尾街)",
-            "dest_sc": "火炭(长沥尾街)",
-            "dest_en": "Fo Tan (Cheung Lek Mei Street)",
-            "remarks_tc": null,
-            "remarks_sc": null,
-            "remarks_en": null,
-            "headways": [
-              {
-                "weekdays": [
-                  true,
-                  true,
-                  true,
-                  true,
-                  true,
-                  false,
-                  false
-                ],
-                "public_holiday": false,
-                "headway_seq": 1,
-                "start_time": "16:30:00",
-                "end_time": "16:30:00",
-                "frequency": 1,
-                "frequency_upper": null
-              }
-            ],
-            "data_timestamp": "2026-05-27T17:55:40.493+08:00"
-          }
-        ],
-        "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:811K": [
@@ -55066,10 +55040,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+            "data_timestamp": "2026-11-01T00:10:40.443+08:00"
           }
         ],
-        "data_timestamp": "2026-05-27T17:55:40.493+08:00"
+        "data_timestamp": "2026-11-01T00:10:40.443+08:00"
       }
     ],
     "NT:812": [
@@ -70101,7 +70075,7 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-10-12T06:30:31.075+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           },
           {
             "route_seq": 2,
@@ -70133,10 +70107,10 @@
                 "frequency_upper": 20
               }
             ],
-            "data_timestamp": "2026-10-12T06:30:31.075+08:00"
+            "data_timestamp": "2026-11-05T18:10:40.610+08:00"
           }
         ],
-        "data_timestamp": "2026-10-12T06:30:31.075+08:00"
+        "data_timestamp": "2026-11-05T18:10:40.610+08:00"
       }
     ]
   }
