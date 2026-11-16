@@ -143067,6 +143067,17 @@
     "lat": 22.33137619566609,
     "lng": 114.2058083418638
   },
+  "GMBKLN:20023827": {
+    "stop_id": "20023827",
+    "company": "GMBKLN",
+    "name": {
+      "en": "Wang Chi Court, Wang Chiu Road",
+      "tc": "宏照道, 近宏緻苑",
+      "sc": "宏照道, 近宏致苑"
+    },
+    "lat": 22.330362647984206,
+    "lng": 114.20771688222887
+  },
   "GMBKLN:20016643": {
     "stop_id": "20016643",
     "company": "GMBKLN",
@@ -157153,7 +157164,7 @@
     "name": {
       "en": "Tam Kon Shan Road, near CNEC Lui Ming Choi Primary School",
       "tc": "担杆山路, 近中華傳道會呂明才小學",
-      "sc": "担杆山路，近中华小学传道会吕明才"
+      "sc": "担杆山路, 近中华传道会吕明才小学"
     },
     "lat": 22.362127840481495,
     "lng": 114.10187959671022
@@ -172768,7 +172779,7 @@
     "lng": 113.96611690521242
   },
   "NLB:1": {
-    "stop_id": 1,
+    "stop_id": "1",
     "company": "NLB",
     "name": {
       "en": "Mui Wo Ferry Pier",
@@ -172779,7 +172790,7 @@
     "lng": 114.001554
   },
   "NLB:2": {
-    "stop_id": 2,
+    "stop_id": "2",
     "company": "NLB",
     "name": {
       "en": "Mui Wo Cooked Food Market",
@@ -172790,7 +172801,7 @@
     "lng": 114.000049
   },
   "NLB:3": {
-    "stop_id": 3,
+    "stop_id": "3",
     "company": "NLB",
     "name": {
       "en": "Ngan Wan Estate",
@@ -172801,7 +172812,7 @@
     "lng": 113.997074
   },
   "NLB:4": {
-    "stop_id": 4,
+    "stop_id": "4",
     "company": "NLB",
     "name": {
       "en": "Mui Wo Market",
@@ -172812,7 +172823,7 @@
     "lng": 113.996999
   },
   "NLB:5": {
-    "stop_id": 5,
+    "stop_id": "5",
     "company": "NLB",
     "name": {
       "en": "Ngan King Centre",
@@ -172823,7 +172834,7 @@
     "lng": 113.996965
   },
   "NLB:6": {
-    "stop_id": 6,
+    "stop_id": "6",
     "company": "NLB",
     "name": {
       "en": "Silver Mine Bay Water Treatment Works",
@@ -172834,7 +172845,7 @@
     "lng": 113.997826
   },
   "NLB:7": {
-    "stop_id": 7,
+    "stop_id": "7",
     "company": "NLB",
     "name": {
       "en": "Lai Chi Yuen",
@@ -172845,7 +172856,7 @@
     "lng": 113.996477
   },
   "NLB:8": {
-    "stop_id": 8,
+    "stop_id": "8",
     "company": "NLB",
     "name": {
       "en": "Nam Shan Sam Uk Tsuen",
@@ -172856,7 +172867,7 @@
     "lng": 113.990108
   },
   "NLB:9": {
-    "stop_id": 9,
+    "stop_id": "9",
     "company": "NLB",
     "name": {
       "en": "Nam Shan Camp Site",
@@ -172867,7 +172878,7 @@
     "lng": 113.986811
   },
   "NLB:10": {
-    "stop_id": 10,
+    "stop_id": "10",
     "company": "NLB",
     "name": {
       "en": "Swire Staff Holiday House",
@@ -172878,7 +172889,7 @@
     "lng": 113.984887
   },
   "NLB:11": {
-    "stop_id": 11,
+    "stop_id": "11",
     "company": "NLB",
     "name": {
       "en": "Pui O Petrol Station",
@@ -172889,7 +172900,7 @@
     "lng": 113.980985
   },
   "NLB:12": {
-    "stop_id": 12,
+    "stop_id": "12",
     "company": "NLB",
     "name": {
       "en": "Lo Wai Tsuen",
@@ -172900,7 +172911,7 @@
     "lng": 113.979236
   },
   "NLB:13": {
-    "stop_id": 13,
+    "stop_id": "13",
     "company": "NLB",
     "name": {
       "en": "Sun Wai Tsuen",
@@ -172911,7 +172922,7 @@
     "lng": 113.978178
   },
   "NLB:14": {
-    "stop_id": 14,
+    "stop_id": "14",
     "company": "NLB",
     "name": {
       "en": "Lo Uk Tsuen",
@@ -172922,7 +172933,7 @@
     "lng": 113.974885
   },
   "NLB:15": {
-    "stop_id": 15,
+    "stop_id": "15",
     "company": "NLB",
     "name": {
       "en": "Ngau Au Yuen",
@@ -172933,7 +172944,7 @@
     "lng": 113.972545
   },
   "NLB:16": {
-    "stop_id": 16,
+    "stop_id": "16",
     "company": "NLB",
     "name": {
       "en": "San Shek Wan 3 1/4 Milestone",
@@ -172944,7 +172955,7 @@
     "lng": 113.969105
   },
   "NLB:17": {
-    "stop_id": 17,
+    "stop_id": "17",
     "company": "NLB",
     "name": {
       "en": "San Shek Wan Village",
@@ -172955,7 +172966,7 @@
     "lng": 113.966772
   },
   "NLB:18": {
-    "stop_id": 18,
+    "stop_id": "18",
     "company": "NLB",
     "name": {
       "en": "YWCA Sydney Leong Holiday Lodge",
@@ -172966,7 +172977,7 @@
     "lng": 113.964001
   },
   "NLB:83": {
-    "stop_id": 83,
+    "stop_id": "83",
     "company": "NLB",
     "name": {
       "en": "San Shek Wan Roundabout",
@@ -172977,7 +172988,7 @@
     "lng": 113.96255
   },
   "NLB:19": {
-    "stop_id": 19,
+    "stop_id": "19",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Sheung Tsuen",
@@ -172988,7 +172999,7 @@
     "lng": 113.961739
   },
   "NLB:20": {
-    "stop_id": 20,
+    "stop_id": "20",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Police Headquarters",
@@ -172999,7 +173010,7 @@
     "lng": 113.960211
   },
   "NLB:21": {
-    "stop_id": 21,
+    "stop_id": "21",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Ha Tsuen",
@@ -173010,7 +173021,7 @@
     "lng": 113.957232
   },
   "NLB:22": {
-    "stop_id": 22,
+    "stop_id": "22",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Fire Station",
@@ -173021,7 +173032,7 @@
     "lng": 113.954349
   },
   "NLB:23": {
-    "stop_id": 23,
+    "stop_id": "23",
     "company": "NLB",
     "name": {
       "en": "Leyburn Villas",
@@ -173032,7 +173043,7 @@
     "lng": 113.951916
   },
   "NLB:24": {
-    "stop_id": 24,
+    "stop_id": "24",
     "company": "NLB",
     "name": {
       "en": "Butterfly Crest",
@@ -173043,7 +173054,7 @@
     "lng": 113.948841
   },
   "NLB:25": {
-    "stop_id": 25,
+    "stop_id": "25",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Bridge",
@@ -173054,7 +173065,7 @@
     "lng": 113.946977
   },
   "NLB:26": {
-    "stop_id": 26,
+    "stop_id": "26",
     "company": "NLB",
     "name": {
       "en": "Upper Cheung Sha Beach",
@@ -173065,7 +173076,7 @@
     "lng": 113.941525
   },
   "NLB:27": {
-    "stop_id": 27,
+    "stop_id": "27",
     "company": "NLB",
     "name": {
       "en": "Tong Fuk Beach",
@@ -173076,7 +173087,7 @@
     "lng": 113.935339
   },
   "NLB:28": {
-    "stop_id": 28,
+    "stop_id": "28",
     "company": "NLB",
     "name": {
       "en": "Tong Fuk Village",
@@ -173087,7 +173098,7 @@
     "lng": 113.932706
   },
   "NLB:32": {
-    "stop_id": 32,
+    "stop_id": "32",
     "company": "NLB",
     "name": {
       "en": "Tong Fuk Correctional Institution",
@@ -173098,7 +173109,7 @@
     "lng": 113.926084
   },
   "NLB:30": {
-    "stop_id": 30,
+    "stop_id": "30",
     "company": "NLB",
     "name": {
       "en": "Ma Po Ping Village",
@@ -173109,7 +173120,7 @@
     "lng": 113.92805
   },
   "NLB:31": {
-    "stop_id": 31,
+    "stop_id": "31",
     "company": "NLB",
     "name": {
       "en": "Ma Po Ping Road Junction",
@@ -173120,7 +173131,7 @@
     "lng": 113.929495
   },
   "NLB:178": {
-    "stop_id": 178,
+    "stop_id": "178",
     "company": "NLB",
     "name": {
       "en": "South Lantau Sea Cable Station",
@@ -173131,7 +173142,7 @@
     "lng": 113.928661
   },
   "NLB:33": {
-    "stop_id": 33,
+    "stop_id": "33",
     "company": "NLB",
     "name": {
       "en": "Upper Wan Lung",
@@ -173142,7 +173153,7 @@
     "lng": 113.920624
   },
   "NLB:34": {
-    "stop_id": 34,
+    "stop_id": "34",
     "company": "NLB",
     "name": {
       "en": "Lower Wan Lung",
@@ -173153,7 +173164,7 @@
     "lng": 113.919741
   },
   "NLB:35": {
-    "stop_id": 35,
+    "stop_id": "35",
     "company": "NLB",
     "name": {
       "en": "Shui Hau Village (East)",
@@ -173164,7 +173175,7 @@
     "lng": 113.916059
   },
   "NLB:36": {
-    "stop_id": 36,
+    "stop_id": "36",
     "company": "NLB",
     "name": {
       "en": "Shui Hau Village",
@@ -173175,7 +173186,7 @@
     "lng": 113.914318
   },
   "NLB:37": {
-    "stop_id": 37,
+    "stop_id": "37",
     "company": "NLB",
     "name": {
       "en": "Four-Eye Ma",
@@ -173186,7 +173197,7 @@
     "lng": 113.91037
   },
   "NLB:38": {
-    "stop_id": 38,
+    "stop_id": "38",
     "company": "NLB",
     "name": {
       "en": "Shui Hau Helicopter Landing Field",
@@ -173197,7 +173208,7 @@
     "lng": 113.908063
   },
   "NLB:39": {
-    "stop_id": 39,
+    "stop_id": "39",
     "company": "NLB",
     "name": {
       "en": "Shek Pik Police Station",
@@ -173208,7 +173219,7 @@
     "lng": 113.89772
   },
   "NLB:40": {
-    "stop_id": 40,
+    "stop_id": "40",
     "company": "NLB",
     "name": {
       "en": "Sha Tsui Detention Centre",
@@ -173219,7 +173230,7 @@
     "lng": 113.893487
   },
   "NLB:41": {
-    "stop_id": 41,
+    "stop_id": "41",
     "company": "NLB",
     "name": {
       "en": "Sha Tsui",
@@ -173230,7 +173241,7 @@
     "lng": 113.8906
   },
   "NLB:42": {
-    "stop_id": 42,
+    "stop_id": "42",
     "company": "NLB",
     "name": {
       "en": "Shek Pik Au W.W.O. Access Road",
@@ -173241,7 +173252,7 @@
     "lng": 113.893697
   },
   "NLB:58": {
-    "stop_id": 58,
+    "stop_id": "58",
     "company": "NLB",
     "name": {
       "en": "Sham Wat Road",
@@ -173252,7 +173263,7 @@
     "lng": 113.891193
   },
   "NLB:44": {
-    "stop_id": 44,
+    "stop_id": "44",
     "company": "NLB",
     "name": {
       "en": "Fat Hwa Yuen",
@@ -173263,7 +173274,7 @@
     "lng": 113.889042
   },
   "NLB:45": {
-    "stop_id": 45,
+    "stop_id": "45",
     "company": "NLB",
     "name": {
       "en": "Sam Yuen Ching Shea",
@@ -173274,7 +173285,7 @@
     "lng": 113.886242
   },
   "NLB:46": {
-    "stop_id": 46,
+    "stop_id": "46",
     "company": "NLB",
     "name": {
       "en": "Shing Fai Orchard",
@@ -173285,7 +173296,7 @@
     "lng": 113.884209
   },
   "NLB:47": {
-    "stop_id": 47,
+    "stop_id": "47",
     "company": "NLB",
     "name": {
       "en": "Kwun Yam Monastery",
@@ -173296,7 +173307,7 @@
     "lng": 113.882991
   },
   "NLB:48": {
-    "stop_id": 48,
+    "stop_id": "48",
     "company": "NLB",
     "name": {
       "en": "Lung Chai",
@@ -173307,7 +173318,7 @@
     "lng": 113.881022
   },
   "NLB:49": {
-    "stop_id": 49,
+    "stop_id": "49",
     "company": "NLB",
     "name": {
       "en": "Keung Shan Management Centre",
@@ -173318,7 +173329,7 @@
     "lng": 113.878823
   },
   "NLB:84": {
-    "stop_id": 84,
+    "stop_id": "84",
     "company": "NLB",
     "name": {
       "en": "Sun Fung Tsuen",
@@ -173329,7 +173340,7 @@
     "lng": 113.876972
   },
   "NLB:51": {
-    "stop_id": 51,
+    "stop_id": "51",
     "company": "NLB",
     "name": {
       "en": "Ling Yan Monastery",
@@ -173340,7 +173351,7 @@
     "lng": 113.875009
   },
   "NLB:52": {
-    "stop_id": 52,
+    "stop_id": "52",
     "company": "NLB",
     "name": {
       "en": "Hang Mei",
@@ -173351,7 +173362,7 @@
     "lng": 113.869062
   },
   "NLB:53": {
-    "stop_id": 53,
+    "stop_id": "53",
     "company": "NLB",
     "name": {
       "en": "Buddhist Fat Ho Memorial College",
@@ -173362,7 +173373,7 @@
     "lng": 113.866988
   },
   "NLB:54": {
-    "stop_id": 54,
+    "stop_id": "54",
     "company": "NLB",
     "name": {
       "en": "Lung Tin Estate",
@@ -173373,7 +173384,7 @@
     "lng": 113.864976
   },
   "NLB:55": {
-    "stop_id": 55,
+    "stop_id": "55",
     "company": "NLB",
     "name": {
       "en": "Tai O",
@@ -173384,7 +173395,7 @@
     "lng": 113.862753
   },
   "NLB:221": {
-    "stop_id": 221,
+    "stop_id": "221",
     "company": "NLB",
     "name": {
       "en": "Tai O",
@@ -173395,7 +173406,7 @@
     "lng": 113.862753
   },
   "NLB:222": {
-    "stop_id": 222,
+    "stop_id": "222",
     "company": "NLB",
     "name": {
       "en": "Lung Tin Estate",
@@ -173406,7 +173417,7 @@
     "lng": 113.865005
   },
   "NLB:224": {
-    "stop_id": 224,
+    "stop_id": "224",
     "company": "NLB",
     "name": {
       "en": "Hang Mei",
@@ -173417,7 +173428,7 @@
     "lng": 113.869306
   },
   "NLB:225": {
-    "stop_id": 225,
+    "stop_id": "225",
     "company": "NLB",
     "name": {
       "en": "Ling Yan Monastery",
@@ -173428,7 +173439,7 @@
     "lng": 113.875107
   },
   "NLB:226": {
-    "stop_id": 226,
+    "stop_id": "226",
     "company": "NLB",
     "name": {
       "en": "Sun Fung Tsuen",
@@ -173439,7 +173450,7 @@
     "lng": 113.877006
   },
   "NLB:227": {
-    "stop_id": 227,
+    "stop_id": "227",
     "company": "NLB",
     "name": {
       "en": "Keung Shan Management Centre",
@@ -173450,7 +173461,7 @@
     "lng": 113.879051
   },
   "NLB:228": {
-    "stop_id": 228,
+    "stop_id": "228",
     "company": "NLB",
     "name": {
       "en": "Lung Chai",
@@ -173461,7 +173472,7 @@
     "lng": 113.881392
   },
   "NLB:229": {
-    "stop_id": 229,
+    "stop_id": "229",
     "company": "NLB",
     "name": {
       "en": "Shing Fai Orchard",
@@ -173472,7 +173483,7 @@
     "lng": 113.883995
   },
   "NLB:230": {
-    "stop_id": 230,
+    "stop_id": "230",
     "company": "NLB",
     "name": {
       "en": "Sam Yuen Ching Shea",
@@ -173483,7 +173494,7 @@
     "lng": 113.885968
   },
   "NLB:232": {
-    "stop_id": 232,
+    "stop_id": "232",
     "company": "NLB",
     "name": {
       "en": "Fat Hwa Yuen",
@@ -173494,7 +173505,7 @@
     "lng": 113.888872
   },
   "NLB:233": {
-    "stop_id": 233,
+    "stop_id": "233",
     "company": "NLB",
     "name": {
       "en": "Sham Wat Road",
@@ -173505,7 +173516,7 @@
     "lng": 113.891879
   },
   "NLB:234": {
-    "stop_id": 234,
+    "stop_id": "234",
     "company": "NLB",
     "name": {
       "en": "Shek Pik Au W.W.O. Access Road",
@@ -173516,7 +173527,7 @@
     "lng": 113.893975
   },
   "NLB:235": {
-    "stop_id": 235,
+    "stop_id": "235",
     "company": "NLB",
     "name": {
       "en": "Sha Tsui",
@@ -173527,7 +173538,7 @@
     "lng": 113.891105
   },
   "NLB:236": {
-    "stop_id": 236,
+    "stop_id": "236",
     "company": "NLB",
     "name": {
       "en": "Shek Pik Police Station",
@@ -173538,7 +173549,7 @@
     "lng": 113.898134
   },
   "NLB:237": {
-    "stop_id": 237,
+    "stop_id": "237",
     "company": "NLB",
     "name": {
       "en": "Shui Hau Helicopter Landing Field",
@@ -173549,7 +173560,7 @@
     "lng": 113.908325
   },
   "NLB:238": {
-    "stop_id": 238,
+    "stop_id": "238",
     "company": "NLB",
     "name": {
       "en": "Four-Eye Ma",
@@ -173560,7 +173571,7 @@
     "lng": 113.910632
   },
   "NLB:239": {
-    "stop_id": 239,
+    "stop_id": "239",
     "company": "NLB",
     "name": {
       "en": "Shui Hau Village",
@@ -173571,7 +173582,7 @@
     "lng": 113.914173
   },
   "NLB:240": {
-    "stop_id": 240,
+    "stop_id": "240",
     "company": "NLB",
     "name": {
       "en": "Shui Hau Village (East)",
@@ -173582,7 +173593,7 @@
     "lng": 113.915763
   },
   "NLB:241": {
-    "stop_id": 241,
+    "stop_id": "241",
     "company": "NLB",
     "name": {
       "en": "Lower Wan Lung",
@@ -173593,7 +173604,7 @@
     "lng": 113.919234
   },
   "NLB:242": {
-    "stop_id": 242,
+    "stop_id": "242",
     "company": "NLB",
     "name": {
       "en": "Upper Wan Lung",
@@ -173604,7 +173615,7 @@
     "lng": 113.921077
   },
   "NLB:243": {
-    "stop_id": 243,
+    "stop_id": "243",
     "company": "NLB",
     "name": {
       "en": "South Lantau Sea Cable Station",
@@ -173615,7 +173626,7 @@
     "lng": 113.92718
   },
   "NLB:244": {
-    "stop_id": 244,
+    "stop_id": "244",
     "company": "NLB",
     "name": {
       "en": "Ma Po Ping Road Junction",
@@ -173626,7 +173637,7 @@
     "lng": 113.930077
   },
   "NLB:245": {
-    "stop_id": 245,
+    "stop_id": "245",
     "company": "NLB",
     "name": {
       "en": "Tong Fuk Village",
@@ -173637,7 +173648,7 @@
     "lng": 113.932397
   },
   "NLB:246": {
-    "stop_id": 246,
+    "stop_id": "246",
     "company": "NLB",
     "name": {
       "en": "Tong Fuk Beach",
@@ -173648,7 +173659,7 @@
     "lng": 113.935944
   },
   "NLB:247": {
-    "stop_id": 247,
+    "stop_id": "247",
     "company": "NLB",
     "name": {
       "en": "Upper Cheung Sha Beach",
@@ -173659,7 +173670,7 @@
     "lng": 113.941766
   },
   "NLB:248": {
-    "stop_id": 248,
+    "stop_id": "248",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Bridge",
@@ -173670,7 +173681,7 @@
     "lng": 113.947366
   },
   "NLB:249": {
-    "stop_id": 249,
+    "stop_id": "249",
     "company": "NLB",
     "name": {
       "en": "Butterfly Crest",
@@ -173681,7 +173692,7 @@
     "lng": 113.949298
   },
   "NLB:250": {
-    "stop_id": 250,
+    "stop_id": "250",
     "company": "NLB",
     "name": {
       "en": "Leyburn Villas",
@@ -173692,7 +173703,7 @@
     "lng": 113.951424
   },
   "NLB:251": {
-    "stop_id": 251,
+    "stop_id": "251",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Fire Station",
@@ -173703,7 +173714,7 @@
     "lng": 113.955434
   },
   "NLB:252": {
-    "stop_id": 252,
+    "stop_id": "252",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Ha Tsuen",
@@ -173714,7 +173725,7 @@
     "lng": 113.95717
   },
   "NLB:253": {
-    "stop_id": 253,
+    "stop_id": "253",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Police Headquarters",
@@ -173725,7 +173736,7 @@
     "lng": 113.960174
   },
   "NLB:254": {
-    "stop_id": 254,
+    "stop_id": "254",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Sheung Tsuen",
@@ -173736,7 +173747,7 @@
     "lng": 113.961547
   },
   "NLB:255": {
-    "stop_id": 255,
+    "stop_id": "255",
     "company": "NLB",
     "name": {
       "en": "San Shek Wan Roundabout",
@@ -173747,7 +173758,7 @@
     "lng": 113.962424
   },
   "NLB:256": {
-    "stop_id": 256,
+    "stop_id": "256",
     "company": "NLB",
     "name": {
       "en": "YWCA Sydney Leong Holiday Lodge",
@@ -173758,7 +173769,7 @@
     "lng": 113.963973
   },
   "NLB:257": {
-    "stop_id": 257,
+    "stop_id": "257",
     "company": "NLB",
     "name": {
       "en": "San Shek Wan Village",
@@ -173769,7 +173780,7 @@
     "lng": 113.966526
   },
   "NLB:258": {
-    "stop_id": 258,
+    "stop_id": "258",
     "company": "NLB",
     "name": {
       "en": "San Shek Wan 3 1/4 Milestone",
@@ -173780,7 +173791,7 @@
     "lng": 113.968666
   },
   "NLB:259": {
-    "stop_id": 259,
+    "stop_id": "259",
     "company": "NLB",
     "name": {
       "en": "Lo Uk Tsuen",
@@ -173791,7 +173802,7 @@
     "lng": 113.974832
   },
   "NLB:260": {
-    "stop_id": 260,
+    "stop_id": "260",
     "company": "NLB",
     "name": {
       "en": "Sun Wai Tsuen",
@@ -173802,7 +173813,7 @@
     "lng": 113.977322
   },
   "NLB:261": {
-    "stop_id": 261,
+    "stop_id": "261",
     "company": "NLB",
     "name": {
       "en": "Lo Wai Tsuen",
@@ -173813,7 +173824,7 @@
     "lng": 113.979
   },
   "NLB:262": {
-    "stop_id": 262,
+    "stop_id": "262",
     "company": "NLB",
     "name": {
       "en": "Pui O Petrol Station",
@@ -173824,7 +173835,7 @@
     "lng": 113.98077
   },
   "NLB:263": {
-    "stop_id": 263,
+    "stop_id": "263",
     "company": "NLB",
     "name": {
       "en": "Swire Staff Holiday House",
@@ -173835,7 +173846,7 @@
     "lng": 113.984745
   },
   "NLB:264": {
-    "stop_id": 264,
+    "stop_id": "264",
     "company": "NLB",
     "name": {
       "en": "Nam Shan Camp Site",
@@ -173846,7 +173857,7 @@
     "lng": 113.98747
   },
   "NLB:265": {
-    "stop_id": 265,
+    "stop_id": "265",
     "company": "NLB",
     "name": {
       "en": "Nam Shan Sam Uk Tsuen",
@@ -173857,7 +173868,7 @@
     "lng": 113.989901
   },
   "NLB:56": {
-    "stop_id": 56,
+    "stop_id": "56",
     "company": "NLB",
     "name": {
       "en": "Lai Chi Yuen Cemetery",
@@ -173868,7 +173879,7 @@
     "lng": 113.993993
   },
   "NLB:266": {
-    "stop_id": 266,
+    "stop_id": "266",
     "company": "NLB",
     "name": {
       "en": "Lai Chi Yuen",
@@ -173879,7 +173890,7 @@
     "lng": 113.996268
   },
   "NLB:57": {
-    "stop_id": 57,
+    "stop_id": "57",
     "company": "NLB",
     "name": {
       "en": "Mui Wo Police Station",
@@ -173890,7 +173901,7 @@
     "lng": 113.998906
   },
   "NLB:305": {
-    "stop_id": 305,
+    "stop_id": "305",
     "company": "NLB",
     "name": {
       "en": "Mui Wo Ferry Pier",
@@ -173901,7 +173912,7 @@
     "lng": 114.001554
   },
   "NLB:278": {
-    "stop_id": 278,
+    "stop_id": "278",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Station Bus Terminus",
@@ -173912,7 +173923,7 @@
     "lng": 113.939616
   },
   "NLB:80": {
-    "stop_id": 80,
+    "stop_id": "80",
     "company": "NLB",
     "name": {
       "en": "Fu Tung Plaza",
@@ -173923,7 +173934,7 @@
     "lng": 113.942105
   },
   "NLB:81": {
-    "stop_id": 81,
+    "stop_id": "81",
     "company": "NLB",
     "name": {
       "en": "Yu Tung Court",
@@ -173934,7 +173945,7 @@
     "lng": 113.941603
   },
   "NLB:185": {
-    "stop_id": 185,
+    "stop_id": "185",
     "company": "NLB",
     "name": {
       "en": "North Lantau Hospital (North Bound), Mei Yat House Yat Tung Estate",
@@ -173945,7 +173956,7 @@
     "lng": 113.938822
   },
   "NLB:76": {
-    "stop_id": 76,
+    "stop_id": "76",
     "company": "NLB",
     "name": {
       "en": "North Lantau Hospital (South Bound)",
@@ -173956,7 +173967,7 @@
     "lng": 113.938803
   },
   "NLB:338": {
-    "stop_id": 338,
+    "stop_id": "338",
     "company": "NLB",
     "name": {
       "en": "Yu Tai Court (Chung Yan Road)",
@@ -173967,7 +173978,7 @@
     "lng": 113.940306
   },
   "NLB:94": {
-    "stop_id": 94,
+    "stop_id": "94",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Rural Committee Office",
@@ -173978,7 +173989,7 @@
     "lng": 113.938795
   },
   "NLB:279": {
-    "stop_id": 279,
+    "stop_id": "279",
     "company": "NLB",
     "name": {
       "en": "Sheung Ling Pei",
@@ -173989,7 +174000,7 @@
     "lng": 113.937148
   },
   "NLB:280": {
-    "stop_id": 280,
+    "stop_id": "280",
     "company": "NLB",
     "name": {
       "en": "Ha Ling Pei",
@@ -174000,7 +174011,7 @@
     "lng": 113.935423
   },
   "NLB:282": {
-    "stop_id": 282,
+    "stop_id": "282",
     "company": "NLB",
     "name": {
       "en": "Wong Ka Wai",
@@ -174011,7 +174022,7 @@
     "lng": 113.933975
   },
   "NLB:283": {
-    "stop_id": 283,
+    "stop_id": "283",
     "company": "NLB",
     "name": {
       "en": "Lung Tseng Tau",
@@ -174022,7 +174033,7 @@
     "lng": 113.933707
   },
   "NLB:284": {
-    "stop_id": 284,
+    "stop_id": "284",
     "company": "NLB",
     "name": {
       "en": "Shek Mun Kap Road",
@@ -174033,7 +174044,7 @@
     "lng": 113.934465
   },
   "NLB:286": {
-    "stop_id": 286,
+    "stop_id": "286",
     "company": "NLB",
     "name": {
       "en": "Cemetery Area No. 18",
@@ -174044,7 +174055,7 @@
     "lng": 113.93674
   },
   "NLB:287": {
-    "stop_id": 287,
+    "stop_id": "287",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Au Management Centre",
@@ -174055,7 +174066,7 @@
     "lng": 113.937552
   },
   "NLB:288": {
-    "stop_id": 288,
+    "stop_id": "288",
     "company": "NLB",
     "name": {
       "en": "Pak Kung Au",
@@ -174066,7 +174077,7 @@
     "lng": 113.942597
   },
   "NLB:273": {
-    "stop_id": 273,
+    "stop_id": "273",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Catchwater",
@@ -174077,7 +174088,7 @@
     "lng": 113.957339
   },
   "NLB:179": {
-    "stop_id": 179,
+    "stop_id": "179",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Road",
@@ -174088,7 +174099,7 @@
     "lng": 113.96292
   },
   "NLB:64": {
-    "stop_id": 64,
+    "stop_id": "64",
     "company": "NLB",
     "name": {
       "en": "Cheung Sha Catchwater",
@@ -174099,7 +174110,7 @@
     "lng": 113.957216
   },
   "NLB:65": {
-    "stop_id": 65,
+    "stop_id": "65",
     "company": "NLB",
     "name": {
       "en": "Pak Kung Au",
@@ -174110,7 +174121,7 @@
     "lng": 113.943139
   },
   "NLB:66": {
-    "stop_id": 66,
+    "stop_id": "66",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Au Management Centre",
@@ -174121,7 +174132,7 @@
     "lng": 113.937155
   },
   "NLB:67": {
-    "stop_id": 67,
+    "stop_id": "67",
     "company": "NLB",
     "name": {
       "en": "Cemetery Area No. 18",
@@ -174132,7 +174143,7 @@
     "lng": 113.936463
   },
   "NLB:68": {
-    "stop_id": 68,
+    "stop_id": "68",
     "company": "NLB",
     "name": {
       "en": "Shek Mun Kap Road",
@@ -174143,7 +174154,7 @@
     "lng": 113.934243
   },
   "NLB:69": {
-    "stop_id": 69,
+    "stop_id": "69",
     "company": "NLB",
     "name": {
       "en": "Lung Tseng Tau",
@@ -174154,7 +174165,7 @@
     "lng": 113.933377
   },
   "NLB:70": {
-    "stop_id": 70,
+    "stop_id": "70",
     "company": "NLB",
     "name": {
       "en": "Wong Ka Wai",
@@ -174165,7 +174176,7 @@
     "lng": 113.933812
   },
   "NLB:71": {
-    "stop_id": 71,
+    "stop_id": "71",
     "company": "NLB",
     "name": {
       "en": "Ha Ling Pei",
@@ -174176,7 +174187,7 @@
     "lng": 113.935475
   },
   "NLB:72": {
-    "stop_id": 72,
+    "stop_id": "72",
     "company": "NLB",
     "name": {
       "en": "Sheung Ling Pei",
@@ -174187,7 +174198,7 @@
     "lng": 113.936856
   },
   "NLB:73": {
-    "stop_id": 73,
+    "stop_id": "73",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Rural Committee Office",
@@ -174198,7 +174209,7 @@
     "lng": 113.939299
   },
   "NLB:74": {
-    "stop_id": 74,
+    "stop_id": "74",
     "company": "NLB",
     "name": {
       "en": "Ma Wan Sun Tsuen",
@@ -174209,7 +174220,7 @@
     "lng": 113.940243
   },
   "NLB:77": {
-    "stop_id": 77,
+    "stop_id": "77",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Fire Station",
@@ -174220,7 +174231,7 @@
     "lng": 113.941057
   },
   "NLB:78": {
-    "stop_id": 78,
+    "stop_id": "78",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Cable Car Terminal",
@@ -174231,7 +174242,7 @@
     "lng": 113.938733
   },
   "NLB:79": {
-    "stop_id": 79,
+    "stop_id": "79",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Station Bus Terminus",
@@ -174242,7 +174253,7 @@
     "lng": 113.939616
   },
   "NLB:127": {
-    "stop_id": 127,
+    "stop_id": "127",
     "company": "NLB",
     "name": {
       "en": "Hung Hom (Hung Luen Road)",
@@ -174253,7 +174264,7 @@
     "lng": 114.188092
   },
   "NLB:128": {
-    "stop_id": 128,
+    "stop_id": "128",
     "company": "NLB",
     "name": {
       "en": "East Tsim Sha Tsui MTR Station",
@@ -174264,7 +174275,7 @@
     "lng": 114.17438
   },
   "NLB:129": {
-    "stop_id": 129,
+    "stop_id": "129",
     "company": "NLB",
     "name": {
       "en": "Kowloon Park",
@@ -174275,7 +174286,7 @@
     "lng": 114.171928
   },
   "NLB:183": {
-    "stop_id": 183,
+    "stop_id": "183",
     "company": "NLB",
     "name": {
       "en": "Nelson Street",
@@ -174286,7 +174297,7 @@
     "lng": 114.169515
   },
   "NLB:131": {
-    "stop_id": 131,
+    "stop_id": "131",
     "company": "NLB",
     "name": {
       "en": "Prince Edward MTR Station",
@@ -174297,7 +174308,7 @@
     "lng": 114.167876
   },
   "NLB:132": {
-    "stop_id": 132,
+    "stop_id": "132",
     "company": "NLB",
     "name": {
       "en": "Yen Chow Street",
@@ -174308,7 +174319,7 @@
     "lng": 114.161369
   },
   "NLB:184": {
-    "stop_id": 184,
+    "stop_id": "184",
     "company": "NLB",
     "name": {
       "en": "Yee Kok Court",
@@ -174319,7 +174330,7 @@
     "lng": 114.158043
   },
   "NLB:317": {
-    "stop_id": 317,
+    "stop_id": "317",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Tat Tung Road Bus Terminus",
@@ -174330,7 +174341,7 @@
     "lng": 113.939352
   },
   "NLB:62": {
-    "stop_id": 62,
+    "stop_id": "62",
     "company": "NLB",
     "name": {
       "en": "Ngong Ping",
@@ -174341,7 +174352,7 @@
     "lng": 113.902862
   },
   "NLB:269": {
-    "stop_id": 269,
+    "stop_id": "269",
     "company": "NLB",
     "name": {
       "en": "Sham Wat Road Junction",
@@ -174352,7 +174363,7 @@
     "lng": 113.892089
   },
   "NLB:59": {
-    "stop_id": 59,
+    "stop_id": "59",
     "company": "NLB",
     "name": {
       "en": "San Hoi Ting",
@@ -174363,7 +174374,7 @@
     "lng": 113.893053
   },
   "NLB:270": {
-    "stop_id": 270,
+    "stop_id": "270",
     "company": "NLB",
     "name": {
       "en": "Ngong Ping",
@@ -174374,7 +174385,7 @@
     "lng": 113.902862
   },
   "NLB:271": {
-    "stop_id": 271,
+    "stop_id": "271",
     "company": "NLB",
     "name": {
       "en": "San Hoi Ting",
@@ -174385,7 +174396,7 @@
     "lng": 113.89284
   },
   "NLB:43": {
-    "stop_id": 43,
+    "stop_id": "43",
     "company": "NLB",
     "name": {
       "en": "Sham Wat Road Junction",
@@ -174396,7 +174407,7 @@
     "lng": 113.892237
   },
   "NLB:60": {
-    "stop_id": 60,
+    "stop_id": "60",
     "company": "NLB",
     "name": {
       "en": "Ngong Ping Village",
@@ -174407,7 +174418,7 @@
     "lng": 113.903981
   },
   "NLB:318": {
-    "stop_id": 318,
+    "stop_id": "318",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Tat Tung Road Bus Terminus",
@@ -174418,7 +174429,7 @@
     "lng": 113.939352
   },
   "NLB:289": {
-    "stop_id": 289,
+    "stop_id": "289",
     "company": "NLB",
     "name": {
       "en": "Yat Tung Estate",
@@ -174429,7 +174440,7 @@
     "lng": 113.935862
   },
   "NLB:90": {
-    "stop_id": 90,
+    "stop_id": "90",
     "company": "NLB",
     "name": {
       "en": "Yu Tai Court",
@@ -174440,7 +174451,7 @@
     "lng": 113.941064
   },
   "NLB:91": {
-    "stop_id": 91,
+    "stop_id": "91",
     "company": "NLB",
     "name": {
       "en": "Chek Lap Kok New Village",
@@ -174451,7 +174462,7 @@
     "lng": 113.941996
   },
   "NLB:92": {
-    "stop_id": 92,
+    "stop_id": "92",
     "company": "NLB",
     "name": {
       "en": "Shek Mun Kap Village",
@@ -174462,7 +174473,7 @@
     "lng": 113.931996
   },
   "NLB:291": {
-    "stop_id": 291,
+    "stop_id": "291",
     "company": "NLB",
     "name": {
       "en": "Shek Mun Kap",
@@ -174473,7 +174484,7 @@
     "lng": 113.931185
   },
   "NLB:93": {
-    "stop_id": 93,
+    "stop_id": "93",
     "company": "NLB",
     "name": {
       "en": "Shek Mun Kap",
@@ -174484,7 +174495,7 @@
     "lng": 113.931185
   },
   "NLB:292": {
-    "stop_id": 292,
+    "stop_id": "292",
     "company": "NLB",
     "name": {
       "en": "Shek Mun Kap Village",
@@ -174495,7 +174506,7 @@
     "lng": 113.931978
   },
   "NLB:89": {
-    "stop_id": 89,
+    "stop_id": "89",
     "company": "NLB",
     "name": {
       "en": "Yat Tung Estate",
@@ -174506,7 +174517,7 @@
     "lng": 113.935862
   },
   "NLB:100": {
-    "stop_id": 100,
+    "stop_id": "100",
     "company": "NLB",
     "name": {
       "en": "Citygate",
@@ -174517,7 +174528,7 @@
     "lng": 113.941474
   },
   "NLB:295": {
-    "stop_id": 295,
+    "stop_id": "295",
     "company": "NLB",
     "name": {
       "en": "Pak Mong",
@@ -174528,7 +174539,7 @@
     "lng": 113.96758
   },
   "NLB:98": {
-    "stop_id": 98,
+    "stop_id": "98",
     "company": "NLB",
     "name": {
       "en": "Government Maintenance Depot",
@@ -174539,7 +174550,7 @@
     "lng": 113.989451
   },
   "NLB:95": {
-    "stop_id": 95,
+    "stop_id": "95",
     "company": "NLB",
     "name": {
       "en": "Siu Ho Wan",
@@ -174550,7 +174561,7 @@
     "lng": 113.997975
   },
   "NLB:327": {
-    "stop_id": 327,
+    "stop_id": "327",
     "company": "NLB",
     "name": {
       "en": "Disneyland",
@@ -174561,7 +174572,7 @@
     "lng": 114.045732
   },
   "NLB:328": {
-    "stop_id": 328,
+    "stop_id": "328",
     "company": "NLB",
     "name": {
       "en": "Disneyland",
@@ -174572,7 +174583,7 @@
     "lng": 114.045732
   },
   "NLB:293": {
-    "stop_id": 293,
+    "stop_id": "293",
     "company": "NLB",
     "name": {
       "en": "Siu Ho Wan",
@@ -174583,7 +174594,7 @@
     "lng": 113.997975
   },
   "NLB:96": {
-    "stop_id": 96,
+    "stop_id": "96",
     "company": "NLB",
     "name": {
       "en": "Siu Ho Wan Water Treatment Works",
@@ -174594,7 +174605,7 @@
     "lng": 113.995734
   },
   "NLB:97": {
-    "stop_id": 97,
+    "stop_id": "97",
     "company": "NLB",
     "name": {
       "en": "Discovery Bay Tunnel",
@@ -174605,7 +174616,7 @@
     "lng": 113.990584
   },
   "NLB:294": {
-    "stop_id": 294,
+    "stop_id": "294",
     "company": "NLB",
     "name": {
       "en": "Government Maintenance Depot",
@@ -174616,7 +174627,7 @@
     "lng": 113.989254
   },
   "NLB:99": {
-    "stop_id": 99,
+    "stop_id": "99",
     "company": "NLB",
     "name": {
       "en": "Pak Mong",
@@ -174627,7 +174638,7 @@
     "lng": 113.96758
   },
   "NLB:349": {
-    "stop_id": 349,
+    "stop_id": "349",
     "company": "NLB",
     "name": {
       "en": "Cheung Tung Estate",
@@ -174638,7 +174649,7 @@
     "lng": 113.952113
   },
   "NLB:343": {
-    "stop_id": 343,
+    "stop_id": "343",
     "company": "NLB",
     "name": {
       "en": "Cheung Yuet House, Cheung Tung Estate",
@@ -174649,7 +174660,7 @@
     "lng": 113.95392066
   },
   "NLB:342": {
-    "stop_id": 342,
+    "stop_id": "342",
     "company": "NLB",
     "name": {
       "en": "Wui Tung Street",
@@ -174660,7 +174671,7 @@
     "lng": 113.95193348
   },
   "NLB:329": {
-    "stop_id": 329,
+    "stop_id": "329",
     "company": "NLB",
     "name": {
       "en": "Yu Nga Court",
@@ -174671,7 +174682,7 @@
     "lng": 113.948465
   },
   "NLB:330": {
-    "stop_id": 330,
+    "stop_id": "330",
     "company": "NLB",
     "name": {
       "en": "Yu Nga Shopping Mall",
@@ -174682,7 +174693,7 @@
     "lng": 113.946728
   },
   "NLB:339": {
-    "stop_id": 339,
+    "stop_id": "339",
     "company": "NLB",
     "name": {
       "en": "Sunny Bay Station",
@@ -174693,7 +174704,7 @@
     "lng": 114.02855728
   },
   "NLB:309": {
-    "stop_id": 309,
+    "stop_id": "309",
     "company": "NLB",
     "name": {
       "en": "Mun Tung Estate",
@@ -174704,7 +174715,7 @@
     "lng": 113.933203
   },
   "NLB:306": {
-    "stop_id": 306,
+    "stop_id": "306",
     "company": "NLB",
     "name": {
       "en": "Yung Yat House, Yat Tung Estate",
@@ -174715,7 +174726,7 @@
     "lng": 113.936995
   },
   "NLB:101": {
-    "stop_id": 101,
+    "stop_id": "101",
     "company": "NLB",
     "name": {
       "en": "Chung Yat Street",
@@ -174726,7 +174737,7 @@
     "lng": 113.931823
   },
   "NLB:102": {
-    "stop_id": 102,
+    "stop_id": "102",
     "company": "NLB",
     "name": {
       "en": "Chung Mun Road",
@@ -174737,7 +174748,7 @@
     "lng": 113.9317
   },
   "NLB:103": {
-    "stop_id": 103,
+    "stop_id": "103",
     "company": "NLB",
     "name": {
       "en": "Fuk Yat House, Yat Tung Estate",
@@ -174748,7 +174759,7 @@
     "lng": 113.934651
   },
   "NLB:104": {
-    "stop_id": 104,
+    "stop_id": "104",
     "company": "NLB",
     "name": {
       "en": "Yung Yat House, Yat Tung Estate",
@@ -174759,7 +174770,7 @@
     "lng": 113.936712
   },
   "NLB:107": {
-    "stop_id": 107,
+    "stop_id": "107",
     "company": "NLB",
     "name": {
       "en": "Seaview Crescent",
@@ -174770,7 +174781,7 @@
     "lng": 113.943471
   },
   "NLB:108": {
-    "stop_id": 108,
+    "stop_id": "108",
     "company": "NLB",
     "name": {
       "en": "Coastal Skyline",
@@ -174781,7 +174792,7 @@
     "lng": 113.945931
   },
   "NLB:186": {
-    "stop_id": 186,
+    "stop_id": "186",
     "company": "NLB",
     "name": {
       "en": "Caribbean Coast Phase 3",
@@ -174792,7 +174803,7 @@
     "lng": 113.948975
   },
   "NLB:109": {
-    "stop_id": 109,
+    "stop_id": "109",
     "company": "NLB",
     "name": {
       "en": "Caribbean Coast Phase 2",
@@ -174803,7 +174814,7 @@
     "lng": 113.95001
   },
   "NLB:110": {
-    "stop_id": 110,
+    "stop_id": "110",
     "company": "NLB",
     "name": {
       "en": "Kin Tung Road",
@@ -174814,7 +174825,7 @@
     "lng": 113.94941
   },
   "NLB:190": {
-    "stop_id": 190,
+    "stop_id": "190",
     "company": "NLB",
     "name": {
       "en": "The Visionary(North Bound)",
@@ -174825,7 +174836,7 @@
     "lng": 113.951907
   },
   "NLB:193": {
-    "stop_id": 193,
+    "stop_id": "193",
     "company": "NLB",
     "name": {
       "en": "Ying Tung Estate",
@@ -174836,7 +174847,7 @@
     "lng": 113.953342
   },
   "NLB:297": {
-    "stop_id": 297,
+    "stop_id": "297",
     "company": "NLB",
     "name": {
       "en": "Ying Tung Estate",
@@ -174847,7 +174858,7 @@
     "lng": 113.953342
   },
   "NLB:191": {
-    "stop_id": 191,
+    "stop_id": "191",
     "company": "NLB",
     "name": {
       "en": "The Visionary (South Bound)",
@@ -174858,7 +174869,7 @@
     "lng": 113.952077
   },
   "NLB:298": {
-    "stop_id": 298,
+    "stop_id": "298",
     "company": "NLB",
     "name": {
       "en": "Caribbean Coast Phase 2",
@@ -174869,7 +174880,7 @@
     "lng": 113.95049
   },
   "NLB:111": {
-    "stop_id": 111,
+    "stop_id": "111",
     "company": "NLB",
     "name": {
       "en": "Yi Tung Road",
@@ -174880,7 +174891,7 @@
     "lng": 113.948012
   },
   "NLB:112": {
-    "stop_id": 112,
+    "stop_id": "112",
     "company": "NLB",
     "name": {
       "en": "E Wun Secondary School",
@@ -174891,7 +174902,7 @@
     "lng": 113.944611
   },
   "NLB:299": {
-    "stop_id": 299,
+    "stop_id": "299",
     "company": "NLB",
     "name": {
       "en": "Seaview Crescent",
@@ -174902,7 +174913,7 @@
     "lng": 113.943179
   },
   "NLB:310": {
-    "stop_id": 310,
+    "stop_id": "310",
     "company": "NLB",
     "name": {
       "en": "Mun Tung Estate",
@@ -174913,7 +174924,7 @@
     "lng": 113.934556
   },
   "NLB:88": {
-    "stop_id": 88,
+    "stop_id": "88",
     "company": "NLB",
     "name": {
       "en": "Kui Yat House, Yat Tung Estate",
@@ -174924,7 +174935,7 @@
     "lng": 113.936576
   },
   "NLB:321": {
-    "stop_id": 321,
+    "stop_id": "321",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Cable Car Terminal",
@@ -174935,7 +174946,7 @@
     "lng": 113.93846231
   },
   "NLB:331": {
-    "stop_id": 331,
+    "stop_id": "331",
     "company": "NLB",
     "name": {
       "en": "Yu Nga Court",
@@ -174946,7 +174957,7 @@
     "lng": 113.948482
   },
   "NLB:341": {
-    "stop_id": 341,
+    "stop_id": "341",
     "company": "NLB",
     "name": {
       "en": "Wui Tung Street",
@@ -174957,7 +174968,7 @@
     "lng": 113.95191068
   },
   "NLB:350": {
-    "stop_id": 350,
+    "stop_id": "350",
     "company": "NLB",
     "name": {
       "en": "Cheung Tung Estate",
@@ -174968,7 +174979,7 @@
     "lng": 113.952113
   },
   "NLB:106": {
-    "stop_id": 106,
+    "stop_id": "106",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Development Ferry Pier",
@@ -174979,7 +174990,7 @@
     "lng": 113.940449
   },
   "NLB:188": {
-    "stop_id": 188,
+    "stop_id": "188",
     "company": "NLB",
     "name": {
       "en": "North Lantau Hospital(Main Block)",
@@ -174990,7 +175001,7 @@
     "lng": 113.939269
   },
   "NLB:320": {
-    "stop_id": 320,
+    "stop_id": "320",
     "company": "NLB",
     "name": {
       "en": "North Lantau Hospital (North Bound), Mei Yat House Yat Tung Estate",
@@ -175001,7 +175012,7 @@
     "lng": 113.938822
   },
   "NLB:322": {
-    "stop_id": 322,
+    "stop_id": "322",
     "company": "NLB",
     "name": {
       "en": "North Lantau Hospital (South Bound)",
@@ -175012,7 +175023,7 @@
     "lng": 113.938803
   },
   "NLB:332": {
-    "stop_id": 332,
+    "stop_id": "332",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Station Bus Terminus",
@@ -175023,7 +175034,7 @@
     "lng": 113.939616
   },
   "NLB:319": {
-    "stop_id": 319,
+    "stop_id": "319",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Development Ferry Pier",
@@ -175034,7 +175045,7 @@
     "lng": 113.940449
   },
   "NLB:194": {
-    "stop_id": 194,
+    "stop_id": "194",
     "company": "NLB",
     "name": {
       "en": "Caribbean Coast Phase 1",
@@ -175045,7 +175056,7 @@
     "lng": 113.951816
   },
   "NLB:192": {
-    "stop_id": 192,
+    "stop_id": "192",
     "company": "NLB",
     "name": {
       "en": "Ying Hei Road",
@@ -175056,7 +175067,7 @@
     "lng": 113.949996
   },
   "NLB:340": {
-    "stop_id": 340,
+    "stop_id": "340",
     "company": "NLB",
     "name": {
       "en": "Tung Chung Community Liaison Centre",
@@ -175067,7 +175078,7 @@
     "lng": 113.94377257
   },
   "NLB:324": {
-    "stop_id": 324,
+    "stop_id": "324",
     "company": "NLB",
     "name": {
       "en": "Yu Nga Court",
@@ -175078,7 +175089,7 @@
     "lng": 113.947254
   },
   "NLB:303": {
-    "stop_id": 303,
+    "stop_id": "303",
     "company": "NLB",
     "name": {
       "en": "Century Link",
@@ -175089,7 +175100,7 @@
     "lng": 113.949071
   },
   "NLB:315": {
-    "stop_id": 315,
+    "stop_id": "315",
     "company": "NLB",
     "name": {
       "en": "Caribbean Coast",
@@ -175100,7 +175111,7 @@
     "lng": 113.94941
   },
   "NLB:105": {
-    "stop_id": 105,
+    "stop_id": "105",
     "company": "NLB",
     "name": {
       "en": "Tung Chung MTR Station",
@@ -175111,7 +175122,7 @@
     "lng": 113.94021
   },
   "NLB:181": {
-    "stop_id": 181,
+    "stop_id": "181",
     "company": "NLB",
     "name": {
       "en": "Tong Fuk",
@@ -175122,7 +175133,7 @@
     "lng": 113.932289
   },
   "NLB:114": {
-    "stop_id": 114,
+    "stop_id": "114",
     "company": "NLB",
     "name": {
       "en": "Aviation Fuel Tank Farm",
@@ -175133,7 +175144,7 @@
     "lng": 113.932129
   },
   "NLB:115": {
-    "stop_id": 115,
+    "stop_id": "115",
     "company": "NLB",
     "name": {
       "en": "Cathay City",
@@ -175144,7 +175155,7 @@
     "lng": 113.932814
   },
   "NLB:116": {
-    "stop_id": 116,
+    "stop_id": "116",
     "company": "NLB",
     "name": {
       "en": "Gate House No. 2",
@@ -175155,7 +175166,7 @@
     "lng": 113.937107
   },
   "NLB:117": {
-    "stop_id": 117,
+    "stop_id": "117",
     "company": "NLB",
     "name": {
       "en": "Airport (Passenger Terminal Building)",
@@ -175166,7 +175177,7 @@
     "lng": 113.93661
   },
   "NLB:335": {
-    "stop_id": 335,
+    "stop_id": "335",
     "company": "NLB",
     "name": {
       "en": "Skycity Transport Terminal",
@@ -175177,7 +175188,7 @@
     "lng": 113.941627
   },
   "NLB:308": {
-    "stop_id": 308,
+    "stop_id": "308",
     "company": "NLB",
     "name": {
       "en": "HZMB Hong Kong Port Passenger Clearance Building",
@@ -175188,7 +175199,7 @@
     "lng": 113.950531
   },
   "NLB:313": {
-    "stop_id": 313,
+    "stop_id": "313",
     "company": "NLB",
     "name": {
       "en": "HZMB Hong Kong Port",
@@ -175199,7 +175210,7 @@
     "lng": 113.950856
   },
   "NLB:307": {
-    "stop_id": 307,
+    "stop_id": "307",
     "company": "NLB",
     "name": {
       "en": "HZMB Hong Kong Port",
@@ -175210,7 +175221,7 @@
     "lng": 113.950856
   },
   "NLB:118": {
-    "stop_id": 118,
+    "stop_id": "118",
     "company": "NLB",
     "name": {
       "en": "Cheong Tat Road",
@@ -175221,7 +175232,7 @@
     "lng": 113.935948
   },
   "NLB:120": {
-    "stop_id": 120,
+    "stop_id": "120",
     "company": "NLB",
     "name": {
       "en": "Regal Airport Hotel",
@@ -175232,7 +175243,7 @@
     "lng": 113.933942
   },
   "NLB:274": {
-    "stop_id": 274,
+    "stop_id": "274",
     "company": "NLB",
     "name": {
       "en": "Cathay City",
@@ -175243,7 +175254,7 @@
     "lng": 113.93336
   },
   "NLB:277": {
-    "stop_id": 277,
+    "stop_id": "277",
     "company": "NLB",
     "name": {
       "en": "Aviation Fuel Tank Farm",
@@ -175254,7 +175265,7 @@
     "lng": 113.932229
   },
   "NLB:351": {
-    "stop_id": 351,
+    "stop_id": "351",
     "company": "NLB",
     "name": {
       "en": "Wu Kai Sha Station",
@@ -175265,7 +175276,7 @@
     "lng": 114.24313291
   },
   "NLB:352": {
-    "stop_id": 352,
+    "stop_id": "352",
     "company": "NLB",
     "name": {
       "en": "Lee On Estate",
@@ -175276,7 +175287,7 @@
     "lng": 114.24057336
   },
   "NLB:353": {
-    "stop_id": 353,
+    "stop_id": "353",
     "company": "NLB",
     "name": {
       "en": "Saddle Ridge Garden",
@@ -175287,7 +175298,7 @@
     "lng": 114.23557936
   },
   "NLB:354": {
-    "stop_id": 354,
+    "stop_id": "354",
     "company": "NLB",
     "name": {
       "en": "Ma On Shan Town Centre",
@@ -175298,7 +175309,7 @@
     "lng": 114.23161476
   },
   "NLB:355": {
-    "stop_id": 355,
+    "stop_id": "355",
     "company": "NLB",
     "name": {
       "en": "Fok On Garden",
@@ -175309,7 +175320,7 @@
     "lng": 114.22830905
   },
   "NLB:356": {
-    "stop_id": 356,
+    "stop_id": "356",
     "company": "NLB",
     "name": {
       "en": "Yiu On Estate",
@@ -175320,7 +175331,7 @@
     "lng": 114.22960321
   },
   "NLB:357": {
-    "stop_id": 357,
+    "stop_id": "357",
     "company": "NLB",
     "name": {
       "en": "Yiu Him House, Yiu On Estate",
@@ -175331,7 +175342,7 @@
     "lng": 114.23111059
   },
   "NLB:358": {
-    "stop_id": 358,
+    "stop_id": "358",
     "company": "NLB",
     "name": {
       "en": "Kam Chun Court",
@@ -175342,7 +175353,7 @@
     "lng": 114.22688
   },
   "NLB:359": {
-    "stop_id": 359,
+    "stop_id": "359",
     "company": "NLB",
     "name": {
       "en": "Ma Liu Shui Public Pier",
@@ -175353,7 +175364,7 @@
     "lng": 114.21373468
   },
   "NLB:360": {
-    "stop_id": 360,
+    "stop_id": "360",
     "company": "NLB",
     "name": {
       "en": "Water Sports Centre",
@@ -175364,7 +175375,7 @@
     "lng": 114.21403458
   },
   "NLB:361": {
-    "stop_id": 361,
+    "stop_id": "361",
     "company": "NLB",
     "name": {
       "en": "Hong Kong Institute of Biotechnology",
@@ -175375,7 +175386,7 @@
     "lng": 114.2138654
   },
   "NLB:362": {
-    "stop_id": 362,
+    "stop_id": "362",
     "company": "NLB",
     "name": {
       "en": "Science Park Phase 1",
@@ -175386,7 +175397,7 @@
     "lng": 114.21138823
   },
   "NLB:363": {
-    "stop_id": 363,
+    "stop_id": "363",
     "company": "NLB",
     "name": {
       "en": "Fo Yin Road",
@@ -175397,7 +175408,7 @@
     "lng": 114.20795718
   },
   "NLB:364": {
-    "stop_id": 364,
+    "stop_id": "364",
     "company": "NLB",
     "name": {
       "en": "St Martin",
@@ -175408,7 +175419,7 @@
     "lng": 114.20351042
   },
   "NLB:365": {
-    "stop_id": 365,
+    "stop_id": "365",
     "company": "NLB",
     "name": {
       "en": "Pak Shek Kok",
@@ -175419,7 +175430,7 @@
     "lng": 114.20146355
   },
   "NLB:366": {
-    "stop_id": 366,
+    "stop_id": "366",
     "company": "NLB",
     "name": {
       "en": "Pak Shek Kok Substation",
@@ -175430,7 +175441,7 @@
     "lng": 114.20081483
   },
   "NLB:367": {
-    "stop_id": 367,
+    "stop_id": "367",
     "company": "NLB",
     "name": {
       "en": "Kwong Chi House Kwong Fuk Estate",
@@ -175441,7 +175452,7 @@
     "lng": 114.17198978
   },
   "NLB:368": {
-    "stop_id": 368,
+    "stop_id": "368",
     "company": "NLB",
     "name": {
       "en": "Kwong Fuk Playground",
@@ -175452,7 +175463,7 @@
     "lng": 114.1720924
   },
   "NLB:369": {
-    "stop_id": 369,
+    "stop_id": "369",
     "company": "NLB",
     "name": {
       "en": "Kwong Fuk Estate",
@@ -175463,7 +175474,7 @@
     "lng": 114.17353082
   },
   "NLB:370": {
-    "stop_id": 370,
+    "stop_id": "370",
     "company": "NLB",
     "name": {
       "en": "San Tin Public Transport Interchange",
@@ -175474,7 +175485,7 @@
     "lng": 114.08236259
   },
   "NLB:371": {
-    "stop_id": 371,
+    "stop_id": "371",
     "company": "NLB",
     "name": {
       "en": "Huanggang Port",
@@ -175485,7 +175496,7 @@
     "lng": 114.068583
   },
   "NLB:372": {
-    "stop_id": 372,
+    "stop_id": "372",
     "company": "NLB",
     "name": {
       "en": "Huanggang Port",
@@ -175496,7 +175507,7 @@
     "lng": 114.068583
   },
   "NLB:373": {
-    "stop_id": 373,
+    "stop_id": "373",
     "company": "NLB",
     "name": {
       "en": "Kwong Fuk Estate",
@@ -175507,7 +175518,7 @@
     "lng": 114.1730287
   },
   "NLB:374": {
-    "stop_id": 374,
+    "stop_id": "374",
     "company": "NLB",
     "name": {
       "en": "Kwong Fuk Playground",
@@ -175518,7 +175529,7 @@
     "lng": 114.17186782
   },
   "NLB:375": {
-    "stop_id": 375,
+    "stop_id": "375",
     "company": "NLB",
     "name": {
       "en": "Lam Tsuen River",
@@ -175529,7 +175540,7 @@
     "lng": 114.17171048
   },
   "NLB:376": {
-    "stop_id": 376,
+    "stop_id": "376",
     "company": "NLB",
     "name": {
       "en": "Pak Shek Kok Substation",
@@ -175540,7 +175551,7 @@
     "lng": 114.2014816
   },
   "NLB:377": {
-    "stop_id": 377,
+    "stop_id": "377",
     "company": "NLB",
     "name": {
       "en": "Providence Bay",
@@ -175551,7 +175562,7 @@
     "lng": 114.20141646
   },
   "NLB:378": {
-    "stop_id": 378,
+    "stop_id": "378",
     "company": "NLB",
     "name": {
       "en": "St Martin",
@@ -175562,7 +175573,7 @@
     "lng": 114.20366736
   },
   "NLB:379": {
-    "stop_id": 379,
+    "stop_id": "379",
     "company": "NLB",
     "name": {
       "en": "Chong San Road",
@@ -175573,7 +175584,7 @@
     "lng": 114.20512672
   },
   "NLB:380": {
-    "stop_id": 380,
+    "stop_id": "380",
     "company": "NLB",
     "name": {
       "en": "Fo Yin Road",
@@ -175584,7 +175595,7 @@
     "lng": 114.20886416
   },
   "NLB:381": {
-    "stop_id": 381,
+    "stop_id": "381",
     "company": "NLB",
     "name": {
       "en": "Science Park Phase 1",
@@ -175595,7 +175606,7 @@
     "lng": 114.21153189
   },
   "NLB:382": {
-    "stop_id": 382,
+    "stop_id": "382",
     "company": "NLB",
     "name": {
       "en": "Hong Kong Institute of Biotechnology",
@@ -175606,7 +175617,7 @@
     "lng": 114.21416952
   },
   "NLB:383": {
-    "stop_id": 383,
+    "stop_id": "383",
     "company": "NLB",
     "name": {
       "en": "Water Sports Centre",
@@ -175617,7 +175628,7 @@
     "lng": 114.21426129
   },
   "NLB:384": {
-    "stop_id": 384,
+    "stop_id": "384",
     "company": "NLB",
     "name": {
       "en": "Ma Liu Shui Public Pier",
@@ -175628,7 +175639,7 @@
     "lng": 114.2139128
   },
   "NLB:385": {
-    "stop_id": 385,
+    "stop_id": "385",
     "company": "NLB",
     "name": {
       "en": "Kam Chun Court",
@@ -175639,7 +175650,7 @@
     "lng": 114.22410685
   },
   "NLB:386": {
-    "stop_id": 386,
+    "stop_id": "386",
     "company": "NLB",
     "name": {
       "en": "Heng On Estate",
@@ -175650,7 +175661,7 @@
     "lng": 114.23047448
   },
   "NLB:387": {
-    "stop_id": 387,
+    "stop_id": "387",
     "company": "NLB",
     "name": {
       "en": "Ma On Shan Sports Ground",
@@ -175661,7 +175672,7 @@
     "lng": 114.22854914
   },
   "NLB:388": {
-    "stop_id": 388,
+    "stop_id": "388",
     "company": "NLB",
     "name": {
       "en": "Fok On Garden",
@@ -175672,7 +175683,7 @@
     "lng": 114.22826077
   },
   "NLB:389": {
-    "stop_id": 389,
+    "stop_id": "389",
     "company": "NLB",
     "name": {
       "en": "Bayshore Towers",
@@ -175683,7 +175694,7 @@
     "lng": 114.23150585
   },
   "NLB:390": {
-    "stop_id": 390,
+    "stop_id": "390",
     "company": "NLB",
     "name": {
       "en": "Villa Athena",
@@ -175694,7 +175705,7 @@
     "lng": 114.23638938
   },
   "NLB:391": {
-    "stop_id": 391,
+    "stop_id": "391",
     "company": "NLB",
     "name": {
       "en": "Lee On Estate",
@@ -175705,7 +175716,7 @@
     "lng": 114.24030327
   },
   "NLB:392": {
-    "stop_id": 392,
+    "stop_id": "392",
     "company": "NLB",
     "name": {
       "en": "Wu Kai Sha Station",
@@ -175716,7 +175727,7 @@
     "lng": 114.24313286
   },
   "NLB:161": {
-    "stop_id": 161,
+    "stop_id": "161",
     "company": "NLB",
     "name": {
       "en": "Yuen Long MTR Station",
@@ -175727,7 +175738,7 @@
     "lng": 114.034816
   },
   "NLB:135": {
-    "stop_id": 135,
+    "stop_id": "135",
     "company": "NLB",
     "name": {
       "en": "Yau San Street",
@@ -175738,7 +175749,7 @@
     "lng": 114.031252
   },
   "NLB:136": {
-    "stop_id": 136,
+    "stop_id": "136",
     "company": "NLB",
     "name": {
       "en": "Tai Tong Road",
@@ -175749,7 +175760,7 @@
     "lng": 114.028255
   },
   "NLB:137": {
-    "stop_id": 137,
+    "stop_id": "137",
     "company": "NLB",
     "name": {
       "en": "Yuen Long Police Station",
@@ -175760,7 +175771,7 @@
     "lng": 114.024085
   },
   "NLB:138": {
-    "stop_id": 138,
+    "stop_id": "138",
     "company": "NLB",
     "name": {
       "en": "Shui Pin Tsuen",
@@ -175771,7 +175782,7 @@
     "lng": 114.020781
   },
   "NLB:139": {
-    "stop_id": 139,
+    "stop_id": "139",
     "company": "NLB",
     "name": {
       "en": "Yuen Long Park",
@@ -175782,7 +175793,7 @@
     "lng": 114.019013
   },
   "NLB:140": {
-    "stop_id": 140,
+    "stop_id": "140",
     "company": "NLB",
     "name": {
       "en": "Long Bin",
@@ -175793,7 +175804,7 @@
     "lng": 114.014799
   },
   "NLB:141": {
-    "stop_id": 141,
+    "stop_id": "141",
     "company": "NLB",
     "name": {
       "en": "Ping Shan",
@@ -175804,7 +175815,7 @@
     "lng": 114.010378
   },
   "NLB:142": {
-    "stop_id": 142,
+    "stop_id": "142",
     "company": "NLB",
     "name": {
       "en": "San Hei Tsuen",
@@ -175815,7 +175826,7 @@
     "lng": 114.007636
   },
   "NLB:197": {
-    "stop_id": 197,
+    "stop_id": "197",
     "company": "NLB",
     "name": {
       "en": "Fui Sha Wai",
@@ -175826,7 +175837,7 @@
     "lng": 114.005404
   },
   "NLB:199": {
-    "stop_id": 199,
+    "stop_id": "199",
     "company": "NLB",
     "name": {
       "en": "Tai Tao Tsuen",
@@ -175837,7 +175848,7 @@
     "lng": 114.002115
   },
   "NLB:302": {
-    "stop_id": 302,
+    "stop_id": "302",
     "company": "NLB",
     "name": {
       "en": "Uptown",
@@ -175848,7 +175859,7 @@
     "lng": 114.000314
   },
   "NLB:200": {
-    "stop_id": 200,
+    "stop_id": "200",
     "company": "NLB",
     "name": {
       "en": "Hung Shui Kiu LTR Station",
@@ -175859,7 +175870,7 @@
     "lng": 113.997815
   },
   "NLB:201": {
-    "stop_id": 201,
+    "stop_id": "201",
     "company": "NLB",
     "name": {
       "en": "Chung Uk Tsuen LTR Station",
@@ -175870,7 +175881,7 @@
     "lng": 113.992587
   },
   "NLB:195": {
-    "stop_id": 195,
+    "stop_id": "195",
     "company": "NLB",
     "name": {
       "en": "Yick Yuen Tsuen",
@@ -175881,7 +175892,7 @@
     "lng": 113.990366
   },
   "NLB:148": {
-    "stop_id": 148,
+    "stop_id": "148",
     "company": "NLB",
     "name": {
       "en": "Nai Wai",
@@ -175892,7 +175903,7 @@
     "lng": 113.986796
   },
   "NLB:149": {
-    "stop_id": 149,
+    "stop_id": "149",
     "company": "NLB",
     "name": {
       "en": "Fuk Hang Tsuen",
@@ -175903,7 +175914,7 @@
     "lng": 113.98564
   },
   "NLB:150": {
-    "stop_id": 150,
+    "stop_id": "150",
     "company": "NLB",
     "name": {
       "en": "Miu Fat Buddhist Monastery",
@@ -175914,7 +175925,7 @@
     "lng": 113.983878
   },
   "NLB:151": {
-    "stop_id": 151,
+    "stop_id": "151",
     "company": "NLB",
     "name": {
       "en": "Lam Tei LTR Station",
@@ -175925,7 +175936,7 @@
     "lng": 113.982385
   },
   "NLB:152": {
-    "stop_id": 152,
+    "stop_id": "152",
     "company": "NLB",
     "name": {
       "en": "Shenzhen Bay Port",
@@ -175936,7 +175947,7 @@
     "lng": 113.950509
   },
   "NLB:196": {
-    "stop_id": 196,
+    "stop_id": "196",
     "company": "NLB",
     "name": {
       "en": "Lam Tei LTR Station",
@@ -175947,7 +175958,7 @@
     "lng": 113.982146
   },
   "NLB:153": {
-    "stop_id": 153,
+    "stop_id": "153",
     "company": "NLB",
     "name": {
       "en": "Tsing Chuen Wai",
@@ -175958,7 +175969,7 @@
     "lng": 113.985305
   },
   "NLB:154": {
-    "stop_id": 154,
+    "stop_id": "154",
     "company": "NLB",
     "name": {
       "en": "Nai Wai LTR Station",
@@ -175969,7 +175980,7 @@
     "lng": 113.986313
   },
   "NLB:147": {
-    "stop_id": 147,
+    "stop_id": "147",
     "company": "NLB",
     "name": {
       "en": "Yick Yuen Tsuen",
@@ -175980,7 +175991,7 @@
     "lng": 113.989728
   },
   "NLB:146": {
-    "stop_id": 146,
+    "stop_id": "146",
     "company": "NLB",
     "name": {
       "en": "Chung Uk Tsuen LTR Station",
@@ -175991,7 +176002,7 @@
     "lng": 113.992235
   },
   "NLB:145": {
-    "stop_id": 145,
+    "stop_id": "145",
     "company": "NLB",
     "name": {
       "en": "Hung Shui Kiu LTR Station",
@@ -176002,7 +176013,7 @@
     "lng": 113.99775
   },
   "NLB:144": {
-    "stop_id": 144,
+    "stop_id": "144",
     "company": "NLB",
     "name": {
       "en": "Tai Tao Tsuen",
@@ -176013,7 +176024,7 @@
     "lng": 114.001459
   },
   "NLB:143": {
-    "stop_id": 143,
+    "stop_id": "143",
     "company": "NLB",
     "name": {
       "en": "Fui Sha Wai",
@@ -176024,7 +176035,7 @@
     "lng": 114.004654
   },
   "NLB:155": {
-    "stop_id": 155,
+    "stop_id": "155",
     "company": "NLB",
     "name": {
       "en": "Tong Fong Tsuen LRT Station",
@@ -176035,7 +176046,7 @@
     "lng": 114.007312
   },
   "NLB:156": {
-    "stop_id": 156,
+    "stop_id": "156",
     "company": "NLB",
     "name": {
       "en": "Ping Shan LRT Station",
@@ -176046,7 +176057,7 @@
     "lng": 114.01293
   },
   "NLB:157": {
-    "stop_id": 157,
+    "stop_id": "157",
     "company": "NLB",
     "name": {
       "en": "Villa By The Park",
@@ -176057,7 +176068,7 @@
     "lng": 114.018189
   },
   "NLB:158": {
-    "stop_id": 158,
+    "stop_id": "158",
     "company": "NLB",
     "name": {
       "en": "Hi Lee Path",
@@ -176068,7 +176079,7 @@
     "lng": 114.025802
   },
   "NLB:159": {
-    "stop_id": 159,
+    "stop_id": "159",
     "company": "NLB",
     "name": {
       "en": "Tung Lok Street",
@@ -176079,7 +176090,7 @@
     "lng": 114.028225
   },
   "NLB:160": {
-    "stop_id": 160,
+    "stop_id": "160",
     "company": "NLB",
     "name": {
       "en": "Kuk Ting Street",
@@ -176090,7 +176101,7 @@
     "lng": 114.03023
   },
   "NLB:134": {
-    "stop_id": 134,
+    "stop_id": "134",
     "company": "NLB",
     "name": {
       "en": "Yuen Long MTR Station",
@@ -176101,7 +176112,7 @@
     "lng": 114.033888
   },
   "NLB:203": {
-    "stop_id": 203,
+    "stop_id": "203",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Wai (Tin Tsz Estate)",
@@ -176112,7 +176123,7 @@
     "lng": 114.007111
   },
   "NLB:163": {
-    "stop_id": 163,
+    "stop_id": "163",
     "company": "NLB",
     "name": {
       "en": "Harbour Plaza Resort City",
@@ -176123,7 +176134,7 @@
     "lng": 114.00326
   },
   "NLB:164": {
-    "stop_id": 164,
+    "stop_id": "164",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Wai Town Centre",
@@ -176134,7 +176145,7 @@
     "lng": 114.001994
   },
   "NLB:165": {
-    "stop_id": 165,
+    "stop_id": "165",
     "company": "NLB",
     "name": {
       "en": "Chestwood Court, Kingswood Villas",
@@ -176145,7 +176156,7 @@
     "lng": 113.999984
   },
   "NLB:205": {
-    "stop_id": 205,
+    "stop_id": "205",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Estate",
@@ -176156,7 +176167,7 @@
     "lng": 113.999434
   },
   "NLB:206": {
-    "stop_id": 206,
+    "stop_id": "206",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Wai Park",
@@ -176167,7 +176178,7 @@
     "lng": 114.003055
   },
   "NLB:168": {
-    "stop_id": 168,
+    "stop_id": "168",
     "company": "NLB",
     "name": {
       "en": "Yiu Shing House, Tin Yiu Estate",
@@ -176178,7 +176189,7 @@
     "lng": 114.002165
   },
   "NLB:169": {
-    "stop_id": 169,
+    "stop_id": "169",
     "company": "NLB",
     "name": {
       "en": "Yiu Man House, Tin Yiu Estate",
@@ -176189,7 +176200,7 @@
     "lng": 114.003174
   },
   "NLB:207": {
-    "stop_id": 207,
+    "stop_id": "207",
     "company": "NLB",
     "name": {
       "en": "Tin Shing Court",
@@ -176200,7 +176211,7 @@
     "lng": 114.003
   },
   "NLB:170": {
-    "stop_id": 170,
+    "stop_id": "170",
     "company": "NLB",
     "name": {
       "en": "Tin Shing Court",
@@ -176211,7 +176222,7 @@
     "lng": 114.002794
   },
   "NLB:171": {
-    "stop_id": 171,
+    "stop_id": "171",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Wai Police Station",
@@ -176222,7 +176233,7 @@
     "lng": 114.002504
   },
   "NLB:172": {
-    "stop_id": 172,
+    "stop_id": "172",
     "company": "NLB",
     "name": {
       "en": "Sherwood Court, Kingswood Villas",
@@ -176233,7 +176244,7 @@
     "lng": 114.002169
   },
   "NLB:167": {
-    "stop_id": 167,
+    "stop_id": "167",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Wai Park",
@@ -176244,7 +176255,7 @@
     "lng": 114.002543
   },
   "NLB:166": {
-    "stop_id": 166,
+    "stop_id": "166",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Estate",
@@ -176255,7 +176266,7 @@
     "lng": 113.998857
   },
   "NLB:173": {
-    "stop_id": 173,
+    "stop_id": "173",
     "company": "NLB",
     "name": {
       "en": "Tin Chung Court",
@@ -176266,7 +176277,7 @@
     "lng": 114.000079
   },
   "NLB:174": {
-    "stop_id": 174,
+    "stop_id": "174",
     "company": "NLB",
     "name": {
       "en": "Lynwood Court, Kingswood Villas",
@@ -176277,7 +176288,7 @@
     "lng": 114.003592
   },
   "NLB:175": {
-    "stop_id": 175,
+    "stop_id": "175",
     "company": "NLB",
     "name": {
       "en": "Kenswood Court, Kingswood Villas",
@@ -176288,7 +176299,7 @@
     "lng": 114.005797
   },
   "NLB:162": {
-    "stop_id": 162,
+    "stop_id": "162",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Wai (Tin Tsz Estate)",
@@ -176299,7 +176310,7 @@
     "lng": 114.007111
   },
   "NLB:176": {
-    "stop_id": 176,
+    "stop_id": "176",
     "company": "NLB",
     "name": {
       "en": "Tin Shui Wai (Tin Yiu Estate)",
@@ -176310,7 +176321,7 @@
     "lng": 114.003029
   },
   "NLB:316": {
-    "stop_id": 316,
+    "stop_id": "316",
     "company": "NLB",
     "name": {
       "en": "Tung Chung MTR Station",
@@ -176321,7 +176332,7 @@
     "lng": 113.94021
   },
   "NLB:121": {
-    "stop_id": 121,
+    "stop_id": "121",
     "company": "NLB",
     "name": {
       "en": "Chek Lap Kok South Road",
@@ -176332,7 +176343,7 @@
     "lng": 113.928251
   },
   "NLB:122": {
-    "stop_id": 122,
+    "stop_id": "122",
     "company": "NLB",
     "name": {
       "en": "Asia Airfreight Terminal",
@@ -176343,7 +176354,7 @@
     "lng": 113.920806
   },
   "NLB:124": {
-    "stop_id": 124,
+    "stop_id": "124",
     "company": "NLB",
     "name": {
       "en": "Airport Freight Forwarding Centre",
@@ -176354,7 +176365,7 @@
     "lng": 113.923329
   },
   "NLB:125": {
-    "stop_id": 125,
+    "stop_id": "125",
     "company": "NLB",
     "name": {
       "en": "HACTL",
@@ -176365,7 +176376,7 @@
     "lng": 113.929784
   },
   "NLB:187": {
-    "stop_id": 187,
+    "stop_id": "187",
     "company": "NLB",
     "name": {
       "en": "Chun Wan Road South",
@@ -176376,7 +176387,7 @@
     "lng": 113.928469
   },
   "NLB:126": {
-    "stop_id": 126,
+    "stop_id": "126",
     "company": "NLB",
     "name": {
       "en": "Airport Freight Forwarding Centre",
@@ -176387,7 +176398,7 @@
     "lng": 113.92434
   },
   "NLB:276": {
-    "stop_id": 276,
+    "stop_id": "276",
     "company": "NLB",
     "name": {
       "en": "Chek Lap Kok South Road",
@@ -176398,7 +176409,7 @@
     "lng": 113.928759
   },
   "NLB:333": {
-    "stop_id": 333,
+    "stop_id": "333",
     "company": "NLB",
     "name": {
       "en": "Sheraton Hong Kong Tung Chung Hotel",
@@ -176409,7 +176420,7 @@
     "lng": 113.946732
   },
   "NLB:334": {
-    "stop_id": 334,
+    "stop_id": "334",
     "company": "NLB",
     "name": {
       "en": "Sheraton Hong Kong Tung Chung Hotel",

@@ -54007,9 +54007,9 @@
       },
       {
         "DayType": "MF        ",
-        "BoundTime1": "30",
+        "BoundTime1": "25-30",
         "ServiceType_Eng": "",
-        "BoundText1": "08:50-15:20",
+        "BoundText1": "08:50-00:10",
         "Origin_Eng": "KWUN TONG (ELEGANCE ROAD)",
         "ServiceType": "01   ",
         "Destination_Chi": "寶達(循環線)",
@@ -54022,10 +54022,10 @@
         "ServiceType_Chi": ""
       },
       {
-        "DayType": "MF        ",
-        "BoundTime1": "20-25",
+        "DayType": "S         ",
+        "BoundTime1": "30",
         "ServiceType_Eng": "",
-        "BoundText1": "15:20-19:40",
+        "BoundText1": "05:35-23:35",
         "Origin_Eng": "KWUN TONG (ELEGANCE ROAD)",
         "ServiceType": "01   ",
         "Destination_Chi": "寶達(循環線)",
@@ -54038,10 +54038,10 @@
         "ServiceType_Chi": ""
       },
       {
-        "DayType": "MF        ",
-        "BoundTime1": "30",
+        "DayType": "S         ",
+        "BoundTime1": "35",
         "ServiceType_Eng": "",
-        "BoundText1": "19:40-00:10",
+        "BoundText1": "23:35-00:10",
         "Origin_Eng": "KWUN TONG (ELEGANCE ROAD)",
         "ServiceType": "01   ",
         "Destination_Chi": "寶達(循環線)",
@@ -54054,10 +54054,10 @@
         "ServiceType_Chi": ""
       },
       {
-        "DayType": "S         ",
-        "BoundTime1": "25-30",
+        "DayType": "H         ",
+        "BoundTime1": "30",
         "ServiceType_Eng": "",
-        "BoundText1": "05:35-00:10",
+        "BoundText1": "05:35-23:35",
         "Origin_Eng": "KWUN TONG (ELEGANCE ROAD)",
         "ServiceType": "01   ",
         "Destination_Chi": "寶達(循環線)",
@@ -54071,9 +54071,9 @@
       },
       {
         "DayType": "H         ",
-        "BoundTime1": "25-30",
+        "BoundTime1": "35",
         "ServiceType_Eng": "",
-        "BoundText1": "05:35-00:10",
+        "BoundText1": "23:35-00:10",
         "Origin_Eng": "KWUN TONG (ELEGANCE ROAD)",
         "ServiceType": "01   ",
         "Destination_Chi": "寶達(循環線)",
@@ -54091,27 +54091,11 @@
         "DayType": "MF        ",
         "BoundTime1": "",
         "ServiceType_Eng": "Originate from Po Tat Bus Terminus via Tseung Kwan",
-        "BoundText1": "07:30",
+        "BoundText1": "07:45",
         "Origin_Eng": "PO TAT",
         "ServiceType": "02   ",
         "Destination_Chi": "觀塘站",
         "OrderSeq": "8",
-        "Route": "13M",
-        "Destination_Eng": "KWUN TONG STATION",
-        "BoundTime2": "",
-        "Origin_Chi": "寶達",
-        "BoundText2": "",
-        "ServiceType_Chi": "由寶達總站開出經將軍澳道"
-      },
-      {
-        "DayType": "MF        ",
-        "BoundTime1": "",
-        "ServiceType_Eng": "Originate from Po Tat Bus Terminus via Tseung Kwan",
-        "BoundText1": "08:00",
-        "Origin_Eng": "PO TAT",
-        "ServiceType": "02   ",
-        "Destination_Chi": "觀塘站",
-        "OrderSeq": "9",
         "Route": "13M",
         "Destination_Eng": "KWUN TONG STATION",
         "BoundTime2": "",
@@ -64687,6 +64671,22 @@
         "ServiceType_Chi": ""
       },
       {
+        "DayType": "H         ",
+        "BoundTime1": "",
+        "ServiceType_Eng": "",
+        "BoundText1": "",
+        "Origin_Eng": "CHEUNG HANG",
+        "ServiceType": "01   ",
+        "Destination_Chi": "藍田站",
+        "OrderSeq": "17",
+        "Route": "42C",
+        "Destination_Eng": "LAM TIN STATION",
+        "BoundTime2": "",
+        "Origin_Chi": "長亨",
+        "BoundText2": "",
+        "ServiceType_Chi": ""
+      },
+      {
         "DayType": "MF        ",
         "BoundTime1": "",
         "ServiceType_Eng": "",
@@ -64697,9 +64697,9 @@
         "OrderSeq": "1",
         "Route": "42C",
         "Destination_Eng": "LAM TIN STATION",
-        "BoundTime2": "15",
+        "BoundTime2": "15-20",
         "Origin_Chi": "長亨",
-        "BoundText2": "05:35-06:20",
+        "BoundText2": "05:20-06:30",
         "ServiceType_Chi": ""
       },
       {
@@ -64715,7 +64715,7 @@
         "Destination_Eng": "LAM TIN STATION",
         "BoundTime2": "6 -12",
         "Origin_Chi": "長亨",
-        "BoundText2": "06:20-10:40",
+        "BoundText2": "06:30-10:40",
         "ServiceType_Chi": ""
       },
       {
@@ -64809,9 +64809,9 @@
         "OrderSeq": "8",
         "Route": "42C",
         "Destination_Eng": "LAM TIN STATION",
-        "BoundTime2": "12",
+        "BoundTime2": "12-15",
         "Origin_Chi": "長亨",
-        "BoundText2": "05:35-06:47",
+        "BoundText2": "05:20-06:47",
         "ServiceType_Chi": ""
       },
       {
@@ -64905,9 +64905,9 @@
         "OrderSeq": "14",
         "Route": "42C",
         "Destination_Eng": "LAM TIN STATION",
-        "BoundTime2": "15-20",
+        "BoundTime2": "25",
         "Origin_Chi": "長亨",
-        "BoundText2": "05:35-07:05",
+        "BoundText2": "05:20-06:10",
         "ServiceType_Chi": ""
       },
       {
@@ -64919,6 +64919,22 @@
         "ServiceType": "01   ",
         "Destination_Chi": "藍田站",
         "OrderSeq": "15",
+        "Route": "42C",
+        "Destination_Eng": "LAM TIN STATION",
+        "BoundTime2": "15-20",
+        "Origin_Chi": "長亨",
+        "BoundText2": "06:10-07:05",
+        "ServiceType_Chi": ""
+      },
+      {
+        "DayType": "H         ",
+        "BoundTime1": "",
+        "ServiceType_Eng": "",
+        "BoundText1": "",
+        "Origin_Eng": "CHEUNG HANG",
+        "ServiceType": "01   ",
+        "Destination_Chi": "藍田站",
+        "OrderSeq": "16",
         "Route": "42C",
         "Destination_Eng": "LAM TIN STATION",
         "BoundTime2": "10-12",
@@ -64934,7 +64950,7 @@
         "Origin_Eng": "CHEUNG HANG",
         "ServiceType": "01   ",
         "Destination_Chi": "藍田站",
-        "OrderSeq": "16",
+        "OrderSeq": "17",
         "Route": "42C",
         "Destination_Eng": "LAM TIN STATION",
         "BoundTime2": "15-20",
@@ -112991,9 +113007,9 @@
       },
       {
         "DayType": "MF        ",
-        "BoundTime1": "8",
+        "BoundTime1": "10-11",
         "ServiceType_Eng": "",
-        "BoundText1": "07:02-07:58",
+        "BoundText1": "07:02-08:05",
         "Origin_Eng": "LUNG MUN OASIS",
         "ServiceType": "01   ",
         "Destination_Chi": "鯉魚門邨",
@@ -113007,9 +113023,9 @@
       },
       {
         "DayType": "MF        ",
-        "BoundTime1": "12-15",
+        "BoundTime1": "15-16",
         "ServiceType_Eng": "",
-        "BoundText1": "07:58-09:40",
+        "BoundText1": "08:05-09:40",
         "Origin_Eng": "LUNG MUN OASIS",
         "ServiceType": "01   ",
         "Destination_Chi": "鯉魚門邨",
@@ -113304,9 +113320,9 @@
         "OrderSeq": "8",
         "Route": "259D",
         "Destination_Eng": "LEI YUE MUN ESTATE",
-        "BoundTime2": "10-15",
+        "BoundTime2": "12-15",
         "Origin_Chi": "龍門居",
-        "BoundText2": "15:25-21:35",
+        "BoundText2": "15:25-20:35",
         "ServiceType_Chi": ""
       },
       {
@@ -113322,7 +113338,7 @@
         "Destination_Eng": "LEI YUE MUN ESTATE",
         "BoundTime2": "20-25",
         "Origin_Chi": "龍門居",
-        "BoundText2": "21:35-01:00",
+        "BoundText2": "20:35-01:00",
         "ServiceType_Chi": ""
       },
       {
@@ -113368,9 +113384,9 @@
         "OrderSeq": "12",
         "Route": "259D",
         "Destination_Eng": "LEI YUE MUN ESTATE",
-        "BoundTime2": "15-20",
+        "BoundTime2": "20",
         "Origin_Chi": "龍門居",
-        "BoundText2": "07:05-22:30",
+        "BoundText2": "07:05-22:05",
         "ServiceType_Chi": ""
       },
       {
@@ -113386,7 +113402,7 @@
         "Destination_Eng": "LEI YUE MUN ESTATE",
         "BoundTime2": "25",
         "Origin_Chi": "龍門居",
-        "BoundText2": "22:30-01:00",
+        "BoundText2": "22:05-01:00",
         "ServiceType_Chi": ""
       }
     ]
@@ -131949,7 +131965,7 @@
       },
       {
         "DayType": "MF        ",
-        "BoundTime1": "20",
+        "BoundTime1": "20-25",
         "ServiceType_Eng": "Normal",
         "BoundText1": "07:20-00:20",
         "Origin_Eng": "CHOI MING",
@@ -132024,7 +132040,7 @@
         "Destination_Eng": "TSUEN WAN WEST STATION",
         "BoundTime2": "10-15",
         "Origin_Chi": "彩明",
-        "BoundText2": "17:20-17:55",
+        "BoundText2": "17:20-18:40",
         "ServiceType_Chi": ""
       },
       {
@@ -132038,9 +132054,9 @@
         "OrderSeq": "3",
         "Route": "290A",
         "Destination_Eng": "TSUEN WAN WEST STATION",
-        "BoundTime2": "15-20",
+        "BoundTime2": "20-25",
         "Origin_Chi": "彩明",
-        "BoundText2": "17:55-00:20",
+        "BoundText2": "18:40-00:20",
         "ServiceType_Chi": ""
       },
       {

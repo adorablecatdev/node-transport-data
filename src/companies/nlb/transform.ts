@@ -81,8 +81,8 @@ export function transformRoutes(
     out.push({
       record_id: nlbCompositeId(r.routeNo, r.routeId),
       company: Company.NLB,
-      route_id: r.routeId,
-      route: r.routeNo,
+      route_id: String(r.routeId),
+      route: String(r.routeNo),
       origin,
       destination,
     });
@@ -117,7 +117,7 @@ export function transformRouteStops(
 
     const stops: StopOutput[] = g.stops.map((s, i) => ({
       seq: i + 1,
-      stop_id: s.stopId,
+      stop_id: String(s.stopId),
       name: { en: s.stopName_e, tc: s.stopName_c, sc: s.stopName_s },
       lat: Number(s.latitude),
       long: Number(s.longitude),
@@ -126,8 +126,8 @@ export function transformRouteStops(
     out.push({
       record_id: nlbCompositeId(r.routeNo, r.routeId),
       company: Company.NLB,
-      route_id: r.routeId,
-      route: r.routeNo,
+      route_id: String(r.routeId),
+      route: String(r.routeNo),
       stops,
     });
   }

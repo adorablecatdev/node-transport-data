@@ -29515,6 +29515,17 @@
       },
       {
         "seq": 22,
+        "stop_id": "20023827",
+        "name": {
+          "en": "Wang Chi Court, Wang Chiu Road",
+          "tc": "宏照道, 近宏緻苑",
+          "sc": "宏照道, 近宏致苑"
+        },
+        "lat": 22.330362647984206,
+        "long": 114.20771688222887
+      },
+      {
+        "seq": 23,
         "stop_id": "20016643",
         "name": {
           "en": "Wang Chiu Road, near Bishop Paschang Catholic School",
@@ -29525,7 +29536,7 @@
         "long": 114.20844445221006
       },
       {
-        "seq": 23,
+        "seq": 24,
         "stop_id": "20000895",
         "name": {
           "en": "Ngau Tau Kok Road, outside Ngau Tau Kok Municipal Services Building",
@@ -29536,7 +29547,7 @@
         "long": 114.20861453426063
       },
       {
-        "seq": 24,
+        "seq": 25,
         "stop_id": "20016644",
         "name": {
           "en": "Wang Chiu Road, near Continental Electric Building",
@@ -29547,7 +29558,7 @@
         "long": 114.20891707856049
       },
       {
-        "seq": 25,
+        "seq": 26,
         "stop_id": "20007429",
         "name": {
           "en": "Lam Wah Street, opposite Lam Sheung Yuet Road, opposite Enterprise Square",
@@ -29558,7 +29569,7 @@
         "long": 114.2080989361559
       },
       {
-        "seq": 26,
+        "seq": 27,
         "stop_id": "20015225",
         "name": {
           "en": "Sheung Yee Road, near Modular Integrated Construction Display Centre, Zero Carbon Building",
@@ -29569,7 +29580,7 @@
         "long": 114.20780369569172
       },
       {
-        "seq": 27,
+        "seq": 28,
         "stop_id": "20017094",
         "name": {
           "en": "Kai Tin Road, near Kei Hong House",
@@ -29580,7 +29591,7 @@
         "long": 114.2350807785988
       },
       {
-        "seq": 28,
+        "seq": 29,
         "stop_id": "20018280",
         "name": {
           "en": "Kai Tin Road, near Lam Tin (West) Estate Community Centre",
@@ -29591,7 +29602,7 @@
         "long": 114.23399783670904
       },
       {
-        "seq": 29,
+        "seq": 30,
         "stop_id": "20017095",
         "name": {
           "en": "Tak Tin Street, opposite Kai Wong House",
@@ -29602,7 +29613,7 @@
         "long": 114.23459395766258
       },
       {
-        "seq": 30,
+        "seq": 31,
         "stop_id": "20017096",
         "name": {
           "en": "Lin Tak Road, outside Hong Yat Court",
@@ -29613,7 +29624,7 @@
         "long": 114.23523902893068
       },
       {
-        "seq": 31,
+        "seq": 32,
         "stop_id": "20016533",
         "name": {
           "en": "Pik Wan Road, Near Pik Wan Road Sitting - Out Area",
@@ -29624,7 +29635,7 @@
         "long": 114.23842073263425
       },
       {
-        "seq": 32,
+        "seq": 33,
         "stop_id": "20015066",
         "name": {
           "en": "Pik Wan Road, near Tak Tin Car Park, TAK TIN ESTATE",
@@ -29635,7 +29646,7 @@
         "long": 114.23908799886705
       },
       {
-        "seq": 33,
+        "seq": 34,
         "stop_id": "20016645",
         "name": {
           "en": "Pik Wan Road, near Tak Shing House, Tak Tin Estate",
@@ -29646,7 +29657,7 @@
         "long": 114.23922015785634
       },
       {
-        "seq": 34,
+        "seq": 35,
         "stop_id": "20016535",
         "name": {
           "en": "Pik Wan Road, Near Kwong Ching House, Kwong Tin Estate",
@@ -29657,7 +29668,7 @@
         "long": 114.23831931521073
       },
       {
-        "seq": 35,
+        "seq": 36,
         "stop_id": "20015068",
         "name": {
           "en": "Kwong Tin Shopping Centre, Kwong Tin Estate",
@@ -29668,7 +29679,7 @@
         "long": 114.2399637401104
       },
       {
-        "seq": 36,
+        "seq": 37,
         "stop_id": "20020169",
         "name": {
           "en": "Pik Wan Road southbound near Lamp Post No. AA 0454",
@@ -29679,7 +29690,7 @@
         "long": 114.24087166786195
       },
       {
-        "seq": 37,
+        "seq": 38,
         "stop_id": "20016646",
         "name": {
           "en": "Ko Chiu Road, near Pik Wan Road Rest Garden",
@@ -29690,7 +29701,7 @@
         "long": 114.2410677878339
       },
       {
-        "seq": 38,
+        "seq": 39,
         "stop_id": "20016647",
         "name": {
           "en": "Ko Chiu Road, near Ko Yuet House, Ko Yee Estate",
@@ -29701,7 +29712,7 @@
         "long": 114.24199816643429
       },
       {
-        "seq": 39,
+        "seq": 40,
         "stop_id": "20016630",
         "name": {
           "en": "Lei Yue Mun Estate Public Transport Interchange",
