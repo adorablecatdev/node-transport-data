@@ -70,6 +70,114 @@ type StopFinal = {
   lng: number;
 };
 
+// Upstream APIs occasionally change a field's JSON type (e.g. NLB stopId "1" -> 1).
+// TS types are erased at runtime, so coerce every string-typed field here and
+// then validate the final shape before anything is written to out/final.
+const asStr = (v: unknown): string => (v === null || v === undefined ? "" : String(v));
+const optStr = (v: unknown): string | undefined =>
+  v === null || v === undefined ? undefined : String(v);
+
+function normalizeLocalized(v: Localized): Localized {
+  return { en: asStr(v?.en), tc: asStr(v?.tc), sc: asStr(v?.sc) };
+}
+
+function normalizeRoute(r: RouteSource): RouteSource {
+  return {
+    ...r,
+    record_id: asStr(r.record_id),
+    route_id: optStr(r.route_id),
+    route:
+      typeof r.route === "object" && r.route !== null
+        ? normalizeLocalized(r.route)
+        : asStr(r.route),
+    bound: optStr(r.bound),
+    service_type: optStr(r.service_type),
+    region: optStr(r.region),
+    ctb_bound: optStr(r.ctb_bound),
+    origin: normalizeLocalized(r.origin),
+    destination: normalizeLocalized(r.destination),
+  };
+}
+
+function normalizeStop(s: RouteStopsSource["stops"][number]): RouteStopsSource["stops"][number] {
+  return {
+    ...s,
+    stop_id: asStr(s.stop_id),
+    ctb_stop_id: optStr(s.ctb_stop_id),
+    name: normalizeLocalized(s.name),
+  };
+}
+
+function validateFinal(
+  routes: Record<string, RouteFinal>,
+  stops: Record<string, StopFinal>,
+  stopRoutes: Record<string, Array<{ record_id: string; seq: number }>>,
+  geoIndex: Record<string, string[]>,
+): void {
+  const problems: string[] = [];
+  const show = (v: unknown) => JSON.stringify(v) ?? "undefined";
+  const str = (where: string, v: unknown) => {
+    if (typeof v !== "string") problems.push(`${where} = ${show(v)}`);
+  };
+  const optStrField = (where: string, v: unknown) => {
+    if (v !== undefined) str(where, v);
+  };
+  const num = (where: string, v: unknown, nullable = false) => {
+    if (typeof v !== "number" && !(nullable && v === null)) problems.push(`${where} = ${show(v)}`);
+  };
+  const localized = (where: string, v: unknown) => {
+    if (!v || typeof v !== "object") {
+      problems.push(`${where} = ${show(v)}`);
+      return;
+    }
+    for (const k of ["en", "tc", "sc"]) str(`${where}.${k}`, (v as Record<string, unknown>)[k]);
+  };
+
+  for (const [k, s] of Object.entries(stops)) {
+    str(`stops[${k}].stop_id`, s.stop_id);
+    str(`stops[${k}].company`, s.company);
+    optStrField(`stops[${k}].ctb_stop_id`, s.ctb_stop_id);
+    localized(`stops[${k}].name`, s.name);
+    num(`stops[${k}].lat`, s.lat, true);
+    num(`stops[${k}].lng`, s.lng, true);
+  }
+
+  for (const [k, r] of Object.entries(routes)) {
+    str(`routes[${k}].record_id`, r.record_id);
+    str(`routes[${k}].company`, r.company);
+    optStrField(`routes[${k}].route_id`, r.route_id);
+    optStrField(`routes[${k}].bound`, r.bound);
+    optStrField(`routes[${k}].service_type`, r.service_type);
+    optStrField(`routes[${k}].region`, r.region);
+    optStrField(`routes[${k}].ctb_bound`, r.ctb_bound);
+    if (r.route_seq !== undefined) num(`routes[${k}].route_seq`, r.route_seq);
+    if (typeof r.route === "string") str(`routes[${k}].route`, r.route);
+    else localized(`routes[${k}].route`, r.route);
+    localized(`routes[${k}].origin`, r.origin);
+    localized(`routes[${k}].destination`, r.destination);
+    r.stop_ids.forEach((id, i) => str(`routes[${k}].stop_ids[${i}]`, id));
+  }
+
+  for (const [k, list] of Object.entries(stopRoutes)) {
+    list.forEach((e, i) => {
+      str(`stop-routes[${k}][${i}].record_id`, e.record_id);
+      num(`stop-routes[${k}][${i}].seq`, e.seq);
+    });
+  }
+
+  for (const [k, list] of Object.entries(geoIndex)) {
+    list.forEach((id, i) => str(`geo-index[${k}][${i}]`, id));
+  }
+
+  if (problems.length > 0) {
+    const shown = problems.slice(0, 20).join("\n  ");
+    const more = problems.length > 20 ? `\n  ...and ${problems.length - 20} more` : "";
+    throw new Error(
+      `[parse] refusing to write out/final: ${problems.length} type problem(s)\n  ${shown}${more}`,
+    );
+  }
+}
+
 const GEOHASH_BASE32 = "0123456789bcdefghjkmnpqrstuvwxyz";
 
 function encodeGeohash(lat: number, lng: number, precision = 7): string {
@@ -151,6 +259,11 @@ export async function parseAll(): Promise<void> {
     }
 
     companiesProcessed++;
+
+    for (const [k, v] of Object.entries(routesData)) routesData[k] = normalizeRoute(v);
+    for (const rsData of Object.values(routeStopsData)) {
+      rsData.stops = rsData.stops.map(normalizeStop);
+    }
 
     for (const [recordId, route] of Object.entries(routesData)) {
       const rs = routeStopsData[recordId];
@@ -248,6 +361,8 @@ export async function parseAll(): Promise<void> {
       };
     }
   }
+
+  validateFinal(routes, stops, stopRoutes, geoIndex);
 
   await fs.mkdir(FINAL_DIR, { recursive: true });
   await Promise.all([

@@ -19138,125 +19138,132 @@
         },
         {
           "stop_seq": 22,
+          "stop_id": 20023827,
+          "name_tc": "宏照道, 近宏緻苑",
+          "name_sc": "宏照道, 近宏致苑",
+          "name_en": "Wang Chi Court, Wang Chiu Road"
+        },
+        {
+          "stop_seq": 23,
           "stop_id": 20016643,
           "name_tc": "宏照道, 近天主教柏德學校",
           "name_sc": "宏照道, 近天主教柏德学校",
           "name_en": "Wang Chiu Road, near Bishop Paschang Catholic School"
         },
         {
-          "stop_seq": 23,
+          "stop_seq": 24,
           "stop_id": 20000895,
           "name_tc": "宏照道, 九龍灣運動場外",
           "name_sc": "宏照道, 九龙湾运动场外",
           "name_en": "Ngau Tau Kok Road, outside Ngau Tau Kok Municipal Services Building"
         },
         {
-          "stop_seq": 24,
+          "stop_seq": 25,
           "stop_id": 20016644,
           "name_tc": "宏照道, 近康大電業大廈",
           "name_sc": "宏照道, 近康大电业大厦",
           "name_en": "Wang Chiu Road, near Continental Electric Building"
         },
         {
-          "stop_seq": 25,
+          "stop_seq": 26,
           "stop_id": 20007429,
           "name_tc": "常悅道, 企業廣場對面",
           "name_sc": "常悦道, 企业广场对面 ",
           "name_en": "Lam Wah Street, opposite Lam Sheung Yuet Road, opposite Enterprise Square"
         },
         {
-          "stop_seq": 26,
+          "stop_seq": 27,
           "stop_id": 20015225,
           "name_tc": "常怡道, 近零碳天地組裝合成建築法展現中心",
           "name_sc": "常怡道, 近零碳天地组装合成建筑法展现中心",
           "name_en": "Sheung Yee Road, near Modular Integrated Construction Display Centre, Zero Carbon Building"
         },
         {
-          "stop_seq": 27,
+          "stop_seq": 28,
           "stop_id": 20017094,
           "name_tc": "啟田道, 近祈康閣",
           "name_sc": "启田道, 近祈康阁",
           "name_en": "Kai Tin Road, near Kei Hong House"
         },
         {
-          "stop_seq": 28,
+          "stop_seq": 29,
           "stop_id": 20018280,
           "name_tc": "啟田道, 近藍田(西區)社區中心",
           "name_sc": "启田道, 近蓝田(西区)社区中心",
           "name_en": "Kai Tin Road, near Lam Tin (West) Estate Community Centre"
         },
         {
-          "stop_seq": 29,
+          "stop_seq": 30,
           "stop_id": 20017095,
           "name_tc": "德田街, 啟旺樓對面",
           "name_sc": "德田街, 启旺楼对面",
           "name_en": "Tak Tin Street, opposite Kai Wong House"
         },
         {
-          "stop_seq": 30,
+          "stop_seq": 31,
           "stop_id": 20017096,
           "name_tc": "連德道, 康逸苑外",
           "name_sc": "连德道, 康逸苑外",
           "name_en": "Lin Tak Road, outside Hong Yat Court"
         },
         {
-          "stop_seq": 31,
+          "stop_seq": 32,
           "stop_id": 20016533,
           "name_tc": "碧雲道, 近碧雲道休憩處",
           "name_sc": "碧云道, 近碧云道休憩处",
           "name_en": "Pik Wan Road, Near Pik Wan Road Sitting - Out Area"
         },
         {
-          "stop_seq": 32,
+          "stop_seq": 33,
           "stop_id": 20015066,
           "name_tc": "碧雲道, 近德田邨德田停車場",
           "name_sc": "碧云道, 近德田邨德田停车场",
           "name_en": "Pik Wan Road, near Tak Tin Car Park, TAK TIN ESTATE"
         },
         {
-          "stop_seq": 33,
+          "stop_seq": 34,
           "stop_id": 20016645,
           "name_tc": "碧雲道, 近德田邨德盛樓",
           "name_sc": "碧云道, 近德田村德盛楼",
           "name_en": "Pik Wan Road, near Tak Shing House, Tak Tin Estate"
         },
         {
-          "stop_seq": 34,
+          "stop_seq": 35,
           "stop_id": 20016535,
           "name_tc": "碧雲道, 近廣田邨廣靖樓",
           "name_sc": "碧云道, 近广田村广靖楼",
           "name_en": "Pik Wan Road, Near Kwong Ching House, Kwong Tin Estate"
         },
         {
-          "stop_seq": 35,
+          "stop_seq": 36,
           "stop_id": 20015068,
           "name_tc": "碧雲道, 廣田商場",
           "name_sc": "碧云道, 广田商场",
           "name_en": "Kwong Tin Shopping Centre, Kwong Tin Estate"
         },
         {
-          "stop_seq": 36,
+          "stop_seq": 37,
           "stop_id": 20020169,
           "name_tc": "碧雲道南行近燈柱編號 AA 0454",
           "name_sc": "碧云道南行近灯柱编号 AA 0454",
           "name_en": "Pik Wan Road southbound near Lamp Post No. AA 0454"
         },
         {
-          "stop_seq": 37,
+          "stop_seq": 38,
           "stop_id": 20016646,
           "name_tc": "高超道, 近碧雲道休憩花園",
           "name_sc": "高超道, 近碧云道休憩花园",
           "name_en": "Ko Chiu Road, near Pik Wan Road Rest Garden"
         },
         {
-          "stop_seq": 38,
+          "stop_seq": 39,
           "stop_id": 20016647,
           "name_tc": "高超道, 近高怡邨高悅樓",
           "name_sc": "高超道, 近高怡村高悦楼",
           "name_en": "Ko Chiu Road, near Ko Yuet House, Ko Yee Estate"
         },
         {
-          "stop_seq": 39,
+          "stop_seq": 40,
           "stop_id": 20016630,
           "name_tc": "鯉魚門邨公共運輸交匯處",
           "name_sc": "鲤鱼门邨公共运输交汇处",

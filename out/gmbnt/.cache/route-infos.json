@@ -16399,7 +16399,7 @@
                 "frequency_upper": 10
               }
             ],
-            "data_timestamp": "2026-10-10T23:00:40.756+08:00"
+            "data_timestamp": "2026-11-16T14:46:18.442+08:00"
           },
           {
             "route_seq": 2,
@@ -16482,10 +16482,10 @@
                 "frequency_upper": 10
               }
             ],
-            "data_timestamp": "2026-10-10T23:00:40.756+08:00"
+            "data_timestamp": "2026-11-16T14:46:18.442+08:00"
           }
         ],
-        "data_timestamp": "2026-10-10T23:00:40.756+08:00"
+        "data_timestamp": "2026-11-16T14:46:18.442+08:00"
       },
       {
         "route_id": 2006903,
@@ -16525,10 +16525,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-10-10T23:00:40.756+08:00"
+            "data_timestamp": "2026-11-16T14:51:15.357+08:00"
           }
         ],
-        "data_timestamp": "2026-10-10T23:00:40.756+08:00"
+        "data_timestamp": "2026-11-16T14:51:15.357+08:00"
       }
     ],
     "409": [
@@ -26326,10 +26326,10 @@
                 ],
                 "public_holiday": false,
                 "headway_seq": 1,
-                "start_time": "07:00:00",
+                "start_time": "06:45:00",
                 "end_time": "09:00:00",
-                "frequency": 12,
-                "frequency_upper": null
+                "frequency": 11,
+                "frequency_upper": 12
               },
               {
                 "weekdays": [
@@ -26400,7 +26400,7 @@
                 "frequency_upper": 30
               }
             ],
-            "data_timestamp": "2026-10-06T12:25:10.016+08:00"
+            "data_timestamp": "2026-11-16T10:21:20.749+08:00"
           },
           {
             "route_seq": 2,
@@ -26500,10 +26500,10 @@
                 "frequency_upper": 30
               }
             ],
-            "data_timestamp": "2026-10-06T12:25:10.016+08:00"
+            "data_timestamp": "2026-11-16T10:21:20.749+08:00"
           }
         ],
-        "data_timestamp": "2026-10-06T12:25:10.016+08:00"
+        "data_timestamp": "2026-11-16T10:21:20.749+08:00"
       }
     ],
     "117B": [
@@ -26539,16 +26539,16 @@
                 ],
                 "public_holiday": true,
                 "headway_seq": 1,
-                "start_time": "07:00:00",
-                "end_time": "19:30:00",
+                "start_time": "06:45:00",
+                "end_time": "19:45:00",
                 "frequency": 20,
                 "frequency_upper": 30
               }
             ],
-            "data_timestamp": "2026-10-30T23:50:40.356+08:00"
+            "data_timestamp": "2026-11-16T10:21:33.116+08:00"
           }
         ],
-        "data_timestamp": "2026-10-30T23:50:40.356+08:00"
+        "data_timestamp": "2026-11-16T10:21:33.116+08:00"
       }
     ],
     "117P": [
@@ -37988,10 +37988,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-10T00:01:43.235+08:00"
+            "data_timestamp": "2026-11-16T14:56:32.267+08:00"
           }
         ],
-        "data_timestamp": "2026-05-10T00:01:43.235+08:00"
+        "data_timestamp": "2026-11-16T14:56:32.267+08:00"
       }
     ],
     "409K": [
@@ -63177,10 +63177,10 @@
                 "frequency_upper": null
               }
             ],
-            "data_timestamp": "2026-05-17T00:02:03.904+08:00"
+            "data_timestamp": "2026-11-16T14:56:18.343+08:00"
           }
         ],
-        "data_timestamp": "2026-05-17T00:02:03.904+08:00"
+        "data_timestamp": "2026-11-16T14:56:18.343+08:00"
       },
       {
         "route_id": 2008602,
